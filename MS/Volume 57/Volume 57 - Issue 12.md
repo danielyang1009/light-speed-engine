@@ -1,0 +1,145 @@
+# Volume 57, Issue 12
+
+- December 2011
+- Pages iv-2250
+- 12 Articles
+
+## Issue Items:
+
+### 1. Management Insights
+#### Author(s):
+- Michael F. Gorman
+#### Date:
+- December 1, 2011
+#### Abstract:
+ Corporate Governance, Debt, and Investment Policy During the Great Depression (p. 2083) John R. Graham, Sonali Hazarika, Krishnamoorthy Narasimhan Is the corporate board an asset or a burden when responding to an economic downturn? The authors study what ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1492
+
+### 2. Corporate Governance, Debt, and Investment Policy During the Great Depression
+#### Author(s):
+- John R. Graham
+- Sonali Hazarika
+- Krishnamoorthy Narasimhan
+#### Date:
+- October 7, 2011
+#### Abstract:
+We study a period of severe disequilibrium to investigate whether board characteristics are related to corporate investment, debt usage, and firm value. During the 1930–1938 Depression era, when the corporate sector was shocked by an unprecedented ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1415
+
+### 3. How Do Acquirers Retain Successful Target CEOs? The Role of Governance
+#### Author(s):
+- Julie Wulf
+- Harbir Singh
+#### Date:
+- September 20, 2011
+#### Abstract:
+The resource-based view argues that acquisitions can build competitive advantage partially through retention of valuable human capital of the target firm. However, making commitments to retain and motivate successful top managers is a challenge when ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1414
+
+### 4. Monte Carlo Algorithms for Default Timing Problems
+#### Author(s):
+- Kay Giesecke
+- Baeho Kim
+- Shilin Zhu
+#### Date:
+- September 20, 2011
+#### Abstract:
+Dynamic, intensity-based point process models are widely used to measure and price the correlated default risk in portfolios of credit-sensitive assets such as loans and corporate bonds. Monte Carlo simulation is an important tool for performing ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1411
+
+### 5. Efficient Two-Dimensional Packing Algorithms for Mobile WiMAX
+#### Author(s):
+- Andrea Lodi
+- Silvano Martello
+- Michele Monaci
+- Claudio Cicconetti
+- Luciano Lenzini
+- Enzo Mingozzi
+- Carl Eklund
+- Jani Moilanen
+#### Date:
+- October 14, 2011
+#### Abstract:
+We present the result of research, developed within Nokia Siemens Networks, to solve the downlink sub-frame allocation problem in Mobile WiMAX (IEEE 802.16) technology in its full complexity, while simultaneously fulfilling real-life constraints on ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1416
+
+### 6. A Multiechelon Inventory Problem with Secondary Market Sales
+#### Author(s):
+- Alexandar Angelus
+#### Date:
+- October 14, 2011
+#### Abstract:
+We consider a finite-horizon, multiechelon inventory system in which the surplus of stock can be sold (i.e., disposed) in the secondary markets at each stage in the system. What are called nested echelon order-up-to policies are shown to be optimal for ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1419
+
+### 7. Stochastic Capacity Investment and Flexible vs. Dedicated Technology Choice in Imperfect Capital Markets
+#### Author(s):
+- Onur Boyabatlı
+- L. Beril Toktay
+#### Date:
+- August 12, 2011
+#### Abstract:
+This paper analyzes the impact of endogenous credit terms under capital market imperfections in a capacity investment setting. We model a monopolist firm that decides on its technology choice (flexible versus dedicated) and capacity level under demand ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1395
+
+### 8. Securitization and Real Investment in Incomplete Markets
+#### Author(s):
+- Vishal Gaur
+- Sridhar Seshadri
+- Marti G. Subrahmanyam
+#### Date:
+- March 23, 2010
+#### Abstract:
+We study the impact of financial innovations on real investment decisions within the framework of an incomplete market economy comprised of firms, investors, and an intermediary. The firms face unique investment opportunities that arise in their business ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1100.1155
+
+### 9. How Do Financial Firms Manage Risk? Unraveling the Interaction of Financial and Operational Hedging
+#### Author(s):
+- Kristine Watson Hankins
+#### Date:
+- September 28, 2009
+#### Abstract:
+This paper investigates how firms manage risk by examining the relationship between financial and operational hedging using a sample of bank holding companies. Risk management theory holds that capital market imperfections make cash flow volatility ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1090.1068
+
+### 10. Evaluating Value-at-Risk Models with Desk-Level Data
+#### Author(s):
+- Jeremy Berkowitz
+- Peter Christoffersen
+- Denis Pelletier
+#### Date:
+- January 28, 2009
+#### Abstract:
+We present new evidence on disaggregated profit and loss (P/L) and value-at-risk (VaR) forecasts obtained from a large international commercial bank. Our data set includes the actual daily P/L generated by four separate business lines within the bank. All ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1080.0964
+
+### 11. Multiechelon Procurement and Distribution Policies for Traded Commodities
+#### Author(s):
+- Ankur Goel
+- Genaro J. Gutierrez
+#### Date:
+- October 28, 2011
+#### Abstract:
+We consider a firm that procures and distributes a commodity from spot and forward markets under randomly fluctuating prices; the commodity is distributed downstream to a set of nonhomogeneous retailers to satisfy random demand. We formulate a model that ...
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1430
+
+### 12. Index to Volume 57
+#### Author(s):
+#### Date:
+- December 1, 2011
+#### Abstract:
+
+#### Link:
+- https://doi.org/10.1287/mnsc.1110.1479
+
