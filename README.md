@@ -6,8 +6,8 @@
 
 ## TODO
 
-- Get volume-issue table
-- Asynchronous HTTP requests
+- Test asynchronous HTTP requests (aiohttp)
+- Data Storage in JSON files
 - Add support to more sites
   - [Journal of Finance](https://onlinelibrary.wiley.com/loi/15406261)
   - [RFS]
@@ -17,13 +17,25 @@
 ### Future Function(s):
 
 - [ ] CLI support with `argparse`
-- [ ] Data Storage in JSON files
+- [ ] Re-Structure
+  - async/coroutine request for same issue(multiple articles)
+  - different magazine parsing (parse_ms(),..)
+    - items
+      - total articles?
+      - article title
+      - article authors
+      - date
+      - abstract
+      - link
+  - filesystem, make folders, and make/write dot md files
+- [ ] Async web-scraping with Golang
 - [ ] Mobile app support for both Android anad iOS ([Flutter](https://flutter.dev/))
 
 ## Version:
 
 ### v0.3
 
+- Add support for fetch volume, issue list for Management Science
 - Full support for Managment Science
 - Full abstract for Management Science
 - Add support for string volume, issue values
