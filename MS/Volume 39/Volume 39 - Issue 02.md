@@ -1,0 +1,104 @@
+# Volume 39, Issue 02
+- February 1993
+- Pages 135-253
+- David Simchi-Levi
+
+## 1. The Effects of Population Aging on the Physician Services Market: A Computable Equilibrium Analysis
+### Author(s):
+- Martcia Wade
+### Published:
+- 1 Feb 1993
+### Abstract:
+This paper formulates a computable equilibrium model (CEM) of the market for physician services. The simulation results based upon the CEM are consistent with widely held beliefs about the effects of aging on the health care sector, for example, that aggregate expenditures will increase as the population ages. In addition, however, the simulations suggest differential effects on prices and expenditures for various types of services and on expenditures by different types of consumers. For example, prices and aggregate expenditures for services typically used by the elderly are found to increase under older age distributions, whereas prices and aggregate expenditures for other services are found to decrease. Elderly women are found to be unequivocally worse off under older as opposed to younger age structures; they spend more yet consume fewer services.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.135
+
+## 2. The Diffusion of Flexible Manufacturing Systems in Japan, Europe and the United States
+### Author(s):
+- Edwin Mansfield
+### Published:
+- 1 Feb 1993
+### Abstract:
+This paper is concerned with the rate of diffusion of flexible manufacturing systems, one of the most important industrial applications of information technology. Using data from about 175 firms, I analyze diffusion rates in Japan, Western Europe and the United States, a major purpose being to determine whether, as is often claimed, U.S. firms have been relatively slow to introduce this innovation, and if so, why.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.149
+
+## 3. Heuristics for Pricing and Positioning a Product-Line Using Conjoint and Cost Data
+### Author(s):
+- Gregory Dobson
+- Shlomo Kalish
+### Published:
+- 1 Feb 1993
+### Abstract:
+Designing and pricing a product-line is the very essence of every business. In recent years quantitative methods to assist managers in this task have been gaining in popularity. Conjoint analysis is already widely used to measure preferences for different product profiles, and build market simulation models. In the last few years several papers have been published that suggest how to optimally choose a product-line based on such data.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.160
+
+## 4. Comparing the Calibration and Coherence of Numerical and Verbal Probability Judgments
+### Author(s):
+- Thomas S. Wallsten
+- David V. Budescu
+- Rami Zwick
+### Published:
+- 1 Feb 1993
+### Abstract:
+Despite the common reliance on numerical probability estimates in decision research and decision analysis, there is considerable interest in the use of verbal probability expressions to communicate opinion. A method is proposed for obtaining and quantitatively evaluating verbal judgments in which each analyst uses a limited vocabulary that he or she has individually selected and scaled. An experiment compared this method to standard numerical responding under three different payoff conditions. Response mode and payoff never interacted. Probability scores and their components were virtually identical for the two response modes and for all payoff groups. Also, judgments of complementary events were essentially additive under all conditions. The two response modes differed in that the central response category was used more frequently in the numerical than the verbal case, while overconfidence was greater verbally than numerically. Response distributions and degrees of overconfidence were also affected by payoffs. Practical and theoretical implications are discussed.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.176
+
+## 5. A Modeling Framework for Coordinating Promotion and Production Decisions within a Firm
+### Author(s):
+- Aram G. Sogomonian
+- Christopher S. Tang
+### Published:
+- 1 Feb 1993
+### Abstract:
+This paper presents a modeling framework for evaluating the benefits of coordinating promotion and production decisions over a finite planning horizon within a firm. These decisions include the timing and level of promotion, and the level of production. The modeling framework consists of the development of a baseline model and an integrated model. In the baseline (integrated) model, the firm would consider those promotion and production decisions separately (jointly). For each of the models, we formulate the problem that determines the optimal promotion and production decisions so that the total net profit is maximized as a mixed integer program. By exploiting the structure of the problem, we show that each problem can be reformulated as a longest path problem over a network. Hence, each problem can be solved efficiently. This solution approach enables us to evaluate the benefits of coordinating promotion and production decisions by comparing the total net profit generated by the baseline model to that of the integrated model.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.191
+
+## 6. A Lower Bound and an Efficient Heuristic for Multistage Multiproduct Distribution Systems
+### Author(s):
+- Paul Iyogun
+- Derek Atkins
+### Published:
+- 1 Feb 1993
+### Abstract:
+This paper concerns lot-sizing in a multistage and multifacility pure distribution network. A facility at the end of the distribution network experiences a deterministic and continuous demand. Each facility has an echelon holding cost rate for each item it distributes, and a facility-dependent set up cost. In this paper an algorithm is presented of complexity 0(rd log r) where r is the number of end facilities and d is the maximum depth of the distribution system. The algorithm exploits a lower bound obtained by decomposing the distribution network into facilities-in-series problems. Using a set up cost allocation procedure, the maximum of the continuous solution of the decomposed problem is obtained. This maximizing solution provides the lower bound which is used for solving the distribution problem. This gives a power-of-two heuristic with a worst case performance no more than 2% above optimal.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.204
+
+## 7. Organizational Simulation and Information Systems Design: An Operations Level Example
+### Author(s):
+- Arundhati Kumar
+- Peng Si Ow
+- Michael J. Prietula
+### Published:
+- 1 Feb 1993
+### Abstract:
+The interplay between organizational structure, the decisions made by agents within the structure, and the technology supporting those agents is an important and complex, but not well understood, phenomenon in modern organizational studies. In this paper we describe how simulating key aspects of an organization's structure, in this case a hospital, can yield insights into the design of information systems and their performance. In particular, we report on a project that simulates alternative distributed decision-making approaches for patient scheduling tasks. The results indicate that there are important and complicated interactions between the alternative organizational structures simulated, the form of the information systems supporting those structures, and the task environment. This suggests that current, universal, a priori assumptions about the interplay between technology and organizational structure are questionable. Furthermore, organization-specific simulation is seen as a potentially useful method of explicating the important tradeoffs in alternative design possibilities.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.218
+
+## 8. Mt/G/ Queues with Sinusoidal Arrival Rates
+### Author(s):
+- Stephen G. Eick
+- William A. Massey
+- Ward Whitt
+### Published:
+- 1 Feb 1993
+### Abstract:
+In this paper we describe the mean number of busy servers as a function of time in an Mt/G/ queue (having a nonhomogeneous Poisson arrival process) with a sinusoidal arrival rate function. For an Mt/G/ model with appropriate initial conditions, it is known that the number of busy servers at time t has a Poisson distribution for each t, so that the full distribution is characterized by its mean. Our formulas show how the peak congestion lags behind the peak arrival rate and how much less is the range of congestion than the range of offered load. The simple formulas can also be regarded as consequences of linear system theory, because the mean function can be regarded as the image of a linear operator applied to the arrival rate function. We also investigate the quality of various approximations for the mean number of busy servers such as the pointwise stationary approximation and several polynomial approximations. Finally, we apply the results for sinusoidal arrival rate functions to treat general periodic arrival rate functions using Fourier series. These results are intended to provide a better understanding of the behavior of the Mt/G/ model and related Mt/G/s/r models where some customers are lost or delayed.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.241
+
+## 9. Erratum: Dynamic Bargaining with Transaction Costs
+### Author(s):
+- Peter C. Cramton
+### Published:
+- 1 Feb 1993
+### Abstract:
+Erratum to Cramton, Peter C. 1991. Dynamic bargaining with transaction costs. Management Sci.37 12211233.
+### Link:
+- https://doi.org/10.1287/mnsc.39.2.253
+

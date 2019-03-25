@@ -1,68 +1,65 @@
 # Volume 63, Issue 3
-
 - March 2017
 - Pages 587-900
-- 16 Articles
+- David Simchi-Levi
 
-## Issue Items:
-
-### 1. Adverse Incentives in Crowdfunding
-#### Author(s):
+## 1. Adverse Incentives in Crowdfunding
+### Author(s):
 - Thomas Hildebrand
 - Manju Puri
 - Jörg Rocholl
-#### Date:
-- March 7, 2016
-#### Abstract:
-This paper analyzes the substantially growing markets for crowdfunding, in which retail investors lend to borrowers without financial intermediaries. Critics suggest that these markets allow sophisticated investors to take advantage of unsophisticated ...
-#### Link:
+### Published:
+- 7 Mar 2016
+### Abstract:
+This paper analyzes the substantially growing markets for crowdfunding, in which retail investors lend to borrowers without financial intermediaries. Critics suggest that these markets allow sophisticated investors to take advantage of unsophisticated investors. The growth and viability of these markets critically depend on the underlying incentives. We provide evidence of perverse incentives in crowdfunding that are not fully recognized by the market. In particular, we look at group leader bids in the presence of origination fees and find that these bids are (wrongly) perceived as a signal of good loan quality, resulting in lower interest rates. Yet these loans actually have higher default rates. These adverse incentives are overcome only with sufficient skin in the game and when there are no origination fees. The results from the analysis in this paper provide more general implications for crowdfunding, its structure, and its regulation.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2339
 
-### 2. Geography and the Market for CEOs
-#### Author(s):
+## 2. Geography and the Market for CEOs
+### Author(s):
 - Scott E. Yonker
-#### Date:
-- February 3, 2016
-#### Abstract:
-I examine the role of geography in the market for CEOs and find that firms hire locally five times more often than expected if geography were irrelevant to the matching process. This local matching bias is widespread and exists even among the largest U.S. ...
-#### Link:
+### Published:
+- 3 Feb 2016
+### Abstract:
+I examine the role of geography in the market for CEOs and find that firms hire locally five times more often than expected if geography were irrelevant to the matching process. This local matching bias is widespread and exists even among the largest U.S. firms. Tests reveal that both labor supply and demand influence local matching. Compensation and unforced turnover are lower for local than for nonlocal CEOs, and the compensation of local CEOs depends on local labor market factors, unlike that of nonlocal CEOs. These findings suggest the presence of market segmentation and contrast with much of the prior literature, which explicitly or implicitly assumes a single national market.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2319
 
-### 3. Frenemies: How Do Financial Firms Vote on Their Own Kind?
-#### Author(s):
+## 3. Frenemies: How Do Financial Firms Vote on Their Own Kind?
+### Author(s):
 - Aneel Keswani
 - David Stolin
 - Anh L. Tran
-#### Date:
-- February 2, 2016
-#### Abstract:
-The financial sector is unique in being largely self-governed: the majority of financial firms’ shares are held by other financial institutions. This raises the possibility that the monitoring of financial firms is especially undermined by conflicts of ...
-#### Link:
+### Published:
+- 2 Feb 2016
+### Abstract:
+The financial sector is unique in being largely self-governed: the majority of financial firms’ shares are held by other financial institutions. This raises the possibility that the monitoring of financial firms is especially undermined by conflicts of interest as a result of personal and professional links between these firms and their shareholders. To investigate this possibility, we scrutinize the aspect of the financial sector’s self-governance that is directly observable: mutual fund companies’ voting on their peers’ stocks. We find that considerations specific to investee firms’ membership in the same industry as their investors do indeed impact voting. This impact is in the direction of supporting the investee’s management. We show that the own-industry effect reduces director efficacy and lowers firm value as a result. We extend our analysis to other financial companies and show that they also tend to vote more favorably when it comes to their peers. Our results suggest that peer support is a corrupting factor in the financial sector’s governance.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2314
 
-### 4. The Disciplinary Effects of Proxy Contests
-#### Author(s):
+## 4. The Disciplinary Effects of Proxy Contests
+### Author(s):
 - Vyacheslav Fos
-#### Date:
-- February 29, 2016
-#### Abstract:
-Using a manually collected data set of all proxy contests from 1994 through 2012, I show that proxy contests play an important role in hostile corporate governance. Target shareholders benefit from proxy contests: the average abnormal returns reach 6.5% ...
-#### Link:
+### Published:
+- 29 Feb 2016
+### Abstract:
+Using a manually collected data set of all proxy contests from 1994 through 2012, I show that proxy contests play an important role in hostile corporate governance. Target shareholders benefit from proxy contests: the average abnormal returns reach 6.5% around proxy contest announcements. Proxy contests that address firms’ business strategies and undervaluation are most beneficial for shareholders. By contrast, proxy contests that aim at changing capital structure and governance do not lead to higher firm values. Relative to matching firms, future targets are smaller, they have higher stock liquidity, higher institutional and activist ownership, lower leverage and market valuation, and higher investments. Whereas most of these characteristics predict proxy contests in time series, prior to proxy contests, targets also experience poor stock performance, decreases in investments, increases in cash reserves and payouts to shareholders, and increases in management’s entrenchment. These changes in corporate policies are consistent with targets’ attempts to affect the probability of a proxy contest.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2340
 
-### 5. Target Firm-Specific Information and Acquisition Efficiency
-#### Author(s):
+## 5. Target Firm-Specific Information and Acquisition Efficiency
+### Author(s):
 - Xiumin Martin
 - Ron Shalev
-#### Date:
-- March 22, 2016
-#### Abstract:
-This study investigates whether firm-specific information about targets improves acquisition efficiency. We define acquisition efficiency as the total surplus generated by an acquisition and measure it as the difference in the value of the merged firm and ...
-#### Link:
+### Published:
+- 22 Mar 2016
+### Abstract:
+This study investigates whether firm-specific information about targets improves acquisition efficiency. We define acquisition efficiency as the total surplus generated by an acquisition and measure it as the difference in the value of the merged firm and the sum of the two firms operating separately. We find a positive association between target firm-specific information and acquisition efficiency that is driven mainly by diversifying acquisitions. Additional evidence suggests that both the likelihood of the withdrawal of an announced acquisition and the likelihood of a future divestiture of a target decrease with target firm-specific information. Taken together, our findings suggest that the availability of this information improves merger and acquisitions efficiency.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2371
 
-### 6. Distilling the Wisdom of Crowds: Prediction Markets vs. Prediction Polls
-#### Author(s):
+## 6. Distilling the Wisdom of Crowds: Prediction Markets vs. Prediction Polls
+### Author(s):
 - Pavel Atanasov
 - Phillip Rescober
 - Eric Stone
@@ -71,124 +68,124 @@ This study investigates whether firm-specific information about targets improves
 - Philip Tetlock
 - Lyle Ungar
 - Barbara Mellers
-#### Date:
-- April 22, 2016
-#### Abstract:
-We report the results of the first large-scale, long-term, experimental test between two crowdsourcing methods: prediction markets and prediction polls. More than 2,400 participants made forecasts on 261 events over two seasons of a geopolitical ...
-#### Link:
+### Published:
+- 22 Apr 2016
+### Abstract:
+We report the results of the first large-scale, long-term, experimental test between two crowdsourcing methods: prediction markets and prediction polls. More than 2,400 participants made forecasts on 261 events over two seasons of a geopolitical prediction tournament. Forecasters were randomly assigned to either prediction markets (continuous double auction markets) in which they were ranked based on earnings, or prediction polls in which they submitted probability judgments, independently or in teams, and were ranked based on Brier scores. In both seasons of the tournament, prices from the prediction market were more accurate than the simple mean of forecasts from prediction polls. However, team prediction polls outperformed prediction markets when forecasts were statistically aggregated using temporal decay, differential weighting based on past performance, and recalibration. The biggest advantage of prediction polls was at the beginning of long-duration questions. Results suggest that prediction polls with proper scoring feedback, collaboration features, and statistical aggregation are an attractive alternative to prediction markets for distilling the wisdom of crowds.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2374
 
-### 7. Does Lean Improve Labor Standards? Management and Social Performance in the Nike Supply Chain
-#### Author(s):
+## 7. Does Lean Improve Labor Standards? Management and Social Performance in the Nike Supply Chain
+### Author(s):
 - Greg Distelhorst
 - Jens Hainmueller
 - Richard M. Locke
-#### Date:
-- March 25, 2016
-#### Abstract:
-This study tests the hypothesis that lean manufacturing improves the social performance of manufacturers in emerging markets. We analyze an intervention by Nike, Inc., to promote the adoption of lean manufacturing in its apparel supply chain across 11 ...
-#### Link:
+### Published:
+- 25 Mar 2016
+### Abstract:
+This study tests the hypothesis that lean manufacturing improves the social performance of manufacturers in emerging markets. We analyze an intervention by Nike, Inc., to promote the adoption of lean manufacturing in its apparel supply chain across 11 developing countries. Using difference-in-differences estimates from a panel of more than 300 factories, we find that lean adoption was associated with a 15 percentage point reduction in noncompliance with labor standards that primarily reflect factory wage and work hour practices. However, we find a null effect on factory health and safety standards. This pattern is consistent with a causal mechanism that links lean to improved social performance through changes in labor relations, rather than improved management systems. These findings offer evidence that capability-building interventions may reduce social harm in global supply chains.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2369
 
-### 8. Temporal Profiles of Instant Utility During Anticipation, Event, and Recall
-#### Author(s):
+## 8. Temporal Profiles of Instant Utility During Anticipation, Event, and Recall
+### Author(s):
 - Manel Baucells
 - Silvia Bellezza
-#### Date:
-- April 26, 2016
-#### Abstract:
-We propose the anticipation-event-recall (AER) model. Set in a continuous time frame, the AER model formally links the three components of total utility (i.e., utility from anticipation, event utility, and utility from recall). The AER model predicts the ...
-#### Link:
+### Published:
+- 26 Apr 2016
+### Abstract:
+We propose the anticipation-event-recall (AER) model. Set in a continuous time frame, the AER model formally links the three components of total utility (i.e., utility from anticipation, event utility, and utility from recall). The AER model predicts the temporal profiles of instant utility experienced before, during, and after a given event. Total utility is calculated as the integral of instant utility. The model builds on the psychological elements of conceptual consumption, adaptation, and time distance. By virtue of its rich formulation, the AER model produces a wide set of insights and testable predictions, including the U shape of instant utility during anticipation and the optimal duration of anticipation for a given event. Using both real and hypothetical events, we provide empirical evidence in support of the main implications of the AER model.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2362
 
-### 9. Managing Catastrophic Climate Risks Under Model Uncertainty Aversion
-#### Author(s):
+## 9. Managing Catastrophic Climate Risks Under Model Uncertainty Aversion
+### Author(s):
 - Loïc Berger
 - Johannes Emmerling
 - Massimo Tavoni
-#### Date:
-- March 11, 2016
-#### Abstract:
-We propose a robust risk management approach to deal with the problem of catastrophic climate change that incorporates both risk and model uncertainty. Using an analytical model of abatement, we show how aversion to model uncertainty influences the ...
-#### Link:
+### Published:
+- 11 Mar 2016
+### Abstract:
+We propose a robust risk management approach to deal with the problem of catastrophic climate change that incorporates both risk and model uncertainty. Using an analytical model of abatement, we show how aversion to model uncertainty influences the optimal level of mitigation. We disentangle the role of preferences from the structure of model uncertainty, which we define by means of a simple measure of disagreement across models. With data from an expert elicitation about climate change catastrophes, we quantify the relative importance of these two effects and calibrate a numerical integrated assessment model of climate change. The results indicate that the structure of model uncertainty, and specifically how model disagreement varies in abatement, is the key driver of optimal abatement and that model uncertainty warrants a higher level of climate change mitigation.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2365
 
-### 10. It’s a Man’s Job: Income and the Gender Gap in Industrial Research
-#### Author(s):
+## 10. It’s a Man’s Job: Income and the Gender Gap in Industrial Research
+### Author(s):
 - Karin Hoisl
 - Myriam Mariani
-#### Date:
-- April 8, 2016
-#### Abstract:
-This study examines differences in income and job performance between women and men in creative, highly skilled jobs tasked with achieving technological inventions. By building on data pertaining to 9,692 inventors from 23 countries, this study shows that ...
-#### Link:
+### Published:
+- 8 Apr 2016
+### Abstract:
+This study examines differences in income and job performance between women and men in creative, highly skilled jobs tasked with achieving technological inventions. By building on data pertaining to 9,692 inventors from 23 countries, this study shows that female inventors represent only 4.2% of total inventors, and they earn about 14% less than their male peers. The gap persists even when controlling for sources of heterogeneity, the selection of inventors into types of jobs and tasks, and potential parenthood, instrumented by exploiting a source of variation related to religious practices. The income gap is not associated with differences in the quality of the inventions that female and male inventors produce. Thus, even in this human capital–intensive profession, where capabilities and education are important assets, and productivity differentials can be observed, women earn less than men, though they contribute to the development of high-quality inventions as much as men do.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2357
 
-### 11. A Dynamic Network Measure of Technological Change
-#### Author(s):
+## 11. A Dynamic Network Measure of Technological Change
+### Author(s):
 - Russell J. Funk
 - Jason Owen-Smith
-#### Date:
-- March 22, 2016
-#### Abstract:
-This article outlines a network approach to the study of technological change. We propose that new inventions reshape networks of interlinked technologies by shifting inventors’ attention to or away from the knowledge on which those inventions build. ...
-#### Link:
+### Published:
+- 22 Mar 2016
+### Abstract:
+This article outlines a network approach to the study of technological change. We propose that new inventions reshape networks of interlinked technologies by shifting inventors’ attention to or away from the knowledge on which those inventions build. Using this approach, we develop novel indexes of the extent to which a new invention consolidates or destabilizes existing technology streams. We apply these indexes in analyses of university research commercialization and find that, although federal research funding pushes campuses to create inventions that are more destabilizing, deeper commercial ties lead them to produce technologies that consolidate the status quo. By quantifying the effects that new technologies have on their predecessors, the indexes we propose allow patent-based studies of innovation to capture conceptually important phenomena that are not detectable with established measures. The measurement approach presented here offers empirical insights that support theoretical development in studies of innovation, entrepreneurship, technology strategy, science policy, and social network theory.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2366
 
-### 12. Crowd Wisdom Relies on Agents’ Ability in Small Groups with a Voting Aggregation Rule
-#### Author(s):
+## 12. Crowd Wisdom Relies on Agents’ Ability in Small Groups with a Voting Aggregation Rule
+### Author(s):
 - Marc Keuschnigg
 - Christian Ganser
-#### Date:
-- April 11, 2016
-#### Abstract:
-In the last decade, interest in the “wisdom of crowds” effect has gained momentum in both organizational research and corporate practice. Crowd wisdom relies on the aggregation of independent judgments. The accuracy of a group’s aggregate prediction rises ...
-#### Link:
+### Published:
+- 11 Apr 2016
+### Abstract:
+In the last decade, interest in the “wisdom of crowds” effect has gained momentum in both organizational research and corporate practice. Crowd wisdom relies on the aggregation of independent judgments. The accuracy of a group’s aggregate prediction rises with the number, ability, and diversity of its members. We investigate these variables’ relative importance for collective prediction using agent-based simulation. We replicate the “diversity trumps ability” proposition for large groups, showing that samples of heterogeneous agents outperform same-sized homogeneous teams of high ability. In groups smaller than approximately 16 members, however, the effects of group composition depend on the social decision function employed: diversity is key only in continuous estimation tasks (averaging) and much less important in discrete choice tasks (voting), in which agents’ individual abilities remain crucial. Thus, strategies to improve collective decision making must adapt to the predictive situation at hand.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2364
 
-### 13. Two New Features in Discrete Choice Experiments to Improve Willingness-to-Pay Estimation That Result in SDR and SADR: Separated (Adaptive) Dual Response
-#### Author(s):
+## 13. Two New Features in Discrete Choice Experiments to Improve Willingness-to-Pay Estimation That Result in SDR and SADR: Separated (Adaptive) Dual Response
+### Author(s):
 - Christian Schlereth
 - Bernd Skiera
-#### Date:
-- March 22, 2016
-#### Abstract:
-Discrete choice experiments such as choice-based conjoint and dual response are popular preference elicitation methods, yet, they can suffer from context effects, extreme response behavior, and problems with estimating consumers’ willingness to pay ...
-#### Link:
+### Published:
+- 22 Mar 2016
+### Abstract:
+Discrete choice experiments such as choice-based conjoint and dual response are popular preference elicitation methods, yet, they can suffer from context effects, extreme response behavior, and problems with estimating consumers’ willingness to pay accurately when the purchase probability is high. This study proposes two new features to avoid these limits: (a) strictly separating all forced and all free choice questions and (b) an adaptive mechanism to select fewer, but more informative, free choice questions. The use of these two features invokes two new discrete choice experiment methods: separated dual response (SDR), with just the first feature, and separated adaptive dual response (SADR), with both features. A conceptual comparison, simulation study, tests to address endogeneity concerns, and three empirical studies demonstrate the appeal of these two new features, relative to the benefits of existing discrete choice experiments, especially when estimating willingness to pay.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2367
 
-### 14. On the Impact of Uncertain Cost Reduction When Selling to Strategic Customers
-#### Author(s):
+## 14. On the Impact of Uncertain Cost Reduction When Selling to Strategic Customers
+### Author(s):
 - Stephen Shum
 - Shilu Tong
 - Tingting Xiao
-#### Date:
-- March 11, 2016
-#### Abstract:
-Many products undergo cost reductions over their product life cycles. However, strategic customers may have more incentive to wait if they expect a cost reduction to lead to a price drop. A firm that does not face any uncertainty can use pricing ...
-#### Link:
+### Published:
+- 11 Mar 2016
+### Abstract:
+Many products undergo cost reductions over their product life cycles. However, strategic customers may have more incentive to wait if they expect a cost reduction to lead to a price drop. A firm that does not face any uncertainty can use pricing strategies such as price commitment and price matching to alleviate the strategic waiting of customers. However, these pricing strategies provide less flexibility than dynamic pricing for a firm facing uncertainty. In this paper, we examine the impact of cost reduction under dynamic pricing, price commitment, and price matching when cost reduction can come from production learning or from technology advancement. The firm makes pricing decisions when facing uncertainty in future cost, and strategic customers decide whether to wait when facing uncertainty in future price. We show that in general the firm’s profit is higher when future cost is more uncertain, but not necessarily when cost reduction is more significant. In addition, production learning and technology advancement can have opposite effects on the optimal pricing decisions and the choice of pricing strategy.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2355
 
-### 15. Win-Win Capacity Allocation Contracts in Coproduction and Codistribution Alliances
-#### Author(s):
+## 15. Win-Win Capacity Allocation Contracts in Coproduction and Codistribution Alliances
+### Author(s):
 - Guillaume Roels
 - Christopher S. Tang
-#### Date:
-- March 14, 2016
-#### Abstract:
-In some strategic alliances, a firm shares its manufacturing capacity with another, and the latter shares its distribution capacity with the former. Even though such bidirectional alliances have become more common, they remain challenging to manage ...
-#### Link:
+### Published:
+- 14 Mar 2016
+### Abstract:
+In some strategic alliances, a firm shares its manufacturing capacity with another, and the latter shares its distribution capacity with the former. Even though such bidirectional alliances have become more common, they remain challenging to manage because of the frequent disputes over capacity allocation, especially when demand is uncertain. In this paper, we investigate whether there exists a contractual mechanism that can mitigate the extent of these disputes while improving the profits of all participating firms. We consider two types of bidirectional contracts, namely, the ex post transfer payment contract and the ex ante capacity reservation contract. By modeling the capacity allocation and the bidirectional contract design as a noncooperative game between two firms with noncompeting product lines, we show that, relative to a situation with no contract, either contract can improve the alliance’s total profit in equilibrium. In terms of distribution of the total surplus, we find that capacity reservation contracts always make both firms better off, whereas ex post transfer payment contracts may make one firm worse off. Hence, capacity reservation contracts are more likely to be implemented in practice in such bidirectional alliances.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2358
 
-### 16. Queueing Models of Case Managers
-#### Author(s):
+## 16. Queueing Models of Case Managers
+### Author(s):
 - Fernanda Campello
 - Armann Ingolfsson
 - Robert A. Shumsky
-#### Date:
-- March 22, 2016
-#### Abstract:
-Many service systems use case managers, servers who are assigned multiple customers and have frequent, repeated interactions with each customer until the customer’s service is completed. Examples may be found in healthcare (emergency department physicians)...
-#### Link:
+### Published:
+- 22 Mar 2016
+### Abstract:
+Many service systems use case managers, servers who are assigned multiple customers and have frequent, repeated interactions with each customer until the customer’s service is completed. Examples may be found in healthcare (emergency department physicians), contact centers (agents handling multiple online chats simultaneously) and social welfare agencies (social workers with multiple clients). We propose a stochastic model of a baseline case-manager system, formulate models that provide performance bounds and stability conditions for the baseline system, and develop two approximations, one of which is based on a two-time-scale approach. Numerical experiments and analysis of the approximations show that increasing case throughput by increasing the probability of case completion can lead to much greater waiting-time reductions than increasing service speed. Many systems place an upper limit on the number of customers simultaneously handled by each case manager. We examine the impact of these caseload limits on waiting time and describe effective, heuristic methods for setting these limits.
+### Link:
 - https://doi.org/10.1287/mnsc.2015.2368
 
