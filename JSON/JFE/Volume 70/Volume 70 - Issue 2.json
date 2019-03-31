@@ -1,0 +1,62 @@
+{
+    "journal": "JFE",
+    "volume": "70",
+    "issue": "2",
+    "date": "November 2003",
+    "page": "Pages 137-292",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Nov 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00250-2"
+        },
+        {
+            "no": "2",
+            "title": "Law, endowments, and finance",
+            "date": "Nov 2003",
+            "author": [
+                "Thorsten Beck",
+                "Asli Demirg\u00fc\u00e7-Kunt",
+                "Ross Levine"
+            ],
+            "abstract": "Using a sample of 70 former colonies, this paper assesses two theories regarding the historical determinants of financial development. The law and finance theory holds that legal traditions, brought by colonizers, differ in terms of protecting the rights of private investors vis-\u00e0-vis the state, with important implications for financial markets. The endowment theory argues that the disease environment encountered by colonizers influences the formation of long-lasting institutions that shape financial development. The empirical results provide evidence for both theories. However, initial endowments explain more of the cross-country variation in financial intermediary and stock market development.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00144-2"
+        },
+        {
+            "no": "3",
+            "title": "China share issue privatization: the extent of its success",
+            "date": "Nov 2003",
+            "author": [
+                "Qian Sun",
+                "Wilson H.S Tong"
+            ],
+            "abstract": "We evaluate the performance changes of 634 state-owned enterprises (SOEs) listed on China's two exchanges upon share issuing privatisation (SIP) in the period 1994\u20131998. We find that SIP is effective in improving SOEs\u2019 earnings ability, real sales, and workers\u2019 productivity but is not successful in improving profit returns and leverage after privatisation. We also find state ownership having negative impacts on firm performance and legal-person ownership having positive impacts on firm performance after SIP, which suggests that legal persons behave differently from the state government. Surprisingly, foreign ownership does not show uniformly strong, positive impacts on firm performance.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00145-4"
+        },
+        {
+            "no": "4",
+            "title": "Stock price reaction to news and no-news: drift and reversal after headlines",
+            "date": "Nov 2003",
+            "author": [
+                "Wesley S. Chan"
+            ],
+            "abstract": "Using a comprehensive database of headlines about individual companies, I examine monthly returns following public news. I compare them to stocks with similar returns, but no identifiable public news. There is a difference between the two sets. I find strong drift after bad news. Investors seem to react slowly to this information. I also find reversal after extreme price movements unaccompanied by public news. The separate patterns appear even after adjustments for risk exposure and other effects. They are, however, mainly seen in smaller, more illiquid stocks. These findings support some integrated theories of investor over- and underreaction.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00146-6"
+        },
+        {
+            "no": "5",
+            "title": "The maturity of debt issues and predictable variation in bond returns",
+            "date": "Nov 2003",
+            "author": [
+                "Malcolm Baker",
+                "Robin Greenwood",
+                "Jeffrey Wurgler"
+            ],
+            "abstract": "The maturity of new debt issues predicts excess bond returns. When the share of long-term debt issues in total debt issues is high, future excess bond returns are low. This predictive power comes in two parts. First, inflation, the real short-term rate, and the term spread predict excess bond returns. Second, these same variables explain the long-term share, and together account for much of its own ability to predict excess bond returns. The results are consistent with survey evidence that firms use debt market conditions in an effort to determine the lowest-cost maturity at which to borrow.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00147-8"
+        }
+    ]
+}

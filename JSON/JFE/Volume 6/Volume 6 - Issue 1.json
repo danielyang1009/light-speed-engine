@@ -1,0 +1,95 @@
+{
+    "journal": "JFE",
+    "volume": "6",
+    "issue": "1",
+    "date": "March 1978",
+    "page": "Pages 1-92",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Mar 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(78)90015-6"
+        },
+        {
+            "no": "2",
+            "title": "Editorial data",
+            "date": "Mar 1978",
+            "author": [
+                "Michael C. Jensen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(78)90016-8"
+        },
+        {
+            "no": "3",
+            "title": "The pricing of supershares",
+            "date": "Mar 1978",
+            "author": [
+                "Mark B. Garman"
+            ],
+            "abstract": "The new \u2018supershare\u2019 securities proposed by Hakansson (1977, 1976) are subject to the same sort of rickless-hedge combinations as are other forms of secondary securities such as stock options. In consequence, the prices of supershares must, even in the absence of distributional assumptions, obey certain pricing relationships with each other and with the underlying primary security. When the primary security is assumed in addition to follow a geometric Brownian motion process, exact supershare valuation formulae of the Black-Scholes (1973) type are obtained. The \u2018hedge portfolio algebra\u2019 of Garman (1976) is employed to make the analysis concise.",
+            "link": "https://doi.org/10.1016/0304-405X(78)90017-X"
+        },
+        {
+            "no": "4",
+            "title": "Generalized two parameter asset pricing models",
+            "date": "Mar 1978",
+            "author": [
+                "Robert R. Grauer"
+            ],
+            "abstract": "A series of empirically refutable generalized two parameter asset pricing models that linearly relate risk and return are identified for the power (and quadratic) utility members of the linear risk tolerance capital asset pricing models. Five possible power utility models and the mean variance model are tested to determine whether one model might provide a more accurate description of security pricing. The major empirical result is that the data do not allow us to distinguish between the models.",
+            "link": "https://doi.org/10.1016/0304-405X(78)90018-1"
+        },
+        {
+            "no": "5",
+            "title": "An arbitrage model of the term structure of interest rates",
+            "date": "Mar 1978",
+            "author": [
+                "Scott F. Richard"
+            ],
+            "abstract": "A formula for the price of default-free discount bonds of all maturities is found using a Black- Scholes type of arbitrage model which is based on the assumption that a portfolio of three default-free discount bonds of distinct maturities can be managed to be a perfect substitute for any other default-free discount bond. The formula relates the price of bonds to the real rate of interest, the anticipated rate of inflation and the equilibrium prices of interest rate and inflation risks. Bond prices are shown to be the expected value of the sure nominal proceeds of the bond discounted to the present at a random discount rate. It is shown that the unbiased expectations hypothesis is in general inconsistent with this model.",
+            "link": "https://doi.org/10.1016/0304-405X(78)90019-3"
+        },
+        {
+            "no": "6",
+            "title": "On the term structure of interest rates",
+            "date": "Mar 1978",
+            "author": [
+                "L.Uri Dothan"
+            ],
+            "abstract": "The paper presents a valuation formula for default free bonds for a certain class of tastes when the instantaneously riskfree rate of interest follows a geometric Wiener process. Properties of the resulting term structure of interest rates are studied, and an application of the analysis to the pricing of Treasury Bills is proposed.",
+            "link": "https://doi.org/10.1016/0304-405X(78)90020-X"
+        },
+        {
+            "no": "7",
+            "title": "Valuation of general contingent claims",
+            "date": "Mar 1978",
+            "author": [
+                "Alan Gleit"
+            ],
+            "abstract": "The Black-Scholes equation for the price u(x,t) of a call option for a single share of common stock with dividend policy d(x,t) is\n1\n2\n\u03c3\n2\nx\n2\nu\nxx\n+(rx\u2212d(x,t))u\nx\n\u2212ru\u2212u\nt\n=0, 0<x, 0<t<T\n, with boundary conditions u(x,0)=max(0,x\u2212E), 0\u2264x, u(0,t)=0, 0\u2264t\u2264T.",
+            "link": "https://doi.org/10.1016/0304-405X(78)90021-1"
+        },
+        {
+            "no": "8",
+            "title": "Notice of academic position vacancy",
+            "date": "Mar 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(78)90022-3"
+        },
+        {
+            "no": "9",
+            "title": "Journal of business finance and accounting",
+            "date": "Mar 1978",
+            "author": [
+                "J.R. Perrin"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(78)90023-5"
+        }
+    ]
+}

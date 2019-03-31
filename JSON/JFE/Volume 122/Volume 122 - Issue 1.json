@@ -1,0 +1,136 @@
+{
+    "journal": "JFE",
+    "volume": "122",
+    "issue": "1",
+    "date": "October 2016",
+    "page": "Pages 1-220",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Oct 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(16)30162-3"
+        },
+        {
+            "no": "2",
+            "title": "Taxes and leverage at multinational corporations",
+            "date": "May 2016",
+            "author": [
+                "Michael Faulkender",
+                "Jason M. Smith"
+            ],
+            "abstract": "Empirical research has struggled to show that variation in corporate capital structure arises from variation in estimated corporate income tax rates. We argue that, in previous studies, both the tax rates applied to multinational corporations and the taxable income earned have been mismeasured. Using the Bureau of Economic Analysis annual survey sample combined with each firm's income and country specific tax rate, we find that firms do have higher leverage ratios and lower interest coverage ratios when they operate in countries with higher tax rates, as theory would suggest. The trade-off theory of capital structure continues to have empirical support.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.05.011"
+        },
+        {
+            "no": "3",
+            "title": "Leverage dynamics over the business cycle",
+            "date": "Jul 2016",
+            "author": [
+                "Michael Halling",
+                "Jin Yu",
+                "Josef Zechner"
+            ],
+            "abstract": "Surprisingly little is known about the business cycle dynamics of leverage. The existing evidence documents that target leverage evolves pro-cyclically either for all firms or financially constrained ones. In contrast, we show that, on average, target leverage ratios evolve counter-cyclically once cyclicality is measured comprehensively, accounting for variation in explanatory variables and model parameters. These counter-cyclical dynamics are robust to different subsamples of firms, data samples, empirical models of leverage, and definitions of leverage. There is a fraction of 10\u201325% of firms with pro-cyclical dynamics whose characteristics are consistent with counter-cyclical dynamics for loss-given-default and probability of default.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.07.001"
+        },
+        {
+            "no": "4",
+            "title": "Reading the tea leaves: Model uncertainty, robust forecasts, and the autocorrelation of analysts\u2019 forecast errors",
+            "date": "Aug 2015",
+            "author": [
+                "Juhani T. Linnainmaa",
+                "Walter Torous",
+                "James Yae"
+            ],
+            "abstract": "We put forward a model in which analysts are uncertain about a firm\u2019s earnings process. Faced with the possibility of using a misspecified model, analysts issue forecasts that are robust to model misspecification. We estimate that this mechanism explains approximately 60% of the autocorrelation in analysts\u2019 forecast errors. The remainder stems from the cross-sectional variation in mean forecast errors and in analysts\u2019 estimation errors of the persistence of earnings growth shocks. Consistent with our model, we find that analysts learn about some features of the earnings process but not others, and this learning reduces, but does not eliminate, the autocorrelation of forecast errors as firms age. Other potential explanations for the autocorrelation of analyst forecast errors are rejected. Our model of robust forecasting applies not only to analysts\u2019 forecasts but also to all model-based forecasts.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.08.020"
+        },
+        {
+            "no": "5",
+            "title": "Are Friday announcements special? Overcoming selection bias",
+            "date": "May 2016",
+            "author": [
+                "Roni Michaely",
+                "Amir Rubin",
+                "Alexander Vedrashko"
+            ],
+            "abstract": "We report reduced market response to Friday announcements of dividend changes, seasoned equity offerings, share repurchases, earnings, and mergers, which is seemingly consistent with the notion of investor inattention on Fridays. However, we show that these findings are an outcome of selection bias. Firms that make announcements on Fridays experience reduced market response on any weekday and have common unobserved characteristics across announcement types. After correcting for selection bias, there is no evidence that investors pay less attention to announcements made on Fridays. The method introduced here is applicable to other studies in which an exogenous factor influencing firm performance can actually be associated with firm characteristics.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.05.006"
+        },
+        {
+            "no": "6",
+            "title": "Sovereign credit risk, liquidity, and European Central Bank intervention: Deus ex machina?",
+            "date": "Jun 2016",
+            "author": [
+                "Loriana Pelizzon",
+                "Marti G. Subrahmanyam",
+                "Davide Tomio",
+                "Jun Uno"
+            ],
+            "abstract": "We examine the dynamic relation between credit risk and liquidity in the Italian sovereign bond market during the eurozone crisis and the subsequent European Central Bank (ECB) interventions. Credit risk drives the liquidity of the market. A 10% change in the credit default swap (CDS) spread leads to a 13% change in the bid-ask spread, the relation being stronger when the CDS spread exceeds 500 basis points. The Long-Term Refinancing Operations of the ECB weakened the sensitivity of market makers\u2019 liquidity provision to credit risk, highlighting the importance of funding liquidity measures as determinants of market liquidity.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.06.001"
+        },
+        {
+            "no": "7",
+            "title": "Disaster recovery and the term structure of dividend strips",
+            "date": "Nov 2015",
+            "author": [
+                "Michael Hasler",
+                "Roberto Marf\u00e8"
+            ],
+            "abstract": "Recent empirical findings document downward-sloping term structures of equity return volatility and risk premia. An equilibrium model with rare disasters followed by recoveries helps reconcile theory with empirical observations. Indeed, recoveries outweigh the upward-sloping effect of time-varying disaster intensity and expected growth, generating downward-sloping term structures of dividend growth risk, equity return volatility, and equity risk premia. In addition, the term structure of interest rates is upward-sloping when accounting for recoveries and downward-sloping otherwise. The model quantitatively reconciles high risk premia and a low risk-free rate with the shape of the term structures, which are at odds in other models.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.11.002"
+        },
+        {
+            "no": "8",
+            "title": "Double bank runs and liquidity risk management",
+            "date": "Nov 2015",
+            "author": [
+                "Filippo Ippolito",
+                "Jos\u00e9-Luis Peydr\u00f3",
+                "Andrea Polo",
+                "Enrico Sette"
+            ],
+            "abstract": "By providing liquidity to depositors and credit-line borrowers, banks\u00a0can\u00a0be exposed to double-runs on assets and liabilities. For identification, we exploit the 2007 freeze of the European interbank market and the Italian Credit Register. After the shock, there are sizeable, aggregate double-runs. In the cross-section,\u00a0credit-line drawdowns are not larger for banks\u00a0more exposed to\u00a0the interbank market;\u00a0however, they are larger when we condition on the same firms with multiple credit lines. We\u00a0show that, ex-ante, more exposed banks actively manage their liquidity risk by granting\u00a0fewer credit lines to firms that run more\u00a0during\u00a0crises.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.11.004"
+        },
+        {
+            "no": "9",
+            "title": "Gambling preference and individual equity option returns",
+            "date": "Jun 2016",
+            "author": [
+                "Suk-Joon Byun",
+                "Da-Hea Kim"
+            ],
+            "abstract": "We investigate the relation between the option returns and the underlying stock's lottery-like characteristics. Call options written on the most lottery-like stocks underperform otherwise similar call options written on the least lottery-like stocks by 10\u201320% per month. Moreover, the more lottery-like the underlying stocks, the further and more frequently the options deviate from the put\u2013call parity in the direction induced by overvalued calls. Furthermore, the lottery-like characteristic effect is stronger during periods of high investor sentiment. The results suggest that optimism-induced gambling preference causes lottery-like options to be overvalued.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.06.004"
+        },
+        {
+            "no": "10",
+            "title": "Golden hellos: Signing bonuses for new top executives",
+            "date": "Nov 2015",
+            "author": [
+                "Jin Xu",
+                "Jun Yang"
+            ],
+            "abstract": "We examine signing bonuses awarded to executives hired for or promoted to named executive officer (NEO) positions at Standard & Poor's 1500 companies during the period 1992\u20132011. Executive signing bonuses are sizable and increasing in use, and they are labeled by the media as \u201cgolden hellos.\u201d We find that executive signing bonuses are mainly awarded at firms with greater information asymmetry and higher innate risks, especially to younger executives, to mitigate the executives\u2019 concerns about termination risk. When termination concerns are strong, signing bonus awards are associated with better performance and retention outcomes.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.11.003"
+        },
+        {
+            "no": "11",
+            "title": "Relative peer quality and firm performance",
+            "date": "Jun 2016",
+            "author": [
+                "Bill Francis",
+                "Iftekhar Hasan",
+                "Sureshbabu Mani",
+                "Pengfei Ye"
+            ],
+            "abstract": "We examine the performance impact of the relative quality of a Chief Executive Officer (CEO)\u2019s compensation peers (peers to determine a CEO's overall compensation) and bonus peers (peers to determine a CEO's relative-performance-based bonus). We use the fraction of peers with greater managerial ability scores (Demerjian, Lev, and McVay, 2012) than the reporting firm to measure this CEO's relative peer quality (RPQ). We find that firms with higher RPQ earn higher stock returns and experience higher profitability growth than firms with lower RPQ. Learning among peers and the increased incentive to work harder induced by the peer-based tournament contribute to RPQ's performance effect.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.06.002"
+        }
+    ]
+}

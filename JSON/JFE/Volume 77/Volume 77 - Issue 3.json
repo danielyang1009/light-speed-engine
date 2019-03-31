@@ -1,0 +1,94 @@
+{
+    "journal": "JFE",
+    "volume": "77",
+    "issue": "3",
+    "date": "September 2005",
+    "page": "Pages 483-702",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Sep 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(05)00141-8"
+        },
+        {
+            "no": "2",
+            "title": "Payout policy in the 21st century",
+            "date": "Jul 2004",
+            "author": [
+                "Alon Brav",
+                "John R. Graham",
+                "Campbell R. Harvey",
+                "Roni Michaely"
+            ],
+            "abstract": "We survey 384 financial executives and conduct in-depth interviews with an additional 23 to determine the factors that drive dividend and share repurchase decisions. Our findings indicate that maintaining the dividend level is on par with investment decisions, while repurchases are made out of the residual cash flow after investment spending. Perceived stability of future earnings still affects dividend policy as in Lintner (1956. American Economic Review 46, 97\u2013113). However, 50 years later, we find that the link between dividends and earnings has weakened. Many managers now favor repurchases because they are viewed as being more flexible than dividends and can be used in an attempt to time the equity market or to increase earnings per share. Executives believe that institutions are indifferent between dividends and repurchases and that payout policies have little impact on their investor clientele. In general, management views provide little support for agency, signaling, and clientele hypotheses of payout policy. Tax considerations play a secondary role.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.07.004"
+        },
+        {
+            "no": "3",
+            "title": "What drives merger waves?",
+            "date": "May 2004",
+            "author": [
+                "Jarrad Harford"
+            ],
+            "abstract": "Aggregate merger waves could be due to market timing or to clustering of industry shocks for which mergers facilitate change to the new environment. This study finds that economic, regulatory and technological shocks drive industry merger waves. Whether the shock leads to a wave of mergers, however, depends on whether there is sufficient overall capital liquidity. This macro-level liquidity component causes industry merger waves to cluster in time even if industry shocks do not. Market-timing variables have little explanatory power relative to an economic model including this liquidity component. The contemporaneous peak in divisional acquisitions for cash also suggests an economic motivation for the merger activity.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.05.004"
+        },
+        {
+            "no": "4",
+            "title": "Valuation waves and merger activity: The empirical evidence",
+            "date": "Jun 2004",
+            "author": [
+                "Matthew Rhodes\u2013Kropf",
+                "David T. Robinson",
+                "S. Viswanathan"
+            ],
+            "abstract": "To test recent theories suggesting that valuation errors affect merger activity, we develop a decomposition that breaks the market-to-book ratio (\nM\n/\nB\n) into three components: the firm-specific pricing deviation from short-run industry pricing; sector-wide, short-run deviations from firms\u2019 long-run pricing; and long-run pricing to book. We find strong support for recent theories by Rhodes-Kropf and Viswanathan [2004. Market valuation and merger waves. Journal of Finance, forthcoming] and Shleifer and Vishny [2003. Stock market driven acquisitions. Journal of Financial Economics 70, 295\u2013311], which predict that misvaluation drives mergers. So much of the behavior of\nM\n/\nB\nis driven by firm-specific deviations from short-run industry pricing, that long-run components of\nM\n/\nB\nrun counter to the conventional wisdom: Low long-run value to book firms buy high long-run value-to-book firms. Misvaluation affects who buys whom, as well as method of payment, and combines with neoclassical explanations to explain aggregate merger activity.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.06.015"
+        },
+        {
+            "no": "5",
+            "title": "Determinants and implications of arbitrage holdings in acquisitions",
+            "date": "Aug 2004",
+            "author": [
+                "Jim Hsieh",
+                "Ralph A. Walkling"
+            ],
+            "abstract": "We find evidence of passive and active roles for arbitrageurs in the acquisition process. Using a simultaneous-equation framework to recognize endogeneity, we analyze 608 acquisition bids over the 1992\u20131999 period. Our results indicate that the change in arbitrage holdings is greater in successful offers. However, changes in arbitrage holdings are also related to the probability of success, bid premia, and arbitrage returns. In addition, the change in arbitrage holdings is positively associated with both revision returns and the occurrence of subsequent bids. Overall, we find that merger arbitrageurs play an important role in the market for corporate control.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.08.003"
+        },
+        {
+            "no": "6",
+            "title": "The dynamics of mergers and acquisitions",
+            "date": "Oct 2004",
+            "author": [
+                "Erwan Morellec",
+                "Alexei Zhdanov"
+            ],
+            "abstract": "This paper presents a dynamic model of takeovers based on the stock market valuations of merging firms. The model incorporates competition and imperfect information and determines the terms and timing of takeovers by solving option exercise games between bidding and target shareholders. The implications of the model for returns to stockholders are consistent with the available evidence. In addition, the model generates new predictions relating these returns to the drift, volatility and correlation coefficient of the bidder and the target stock returns and to the dispersion of beliefs regarding the benefits of the takeover.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.10.009"
+        },
+        {
+            "no": "7",
+            "title": "Does it pay to be loyal? An empirical analysis of underwriting relationships and fees",
+            "date": "Aug 2004",
+            "author": [
+                "Timothy R. Burch",
+                "Vikram Nanda",
+                "Vincent Warther"
+            ],
+            "abstract": "We examine underwriting fees for repeat issuers of new securities to determine the relation between loyalty to an underwriting bank and the fees charged. For a sample of offers over the 1975\u20132001 period, we find that loyalty is associated with lower fees for common stock offers, consistent with valuable relationship capital being built through loyalty. For debt offers, however, we find the opposite pattern, consistent with relationship capital not being as valuable. For both offer types, firms that graduate to higher-quality banks face lower fees. Firms that are more likely to be switching banks to improve analyst coverage face higher fees for common stock offers, but not for debt offers.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.08.007"
+        },
+        {
+            "no": "8",
+            "title": "Index to volume 77",
+            "date": "Sep 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(05)00146-7"
+        }
+    ]
+}

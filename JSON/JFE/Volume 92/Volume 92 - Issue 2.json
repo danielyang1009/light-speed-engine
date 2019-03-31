@@ -1,0 +1,105 @@
+{
+    "journal": "JFE",
+    "volume": "92",
+    "issue": "2",
+    "date": "May 2009",
+    "page": "Pages 153-320",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "May 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(09)00069-5"
+        },
+        {
+            "no": "2",
+            "title": "Do liquidity measures measure liquidity?",
+            "date": "Jun 2008",
+            "author": [
+                "Ruslan Y. Goyenko",
+                "Craig W. Holden",
+                "Charles A. Trzcinka"
+            ],
+            "abstract": "Given the key role of liquidity in finance research, identifying high quality proxies based on daily (as opposed to intraday) data would permit liquidity to be studied over relatively long timeframes and across many countries. Using new measures and widely employed measures in the literature, we run horseraces of annual and monthly estimates of each measure against liquidity benchmarks. Our benchmarks are effective spread, realized spread, and price impact based on both Trade and Quote (TAQ) and Rule 605 data. We find that the new effective/realized spread measures win the majority of horseraces, while the Amihud [2002. Illiquidity and stock returns: cross-section and time-series effects. Journal of Financial Markets 5, 31\u201356] measure does well measuring price impact.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.06.002"
+        },
+        {
+            "no": "3",
+            "title": "Synchronicity and firm interlocks in an emerging market",
+            "date": "Mar 2008",
+            "author": [
+                "Tarun Khanna",
+                "Catherine Thomas"
+            ],
+            "abstract": "Stock price synchronicity has been attributed to poor corporate governance and a lack of firm-level transparency. This paper investigates the association between different kinds of firm interlocks, control groups, and synchronicity in Chile. A unique data set containing equity cross-holdings, common individual owners, and director interlocks is used to map out firm ties and control groups. While there is a correlation between synchronicity and share ownership and equity ties, synchronicity is more strongly correlated with interlocking directorates. The presence of share directors is associated with either reduced firm-level transparency or increased correlation in firm fundamentals\u2014due, for example, to joint resource allocation across the firms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.03.005"
+        },
+        {
+            "no": "4",
+            "title": "Founders, heirs, and corporate opacity in the United States",
+            "date": "Apr 2008",
+            "author": [
+                "Ronald C. Anderson",
+                "Augustine Duru",
+                "David M. Reeb"
+            ],
+            "abstract": "We argue that information about firm activities can vary substantially in the presence of founder or heir ownership, thereby influencing the risks borne by minority investors. We explore two hypotheses with regard to these controlling shareholders and corporate transparency, focusing on their role as monitor in-place and their potential to exploit firm opacity to accrue private benefits of control. To test these notions, we create an opacity index that ranks the relative transparency of the two thousand largest industrial US firms and find founder and heir ownership in 22% and 25% of these firms, respectively. Our analysis indicates that, in large, publicly traded companies, both founder and heir firms are significantly more opaque than diffuse shareholder firms. We also find that founder and heir-controlled firms exhibit a negative relation to performance in all but the most transparent firms. Surprisingly, additional tests reveal that concerns about divergences in ownership versus control (management type, dual class shares, and board influence) appear to be substantially less important than corporate opacity in explaining the performance impacts of founder and heir control. Finally, we decompose corporate opacity into disclosure and market scrutiny components, finding that the disclosure quality component appears to be of greater importance to investors. However, irrespective of whether these controlling shareholders create or stay in the firm because of corporate opacity, our analysis suggests that founders and heirs in large, publicly traded firms exploit opacity to extract private benefits at the expense of minority investors.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.04.006"
+        },
+        {
+            "no": "5",
+            "title": "Individual investor mutual fund flows",
+            "date": "May 2008",
+            "author": [
+                "Zoran Ivkovi\u0107",
+                "Scott Weisbenner"
+            ],
+            "abstract": "This paper studies the relation between individuals\u2019 mutual fund flows and fund characteristics, establishing three key results. First, consistent with tax motivations, individual investors are reluctant to sell mutual funds that have appreciated in value and are willing to sell losing funds. Second, individuals pay attention to investment costs as redemption decisions are sensitive to both expense ratios and loads. Third, individuals\u2019 fund-level inflows and outflows are sensitive to performance, but in different ways. Inflows are related only to \u201crelative\u201d performance, suggesting that new money chases the best performers in an objective. Outflows are related only to \u201cabsolute\u201d fund performance, the relevant benchmark for taxes.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.05.003"
+        },
+        {
+            "no": "6",
+            "title": "Capital expenditures, financial constraints, and the use of options",
+            "date": "Apr 2008",
+            "author": [
+                "Tim Adam"
+            ],
+            "abstract": "This paper analyzes why gold mining firms use options instead of linear strategies to hedge their gold price risk. Consistent with financial constraints based theories, the largest and least financially constrained firms are the most likely to hedge with insurance strategies (put options), while more constrained firms finance the purchase of puts by selling calls (collars). The most financially constrained firms use strategies that involve selling calls. Firms with large investment programs are also more likely to use insurance rather than linear strategies. Firms\u2019 hedging instrument choices are also correlated with current market conditions, suggesting that managers\u2019 market views partially drive hedging instrument choices.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.04.007"
+        },
+        {
+            "no": "7",
+            "title": "City size and fund performance",
+            "date": "Jun 2008",
+            "author": [
+                "Susan E.K. Christoffersen",
+                "Sergei Sarkissian"
+            ],
+            "abstract": "The literature predicts that the average skill level and productivity are higher in larger cities. Prior studies use workers\u2019 wage or education differentials to indirectly link city size and output. This article relates city size and productivity directly, using performance data of U.S. equity mutual funds. On average, funds in financial centers perform better than other funds in terms of both gross and risk-adjusted returns, but this difference is driven only by more experienced managers. Among funds in financial centers there is strong evidence of a positive relation between performance and manager experience in a given city, especially among New York funds. More importantly, we observe performance improvements of the same manager at the same fund in financial centers but not elsewhere. Our tests provide novel evidence of knowledge spillovers and learning in cities.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.06.001"
+        },
+        {
+            "no": "8",
+            "title": "Dividend policy, creditor rights, and the agency costs of debt",
+            "date": "Mar 2008",
+            "author": [
+                "Paul Brockman",
+                "Emre Unlu"
+            ],
+            "abstract": "We show that country-level creditor rights influence dividend policies around the world by establishing the balance of power between debt and equity claimants. Creditors demand and managers consent to a more restrictive payout policy as a substitute for weak creditor rights in an effort to minimize the firm's agency costs of debt. Using a sample of 120,507 firm-years from 52 countries, we find that both the probability and amount of dividend payouts are significantly lower in countries with poor creditor rights. A reduction in the creditor rights index from its highest value to its lowest value implies a 41% reduction in the probability of paying a dividend, and a 60% reduction in dividend payout ratios. These results are robust to numerous control variables, sample variations, model specifications, and alternative hypotheses. We also show that the agency costs of debt play a more decisive role in determining dividend policies than the previously documented agency costs of equity. Overall, our findings contribute to the growing literature arguing that creditors exert significant influence over corporate decision-making outside of bankruptcy.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.03.007"
+        },
+        {
+            "no": "9",
+            "title": "Asymmetric information effects on loan spreads",
+            "date": "Jun 2008",
+            "author": [
+                "Victoria Ivashina"
+            ],
+            "abstract": "This paper estimates the cost arising from information asymmetry between the lead bank and members of the lending syndicate. In a lending syndicate, the lead bank retains only a fraction of the loan but acts as the intermediary between the borrower and the syndicate participants. Theory predicts that asymmetric information will cause participants to demand a higher interest rate and that a large loan ownership by the lead bank should reduce this effect. In equilibrium, however, the asymmetric information premium demanded by participants is offset by the diversification premium demanded by the lead. Using shifts in the idiosyncratic credit risk of the lead bank's loan portfolio as an instrument, I measure the asymmetric information effect of the lead's share on the loan spread and find that it accounts for approximately 4% of the total cost of credit.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.06.003"
+        }
+    ]
+}

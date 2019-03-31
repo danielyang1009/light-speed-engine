@@ -1,0 +1,145 @@
+{
+    "journal": "JFE",
+    "volume": "19",
+    "issue": "1",
+    "date": "September 1987",
+    "page": "Pages 1-192",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Sep 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(87)90024-9"
+        },
+        {
+            "no": "2",
+            "title": "Editorial data",
+            "date": "Sep 1987",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Clifford W. Smith",
+                "Ren\u00e9M. Stulz",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(87)90025-0"
+        },
+        {
+            "no": "3",
+            "title": "Expected stock returns and volatility",
+            "date": "Sep 1987",
+            "author": [
+                "Kenneth R. French",
+                "G.William Schwert",
+                "Robert F. Stambaugh"
+            ],
+            "abstract": "This paper examines the relation between stock returns and stock market volatility. We find evidence that the expected market risk premium (the expected return on a stock portfolio minus the Treasury bill yield) is positively related to the predictable volatility of stock returns. There is also evidence that unexpected stock market returns are negatively related to the unexpected change in the volatility of stock returns. This negative relation provides indirect evidence of a positive relation between expected risk premiums and volatility.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90026-2"
+        },
+        {
+            "no": "4",
+            "title": "Dividends, taxes, and common stock prices",
+            "date": "Sep 1987",
+            "author": [
+                "Michael J. Barclay"
+            ],
+            "abstract": "This study examines the ex-dividend day behavior of common stock prices before the enactment of the federal income tax. On ex-dividend days during the pre-tax period, stock prices fell, on average, by the full amount of the dividend. The data are consistent with the hypothesis that (i) investors in the pre-tax period value dividends and capital gains as perfect substitutes and (ii) the differential taxation of dividends and capital gains has since caused investors to discount the value of taxable cash dividends in relation to capital gains.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90027-4"
+        },
+        {
+            "no": "5",
+            "title": "The determinants of yields on financial leasing contracts",
+            "date": "Sep 1987",
+            "author": [
+                "James S. Schallheim",
+                "Ramon E. Johnson",
+                "Ronald C. Lease",
+                "John J. McConnell"
+            ],
+            "abstract": "This study tests hypotheses about the valuation of leasing contracts. We examine the determinants of the yields of a relatively large, reasonably heterogeneous, and nationally representative sample of financial leases. We find lease yields to be significantly related to treasury bond yields and our proxies for the systematic risk of the leased asset's residual value and the transaction and information costs associated with the lease. There is also some evidence of a relationship between lease yields and the default-risk of the lessee.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90028-6"
+        },
+        {
+            "no": "6",
+            "title": "Price, trade size, and information in securities markets",
+            "date": "Sep 1987",
+            "author": [
+                "David Easley",
+                "Maureen O'Hara"
+            ],
+            "abstract": "This paper investigates the effect of trade size on security prices. We show that trade size introduces an adverse selection problem into security trading because, given that they wish to trade, informed traders perfer to trade larger amounts at any given price. As a result, market makers' pricing strategies must also depend on trade size, with large trades being made at less favorable prices. Our model provides one explanation for the price effect of block trades and demonstrates that both the size and the sequence of trades matter in determining the price-trade size relationship.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90029-8"
+        },
+        {
+            "no": "7",
+            "title": "Convertible call policies",
+            "date": "Sep 1987",
+            "author": [
+                "Aharon R. Ofer",
+                "Ashok Natarajan"
+            ],
+            "abstract": "This paper tests an information-signaling hypothesis as a potential explanation for corporate convertible bond call policies and for the negative share price reaction to the announcement of the calls. We test this hypothesis by trying to ascertain whether the information signaled is realized. Our results show an unexpected decline in the firm's performance subsequent to the call. We also find significant negative cumulative returns during a sixty-month period following the calls.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90030-4"
+        },
+        {
+            "no": "8",
+            "title": "Firm value and seasoned equity issues",
+            "date": "Sep 1987",
+            "author": [
+                "Avner Kalay",
+                "Adam Shimrat"
+            ],
+            "abstract": "Announcements of new equity issues have been seen to have a negative effect on stock prices. Potential explanations of this negative effect - the price-pressure, wealth-redistribution, and information-release hypotheses - imply different bond-price reactions to the announcements. By investigating bond-price behavior around the announcement of new equity issues this paper distinguishes the relative importance of these hypotheses. The evidence presented of a significant drop in bond prices is consistent with the information-release hypotheses.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90031-6"
+        },
+        {
+            "no": "9",
+            "title": "Shark repellents and stock prices",
+            "date": "Sep 1987",
+            "author": [
+                "Gregg A. Jarrell",
+                "Annette B. Poulsen"
+            ],
+            "abstract": "Antitakeover amendments (shark repellents) restrict the transfer of corporate control. On average, the public announcement of antitakeover amendments by 600 firms in the period 1979\u20131985 has an insignificant effect on the value of announcing firms' shares. However, different types of amendments have varying effects. Non-fair-price amendments have an average significant negative effect of 2.95% on share prices, while fair-price amendments have an insignificant effect. The more harmful amendments have larger insider holdings and lower institutional holdings, suggesting a partial explanation of why shareholders approve these amendments.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90032-8"
+        },
+        {
+            "no": "10",
+            "title": "Testing for market timing ability",
+            "date": "Sep 1987",
+            "author": [
+                "Robert E. Cumby",
+                "David M. Modest"
+            ],
+            "abstract": "In this paper we examine the Henriksson-Merton test of market timing and its potential usefulness in evaluating investment advice. The paper proposes a natural extension of the test that is valid under more general assumptions about the distribution of asset returns. We show that the Henriksson-Merton test and its more general counterpart are special cases of standard tests of market rationality and efficiency. Both tests are applied to a group of foreign exchange advisory services.",
+            "link": "https://doi.org/10.1016/0304-405X(87)90033-X"
+        },
+        {
+            "no": "11",
+            "title": "1988 risk theory seminar",
+            "date": "Sep 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(87)90034-1"
+        },
+        {
+            "no": "12",
+            "title": "1988 annual meetings of the western finance association",
+            "date": "Sep 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(87)90035-3"
+        },
+        {
+            "no": "13",
+            "title": "Second international conference finance",
+            "date": "Sep 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(87)90036-5"
+        }
+    ]
+}

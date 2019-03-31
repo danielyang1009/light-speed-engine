@@ -1,0 +1,123 @@
+{
+    "journal": "JFE",
+    "volume": "118",
+    "issue": "1",
+    "date": "October 2015",
+    "page": "Pages 1-210",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Oct 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(15)00158-0"
+        },
+        {
+            "no": "2",
+            "title": "Measuring skill in the mutual fund industry",
+            "date": "May 2015",
+            "author": [
+                "Jonathan B. Berk",
+                "Jules H. van Binsbergen"
+            ],
+            "abstract": "Using the value that a mutual fund extracts from capital markets as the measure of skill, we find that the average mutual fund has used this skill to generate about $3.2 million per year. Large cross-sectional differences in skill persist for as long as ten years. Investors recognize this skill and reward it by investing more capital with better funds. Better funds earn higher aggregate fees, and a strong positive correlation exists between current compensation and future performance. The cross-sectional distribution of managerial skill is predominantly reflected in the cross-sectional distribution of fund size, not gross alpha.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.05.002"
+        },
+        {
+            "no": "3",
+            "title": "Motivated monitors: The importance of institutional investors\u05f3 portfolio weights",
+            "date": "Jun 2015",
+            "author": [
+                "Eliezer M. Fich",
+                "Jarrad Harford",
+                "Anh L. Tran"
+            ],
+            "abstract": "Studies of institutional monitoring focus on the fraction of the firm held by institutions. We focus on the fraction of the institution\u05f3s portfolio represented by the firm. In the context of acquisitions, we hypothesize that institutional monitoring will be greatest when the target firm represents a significant allocation of funds in the institution\u05f3s portfolio. We show that this measure is important in reconciling mixed findings for total institutional ownership in the prior literature. The results indicate that our measure of institutional holdings leads to greater bid completion rates, higher premiums, and lower acquirer returns. This empirical evidence provides support for theories predicting a beneficial effect of blockholders in monitoring the firm in general and in enhancing the gains to takeover targets in particular.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.06.014"
+        },
+        {
+            "no": "4",
+            "title": "Employee rights and acquisitions",
+            "date": "Jun 2015",
+            "author": [
+                "Kose John",
+                "Anzhela Knyazeva",
+                "Diana Knyazeva"
+            ],
+            "abstract": "This paper examines the outcomes and characteristics of corporate acquisitions from the perspective of stakeholder-shareholder agency conflicts. Using state variation in labor protections, we find that acquirers with strong labor rights experience lower announcement returns. Combined acquirer and target announcement returns are also lower in the presence of strong labor rights. Our findings remain statistically and economically significant after we control for a range of deal, firm, industry and state characteristics and explore various channels for the labor rights effect. Overall, the evidence indicates that employee-shareholder conflicts of interest reduce shareholder gains from acquisitions.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.06.001"
+        },
+        {
+            "no": "5",
+            "title": "Dark trading and price discovery",
+            "date": "Jun 2015",
+            "author": [
+                "Carole Comerton-Forde",
+                "T\u0101lis J. Putni\u0146\u0161"
+            ],
+            "abstract": "Regulators globally are concerned that dark trading harms price discovery. We show that dark trades are less informed than lit trades. High levels of dark trading increase adverse selection risk on the lit exchange by increasing the concentration of informed traders. Using both high- and low-frequency measures of informational efficiency we find that low levels of non-block dark trading are benign or even beneficial for informational efficiency, but high levels are harmful. In contrast, we find no evidence that block trades in the dark impede price discovery.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.06.013"
+        },
+        {
+            "no": "6",
+            "title": "Wealth transfers via equity transactions",
+            "date": "Jul 2015",
+            "author": [
+                "Richard G. Sloan",
+                "Haifeng You"
+            ],
+            "abstract": "Previous research indicates that firms issue shares when their stock is overpriced and repurchase shares when their stock is underpriced. Such transactions transfer wealth from transacting stockholders to ongoing stockholders. We quantify the magnitude of these wealth transfers and analyze their implications. Strikingly, we find that for the average firm-year, these wealth transfers approximate 40% of net income. We also find that these wealth transfers can be predicted using a variety of firm characteristics and that future wealth transfers are an important determinant of current stock prices.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.07.001"
+        },
+        {
+            "no": "7",
+            "title": "Tail risk premia and return predictability",
+            "date": "Feb 2015",
+            "author": [
+                "Tim Bollerslev",
+                "Viktor Todorov",
+                "Lai Xu"
+            ],
+            "abstract": "The variance risk premium, defined as the difference between the actual and risk-neutral expectations of the forward aggregate market variation, helps predict future market returns. Relying on a new essentially model-free estimation procedure, we show that much of this predictability may be attributed to time variation in the part of the variance risk premium associated with the special compensation demanded by investors for bearing jump tail risk, consistent with the idea that market fears play an important role in understanding the return predictability.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.010"
+        },
+        {
+            "no": "8",
+            "title": "Does realized skewness predict the cross-section of equity returns?",
+            "date": "Feb 2015",
+            "author": [
+                "Diego Amaya",
+                "Peter Christoffersen",
+                "Kris Jacobs",
+                "Aurelio Vasquez"
+            ],
+            "abstract": "We use intraday data to compute weekly realized moments for equity returns and study their time-series and cross-sectional properties. Buying stocks in the lowest realized skewness decile and selling stocks in the highest realized skewness decile generates an average return of 19 basis points the following week with a t-statistic of 3.70. This result is robust across a wide variety of implementations and is not captured by the Fama-French and Carhart factors. The relation between realized kurtosis and next week\u05f3s stock returns is positive but not always significant. We do not find a strong relation between realized volatility and next week\u05f3s stock returns.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.009"
+        },
+        {
+            "no": "9",
+            "title": "Government ownership and the cost of debt: Evidence from government investments in publicly traded firms",
+            "date": "Jun 2015",
+            "author": [
+                "Ginka Borisova",
+                "Veljko Fotak",
+                "Kateryna Holland",
+                "William L. Megginson"
+            ],
+            "abstract": "We investigate how government equity ownership in publicly traded firms affects the cost of corporate debt. Using a sample of bond credit spreads from 43 countries over 1991\u20132010, we find that government ownership is generally associated with a higher cost of debt, consistent with state-induced investment distortions, but is associated with a lower cost of debt during financial crises and for firms more likely to be distressed, when implicit government guarantees become the dominant effect. Our results are robust to controls for the endogeneity of government ownership, and we find these effects to be specific to domestic government ownership.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.06.011"
+        },
+        {
+            "no": "10",
+            "title": "Bank loans and troubled debt restructurings",
+            "date": "Jan 2015",
+            "author": [
+                "Cem Demiroglu",
+                "Christopher James"
+            ],
+            "abstract": "This paper examines the relation between the number and type of lenders that participate in corporate loan facilities and the nature of troubled debt restructurings. We find that loans from traditional bank lenders are significantly easier to restructure out of court than loans from institutional lenders. We also find that the existence of a past banking relationship between the borrower and the lead arranger of a syndicated loan adversely affects the ease of restructuring. Finally, we find that reliance on loans that are held in part by collateralized loan obligations (CLOs) is positively related to the likelihood of a prepackaged bankruptcy, consistent with greater holdout problems when loans are held by CLOs. Overall, our findings suggest that the role of banks in the restructuring process is quite different when bank loans are diffusely held or securitized.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.01.005"
+        }
+    ]
+}

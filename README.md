@@ -2,34 +2,45 @@
 
 - 'Light Speed' acadamic paper information extraction
 - Supporting sites:
-  - [x] [Management Science](https://pubsonline.informs.org/journal/mnsc)
+  - [x] [MS](https://pubsonline.informs.org/journal/mnsc)
+  - [x] [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
 
 ## TODO
 
-- Test asynchronous HTTP requests (aiohttp)
-- Data Storage in JSON files
+- JFE Issue 20 problem [link](https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/20/suppl/C)
 - Add support to more sites
   - [Journal of Finance](https://onlinelibrary.wiley.com/loi/15406261)
   - [RFS]
-  - [JFE]
   - [JFQA]
 
 ### Future Function(s):
 
-- [ ] CLI support with `argparse`
-- [ ] Re-Structure
-  - async/coroutine request for same issue(multiple articles)
-  - different magazine parsing (parse_ms(),..)
-    - items
-      - total articles?
-      - article title
-      - article authors
-      - date
-      - abstract
-      - link
-  - filesystem, make folders, and make/write dot md files
-- [ ] Async web-scraping with Golang
-- [ ] Mobile app support for both Android anad iOS ([Flutter](https://flutter.dev/))
+- CLI support with `argparse`
+- Asynchronous HTTP requests (`asyncio`, `aiohttp`)
+
+### JSON format
+
+```json
+{
+    "journal": "",
+    "volume": "",
+    "issue": "",
+    "date": "",
+    "page": "",
+    "article": [
+        {
+            "no": "",
+            "title": "",
+            "date": "",
+            "author": [],
+            "abstract": "",
+            "link": ""
+        }
+    ]
+}
+```
+
+
 
 ## Version:
 

@@ -1,0 +1,97 @@
+{
+    "journal": "JFE",
+    "volume": "81",
+    "issue": "1",
+    "date": "July 2006",
+    "page": "Pages 1-226",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jul 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(06)00102-4"
+        },
+        {
+            "no": "2",
+            "title": "Do a firm's equity returns reflect the risk of its pension plan?",
+            "date": "Jun 2005",
+            "author": [
+                "Li Jin",
+                "Robert C. Merton",
+                "Zvi Bodie"
+            ],
+            "abstract": "This paper examines the empirical question of whether systematic equity risk of US firms as measured by beta from the capital asset pricing model reflects the risk of their pension plans. There are a number of reasons to suspect that it might not. Chief among them is the opaque set of accounting rules used to report pension assets, liabilities, and expenses. Pension plan assets and liabilities are off-balance sheet and are often viewed as segregated from the rest of the firm, with its own trustees. Pension accounting rules are complicated. Furthermore, the role of the Pension Benefit Guaranty Corporation clouds the real relation between pension plan risk and firm equity risk. The empirical findings in this paper are consistent with the hypothesis that equity risk does reflect the risk of the firm's pension plan despite arcane accounting rules for pensions. This finding is consistent with informational efficiency of the capital markets. It also has implications for corporate finance practice in the determination of the cost of capital for capital budgeting. Standard procedure uses de-leveraged equity return betas to infer the cost of capital for operating assets. But the de-leveraged betas are not adjusted for the risk of the pension assets and liabilities. Failure to make this adjustment typically biases upward estimates of the discount rate for capital budgeting. The magnitude of the bias is shown here to be large for a number of well-known US companies. This bias can result in positive net present value projects being rejected.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.06.005"
+        },
+        {
+            "no": "3",
+            "title": "Efficient tests of stock return predictability",
+            "date": "May 2005",
+            "author": [
+                "John Y. Campbell",
+                "Motohiro Yogo"
+            ],
+            "abstract": "Conventional tests of the predictability of stock returns could be invalid, that is reject the null too frequently, when the predictor variable is persistent and its innovations are highly correlated with returns. We develop a pretest to determine whether the conventional t-test leads to invalid inference and an efficient test of predictability that corrects this problem. Although the conventional t-test is invalid for the dividend\u2013price and smoothed earnings\u2013price ratios, our test finds evidence for predictability. We also find evidence for predictability with the short rate and the long-short yield spread, for which the conventional t-test leads to valid inference.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.05.008"
+        },
+        {
+            "no": "4",
+            "title": "Was there a Nasdaq bubble in the late 1990s?",
+            "date": "May 2005",
+            "author": [
+                "\u013dubo\u0161 P\u00e1stor",
+                "Pietro Veronesi"
+            ],
+            "abstract": "Not necessarily: a firm's fundamental value increases with uncertainty about average future profitability, and this uncertainty was unusually high in the late 1990s. After calibrating a stock valuation model that takes this uncertainty into account, we compute the level of uncertainty that is needed to match the observed Nasdaq valuations at their peak. The uncertainty we obtain seems plausible because it matches not only the high level but also the high volatility of Nasdaq stock prices. In general, we argue that the level and volatility of stock prices are positively linked through firm-specific uncertainty about average future profitability.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.05.009"
+        },
+        {
+            "no": "5",
+            "title": "Cross-sectional forecasts of the equity premium",
+            "date": "Mar 2005",
+            "author": [
+                "Christopher Polk",
+                "Samuel Thompson",
+                "Tuomo Vuolteenaho"
+            ],
+            "abstract": "If investors are myopic mean-variance optimizers, a stock's expected return is linearly related to its beta in the cross-section. The slope of the relation is the cross-sectional price of risk, which should equal the expected equity premium. We use this simple observation to forecast the equity-premium time series with the cross-sectional price of risk. We also introduce novel statistical methods for testing stock-return predictability based on endogenous variables whose shocks are potentially correlated with return shocks. Our empirical tests show that the cross-sectional price of risk (1) is strongly correlated with the market's yield measures and (2) predicts equity-premium realizations, especially in the first half of our 1927\u20132002 sample.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.03.013"
+        },
+        {
+            "no": "6",
+            "title": "On the role of arbitrageurs in rational markets",
+            "date": "Nov 2004",
+            "author": [
+                "Suleyman Basak",
+                "Benjamin Croitoru"
+            ],
+            "abstract": "We investigate the role of \u201carbitrageurs,\u201d who exploit price discrepancies between redundant securities. Arbitrage opportunities arise endogenously in an economy populated by rational, heterogeneous investors facing investment restrictions. We show that an arbitrageur alleviates these restrictions and improves the transfer of risk amongst investors. When the arbitrageur behaves noncompetitively, taking into account the price impact of his trades, he optimally limits the size of his positions due to his decreasing marginal profits. When the arbitrageur is subject to margin requirements and is endowed with capital from outside investors, the size of his trades and capital are endogenously determined in equilibrium.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.11.004"
+        },
+        {
+            "no": "7",
+            "title": "The economic consequences of increased disclosure: Evidence from international cross-listings",
+            "date": "Jun 2005",
+            "author": [
+                "Warren Bailey",
+                "G. Andrew Karolyi",
+                "Carolina Salva"
+            ],
+            "abstract": "We examine market behavior around earnings announcements to understand the consequences of the increased disclosure that non-U.S. firms face when listing shares in the U.S. We find that absolute return and volume reactions to earnings announcements typically increase significantly once a company cross-lists in the U.S. Furthermore, these increases are greatest for firms from developed countries and for firms that pursue over-the-counter listings or private placements, which do not have stringent disclosure requirements. Additional tests support the hypothesis that it is changes in the individual firm's disclosure environment, rather than changes in its market liquidity, ownership, or trading venue, that explain our findings.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.06.002"
+        },
+        {
+            "no": "8",
+            "title": "The value of tax shields IS equal to the present value of tax shields",
+            "date": "Jul 2005",
+            "author": [
+                "Ian A. Cooper",
+                "Kjell G. Nyborg"
+            ],
+            "abstract": "Fernandez [2004b. The value of tax shields is not equal to the present value of tax shields. Journal of Financial Economics 73, 145\u2013165] argues that the present value effect of the tax saving on debt cannot be calculated as simply the present value of the tax shields associated with interest. This contradicts standard results in the literature. It implies that, even though the capital market is complete, value-additivity is violated. As a consequence, adjusted present value formulae of a standard sort cannot be used. Also, Fernandez's argument implies that the value of the tax saving differs from conventional estimates by a considerable amount. We reconcile Fernandez's results with standard valuation formulae for the tax saving from debt. We show that, as one would expect, the value of the debt tax saving is the present value of the tax savings from interest. The apparent violation of value-additivity in the Fernandez paper comes from mixing the Miles and Ezzell and Miller and Modigliani leverage policies.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.07.003"
+        }
+    ]
+}

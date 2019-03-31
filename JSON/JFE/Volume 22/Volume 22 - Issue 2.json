@@ -1,0 +1,132 @@
+{
+    "journal": "JFE",
+    "volume": "22",
+    "issue": "2",
+    "date": "December 1988",
+    "page": "Pages 187-393",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Dec 1988",
+            "author": [
+                "MichaelC. Jensen",
+                "JohnB. Long",
+                "RichardS. Ruback",
+                "CliffordW. Smith",
+                "JeroldB. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90067-0"
+        },
+        {
+            "no": "2",
+            "title": "The Eurobond market and corporate financial policy",
+            "date": "Dec 1988",
+            "author": [
+                "Yong Cheol Kim",
+                "Ren\u00e9M. Stulz"
+            ],
+            "abstract": "On average, significant positive abnormal returns are associated with Eurobond issues during the period 1975\u20131985. The cross-sectional and time-series distributions of the abnormal returns are consistent with the hypothesis that impediments to the adjustment of asset supplies to new demand conditions are large enough to create profitable financing opportunities for firms. Our analysis demonstrates how profitable financing opportunities can persist on the Eurobond market and when they are most likely to arise.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90068-2"
+        },
+        {
+            "no": "3",
+            "title": "The information effects of takeover bids and resistance",
+            "date": "Dec 1988",
+            "author": [
+                "John Pound"
+            ],
+            "abstract": "This paper tests whether takeover bids and takeover resistance by target management convey information to the market about the stand-alone value of target firms. When initial bids are made, analysts' consensus forecasts of stand-alone earnings do not change significantly for any group of takeover targets. This is consistent with the synergy view of mergers and inconsistent with the undervaluation theory. Consensus forecasts fall significantly when managers resist takeover. The decline is about 10% of the level of previously forecast earnings and is approximately equal whether the target is ultimately acquired or remains independent.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90069-4"
+        },
+        {
+            "no": "4",
+            "title": "Trades, quotes, inventories, and information",
+            "date": "Dec 1988",
+            "author": [
+                "Joel Hasbrouck"
+            ],
+            "abstract": "This empirical examination of the relation between trades and quote revisions for New York Stock Exchange-listed stocks is designed to ascertain asymmetric-information and inventory-control effects. This study finds that negative autocorrelation in trades consistent with inventory-control behavior characterizes low-volume stocks, but not high-volume stocks. The evidence of inventory control in the impact of trades on quote revisions is inconclusive. The information content of trades, on the other hand, is found to be substantial. There is also strong evidence that large trades convey more information than small trades.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90070-0"
+        },
+        {
+            "no": "5",
+            "title": "An investigation of cost differences between public sales and private placements of debt",
+            "date": "Dec 1988",
+            "author": [
+                "David W. Blackwell",
+                "David S. Kidwell"
+            ],
+            "abstract": "We examine the cost differences between public sales and private placements of debt for a sample of public utility issues. The lowest cost method depends on a firm's transaction costs which comprise flotation costs, agency costs, and the costs of searching the market. Our findings suggest that firms minimize the cost of issuing securities by selecting the market providing the lowest transaction costs.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90071-2"
+        },
+        {
+            "no": "6",
+            "title": "Equilibrium pricing and portfolio composition in the presence of uncertain parameters",
+            "date": "Dec 1988",
+            "author": [
+                "Jeffrey L. Coles",
+                "Uri Loewenstein"
+            ],
+            "abstract": "We analyze the effect of parameter uncertainty on equilibrium asset prices. For the symmetric case, when the amount of estimation risk is the same for all securities, the existing literature argues that parameter uncertainty is largely irrelevant for equilibrium. Our results differ. We find that symmetric estimation risk affects equilibrium values of relative asset prices, expected returns, market weights, and betas.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90072-4"
+        },
+        {
+            "no": "7",
+            "title": "The real term structure and consumption growth",
+            "date": "Dec 1988",
+            "author": [
+                "Campbell R. Harvey"
+            ],
+            "abstract": "One version of the consumption-based asset pricing model implies a linear relation between expected returns and expected consumption growth. This paper provides evidence that the expected real term structure contains information that can be used to forecast consumption growth. The evidence is strongest for the 1970s and 1980s. The real term structure contains more information than two alternative measures: lagged consumption growth and lagged stock returns. Further, the real term structure appears to have slightly more forecasting power than the leading commercial econemetric models.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90073-6"
+        },
+        {
+            "no": "8",
+            "title": "Time-varying betas and risk premia in the pricing of forward foreign exchange contracts",
+            "date": "Dec 1988",
+            "author": [
+                "Nelson C. Mark"
+            ],
+            "abstract": "This paper specifies the single-beta capital asset pricing model for the pricing of forward foreign exchange contracts from the point of view of a U.S. investor. Parametric specification of the betas as ARCH-like processes explicitly allows for time variation as well as sign variation of the risk premium in the forward foreign exchange market. I estimate the model jointly for four currencies, using a generalized method of moments procedure. The results show significant time variation for the betas and tests of the overidentifying restrictions are generally favorable to the model.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90074-8"
+        },
+        {
+            "no": "9",
+            "title": "Risk aversion, uncertain information, and market efficiency",
+            "date": "Dec 1988",
+            "author": [
+                "Keith C. Brown",
+                "W.V. Harlow",
+                "Seha M. Tinic"
+            ],
+            "abstract": "This paper develops and tests the uncertain information hypothesis as a means of explaining the response of rational, risk-averse investors to the arrival of unanticipated information. The theory predicts that following news of a dramatic financial event, both the risk and expected return of the affected companies increase systematically, and that prices react more strongly to bad news than good. An empirical investigation of over 9000 marketwide and firm-specific events produces results consistent with these predictions. We conclude that the market reacts to uncertain information in an efficient, if not instantaneous, manner.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90075-X"
+        },
+        {
+            "no": "10",
+            "title": "News items",
+            "date": "Dec 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90076-1"
+        },
+        {
+            "no": "11",
+            "title": "Journal of financial economics \u2014 Volumes 20, 21, and 22",
+            "date": "Dec 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90077-3"
+        },
+        {
+            "no": "12",
+            "title": "Index",
+            "date": "Dec 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90078-5"
+        }
+    ]
+}

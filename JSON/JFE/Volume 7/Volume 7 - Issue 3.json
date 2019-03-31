@@ -1,0 +1,52 @@
+{
+    "journal": "JFE",
+    "volume": "7",
+    "issue": "3",
+    "date": "September 1979",
+    "page": "Pages 227-318",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Sep 1979",
+            "author": [
+                "Michael C. Jensen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(79)90014-X"
+        },
+        {
+            "no": "2",
+            "title": "Option pricing: A simplified approach",
+            "date": "Sep 1979",
+            "author": [
+                "John C. Cox",
+                "Stephen A. Ross",
+                "Mark Rubinstein"
+            ],
+            "abstract": "This paper presents a simple discrete-time model for valuing options. The fundamental economic principles of option pricing by arbitrage methods are particularly clear in this setting. Its development requires only elementary mathematics, yet it contains as a special limiting case the celebrated Black-Scholes model, which has previously been derived only by much more difficult methods. The basic model readily lends itself to generalization in many ways. Moreover, by its very construction, it gives rise to a simple and efficient numerical procedure for valuing options for which premature exercise may be optimal.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90015-1"
+        },
+        {
+            "no": "3",
+            "title": "An intertemporal asset pricing model with stochastic consumption and investment opportunities",
+            "date": "Sep 1979",
+            "author": [
+                "Douglas T. Breeden"
+            ],
+            "abstract": "This paper derives a single-beta asset pricing model in a multi-good, continuous-time model with uncertain consumption-goods prices and uncertain investment opportunities. When no riskless asset exists, a zero-beta pricing model is derived. Asset betas are measured relative to changes in the aggregate real consumption rate, rather than relative to the market. In a single-good model, an individual's asset portfolio results in an optimal consumption rate that has the maximum possible correlation with changes in aggregate consumption. If the capital markets are unconstrained Pareto-optimal, then changes in all individuals' optimal consumption rates are shown to be perfectly correlated.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90016-3"
+        },
+        {
+            "no": "4",
+            "title": "Coupon and tax effects on new and seasoned bond yields and the measurement of the cost of debt capital",
+            "date": "Sep 1979",
+            "author": [
+                "Robert J. Shiller",
+                "Franco Modigliani"
+            ],
+            "abstract": "A model of the tax structure of interest rates is developed and simple approximate expressions relating yield to coupon are derived. The effect on these simple expressions of alternative assumptions about holding period length, expectations of future interest rates, and other factors, is evaluated. It is shown that with recent U.S. yield averages the new-seasoned yield spread varies with the new-seasoned coupon spread as the theory prescribes. It is concluded that new issue yield averages should provide a more reliable measure of the cost of debt capital than is provided by seasoned yield averages.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90017-5"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+# JFE, Volume 94, Issue 3
+- December 2009
+- Pages 345-508
+
+## 1. Editorial Board
+### Date
+- Dec 2009
+### Authors
+### Abstract
+
+### Link
+- https://doi.org/10.1016/S0304-405X(09)00198-6
+
+## 2. Options trading activity and firm valuation
+### Date
+- Feb 2009
+### Authors
+- Richard Roll
+- Eduardo Schwartz
+- Avanidhar Subrahmanyam
+### Abstract
+Options may have an effect on firm value because they help complete markets and stimulate informed trades. However, these benefits are likely to manifest themselves in active, rather than inactive, options markets. Supporting this observation, we find that firms with more options trading have higher values of Tobin's q, after accounting for other determinants of value. Corporate investment in firms with greater options trading is more sensitive to stock prices. Options trading affects firm valuation more strongly in stocks with greater information asymmetry. These results indicate that options trading is positively associated with firm values as well as information production.
+### Link
+- https://doi.org/10.1016/j.jfineco.2009.02.002
+
+## 3. Hidden liquidity: An analysis of order exposure strategies in electronic stock markets
+### Date
+- Feb 2009
+### Authors
+- Hendrik Bessembinder
+- Marios Panayides
+- Kumar Venkataraman
+### Abstract
+Many stock exchanges choose to reduce market transparency by allowing traders to hide some or all of their order size. We study the costs and benefits of order exposure and test hypotheses regarding hidden order usage using a sample of Euronext-Paris stocks, where hidden orders represent 44% of the sample order volume. Our results support the hypothesis that hidden orders are associated with a decreased probability of full execution and increased average time to completion, and fail to support the alternate hypothesis that order exposure causes defensive traders to withdraw from the market. However, exposing rather than hiding order size increases average execution costs. We assess the extent to which non-displayed size is truly hidden and document that the presence and magnitude of hidden orders can be predicted to a significant, but imperfect, degree based on observable order attributes, firm characteristics, and market conditions. Overall, the results indicate that the option to hide order size is valuable, in particular, to patient traders.
+### Link
+- https://doi.org/10.1016/j.jfineco.2009.02.001
+
+## 4. The role of institutional investors in seasoned equity offerings
+### Date
+- Dec 2008
+### Authors
+- Thomas J. Chemmanur
+- Shan He
+- Gang Hu
+### Abstract
+Do institutional investors possess private information about seasoned equity offerings (SEOs)? If so, do they use this private information to trade in a direction opposite to this information (a manipulative trading role) or in the same direction (an information production role)? We use a large sample of transaction-level institutional trading data to distinguish between these two roles of institutional investors. We explicitly identify institutional SEO allocations for the first time in the literature. We analyze the consequences of the private information possessed by institutional investors for SEO share allocation, institutional trading before and after the SEO and realized trading profitability, and the SEO discount. We find that institutions are able to identify and obtain more allocations in SEOs with better long-run stock returns, they trade in the same direction as their private information, and their post-SEO trading significantly outperforms a naive buy-and-hold trading strategy. Further, more pre-offer institutional net buying and larger institutional SEO allocations are associated with a smaller SEO discount. Overall, our results are consistent with institutions possessing private information about SEOs and with an information production instead of a manipulative trading role for institutional investors in SEOs.
+### Link
+- https://doi.org/10.1016/j.jfineco.2008.12.011
+
+## 5. Predatory mortgage lending
+### Date
+- Sep 2008
+### Authors
+- Philip Bond
+- David K. Musto
+- Bilge Yilmaz
+### Abstract
+Regulators express growing concern over predatory loans, which we take to mean loans that borrowers should decline. Using a model of consumer credit in which such lending is possible, we identify the circumstances in which it arises both with and without competition. We find that predatory lending is associated with highly collateralized loans, inefficient refinancing of subprime loans, lending without due regard to ability to pay, prepayment penalties, balloon payments, and poorly informed borrowers. Under most circumstances competition among lenders attenuates predatory lending. We use our model to analyze the effects of legislative interventions.
+### Link
+- https://doi.org/10.1016/j.jfineco.2008.09.011
+
+## 6. Risk sharing, finance, and institutions in international portfolios
+### Date
+- Dec 2008
+### Authors
+- Marcel Fratzscher
+- Jean Imbs
+### Abstract
+We develop a standard model to show how transaction costs in international investment affect conventional tests of consumption risk sharing, both in a multilateral and a bilateral setting. We implement the tests in a novel international data set on bilateral holdings of equity, bonds, foreign direct investment (FDI) and bank loans. In our data, high foreign capital holdings are associated with international consumption risk sharing as implied by our theory. This is especially true of investment in equity or bonds, but not of foreign direct investment or bank loans. In our model, the implication is that transaction costs are higher for FDI and international loans. The discrepancy could reflect technological differences, but also the prospect of expropriation, perhaps most stringent for FDI or loans. We argue that expropriation risk is endogenous to both the borrower's institutions and its openness to international markets. The detrimental impact of poor institutions is muted in open economies, where the possibility of subsequent exclusion from world markets deters expropriation of foreign capital. We show the implied effects of institutions prevail in both the cross-section of consumption risk sharing and in observed international investment patterns.
+### Link
+- https://doi.org/10.1016/j.jfineco.2008.12.007
+
+## 7. Cashflow risk, systematic earnings revisions, and the cross-section of stock returns
+### Date
+- Dec 2008
+### Authors
+- Zhi Da
+- Mitchell Craig Warachka
+### Abstract
+The returns of stocks are partially driven by changes in their expected cashflow. Using revisions in analyst earnings forecasts, we construct an analyst earnings beta that measures the covariance between the cashflow innovations of an asset and those of the market. A higher analyst earnings beta implies greater sensitivity to marketwide revisions in expected cashflow, and therefore higher systematic risk. Our analyst earnings beta captures exposure to macroeconomic fluctuations and has a positive risk premium that provides a partial explanation for the value premium, size premium, and long-term return reversals. From 1984 to 2005, 55.1% of the return variation across book-to-market, size, and long-term return reversal portfolios is captured by their analyst earnings betas.
+### Link
+- https://doi.org/10.1016/j.jfineco.2008.12.008
+
+## 8. Institutional industry herding
+### Date
+- Dec 2008
+### Authors
+- Nicole Choi
+- Richard W. Sias
+### Abstract
+We examine whether institutional investors follow each other into and out of the same industries. Our empirical results reveal strong evidence of institutional industry herding. The cross-sectional correlation between the fraction of institutional traders buying an industry this quarter and the fraction buying last quarter, for example, averages 40%. Additional tests suggest that correlated signals primarily drive institutional industry herding. Our results also provide empirical support for “style investing” models.
+### Link
+- https://doi.org/10.1016/j.jfineco.2008.12.009
+
+## 9. Hedging and competition
+### Date
+- Oct 2008
+### Authors
+- Tingjun Liu
+- Christine A. Parlour
+### Abstract
+We consider firms that, all else equal, wish to minimize variability in their internal capital (due to convex costs of raising external funds). The firms can hedge the cash flow risk of the project, but not that of winning or losing the auction. We characterize optimal hedging and bidding strategies in this competition framework. We show that access to financial markets makes firms bid more aggressively, possibly even above their valuation for the project. In addition, hedging increases the variance of bids and makes firm values more dispersed. Further, with hedging, the covariance of internal capital changes with the risk factor is negative, and is more negative, the higher the correlation of the hedging instrument with the risk factor.
+### Link
+- https://doi.org/10.1016/j.jfineco.2008.10.008
+

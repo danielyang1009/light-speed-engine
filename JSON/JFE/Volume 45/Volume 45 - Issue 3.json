@@ -1,0 +1,71 @@
+{
+    "journal": "JFE",
+    "volume": "45",
+    "issue": "3",
+    "date": "September 1997",
+    "page": "Pages 283-415",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Sep 1997",
+            "author": [
+                "G. William Schwert"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(97)87361-8"
+        },
+        {
+            "no": "2",
+            "title": "Analyzing investments whose histories differ in length",
+            "date": "Sep 1997",
+            "author": [
+                "Robert F. Stambaugh"
+            ],
+            "abstract": "This study explores multivariate methods for investment analysis based on return histories that differ in length across assets. The longer histories provide greater information about moments of return, not only for the longer-history assets, but for the shorter-history assets as well. To account for the remaining parameter uncertainty, or \u2018estimation risk\u2019, portfolio opportunities are characterized by a Bayesian predictive distribution. Examples involving emerging markets demonstrate the value of using the combined sample of histories and accounting for estimation risk, as compared to truncating the sample to produce equal-length histories or ignoring estimation risk by using maximum-likelihood estimates.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00020-2"
+        },
+        {
+            "no": "3",
+            "title": "Share price and mortality: An empirical evaluation of newly listed Nasdaq stocks",
+            "date": "Sep 1997",
+            "author": [
+                "P.J. Seguin",
+                "M.M. Smoller"
+            ],
+            "abstract": "We examine a sample of 5896 stocks listed on Nasdaq between 1974 and 1988 to see whether the price per share has significant statistical power in forecasting subsequent returns and attrition rates. Consistent with anecdotal evidence, we document a higher mortality rate for lower-priced stocks than for higher-priced issues. Surprisingly, mortality is not related to market capitalization. Our results also hold for subsamples partitioned by industry and issue year. On average, investors are not adequately compensated for this additional mortality risk, earning lower risk-adjusted rates of return on portfolios of lower-priced shares than on portfolios of higher-priced shares.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00019-6"
+        },
+        {
+            "no": "4",
+            "title": "Market microstructure and securities values: Evidence from the Tel Aviv Stock Exchange",
+            "date": "Sep 1997",
+            "author": [
+                "Yakov Amihud",
+                "Haim Mendelson",
+                "Beni Lauterbach"
+            ],
+            "abstract": "This paper examines the value effects of improvements in the trading mechanism. Selected stocks on the Tel Aviv Stock Exchange were transferred gradually from a daily call auction to a mechanism where the call auction was followed by iterated continuous trading sessions. This event was associated with a positive and permanent price appreciation. The cumulative average market-adjusted return over a period that started five days prior to the announcement and ended 30 days after the stocks started trading by the new method was approximately 5.5%. In addition, we find positive liquidity externalities (spillovers) across related stocks, and improvements in the value discovery process due to the improved trading method. Finally, there was a positive association between liquidity gains and price appreciation.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00021-4"
+        },
+        {
+            "no": "5",
+            "title": "Underpricing, ownership and control in initial public offerings of equity securities in the UK",
+            "date": "Sep 1997",
+            "author": [
+                "M.J. Brennan",
+                "J. Franks"
+            ],
+            "abstract": "In this paper we examine how separation of ownership and control evolves as a result of an Initial Public Offering (IPO) and how the underpricing of the issue can be used by insiders to retain control. Using data from a sample of 69 IPOs in the UK, we show that underpricing is used to ensure oversubscription and rationing in the share allocation process so as to allow owners to discriminate between applicants for shares and to reduce the block size of new shareholdings.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00022-6"
+        },
+        {
+            "no": "6",
+            "title": "Index",
+            "date": "Sep 1997",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(97)87362-X"
+        }
+    ]
+}

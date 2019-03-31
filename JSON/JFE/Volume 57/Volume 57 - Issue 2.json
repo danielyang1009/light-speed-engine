@@ -1,0 +1,66 @@
+{
+    "journal": "JFE",
+    "volume": "57",
+    "issue": "2",
+    "date": "August 2000",
+    "page": "Pages 155-306",
+    "article": [
+        {
+            "no": "1",
+            "title": "Alternative flotation methods, adverse selection, and ownership structure: evidence from seasoned equity issuance in the U.K.",
+            "date": "Aug 2000",
+            "author": [
+                "M.B Slovin",
+                "M.E Sushka",
+                "K.W.L Lai"
+            ],
+            "abstract": "We examine valuation effects of announcements of seasoned equity issuance and assess the impact of the choice of flotation method in the U.K. Rights offerings are predominant, but in 1986, British firms gained the flexibility to conduct placings, which are comparable to U.S. firm commitment offerings. A placing is a fixed-price bought deal that increases ownership dispersion. Placings generate significantly positive share price effects, whereas rights offerings have large negative valuation effects that become more adverse after 1985. We conclude that the option to conduct placings enhances the ability of firms to signal their quality and to use a seasoned equity offering to reduce ownership concentration.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00054-4"
+        },
+        {
+            "no": "2",
+            "title": "Corporate policies restricting trading by insiders",
+            "date": "Aug 2000",
+            "author": [
+                "J.C Bettis",
+                "J.L Coles",
+                "M.L Lemmon"
+            ],
+            "abstract": "This paper examines policies and procedures put in place by corporations to regulate trading in the stock by the firm's own insiders. Over 92% of our sample companies have their own policies restricting trading by insiders, and 78% have explicit blackout periods during which the company prohibits trading by its insiders. Our data indicate that blackout periods successfully suppress trading, both purchases and sales, by insiders, and that the blackout period is associated with a bid\u2013ask spread that's narrower by about two basis points. Consistent with this effect on the spread, allowed insider trades are modestly more profitable than insider trades made during prohibited blackout periods.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00055-6"
+        },
+        {
+            "no": "3",
+            "title": "Can book-to-market, size and momentum be risk factors that predict economic growth?",
+            "date": "Aug 2000",
+            "author": [
+                "Jimmy Liew",
+                "Maria Vassalou"
+            ],
+            "abstract": "We test whether the profitability of HML, SMB, and WML can be linked to future Gross Domestic Product (GDP) growth. Using data from ten countries, we find that HML and SMB contain significant information about future GDP growth. This information is to a large degree independent of that in the market factor. Even in the presence of popular business cycle variables, HML and SMB retain their ability to predict future economic growth in some countries. Our results support a risk-based explanation for the performance of HML and SMB. Little evidence is found to support such an explanation in the case of WML.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00056-8"
+        },
+        {
+            "no": "4",
+            "title": "Trade size, order imbalance, and the volatility\u2013volume relation",
+            "date": "Aug 2000",
+            "author": [
+                "Kalok Chan",
+                "Wai-Ming Fong"
+            ],
+            "abstract": "This paper examines the roles of the number of trades, size of trades, and order imbalance (buyer- versus seller-initiated trades) in explaining the volatility\u2013volume relation for a sample of NYSE and Nasdaq stocks. Our results reconfirm the significance of the size of trades, beyond that of the number of trades, in the volatility\u2013volume relation on both markets. After controlling for the return impact of order imbalance, the volatility\u2013volume relation becomes much weaker. For NYSE stocks, the order imbalance in large trade size categories affects the return more than in smaller size categories. For Nasdaq stocks, the largest return impact comes from the order imbalance in maximum-sized Small Order Execution System (SOES) trades.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00057-X"
+        },
+        {
+            "no": "5",
+            "title": "Corporate governance proposals and shareholder activism: the role of institutional investors",
+            "date": "Aug 2000",
+            "author": [
+                "Stuart L. Gillan",
+                "Laura T. Starks"
+            ],
+            "abstract": "We study shareholder proposals across a period of substantial activity and find systematic differences both across sponsor identity and across time. To measure the success of shareholder activism, we examine voting outcomes and short-term market reactions conditioned on proposal type and sponsor identity. The voting analysis documents that sponsor identity, issue type, prior performance and time period are important influences on the voting outcome. Proposals sponsored by institutions or coordinated groups appear to act as substitutes gaining substantially more support than proposals sponsored by individuals. The nature of the stock market reaction, while typically small, varies according to the issue and the sponsor identity.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00058-1"
+        }
+    ]
+}

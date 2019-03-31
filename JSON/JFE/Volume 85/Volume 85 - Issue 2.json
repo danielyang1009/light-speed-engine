@@ -1,0 +1,136 @@
+{
+    "journal": "JFE",
+    "volume": "85",
+    "issue": "2",
+    "date": "August 2007",
+    "page": "Pages 267-598",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Aug 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(07)00125-0"
+        },
+        {
+            "no": "2",
+            "title": "The economics of conflicts of interest in financial institutions",
+            "date": "Nov 2006",
+            "author": [
+                "Hamid Mehran",
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "A conflict of interest exists when a party to a transaction can gain by taking actions that are detrimental to its counterparty. This paper examines the growing empirical literature on the economics of conflicts of interest in financial institutions. Economic analysis shows that, although conflicts of interest are omnipresent when contracting is costly and parties are imperfectly informed, there are important factors that mitigate their impact and, strikingly, it is possible for customers of financial institutions to benefit from the existence of such conflicts. The empirical literature reaches conclusions that differ across types of conflicts of interest but are overall more ambivalent and certainly more benign than the conclusions drawn by journalists and politicians from mostly anecdotal evidence.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.11.001"
+        },
+        {
+            "no": "3",
+            "title": "Conflicts of interest, information provision, and competition in the financial services industry",
+            "date": "Jun 2005",
+            "author": [
+                "Patrick Bolton",
+                "Xavier Freixas",
+                "Joel Shapiro"
+            ],
+            "abstract": "In some markets sellers have better information than buyers over which products best serve a buyer's needs. Depending on the market structure, this may lead to conflicts of interest in the provision of information by sellers. This paper studies this issue in the market for financial services. The analysis presents a new model of competition between banks, where price competition influences the ensuing incentives for truthful information revelation. We also compare conflicts of interest in two different firm structures, specialized banking and one-stop banking.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.06.004"
+        },
+        {
+            "no": "4",
+            "title": "Is there a diversification discount in financial conglomerates?",
+            "date": "Jun 2005",
+            "author": [
+                "Luc Laeven",
+                "Ross Levine"
+            ],
+            "abstract": "This paper investigates whether the diversity of activities conducted by financial institutions influences their market valuations. We find that there is a diversification discount: The market values of financial conglomerates that engage in multiple activities, e.g., lending and non-lending financial services, are lower than if those financial conglomerates were broken into financial intermediaries that specialize in the individual activities. While difficult to identify a single causal factor, the results are consistent with theories that stress intensified agency problems in financial conglomerates engaged in multiple activities and indicate that economies of scope are not sufficiently large to produce a diversification premium.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.06.001"
+        },
+        {
+            "no": "5",
+            "title": "So what do I get? The bank's view of lending relationships",
+            "date": "Aug 2005",
+            "author": [
+                "Sreedhar Bharath",
+                "Sandeep Dahiya",
+                "Anthony Saunders",
+                "Anand Srinivasan"
+            ],
+            "abstract": "While many empirical studies document borrower benefits of lending relationships, less is known about lender benefits. A relationship lender's informational advantage over a non-relationship lender may generate a higher probability of selling information-sensitive products to its borrowers. Our results show that the probability of a relationship lender providing a future loan is 42%, while for a non-relationship lender, this probability is 3%. Consistent with theory, we find that borrowers with greater information asymmetries are significantly likely to obtain future loans from their relationship lenders. Relationship lenders are likely to be chosen to provide debt/equity underwriting services, but this effect is economically small.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.08.003"
+        },
+        {
+            "no": "6",
+            "title": "Conflicts of interest in sell-side research and the moderating role of institutional investors",
+            "date": "Dec 2005",
+            "author": [
+                "Alexander Ljungqvist",
+                "Felicia Marston",
+                "Laura T. Starks",
+                "Kelsey D. Wei",
+                "Hong Yan"
+            ],
+            "abstract": "Because sell-side analysts are dependent on institutional investors for performance ratings and trading commissions, we argue that analysts are less likely to succumb to investment banking or brokerage pressure in stocks highly visible to institutional investors. Examining a comprehensive sample of analyst recommendations over the 1994\u20132000 period, we find that analysts\u2019 recommendations relative to consensus are positively associated with investment banking relationships and brokerage pressure but negatively associated with the presence of institutional investor owners. The presence of institutional investors is also associated with more accurate earnings forecasts and more timely re-ratings following severe share price falls.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.12.004"
+        },
+        {
+            "no": "7",
+            "title": "Are small investors naive about incentives?",
+            "date": "Feb 2007",
+            "author": [
+                "Ulrike Malmendier",
+                "Devin Shanthikumar"
+            ],
+            "abstract": "Security analysts tend to bias stock recommendations upward, particularly if they are affiliated with the underwriter. We analyze how investors account for such distortions. Using the NYSE Trades and Quotations database, we find that large traders adjust their trading response downward. While they exert buy pressure following strong buy recommendations, they display no reaction to buy recommendations and selling pressure following hold recommendations. This \u201cdiscounting\u201d is even more pronounced when the analyst is affiliated with the underwriter. Small traders, instead, follow recommendations literally. They exert positive pressure following both buy and strong buy recommendations and zero pressure following hold recommendations. We discuss possible explanations for the differences in trading response, including information costs and investor naivet\u00e9.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.02.001"
+        },
+        {
+            "no": "8",
+            "title": "Comparing the stock recommendation performance of investment banks and independent research firms",
+            "date": "Sep 2005",
+            "author": [
+                "Brad M. Barber",
+                "Reuven Lehavy",
+                "Brett Trueman"
+            ],
+            "abstract": "From January 1996 through June 2003, the average daily abnormal return to independent research firm buy recommendations exceeds that of investment bank buy recommendations by 3.1 basis points (almost 8 percentage points annualized). Investment bank buy recommendation underperformance is more pronounced following the NASDAQ market peak (March 10, 2000) and strikingly so for buy recommendations on firms that recently conducted equity offerings. In contrast, investment bank hold and sell recommendations outperform those of independent research firms by 1.8 basis points daily (\n4\n1\n2\npercentage points annualized). These results suggest reluctance by investment banks to downgrade stocks whose prospects dimmed during the bear market of the early 2000s, as claimed in the SEC's Global Research Analyst Settlement.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.09.004"
+        },
+        {
+            "no": "9",
+            "title": "Why are IPO investors net buyers through lead underwriters?",
+            "date": "Dec 2005",
+            "author": [
+                "John M. Griffin",
+                "Jeffrey H. Harris",
+                "Selim Topaloglu"
+            ],
+            "abstract": "In Nasdaq initial public offerings (IPOs) issued between 1997 and 2002, purchases of lead underwriter clients exceed sales by an amount equal to 8.79% of the total issue. We find that lead underwriter clients do not buy to build larger long-term positions, capitalize on superior execution quality, or because of clientele effects. However, characteristics of net buying that are at odds with these explanations and other behaviors (like institutional purchases of cold IPOs) are all consistent with lead underwriters engaging in quid pro quo arrangements with clients. Price contribution analysis shows that such client buying activity contributes significantly to first-day price increases.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.12.005"
+        },
+        {
+            "no": "10",
+            "title": "Business ties and proxy voting by mutual funds",
+            "date": "Apr 2005",
+            "author": [
+                "Gerald F. Davis",
+                "E. Han Kim"
+            ],
+            "abstract": "The magnitude of mutual funds\u2019 business ties with their portfolio firms is documented and is linked to funds\u2019 proxy votes at specific firms and to overall voting practices. Aggregate votes at the fund family level indicate a positive relation between business ties and the propensity to vote with management. Votes at specific firms, however, reveal that funds are no more likely to vote with management of client firms than of non-clients. Because the votes took place when funds knew their votes would be publicly scrutinized, fund families with a larger client base may have adopted voting policies that led to less frequent opposition to management at all firms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.04.003"
+        },
+        {
+            "no": "11",
+            "title": "Board structure, mergers, and shareholder wealth: A study of the mutual fund industry",
+            "date": "May 2006",
+            "author": [
+                "Ajay Khorana",
+                "Peter Tufano",
+                "Lei Wedge"
+            ],
+            "abstract": "We study mutual fund mergers between 1999 and 2001 to understand the role and effectiveness of fund boards. Some fund mergers\u2014typically across-family mergers\u2014benefit target shareholders but are costly to target fund directors. Such mergers are more likely when funds underperform and their boards have a larger percentage of independent trustees, suggesting that more-independent boards tolerate less underperformance before initiating across-family mergers. This effect is most pronounced when all of the fund's directors are independent, not the 75% level of independence required by the SEC. Higher-paid target fund boards are less likely to approve across-family mergers that cause substantial reductions in their compensation.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.05.002"
+        }
+    ]
+}

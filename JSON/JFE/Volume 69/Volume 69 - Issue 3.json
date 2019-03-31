@@ -1,0 +1,69 @@
+{
+    "journal": "JFE",
+    "volume": "69",
+    "issue": "3",
+    "date": "September 2003",
+    "page": "Pages EX1-EX2, 401-530",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Sep 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00214-9"
+        },
+        {
+            "no": "2",
+            "title": "Dynamic derivative strategies",
+            "date": "Sep 2003",
+            "author": [
+                "Jun Liu",
+                "Jun Pan"
+            ],
+            "abstract": "We study optimal investment strategies given investor access not only to bond and stock markets but also to the derivatives market. The problem is solved in closed form. Derivatives extend the risk and return tradeoffs associated with stochastic volatility and price jumps. As a means of exposure to volatility risk, derivatives enable non-myopic investors to exploit the time-varying opportunity set; and as a means of exposure to jump risk, they enable investors to disentangle the simultaneous exposure to diffusive and jump risks in the stock market. Calibrating to the S&P 500 index and options markets, we find sizable portfolio improvement from derivatives investing.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00118-1"
+        },
+        {
+            "no": "3",
+            "title": "Termination fees in mergers and acquisitions",
+            "date": "Sep 2003",
+            "author": [
+                "Micah S Officer"
+            ],
+            "abstract": "The paper provides evidence on the effects of including a target termination fee in a merger contract. I test the implications of the hypothesis that termination fees are used by self-interested target managers to deter competing bids and protect \u201csweetheart\u201d deals with white knight bidders, presumably resulting in lower premiums for target shareholders. An alternative hypothesis is that target managers use termination fees to encourage bidder participation by ensuring that the bidder is compensated for the revelation of valuable private information released during merger negotiations. My empirical evidence demonstrates that merger deals with target termination fees involve significantly higher premiums and success rates than deals without such clauses. Furthermore, only weak support is found for the contention that termination fees deter competing bids. Overall, the evidence suggests that termination fee use is at least not harmful, and is likely beneficial, to target shareholders.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00119-3"
+        },
+        {
+            "no": "4",
+            "title": "Breaking up is hard to do? An analysis of termination fee provisions and merger outcomes",
+            "date": "Sep 2003",
+            "author": [
+                "Thomas W. Bates",
+                "Michael L. Lemmon"
+            ],
+            "abstract": "We examine the provision of termination fee clauses in merger agreements between 1989 and 1998. Target-payable fees are observed more frequently when bidding is costly and the potential for information expropriation by third parties is significant. Fee provisions appear to benefit target shareholders through higher deal completion rates and greater negotiated takeover premiums. We conclude that target-payable fees serve as an efficient contracting device, rather than a means by which to deter competitive bidding. Bidder fee provisions appear to be used to secure target wealth gains in deals with higher costs associated with negotiation and bid failure.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00120-X"
+        },
+        {
+            "no": "5",
+            "title": "Earnings management and investor protection: an international comparison",
+            "date": "Sep 2003",
+            "author": [
+                "Christian Leuz",
+                "Dhananjay Nanda",
+                "Peter D Wysocki"
+            ],
+            "abstract": "This paper examines systematic differences in earnings management across 31 countries. We propose an explanation for these differences based on the notion that insiders, in an attempt to protect their private control benefits, use earnings management to conceal firm performance from outsiders. Thus, earnings management is expected to decrease in investor protection because strong protection limits insiders\u2019 ability to acquire private control benefits, which reduces their incentives to mask firm performance. Our findings are consistent with this prediction and suggest an endogenous link between corporate governance and the quality of reported earnings.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00121-1"
+        },
+        {
+            "no": "6",
+            "title": "Index Volume 69",
+            "date": "Sep 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00219-8"
+        }
+    ]
+}

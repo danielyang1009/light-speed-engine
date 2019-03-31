@@ -1,0 +1,125 @@
+# JFE, Volume 97, Issue 3
+- September 2010
+- Pages 303-488
+
+## 1. Editorial Board
+### Date
+- Sep 2010
+### Authors
+### Abstract
+
+### Link
+- https://doi.org/10.1016/S0304-405X(10)00138-8
+
+## 2. The 2007–8 financial crisis: Lessons from corporate finance
+### Date
+- May 2010
+### Authors
+- Anil K Kashyap
+- Luigi Zingales
+### Abstract
+
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.05.010
+
+## 3. Unstable banking
+### Date
+- Oct 2009
+### Authors
+- Andrei Shleifer
+- Robert W. Vishny
+### Abstract
+We propose a theory of financial intermediaries operating in markets influenced by investor sentiment. In our model, banks make, securitize, distribute, and trade loans, or they hold cash. They also borrow money, using their security holdings as collateral. Banks maximize profits, and there are no conflicts of interest between bank shareholders and creditors. The theory predicts that bank credit and real investment will be volatile when market prices of loans are volatile, but it also points to the instability of banks, especially leveraged banks, participating in markets. Profit-maximizing behavior by banks creates systemic risk.
+### Link
+- https://doi.org/10.1016/j.jfineco.2009.10.007
+
+## 4. Bank lending during the financial crisis of 2008
+### Date
+- Dec 2009
+### Authors
+- Victoria Ivashina
+- David Scharfstein
+### Abstract
+This paper shows that new loans to large borrowers fell by 47% during the peak period of the financial crisis (fourth quarter of 2008) relative to the prior quarter and by 79% relative to the peak of the credit boom (second quarter of 2007). New lending for real investment (such as working capital and capital expenditures) fell by only 14% in the last quarter of 2008, but contracted nearly as much as new lending for restructuring (LBOs, M&As, share repurchases) relative to the peak of the credit boom. After the failure of Lehman Brothers in September 2008, there was a run by short-term bank creditors, making it difficult for banks to roll over their short term debt. We find that there was a simultaneous run by borrowers who drew down their credit lines, leading to a spike in commercial and industrial loans reported on bank balance sheets. We examine whether these two stresses on bank liquidity led them to cut lending. In particular, we show that banks cut their lending less if they had better access to deposit financing and thus, they were not as reliant on short-term debt. We also show that banks that were more vulnerable to credit-line drawdowns because they co-syndicated more of their credit lines with Lehman Brothers reduced their lending to a greater extent.
+### Link
+- https://doi.org/10.1016/j.jfineco.2009.12.001
+
+## 5. Paulson's gift
+### Date
+- Mar 2010
+### Authors
+- Pietro Veronesi
+- Luigi Zingales
+### Abstract
+We calculate the costs and benefits of the largest ever US government intervention in the financial sector announced during the 2008 Columbus-day weekend. We estimate that this intervention increased the value of banks’ financial claims by $130 billion (bn) at a taxpayers’ cost of $21–$44 billion with a net benefit between $86 and $109 bn. By looking at the limited cross section, we infer that this net benefit arises from a reduction in the probability of bankruptcy, which we estimate would destroy 22% of the enterprise value. The big winners of the plan were the bondholders of the three former investment banks and Citigroup, while the losers were JP Morgan shareholders and the US taxpayers.
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.03.011
+
+## 6. Securitization and distressed loan renegotiation: Evidence from the subprime mortgage crisis
+### Date
+- Apr 2010
+### Authors
+- Tomasz Piskorski
+- Amit Seru
+- Vikrant Vig
+### Abstract
+We examine whether securitization impacts renegotiation decisions of loan servicers, focusing on their decision to foreclose a delinquent loan. Conditional on a loan becoming seriously delinquent, we find a significantly lower foreclosure rate associated with bank-held loans when compared to similar securitized loans: across various specifications and origination vintages, the foreclosure rate of delinquent bank-held loans is 3% to 7% lower in absolute terms (13% to 32% in relative terms). There is a substantial heterogeneity in these effects with large effects among borrowers with better credit quality and small effects among lower quality borrowers. A quasi-experiment that exploits a plausibly exogenous variation in securitization status of a delinquent loan confirms these results.
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.04.003
+
+## 7. Will the U.S. bank recapitalization succeed? Eight lessons from Japan
+### Date
+- Feb 2010
+### Authors
+- Takeo Hoshi
+- Anil K Kashyap
+### Abstract
+During the financial crisis that started in 2007, the U.S. government has used a variety of tools to try to rehabilitate the U.S. banking industry. Many of those strategies were also used in Japan to combat its banking problems in the 1990s. There are also a surprising number of other similarities between the current U.S. crisis and the recent Japanese crisis. The Japanese policies were only partially successful in recapitalizing the banks until the economy finally started to recover in 2003. From these unsuccessful attempts, we derive eight lessons. In light of these eight lessons, we assess the policies the U.S. has pursued. The U.S. has ignored three of the lessons and it is too early to evaluate the U.S. policies with respect to four of the others. So far, the U.S. has avoided Japan's problem of having impaired banks prop up zombie firms.
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.02.005
+
+## 8. Costly external finance, corporate investment, and the subprime mortgage credit crisis
+### Date
+- Dec 2009
+### Authors
+- Ran Duchin
+- Oguzhan Ozbas
+- Berk A. Sensoy
+### Abstract
+We study the effect of the recent financial crisis on corporate investment. The crisis represents an unexplored negative shock to the supply of external finance for non-financial firms. Corporate investment declines significantly following the onset of the crisis, controlling for firm fixed effects and time-varying measures of investment opportunities. Consistent with a causal effect of a supply shock, the decline is greatest for firms that have low cash reserves or high net short-term debt, are financially constrained, or operate in industries dependent on external finance. To address endogeneity concerns, we measure firms’ financial positions as much as four years prior to the crisis, and confirm that similar results do not follow placebo crises in the summers of 2003–2006. Nor do similar results follow the negative demand shock caused by September 11, 2001. The effects weaken considerably beginning in the third quarter of 2008, when the demand-side effects of the crisis became apparent. Additional analysis suggests an important precautionary savings motive for seemingly excess cash that is generally overlooked in the literature.
+### Link
+- https://doi.org/10.1016/j.jfineco.2009.12.008
+
+## 9. The subprime credit crisis and contagion in financial markets
+### Date
+- Jan 2010
+### Authors
+- Francis A. Longstaff
+### Abstract
+I conduct an empirical investigation into the pricing of subprime asset-backed collateralized debt obligations (CDOs) and their contagion effects on other markets. Using data for the ABX subprime indexes, I find strong evidence of contagion in the financial markets. The results support the hypothesis that financial contagion was propagated primarily through liquidity and risk-premium channels, rather than through a correlated-information channel. Surprisingly, ABX index returns forecast stock returns and Treasury and corporate bond yield changes by as much as three weeks ahead during the subprime crisis. This challenges the popular view that the market prices of these “toxic assets” were unreliable; the results suggest that significant price discovery did in fact occur in the subprime market during the crisis.
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.01.002
+
+## 10. Auction failures and the market for auction rate securities
+### Date
+- Feb 2010
+### Authors
+- John J. McConnell
+- Alessio Saretto
+### Abstract
+The market for auction rate securities (ARS) made headlines during the second week of February 2008 when auctions at which the bonds’ interest rates reset experienced a wave of “failures.” Contrary to headlines that attribute the failures to a “frozen” market or investors’ “irrationality,” we find that (1) even at their height, less than 50% of ARS experienced auction failures, (2) the likelihood of auction failure was directly related to the level of the bonds’ “maximum auction rates,” (3) the implied market clearing yields of bonds with failed auctions were significantly above their maximum auction rates, and (4) ARS yields were generally higher than yields of various cash equivalent investment alternatives. We infer that investors priced the possibility of auctions failures into ARS yields and rationally declined to bid for bonds for which required market yields exceeded their maximum auction rates.
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.02.003
+
+## 11. The real effects of financial constraints: Evidence from a financial crisis
+### Date
+- Feb 2010
+### Authors
+- Murillo Campello
+- John R. Graham
+- Campbell R. Harvey
+### Abstract
+We survey 1,050 Chief Financial Officers (CFOs) in the U.S., Europe, and Asia to directly assess whether their firms are credit constrained during the global financial crisis of 2008. We study whether corporate spending plans differ conditional on this survey-based measure of financial constraint. Our evidence indicates that constrained firms planned deeper cuts in tech spending, employment, and capital spending. Constrained firms also burned through more cash, drew more heavily on lines of credit for fear banks would restrict access in the future, and sold more assets to fund their operations. We also find that the inability to borrow externally caused many firms to bypass attractive investment opportunities, with 86% of constrained U.S. CFOs saying their investment in attractive projects was restricted during the credit crisis of 2008. More than half of the respondents said they canceled or postponed their planned investments. Our results also hold in Europe and Asia, and in many cases are stronger in those economies. Our analysis adds to the portfolio of approaches and knowledge about the impact of credit constraints on real firm behavior.
+### Link
+- https://doi.org/10.1016/j.jfineco.2010.02.009
+

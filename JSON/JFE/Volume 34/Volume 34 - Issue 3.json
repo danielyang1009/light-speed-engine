@@ -1,0 +1,95 @@
+{
+    "journal": "JFE",
+    "volume": "34",
+    "issue": "3",
+    "date": "December 1993",
+    "page": "Pages 279-413",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Dec 1993",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Wayne H. Mikkelson",
+                "Richard S. Ruback",
+                "G.William Schwert",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(93)90028-A"
+        },
+        {
+            "no": "2",
+            "title": "Stealth trading and volatility",
+            "date": "Dec 1993",
+            "author": [
+                "Michael J. Barclay",
+                "Jerold B. Warner"
+            ],
+            "abstract": "We examine the proportion of a stock's cumulative price change that occurs in each trade-size category, using transactions data for a sample of NYSE firms. Although the majority of trades are small, most of the cumulative stock-price change is due to medium-size trades. This evidence is consistent with the hypothesis that informed trades are concentrated in the medium-size category, and that price movements are due mainly to informed traders' private information.",
+            "link": "https://doi.org/10.1016/0304-405X(93)90029-B"
+        },
+        {
+            "no": "3",
+            "title": "Portfolio return autocorrelation",
+            "date": "Dec 1993",
+            "author": [
+                "Timothy S. Mech"
+            ],
+            "abstract": "This paper investigates whether portfolio return autocorrelation can be explained by time-varying expected returns, nontrading, state limit orders, market maker inventory policy, or transaction costs. Evidence is consistent with the hypothesis that transaction costs cause portfolio autocorrelation by slowing price adjustment. I develop a transaction-cost model which predicts that prices adjust faster when changes in valuation are large in relation to the bid-ask spread. Cross-sectional tests support this prediction, but time-series tests do not.",
+            "link": "https://doi.org/10.1016/0304-405X(93)90030-F"
+        },
+        {
+            "no": "4",
+            "title": "The international market for corporate control",
+            "date": "Dec 1993",
+            "author": [
+                "Jun-Koo Kang"
+            ],
+            "abstract": "Japanese mergers and acquisitions in the U.S. create statistically significant wealth gains for both Japanese bidders and U.S. targets. Consistent with the literature on foreign direct investment and the market for corporate control, bidder-specific characteristics and exchange-rate movements are useful in explaining the cross-sectional variation in bidder returns: returns to Japanese bidders and to the portfolio of Japanese bidders and U.S. targets increase with the bidder's leverage, the bidder's ties to financial institutions through borrowings, and the depreciation of the dollar in relation to the Japanese yen.",
+            "link": "https://doi.org/10.1016/0304-405X(93)90031-6"
+        },
+        {
+            "no": "5",
+            "title": "The seasonal behavior of the liquidity premium in asset pricing",
+            "date": "Dec 1993",
+            "author": [
+                "Venkat R. Eleswarapu",
+                "Marc R. Reinganum"
+            ],
+            "abstract": "This paper empirically investigates the seasonal behavior of the liquidity premium in asset pricing. The evidence suggests a strong seasonal component. In the 1961\u20131990 period, the liquidity premium is reliably positive only during the month of January. For the non-January months, one cannot detect a positive liquidity premium. The impact of the relative bid-ask spreads on asset pricing in non-January months cannot be reliably distinguished from zero. In contrast to Amihud and Mendelson (1986), however, our evidence suggests that the size effect is significant, even after controlling for spreads.",
+            "link": "https://doi.org/10.1016/0304-405X(93)90032-7"
+        },
+        {
+            "no": "6",
+            "title": "Is the ex ante risk premium always positive?",
+            "date": "Dec 1993",
+            "author": [
+                "Jacob Boudoukh",
+                "Matthew Richardson",
+                "Tom Smith"
+            ],
+            "abstract": "This paper develops tests of inequality restrictions implied by conditional asset pricing models. The methodology is easy to implement, requires little knowledge of the conditional distribution of asset returns, and is valid under fairly weak assumptions. As an application, we test whether the ex ante risk premium is always positive. We report reliable evidence that the ex ante risk premium is negative in some states of the world; these states are related to periods of high expected inflation and especially to downward-sloping term structures.",
+            "link": "https://doi.org/10.1016/0304-405X(93)90033-8"
+        },
+        {
+            "no": "7",
+            "title": "Editorial collaborators",
+            "date": "Dec 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(93)90034-9"
+        },
+        {
+            "no": "8",
+            "title": "Index",
+            "date": "Dec 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(93)90035-A"
+        }
+    ]
+}

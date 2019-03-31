@@ -1,0 +1,74 @@
+{
+    "journal": "JFE",
+    "volume": "44",
+    "issue": "3",
+    "date": "June 1997",
+    "page": "Pages 279-417",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Jun 1997",
+            "author": [
+                "G. William Schwert"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(97)89472-X"
+        },
+        {
+            "no": "2",
+            "title": "Ownership and operating performance of companies that go public",
+            "date": "Jun 1997",
+            "author": [
+                "Wayne H. Mikkelson",
+                "M. Megan Partch",
+                "Kshitij Shah"
+            ],
+            "abstract": "Going public typically leads to a separation of managerial control and stock ownership, and potentially worsens managerial incentives. We document that the median ownership stake of officers and directors declines significantly from the year before going public to ten years later. Median operating return on assets also declines from the year before the offering to the end of the first year of public trading, but performance declines no further in ten years. In general, operating performance both within one year of the offering and during the first ten years of public trading is unrelated to ownership of officers and directors.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00006-8"
+        },
+        {
+            "no": "3",
+            "title": "On biases in tests of the expectations hypothesis of the term structure of interest rates",
+            "date": "Jun 1997",
+            "author": [
+                "Geert Bekaert",
+                "Robert J. Hodrick",
+                "David A. Marshall"
+            ],
+            "abstract": "We document extreme bias and dispersion in the small-sample distributions of four standard regression-based tests of the expectations hypothesis of the term structure of interest rates. The biases arise because of the extreme persistence in short interest rates. We derive approximate analytic expressions for the biases under a simple first-order autoregressive data generating process for the short rate. We then conduct Monte Carlo experiments based on a bias-adjusted first-order autoregressive process for the short rate and for a more realistic bias-adjusted VAR-GARCH model incorporating the short rate and three term spreads. Conducting inference with the small-sample distributions of test statistics rather than with their asymptotic distributions provides a more consistent rejection of the expectations hypothesis. Plausible sources of measurement error in short and long yields do not salvage the expectations hypothesis.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00007-X"
+        },
+        {
+            "no": "4",
+            "title": "Investor behavior in mass privatization: The case of the Czech voucher scheme",
+            "date": "Jun 1997",
+            "author": [
+                "Archana Hingorani",
+                "Kenneth Lehn",
+                "Anil K. Makhija"
+            ],
+            "abstract": "In the first round of the Czech privatization scheme, the authorities set a uniform share price for all companies, creating a natural experiment for testing several hypotheses concerning the determinants of share demand. We find a positive relation between first-round share demand and later stock market prices, supporting use of share demand to measure relative share values. We find that share demand is related to proxies for agency costs and the expected costs of financial distress. Interestingly, share demand is directly related to the percentage of shares held by insiders, which is relevant for the debate in former Communist countries over whether privatization programs should restrict insider holdings.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00008-1"
+        },
+        {
+            "no": "5",
+            "title": "Investment in technological innovations: An option pricing approach",
+            "date": "Jun 1997",
+            "author": [
+                "Steven R. Grenadier",
+                "Allen M. Weiss"
+            ],
+            "abstract": "This paper develops a model of the optimal investment strategy for a firm confronted with a sequence of technological innovations. We incorporate many of the most important characteristics of real-world technology markets. For example, we permit innovations to be stochastic in their arrival times and their profitability. We also incorporate learning so that firms adopting current innovations become better able to benefit from future innovations. The model yields four distinct investment strategies. The model is then used to predict actual firm policy. These implications are discussed and compared with observed firm behavior.",
+            "link": "https://doi.org/10.1016/S0304-405X(97)00009-3"
+        },
+        {
+            "no": "6",
+            "title": "Index",
+            "date": "Jun 1997",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(97)89473-1"
+        }
+    ]
+}

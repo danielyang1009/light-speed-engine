@@ -1,0 +1,73 @@
+{
+    "journal": "JFE",
+    "volume": "51",
+    "issue": "2",
+    "date": "February 1999",
+    "page": "Pages 171-340",
+    "article": [
+        {
+            "no": "1",
+            "title": "An analysis of mutual fund design: the case of investing in small-cap stocks1",
+            "date": "Feb 1999",
+            "author": [
+                "Donald B. Keim"
+            ],
+            "abstract": "In 1982, Dimensional Fund Advisors launched a mutual fund intended to capture the returns of small-cap stocks. The \u20189\u201310 Fund\u2019 is based on the CRSP 9\u201310 Index, an index of small-cap stocks constituting the ninth and tenth deciles of NYSE market capitalization, although the 9\u201310 Fund incorporates investment rules and a trading strategy that are aimed at minimizing the potentially excessive trade costs associated with such illiquid stocks. As a result, the 9\u201310 Fund provided a 2.2% annual premium over the 9\u201310 Index for the 1982\u20131995 period. We show that both the investment rules and the trade strategy components of the Fund\u2019s design contribute significantly to this return difference.",
+            "link": "https://doi.org/10.1016/S0304-405X(98)00049-X"
+        },
+        {
+            "no": "2",
+            "title": "Stock-based incentive contracts and managerial performance: the case of Ralston Purina Company1",
+            "date": "Feb 1999",
+            "author": [
+                "Cynthia J Campbell",
+                "Charles E Wasley"
+            ],
+            "abstract": "Under Ralston Purina Company's 1986 incentive contract 14 managers would receive $49.1 million in stock if within ten years the stock price closed above $100 for ten consecutive days. While the contract required a 57.8% increase in stock price, it did not motivate managers to create value because the rate of return required to reach $100 in ten years was substantially less than Ralston's cost of equity capital at the time of the contract's adoption. Barring any action by managers that would substantially change the market's expectations about the firm, reaching the $100 hurdle price would be easy. In fact, managers collected the contract's payoffs within five years despite an industry-adjusted loss of $2.1 billion in shareholder value.",
+            "link": "https://doi.org/10.1016/S0304-405X(98)00050-6"
+        },
+        {
+            "no": "3",
+            "title": "Testing static tradeoff against pecking order models of capital structure1",
+            "date": "Feb 1999",
+            "author": [
+                "Lakshmi Shyam-Sunder",
+                "Stewart C. Myers"
+            ],
+            "abstract": "This paper tests traditional capital structure models against the alternative of a pecking order model of corporate financing. The basic pecking order model, which predicts external debt financing driven by the internal financial deficit, has much greater time-series explanatory power than a static tradeoff model, which predicts that each firm adjusts gradually toward an optimal debt ratio. We show that our tests have the power to reject the pecking order against alternative tradeoff hypotheses. The statistical power of some usual tests of the tradeoff model is virtually nil.",
+            "link": "https://doi.org/10.1016/S0304-405X(98)00051-8"
+        },
+        {
+            "no": "4",
+            "title": "Using genetic algorithms to find technical trading rules1",
+            "date": "Feb 1999",
+            "author": [
+                "Franklin Allen",
+                "Risto Karjalainen"
+            ],
+            "abstract": "We use a genetic algorithm to learn technical trading rules for the S&P 500 index using daily prices from 1928 to 1995. After transaction costs, the rules do not earn consistent excess returns over a simple buy-and-hold strategy in the out-of-sample test periods. The rules are able to identify periods to be in the index when daily returns are positive and volatility is low and out when the reverse is true. These latter results can largely be explained by low-order serial correlation in stock index returns.",
+            "link": "https://doi.org/10.1016/S0304-405X(98)00052-X"
+        },
+        {
+            "no": "5",
+            "title": "Long-term returns from equity carveouts1",
+            "date": "Feb 1999",
+            "author": [
+                "Anand M Vijh"
+            ],
+            "abstract": "Using a sample of 628 carveouts during 1981\u20131995, this paper finds that the newly issued subsidiary stocks do not underperform appropriate benchmarks over a three-year period following the carveout. This result is in striking contrast with the documented poor performance of initial public offerings and seasoned equity offerings. I conjecture that the superior performance of subsidiary stocks arises because the subsidiary and parent firms can focus on fewer business segments after carveout, and because the parent firms continue to own a monitoring position in the subsidiary firms. I test whether the subsidiary stock performance is related to the number of business segments the parent firm has before carveout. The relationship is not always significant, which suggests another possible explanation, that the market may react efficiently to the likely future performance of carveouts.",
+            "link": "https://doi.org/10.1016/S0304-405X(98)00053-1"
+        },
+        {
+            "no": "6",
+            "title": "Deregulation, disintermediation, and agency costs of debt: evidence from Japan1",
+            "date": "Feb 1999",
+            "author": [
+                "Christopher W. Anderson",
+                "Anil K. Makhija"
+            ],
+            "abstract": "Many Japanese firms reduced dependence on banks following financial deregulation in the 1980s. The financial architecture of Japanese firms after liberalization provides an opportunity to investigate the choice of financing with public bonds versus monitored bank loans. Examination of accounting and stock price data for a sample of Japanese firms in the late 1980s suggests that debt structure is related to variables that serve as proxies for agency costs of debt. In particular, we find that the proportion of bond debt is inversely related to growth opportunities, while the proportion of bank debt is positively related to growth opportunities.",
+            "link": "https://doi.org/10.1016/S0304-405X(98)00054-3"
+        }
+    ]
+}

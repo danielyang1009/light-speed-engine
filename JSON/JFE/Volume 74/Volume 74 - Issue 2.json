@@ -1,0 +1,84 @@
+{
+    "journal": "JFE",
+    "volume": "74",
+    "issue": "2",
+    "date": "November 2004",
+    "page": "Pages EX1-EX2, 209-398",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Nov 2004",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(04)00173-4"
+        },
+        {
+            "no": "2",
+            "title": "Predicting returns with financial ratios",
+            "date": "Nov 2002",
+            "author": [
+                "Jonathan Lewellen"
+            ],
+            "abstract": "This article studies whether financial ratios like dividend yield can predict aggregate stock returns. Predictive regressions are subject to small-sample biases, but the correction used by prior studies can substantially understate forecasting power. I show that dividend yield predicts market returns during the period 1946\u20132000, as well as in various subsamples. Book-to-market and the earnings-price ratio predict returns during the shorter sample 1963\u20132000. The evidence remains strong despite the unusual price run-up in recent years.",
+            "link": "https://doi.org/10.1016/j.jfineco.2002.11.002"
+        },
+        {
+            "no": "3",
+            "title": "Managerial succession and firm performance",
+            "date": "Aug 2003",
+            "author": [
+                "Mark R. Huson",
+                "Paul H. Malatesta",
+                "Robert Parrino"
+            ],
+            "abstract": "We examine CEO turnover and firm financial performance. Accounting measures of performance relative to other firms deteriorate prior to CEO turnover and improve thereafter. The degree of improvement is positively related to the level of institutional shareholdings, the presence of an outsider-dominated board, and the appointment of an outsider (rather than an insider) CEO. Turnover announcements are associated with significantly positive average abnormal stock returns, which are in turn significantly positively related to subsequent changes in accounting measures of performance. This suggests that investors view turnover announcements as good news presaging performance improvements.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.08.002"
+        },
+        {
+            "no": "4",
+            "title": "Cross-country determinants of mergers and acquisitions",
+            "date": "Oct 2003",
+            "author": [
+                "Stefano Rossi",
+                "Paolo F. Volpin"
+            ],
+            "abstract": "We study the determinants of mergers and acquisitions around the world by focusing on differences in laws and regulation across countries. We find that the volume of M&A activity is significantly larger in countries with better accounting standards and stronger shareholder protection. The probability of an all-cash bid decreases with the level of shareholder protection in the acquirer country. In cross-border deals, targets are typically from countries with poorer investor protection than their acquirers\u2019 countries, suggesting that cross-border transactions play a governance role by improving the degree of investor protection within target firms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.10.001"
+        },
+        {
+            "no": "5",
+            "title": "Limited arbitrage and short sales restrictions: evidence from the options markets",
+            "date": "May 2003",
+            "author": [
+                "Eli Ofek",
+                "Matthew Richardson",
+                "Robert F. Whitelaw"
+            ],
+            "abstract": "We investigate empirically the well-known put\u2013call parity no-arbitrage relation in the presence of short sales restrictions. Violations of put\u2013call parity are asymmetric in the direction of short sales constraints, and their magnitudes are strongly related to the cost and difficulty of short selling. These violations are also related to both the maturity of the option and the level of valuations in the stock market, consistent with a behavioral finance theory of over-optimistic stock investors and market segmentation. Moreover, both the size of put\u2013call parity violations and the cost of short selling are significant predictors of future returns for individual stocks.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.05.008"
+        },
+        {
+            "no": "6",
+            "title": "Institutional trading and the turn-of-the-year effect",
+            "date": "May 2003",
+            "author": [
+                "Lilian Ng",
+                "Qinghai Wang"
+            ],
+            "abstract": "This study provides evidence that links institutional trading behavior directly to anomalous turn-of-the-year return patterns of small stocks. We find that turn-of-the-year trading patterns of institutions reflect strategies generally consistent with window-dressing and risk-shifting behaviors. Institutions sell more loser small stocks in the last quarter of the year, but buy more small stocks, winners and losers, in the first quarter. Institutional buying (selling) of loser stocks at year-end weakens (strengthens) the turn-of-the-year effect. Buying of winner stocks after year-end causes a statistically significant, though weaker, effect.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.05.009"
+        },
+        {
+            "no": "7",
+            "title": "Style effects in the cross-section of stock returns",
+            "date": "Oct 2003",
+            "author": [
+                "Melvyn Teo",
+                "Sung-Jun Woo"
+            ],
+            "abstract": "Using CRSP stock and mutual fund data, we find strong evidence for reversals at the style level (e.g., large value, small growth, etc.). There are significant excess and risk-adjusted returns for stocks in styles characterized by the worst past returns and net inflows. We also find evidence for momentum and positive feedback trading at the style level. These value and momentum effects are driven neither by fundamental risk nor by stock-level reversals and momentum. Taken together, the results are consistent with the style-level positive feedback trading model of Barberis and Shleifer (2003).",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.10.003"
+        }
+    ]
+}

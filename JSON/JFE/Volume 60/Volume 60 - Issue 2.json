@@ -1,0 +1,131 @@
+{
+    "journal": "JFE",
+    "volume": "60",
+    "issue": "2\u20133",
+    "date": "May 2001",
+    "page": "Pages 179-614",
+    "article": [
+        {
+            "no": "1",
+            "title": "HBS-JFE conference volume: complementary research methods",
+            "date": "May 2001",
+            "author": [
+                "Peter Tufano"
+            ],
+            "abstract": "The purpose of the Harvard Business School-Journal of Financial Economics conference was to reexamine the role of clinical work in our profession. Clinical research\u2013empirical work that examines a relatively small number of events intensively\u2013accounts for a very small fraction of published work in the field. The pieces in this conference volume are case studies of different \u201cclinical\u201d research techniques that are used to develop, test, apply and communicate theory.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00043-5"
+        },
+        {
+            "no": "2",
+            "title": "The theory and practice of corporate finance: evidence from the field",
+            "date": "May 2001",
+            "author": [
+                "John R Graham",
+                "Campbell R Harvey"
+            ],
+            "abstract": "We survey 392 CFOs about the cost of capital, capital budgeting, and capital structure. Large firms rely heavily on present value techniques and the capital asset pricing model, while small firms are relatively likely to use the payback criterion. A surprising number of firms use firm risk rather than project risk in evaluating new investments. Firms are concerned about financial flexibility and credit ratings when issuing debt, and earnings per share dilution and recent stock price appreciation when issuing equity. We find some support for the pecking-order and trade-off capital structure hypotheses but little evidence that executives are concerned about asset substitution, asymmetric information, transactions costs, free cash flows, or personal taxes.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00044-7"
+        },
+        {
+            "no": "3",
+            "title": "Why do firms switch underwriters?",
+            "date": "May 2001",
+            "author": [
+                "Laurie Krigman",
+                "Wayne H Shaw",
+                "Kent L Womack"
+            ],
+            "abstract": "In the mid-1990s, 30% of firms completing an SEO within three years of their IPO switched lead underwriter. This article provides evidence on why they switched. Contrary to predictions of prior research, there is little evidence that firms switch due to dissatisfaction with underwriter performance at the time of the IPO. A surprising result is that switchers\u2019 IPOs were significantly less underpriced than non-switchers\u2019 IPOs. However, switchers raised fewer proceeds than expected, compared to the mid-point of the filing range, while non-switchers raised significantly more proceeds. There are two main reasons for switching. Firms graduate to higher reputation underwriters, and they strategically buy additional and influential analyst coverage from the new lead underwriter. Survey results support these conclusions.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00045-9"
+        },
+        {
+            "no": "4",
+            "title": "Where do merger gains come from? Bank mergers from the perspective of insiders and outsiders",
+            "date": "May 2001",
+            "author": [
+                "Joel F Houston",
+                "Christopher M James",
+                "Michael D Ryngaert"
+            ],
+            "abstract": "Traditional studies fail to find conclusive evidence that bank mergers create value. We analyze a sample of the largest bank mergers between 1985 and 1996. For a subset of this sample, we obtain management estimates of projected cost savings and revenue enhancements. We find that recent mergers appear to result in positive revaluations of the combined value of bidder and target stocks. Although not as large as the present value of management's estimates, with the bulk of the revaluation being attributable to estimated cost savings rather than projected revenue enhancements.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00046-0"
+        },
+        {
+            "no": "5",
+            "title": "Market reaction to public information: The atypical case of the Boston Celtics",
+            "date": "May 2001",
+            "author": [
+                "Gregory W Brown",
+                "Jay C Hartzell"
+            ],
+            "abstract": "The publicly traded Boston Celtics Limited Partnership shares provide a unique means of studying the impact of information on equity prices. The results of the Celtics\u2019 basketball games significantly affect partnership share returns, trading volume, and volatility. Controlling for the expectedvalue of the signal using betting-market point spreads has little effect on these relations. Investors respond asymmetrically to wins and losses, and playoff games have a larger impact on returns than regular-season games. Opening prices do not fully reflect game results, consistent with previous findings that significant volatility is caused by traders acting on private information.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00047-2"
+        },
+        {
+            "no": "6",
+            "title": "The information content of litigation participation securities: the case of CalFed Bancorp",
+            "date": "May 2001",
+            "author": [
+                "Benjamin C. Esty"
+            ],
+            "abstract": "CalFed Bancorp is one of 126 S&Ls suing the U.S. government for breach of contract related to supervisory goodwill, a form of goodwill created by the acquisition of insolvent thrifts during the early 1980s. Before a determination of damages in its lawsuit, CalFed announced and issued a litigation participation security giving shareholders a proportional claim on recovered damages, if any. This announcement generated a positive excess return in part because it made CalFed a more likely acquisition target. Trading in the security also reveals important, yet previously unavailable, information about CalFed's lawsuit: its price reveals a market-based estimate of damages while its beta reveals information regarding expected returns and trial duration. In a broader context, this paper identifies acquisition facilitation as a benefit of issuing targeted stock and highlights a series of lawsuits that will set important precedents regarding the determination of liability and the estimation of damages in breach of contract cases.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00048-4"
+        },
+        {
+            "no": "7",
+            "title": "Managing foreign exchange risk with derivatives",
+            "date": "May 2001",
+            "author": [
+                "Gregory W Brown"
+            ],
+            "abstract": "This study investigates the foreign exchange risk management program of HDG Inc. (pseudonym), a US-based manufacturer of durable equipment. Precise examination of factors affecting why and how the firm manages its foreign exchange exposure are explored through the use of internal firm documents, discussions with managers, and data on3,110 foreign-exchange derivative transactions. Informational asymmetries, facilitation of internal contracting, and competitive pricing concerns appear to motivate why the firm hedges. How HDG hedges depends on accounting treatment, derivative market liquidity, exchange rate volatility, exposure volatility, and recent hedging outcomes.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00049-6"
+        },
+        {
+            "no": "8",
+            "title": "Cephalon, Inc. Taking risk management theory seriously",
+            "date": "May 2001",
+            "author": [
+                "George Chacko",
+                "Peter Tufano",
+                "Geoffrey Verter"
+            ],
+            "abstract": "Cephalon Inc., a biotech firm, bought call options on its own stock to meet its conditional cash flow needs. We analyze this decision by using the cash flow hedging concepts of Froot et al., (1993. Journal of Finance 5, 1629\u20131658). We identify the managerial analyses necessary to apply this theory and discuss managerial considerations absent from the theory. We find that managers consider deadweight costs of risk management, which theory tends to ignore. Theory provides little guidance in how to measure these and other deadweight costs. Finally, uncertainty about the availability of external financing and accounting considerations are critical considerations by managers.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00050-2"
+        },
+        {
+            "no": "9",
+            "title": "Credit enhancement through financial engineering: Freeport McMoRan's gold-denominated depositary shares",
+            "date": "May 2001",
+            "author": [
+                "N.K Chidambaran",
+                "Chitru S Fernando",
+                "Paul A Spindt"
+            ],
+            "abstract": "In 1993 and 1994, FreeportMcMoRan Copper and Gold issued two series of gold-denominated depositary shares to finance the expansion of its mining capacity in Indonesia. The pricing of these securities reflected their enhanced credit quality, which arose from the positive correlation between the value of the firm and the value of the securities. This feature of the securities effectively bundles a gold hedge with financing. A bundled hedge avoids wealth transfers to senior bondholders, since junior bondholders can effectively net their bond-related claims on the firm against their hedge-related liability to the firm. Such securities cannot be replicated by conventional hedging strategies, and they also mitigate the asset substitution problem.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00051-4"
+        },
+        {
+            "no": "10",
+            "title": "The market for catastrophe risk: a clinical examination",
+            "date": "May 2001",
+            "author": [
+                "Kenneth A. Froot"
+            ],
+            "abstract": "This paper examines the market for catastrophe event risk \u2013 i.e., financial claims that are linked to losses associated with natural hazards, such as hurricanes and earthquakes. Risk management theory suggests protection by insurers and other corporations against the largest cat events is most valuable. However, most insurers purchase relatively little cat reinsurance against large events, and premiums are high relative to expected losses. To understand why the theory fails, we examine transactions that look to capital markets, rather than traditional reinsurance markets, for risk-bearing capacity. We develop eight theoretical explanations and find the most compelling to be supply restrictions associated with capital market imperfections and market power exerted by traditional reinsurers.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00052-6"
+        },
+        {
+            "no": "11",
+            "title": "Bond calls, credible commitment, and equity dilution: a theoretical and clinical analysis of simultaneous tender and call (STAC) offers",
+            "date": "May 2001",
+            "author": [
+                "Upinder S. Dhillon",
+                "Thomas H. Noe",
+                "Gabriel G. Ram\u0131\u0301rez"
+            ],
+            "abstract": "This paper is an exploration of the ability of game theory to explain real-world corporate maneuvering. We explore this issue by investigating bond tender offers accompanied by a threat to call nontendered bonds, so called \u201cSimultaneous Tender and Call\u201d (STAC) offers. We argue that STACs engender a transparent game played by bondholders and shareholders. We model this game and use this model to predict the outcome of STACs. Finally, we investigate the issue of whether this theoretical model explains the outcomes of four actual STAC issues made by James River, May Department Stores, and Houston Lighting & Power Company. Our clinical analysis provides support for the explanatory power of our model. Calibrating the predictions of the model with data from these STACs, we demonstrate a correspondence between theory and actual corporate behavior. As predicted by our model, subgame perfection, or threat credibility, and preplay coordination are central to explaining the outcomes of the STACs.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00053-8"
+        }
+    ]
+}

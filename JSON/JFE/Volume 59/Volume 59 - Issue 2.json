@@ -1,0 +1,53 @@
+{
+    "journal": "JFE",
+    "volume": "59",
+    "issue": "2",
+    "date": "February 2001",
+    "page": "Pages 149-278",
+    "article": [
+        {
+            "no": "1",
+            "title": "The portfolio flows of international investors",
+            "date": "Feb 2001",
+            "author": [
+                "Kenneth A. Froot",
+                "Paul G.J. O\u2019Connell",
+                "Mark S. Seasholes"
+            ],
+            "abstract": "This paper explores daily international portfolio flows into and out of 44 countries from 1994 through 1998. We find several facts concerning the behavior of flows and their relationship with equity returns. First, we detect regional flow factors that have increased in importance through time. Second, the flows appear to be stationary, but far more persistent than returns. Third, flows are strongly influenced by past returns, a finding consistent with positive feedback trading by international investors. Fourth, inflows have positive forecasting power for future equity returns, and this power is statistically significant in emerging markets. Fifth, the sensitivity of local stock prices to foreign inflows is positive and large. Sixth, prices seem consistent with flow persistence, in that transitory inflows impact future returns negatively.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00084-2"
+        },
+        {
+            "no": "2",
+            "title": "Aggregate price effects of institutional trading: a study of mutual fund flow and market returns",
+            "date": "Feb 2001",
+            "author": [
+                "Roger M Edelen",
+                "Jerold B Warner"
+            ],
+            "abstract": "We study the relation between market returns and aggregate flow into U.S. equity funds, using daily flow data. The concurrent daily relation is positive. Our tests show that this concurrent relation reflects flow and institutional trading affecting returns. This daily relation is similar in magnitude to the price impact reported for an individual institution's trades in a stock. Aggregate flow also follows market returns with a one-day lag. The lagged response of flow suggests either a common response of both returns and flow to new information, or positive feedback trading.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00085-4"
+        },
+        {
+            "no": "3",
+            "title": "Stockholder gains from focusing versus diversifying bank mergers",
+            "date": "Feb 2001",
+            "author": [
+                "Gayle L. DeLong"
+            ],
+            "abstract": "This paper shows bank mergers that enhance value upon announcement can be distinguished from those that do not create value. I classify mergers of banking firms according to activity and geographic similarity (focus) or dissimilarity (diversification), and examine the abnormal returns to each group as a result of the merger announcement. Mergers that focus both activity and geography enhance stockholder value by 3.0% while the other types do not create value. Analysis reveals that abnormal returns upon merger announcement increase in relative size of target to bidder, but decrease in the pre-merger performance of targets.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00086-6"
+        },
+        {
+            "no": "4",
+            "title": "Sixteenths: direct evidence on institutional execution costs",
+            "date": "Feb 2001",
+            "author": [
+                "Charles M Jones",
+                "Marc L Lipson"
+            ],
+            "abstract": "In June 1997, the New York Stock Exchange lowered its minimum price increment on most stocks from eighths to sixteenths. We use a sample of institutional trades to directly measure the effect of this tick size reduction on execution costs. Though quoted and effective spreads decline, realized execution costs for these institutions increase after the change to sixteenths. Costs increase most for orders that aggressively demand liquidity, including large orders, orders placed by momentum traders, and orders not worked by the trading desk. These findings emphasize that spreads are not a sufficient statistic for market quality. Smaller tick sizes may actually reduce market liquidity.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00087-8"
+        }
+    ]
+}

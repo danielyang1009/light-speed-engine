@@ -1,0 +1,77 @@
+{
+    "journal": "JFE",
+    "volume": "9",
+    "issue": "2",
+    "date": "June 1981",
+    "page": "Pages 111-217",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Jun 1981",
+            "author": [
+                "Michael C. Jensen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(81)90009-X"
+        },
+        {
+            "no": "2",
+            "title": "Common stock repurchases",
+            "date": "Jun 1981",
+            "author": [
+                "Larry Y. Dann"
+            ],
+            "abstract": "This paper examines the effects of a common stock repurchase on the values of the repurchasing firm's common stock, debt and preferred stock, and attempts to identify the dominant factors underlying the observed value changes. The evidence indicates that significant increases in firm values occur within one day of a stock repurchase announcement. These value changes appear to be due principally to an information signal from the repurchasing firm. Common stockholders are the beneficiaries of virtually all of the value increments, but no class of securities examined declines in value as a result of the repurchase.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90010-6"
+        },
+        {
+            "no": "3",
+            "title": "Common stock repurchases and market signalling",
+            "date": "Jun 1981",
+            "author": [
+                "Theo Vermaelen"
+            ],
+            "abstract": "This paper examines the pricing behavior of securities of firms which repurchase their own shares. The results are consistent with a market in which investors price securities such that expected arbitrage profits are precluded. The results are also consistent with the hypothesis that firms offer premia for their own shares mainly in order to signal positive information, and that the market uses the premium, the target fraction and the fraction of insider holdings as signals in order to price securities around the announcement date. The observation that repurchases via tender offer are followed by abnormal increases in earnings per share and that mainly small firms engage in repurchase tender offers, provides further support for the signalling hypothesis.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90011-8"
+        },
+        {
+            "no": "4",
+            "title": "Risk and return on long-lived tangible assets",
+            "date": "Jun 1981",
+            "author": [
+                "Richard Schmalensee"
+            ],
+            "abstract": "Assuming rational expectations, a specialization of Ross' Arbitrage Pricing Theory is used to obtain a simple securities market valuation formula when dividends follow linear stochastic processes. The implications of this model for the use of accounting data to measure risk and for capital budgeting are explored. A new measure of riskiness based on accounting data is derived, and the use of risk-adjusted discount rates is evaluated.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90012-X"
+        },
+        {
+            "no": "5",
+            "title": "On the valuation of American call options on stocks with known dividends",
+            "date": "Jun 1981",
+            "author": [
+                "Robert E. Whaley"
+            ],
+            "abstract": "Both the Roll and the Geske equations for the valuation of the American call option on a stock with known dividends are incorrectly specified. This note presents the corrected valuation formula, explains the misspecifications and provides a numerical example.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90013-1"
+        },
+        {
+            "no": "6",
+            "title": "Comments on Whaley's note",
+            "date": "Jun 1981",
+            "author": [
+                "Robert Geske"
+            ],
+            "abstract": "Valuation by duplication is a useful conceptual technique but it does not yield unique formula. Many duplicating portfolios, some simpler than the three security portfolio in Roll and Whaley, exist for this problem. Valuing the actual single security will generally yield conceptually and computationally simpler solutions.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90014-3"
+        },
+        {
+            "no": "7",
+            "title": "News item",
+            "date": "Jun 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(81)90015-5"
+        }
+    ]
+}

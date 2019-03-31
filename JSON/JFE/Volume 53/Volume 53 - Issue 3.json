@@ -1,0 +1,64 @@
+{
+    "journal": "JFE",
+    "volume": "53",
+    "issue": "3",
+    "date": "September 1999",
+    "page": "Pages 309-466",
+    "article": [
+        {
+            "no": "1",
+            "title": "The adaptive mesh model: a new approach to efficient option pricing",
+            "date": "Sep 1999",
+            "author": [
+                "Stephen Figlewski",
+                "Bin Gao"
+            ],
+            "abstract": "Most derivative securities must be priced by numerical techniques. These models contain \u201cdistribution error\u201d and \u201cnonlinearity error\u201d. The Adaptive Mesh Model (AMM) sharply reduces nonlinearity error by grafting one or more small sections of fine high-resolution lattice onto a tree with coarser time and price steps. Three different AMM structures are presented, one for pricing ordinary options, one for barrier options, and one for computing delta and gamma efficiently. The AMM approach can be adapted to a wide variety of contingent claims. For some common problems, accuracy increases by several orders of magnitude with no increase in execution time.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00024-0"
+        },
+        {
+            "no": "2",
+            "title": "Understanding the determinants of managerial ownership and the link between ownership and performance",
+            "date": "Sep 1999",
+            "author": [
+                "Charles P. Himmelberg",
+                "R.Glenn Hubbard",
+                "Darius Palia"
+            ],
+            "abstract": "Both managerial ownership and performance are endogenously determined by exogenous (and only partly observed) changes in the firm's contracting environment. We extend the cross-sectional results of Demsetz and Lehn (1985), (Journal of Political Economy, 93, 1155\u20131177) and use panel data to show that managerial ownership is explained by key variables in the contracting environment in ways consistent with the predictions of principal-agent models. A large fraction of the cross-sectional variation in managerial ownership is explained by unobserved firm heterogeneity. Moreover, after controlling both for observed firm characteristics and firm fixed effects, we cannot conclude (econometrically) that changes in managerial ownership affect firm performance.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00025-2"
+        },
+        {
+            "no": "3",
+            "title": "Capital gains tax rates and the cost of capital for small business: evidence from the IPO market",
+            "date": "Sep 1999",
+            "author": [
+                "David A. Guenther",
+                "Michael Willenborg"
+            ],
+            "abstract": "We examine the issue prices of small initial public offerings around the 1993 tax law change that reduced the capital gains tax on qualified small business stock. We compare the actual issue price of new stock with a benchmark price that is not affected by the change in capital gains tax. We find that, after controlling for IPO underpricing, the issue prices of qualifying small business stock after the tax rate change are significantly higher than the issue prices before the change. A control sample of nonqualifying firms shows no significant difference in issue prices.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00026-4"
+        },
+        {
+            "no": "4",
+            "title": "Valuing IPOs",
+            "date": "Sep 1999",
+            "author": [
+                "Moonchul Kim",
+                "Jay R. Ritter"
+            ],
+            "abstract": "The use of accounting information in conjunction with comparable firm multiples is widely recommended for valuing initial public offerings (IPOs). We find that the price\u2013earnings (P/E), market-to-book, and price-to-sales multiples of comparable firms have only modest predictive ability without further adjustments. This is largely due to the wide variation of these ratios for young firms within an industry. P/E multiples using forecasted earnings result in much more accurate valuations than multiples using trailing earnings.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00027-6"
+        },
+        {
+            "no": "5",
+            "title": "Investor flows and the assessed performance of open-end mutual funds",
+            "date": "Sep 1999",
+            "author": [
+                "Roger M. Edelen"
+            ],
+            "abstract": "Open-end equity funds provide a diversified equity positions with little direct cost to investors for liquidity. This study documents a statistically significant indirect cost in the form of a negative relation between a fund's abnormal return and investor flows. Controlling for this indirect cost of liquidity changes the average fund's abnormal return (net of expenses) from a statistically significant \u22121.6% per year to a statistically insignificant \u22120.2% and also fully explains the negative market-timing performance found in this and other studies of mutual fund returns. Thus, the common finding of negative return performance at open-end mutual funds is attributable to the costs of liquidity-motivated trading.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00028-8"
+        }
+    ]
+}

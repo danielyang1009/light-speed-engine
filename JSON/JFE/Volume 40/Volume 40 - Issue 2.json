@@ -1,0 +1,91 @@
+{
+    "journal": "JFE",
+    "volume": "40",
+    "issue": "2",
+    "date": "February 1996",
+    "page": "Pages 183-338",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Feb 1996",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Wayne H. Mikkelson",
+                "Richard S. Ruback",
+                "G.William Schwert",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(96)90005-7"
+        },
+        {
+            "no": "2",
+            "title": "Higher market valuation of companies with a small board of directors",
+            "date": "Feb 1996",
+            "author": [
+                "David Yermack"
+            ],
+            "abstract": "I present evidence consistent with theories that small boards of directors are more effective. Using Tobin's Q as an approximation of market valuation, I find an inverse association between board size and firm value in a sample of 452 large U.S. industrial corporations between 1984 and 1991. The result is robust to numerous controls for company size, industry membership, inside stock ownership, growth opportunities, and alternative corporate governance structures. Companies with small boards also exhibit more favorable values for financial ratios, and provide stronger CEO performance incentives from compensation and the threat of dismissal.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00844-5"
+        },
+        {
+            "no": "3",
+            "title": "Business conditions, monetary policy, and expected security returns",
+            "date": "Feb 1996",
+            "author": [
+                "Gerald R. Jensen",
+                "Jeffrey M. Mercer",
+                "Robert R. Johnson"
+            ],
+            "abstract": "We examine the evidence that expected security returns can be forecasted by the term premium, default premium, and dividend yield, in light of recent findings that similar security return patterns are associated with Federal Reserve monetary policy developments. We extend Fama and French's (1989) analysis by suggesting that the monetary environment influences investors' required returns, and hence the robustness of the models they propose. Our findings indicate that Fama and French's results vary dramatically across monetary environments; that is, the behavior of the business-conditions proxies and their influence on expected security returns is significantly affected by the monetary sector.",
+            "link": "https://doi.org/10.1016/0304-405X(96)89537-7"
+        },
+        {
+            "no": "4",
+            "title": "Active investors and management turnover following unsuccessful control contests",
+            "date": "Feb 1996",
+            "author": [
+                "David J. Denis",
+                "Jan M. Serrano"
+            ],
+            "abstract": "We report that 34% of targets of unsuccessful control contents between 1983 and 1989 experience a change in top manager within two years following the contest. Management turnover is concentrated among poorly performing firms in which outside blockholders acquire an ownership stake. These blockholders appear to facilitate post-contest asset restructurings that increase the value of the target and improve operating performance. In the absence of an outsider blockholder, managers typically retain their positions despite poor pre-contest performance and the use of value-reducing defensive tactics during the control contest. We conclude that monitoring by active outside investors facilitates valuable internal control efforts.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00846-7"
+        },
+        {
+            "no": "5",
+            "title": "The influence of professional investors on the failure of management buyout attempts",
+            "date": "Feb 1996",
+            "author": [
+                "Sarah W. Peck"
+            ],
+            "abstract": "In a sample of 111 MBO offers between 1984 and 1987, almost 30% attract new blockholders. These blockholders are primarily professional investors who act to facilitate a takeover by a higher bidder, thus increasing returns to both themselves and other public shareholders. In contrast, I find little evidence that pre-existing blockholders, particularly institutional holders, affect either the offer outcome or actively participate in the buyout contest once it begins. The overall pattern of results suggests that professional investors, particularly equity-holding companies, are \u2018control specialists\u2019 who provide valuable services as brokers in the market for corporate control.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00847-8"
+        },
+        {
+            "no": "6",
+            "title": "A generalized model for testing the home and favorite team advantage in point spread markets",
+            "date": "Feb 1996",
+            "author": [
+                "William H. Dare",
+                "S.Scott MacDonald"
+            ],
+            "abstract": "Most sports teams play as either the favorite or the underdog and either at home or away. The failure to recognize the symmetric and interdependent relations between these characteristics has led previous researchers to use potentially biased methods to test for rationality and efficiency in football betting markets and thus to reach inappropriate conclusions. We develop a more general specification, which also incorporates \u2018pick-em\u2019 games and games played on neutral sites, and find little or no evidence against market efficiency in the NFL and college betting markets for regular season games. We do, however, uncover evidence of biased betting lines for Superbowls.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00848-9"
+        },
+        {
+            "no": "7",
+            "title": "A requiem for the USA Is small shareholder monitoring effective?",
+            "date": "Feb 1996",
+            "author": [
+                "Deon Strickland",
+                "Kenneth W. Wiles",
+                "Marc Zenner"
+            ],
+            "abstract": "From 1986 to 1993, the United Shareholders Association (USA) provided a conduit through which small shareholders could unite and attempt to influence the governance of large US corporations. We show that the USA targeted large firms that underperformed the market, that its influence increased from 1990 to 1993, and that USA-Sponsored proposals were more successful when the target firm was a poor performer with high institutional ownership. The announcement of 53 USA-negotiated agreements is associated with an average abnormal return of 0.9% or a total shareholder wealth gain of $1.3 billion, suggesting that USA-sponsored shareholder activism enhanced shareholder value.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00849-A"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "journal": "JFE",
+    "volume": "16",
+    "issue": "1",
+    "date": "May 1986",
+    "page": "Pages 1-140",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "May 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(86)90039-5"
+        },
+        {
+            "no": "2",
+            "title": "Editorial data",
+            "date": "May 1986",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "G.William Schwert",
+                "Clifford W. Smith",
+                "Ren\u00e9M. Stulz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(86)90040-1"
+        },
+        {
+            "no": "3",
+            "title": "Consumption, production, inflation and interest rates",
+            "date": "May 1986",
+            "author": [
+                "Douglas T. Breeden"
+            ],
+            "abstract": "This paper uses discrete-time and continuous-time models to derive equilibrium relations among real and nominal interest rates and the expected growth, variance and covariance parameters of optimally chosen paths for aggregate real consumption and aggregate production. Simple, intuitive and fairly general relations are obtained which apply to most of the models of financial economics of the past 20 years. The single-good analysis generalizes and provides a synthesis of many prior works, whereas the multi-good analysis provides more original results. Consistent business cycle movements are examined for interest rates, inflation and consumption and production aggregates.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90041-3"
+        },
+        {
+            "no": "4",
+            "title": "Implicit delivery options and optimal delivery strategies for financial futures contracts",
+            "date": "May 1986",
+            "author": [
+                "Gerald D. Gay",
+                "Steven Manaster"
+            ],
+            "abstract": "Futures contract specification usually allow the short position some variation as to when, where, how much, and what is to be delivered. In this paper we derive the optimal delivery policy for the Treasury Bond futures contracts, and find that our policy produces profits that are positive and statistically significant. This indicates that future prices are \u2018too high\u2019 in that the short position can earn profits by skillfully exercising his delivery options. We find the actual delivery policies of market participants depart substantially from the optimal strategy. The implications of these findings for futures traders and bond dealers are discussed.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90042-5"
+        },
+        {
+            "no": "5",
+            "title": "Ownership structure and control",
+            "date": "May 1986",
+            "author": [
+                "David Mayers",
+                "Clifford W. Smith"
+            ],
+            "abstract": "We examine an unusual sample of firms within the life insurance industry: 30 firms which switched from a common-stock to a mutual-ownership structure. Our evidence indicates that the rate of growth of premium income from policyholders remains unchanged, stockholders receive a premium for their stock, and management turnover declines; thus, no group of claimholders systematically loses in the sample of firms which choose to go through the mutualization process. We therefore conclude that for this sample of firms, changing from a stock to a mutual-ownership structure is on average efficiency-enhancing.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90043-7"
+        },
+        {
+            "no": "6",
+            "title": "A transaction data study of weekly and intradaily patterns in stock returns",
+            "date": "May 1986",
+            "author": [
+                "Lawrence Harris"
+            ],
+            "abstract": "Weekly and intradaily patterns in common stock prices are examined using transaction data. For large firms, negative Monday close-to-close returns accrue between the Friday close and the Monday open; for smaller firms they accrue primarily during the Monday trading day. For all firms, significant weekday differences in intraday returns accrue during the first 45 minutes after the market opens. On Monday mornings, prices drop, while on the other weekday mornings, they rise. Otherwise the pattern of intraday returns is similar on all weekdays. Most notable is an increase in prices on the last trade of the day.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90044-9"
+        },
+        {
+            "no": "7",
+            "title": "The effect of the Bankruptcy Reform Act of 1978 on small business loan pricing",
+            "date": "May 1986",
+            "author": [
+                "Jonathan A. Scott",
+                "Terence C. Smith"
+            ],
+            "abstract": "The Bankruptcy Reform Act of 1978 contains several provisions that can affect the cost of producing loans for financial intermediaries. In a competitive lending market the additional monitoring and expected foreclosure costs imposed by the change in the bankruptcy law should be passed on to the borrower. Using survey data from a sample of small business loans from commercial banks, evidence is presented that the enactment of the new law resulted in higher contract rates of interest.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90045-0"
+        }
+    ]
+}

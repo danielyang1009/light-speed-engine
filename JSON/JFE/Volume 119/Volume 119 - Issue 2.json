@@ -1,0 +1,129 @@
+{
+    "journal": "JFE",
+    "volume": "119",
+    "issue": "2",
+    "date": "February 2016",
+    "page": "Pages 249-456",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Feb 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(16)00038-6"
+        },
+        {
+            "no": "2",
+            "title": "The common factor in idiosyncratic volatility: Quantitative asset pricing implications",
+            "date": "Sep 2015",
+            "author": [
+                "Bernard Herskovic",
+                "Bryan Kelly",
+                "Hanno Lustig",
+                "Stijn Van Nieuwerburgh"
+            ],
+            "abstract": "We show that firms\u05f3 idiosyncratic volatility obeys a strong factor structure and that shocks to the common idiosyncratic volatility (CIV) factor are priced. Stocks in the lowest CIV-beta quintile earn average returns 5.4% per year higher than those in the highest quintile. The CIV factor helps to explain a number of asset pricing anomalies. We provide new evidence linking the CIV factor to income risk faced by households. Our findings are consistent with an incomplete markets heterogeneous agent model. In the model, CIV is a priced state variable because an increase in idiosyncratic firm volatility raises the average household\u05f3s marginal utility. The calibrated model matches the high degree of co-movement in idiosyncratic volatilities, the CIV-beta return spread, and several other asset price moments.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.010"
+        },
+        {
+            "no": "3",
+            "title": "The expected cost of default",
+            "date": "Sep 2015",
+            "author": [
+                "Brent Glover"
+            ],
+            "abstract": "The sample of observed defaults significantly understates the average firm\u05f3s true expected cost of default due to a sample selection bias. I use a dynamic capital structure model to estimate firm-specific expected default costs and quantify the selection bias. The average firm expects to lose 45% of firm value in default, a cost higher than existing estimates. However, the average cost among defaulted firms in the estimated model is only 25%, a value consistent with existing empirical estimates from observed defaults. This substantial selection bias helps to reconcile the levels of leverage and default costs observed in the data.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.007"
+        },
+        {
+            "no": "4",
+            "title": "Investment and the weighted average cost of capital",
+            "date": "Sep 2015",
+            "author": [
+                "Murray Z. Frank",
+                "Tao Shen"
+            ],
+            "abstract": "In a standard q-theory model, corporate investment is negatively related to the cost of capital. Empirically, we find that the weighted average cost of capital matters for corporate investment. The form of the impact depends on how the cost of equity is measured. When the capital asset pricing model (CAPM) is used, firms with a high cost of equity invest more. When the implied cost of capital is used, firms with a high cost of equity invest less. The implied cost of capital can better reflect the time-varying required return on capital. The CAPM measure reflects forces that are outside the standard model.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.001"
+        },
+        {
+            "no": "5",
+            "title": "The ownership and trading of debt claims in Chapter 11 restructurings",
+            "date": "Sep 2015",
+            "author": [
+                "Victoria Ivashina",
+                "Benjamin Iverson",
+                "David C. Smith"
+            ],
+            "abstract": "Using a novel data set that covers individual debt claims against 136 bankrupt US companies and includes information on a subset of claims transfers, we provide new empirical insight regarding how a firm\u2019s debt ownership relates to bankruptcy outcomes. Firms with higher debt concentration at the start of the case are more likely to file prearranged bankruptcy plans, to move quickly through the restructuring process, and to emerge successfully as independent going concerns. Moreover, higher ownership concentration within a debt class is associated with higher recovery rates to that class. Trading of claims during bankruptcy concentrates ownership further, but this trading is not associated with subsequent improvements in bankruptcy outcomes and could, at the margin, increase the likelihood of liquidation.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.002"
+        },
+        {
+            "no": "6",
+            "title": "Optimal inside debt compensation and the value of equity and debt",
+            "date": "Sep 2015",
+            "author": [
+                "T. Colin Campbell",
+                "Neal Galpin",
+                "Shane A. Johnson"
+            ],
+            "abstract": "We use firm and chief executive officer (CEO) characteristics motivated by optimal contracting theory to estimate optimal CEO relative debt-equity incentive ratios. Equity values rise as firms adjust CEO incentive ratios toward their predicted optimums, whether that increases or decreases the relative incentive ratio. Debt values rise as firms adjust ratios upward and do not fall as they adjust them downward. Our predicted optimums explain changes in equity and debt values better than a model in which firms simply match CEO inside debt-equity ratios to firm debt-equity ratios. The results suggest important cross-sectional differences in firms\u2019 optimal inside debt policies.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.003"
+        },
+        {
+            "no": "7",
+            "title": "The cross-sectional variation of volatility risk premia",
+            "date": "Sep 2015",
+            "author": [
+                "Ana Gonz\u00e1lez-Urteaga",
+                "Gonzalo Rubio"
+            ],
+            "abstract": "This paper analyzes the determinants of the cross-sectional variation of the average volatility risk premia for a representative set of portfolios sorted by volatility risk premium beta. The market volatility risk premium and, especially, the default premium are shown to be key risk factors in the cross-sectional variation of average volatility risk premium payoffs. The cross-sectional variation of risk premia seems to reflect a very different behavior of the underlying components of our sample portfolios with respect to credit or financial stress that generates a significant dispersion of the volatility swap pricing of these securities.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.009"
+        },
+        {
+            "no": "8",
+            "title": "Can analysts pick stocks for the long-run?",
+            "date": "Sep 2015",
+            "author": [
+                "Oya Alt\u0131nk\u0131l\u0131\u00e7",
+                "Robert S. Hansen",
+                "Liyu Ye"
+            ],
+            "abstract": "This paper examines post-revision return drift, or PRD, following analysts\u2019 revisions of their stock recommendations. PRD refers to the finding that the analysts\u2019 recommendation changes predict future long-term returns in the same direction as the change (i.e., upgrades are followed by positive returns, and downgrades are followed by negative returns). During the high-frequency algorithmic trading period of 2003\u20132010, average PRD is no longer significantly different from zero. The new findings agree with improved market efficiency after declines in real trading cost inefficiencies. They are consistent with a reduced information production role for analysts in the supercomputer era.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.004"
+        },
+        {
+            "no": "9",
+            "title": "Bridging the gap: the design of bank loan contracts and distance",
+            "date": "Sep 2015",
+            "author": [
+                "Stephan Hollander",
+                "Arnt Verriest"
+            ],
+            "abstract": "How do the distance constraints faced by lenders in acquiring borrower information affect the design of bank loan contracts? Theoretical studies posit that greater information asymmetry leads to the allocation of stronger ex ante decision rights to the lender (the uninformed party). Consistent with this hypothesis, we find that, upon inception, contracts tend to be more restrictive when firms seek loans from remote lenders. This finding is robust to potential endogeneity bias and simultaneity of various loan terms. Overall, we establish a strong informational link between distance and loan contract design.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.006"
+        },
+        {
+            "no": "10",
+            "title": "The effects of takeover defenses: Evidence from closed-end funds",
+            "date": "Sep 2015",
+            "author": [
+                "Matthew E. Souther"
+            ],
+            "abstract": "I use a sample of closed-end funds to examine how takeover defenses impact shareholder value and promote managerial entrenchment. These funds use the same defenses as general corporations but provide an ideal, homogeneous environment for testing their effects. Defenses are associated with lower fund market values, weaker reactions to activist 13D filings, and higher compensation levels for both fund managers and directors. This study provides greater clarity on the unresolved impact of takeover defenses on firm value, while showing for the first time that directors, who are responsible for adopting takeover defenses, financially benefit from their use.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.005"
+        },
+        {
+            "no": "11",
+            "title": "Product market competition, R&D investment, and stock returns",
+            "date": "Sep 2015",
+            "author": [
+                "Lifeng Gu"
+            ],
+            "abstract": "A standard real options model predicts a strong positive interaction effect between research and development (R&D) investment and product market competition. R&D-intensive firms tend to be riskier and earn higher expected returns than R&D-weak firms, particularly in competitive industries. Also, firms in competitive industries earn higher expected returns than firms in concentrated industries, especially among R&D-intensive firms. Intuitively, R&D projects are more likely to fail in the presence of more competition because rival firms could win the innovation race. Empirical evidence largely supports the model\u05f3s predictions.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.09.008"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "journal": "JFE",
+    "volume": "35",
+    "issue": "3",
+    "date": "June 1994",
+    "page": "Pages 267-393",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Jun 1994",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Wayne H. Mikkelson",
+                "Richard S. Ruback",
+                "G.William Schwert",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(94)90033-7"
+        },
+        {
+            "no": "2",
+            "title": "Posted versus effective spreads",
+            "date": "Jun 1994",
+            "author": [
+                "Mitchell A. Petersen",
+                "David Fialkowski"
+            ],
+            "abstract": "When trades are executed inside the posted bid-ask spread, the posted spread is no longer an accurate measure of transactions costs faced by investors. Using two samples of market orders, one based on orders submitted by retail brokers and one based on orders submitted electronically to the NYSE, we document a significant difference between the posted spread and the effective spread paid by investors. For most orders, the effective spread averages half the posted spread. In addition, when the posted spread widens, only 10 to 22% of the increase appears in the effective spread. These results have significant implications for any empirical work that uses the posted spread as a measure of the cost of trading. Our findings also document a significant difference in the expected execution price across exchanges. This finding is robust to controls for the type of order, and implies that U.S. equity markets are not completely integrated.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90034-5"
+        },
+        {
+            "no": "3",
+            "title": "Venture capitalists and the decision to go public",
+            "date": "Jun 1994",
+            "author": [
+                "Joshua Lerner"
+            ],
+            "abstract": "This paper examines the timing of initial public offerings and private financings by venture capitalists. Using a sample of 350 privately held venture-backed biotechnology firms between 1978 and 1992, I show that these companies go public when equity valuations are high and employ private financings when values are lower. Seasoned venture capitalists appear to be particularly proficient at taking companies public near market peaks. The results are robust to a variety of controls and alternative explanations.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90035-3"
+        },
+        {
+            "no": "4",
+            "title": "Bid-ask spreads in the interbank foreign exchange markets",
+            "date": "Jun 1994",
+            "author": [
+                "Hendrik Bessembinder"
+            ],
+            "abstract": "This study provides evidence on quotations and bid-ask spreads in the wholesale foreign exchange market, and introduces a method to document variation in the placement of quotes relative to asset value. I find that spreads widen with proxies for inventory-carrying costs, including forecasts of price risk and a measure of liquidity costs. Increases in spreads before nontrading periods can also be attributed to inventory costs. The location of currency quotes in relation to value is not constant, and the outcome of hypothesis tests regarding changes in currency value can be sensitive to allowances for variation in quote location.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90036-1"
+        },
+        {
+            "no": "5",
+            "title": "A comparison of financial recontracting in distressed exchanges and chapter 11 reorganizations",
+            "date": "Jun 1994",
+            "author": [
+                "Julian R Franks",
+                "Walter N Torous"
+            ],
+            "abstract": "We investigate the financial recontracting of firms completing distressed exchanges and those reorganizing under Chapter 11. We find that recovery rates for creditors, on average, are higher in distressed exchanges than in Chapter 11 reorganizations, as are equity deviations from absolute priority. The difference in deviations potentially provides valuable information on the higher costs of formal reorganization. Also, cash is used more extensively to redeem creditors' claims in Chapter 11 than in distressed exchanges. The greater use of cash can be attributed to provisions of the Bankruptcy Code that permit conservation of cash and facilitate asset sales.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90037-X"
+        },
+        {
+            "no": "6",
+            "title": "Outside directors and the adoption of poison pills",
+            "date": "Jun 1994",
+            "author": [
+                "James A. Brickley",
+                "Jeffrey L. Coles",
+                "Rory L. Terry"
+            ],
+            "abstract": "We find that the average stock-market reaction to announcements of poison pills is positive when the board has a majority of outside directors and negative when it does not. The probability that a subsequent control contest is associated with an auction is also positively related to the fraction of outsiders on the board. These results are largely driven by directors who are retired executives from other companies. The evidence suggests that outside directors serve the interests of shareholders.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90038-8"
+        },
+        {
+            "no": "7",
+            "title": "News items",
+            "date": "Jun 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(94)90039-6"
+        },
+        {
+            "no": "8",
+            "title": "Index",
+            "date": "Jun 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(94)90040-X"
+        }
+    ]
+}

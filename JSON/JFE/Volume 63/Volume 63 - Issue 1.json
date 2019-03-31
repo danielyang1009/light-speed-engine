@@ -1,0 +1,62 @@
+{
+    "journal": "JFE",
+    "volume": "63",
+    "issue": "1",
+    "date": "January 2002",
+    "page": "Pages EX1-EX2, 1-158",
+    "article": [
+        {
+            "no": "1",
+            "title": "The jump-risk premia implicit in options: evidence from an integrated time-series study",
+            "date": "Jan 2002",
+            "author": [
+                "Jun Pan"
+            ],
+            "abstract": "This paper examines the joint time series of the S&P 500 index and near-the-money short-dated option prices with an arbitrage-free model, capturing both stochastic volatility and jumps. Jump-risk premia uncovered from the joint data respond quickly to market volatility, becoming more prominent during volatile markets. This form of jump-risk premia is important not only in reconciling the dynamics implied by the joint data, but also in explaining the volatility \u201csmirks\u201d of cross-sectional options data.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00088-5"
+        },
+        {
+            "no": "2",
+            "title": "Does diversification destroy value? Evidence from the industry shocks",
+            "date": "Jan 2002",
+            "author": [
+                "Owen A. Lamont",
+                "Christopher Polk"
+            ],
+            "abstract": "Does corporate diversification reduce shareholder value? Since firms endogenously choose to diversify, exogenous variation in diversification is necessary to draw inferences about the causal effect. We examine changes in the within-firm dispersion of industry investment, or \u201cdiversity\u201d. We find that exogenous changes in diversity, due to changes in industry investment, are negatively related to firm value. Thus diversification destroys value, consistent with the inefficient internal capital markets hypothesis. Measurement error does not cause this finding. We also find that exogenous changes in industry cash flow diversity are negatively related to firm value.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00089-7"
+        },
+        {
+            "no": "3",
+            "title": "Contracting in the investment management industry:",
+            "date": "Jan 2002",
+            "author": [
+                "Daniel N. Deli",
+                "Raj Varma"
+            ],
+            "abstract": "We investigate the option to invest in derivative securities using a large sample of mutual funds. We find that those funds with the greatest transaction-cost benefit tend to permit investment in derivatives, and that funds tend to permit investment only in those derivatives that offer transaction-cost benefits. Our results indicate that a fund's decision to permit investment in derivatives is driven by increased efficiency rather than advisor opportunism.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00090-3"
+        },
+        {
+            "no": "4",
+            "title": "Agents watching agents?: evidence from pension fund ownership and firm value",
+            "date": "Jan 2002",
+            "author": [
+                "Tracie Woidtke"
+            ],
+            "abstract": "This paper examines the valuation effects associated with the incentive structures of different types of institutional investors using the ownership levels of public and private pension funds in a firm. The results suggest that institutional monitoring is associated with valuation effects when both observable and unobservable aspects of the relationship between institutions and firms are taken into account. Moreover, the valuation effects vary according to the objective functions of institutions\u2019 administrators. Thus, other shareholders do not necessarily benefit from relationships between institutions and managers, and they could be hurt when the institutional agents watching firm agents have conflicts of interest with other shareholders.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00091-5"
+        },
+        {
+            "no": "5",
+            "title": "Liquidity provision and specialist trading in NYSE-listed non-U.S. stocks",
+            "date": "Jan 2002",
+            "author": [
+                "Jeffrey M. Bacidore",
+                "George Sofianos"
+            ],
+            "abstract": "We examine how the intrinsic differences between U.S. and non-U.S. stocks affect market participants and the market quality of non-U.S. stocks relative to U.S. stocks. Using proprietary data on NYSE specialist trading, we find that, all else equal, specialist closing inventory positions for non-U.S. stocks are closer to zero than U.S. stocks. The evidence on specialist participation and stabilization rates is mixed. Non-U.S. stocks from developed markets have higher specialist participation and stabilization rates than U.S. stocks, while emerging market stocks have lower participation and stabilization rates than U.S. stocks. With respect to market quality, we find that, all else equal, non-U.S. stocks have wider spreads, less depth, and greater transitory volatility than U.S. stocks. We investigate the reasons behind the difference in liquidity and find that the larger non-U.S. spreads are primarily due to higher information asymmetry and increased adverse selection risk. We conclude that liquidity providers demand greater compensation for trading non-U.S. stocks, but this additional compensation is necessary to offset the higher adverse selection risk.",
+            "link": "https://doi.org/10.1016/S0304-405X(01)00092-7"
+        }
+    ]
+}

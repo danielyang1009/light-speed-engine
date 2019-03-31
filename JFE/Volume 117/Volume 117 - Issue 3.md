@@ -1,0 +1,127 @@
+# JFE, Volume 117, Issue 3
+- September 2015
+- Pages 449-670
+
+## 1. Editorial Board
+### Date
+- Sep 2015
+### Authors
+### Abstract
+
+### Link
+- https://doi.org/10.1016/S0304-405X(15)00129-4
+
+## 2. Banks as patient fixed-income investors
+### Date
+- Jun 2015
+### Authors
+- Samuel G. Hanson
+- Andrei Shleifer
+- Jeremy C. Stein
+- Robert W. Vishny
+### Abstract
+We examine the business model of traditional commercial banks when they compete with shadow banks. While both types of intermediaries create safe “money-like” claims, they go about this in different ways. Traditional banks create money-like claims by holding illiquid fixed-income assets to maturity, and they rely on deposit insurance and costly equity capital to support this strategy. This strategy allows bank depositors to remain “sleepy”: they do not have to pay attention to transient fluctuations in the market value of bank assets. In contrast, shadow banks create money-like claims by giving their investors an early exit option requiring the rapid liquidation of assets. Thus, traditional banks have a stable source of funding, while shadow banks are subject to runs and fire-sale losses. In equilibrium, traditional banks have a comparative advantage at holding fixed-income assets that have only modest fundamental risk but are illiquid and have substantial transitory price volatility, whereas shadow banks tend to hold relatively liquid assets.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.06.015
+
+## 3. Incremental variables and the investment opportunity set
+### Date
+- May 2015
+### Authors
+- Eugene F. Fama
+- Kenneth R. French
+### Abstract
+Variables with strong marginal explanatory power in cross-section asset pricing regressions typically show less power to produce increments to average portfolio returns, for two reasons. (1) Adding an explanatory variable can attenuate the slopes in a regression. (2) Adding a variable with marginal explanatory power always attenuates the values of other explanatory variables in the extremes of a regression’s fitted values. Without a restriction on portfolio weights, the maximum Sharpe ratios in the GRS statistic of Gibbons, Ross, and Shanken (1989) provide little information about an incremental variable’s impact on the portfolio opportunity set.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.05.001
+
+## 4. Distilling the macroeconomic news flow
+### Date
+- May 2015
+### Authors
+- Alessandro Beber
+- Michael W. Brandt
+- Maurizio Luisi
+### Abstract
+We propose a simple cross-sectional technique to extract daily factors from economic news released at different times and frequencies. Our approach can effectively handle the large number of different announcements that are relevant for tracking current economic conditions. We apply the technique to extract real-time measures of inflation, output, employment, and macroeconomic sentiment, as well as corresponding measures of disagreement among economists about these indices. We find that our procedure provides more timely and accurate forecasts of future changes in economic conditions than other real-time forecasting approaches.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.05.005
+
+## 5. The effect of institutional ownership on firm transparency and information production
+### Date
+- May 2015
+### Authors
+- Audra L. Boone
+- Joshua T. White
+### Abstract
+We examine the effects of institutional ownership on firms׳ information and trading environments using the annual Russell 1000/2000 index reconstitution. Characteristics of firms near the index cutoffs are similar, except that firms in the top of the Russell 2000 have discontinuously higher proportional institutional ownership than firms in the bottom of the Russell 1000 primarily due to indexing and benchmarking strategies. We find that higher institutional ownership is associated with greater management disclosure, analyst following, and liquidity, resulting in lower information asymmetry. Overall, indexing institutions׳ predilection for lower information asymmetries facilitates information production, which enhances monitoring and decreases trading costs.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.05.008
+
+## 6. Financing bidders in takeover contests
+### Date
+- Jun 2015
+### Authors
+- Vladimir Vladimirov
+### Abstract
+This paper argues that endogenizing how acquirers finance their cash bids is just as important for understanding bidding in takeovers as endogenizing acquirers׳ payment method choice. The paper shows that acquirers finance their cash bids with equity only if they lack access to competitive financing. This leads to underbidding and lower takeover premiums. Conversely, acquirers with access to competitive financing use debt and overbid. Endogenizing the payment method reveals that security (e.g., stock) bids carry lower premiums than cash bids, backed by competitive financing. These insights find empirical support and could help explain existing evidence, which contradicts prior theory.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.06.002
+
+## 7. The risk premia embedded in index options
+### Date
+- Jun 2015
+### Authors
+- Torben G. Andersen
+- Nicola Fusari
+- Viktor Todorov
+### Abstract
+We study the dynamic relation between market risks and risk premia using time series of index option surfaces. We find that priced left tail risk cannot be spanned by market volatility (and its components) and introduce a new tail factor. This tail factor has no incremental predictive power for future volatility and jump risks, beyond current and past volatility, but is critical in predicting future market equity and variance risk premia. Our findings suggest a wide wedge between the dynamics of market risks and their compensation, which typically displays a far more persistent reaction following market crises.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.06.005
+
+## 8. Modeling financial contagion using mutually exciting jump processes
+### Date
+- Mar 2015
+### Authors
+- Yacine Aït-Sahalia
+- Julio Cacho-Diaz
+- Roger J.A. Laeven
+### Abstract
+We propose a model to capture the dynamics of asset returns, with periods of crises that are characterized by contagion. In the model, a jump in one region of the world increases the intensity of jumps both in the same region (self-excitation) as well as in other regions (cross-excitation), generating episodes of highly clustered jumps across world markets that mimic the observed features of the data. We develop and implement moment-based estimation and testing procedures for this model. The estimates provide evidence of self-excitation both in the US and the other world markets, and of asymmetric cross-excitation, with the US market typically having more influence on the jump intensity of other markets than the reverse. We propose filtered values of the jump intensities as a measure of market stress and examine their out-of-sample forecasting abilities.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.03.002
+
+## 9. A theory of LBO activity based on repeated debt-equity conflicts
+### Date
+- Jun 2015
+### Authors
+- Andrey Malenko
+- Nadya Malenko
+### Abstract
+We develop a theory of leveraged buyout (LBO) activity based on two elements: the ability of private equity-owned firms to borrow against their sponsors׳ reputation with creditors and externalities in sponsors׳ reputations due to competition and club formation. In equilibrium, the two sources of value creation in LBOs, operational improvements and financing, are complements. Moreover, sponsors that never add operational value cannot add value through financing either. Club deals are beneficial ex post by allowing low-reputation bidders with high valuations to borrow reputation from high-reputation bidders with low valuations, but they can destroy value by reducing bidders׳ investment in reputation. Unlike leverage of independent firms, driven only by firm-specific factors, buyout leverage is driven by economy-wide and sponsor-specific factors.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.06.007
+
+## 10. Social interaction at work
+### Date
+- Jun 2015
+### Authors
+- Hans K. Hvide
+- Per Östberg
+### Abstract
+Stock market investment decisions of individuals are positively correlated with those of coworkers. Sorting of unobservably similar individuals to the same workplaces is unlikely to explain this pattern, as evidenced by the investment behavior of individuals who move between plants. Purchases made under stronger coworker purchase activity are not associated with higher returns. Moreover, social interaction appears to drive the purchase of within-industry stocks. Overall, we find a strong influence of coworkers on investment choices, but not an influence that improves the quality of investment decisions.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.06.004
+
+## 11. Social learning and corporate peer effects
+### Date
+- Jun 2015
+### Authors
+- Markku Kaustia
+- Ville Rantala
+### Abstract
+We find that firms are more likely to split their stock if their peer firms have recently done so. The effect is comparable to an increase of 40–50% in the share price. Splitting probability is also increasing in the announcement returns of peer splits. These results are consistent with social learning from peers’ actions and outcomes. The unique features of the setting and various further tests render alternative explanations unlikely. We find no clear benefit in following successful peer splitters. Firms are sometimes suspected to succumb to imitation, and the effect we show could be a case in point.
+### Link
+- https://doi.org/10.1016/j.jfineco.2015.06.006
+

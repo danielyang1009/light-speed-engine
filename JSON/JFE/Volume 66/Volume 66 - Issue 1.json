@@ -1,0 +1,104 @@
+{
+    "journal": "JFE",
+    "volume": "66",
+    "issue": "1",
+    "date": "October 2002",
+    "page": "Pages EX1-EX4, 1-168",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Oct 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00210-6"
+        },
+        {
+            "no": "2",
+            "title": "Investor protection and equity markets",
+            "date": "Oct 2002",
+            "author": [
+                "Andrei Shleifer",
+                "Daniel Wolfenzon"
+            ],
+            "abstract": "We present a simple model of an entrepreneur going public in an environment with poor legal protection of outside shareholders. The model incorporates elements of Becker's (J. Political Econ. 106 (1968) 172) \u201ccrime and punishment\u201d framework into a corporate finance environment of Jensen and Meckling (J. Financial Econ. 3 (1976) 305). We examine the entrepreneur's decision and the market equilibrium. The model is consistent with a number of empirical regularities concerning the relation between investor protection and corporate finance. It also sheds light on the patterns of capital flows between rich and poor countries and on the politics of reform of investor protection.",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00149-6"
+        },
+        {
+            "no": "3",
+            "title": "CEO compensation, diversification, and incentives",
+            "date": "Oct 2002",
+            "author": [
+                "Li Jin"
+            ],
+            "abstract": "This paper examines the relation between chief executive officers\u2019 (CEOs\u2019) incentive levels and their firms\u2019 risk characteristics. I show theoretically that, when CEOs cannot trade the market portfolio, optimal incentive level decreases with firm's nonsystematic risk but is ambiguously affected by firm's systematic risk; when CEOs can trade the market portfolio, optimal incentive level decreases with nonsystematic risk but is unaffected by systematic risk. Empirically I find support for these predictions. Furthermore, I find that incentives for CEOs likely facing binding short-selling constraints decrease with systematic as well as nonsystematic risk, as predicted by theory. Thus, compensation practice is consistent with predictions of theory.",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00150-2"
+        },
+        {
+            "no": "4",
+            "title": "Protection of minority shareholder interests, cross-listings in the United States, and subsequent equity offerings",
+            "date": "Oct 2002",
+            "author": [
+                "William A Reese",
+                "Michael S Weisbach"
+            ],
+            "abstract": "This paper examines the hypothesis that non-US firms cross-list in the United States to increase protection of their minority shareholders. Cross-listing on the NYSE or Nasdaq subjects a non-US firm to a number of provisions of US securities law, and requires the firm to conform to US GAAP. It therefore increases the expected cost to managers of extracting private benefits, and commits the firm to protect minority shareholders\u2019 interests. The expected relation between the quantity of cross-listings and shareholder protection in the home country is ambiguous, because managers will consider both expected private benefits and the public value of their shares. However, there are clear predictions about the relation between subsequent equity issues, shareholder protection, and cross-listings:\n(1)\nEquity issues increase following all cross-listings, regardless of shareholder protection.\n(2)\nThe increase should be larger for cross-listings from countries with weak protection.\n(3)\nEquity issues following cross-listings in the US will tend to be in the US for firms from countries with strong protection and outside the US for firms from countries with weak protection.\nWe find evidence consistent with each of these predictions. Overall, the desire to protect shareholder rights appears to be an important reason why some non-US firms cross-list in the United States.",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00151-4"
+        },
+        {
+            "no": "5",
+            "title": "Strategic IPO underpricing, information momentum, and lockup expiration selling",
+            "date": "Oct 2002",
+            "author": [
+                "Rajesh K. Aggarwal",
+                "Laurie Krigman",
+                "Kent L. Womack"
+            ],
+            "abstract": "Managers usually do not sell any of their own shares in an initial public offering but instead wait until the end of the lockup period. We develop a model in which managers strategically underprice IPOs to maximize personal wealth from selling shares at lockup expiration. First-day underpricing generates information momentum by attracting attention to the stock and thereby shifting the demand curve for the stock outwards. This allows managers to sell shares at the lockup expiration at prices higher than they would otherwise obtain. We test the model on a sample of IPOs in the 1990s. We find that higher ownership by managers is positively correlated with first-day underpricing, underpricing is positively correlated with research coverage, and research coverage is positively correlated with stock returns and insider selling at the lockup expiration. These results are consistent with the model.",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00152-6"
+        },
+        {
+            "no": "6",
+            "title": "The impact of specialist firm acquisitions on market quality",
+            "date": "Oct 2002",
+            "author": [
+                "Brian C. Hatch",
+                "Shane A. Johnson"
+            ],
+            "abstract": "Acquisitions among New York Stock Exchange specialist firms can increase specialist firm size, capitalization, and market concentration, and thereby affect the market quality of the stocks they trade. We find that while traded stocks show significant improvement in several market quality measures following acquisitions, similar changes are evident in matched control stocks not involved in acquisitions. We conclude that specialist firm acquisitions either do not improve market quality, or improve market quality, but competitive and other pressures (resulting partly from the acquisitions themselves) force improvements in market quality for control stocks also. Either interpretation implies that specialist acquisitions have not had deleterious effects on market quality.",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00153-8"
+        },
+        {
+            "no": "7",
+            "title": "Advert: Research in Banking",
+            "date": "Oct 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00219-2"
+        },
+        {
+            "no": "8",
+            "title": "Advert: Science Direct",
+            "date": "Oct 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00220-9"
+        },
+        {
+            "no": "9",
+            "title": "Advert: Contents Direct",
+            "date": "Oct 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00221-0"
+        },
+        {
+            "no": "10",
+            "title": "Advert: Author Gateway",
+            "date": "Oct 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(02)00222-2"
+        }
+    ]
+}

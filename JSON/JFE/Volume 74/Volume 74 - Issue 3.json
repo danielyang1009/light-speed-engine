@@ -1,0 +1,81 @@
+{
+    "journal": "JFE",
+    "volume": "74",
+    "issue": "3",
+    "date": "December 2004",
+    "page": "Pages 401-612",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Dec 2004",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(04)00189-8"
+        },
+        {
+            "no": "2",
+            "title": "Corporate earnings and the equity premium",
+            "date": "Dec 2003",
+            "author": [
+                "Francis A. Longstaff",
+                "Monika Piazzesi"
+            ],
+            "abstract": "Corporate cash flows are highly volatile and strongly procyclical. We examine the asset-pricing implications of the sensitivity of corporate cash flows to economic shocks within a continuous-time model in which dividends are a stochastic fraction of aggregate consumption. We provide closed-form solutions for stock values and show that the equity premium can be represented as the sum of three components which we call the consumption-risk, event-risk, and corporate-risk premia. Calibrated to historical data, the model implies a total equity premium many times larger than in the standard model. The model also generates levels of equity volatility consistent with those experienced in the stock market.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.12.001"
+        },
+        {
+            "no": "3",
+            "title": "Sources of gains in horizontal mergers: evidence from customer, supplier, and rival firms",
+            "date": "Oct 2003",
+            "author": [
+                "C.Edward Fee",
+                "Shawn Thomas"
+            ],
+            "abstract": "We investigate the upstream and downstream product-market effects of a large sample of horizontal mergers and acquisitions from 1980 to 1997. We construct a data set that identifies the corporate customers, suppliers, and rivals of the firms initiating horizontal mergers and use this data set to examine announcement-related stock market revaluations and post-merger changes in operating performance. We find little evidence consistent with increased monopolistic collusion. However, we do find evidence consistent with improved productive efficiency and buying power as sources of gains to horizontal mergers. The nature of the buying power gains, i.e., rents from monopsonistic collusion or improved purchasing efficiency, is also investigated.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.10.002"
+        },
+        {
+            "no": "4",
+            "title": "Measuring stock illiquidity: An investigation of the demand and supply schedules at the TASE",
+            "date": "Sep 2003",
+            "author": [
+                "Avner Kalay",
+                "Orly Sade",
+                "Avi Wohl"
+            ],
+            "abstract": "We show that estimating demand and supply elasticities at the opening stage of trading at the Tel Aviv Stock Exchange is highly sensitive to which of several reasonable measures is used. We find that the demand curve is more elastic than the supply curve and that both are much more elastic in their \u201cexecutable\u201d areas. The empirical evidence indicates that elasticity is increasing during the continuous stage of trading. We discuss methods of estimation of price impact and document that the actual measure of price impact in call auctions is larger and more permanent for buys than for sells.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.09.004"
+        },
+        {
+            "no": "5",
+            "title": "Disentangling diffusion from jumps",
+            "date": "Sep 2003",
+            "author": [
+                "Yacine A\u0131\u0308t-Sahalia"
+            ],
+            "abstract": "Realistic models for financial asset prices used in portfolio choice, option pricing or risk management include both a continuous Brownian and a jump components. This paper studies our ability to distinguish one from the other. I find that, surprisingly, it is possible to perfectly disentangle Brownian noise from jumps. This is true even if, unlike the usual Poisson jumps, the jump process exhibits an infinite number of small jumps in any finite time interval, which ought to be harder to distinguish from Brownian noise, itself made up of many small moves.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.09.005"
+        },
+        {
+            "no": "6",
+            "title": "An econometric model of serial correlation and illiquidity in hedge fund returns",
+            "date": "Apr 2004",
+            "author": [
+                "Mila Getmansky",
+                "Andrew W. Lo",
+                "Igor Makarov"
+            ],
+            "abstract": "The returns to hedge funds and other alternative investments are often highly serially correlated. In this paper, we explore several sources of such serial correlation and show that the most likely explanation is illiquidity exposure and smoothed returns. We propose an econometric model of return smoothing and develop estimators for the smoothing profile as well as a smoothing-adjusted Sharpe ratio. For a sample of 908 hedge funds drawn from the TASS database, we show that our estimated smoothing coefficients vary considerably across hedge-fund style categories and may be a useful proxy for quantifying illiquidity exposure.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.04.001"
+        },
+        {
+            "no": "7",
+            "title": "Index",
+            "date": "Dec 2004",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(04)00194-1"
+        }
+    ]
+}

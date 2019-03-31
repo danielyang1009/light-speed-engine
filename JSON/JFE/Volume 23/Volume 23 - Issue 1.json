@@ -1,0 +1,107 @@
+{
+    "journal": "JFE",
+    "volume": "23",
+    "issue": "1",
+    "date": "June 1989",
+    "page": "Pages 1-191",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jun 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(89)90001-9"
+        },
+        {
+            "no": "2",
+            "title": "Editorial data",
+            "date": "Jun 1989",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Richard S. Ruback",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(89)90002-0"
+        },
+        {
+            "no": "3",
+            "title": "Equity ownership concentration and firm value",
+            "date": "Jun 1989",
+            "author": [
+                "Karen Hopper Wruck"
+            ],
+            "abstract": "In contrast to the negative average abnormal returns accompanying the announcement of a public offering of securities, the announcement of a private sale of equity is accompanied by a 4.5% average abnormal return. Cross-sectional analysis indicates that the change in firm value at the announcement of a private sale is strongly correlated with the resulting change in ownership concentration. This relation depends on the level ownership concentration after the sale and the purchaser's current or anticipated future relationship with the firm.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90003-2"
+        },
+        {
+            "no": "4",
+            "title": "Proxy contests and the governance of publicly held corporations",
+            "date": "Jun 1989",
+            "author": [
+                "Harry DeAngelo",
+                "Linda DeAngelo"
+            ],
+            "abstract": "Analysis of 60 proxy contests for seats on the boards of exchange-listed firms during 1978\u20131985 shows that three years after the contest less than one-fifth of the sample firms remain independent, publicly held corporations run by the same management team. Proxy contests are typically followed by managerial resignations, even when dissidents fail to obtain a majority of board seats, and are often followed by sale or liquidation of the firm. The average stockholder wealth gains associated with proxy contests are largely attributable to gains by companies in which dissident activity leads to sale or liquidation.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90004-4"
+        },
+        {
+            "no": "5",
+            "title": "Options markets and stock return volatility",
+            "date": "Jun 1989",
+            "author": [
+                "Douglas J. Skinner"
+            ],
+            "abstract": "This study examines the variance of returns on common stocks around the time exchange-traded options are listed on these stocks. The evidence indicates that stock return variance declines after options listing, and that this phenomenon is not fully explained by contemporaneous shifts in market volatility. In addition, stock market trading volume increases, on average, after options are listed on firms' stocks. I examine the hypothesis that the variance changes are related to changes in \u2018trading noise\u201d in the stock, but find little direct support for this explanation.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90005-6"
+        },
+        {
+            "no": "6",
+            "title": "The relation between the return interval and betas",
+            "date": "Jun 1989",
+            "author": [
+                "Puneet Handa",
+                "S.P Kothari",
+                "Charles Wasley"
+            ],
+            "abstract": "The size effect is sensitive to the length of the return interval used in estimating betas. Beta changes with the return interval because an asset's covariance with the market and the market's variance do not change proportionately as the return interval is changed. We document beta sensitivity to the return interval. Evidence from cross-sectional regressions of returns on monthly and annual betas is inconsistent with beta changes stemming only from the higher standard errors of the longer-interval betas. We provide evidence that the size effect becomes statistically insignificant when risk is measured by betas estimated using annual returns.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90006-8"
+        },
+        {
+            "no": "7",
+            "title": "The rise in takeover premiums",
+            "date": "Jun 1989",
+            "author": [
+                "Kevin S Nathan",
+                "Terrence B O'Keefe"
+            ],
+            "abstract": "Cash tender, cash merger, and stock merger takeover premiums for 1974\u20131985 are approximately bouble those for 1963\u20131973. Cash tender repurchase premiums also rose in 1974. Thse upward shifts remain after we control for the business cycle and a possible time trend in premiums. The shift in both takeover and repurchase premiums in 1973\u20131974 is consistent with some event not unique to the takeover market affecting the capital markets in 1973\u20131974. We also investigate the possible effect on takeover premiums of the 1986 Williams Act and conclude that it does not explain the premium increase.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90007-X"
+        },
+        {
+            "no": "8",
+            "title": "Tax attributes as determinants of shareholder gains in corporate acquisitions",
+            "date": "Jun 1989",
+            "author": [
+                "Carla Hayn"
+            ],
+            "abstract": "The paper provides evidence that tax attributes of target firms are significant in explaining the abnormal returns to shareholders of both target and acquiring firms following acquisition announcements. The most prominent tax attribute in tax-free acquisitions is the amount of net operating loss carryforwards and tax credits due to expire. The most important tax attribute in taxable acquisitions is the step-up in the acquired assets' basis. The findings also suggest that tax considerations motivate acquisitions. Specifically, obtaining tax-free status for the proposed acquisition increases its likelihood of completion.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90008-1"
+        },
+        {
+            "no": "9",
+            "title": "Wealth effects of going private for senior securities",
+            "date": "Jun 1989",
+            "author": [
+                "Laurentius Marais",
+                "Katherine Schipper",
+                "Abbie Smith"
+            ],
+            "abstract": "This paper investigates effects of going-private buyout proposals made from 1974 to 1985 on the value and default risk of convertible and nonconvertible debt and preferred stock securities. Positive average price reactions are documented for public convertible securities and nonconvertible preferred stock; many of these issues are redeemed as part of the buyout. Most nonconvertible debt securities remain outstanding without renegotiation after buyouts, and minimal average price reactions are documented for public nonconvertible debt. Following successful buyouts the proportion of debt in the capital structure more than triples on average, and most rated debt securities experience downgradings in Moody's ratings.",
+            "link": "https://doi.org/10.1016/0304-405X(89)90009-3"
+        }
+    ]
+}

@@ -1,0 +1,113 @@
+{
+    "journal": "JFE",
+    "volume": "21",
+    "issue": "2",
+    "date": "September 1988",
+    "page": "Pages 145-313",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial",
+            "date": "Sep 1988",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90057-8"
+        },
+        {
+            "no": "2",
+            "title": "Editorial data",
+            "date": "Sep 1988",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90058-X"
+        },
+        {
+            "no": "3",
+            "title": "Earnings information conveyed by dividend initiations and omissions",
+            "date": "Sep 1988",
+            "author": [
+                "Paul M. Healy",
+                "Krishna G. Palepu"
+            ],
+            "abstract": "Firms that initiate dividend payments have positive earnings changes both before and after the dividend policy change, while those omitting dividend payments have negative earnings changes. Subsequent earnings changes are positively related to the dividend announcement return, and stock price reactions at subsequent earnings announcements are smaller than usual, suggesting that these earnings changes are partially anticipated at the dividend announcement. The results indicate that investors interpret announcements of dividend initiations and omissions as managers' forecasts of future earnings changes.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90059-1"
+        },
+        {
+            "no": "4",
+            "title": "Some tests of international equity integration",
+            "date": "Sep 1988",
+            "author": [
+                "Simon Wheatley"
+            ],
+            "abstract": "This paper provides tests of international equity market integration. The tests use a simple version of the consumption-based asset pricing model which predicts there is an asset pricing line for each country that relates a representative individual's expected real return on each asset to the covariance of this return with growth in the individual's real consumption. Using monthly data from January 1960 to December 1985, tests provide little evidence against the joint hypothesis that equity markets are integrated internationally and that the asset pricing model holds.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90060-8"
+        },
+        {
+            "no": "5",
+            "title": "The empirical foundations of the arbitrage pricing theory",
+            "date": "Sep 1988",
+            "author": [
+                "Bruce N. Lehmann",
+                "David M. Modest"
+            ],
+            "abstract": "This paper uses maximum-likelihood factor analysis of large cross-sections to examine the validity of the arbitrage pricing theory (APT). We are unable to explain the expected returns on firm size portfolios, although we do explain the expected returns on portfolios formed on the basis of dividend yield and own variance, where risk adjustment using the usual CAPM market proxies fails. We also compare alternate versions of the APT and sharply reject the hypothesis that basis portfolios formed to mimic the factors span the mean-variance frontier of the individual assets.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90061-X"
+        },
+        {
+            "no": "6",
+            "title": "Risk and return in an equilibrium APT",
+            "date": "Sep 1988",
+            "author": [
+                "Gregory Connor",
+                "Robert A. Korajczyk"
+            ],
+            "abstract": "We use an asymptotic principal components technique to estimate the pervasive factors influencing asset returns and to test the restrictions imposed by static and intertemporal equilibrium versions of the arbitrage pricing theory (APT) on a multivariate regression model. The empirical techniques allow for fairly arbitrary time variation in risk premiums. We find that the APT provides a better description of the expected returns on assets than the capital asset pricing model (CAPM). However, some statistically reliable mispricing of assets by the APT remains.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90062-1"
+        },
+        {
+            "no": "7",
+            "title": "Short-term trading around ex-dividend days",
+            "date": "Sep 1988",
+            "author": [
+                "Jonathan M. Karpoff",
+                "Ralph A. Walkling"
+            ],
+            "abstract": "A dividend tax penalty creates profitable trading opportunities for short-term traders with sufficiently low transaction costs. In stocks with ex-dividend day returns affected by short-term trading, ex-day returns are positively correlated with transaction costs. Data from 1964\u20131985 indicate that short-term traders are the marginal investors in high-yield stocks, primarily since the introduction of negotiated commissions on the NYSE. Short-term trading is not evident in low-yield stocks, nor does it appear prevalent before negotiated commissions.",
+            "link": "https://doi.org/10.1016/0304-405X(88)90063-3"
+        },
+        {
+            "no": "8",
+            "title": "Index",
+            "date": "Sep 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90064-5"
+        },
+        {
+            "no": "9",
+            "title": "Subject index",
+            "date": "Sep 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90065-7"
+        },
+        {
+            "no": "10",
+            "title": "Author index",
+            "date": "Sep 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(88)90066-9"
+        }
+    ]
+}

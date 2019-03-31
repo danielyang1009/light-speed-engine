@@ -1,0 +1,57 @@
+# JFE, Volume 70, Issue 1
+- October 2003
+- Pages EX1-EX2, 3-134
+
+## 1. Editorial Board
+### Date
+- Oct 2003
+### Authors
+### Abstract
+
+### Link
+- https://doi.org/10.1016/S0304-405X(03)00226-5
+
+## 2. The choice among bank debt, non-bank private debt, and public debt: evidence from new corporate borrowings
+### Date
+- Oct 2003
+### Authors
+- David J Denis
+- Vassil T Mihov
+### Abstract
+Using a sample of 1,560 new debt financings, we examine the choice among bank debt, non-bank private debt, and public debt. The primary determinant of the debt source is the credit quality of the issuer. Firms with the highest credit quality borrow from public sources, firms with medium credit quality borrow from banks, and firms with the lowest credit quality borrow from non-bank private lenders. Non-bank private debt thus plays a unique role in accommodating the financing needs of firms with low credit quality. In addition, the choice of debt source is (weakly) influenced by managerial discretion.
+### Link
+- https://doi.org/10.1016/S0304-405X(03)00140-5
+
+## 3. The calendar structure of risk and expected returns on stocks and bonds
+### Date
+- Oct 2003
+### Authors
+- Joseph P. Ogden
+### Abstract
+This paper documents, for 1947–2000, seasonalities in economic activity, stock and bond returns, and relationships among them. Evidence is consistent with an annual cycle view of economic activity and risk conditions. The power of lagged stock returns to forecast economic activity is greater for quarters ending in December and March. Mean excess returns on NYSE stocks in October through March account for 78–107% of their annual means and reflect a seasonal asymmetric return reversal tendency, which in turn explains low long-horizon variance ratios. Both market losses in April through September and subsequent returns in October through March are related, but with opposing signs, to October through March economic activity. The forecasting power of five variables is greatest for October through March. Tests of an asset-pricing model indicate that expected returns vary both cross-sectionally and over time. Implications for the debate between efficient markets and behavioral finance are discussed.
+### Link
+- https://doi.org/10.1016/S0304-405X(03)00141-7
+
+## 4. Divisional diversity and the conglomerate discount: evidence from spinoffs
+### Date
+- Oct 2003
+### Authors
+- Timothy R. Burch
+- Vikram Nanda
+### Abstract
+Existing literature argues that disparity in investment opportunities within diversified firms can erode firm value. We investigate the diversity cost hypothesis of spinoffs by using post-spinoff data to (1) reconstruct the diversified firm after the spinoff and assess the aggregate improvement in value and (2) relate any value improvements to changes in diversity. We find that improvements in aggregate value depend significantly on changes in both a direct measure of diversity and measures based on industry proxies. We conclude that diversification discounts at least partially reflect a value loss due to the diversified nature of the firm itself, rather than selection bias or measurement error.
+### Link
+- https://doi.org/10.1016/S0304-405X(03)00142-9
+
+## 5. Institutional trading and alternative trading systems
+### Date
+- Oct 2003
+### Authors
+- Jennifer Conrad
+- Kevin M. Johnson
+- Sunil Wahal
+### Abstract
+We analyze the use of alternative trading systems in a large sample of institutional orders and the trades that constitute these orders. Proprietary data allow us to distinguish between orders and trades filled by day and after-hours crossing systems, electronic communication networks (ECNs), and traditional brokers. Controlling for variation in order and security characteristics, as well as endogeneity in the choice of trading venue, we find that realized execution costs are generally lower on alternative trading systems. Order handling rules and tick size changes implemented in 1997 appear to have reduced the cost advantage of trading on ECNs.
+### Link
+- https://doi.org/10.1016/S0304-405X(03)00143-0
+

@@ -1,0 +1,120 @@
+{
+    "journal": "JFE",
+    "volume": "128",
+    "issue": "2",
+    "date": "May 2018",
+    "page": "Pages 207-402",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "May 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(18)30084-9"
+        },
+        {
+            "no": "2",
+            "title": "An intertemporal CAPM with stochastic volatility",
+            "date": "Feb 2018",
+            "author": [
+                "John Y. Campbell",
+                "Stefano Giglio",
+                "Christopher Polk",
+                "Robert Turley"
+            ],
+            "abstract": "This paper studies the pricing of volatility risk using the first-order conditions of a long-term equity investor who is content to hold the aggregate equity market instead of overweighting value stocks and other equity portfolios that are attractive to short-term investors. We show that a conservative long-term investor will avoid such overweights to hedge against two types of deterioration in investment opportunities: declining expected stock returns and increasing volatility. We present novel evidence that low-frequency movements in equity volatility, tied to the default spread, are priced in the cross section of stock returns.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.011"
+        },
+        {
+            "no": "3",
+            "title": "Choosing factors",
+            "date": "Feb 2018",
+            "author": [
+                "Eugene F. Fama",
+                "Kenneth R. French"
+            ],
+            "abstract": "Our goal is to develop insights about the maximum squared Sharpe ratio for model factors as a metric for ranking asset pricing models. We consider nested and non-nested models. The nested models are the capital asset pricing model, the three-factor model of Fama and French (1993), the five-factor extension in Fama and French (2015), and a six-factor model that adds a momentum factor. The non-nested models examine three issues about factor choice in the six-factor model: (1) cash profitability versus operating profitability as the variable used to construct profitability factors, (2) long-short spread factors versus excess return factors, and (3) factors that use small or big stocks versus factors that use both.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.012"
+        },
+        {
+            "no": "4",
+            "title": "High frequency trading and extreme price movements",
+            "date": "Feb 2018",
+            "author": [
+                "Jonathan Brogaard",
+                "Allen Carrion",
+                "Thibaut Moyaert",
+                "Ryan Riordan",
+                "Andriy Shkilko",
+                "Konstantin Sokolov"
+            ],
+            "abstract": "Are endogenous liquidity providers (ELPs) reliable in times of market stress? We examine the activity of a common ELP type\u2014high frequency traders (HFTs)\u2014around extreme price movements (EPMs). We find that on average HFTs provide liquidity during EPMs by absorbing imbalances created by non-high frequency traders (nHFTs). Yet HFT liquidity provision is limited to EPMs in single stocks. When several stocks experience simultaneous EPMs, HFT liquidity demand dominates their supply. There is little evidence of HFTs causing EPMs.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.002"
+        },
+        {
+            "no": "5",
+            "title": "Protection of trade secrets and capital structure decisions",
+            "date": "Feb 2018",
+            "author": [
+                "Sandy Klasa",
+                "Hern\u00e1n Ortiz-Molina",
+                "Matthew Serfling",
+                "Shweta Srinivasan"
+            ],
+            "abstract": "Firms strategically choose more conservative capital structures when they face greater competitive threats stemming from the potential loss of their trade secrets to rivals. Following the recognition of the Inevitable Disclosure Doctrine by US state courts, which exogenously increases the protection of a firm's trade secrets by reducing the mobility of its workers who know its secrets to rivals, the firm increases its leverage relative to unaffected rivals. The effect is stronger for firms with a greater risk of losing key employees to rivals, for those facing financially stronger rivals, and for those in industries where competition is more intense.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.008"
+        },
+        {
+            "no": "6",
+            "title": "Cash windfalls and acquisitions",
+            "date": "Feb 2018",
+            "author": [
+                "Bastian von Beschwitz"
+            ],
+            "abstract": "This article studies the effect of cash windfalls on the acquisition policy of companies. As identification, I use a German tax reform that permitted firms to sell their equity stakes tax free. Companies that could realize a cash windfall by selling equity stakes see an increase in the probability of acquiring another company by 14%. I find that these additional acquisitions destroy firm value. Following the tax reform, affected firms experience a decrease of 1.2 percentage points in acquisition announcement returns. These effects are stronger for larger cash windfalls. My findings are consistent with the free cash flow theory.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.009"
+        },
+        {
+            "no": "7",
+            "title": "Bid anticipation, information revelation, and merger gains",
+            "date": "Feb 2018",
+            "author": [
+                "Wenyu Wang"
+            ],
+            "abstract": "Because firms\u2019 takeover motives are unobservable to investors, mergers are only partially anticipated and often appear as mixed blessings for acquirers. I construct and estimate a model to study the causes and consequences of bid anticipation and information revelation in mergers. Controlling for the market\u2019s reassessment of the acquirer\u2019s stand-alone value, I estimate that acquirers gain 4% from a typical merger. The total value of an active merger market averages 13% for acquirers, part of which is capitalized in their pre-merger market values. My model also explains the correlation between announcement returns and firm characteristics, as well as the low predictability of mergers.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.010"
+        },
+        {
+            "no": "8",
+            "title": "Interest rate volatility, the yield curve, and the macroeconomy",
+            "date": "Dec 2017",
+            "author": [
+                "Scott Joslin",
+                "Yaniv Konchitchki"
+            ],
+            "abstract": "This paper provides theory and evidence that a low-dimensional term structure model can simultaneously price bonds and related options. It shows that a component of volatility risk largely unrelated to the shape of the yield curve is a determinant of expected excess returns for holding long maturity bonds. It also finds evidence for this return relationship both in the model and directly in the data through regression analysis. The paper also identifies a link between corporate earnings performance and interest rate volatility, providing a channel driving interest rate volatility. The structure of risk in the model that gives rise to these features of volatility is distinct from that inherent in recent models with unspanned stochastic volatility.",
+            "link": "https://doi.org/10.1016/j.jfineco.2017.12.004"
+        },
+        {
+            "no": "9",
+            "title": "The effects of q and cash flow on investment in the presence of measurement error",
+            "date": "Feb 2018",
+            "author": [
+                "Andrew B. Abel"
+            ],
+            "abstract": "I analyze investment, q, and cash flow in a tractable stochastic model in which marginal q and average q are identically equal. I introduce classical measurement error and derive closed-form expressions for the coefficients in regressions of investment on q and cash flow. The cash-flow coefficient is positive and larger for faster growing firms, yet there are no financial frictions in the model. I develop the concepts of bivariate attenuation and weight shifting to interpret the estimated coefficients on q and cash flow in the presence of measurement error.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.005"
+        },
+        {
+            "no": "10",
+            "title": "CEO attributes, compensation, and firm value: Evidence from a structural estimation",
+            "date": "Feb 2018",
+            "author": [
+                "T. Beau Page"
+            ],
+            "abstract": "I present and estimate a dynamic model of chief executive officer (CEO) compensation and effort provision. I find that variation in CEO attributes explains the majority of variation in compensation (equity and total) but little of the variation in firm value. The primary drivers of cross-sectional compensation are risk aversion and influence on the board. Additionally, I estimate the magnitude of CEO agency issues. Removing CEO influence increases shareholder value in the typical firm by 1.74%, making CEOs risk neutral increases shareholder value by 16.12%, and removing all agency frictions increases shareholder value by 28.99%.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.006"
+        }
+    ]
+}

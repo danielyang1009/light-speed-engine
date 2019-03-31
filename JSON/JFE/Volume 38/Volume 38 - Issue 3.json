@@ -1,0 +1,89 @@
+{
+    "journal": "JFE",
+    "volume": "38",
+    "issue": "3",
+    "date": "July 1995",
+    "page": "Pages 241-383",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Jul 1995",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Wayne H. Mikkelson",
+                "Richard S. Ruback",
+                "G.William Schwert",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(95)90002-K"
+        },
+        {
+            "no": "2",
+            "title": "Underperformance in long-run stock returns following seasoned equity offerings",
+            "date": "Jul 1995",
+            "author": [
+                "D.Katherine Spiess",
+                "John Affleck-Graves"
+            ],
+            "abstract": "We document that firms making seasoned equity offerings during 1975\u20131989 substantially underperformed a sample of matched firms from the same industry and of similar size that did not issue equity. This underperformance persists even after controlling for trading system, offer size, and the issuing firm's age and book-to-market ratio. It is similar to that previously documented for initial public offerings, suggesting that managers take advantage of overvaluation in both the initial and seasoned equity offering markets.",
+            "link": "https://doi.org/10.1016/0304-405X(94)00817-K"
+        },
+        {
+            "no": "3",
+            "title": "Evaluating the performance of value versus glamour stocks The impact of selection bias",
+            "date": "Jul 1995",
+            "author": [
+                "Louis K.C. Chan",
+                "Narasimhan Jegadeesh",
+                "Josef Lakonishok"
+            ],
+            "abstract": "We examine whether sample selection bias explains the difference in returns between \u2018value\u2019 stocks (high book-to-market ratios) and \u2018glamour\u2019 stocks (low book-to-market ratios). Selection bias on Compustat is not a severe problem: for CRSP primary domestic firms, the proportion missing from Compustat is not large and the average return is not very different from the Compustat sample. Mechanical problems with matching Cusip identifiers account for much of the discrepancy between CRSP and Compustat. The superior performance of value stocks is confirmed for the top quintile of NYSE-Amex stocks, using a sample free from selection bias.",
+            "link": "https://doi.org/10.1016/0304-405X(94)00818-L"
+        },
+        {
+            "no": "4",
+            "title": "Valuing lease contracts A real-options approach",
+            "date": "Jul 1995",
+            "author": [
+                "Steven R Grenadier"
+            ],
+            "abstract": "Using a real-options approach to endogenously derive the entire term structure of lease rates, I develop a unified framework for pricing a wide variety of leasing contracts. The structure of the model is analogous to traditional models of the term structure of interest rates. I show how the model is flexible enough to determine equilibrium lease rates for leases of any term and practically any structure, including forward leases, leases with options to renew or cancel, lease insurance contracts, adjustable-rate leases, and leases with payments contingent on asset usage.",
+            "link": "https://doi.org/10.1016/0304-405X(94)00820-Q"
+        },
+        {
+            "no": "5",
+            "title": "Coercive tender and exchange offers in distressed high-yield debt restructurings An empirical analysis",
+            "date": "Jul 1995",
+            "author": [
+                "Sris Chatterjee",
+                "Upinder S. Dhillon",
+                "Gabriel G. Ram\u00edrez"
+            ],
+            "abstract": "This paper examines a recent sample of public workouts for distressed high-yield debt. The nature of holdouts and the effectiveness of coercive tactics in alleviating the holdout problem is analyzed. Tender offers are in relatively less financial distress, exhibit more severe holdouts, and are more coercive than exchange offers. Tender offers also have higher completion rates and fewer Chapter 11 filings. Security prices react positively to announcements of tender offers, negatively to exchange offers. Evidence suggests that coercion is not detrimental to bondholders, and may benefit security holders by increasing the likelihood of a less costly, out-of-court restructuring.",
+            "link": "https://doi.org/10.1016/0304-405X(94)00815-I"
+        },
+        {
+            "no": "6",
+            "title": "Investment analysis and price formation in securities markets",
+            "date": "Jul 1995",
+            "author": [
+                "Michael J. Brennan",
+                "Avanidhar Subrahmanyam"
+            ],
+            "abstract": "This paper investigates the relation between the number of analysts following a security and the estimated adverse selection cost of transacting in the security, controlling for the effects of previously identified determinants of liquidity. Using intraday data for the year 1988, we find that greater analyst following tends to reduce adverse selection costs based on the Kyle (1985) notion of market depth. This result is consistent with the analysis of Admati and Pfleiderer (1988). Estimates of structural parameters of a version of the Admati and Pfleiderer model of endogenous information acquisition provide qualified support for the model.",
+            "link": "https://doi.org/10.1016/0304-405X(94)00811-E"
+        },
+        {
+            "no": "7",
+            "title": "Index",
+            "date": "Jul 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(95)90003-L"
+        }
+    ]
+}

@@ -1,0 +1,115 @@
+{
+    "journal": "JFE",
+    "volume": "69",
+    "issue": "1",
+    "date": "July 2003",
+    "page": "Pages EX1-EX2, 5-280",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jul 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00150-8"
+        },
+        {
+            "no": "2",
+            "title": "Special Issue Contents Page",
+            "date": "Jul 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00162-4"
+        },
+        {
+            "no": "3",
+            "title": "The great reversals: the politics of financial development in the twentieth century",
+            "date": "Jul 2003",
+            "author": [
+                "Raghuram G Rajan",
+                "Luigi Zingales"
+            ],
+            "abstract": "The state of development of the financial sector does not change monotonically over time. In particular, by most measures, countries were more financially developed in 1913 than in 1980 and only recently have they surpassed their 1913 levels. To explain these changes, we propose an interest group theory of financial development where incumbents oppose financial development because it breeds competition. The theory predicts that incumbents\u2019 opposition will be weaker when an economy allows both cross-border trade and capital flows. This theory can go some way in accounting for the cross-country differences in, and the time-series variation of, financial development.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00125-9"
+        },
+        {
+            "no": "4",
+            "title": "Takeover bids and target directors\u2019 incentives: the impact of a bid on directors\u2019 wealth and board seats",
+            "date": "Jul 2003",
+            "author": [
+                "Jarrad Harford"
+            ],
+            "abstract": "I investigate the nature of the incentives that lead outside directors to serve stockholders\u2019 interests. Specifically, I document the effect of a takeover bid on target directors, both in terms of its immediate financial impact and its effect on the number of future board seats held by those target directors. Directors are rarely retained following a completed offer. All target directors hold fewer directorships in the future than a control group, suggesting that the target board seat is difficult to replace. For outside directors, the direct financial impact of a completed merger is predominately negative. This documents a cost to outside directors should they fail as monitors, forcing the external control market to act for them. Future seats are related to pre-bid performance. Among outside directors of poorly performing firms, those who rebuff an offer face partial settling-up in the directorial labor market, while those who complete the merger do not.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00108-9"
+        },
+        {
+            "no": "5",
+            "title": "Control as a motivation for underpricing: a comparison of dual and single-class IPOs",
+            "date": "Jul 2003",
+            "author": [
+                "Scott B Smart",
+                "Chad J Zutter"
+            ],
+            "abstract": "We find that dual-class firms experience less underpricing than single-class firms and explore several hypotheses which explain this phenomenon. Compared to single-class firms, dual-class companies have slightly higher post-IPO institutional ownership and experience fewer control events. Although dual-class firms achieve a lower underpricing cost, they trade at lower prices relative to earnings and sales than single-class IPOs. This pricing differential, combined with evidence that dual-class managers earn higher compensation and that dual-class shares are common among media and entertainment industry IPOs, suggests that dual-class ownership structures protect private control benefits.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00109-0"
+        },
+        {
+            "no": "6",
+            "title": "Governance and boards of directors in closed-end investment companies",
+            "date": "Jul 2003",
+            "author": [
+                "Diane Del Guercio",
+                "Larry Y Dann",
+                "M.Megan Partch"
+            ],
+            "abstract": "We analyze whether board structure and director independence in closed-end investment companies are related to shareholder interests in ways that are consistent with boards being effective monitors. We report that funds with relatively low expense ratios, one measure of board effectiveness, have smaller boards, a higher proportion of board members who are legally considered independent, relatively low director compensation, and charter provisions that specify remedial action if discounts become large. Evidence from our analysis of major fund restructuring decisions, including share repurchases, open-ending proposals and right offerings, is largely consistent with the expense ratio analysis. Overall, board characteristics that we identify with effective board independence are associated with lower expense ratios and value-enhancing restructurings.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00110-7"
+        },
+        {
+            "no": "7",
+            "title": "Executive stock option repricing, internal governance mechanisms, and management turnover",
+            "date": "Jul 2003",
+            "author": [
+                "N.K. Chidambaran",
+                "Nagpurnanand R. Prabhala"
+            ],
+            "abstract": "We examine firms that reprice their executive stock options and find little evidence that repricing reflects managerial entrenchment or ineffective governance. Repricing grants are economically significant, but there is little else unusual about compensation in repricing firms. Repricers tend to be smaller, younger, rapidly growing firms that experience a deep, sudden shock to growth and profitability. They are also more concentrated in the technology, trade, and service sectors and have smaller boards of directors. Repricers have abnormally high CEO turnover rates, which is inconsistent with the entrenchment hypothesis. Over 40% of repricers exclude the CEO's options when they reprice.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00111-9"
+        },
+        {
+            "no": "8",
+            "title": "Finance, investment, and growth",
+            "date": "Jul 2003",
+            "author": [
+                "Wendy Carlin",
+                "Colin Mayer"
+            ],
+            "abstract": "This paper examines the relation between the institutional structures of advanced OECD countries and the comparative growth and investment of 27 industries in those countries over the period 1970 to 1995. The paper reports a strong relation between the structure of countries\u2019 financial systems, the characteristics of industries, and the growth and investment of industries in different countries.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00112-0"
+        },
+        {
+            "no": "9",
+            "title": "Control benefits and CEO discipline in automatic bankruptcy auctions",
+            "date": "Jul 2003",
+            "author": [
+                "B Espen Eckbo",
+                "Karin S Thorburn"
+            ],
+            "abstract": "Swedish bankruptcy filing automatically terminates the employment of the chief executive officer (CEO) and triggers an auction of the firm. Critics of this system warn of excessive shareholder risk-shifting incentives prior to filing. We argue that private benefits of control induce managerial conservatism that may override shareholder risk-shifting incentives. By investing conservatively, the CEO increases the joint probability that the auction results in a going-concern sale and that the CEO is rehired. This uniquely implies that the rehiring probability is increasing in private control benefits, which our empirical results support. We also find that buyers in the auction screen on CEO quality. Overall, labor market discipline is dramatic, as filing CEOs suffer large income losses relative to CEOs of matched, non-bankrupt firms. Firms emerging from auction bankruptcy appear healthy as they typically go on to perform at par with industry rivals.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00126-0"
+        },
+        {
+            "no": "10",
+            "title": "Debtor-in-possession financing and bankruptcy resolution: Empirical evidence",
+            "date": "Jul 2003",
+            "author": [
+                "Sandeep Dahiya",
+                "Kose John",
+                "Manju Puri",
+                "Gabriel Ram\u0131\u0301rez"
+            ],
+            "abstract": "Debtor-in-possession (DIP) financing is unique secured financing available to firms filing for Chapter 11. Opponents of DIP financing argue that it leads to overinvestment. Alternatively, DIP financing can allow funding for positive net present value projects that increase the likelihood of reorganization and reduce time in bankruptcy. Using a large sample of bankruptcy filings, we find little evidence of systematic overinvestment. DIP financed firms are more likely to emerge from Chapter 11 than non-DIP financed firms. DIP financed firms have a shorter reorganization period; they are quicker to emerge and also quicker to liquidate. The reorganization period is even shorter when prior lenders provide the DIP financing.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00113-2"
+        }
+    ]
+}

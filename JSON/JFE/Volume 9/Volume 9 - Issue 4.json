@@ -1,0 +1,88 @@
+{
+    "journal": "JFE",
+    "volume": "9",
+    "issue": "4",
+    "date": "December 1981",
+    "page": "Pages 319-410",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Dec 1981",
+            "author": [
+                "Michael C. Jensen",
+                "G.William Schwert"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(81)90001-5"
+        },
+        {
+            "no": "2",
+            "title": "The relation between forward prices and futures prices",
+            "date": "Dec 1981",
+            "author": [
+                "John C. Cox",
+                "Jonathan E. Ingersoll",
+                "Stephen A. Ross"
+            ],
+            "abstract": "This paper consolidates the results of some recent work on the relation between forward prices and futures prices. It develops a number of propositions characterizing the two prices. These propositions contain several testable implications about the difference between forward and futures prices. Many of the propositions show that equilibrium forward and futures prices are equal to the values of particular assets, even though they are not in themselves asset prices. The paper then illustrates these results in the context of two valuation models and discusses the effects of taxes and other institutional factors.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90002-7"
+        },
+        {
+            "no": "3",
+            "title": "A continuous time equilibrium model of forward prices and futures prices in a multigood economy",
+            "date": "Dec 1981",
+            "author": [
+                "Scott F. Richard",
+                "M. Sundaresan"
+            ],
+            "abstract": "This paper is a theoretical investigation of equilibrium forward and futures prices. We construct a rational expectations model in continuous time of a multigood, identical consumer economy with constant stochastic returns to scale production. Using this model we find three main results. First, we find formulas for equilibrium forward, futures, discount bond, commodity bond and commodity option prices. Second, we show that a futures price is actually a forward price for the delivery of a random number of units of a good; the random number is the return earned from continuous reinvestment in instantaneously riskless bonds until maturity of the futures contract. Third, we find and interpret conditions under which normal backwardation or contango is found in forward or futures prices; these conditions reflect the usefulness of forward and futures contracts as consumption hedges.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90003-9"
+        },
+        {
+            "no": "4",
+            "title": "Forward contracts and futures contracts",
+            "date": "Dec 1981",
+            "author": [
+                "Robert A. Jarrow",
+                "George S. Oldfield"
+            ],
+            "abstract": "This paper provides a detailed discussion of the similarities and differences between forward contracts and futures contracts. Under frictionless markets and continuous trading, simple arbitrage arguments are invoked to value forward contracts, to relate forward prices and spot prices, and to relate forward prices and futures prices. We also argue that forward prices need not equal futures prices unless default free interest rates are deterministic.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90004-0"
+        },
+        {
+            "no": "5",
+            "title": "A model of international asset pricing",
+            "date": "Dec 1981",
+            "author": [
+                "Ren\u00e9M. Stulz"
+            ],
+            "abstract": "In this paper an intertemporal model of international asset pricing is constructed which admits differences in consumption opportunity sets across countries. It is shown that the real expected excess return on a risky asset is proportional to the covariance of the return of that asset with changes in the world real consumption rate. (World real consumption does not, in general, correspond to a basket of commodities consumed by all investors.) The model has no barriers to international investment, but it is compatible with empirical facts which contradict the predictions of earlier models and which seem to imply that asset markets are internationally segmented.",
+            "link": "https://doi.org/10.1016/0304-405X(81)90005-2"
+        },
+        {
+            "no": "6",
+            "title": "Editorial collaborators",
+            "date": "Dec 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(81)90006-4"
+        },
+        {
+            "no": "7",
+            "title": "News items",
+            "date": "Dec 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(81)90007-6"
+        },
+        {
+            "no": "8",
+            "title": "Index",
+            "date": "Dec 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(81)90008-8"
+        }
+    ]
+}

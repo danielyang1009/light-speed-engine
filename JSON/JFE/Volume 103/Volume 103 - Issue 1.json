@@ -1,0 +1,143 @@
+{
+    "journal": "JFE",
+    "volume": "103",
+    "issue": "1",
+    "date": "January 2012",
+    "page": "Pages 1-220",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "January 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(11)00247-9"
+        },
+        {
+            "no": "2",
+            "title": "Red and blue investing: Values and finance",
+            "date": "Jan 2011",
+            "author": [
+                "Harrison Hong",
+                "Leonard Kostovetsky"
+            ],
+            "abstract": "Using data on the political contributions and stock holdings of U.S. investment managers, we find that mutual fund managers who make campaign donations to Democrats hold less of their portfolios (relative to non-donors or Republican donors) in companies that are deemed socially irresponsible (e.g., tobacco, guns, or defense firms or companies with bad employee relations or diversity records). Although explicit socially responsible investing (SRI) funds are more likely to be managed by Democratic managers, this result holds for non-SRI funds and after controlling for other fund and manager characteristics. The effect is more than one-half of the underweighting observed for SRI funds.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.01.006"
+        },
+        {
+            "no": "3",
+            "title": "Behavioral consistency in corporate finance: CEO personal and corporate leverage",
+            "date": "Aug 2011",
+            "author": [
+                "Henrik Cronqvist",
+                "Anil K. Makhija",
+                "Scott E. Yonker"
+            ],
+            "abstract": "We find that firms behave consistently with how their CEOs behave personally in the context of leverage choices. Analyzing data on CEOs' leverage in their most recent primary home purchases, we find a positive, economically relevant, robust relation between corporate and personal leverage in the cross-section and when examining CEO turnovers. The results are consistent with an endogenous matching of CEOs to firms based on preferences, as well as with CEOs imprinting their personal preferences on the firms they manage, particularly when governance is weaker. Besides enhancing our understanding of the determinants of corporate capital structures, the broader contribution of the paper is to show that CEOs' personal behavior can, in part, explain corporate financial behavior of the firms they manage.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.005"
+        },
+        {
+            "no": "4",
+            "title": "How much of the diversification discount can be explained by poor corporate governance?",
+            "date": "Mar 2011",
+            "author": [
+                "Daniel Hoechle",
+                "Markus Schmid",
+                "Ingo Walter",
+                "David Yermack"
+            ],
+            "abstract": "We investigate whether the diversification discount occurs partly as an artifact of poor corporate governance. In panel data models, we find that the discount narrows by 16% to 21% when we add governance variables as regression controls. We also estimate Heckman selection models that account for the endogeneity of diversification and dynamic panel generalized method of moments models that account for the endogeneity of both diversification and governance. We find that the diversification discount persists even with these controls for endogeneity. However, in selection models the discount disappears entirely when we introduce governance variables in the second stage, and in dynamic panel GMM models the discount narrows by 37% when we include governance variables.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.03.025"
+        },
+        {
+            "no": "5",
+            "title": "When do high stock returns trigger equity issues?",
+            "date": "Aug 2011",
+            "author": [
+                "Aydo\u011fan Alt\u0131",
+                "Johan Sulaeman"
+            ],
+            "abstract": "One of the most prominent stylized facts in corporate finance is that equity issues tend to follow periods of high stock returns. We document that firms exhibit such timing behavior only in response to high returns that coincide with strong institutional investor demand. When not accompanied by institutional purchases, stock price increases have little impact on the likelihood of equity issuance. The results highlight the importance of market reception for the timing of equity issues.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.007"
+        },
+        {
+            "no": "6",
+            "title": "Institutional determinants of capital structure adjustment speeds",
+            "date": "Aug 2011",
+            "author": [
+                "\u00d6zde \u00d6ztekin",
+                "Mark J. Flannery"
+            ],
+            "abstract": "Many authors relate a firm's performance to legal and political features and the regulatory environment in which it operates. This article compares firms' capital structure adjustments across countries and investigates whether institutional differences help explain the variance in estimated adjustment speeds. We find that legal and financial traditions significantly correlate with firm adjustment speeds. More narrowly, institutional features also relate to adjustment speeds, consistent with the hypothesis that better institutions lower the transaction costs associated with adjusting a firm's leverage. Such associations between institutional arrangements and leverage adjustment speeds are consistent with the dynamic trade-off theory of capital structure choice.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.014"
+        },
+        {
+            "no": "7",
+            "title": "Expropriation risk and technology",
+            "date": "Aug 2011",
+            "author": [
+                "Marcus M. Opp"
+            ],
+            "abstract": "This paper develops a unified framework to analyze the dynamics of firm investment in countries with poor legal enforcement. The firm's technology edge over the government generates endogenous property rights. Industry variation in the technology gap predicts a sectoral pecking-order of expropriations. Long-run investment distortions may be Pareto superior relative to persistent investment at the static optimum. The dynamics of investment and transfers depend on whether incentives (backloading) or efficiency (frontloading) concerns dominate at the initial division of surplus. An increase in government efficiency may reduce its welfare. The model provides a technology-driven rationale for the widespread use of conglomerate structures in emerging market countries.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.010"
+        },
+        {
+            "no": "8",
+            "title": "Incentives to innovate and financial crises",
+            "date": "Mar 2011",
+            "author": [
+                "Anjan V. Thakor"
+            ],
+            "abstract": "In this paper I develop a model of a competitive financial system with unrestricted but costly entry and an endogenously determined number of competing financial institutions (\u201cbanks\u201d for short). Banks can make standard loans on which plentiful historical data are available and unanimous agreement exists on default probabilities. Or banks can innovate and make new loans on which limited historical data are available, leading to possible disagreement over default probabilities. In equilibrium, banks make zero profits on standard loans and positive profits on innovative loans, which engenders innovation incentives for banks. But innovation brings with it the risk that investors could disagree with the bank that the loan is worthy of continued funding and hence could withdraw funding at an interim stage, precipitating a financial crisis. The degree of innovation in the financial system is determined by this trade-off. Welfare implications of financial innovation and mechanisms to reduce the probability of crises are discussed.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.03.026"
+        },
+        {
+            "no": "9",
+            "title": "Structural models and endogeneity in corporate finance: The link between managerial ownership and corporate performance",
+            "date": "Apr 2011",
+            "author": [
+                "Jeffrey L. Coles",
+                "Michael L. Lemmon",
+                "J. Felix Meschke"
+            ],
+            "abstract": "This paper presents a parsimonious, structural model that isolates primary economic determinants of the level and dispersion of managerial ownership, firm scale, and performance and the empirical associations among them. In particular, variation across firms and through time of estimated productivity parameters for physical assets and managerial input and corresponding variation in optimal compensation contract and firm size combine to deliver the well-known hump-shaped relation between Tobin's Q and managerial ownership. To assess the effectiveness of standard econometric approaches to the endogeneity problem, we apply those remedies to panel data generated from the model. The unfortunate conclusion is that, at least in the ownership\u2013performance context, proxy variables, fixed effects, and instrumental variables do not generally provide reliable solutions to simultaneity bias.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.04.002"
+        },
+        {
+            "no": "10",
+            "title": "Friends with money",
+            "date": "Aug 2011",
+            "author": [
+                "Joseph Engelberg",
+                "Pengjie Gao",
+                "Christopher A. Parsons"
+            ],
+            "abstract": "When banks and firms are connected through interpersonal linkages \u2013 such as their respective management having attended college or previously worked together \u2013 interest rates are markedly reduced, comparable with single shifts in credit ratings. These rate concessions do not appear to reflect sweetheart deals. Subsequent firm performance, such as future credit ratings or stock returns, improves following a connected deal, suggesting that social networks lead to either better information flow or better monitoring.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.003"
+        },
+        {
+            "no": "11",
+            "title": "Optimal clearing arrangements for financial trades",
+            "date": "Aug 2011",
+            "author": [
+                "Thorsten Koeppl",
+                "Cyril Monnet",
+                "Ted Temzelides"
+            ],
+            "abstract": "Clearinghouses support financial trades by keeping records of transactions and by providing liquidity through short-term credit that participants clear periodically. We study efficient clearing arrangements for exchanges, where traders must clear with a clearinghouse, and for over-the-counter (OTC) markets, where traders can clear bilaterally. When clearing is costly, it can be efficient to subsidize OTC clearing by charging a higher clearing price for transactions conducted on exchanges. The clearinghouse then operates across both markets. Since clearinghouses offer credit, intertemporal incentives are needed to ensure settlement. When liquidity costs increase, concerns about default lead to a tightening of liquidity provision.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.008"
+        },
+        {
+            "no": "12",
+            "title": "CAPM for estimating the cost of equity capital: Interpreting the empirical evidence",
+            "date": "Aug 2011",
+            "author": [
+                "Zhi Da",
+                "Re-Jin Guo",
+                "Ravi Jagannathan"
+            ],
+            "abstract": "We argue that the empirical evidence against the capital asset pricing model (CAPM) based on stock returns does not invalidate its use for estimating the cost of capital for projects in making capital budgeting decisions. Because stocks are backed not only by projects in place, but also by the options to modify current projects and undertake new ones, the expected returns on stocks need not satisfy the CAPM even when expected returns of projects do. We provide empirical support for our arguments by developing a method for estimating firms' project CAPM betas and project returns. Our findings justify the continued use of the CAPM by firms in spite of the mounting evidence against it based on the cross section of stock returns.",
+            "link": "https://doi.org/10.1016/j.jfineco.2011.08.011"
+        }
+    ]
+}

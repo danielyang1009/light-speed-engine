@@ -1,0 +1,87 @@
+{
+    "journal": "JFE",
+    "volume": "95",
+    "issue": "2",
+    "date": "February 2010",
+    "page": "Pages 129-274",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Feb 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(09)00244-X"
+        },
+        {
+            "no": "2",
+            "title": "Escape from New York: The market impact of loosening disclosure requirements",
+            "date": "Dec 2008",
+            "author": [
+                "Nuno Fernandes",
+                "Ugur Lel",
+                "Darius P. Miller"
+            ],
+            "abstract": "We examine the first significant deregulation of U.S. disclosure requirements since the passage of the 1933/1934 Exchange and Securities Acts: the 2007 Securities and Exchange Commission (SEC) Rule 12h-6. Rule 12h-6 has made it easier for foreign firms to deregister with the SEC and thereby terminate their U.S. disclosure obligations. We show that the market reacted negatively to the announcement by the SEC that firms from countries with weak disclosure and governance regimes could more easily opt out of the stringent U.S. reporting and legal environment. We also find that since the rule's passage, an unprecedented number of firms have deregistered, and these firms often had been previous targets of U.S. class action securities lawsuits or SEC enforcement actions. Our findings suggest that shareholders of non-U.S firms place significant value on U.S. securities regulations, especially when the home country investor protections are weak.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.12.010"
+        },
+        {
+            "no": "3",
+            "title": "Resolving the exposure puzzle: The many facets of exchange rate exposure",
+            "date": "Sep 2009",
+            "author": [
+                "S\u00f6hnke M. Bartram",
+                "Gregory W. Brown",
+                "Bernadette A. Minton"
+            ],
+            "abstract": "Theory predicts sizeable exchange rate (FX) exposure for many firms. However, empirical research has not documented such exposures. To examine this discrepancy, we extend prior theoretical results to model a global firm's FX exposure and show empirically that firms pass through part of currency changes to customers and utilize both operational and financial hedges. For a typical sample firm, pass-through and operational hedging each reduce exposure by 10\u201315%. Financial hedging with foreign debt, and to a lesser extent FX derivatives, decreases exposure by about 40%. The combination of these factors reduces FX exposures to observed levels.",
+            "link": "https://doi.org/10.1016/j.jfineco.2009.09.002"
+        },
+        {
+            "no": "4",
+            "title": "Sentiment and stock prices: The case of aviation disasters",
+            "date": "Oct 2009",
+            "author": [
+                "Guy Kaplanski",
+                "Haim Levy"
+            ],
+            "abstract": "Behavioral economic studies reveal that negative sentiment driven by bad mood and anxiety affects investment decisions and may hence affect asset pricing. In this study we examine the effect of aviation disasters on stock prices. We find evidence of a significant negative event effect with an average market loss of more than $60 billion per aviation disaster, whereas the estimated actual loss is no more than $1 billion. In two days a price reversal occurs. We find the effect to be greater in small and riskier stocks and in firms belonging to less stable industries. This event effect is also accompanied by an increase in the perceived risk: implied volatility increases after aviation disasters without an increase in actual volatility.",
+            "link": "https://doi.org/10.1016/j.jfineco.2009.10.002"
+        },
+        {
+            "no": "5",
+            "title": "Political rights and the cost of debt",
+            "date": "Oct 2009",
+            "author": [
+                "Yaxuan Qi",
+                "Lukas Roth",
+                "John K. Wald"
+            ],
+            "abstract": "We examine the impact of country-level political rights on the cost of debt for corporate bonds issued by firms incorporated in 39 countries. Similar to, but separate from, the relation for creditor rights, greater political rights are associated with lower yield spreads. A one standard deviation increase in political rights is associated with an 18.6% decline in bond spreads. We find evidence that political and legal institutions are substitutes; marginal improvements in political rights produce greater reductions in the cost of debt for firms from countries with weaker creditor rights. We examine potential factors through which political rights may affect the cost of debt and find that greater freedom of the press provides an important channel for reducing bond risks. Moreover, debt of firms with cross-listed equity trades at a premium in U.S. markets, but this relation appears to be more consistent with improved visibility than with bonding effects.",
+            "link": "https://doi.org/10.1016/j.jfineco.2009.10.004"
+        },
+        {
+            "no": "6",
+            "title": "Reduced-form valuation of callable corporate bonds: Theory and evidence",
+            "date": "Oct 2009",
+            "author": [
+                "Robert Jarrow",
+                "Haitao Li",
+                "Sheen Liu",
+                "Chunchi Wu"
+            ],
+            "abstract": "We develop a reduced-form approach for valuing callable corporate bonds by characterizing the call probability via an intensity process. Asymmetric information and market frictions justify the existence of a call-arrival intensity from the market's perspective. Our approach both extends the reduced-form model of Duffie and Singleton (1999) for defaultable bonds to callable bonds and captures some important differences between call and default decisions. A comprehensive empirical analysis of callable bonds using both our model and the more traditional American option approach for valuing callable bonds shows that the reduced-form model fits callable bond prices well and that it outperforms the traditional approach both in- and out-of-sample.",
+            "link": "https://doi.org/10.1016/j.jfineco.2009.10.001"
+        },
+        {
+            "no": "7",
+            "title": "Capital structure decisions: Evidence from deregulated industries",
+            "date": "Oct 2009",
+            "author": [
+                "Alexei V. Ovtchinnikov"
+            ],
+            "abstract": "Deregulation significantly affects the firms\u2019 operating environment and leverage decisions. Firms experience a significant decline in profitability, asset tangibility and a significant increase in growth opportunities following deregulation. Firms respond by reducing leverage. Deregulation also significantly affects the cross-sectional relation between leverage and its determinants. Leverage is much less negatively correlated with profitability and market-to-book and much more positively (negatively) correlated with firm size (earnings volatility) following deregulation. These results are consistent with the dynamic tradeoff theory of capital structure. Also consistent with the dynamic tradeoff theory, those firms that are more likely to be above their target capital structure issue significantly more equity in the first few years following deregulation.",
+            "link": "https://doi.org/10.1016/j.jfineco.2009.10.003"
+        }
+    ]
+}

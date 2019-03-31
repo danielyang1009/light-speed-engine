@@ -1,0 +1,137 @@
+{
+    "journal": "JFE",
+    "volume": "123",
+    "issue": "1",
+    "date": "January 2017",
+    "page": "Pages 1-224",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jan 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(16)30220-3"
+        },
+        {
+            "no": "2",
+            "title": "Growth through rigidity: An explanation for the rise in CEO pay",
+            "date": "Aug 2016",
+            "author": [
+                "Kelly Shue",
+                "Richard R. Townsend"
+            ],
+            "abstract": "The dramatic rise in CEO compensation during the 1990s and early 2000s is a longstanding puzzle. In this paper, we show that much of the rise can be explained by a tendency of firms to grant the same number of options each year. Number-rigidity implies that the grant-date value of option awards will grow with firm equity returns, which were very high on average during the tech boom. Further, other forms of CEO compensation did not adjust to offset the dramatic growth in the value of option pay. Number-rigidity in options can also explain the increased dispersion in pay, the difference in growth between the US and other countries, and the increased correlation between pay and firm-specific equity returns. We present evidence that number-rigidity arose from a lack of sophistication about option valuation that is akin to money illusion. We show that regulatory changes requiring transparent expensing of the grant-date value of options led to a decline in number-rigidity and helps explain why executive pay increased less with equity returns during the housing boom in the mid-2000s.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.08.006"
+        },
+        {
+            "no": "3",
+            "title": "Debt enforcement, investment, and risk taking across countries",
+            "date": "Sep 2016",
+            "author": [
+                "Giovanni Favara",
+                "Erwan Morellec",
+                "Enrique Schroth",
+                "Philip Valta"
+            ],
+            "abstract": "We argue that the prospect of an imperfect enforcement of debt contracts in default reduces shareholder\u2013debtholder conflicts and induces leveraged firms to invest more and take on less risk as they approach financial distress. To test these predictions, we use a large panel of firms in 41 countries with heterogeneous debt enforcement characteristics. Consistent with our model, we find that the relation between debt enforcement and firms\u2019 investment and risk depends on the firm-specific probability of default. A differences-in-differences analysis of firms\u2019 investment and risk taking in response to bankruptcy reforms that make debt more renegotiable confirms the cross-country evidence.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.09.002"
+        },
+        {
+            "no": "4",
+            "title": "Systematic mistakes in the mortgage market and lack of financial sophistication",
+            "date": "Jan 2016",
+            "author": [
+                "Sumit Agarwal",
+                "Itzhak Ben-David",
+                "Vincent Yao"
+            ],
+            "abstract": "Institutions often offer a menu of contracts to consumers in an attempt to create a separating equilibrium that reveals borrower types and provides better pricing. We test the effectiveness of a specific set of contracts in the mortgage market: mortgage points. Points allow borrowers to exchange an upfront amount for a decrease in the mortgage rate. We document that, on average, points takers lose about $700. Also, points takers are less financially savvy (less educated, older), and they make mistakes on other dimensions (e.g., inefficiently refinancing their mortgages). Overall, our results show that borrowers overestimate how long they will stay with the mortgage.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.01.028"
+        },
+        {
+            "no": "5",
+            "title": "The unintended consequences of the zero lower bound policy",
+            "date": "Sep 2016",
+            "author": [
+                "Marco Di Maggio",
+                "Marcin Kacperczyk"
+            ],
+            "abstract": "We study the impact of the zero lower bound interest rate policy on the industrial organization of the U.S. money fund industry. We find that in response to policies that maintain low interest rates, money funds: change their product offerings by investing in riskier asset classes; are more likely to exit the market; and reduce the fees they charge their investors. The consequence of fund closures resulting from interest rate policy is the relocation of resources in affected fund families and in the asset management industry in general, as well as decline in capital of issuers borrowing from money funds.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.09.006"
+        },
+        {
+            "no": "6",
+            "title": "Dealer financial conditions and lender-of-last-resort facilities",
+            "date": "Dec 2015",
+            "author": [
+                "Viral V. Acharya",
+                "Michael J. Fleming",
+                "Warren B. Hrung",
+                "Asani Sarkar"
+            ],
+            "abstract": "We examine the financial conditions of dealers that participated in two of the Federal Reserve's lender-of-last-resort (LOLR) facilities\u2014the Term Securities Lending Facility (TSLF) and the Primary Dealer Credit Facility (PDCF)\u2014that provided liquidity against a range of assets during 2008\u20132009. Dealers with lower equity returns and greater leverage prior to borrowing from the facilities were more likely to participate in the programs, borrow more, and, in the case of the TSLF, at higher bidding rates. Dealers with less liquid collateral on their balance sheets before the facilities were introduced also tended to borrow more. The results suggest that both financial performance and balance sheet liquidity play a role in LOLR utilization.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.12.004"
+        },
+        {
+            "no": "7",
+            "title": "Customer concentration and loan contract terms",
+            "date": "Mar 2016",
+            "author": [
+                "Murillo Campello",
+                "Janet Gao"
+            ],
+            "abstract": "We study pricing and non-pricing features of loan contracts to gauge how the credit market evaluates a firm\u2019s customer-base profile and supply-chain relations. Higher customer concentration increases interest rate spreads and the number of restrictive covenants featured in newly initiated as well as renegotiated bank loans. Customer concentration also abbreviates the maturity of those loans as well as the relationship between firms and their banks. These effects are intensified by customers\u2019 financial distress, the level of relationship-specific investments, and the use of trade credit in customer\u2013supplier relations. Our evidence shows that a deeper exposure to a small set of large customers bears negative consequences for a firm\u2019s relations with its creditors, revealing limits to integration along the supply chain.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.03.010"
+        },
+        {
+            "no": "8",
+            "title": "News implied volatility and disaster concerns",
+            "date": "Jan 2016",
+            "author": [
+                "Asaf Manela",
+                "Alan Moreira"
+            ],
+            "abstract": "We construct a text-based measure of uncertainty starting in 1890 using front-page articles of the Wall Street Journal. News implied volatility (NVIX) peaks during stock market crashes, times of policy-related uncertainty, world wars, and financial crises. In US postwar data, periods when NVIX is high are followed by periods of above average stock returns, even after controlling for contemporaneous and forward-looking measures of stock market volatility. News coverage related to wars and government policy explains most of the time variation in risk premia our measure identifies. Over the longer 1890\u20132009 sample that includes the Great Depression and two world wars, high NVIX predicts high future returns in normal times and rises just before transitions into economic disasters. The evidence is consistent with recent theories emphasizing time variation in rare disaster risk as a source of aggregate asset prices fluctuations.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.01.032"
+        },
+        {
+            "no": "9",
+            "title": "How collateral laws shape lending and sectoral activity",
+            "date": "Sep 2016",
+            "author": [
+                "Charles W. Calomiris",
+                "Mauricio Larrain",
+                "Jos\u00e9 Liberti",
+                "Jason Sturgess"
+            ],
+            "abstract": "We demonstrate the central importance of creditors\u2019 ability to use movable assets as collateral (as distinct from immovable real estate) when borrowing from banks. Using a unique cross-country micro-level loan data set containing loan-to-value ratios for different assets, we find that loan-to-values of loans collateralized with movable assets are lower in countries with weak collateral laws, relative to immovable assets, and that lending is biased toward the use of immovable assets. Using sector-level data, we find that weak movable collateral laws create distortions in the allocation of resources that favor immovable-based production and investment. An analysis of Slovakia's collateral law reform confirms our findings.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.09.005"
+        },
+        {
+            "no": "10",
+            "title": "Portfolio concentration and performance of institutional investors worldwide",
+            "date": "Sep 2016",
+            "author": [
+                "Nicole Choi",
+                "Mark Fedenia",
+                "Hilla Skiba",
+                "Tatyana Sokolyk"
+            ],
+            "abstract": "Using data on security holdings for 10,771 institutional investors from 72 countries, we test whether concentrated investment strategies result in excess risk-adjusted returns. We examine several measures of portfolio concentration with respect to countries and industries and find that portfolio concentration is directly related to risk-adjusted returns for institutional investors worldwide. Results suggest, in contrast to traditional asset pricing theory and in support of information advantage theory, that concentrated investment strategies in international markets can be optimal.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.09.007"
+        },
+        {
+            "no": "11",
+            "title": "Pilot CEOs and corporate innovation",
+            "date": "Nov 2016",
+            "author": [
+                "Jayanthi Sunder",
+                "Shyam V. Sunder",
+                "Jingjing Zhang"
+            ],
+            "abstract": "We find evidence that chief executive officers\u2019 (CEOs\u2019) hobby of flying airplanes is associated with significantly better innovation outcomes, measured by patents and citations, greater innovation effectiveness, and more diverse and original patents. We rule out alternative explanations, leading us to conclude that CEO pilot credentials capture the personality trait of sensation seeking. Sensation seeking combines risk taking with a desire to pursue novel experiences and has been associated with creativity. Our evidence highlights sensation seeking as a valuable personality trait that can be used to identify CEOs who are likely to drive innovation success.",
+            "link": "https://doi.org/10.1016/j.jfineco.2016.11.002"
+        }
+    ]
+}

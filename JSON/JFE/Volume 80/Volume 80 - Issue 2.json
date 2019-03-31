@@ -1,0 +1,94 @@
+{
+    "journal": "JFE",
+    "volume": "80",
+    "issue": "2",
+    "date": "May 2006",
+    "page": "Pages 243-484",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "May 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(06)00073-0"
+        },
+        {
+            "no": "2",
+            "title": "Tax management strategies with multiple risky assets",
+            "date": "Aug 2004",
+            "author": [
+                "Michael F. Gallmeyer",
+                "Ron Kaniel",
+                "Stathis Tompaidis"
+            ],
+            "abstract": "We study the consumption-portfolio problem in a setting with capital gain taxes and multiple risky stocks to understand how short selling influences portfolio choice with a shorting-the-box restriction. Our analysis uncovers a novel trading flexibility strategy whereby, to minimize future tax-induced trading costs, the investor optimally shorts one of the stocks (or equivalently, buys put options) even when no stock has an embedded gain. Alternatively, an imperfect form of shorting the box can reduce aggregate equity exposure ex post. Given these two short selling strategies, it is common for an unconstrained investor to short some equity while a constrained investor holds a positive investment in all stocks. With no shorting, the benefit of trading separately in multiple stocks is not economically significant.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.08.010"
+        },
+        {
+            "no": "3",
+            "title": "Dividend changes and catering incentives",
+            "date": "Mar 2005",
+            "author": [
+                "Wei Li",
+                "Erik Lie"
+            ],
+            "abstract": "We extend Baker and Wurgler's [2004a. Journal of Finance 59 1125\u20131165] catering theory to include decreases and increases in existing dividends. Consistent with our extended model, we find that the decision to change the dividend and the magnitude of the change depend on the premium that the capital market places on dividends. We also find that the stock market reaction to dividend changes depends on the dividend premium. Thus, the capital market rewards managers for considering investor demand for dividends when making decisions about the level of dividends.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.03.005"
+        },
+        {
+            "no": "4",
+            "title": "Momentum and post-earnings-announcement drift anomalies: The role of liquidity risk",
+            "date": "Apr 2005",
+            "author": [
+                "Ronnie Sadka"
+            ],
+            "abstract": "This paper investigates the components of liquidity risk that are important for understanding asset-pricing anomalies. Firm-level liquidity is decomposed into variable and fixed price effects and estimated using intraday data for the period 1983\u20132001. Unexpected systematic (market-wide) variations of the variable component rather than the fixed component of liquidity are shown to be priced within the context of momentum and post-earnings-announcement drift (PEAD) portfolio returns. As the variable component is typically associated with private information [e.g., Kyle, 1985. Econometrica 53, 1315\u20131335], the results suggest that a substantial part of momentum and PEAD returns can be viewed as compensation for the unexpected variations in the aggregate ratio of informed traders to noise traders.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.04.005"
+        },
+        {
+            "no": "5",
+            "title": "The outsourcing of R&D through acquisitions in the pharmaceutical industry",
+            "date": "Apr 2005",
+            "author": [
+                "Matthew J. Higgins",
+                "Daniel Rodriguez"
+            ],
+            "abstract": "We examine the performance of 160 pharmaceutical acquisitions from 1994 to 2001 and find evidence that on average acquirers realize significant positive returns. These returns are positively correlated with prior acquirer access to information about the research and development activities at target firms and a superior negotiating position. A unique Desperation Index is employed to determine the current status of a firm's internal productivity. We find that firms experiencing declines in internal productivity or which are more desperate are more likely to engage in an outsourcing-type acquisition in an effort to replenish their research pipelines.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.04.004"
+        },
+        {
+            "no": "6",
+            "title": "How do family ownership, control and management affect firm value?",
+            "date": "Dec 2004",
+            "author": [
+                "Belen Villalonga",
+                "Raphael Amit"
+            ],
+            "abstract": "Using proxy data on all Fortune-500 firms during 1994\u20132000, we find that family ownership creates value only when the founder serves as CEO of the family firm or as Chairman with a hired CEO. Dual share classes, pyramids, and voting agreements reduce the founder's premium. When descendants serve as CEOs, firm value is destroyed. Our findings suggest that the classic owner-manager conflict in nonfamily firms is more costly than the conflict between family and nonfamily shareholders in founder-CEO firms. However, the conflict between family and nonfamily shareholders in descendant-CEO firms is more costly than the owner-manager conflict in nonfamily firms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.12.005"
+        },
+        {
+            "no": "7",
+            "title": "The American keiretsu and universal banks: Investing, voting and sitting on nonfinancials\u2019 corporate boards",
+            "date": "Mar 2005",
+            "author": [
+                "Jo\u00e3o A.C. Santos",
+                "Adrienne S. Rumble"
+            ],
+            "abstract": "This paper investigates the equity investments and voting rights that American banks control through their trust business. The paper also studies whether the voting rights American banks control through their trust business help explain their presence on firms\u2019 corporate boards. We find that on average the largest 100 American banks control 10% of the voting rights of S&P 500 firms. We also find that there are several firms in the S&P 500 index in which the top banks control more than 20% of their voting rights, and several firms in the country in which these banks control more than 60% of their voting rights. Our investigation into the presence of American bankers on corporate boards shows that bankers are more likely to join the boards of firms in which they control a large voting stake. We also find that banks\u2019 lending relationships help explain bankers\u2019 board memberships. Our results further show that bankers who have both a voting stake in a firm and a lending relationship with it have a higher likelihood of joining the firm's board of directors.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.03.011"
+        },
+        {
+            "no": "8",
+            "title": "Do accurate earnings forecasts facilitate superior investment recommendations?",
+            "date": "Mar 2005",
+            "author": [
+                "Roger K. Loh",
+                "G. Mujtaba Mian"
+            ],
+            "abstract": "We find that analysts who issue more accurate earnings forecasts also issue more profitable stock recommendations. The average factor-adjusted return associated with the recommendations of analysts in the highest accuracy quintile exceeds the corresponding return for analysts in the lowest accuracy quintile by 1.27% per month. Our findings provide indirect empirical support for valuation models in the accounting and finance literatures (e.g., Ohlson, 1995) that emphasize the role of future earnings in predicting stock price movements. Our results also suggest that imperfectly efficient markets reward information gatherers, such as security analysts, for their costly activities in generating superior earnings forecasts.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.03.009"
+        }
+    ]
+}

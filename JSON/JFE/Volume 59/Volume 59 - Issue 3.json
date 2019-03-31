@@ -1,0 +1,86 @@
+{
+    "journal": "JFE",
+    "volume": "59",
+    "issue": "3",
+    "date": "March 2001",
+    "page": "Pages 281-518",
+    "article": [
+        {
+            "no": "1",
+            "title": "Predictable changes in yields and forward rates",
+            "date": "Mar 2001",
+            "author": [
+                "David Backus",
+                "Silverio Foresi",
+                "Abon Mozumdar",
+                "Liuren Wu"
+            ],
+            "abstract": "We make two contributions to the study of interest rates. The first is to characterize their dynamics in a new way. We estimate forecasting relations based on one-period changes in forward rates, which are more easily compared than earlier work on yields to the stationary theory of bond pricing. The second is to approximate these dynamics and other salient features of interest rates with an affine model. We show that models with \u201cnegative\u201d factors come closer to accounting for the properties of interest rates, including their dynamics, than multifactor Cox-Ingersoll-Ross models.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00088-X"
+        },
+        {
+            "no": "2",
+            "title": "Do investment banks compete in IPOs?: the advent of the \u201c7% plus contract\u201d",
+            "date": "Mar 2001",
+            "author": [
+                "Robert S Hansen"
+            ],
+            "abstract": "The large number of initial public offerings (IPOs) with a 7% spread suggests either that investment bankers collude to profit from 7% IPOs or that the 7% contract is an efficient innovation that better suits the IPO. My tests do not support the collusion theory. Low concentration and ease of entry characterize the IPO market. Moreover, the 7% spread is not abnormally profitable, nor has its use been diminished by public awareness of collusion allegations. In support of the efficient contract theory, banks compete in pricing 7% IPOs on the basis of reputation, placement service, and underpricing.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00089-1"
+        },
+        {
+            "no": "3",
+            "title": "Do the individuals closest to internet firms believe they are overvalued",
+            "date": "Mar 2001",
+            "author": [
+                "Paul Schultz",
+                "Mir Zaman"
+            ],
+            "abstract": "Two explanations are commonly offered for the large number of recent IPOs by Internet firms. The first argues that Internet firms are trying to grab market share in an industry with large economies of scale. The second argues that Internet firms are rushing to go public when Internet stock prices are irrationally high. In this paper we examine the actions of those closest to Internet firms \u2013 firm managers, underwriters, and venture capitalists \u2013 to determine their motives for going public. Numerous strategic alliances and mergers and acquisitions provide strong evidence of a rush to grab market share. Other factors provide only weak evidence that Internet IPOs are attempts to sell overpriced stock.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00090-8"
+        },
+        {
+            "no": "4",
+            "title": "Common factors in prices, order flows, and liquidity",
+            "date": "Mar 2001",
+            "author": [
+                "Joel Hasbrouck",
+                "Duane J. Seppi"
+            ],
+            "abstract": "How important are cross-stock common factors in the price discovery/liquidity provision process in equity markets? We investigate two aspects of this question for the 30 Dow stocks. First, using principal components and canonical correlation analyses we find that both returns and order flows are characterized by common factors. Commonality in the order flows explains roughly two-thirds of the commonality in returns. Second, we examine variation and common covariation in various liquidity proxies and market depth (trade impact) coefficients. Liquidity proxies such as the bid\u2013ask spread and bid\u2013ask quote sizes help explain time variation in trade impacts. The common factors in these liquidity proxies are, however, relatively small.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00091-X"
+        },
+        {
+            "no": "5",
+            "title": "Direct foreign ownership, institutional investors, and firm characteristics",
+            "date": "Mar 2001",
+            "author": [
+                "Magnus Dahlquist",
+                "G\u00f6ran Robertsson"
+            ],
+            "abstract": "In this paper, we characterize foreign ownership using a dataset of ownership and attributes of Swedish firms. The analysis reveals that foreigners show a preference for large firms, firms paying low dividends, and firms with large cash positions on their balance sheets. When we further analyze the preference for large firms, we find that market liquidity and presence in international markets, measured through export sales or listings on other exchanges, seem to characterize foreign holdings better than firm size alone. Foreigners also tend to underweight firms with a dominant owner. Importantly, we demonstrate that most of the features associated with foreign ownership are driven by the fact that foreign investors typically are mutual funds or other institutional investors. Hence, we identify an institutional investor bias rather than a foreign investor bias. Finally, using ownership data on a country level, we conclude that the results are particularly strong among U.S. investors, who comprise the largest institutions among foreign investors.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00092-1"
+        },
+        {
+            "no": "6",
+            "title": "Exchange rate exposure and competition: evidence from the automotive industry",
+            "date": "Mar 2001",
+            "author": [
+                "Rohan Williamson"
+            ],
+            "abstract": "This study examines the effect of real exchange rate changes on multinational firms and incorporates the effect of intra-industry competition on the relation between exchange rates and firm value. To test the relation more effectively, tests are conducted using a sample of automotive firms from the United States and Japan. Consistent with theoretical predictions, there is significant exposure to exchange rate shocks. Moreover, there is evidence of time-variation in exchange rate exposure, which is consistent with changes in the competitive environment within the industry. Finally, evidence is presented that is consistent with foreign sales being a major determinant of exposure and the effectiveness of operational hedging through foreign production.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00093-3"
+        },
+        {
+            "no": "7",
+            "title": "Leverage and internal capital markets: evidence from leveraged recapitalizations",
+            "date": "Mar 2001",
+            "author": [
+                "Urs C. Peyer",
+                "Anil Shivdasani"
+            ],
+            "abstract": "We study the internal allocation of resources for diversified firms that complete a leveraged recapitalization. Before the recapitalization, internal capital markets allocate investment to high q segments. After the recapitalization, segment investment becomes less sensitive to q and more sensitive to segment cash flow. We show that firm value is positively related to investment's sensitivity to segment q and negatively related to investment's sensitivity to segment cash flow. Our analysis highlights an indirect cost of debt that has received little attention: pressure to meet interest obligations creates an incentive to emphasize investments that generate high levels of current cash flow.",
+            "link": "https://doi.org/10.1016/S0304-405X(00)00094-5"
+        }
+    ]
+}

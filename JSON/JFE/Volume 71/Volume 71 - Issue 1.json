@@ -1,0 +1,97 @@
+{
+    "journal": "JFE",
+    "volume": "71",
+    "issue": "1",
+    "date": "January 2004",
+    "page": "Pages EX1-EX2, 3-202",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jan 2004",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00269-1"
+        },
+        {
+            "no": "2",
+            "title": "Is the IPO pricing process efficient?",
+            "date": "Jan 2004",
+            "author": [
+                "Michelle Lowry",
+                "G.William Schwert"
+            ],
+            "abstract": "This paper investigates underwriters\u2019 treatment of public information throughout the IPO pricing process. Two key findings emerge. First, public information is not fully incorporated into the initial price range. While the economic magnitude of the bias is small, it is puzzling because it is not clear who benefits from it. Further, it indicates that the filing range midpoint is not an unbiased predictor of the offer price, as prior literature has assumed. Second, while public information is similarly not fully incorporated into the final offer price, the small economic significance of this relation indicates that the IPO pricing process is almost efficient.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00205-8"
+        },
+        {
+            "no": "3",
+            "title": "Earnings management, stock issues, and shareholder lawsuits",
+            "date": "Jan 2004",
+            "author": [
+                "Larry L DuCharme",
+                "Paul H Malatesta",
+                "Stephan E Sefcik"
+            ],
+            "abstract": "Abnormal accounting accruals are unusually high around stock offers, especially high for firms whose offers subsequently attract lawsuits. Accruals tend to reverse after stock offers and are negatively related to post-offer stock returns. Reversals are more pronounced and stock returns are lower for sued firms than for those that are not sued. The incidence of lawsuits involving stock offers and settlement amounts are significantly positively related to abnormal accruals around the offer and significantly negatively related to post-offer stock returns. Our results support the view that some firms opportunistically manipulate earnings upward before stock issues rendering themselves vulnerable to litigation.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00182-X"
+        },
+        {
+            "no": "4",
+            "title": "Tax-loss trading and wash sales",
+            "date": "Jan 2004",
+            "author": [
+                "Mark Grinblatt",
+                "Matti Keloharju"
+            ],
+            "abstract": "Finnish investors realize losses more than gains toward the end of December. Moreover, they repurchase the same stocks recently sold. The repurchase rate depends on loss magnitude, firm size, and how late in the year the sale takes place. This trading pattern generates net tax-loss buying pressure that is negative prior to the turn of the year and positive afterward. Cross-sectional regressions indicate that stock returns around the turn of the year, particularly for small firms, are related to net tax-loss buying pressure but not to firm size per se.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00180-6"
+        },
+        {
+            "no": "5",
+            "title": "The basis risk of catastrophic-loss index securities",
+            "date": "Jan 2004",
+            "author": [
+                "J.David Cummins",
+                "David Lalonde",
+                "Richard D. Phillips"
+            ],
+            "abstract": "Using a windstorm simulation model developed by Applied Insurance Research, we analyze the effectiveness of catastrophic-loss index options in hedging hurricane losses for Florida insurers. The results suggest that insurers in the two largest size quartiles can hedge losses almost as effectively using contracts based on four intrastate indices as they can using contracts that settle on their own losses. Many insurers in the third largest size quartile also can hedge effectively using the intrastate indices, but most insurers in the smallest quartile would encounter significant basis risk. Hedging using a statewide loss index is effective only for the largest insurers.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00172-7"
+        },
+        {
+            "no": "6",
+            "title": "Time-changed L\u00e9vy processes and option pricing",
+            "date": "Jan 2004",
+            "author": [
+                "Peter Carr",
+                "Liuren Wu"
+            ],
+            "abstract": "The classic Black-Scholes option pricing model assumes that returns follow Brownian motion, but return processes differ from this benchmark in at least three important ways. First, asset prices jump, leading to non-normal return innovations. Second, return volatilities vary stochastically over time. Third, returns and their volatilities are correlated, often negatively for equities. Time-changed L\u00e9vy processes can simultaneously address these three issues. We show that our framework encompasses almost all of the models proposed in the option pricing literature, and it is straightforward to select and test a particular option pricing model through the use of characteristic function technology.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00171-5"
+        },
+        {
+            "no": "7",
+            "title": "The impact of stock market information production on internal resource allocation",
+            "date": "Jan 2004",
+            "author": [
+                "Eitan Goldman"
+            ],
+            "abstract": "We analyze the resource allocation decision of a manager inside a multidivision firm whose compensation is based on the firm's stock price. We find that internal investments exhibit a positive correlation across the firms divisions. Namely, when two single-division firms merge the optimal investment level in one division becomes more positively related to the investment level in the other division. In addition, following a spinoff, divisional investments decline (increase) whenever the separated division has a project with a low (high) Sharpe ratio. Finally, multidivision firms trade at a discount which is larger the more diverse the investment sets of the divisions.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00177-6"
+        },
+        {
+            "no": "8",
+            "title": "Selling company shares to reluctant employees: France Telecom's experience",
+            "date": "Jan 2004",
+            "author": [
+                "Fran\u00e7ois Degeorge",
+                "Dirk Jenter",
+                "Alberto Moel",
+                "Peter Tufano"
+            ],
+            "abstract": "In 1997, France Telecom went through a partial privatization. Using a database that tracks over 200,000 eligible participants, we analyze employees\u2019 decisions whether to participate; how much to invest; and what stock alternatives to select. The results are broadly consistent with a neoclassical model of investing behavior. We report four anomalous findings: (1) The firm specificity of human capital has a negligible effect on employees\u2019 investment decisions; (2) the amount invested seems driven by different forces than the decision to participate, and we attempt to measure an apparent \u201cthreshold effect\u201d; (3) employees \u201cleft on the table\u201d benefits worth one to two months\u2019 salary by failing to participate; and (4) most participants underweighted the most valuable asset.",
+            "link": "https://doi.org/10.1016/S0304-405X(03)00184-3"
+        }
+    ]
+}

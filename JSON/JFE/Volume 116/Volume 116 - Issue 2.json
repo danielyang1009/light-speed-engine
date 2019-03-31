@@ -1,0 +1,132 @@
+{
+    "journal": "JFE",
+    "volume": "116",
+    "issue": "2",
+    "date": "May 2015",
+    "page": "Pages 219-432",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "May 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(15)00052-5"
+        },
+        {
+            "no": "2",
+            "title": "Liquid-claim production, risk management, and bank capital structure: Why high leverage is optimal for banks",
+            "date": "Nov 2014",
+            "author": [
+                "Harry DeAngelo",
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "Liquidity production is a central function of banks. High leverage is optimal for banks in a model that has just enough frictions for banks to have a meaningful role in liquid-claim production. The model has a market premium for (socially valuable) safe/liquid debt, but no taxes or other traditional motives to lever up. Because only safe debt commands a liquidity premium, banks with risky assets use risk management to maximize their capacity to include such debt in the capital structure. The model can explain why banks have higher leverage than most operating firms, why risk management is central to banks\u05f3 operating policies, why bank leverage increased over the last 150 years or so, and why leverage limits for regulated banks impede their ability to compete with unregulated shadow banks.",
+            "link": "https://doi.org/10.1016/j.jfineco.2014.11.011"
+        },
+        {
+            "no": "3",
+            "title": "Central clearing and collateral demand",
+            "date": "Dec 2014",
+            "author": [
+                "Darrell Duffie",
+                "Martin Scheicher",
+                "Guillaume Vuillemey"
+            ],
+            "abstract": "We use an extensive data set of bilateral credit default swap (CDS) positions to estimate the impact on collateral demand of new clearing and margin regulations. The estimated collateral demands include initial margin and the frictional demands associated with the movement of variation margin through the network of market participants. We estimate the impact on total collateral demand of more widespread initial margin requirements, increased novation of CDS to central clearing parties (CCPs), an increase in the number of clearing members, the proliferation of CCPs of both specialized and non-specialized types, collateral rehypothecation practices, and client clearing. System-wide collateral demand is increased significantly by the application of initial margin requirements for dealers, whether or not the CDS are cleared. Given these dealer-to-dealer initial margin requirements, mandatory central clearing is shown to lower, not raise, system-wide collateral demand, provided there is no significant proliferation of CCPs. Central clearing does, however, have significant distributional consequences for collateral requirements across market participants.",
+            "link": "https://doi.org/10.1016/j.jfineco.2014.12.006"
+        },
+        {
+            "no": "4",
+            "title": "High frequency market microstructure",
+            "date": "Jan 2015",
+            "author": [
+                "Maureen O\u2019Hara"
+            ],
+            "abstract": "Markets are different now, transformed by technology and high frequency trading. In this paper, I investigate the implications of these changes for high frequency market microstructure (HFT). I describe the new high frequency world, with a particular focus on how HFT affects the strategies of traders and markets. I discuss some of the gaps that arise when thinking about microstructure research issues in the high frequency world. I suggest that, like everything else in the markets, research must also change to reflect the new realities of the high frequency world. I propose some topics for this new research agenda in high frequency market microstructure.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.01.003"
+        },
+        {
+            "no": "5",
+            "title": "High-frequency quoting, trading, and the efficiency of prices",
+            "date": "Feb 2015",
+            "author": [
+                "Jennifer Conrad",
+                "Sunil Wahal",
+                "Jin Xiang"
+            ],
+            "abstract": "We examine the relation between high frequency quotation and the behavior of stock prices between 2009 and 2011 for the full cross section of securities in the US. On average, higher quotation activity is associated with price series that more closely resemble a random walk, and significantly lower cost of trading. We also explore market resiliency during periods of exceptionally high low-latency trading: large liquidity drawdowns in which, within the same millisecond, trading algorithms systematically sweep large volume across multiple trading venues. Although such large drawdowns incur trading costs, they do not appear to degrade the price formation process or increase the subsequent cost of trading. In an out-of-sample analysis, we investigate an exogenous technological change to the trading environment on the Tokyo Stock Exchange that dramatically reduces latency and allows co-location of servers. This shock also results in prices more closely resembling a random walk and a sharp decline in the cost of trading.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.008"
+        },
+        {
+            "no": "6",
+            "title": "Equilibrium fast trading",
+            "date": "Mar 2015",
+            "author": [
+                "Bruno Biais",
+                "Thierry Foucault",
+                "Sophie Moinas"
+            ],
+            "abstract": "High speed market connections improve investors\u05f3 ability to search for attractive quotes in fragmented markets, raising gains from trade. They also enable fast traders to obtain information before slow traders, generating adverse selection, and thus negative externalities. When investing in fast trading technologies, institutions do not internalize these externalities. Accordingly, they overinvest in equilibrium. Completely banning fast trading is dominated by offering two types of markets: one accepting fast traders, the other banning them. Utilitarian welfare is maximized with (i) a single market type on which fast and slow traders coexist and (ii) Pigovian taxes on investment in the fast trading technology.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.03.004"
+        },
+        {
+            "no": "7",
+            "title": "Extraordinary acquirers",
+            "date": "Feb 2015",
+            "author": [
+                "Andrey Golubov",
+                "Alfred Yawson",
+                "Huizhong Zhang"
+            ],
+            "abstract": "Firm fixed effects alone explain as much of the variation in acquirer returns as all the firm- and deal-specific characteristics combined. An interquartile range of acquirer fixed effects is over 6%, comparable to the interquartile range of acquirer returns. Acquirer returns persist over time, but mainly at the top end of the distribution. Persistence continues under different chief executive officers (CEOs), and attributes of the broader management team do not explain the fixed effect. Firm-specific heterogeneity in acquirer returns suggests that some organizations are extraordinary acquirers irrespective of the leadership at the top and the deal structures they choose. Implications for the M&A research are discussed.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.005"
+        },
+        {
+            "no": "8",
+            "title": "How do acquirers choose between mergers and tender offers?",
+            "date": "Feb 2015",
+            "author": [
+                "David Offenberg",
+                "Christo Pirinsky"
+            ],
+            "abstract": "Tender offers provide the advantage of substantially faster completion times than mergers. However, a tender offer signals to the target higher demand for its shares and raises its reservation price. In equilibrium, bidders tradeoff speed and cost. Consistent with this theory, we show that deals in more competitive environments and deals with fewer external impediments on execution are more likely to be structured as tender offers. Tender offers also require higher premiums than mergers. Finally, the rivals of the bidding firm realize significantly lower announcement returns and subsequent operating performance in tender offers than in mergers.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.006"
+        },
+        {
+            "no": "9",
+            "title": "CEO network centrality and merger performance",
+            "date": "Jan 2015",
+            "author": [
+                "Rwan El-Khatib",
+                "Kathy Fogel",
+                "Tomas Jandik"
+            ],
+            "abstract": "We study the effects on M&A outcomes of CEO network centrality, which measures the extent and strength of a CEO\u05f3s personal connections. High network centrality can allow CEOs to efficiently gather and control private information, facilitating value-creating acquisition decisions. We show, however, that M&A deals initiated by high-centrality CEOs, in addition to being more frequent, carry greater value losses to both the acquirer and the combined entity than deals initiated by low-centrality CEOs. We also document that high-centrality CEOs are capable of avoiding the discipline of the markets for corporate control and the executive labor market, and that the mitigating effect of internal governance on CEO actions is limited. Our evidence suggests that corporate decisions can be influenced by a CEO\u05f3s position in the social hierarchy, with high-centrality CEOs using their power and influence to increase entrenchment and reap private benefits.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.01.001"
+        },
+        {
+            "no": "10",
+            "title": "Contractual incompleteness, limited liability and asset price bubbles",
+            "date": "Feb 2015",
+            "author": [
+                "James Dow",
+                "Jungsuk Han"
+            ],
+            "abstract": "When should we expect bubbles? Can levered intermediaries bid up risky asset prices through asset substitution? We study an economy with financial intermediaries that issue debt and equity to buy risky assets. Asset substitution alone cannot cause bubbles because it is priced into the intermediaries\u05f3 securities. But incomplete contracts and managerial agency problems can make intermediaries take excessive risk to exploit limited liability, bidding up risky asset prices. This destroys welfare through misallocation of resources. We argue that incentives for private monitoring cannot solve this problem. Finally, even without agency problems, debt subsidies will create similar effects.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.002"
+        },
+        {
+            "no": "11",
+            "title": "Search-based peer firms: Aggregating investor perceptions through internet co-searches",
+            "date": "Feb 2015",
+            "author": [
+                "Charles M.C. Lee",
+                "Paul Ma",
+                "Charles C.Y. Wang"
+            ],
+            "abstract": "Applying a \u201cco-search\u201d algorithm to Internet traffic at the SEC\u05f3s EDGAR website, we develop a novel method for identifying economically related peer firms and for measuring their relative importance. Our results show that firms appearing in chronologically adjacent searches by the same individual (Search-Based Peers or SBPs) are fundamentally similar on multiple dimensions. In direct tests, SBPs dominate GICS6 industry peers in explaining cross-sectional variations in base firms\u05f3 out-of-sample: (a) stock returns, (b) valuation multiples, (c) growth rates, (d) R&D expenditures, (e) leverage, and (f) profitability ratios. We show that SBPs are not constrained by standard industry classification, and are more dynamic, pliable, and concentrated. We also show that co-search intensity captures the degree of similarity between firms. Our results highlight the potential of the collective wisdom of investors \u2014 extracted from co-search patterns \u2014 in addressing long-standing benchmarking problems in finance.",
+            "link": "https://doi.org/10.1016/j.jfineco.2015.02.003"
+        }
+    ]
+}

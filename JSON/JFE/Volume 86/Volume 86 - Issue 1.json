@@ -1,0 +1,107 @@
+{
+    "journal": "JFE",
+    "volume": "86",
+    "issue": "1",
+    "date": "October 2007",
+    "page": "Pages 1-278",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Oct 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(07)00169-9"
+        },
+        {
+            "no": "2",
+            "title": "Why do countries matter so much for corporate governance?",
+            "date": "Sep 2006",
+            "author": [
+                "Craig Doidge",
+                "G. Andrew Karolyi",
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "This paper develops and tests a model of how country characteristics, such as legal protections for minority investors and the level of economic and financial development, influence firms\u2019 costs and benefits in implementing measures to improve their own governance and transparency. We find that country characteristics explain much more of the variance in governance ratings (ranging from 39% to 73%) than observable firm characteristics (ranging from 4% to 22%). Further, we show that firm characteristics explain almost none of the variation in governance ratings in less-developed countries and that access to global capital markets sharpens firms\u2019 incentives for better governance.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.09.002"
+        },
+        {
+            "no": "3",
+            "title": "Banks and bubbles: How good are bankers at spotting winners?",
+            "date": "Jul 2006",
+            "author": [
+                "Laura Gonzalez",
+                "Christopher James"
+            ],
+            "abstract": "This paper examines the bank lending relations of a large sample of technology and nontechnology firms that went public during the 1996\u20132000 period. We use a unique hand-collected data set to examine the characteristics of firms that establish pre- Initial Public Offering (IPO) bank lending relations and whether post-IPO performance is related to the existence and size of pre-IPO banking relations. We find that the majority of IPO firms have banking relations before they go public. Firms with banking relations are older, more profitable or, in the case of tech firms, have lower losses, and are more likely to have funding from venture capitalists than firms without banking relations. We also find that banks lent aggressively to technology firms in the sense that current earnings and cash flows were significantly less important in determining banking relations for technology firms than for nontechnology firms. Consistent with the importance of so-called soft information in lending decisions, we find that, controlling for ex ante observable risk measures, there is a positive and significant relation between improvements in post-IPO operating performance and the existence and size of pre-IPO banking relations. Overall, our results indicate that firms with the best current and future prospects establish banking relations. Our findings provide an explanation as to why investors could interpret lending relations as a positive signal of firm quality.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.07.004"
+        },
+        {
+            "no": "4",
+            "title": "Optimism and economic choice",
+            "date": "Sep 2006",
+            "author": [
+                "Manju Puri",
+                "David T. Robinson"
+            ],
+            "abstract": "We create a novel measure of optimism using the Survey of Consumer Finance by comparing self-reported life expectancy to that implied by statistical tables. This measure of optimism correlates with positive beliefs about future economic conditions and with psychometric tests of optimism. Optimism is related to numerous work/life choices: more optimistic people work harder, expect to retire later, are more likely to remarry, invest more in individual stocks, and save more. Interestingly, however, moderate optimists display reasonable financial behavior, whereas extreme optimists display financial habits and behavior that are generally not considered prudent.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.09.003"
+        },
+        {
+            "no": "5",
+            "title": "Was there too little entry during the Dot Com Era?",
+            "date": "Mar 2006",
+            "author": [
+                "Brent Goldfarb",
+                "David Kirsch",
+                "David A. Miller"
+            ],
+            "abstract": "We present four stylized facts about the Dot Com Era: (1) there was a widespread belief in a Get Big Fast business strategy, (2) the increase and decrease in public and private equity investment was most prominent in the Internet and information technology sectors, (3) the survival rate of dot com firms is on par with or higher than other emerging industries, and (4) firm survival is independent of private equity funding. To connect these findings we offer a herding model that accommodates a divergence between the information and incentives of venture capitalists and their investors. A Get Big Fast belief cascade could have led to overly focused investment in too few Internet startups and, as a result, too little entry.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.03.009"
+        },
+        {
+            "no": "6",
+            "title": "Foreign currency-denominated borrowing in the absence of operating incentives",
+            "date": "Aug 2006",
+            "author": [
+                "Matthew R. McBrady",
+                "Michael J. Schill"
+            ],
+            "abstract": "It is well known that corporations issue foreign currency-denominated debt to hedge foreign currency cash flows with offsetting interest payments. We test an alternative \u201copportunistic\u201d motive for foreign currency-denominated borrowing. We do so by constructing a comprehensive sample of foreign currency-denominated bonds issued by sovereign government and agency issuers with no foreign currency cash flows or foreign operations. We find strong and consistent evidence that the borrowers in our sample consider cross-currency differences in covered and uncovered interest yields in choosing the currency in which to denominate their international debt. We estimate the average gains to opportunistic covered yield borrowing to be 4 to 18 basis points. Interestingly, we also find that the average bond offering in our sample precedes a large and beneficial depreciation of the issue currency over the course of the following year. These results support what has been a frequent conjecture in the foreign debt market.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.08.004"
+        },
+        {
+            "no": "7",
+            "title": "Multifrequency news and stock returns",
+            "date": "Sep 2006",
+            "author": [
+                "Laurent E. Calvet",
+                "Adlai J. Fisher"
+            ],
+            "abstract": "Equity prices are driven by shocks with persistence levels ranging from intraday horizons to several decades. To accommodate this diversity, we introduce a parsimonious equilibrium model with regime shifts of heterogeneous durations in fundamentals, and estimate specifications with up to 256 states on daily aggregate returns. The multifrequency equilibrium has higher likelihood than the Campbell and Hentschel [1992. No news is good news: an asymmetric model of changing volatility in stock returns. Journal of Financial Economics 31, 281\u2013318] specification, while producing volatility feedback 10 to 40 times larger. Furthermore, Bayesian learning about volatility generates a novel trade-off between skewness and kurtosis as information quality varies, complementing the uncertainty channel [e.g., Veronesi, 1999. Stock market overreaction to bad news in good times: a rational expectations equilibrium model. Review of Financial Studies 12, 975\u20131007]. Economies with intermediate information best match daily returns.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.09.001"
+        },
+        {
+            "no": "8",
+            "title": "Stochastic skew in currency options",
+            "date": "Mar 2006",
+            "author": [
+                "Peter Carr",
+                "Liuren Wu"
+            ],
+            "abstract": "We analyze the behavior of over-the-counter currency option prices across moneyness, maturity, and calendar time on two of the most actively traded currency pairs over the past eight years. We find that, on any given date, the conditional risk-neutral distribution of currency returns can show strong asymmetry. This asymmetry varies greatly over time and often switches signs. We develop and estimate a class of models that captures this stochastic skew behavior. Model estimation shows that our stochastic skew models significantly outperform traditional jump-diffusion stochastic volatility models both in sample and out of sample.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.03.010"
+        },
+        {
+            "no": "9",
+            "title": "Credit-spread determinants and interlocking contracts: A study of the Ras Gas project",
+            "date": "Mar 2007",
+            "author": [
+                "Mansoor Dailami",
+                "Robert Hauswald"
+            ],
+            "abstract": "This paper provides an in-depth study of the allocation of a firm's residual risks not explicitly managed through interlocking contracts in the context of project finance. Focusing on the Ras Gas project, we relate its credit spreads as a measure of investor risk perceptions to firm-specific risk factors in the context of 25-year supply agreements, debt covenants, and a debt-service guarantee contingent on output prices. Consistent with theoretical predictions, we find that unmanaged risk factors affecting the supply agreement drive Ras Gas\u2019 credit spreads, whereas managed ones have no effect. Interpreting our findings as evidence for the nexus-of-contracts view of the firm, we discuss some implications for financial design and valuation.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.03.001"
+        }
+    ]
+}

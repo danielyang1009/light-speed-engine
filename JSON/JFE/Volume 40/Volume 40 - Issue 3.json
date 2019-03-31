@@ -1,0 +1,88 @@
+{
+    "journal": "JFE",
+    "volume": "40",
+    "issue": "3",
+    "date": "March 1996",
+    "page": "Pages 339-488",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Mar 1996",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Wayne H. Mikkelson",
+                "Richard S. Ruback",
+                "G.William Schwert",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(96)90006-9"
+        },
+        {
+            "no": "2",
+            "title": "Reversal of fortune dividend signaling and the disappearance of sustained earnings growth",
+            "date": "Mar 1996",
+            "author": [
+                "Harry DeAngelo",
+                "Linda DeAngelo",
+                "Douglas J. Skinner"
+            ],
+            "abstract": "We study the signaling content of managers' dividend decisions for 145 NYSE firms whose annual earnings decline after nine or more consecutive years of growth. Using a variety of model specifications and definitions of favorable dividend signals, we find virtually no support for the notion that dividend decisions help identify firms with superior future earnings. Dividends tend not to be reliable signals because (i) a behavioral bias (overoptimism) leads managers to overestimate future earnings when growth prospects fade; and (ii) managers make only modest cash commitments when they increase dividends, undermining the reliability of such signals.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00850-E"
+        },
+        {
+            "no": "3",
+            "title": "Commercial banks in investment banking conflict of interest or certification role?",
+            "date": "Mar 1996",
+            "author": [
+                "Manju Puri"
+            ],
+            "abstract": "When commercial banks make loans to firms and also underwrite securities, does this hamper or enhance their role as certifiers of firm value? This paper examines empirically the pricing of bank-underwritten securities as compared to investment-house-underwritten securities over a unique period in the U.S. (pre-Glass-Steagall) when both banks and investment houses were allowed to underwrite securities. The evidence shows that investors were willing to pay higher prices for securities underwritten by banks rather than investment houses. The results support a certification role for banks, which is more valuable for junior and information sensitive securities.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00855-9"
+        },
+        {
+            "no": "4",
+            "title": "Top management turnover an empirical investigation of mutual fund managers",
+            "date": "Mar 1996",
+            "author": [
+                "Ajay Khorana"
+            ],
+            "abstract": "This paper examines the relation between the replacement of mutual fund managers and their prior performance. Using the growth rate in a fund's asset base and its portfolio returns as two separate measures of performance, I document an inverse relation between the probability of managerial replacement and fund performance. The sample of departing fund managers exhibits higher portfolio turnover rates and higher expenses relative to an objective-matched sample of nonreplaced fund managers. The overall evidence is consistent with the presence of well-functioning internal and external market mechanisms for mutual fund managers.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00852-6"
+        },
+        {
+            "no": "5",
+            "title": "Is there a pecking order? Evidence from a panel of IPO firms",
+            "date": "Mar 1996",
+            "author": [
+                "Jean Helwege",
+                "Nellie Liang"
+            ],
+            "abstract": "We test the pecking order model of capital structure by examining the financing of firms that went public in 1983. We estimate a logit to predict external financing, and a multinomial logit to predict the type of financing using data on the IPO firms' security offerings during 1984\u20131992. Our results indicate that the probability of obtaining external funds is unrelated to the shortfall in internally generated funds, although firms with cash surpluses avoid external financing. Firms that access the capital markets do not follow the pecking order when choosing the type of security to offer.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00851-5"
+        },
+        {
+            "no": "6",
+            "title": "An empirical analysis of strategic competition and firm values the case of R&D competition",
+            "date": "Mar 1996",
+            "author": [
+                "Anant K. Sundaram",
+                "Teresa A. John",
+                "Kose John"
+            ],
+            "abstract": "We operationalize a firm's competitive strategy through a new empirical measure, and develop a framework for empirical analysis of the market value of strategic behavior. Using this framework, we study announcement effects of R&D spending. The announcing firm's stock prices are positively influenced by a change in spending, and negatively by our competitive strategy measure (CSM). Competitors' stock prices are positively influenced by the interaction between the market's reaction to the announcing firm and the CSM. Our results are consistent with positive effects of \u2018accommodating\u2019 competition with strategic substitutes, and nonpositive effects of \u2018tough\u2019 competition with strategic complements.",
+            "link": "https://doi.org/10.1016/0304-405X(95)00853-7"
+        },
+        {
+            "no": "7",
+            "title": "Index",
+            "date": "Mar 1996",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(96)90007-0"
+        }
+    ]
+}

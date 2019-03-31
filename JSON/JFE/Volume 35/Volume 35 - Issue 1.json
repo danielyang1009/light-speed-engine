@@ -1,0 +1,94 @@
+{
+    "journal": "JFE",
+    "volume": "35",
+    "issue": "1",
+    "date": "February 1994",
+    "page": "Pages 1-138",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Feb 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(94)90014-0"
+        },
+        {
+            "no": "2",
+            "title": "Editorial data",
+            "date": "Feb 1994",
+            "author": [
+                "Michael C. Jensen",
+                "John B. Long",
+                "Wayne H. Mikkelson",
+                "Richard S. Ruback",
+                "Schwert G. William",
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(94)90015-9"
+        },
+        {
+            "no": "3",
+            "title": "The term structure of real interest rates and the Cox, Ingersoll, and Ross model",
+            "date": "Feb 1994",
+            "author": [
+                "Roger H. Brown",
+                "Stephen M. Schaefer"
+            ],
+            "abstract": "This paper estimates real term structures from cross-sections of British government index-linked (\u2018realrd) bond prices. The Cox, Ingersoll, and Ross (1985) model is then fitted to the same data; the model closely approximates the shapes of the directly-estimated term structures. In contrast to similar studies of the nominal term structure, the long-term zero-coupon yield is quite stable, as the CIR model predicts, and in common with previous studies, the level of implied short rate volatility corresponds well with time series estimates. The other parameters, however, are often highly correlated and intertemporal parameter stability is rejected.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90016-7"
+        },
+        {
+            "no": "4",
+            "title": "Markups, quantity risk, and bidding strategies at treasury coupon auctions",
+            "date": "Feb 1994",
+            "author": [
+                "David P. Simon"
+            ],
+            "abstract": "This study uses intraday when-issued rate quotes to examine the rewards and risks of the Treasury coupon auctions for bidders who face different tradeoffs between the winner's curse and quantity risk. The data indicate that markups of auction average rates over bid when-issued rates at auction times average 3/8 basis point. I also find that when-issued rates react as strongly to bidding aggressiveness at auctions before the auction results are announced as theydo afterward, and that quantity risk is as important as the winner's curse.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90017-5"
+        },
+        {
+            "no": "5",
+            "title": "How managerial wealth affects the tender offer process",
+            "date": "Feb 1994",
+            "author": [
+                "James F. Cotter",
+                "Marc Zenner"
+            ],
+            "abstract": "We present empirical evidence on the relation between changes in managerial wealth and tender offer characteristics. Changes in managerial wealth resulting from a tender offer are negatively related to the likelihood of managerial resistance to a tender offer and positively related to the likelihood of tender offer success. We also document that the abnormal returns to tender offers are lower for hostile than for friendly offers if we control for the tender offer premium. Finally, we find that the top executive gains, whereas outside shareholders do not gain, from management's decision to resist the tender offer.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90018-3"
+        },
+        {
+            "no": "6",
+            "title": "An examination of voluntary versus involuntary security issuances by commercial banks",
+            "date": "Feb 1994",
+            "author": [
+                "Marcia Millon Cornett",
+                "Hassan Tehranian"
+            ],
+            "abstract": "This paper examines differences in stock price reactions following voluntary capital injections by commercial banks and involuntary capital injections required to meet regulatory capital requirements. Empirical tests document that stock price declines associated with voluntary common stock issues are significantly greater than those associated with involuntary common stock injections, consistent with Ross (1977). Empirical test also confirm that for both voluntary and involuntary stock issuances, the abnormal stock price reaction is negatively related to the relative size of the offering and positively related to managerial ownership prior to the security issue, although these relationships are stronger for voluntary issues.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90019-1"
+        },
+        {
+            "no": "7",
+            "title": "Campeau's acquisition of Federated",
+            "date": "Feb 1994",
+            "author": [
+                "Steven N. Kaplan"
+            ],
+            "abstract": "This paper updates Kaplan (1989) by comparing Federated Department Stores' value before its purchase by Campeau Corporation to its post-bankruptcy value. The post-bankruptcy value includes all direct and indirect costs of bankruptcy and financial distress. Federated's assets increased in value by $3.1 billion in 1992 dollars(or $1.6 billion in 1987 dollars). This increase is only slightly below that in Kaplan (1989), suggesting that net bankruptcy costs were modest, and, possibly, nonexistent. The Federated purchase illustrates that a highly-leveraged transaction can increase value, but still be unable to meet its debt obligations; and bankruptcy (and financial distress) need not be costly.",
+            "link": "https://doi.org/10.1016/0304-405X(94)90020-5"
+        },
+        {
+            "no": "8",
+            "title": "News items",
+            "date": "Feb 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(94)90021-3"
+        }
+    ]
+}

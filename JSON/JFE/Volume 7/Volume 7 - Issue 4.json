@@ -1,0 +1,95 @@
+{
+    "journal": "JFE",
+    "volume": "7",
+    "issue": "4",
+    "date": "December 1979",
+    "page": "Pages 319-405",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Dec 1979",
+            "author": [
+                "Michael C. Jensen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(79)90001-1"
+        },
+        {
+            "no": "2",
+            "title": "The market speed of adjustment to new information",
+            "date": "Dec 1979",
+            "author": [
+                "S.C. Hillmer",
+                "P.L. Yu"
+            ],
+            "abstract": "A definition of market adjustment is proposed in terms of the time it takes market attributes to reflect new information. Properties of the proposed definition are discussed. In order to operationalize the concept, a statistical method is introduced to estimate the adjustment times. Empirical examples are used to illustrate the proposed method. Some possible economic interpretations are given. The properties of the estimator are also investigated by simulation and analytical methods.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90002-3"
+        },
+        {
+            "no": "3",
+            "title": "Liquidity preference under uncertainty: A model of dynamic investment in illiquid opportunities",
+            "date": "Dec 1979",
+            "author": [
+                "Carliss Y. Baldwin",
+                "Richard F. Meyer"
+            ],
+            "abstract": "Whereas frictionless exchange markets provide a high degree of liquidity for financial assets, investments in real assets and productive capacity may be very costly to modify, and thus effectively irreversible in the short-run. This paper addresses the problem of an investor (individual or enterprise) who must allocate a limited resource to productive investments over time. Investment opportunities arrive in a random sequence and are irreversible in the short-run: thus investment decisions are made under uncertainty as to future opportunities (which may have to be foregone). The analysis demonstrates that a rational investor will demand a higher return on long-lasting opportunities than on those which are instantaneously reversible. The liquidity premium increases with the average duration of the non-liquid investments.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90003-5"
+        },
+        {
+            "no": "4",
+            "title": "A note on an analytical valuation formula for unprotected American call options on stocks with known dividends",
+            "date": "Dec 1979",
+            "author": [
+                "Robert Geske"
+            ],
+            "abstract": "This note provides simple analytic formulas for the value of an American call option on a stock with known dividends.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90004-7"
+        },
+        {
+            "no": "5",
+            "title": "Asymmetric information and portfolio performance measurement",
+            "date": "Dec 1979",
+            "author": [
+                "Bradford Cornell"
+            ],
+            "abstract": "This note argues that though Dave Mayers and Edward Rice were able to show that the CAPM could be used to detect superior investors in a world of asymmetric information, their demonstration does not resurrect the CAPM as a practical tool for performance measurement. To employ the Mayers-Rice model, an investment advisor would first have to determine that the CAPM holds for uninformed investors. As a means of avoiding the problem of testing the CAPM, a performance measure based only on returns is outlined. The measure is robust in that it would correctly designate superior investors in context of the CAPM, the arbitrage pricing model and many other equilibrium models of security pricing.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90005-9"
+        },
+        {
+            "no": "6",
+            "title": "A reply to Mayers and Rice (1979)",
+            "date": "Dec 1979",
+            "author": [
+                "Richard Roll"
+            ],
+            "abstract": "Mayers and Rice do not resolve the basic problem in portfolio performance evaluation with the securities market line, the ambiguity introduced by being obliged to choose a market index. Other performance evaluation techniques exist and possess some superior qualities. The Mayers-Rice discussion of my critique of the capital asset pricing model (CAPM) fails to recognize the CAPM's unusual testing implications and ignores the existence of alternative asset pricing theories. Residual analysis should give approximately correct estimates of the abnormal returns caused by specific events if it is conducted with the market model.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90006-0"
+        },
+        {
+            "no": "7",
+            "title": "Editorial collaborators",
+            "date": "Dec 1979",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(79)90007-2"
+        },
+        {
+            "no": "8",
+            "title": "News item",
+            "date": "Dec 1979",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(79)90008-4"
+        },
+        {
+            "no": "9",
+            "title": "Index",
+            "date": "Dec 1979",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(79)90009-6"
+        }
+    ]
+}

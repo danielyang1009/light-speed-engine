@@ -1,0 +1,51 @@
+{
+    "journal": "JFE",
+    "volume": "7",
+    "issue": "2",
+    "date": "June 1979",
+    "page": "Pages 115-226",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Jun 1979",
+            "author": [
+                "Michael C. Jensen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(79)90010-2"
+        },
+        {
+            "no": "2",
+            "title": "On financial contracting",
+            "date": "Jun 1979",
+            "author": [
+                "Clifford W. Smith",
+                "Jerold B. Warner"
+            ],
+            "abstract": "With risky debt outstanding, stockholder actions aimed at maximizing the value of their equity claim can result in a reduction in the value of both the firm and its outstanding bonds. We examine ways in which debt contracts are written to control the conflict between bondholders and stockholders. We find that extensive direct restrictions on production/investment policy would be expensive to employ and are not observed. However, dividend and financing policy restrictions are written to give stockholders incentives to follow a firm-value-maximizing production/investment policy. Taking into account how contracts control the bondholder- stockholder conflict leads to a number of testable propositions about the specific form of the debt contract that a firm will choose.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90011-4"
+        },
+        {
+            "no": "3",
+            "title": "The effect of personal taxes and dividends on capital asset prices",
+            "date": "Jun 1979",
+            "author": [
+                "Robert H. Litzenberger",
+                "Krishna Ramaswamy"
+            ],
+            "abstract": "This paper derives an after tax version of the Capital Asset Pricing Model. The model accounts for a progressive tax scheme and for wealth and income related constraints on borrowing. The equilibrium relationship indicates that before-tax expected rates of return are linearly related to systematic risk and to dividend yield. The sample estimates of the variances of observed betas are used to arrive at maximum likelihood estimators of the coefficients. The results indicate that, unlike prior studies, there is a strong positive relationship between dividend yield and expected return for NYSE stocks. Evidence is also presented for a clientele effect.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90012-6"
+        },
+        {
+            "no": "4",
+            "title": "Risk measurement when shares are subject to infrequent trading",
+            "date": "Jun 1979",
+            "author": [
+                "Elroy Dimson"
+            ],
+            "abstract": "When shares are traded infrequently, beta estimates are often severely biased. This paper reviews the problems introduced by infrequent trading, and presents a method for measuring beta when share price data suffer from this problem. The method is used with monthly returns for a one-in-three random sample of all U.K. Stock Exchange shares from 1955 to 1974. Most of the bias in conventional beta estimates is eliminated when the proposed estimators are used in their place.",
+            "link": "https://doi.org/10.1016/0304-405X(79)90013-8"
+        }
+    ]
+}

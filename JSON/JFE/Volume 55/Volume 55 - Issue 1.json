@@ -1,0 +1,55 @@
+{
+    "journal": "JFE",
+    "volume": "55",
+    "issue": "1",
+    "date": "January 2000",
+    "page": "Pages 1-140",
+    "article": [
+        {
+            "no": "1",
+            "title": "Factors affecting investment bank initial public offering market share",
+            "date": "Jan 2000",
+            "author": [
+                "Craig G Dunbar"
+            ],
+            "abstract": "This paper examines the effect of several factors on the market share of investment banks that act as book managers in initial public offerings (IPOs) between 1984 and 1995. For established banks, IPO first-day returns, one-year abnormal performance, abnormal compensation, industry specialization, analyst reputation, and association with withdrawn offers have a significant impact on changes in market share. These factors have a more significant effect on market share changes in low-volume IPO markets. These factors have a less significant effect on market share, statistically and economically, for less established banks, consistent with the notion that less reputation is placed at risk.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00043-4"
+        },
+        {
+            "no": "2",
+            "title": "The investment behavior and performance of various investor types: a study of Finland's unique data set",
+            "date": "Jan 2000",
+            "author": [
+                "Mark Grinblatt",
+                "Matti Keloharju"
+            ],
+            "abstract": "Using data from Finland, this study analyzes the extent to which past returns determine the propensity to buy and sell. It also analyzes whether these differences in past-return-based behavior and differences in investor sophistication drive the performance of various investor types. We find that foreign investors tend to be momentum investors, buying past winning stocks and selling past losers. Domestic investors, particularly households, tend to be contrarians. The distinctions in behavior are consistent across a variety of past-return intervals. The portfolios of foreign investors seem to outperform the portfolios of households, even after controlling for behavior differences.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00044-6"
+        },
+        {
+            "no": "3",
+            "title": "When an event is not an event: the curious case of an emerging market",
+            "date": "Jan 2000",
+            "author": [
+                "Utpal Bhattacharya",
+                "Hazem Daouk",
+                "Brian Jorgenson",
+                "Carl-Heinrich Kehr"
+            ],
+            "abstract": "Shares trading in the Bolsa Mexicana de Valores do not seem to react to company news. Using a sample of Mexican corporate news announcements from the period July 1994 through June 1997, this paper finds that there is nothing unusual about returns, volatility of returns, volume of trade or bid\u2013ask spreads in the event window. We provide evidence that suggests that unrestricted insider trading causes prices to fully incorporate the information before its public release. The paper thus points toward a methodology for ranking emerging stock markets in terms of their market integrity, an approach that can be used with the limited data available in such markets.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00045-8"
+        },
+        {
+            "no": "4",
+            "title": "Value creation and corporate diversification: the case of Sears, Roebuck & Co.",
+            "date": "Jan 2000",
+            "author": [
+                "Stuart L. Gillan",
+                "John W. Kensinger",
+                "John D. Martin"
+            ],
+            "abstract": "We provide clinical evidence of corporate restructuring at Sears, Roebuck & Co., beginning with the firm's 1981 diversification into financial services by acquiring Coldwell, Banker & Co. and Dean Witter, Reynolds Inc. The initial purchases resulted in a wealth gain to shareholders of approximately $400 million. Anticipated synergies did not materialize, however, and Sears\u2019 retail performance deteriorated. Coincident with pressure from institutional investor activists in 1992, Sears announced the divestiture of financial services and a refocusing on retail operations. This led to a $1.113 billion gain for shareholders. Despite more than $1.5 billion in gains over the entire diversification/divestiture period, Sears\u2019 shareholders suffered a significant opportunity loss when compared with a portfolio of focused firms.",
+            "link": "https://doi.org/10.1016/S0304-405X(99)00046-X"
+        }
+    ]
+}

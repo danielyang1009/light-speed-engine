@@ -1,0 +1,74 @@
+{
+    "journal": "JFE",
+    "volume": "2",
+    "issue": "4",
+    "date": "December 1975",
+    "page": "Pages 321-385",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Dec 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(75)90007-0"
+        },
+        {
+            "no": "2",
+            "title": "Bank funds management in an efficient market",
+            "date": "Dec 1975",
+            "author": [
+                "Fischer Black"
+            ],
+            "abstract": "This paper discusses general principles for choosing bank assets and liabilities, for deciding on when to make a loan and what interest rate to charge, for pricing funds transfer services such as the handling of checks, for establishing compensating balance requirements, and for dealing with government regulation. The discussion assumes markets are efficient and deals first with an unregulated environment and then with policies in the face of regulatory constraints. Most of the policies which would be optimal in an unregulated environment will be optimal in the regulated environment such as in the U.S. today, because it is relatively easy to get around most of the regulations that are applied to banks by the use of non-deposit liabilities, compensating balances and negative checking accounts.",
+            "link": "https://doi.org/10.1016/0304-405X(75)90008-2"
+        },
+        {
+            "no": "3",
+            "title": "Capital asset prices versus time series models as predictors of inflation",
+            "date": "Dec 1975",
+            "author": [
+                "Patrick J. Hess",
+                "James L. Bicksler"
+            ],
+            "abstract": "This paper examines the robustness of one month treasury bills as predictors of inflation. The evidence is inconsistent with the joint hypothesis that (1) the expected real rate of interest was constant for one-month bills and (2) that markets are efficient with regard to the time series of inflation. When the expected real rate of interest is set equal to the conditional expectation given the time series of real rates, the results are much more consistent with the efficient markets model. In more positive terms, the failure to confirm market efficiency appears to be the result of naive estimates of the expected real rate.",
+            "link": "https://doi.org/10.1016/0304-405X(75)90009-4"
+        },
+        {
+            "no": "4",
+            "title": "Prediction of return with the minimum variance zero-beta portfolio",
+            "date": "Dec 1975",
+            "author": [
+                "I.G. Morgan"
+            ],
+            "abstract": "This paper tests prediction of returns on stocks using a direct estimate of the minimum variance zero beta portfolio z. The composition of this portfolio is implicit in Black's paper on capital market equilibrium in the absence of riskless borrowing or lending. Portfolios of stocks drawn from the same industries are used to estimate z. The predictions of Black's equilibrium return equation are compared with those of cross-sectional regressions of return on risk.",
+            "link": "https://doi.org/10.1016/0304-405X(75)90010-0"
+        },
+        {
+            "no": "5",
+            "title": "A note on default risk, leverage and the MM theorem",
+            "date": "Dec 1975",
+            "author": [
+                "R.C. Stapleton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(75)90011-2"
+        },
+        {
+            "no": "6",
+            "title": "Editorial collaborators",
+            "date": "Dec 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(75)90012-4"
+        },
+        {
+            "no": "7",
+            "title": "Index",
+            "date": "Dec 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(75)90013-6"
+        }
+    ]
+}

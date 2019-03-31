@@ -1,0 +1,103 @@
+{
+    "journal": "JFE",
+    "volume": "73",
+    "issue": "3",
+    "date": "September 2004",
+    "page": "Pages 411-606",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Sep 2004",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(04)00139-4"
+        },
+        {
+            "no": "2",
+            "title": "Asset prices and real investment",
+            "date": "Dec 2003",
+            "author": [
+                "Leonid Kogan"
+            ],
+            "abstract": "Firm investment activity and firm characteristics, particularly the market-to-book ratio or q, are functions of the state of the economy and therefore contain information about the dynamic behavior of stock returns. This paper develops a model of a production economy in which real investment is irreversible and subject to convex adjustment costs. During low-q (high-q) periods when the irreversibility constraint (constraint on the rate of investment) is binding, conditional volatility and expected returns on one hand, and market-to-book ratios on the other, should be negatively (positively) related. Empirical tests based on industry portfolios support these predictions for conditional volatility but not for expected returns.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.12.002"
+        },
+        {
+            "no": "3",
+            "title": "The timing and value of forecast and recommendation revisions",
+            "date": "Mar 2004",
+            "author": [
+                "Zoran Ivkovi\u0107",
+                "Narasimhan Jegadeesh"
+            ],
+            "abstract": "This paper evaluates the information content of analysts\u2019 one-quarter-ahead earnings forecast revisions and recommendation revisions at various points in event time relative to earnings announcement dates. Across three sets of tests, we find that the revisions are least informative in the week after earnings announcements and that the information content of revisions generally increases over event time. We find a sharp increase in the information content of upward forecast revisions and recommendation upgrades in the week before earnings announcements, but we do not find a similar increase for downward revisions or for recommendation downgrades.",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.03.002"
+        },
+        {
+            "no": "4",
+            "title": "Estimating the market risk premium",
+            "date": "Mar 2002",
+            "author": [
+                "E Scott Mayfield"
+            ],
+            "abstract": "This paper provides a method for estimating the market risk premium that accounts for shifts in investment opportunities by explicitly modeling the underlying process governing the level of market volatility. I find that approximately 50% of the measured risk premium is related to the risk of future changes in investment opportunities. Evidence of a structural shift in the underlying volatility process suggests that the simple historical average of excess market returns may substantially overstate the magnitude of the market risk premium for the period since the Great Depression.",
+            "link": "https://doi.org/10.1016/j.jfineco.2002.03.001"
+        },
+        {
+            "no": "5",
+            "title": "Who is in whose pocket? Director compensation, board independence, and barriers to effective monitoring",
+            "date": "Nov 2003",
+            "author": [
+                "Harley E. Ryan",
+                "Roy A. Wiggins"
+            ],
+            "abstract": "We use a bargaining framework to examine empirically the relations between director compensation and board-of-director independence. Our evidence suggests that independent directors have a bargaining advantage over the CEO that results in compensation more closely aligned with shareholders\u2019 objectives. Firms with more outsiders on their boards award directors more equity-based compensation. When the CEO's power over the board increases, compensation provides weaker incentives to monitor. Firms with more inside directors and with entrenched CEOs use less equity-based pay. Furthermore, firms with entrenched CEOs and CEOs who also chair the board are less likely to replace cash pay with equity.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.11.002"
+        },
+        {
+            "no": "6",
+            "title": "Testing market efficiency using statistical arbitrage with applications to momentum and value strategies",
+            "date": "Oct 2003",
+            "author": [
+                "Steve Hogan",
+                "Robert Jarrow",
+                "Melvyn Teo",
+                "Mitch Warachka"
+            ],
+            "abstract": "This paper introduces the concept of statistical arbitrage, a long horizon trading opportunity that generates a riskless profit and is designed to exploit persistent anomalies. Statistical arbitrage circumvents the joint hypothesis dilemma of traditional market efficiency tests because its definition is independent of any equilibrium model and its existence is incompatible with market efficiency. We provide a methodology to test for statistical arbitrage and then empirically investigate whether momentum and value trading strategies constitute statistical arbitrage opportunities. Despite adjusting for transaction costs, the influence of small stocks, margin requirements, liquidity buffers for the marking-to-market of short-sales, and higher borrowing rates, we find evidence that these strategies generate statistical arbitrage.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.10.004"
+        },
+        {
+            "no": "7",
+            "title": "Banking market structure and financial stability: Evidence from the Texas real estate crisis in the 1980s",
+            "date": "Jul 2003",
+            "author": [
+                "Jie Gan"
+            ],
+            "abstract": "This paper examines the relationship between banking market structure and financial stability. Using data on thrifts, a type of banking institution specializing in residential mortgage lending, I test two related hypotheses. First, competition reduces franchise value. Second, reduced franchise value induces risk taking. Testing the second hypothesis exploits predictions that when hit by an exogenous shock, the slope of risk with respect to franchise value becomes more negative because thrifts adopt \u201cbang-bang\u201d strategies and choose minimal or maximal risk. Using the Texas real estate collapse in the 1980s as a natural experiment, I find evidence supporting both hypotheses.",
+            "link": "https://doi.org/10.1016/j.jfineco.2003.07.004"
+        },
+        {
+            "no": "8",
+            "title": "Corrigendum to \u201cUniversal option valuation using quadrature methods\u201d",
+            "date": "Mar 2004",
+            "author": [
+                "Ari D Andricopoulos",
+                "Martin Widdicks",
+                "Peter W Duck",
+                "David P Newton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/j.jfineco.2004.03.003"
+        },
+        {
+            "no": "9",
+            "title": "Index",
+            "date": "Sep 2004",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(04)00144-8"
+        }
+    ]
+}

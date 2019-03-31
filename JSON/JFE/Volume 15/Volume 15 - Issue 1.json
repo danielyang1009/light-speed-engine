@@ -1,0 +1,135 @@
+{
+    "journal": "JFE",
+    "volume": "15",
+    "issue": "1\u20132",
+    "date": "January\u2013February 1986",
+    "page": "Pages 1-281",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jan 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(86)90046-2"
+        },
+        {
+            "no": "2",
+            "title": "Preface",
+            "date": "Jan 1986",
+            "author": [
+                "Michael C. Jensen",
+                "Clifford W. Smith"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(86)90047-4"
+        },
+        {
+            "no": "3",
+            "title": "Investment banking and the capital acquisition process",
+            "date": "Jan 1986",
+            "author": [
+                "Clifford W. Smith"
+            ],
+            "abstract": "This paper reviews the theory and evidence on the process by which corporations raise debt and equity capital and the associated effects on security prices. Findings from related transactions are used to test hypotheses about the stock price patterns accompanying announcements of security offerings. Various contractual alternatives employed in security issues are examined; for example, rights or underwritten offers, negotiated or competitive bid, best efforts or firm commitment contracts, and shelf or traditional registration. Finally, incentives for underpricing new issues are analyzed.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90048-6"
+        },
+        {
+            "no": "4",
+            "title": "Valuation effects of security offerings and the issuance process",
+            "date": "Jan 1986",
+            "author": [
+                "Wayne H. Mikkelson",
+                "M.Megan Partch"
+            ],
+            "abstract": "This study examines the stock price effects of security offerings and investigates the nature of information inferred by investors from offering announcements. Changes in share price are unrelated to characteristics of offerings such as the net amount of new financing, relative offering size, and the quality rating of debt issues. The type of security is the only significant determinant of the price response. The opposite patterns of abnormal stock returns following the announcement of completed versus cancelled offerings suggest that managers issue common stock or convertible debt when in managers' view shares are overpriced.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90049-8"
+        },
+        {
+            "no": "5",
+            "title": "Equity issues and offering dilution",
+            "date": "Jan 1986",
+            "author": [
+                "Paul Asquith",
+                "David W. Mullins"
+            ],
+            "abstract": "This study investigates the effect on stock prices of seasoned equity offerings. The results demonstrate that the announcement of equity offerings reduces stock prices significantly. For industrial issues, regression results indicate that announcement day price reduction is significantly and negatively related to the size of the equity offering. The results appear not to be explained by changes in capital structure associated with the equity offerings. The findings are consistent both with the hypothesis that equity issues are viewed by investors as negative signals and with the hypothesis that there is a downward sloping demand for a firm's shares.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90050-4"
+        },
+        {
+            "no": "6",
+            "title": "Seasoned equity offerings",
+            "date": "Jan 1986",
+            "author": [
+                "Ronald W. Masulis",
+                "Ashok N. Korwar"
+            ],
+            "abstract": "This study examines common stock price adjustments to announcements of underwritten common stock offerings. On average, a negative stock price change is observed, which is larger for industrials than for public utilities. Combination primary-secondary stock offerings and dual stock-bond offerings exhibit similar negative announcement effects. Combination offerings involving decreases in management shareholdings exhibit significantly larger negative announcement effects. Cross-sectional analysis of stock announcement returns indicates a positive relationship to firms' leverage changes, and a negative relationship to prior stock returns and (for industrials) to decreases in management shareholdings.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90051-6"
+        },
+        {
+            "no": "7",
+            "title": "Valuation effects of corporate debt offerings",
+            "date": "Jan 1986",
+            "author": [
+                "B.Espen Eckbo"
+            ],
+            "abstract": "This paper analyzes the effect of corporate debt offerings on stock prices. Straight debt offerings have non-positive price effects, while convertible debt offerings have significantly negative effects. Public utility mortgage (non-convertible) bond offerings have marginally negative effects, and the effect is significantly negative when the proceeds are used to finance the utility's investment program. Cross-sectional regressions reveal no relation between offer-induced price effects and offering size, rating, post-offer changes in abnormal earnings or debt-related tax shields. The evidence is inconsistent with theories predicting that the price effects of capital structure changes go in the direction of the leverage change.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90052-8"
+        },
+        {
+            "no": "8",
+            "title": "A comparison of equity carve-outs and seasoned equity offerings",
+            "date": "Jan 1986",
+            "author": [
+                "Katherine Schipper",
+                "Abbie Smith"
+            ],
+            "abstract": "This paper investigates share price reactions of parent firms to announcements of public offerings of stock of wholly-owned subsidiaries. The average abnormal gains associated with \u2018equity carve-out\u2019 announcements contrast with the average abnormal losses documented here and elsewhere upon announcements of public offerings of parent equity. Four features distinguishing equity carve-outs from parent equity offerings are discussed. Evidence is provided on these features as potential explanations for the positive average share price reaction associated with announcements of equity carve-outs.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90053-X"
+        },
+        {
+            "no": "9",
+            "title": "Why new issues are underpriced",
+            "date": "Jan 1986",
+            "author": [
+                "Kevin Rock"
+            ],
+            "abstract": "This paper presents a model for the underpricing of initial public offerings. The argument depends upon the existence of a group of investors whose information is superior to that of the firm as well as that of all other investors. If the new shares are priced at their expected value, these priveleged investors crowd out the others when good issues are offered and they withdraw from the market when bad issues are offered. The offering firm must price the shares at a discount in order to guarantee that the uninformed investors purchase the issue.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90054-1"
+        },
+        {
+            "no": "10",
+            "title": "Investment banking, reputation, and the underpricing of initial public offerings",
+            "date": "Jan 1986",
+            "author": [
+                "Randolph P. Beatty",
+                "Jay R. Ritter"
+            ],
+            "abstract": "This paper develops and tests two propositions. We demonstrate that there is a monotone relation between the (expected) underpricing of an initial public offering and the uncertainty of investors regarding its value. We also argue that the resulting underpricing equilibrium is enforced by investment bankers, who have reputation capital at stake. An investment banker who \u2018cheats\u2019 on this underpricing equilibrium will lose either potential investors (if it doesn't underprice enough) or issuers (if it underprices too much), and thus forfeit the value of its reputation capital. Empirical evidence supports our propositions.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90055-3"
+        },
+        {
+            "no": "11",
+            "title": "Issuing costs to existing shareholders in competitive and negotiated underwritten public utility equity offerings",
+            "date": "Jan 1986",
+            "author": [
+                "Sanjai Bhagat",
+                "Peter A. Frost"
+            ],
+            "abstract": "This paper presents the results of an empirical investigation of whether there is any difference in the cost incurred by public utilities if they issue new equity through a negotiated or competitive underwriting. We conclude that the expected cost of a competitive offer is less than the expected cost of a negotiated offer, but that the variance of the cost is substantially greater with a competitive offer. These results are interesting because most public utilities use negotiated underwriting unless forced by regulation to use competitive offers. This paper is also an addition to the growing agency theory literature.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90056-5"
+        },
+        {
+            "no": "12",
+            "title": "Capital raising, underwriting and the certification hypothesis",
+            "date": "Jan 1986",
+            "author": [
+                "James R. Booth",
+                "Richard L. Smith"
+            ],
+            "abstract": "This paper develops a theory of the role of the underwriter in certifying that risky issue prices reflect potentially adverse inside information. The theory derives from the literature on the use of reputational capital to guarantee product quality. An underwriting cost/benefit paradigm is employed to generate testable implications related to announcement effects, issue underpricing, the choice of competitive versus negotiated underwriting, and the level of underwriter compensation as a function of firm-specific information. Existing empirical literature is reviewed in the context of the certification hypothesis and several new tests are conducted. All of the findings are supportive of the hypothesis.",
+            "link": "https://doi.org/10.1016/0304-405X(86)90057-7"
+        }
+    ]
+}

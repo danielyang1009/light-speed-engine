@@ -1,0 +1,107 @@
+{
+    "journal": "JFE",
+    "volume": "81",
+    "issue": "2",
+    "date": "August 2006",
+    "page": "Pages 227-466",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Aug 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(06)00119-X"
+        },
+        {
+            "no": "2",
+            "title": "Dividend policy and the earned/contributed capital mix: a test of the life-cycle theory",
+            "date": "Jul 2005",
+            "author": [
+                "Harry DeAngelo",
+                "Linda DeAngelo",
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "Consistent with a life-cycle theory of dividends, the fraction of publicly traded industrial firms that pay dividends is high when retained earnings are a large portion of total equity (and of total assets) and falls to near zero when most equity is contributed rather than earned. We observe a highly significant relation between the decision to pay dividends and the earned/contributed capital mix, controlling for profitability, growth, firm size, total equity, cash balances, and dividend history, a relation that also holds for dividend initiations and omissions. In our regressions, the mix of earned/contributed capital has a quantitatively greater impact than measures of profitability and growth opportunities. We document a massive increase in firms with negative retained earnings (from 11.8% of industrials in 1978 to 50.2% in 2002). Controlling for the earned/contributed capital mix, firms with negative retained earnings show virtually no change in their propensity to pay dividends from the mid-1970s to 2002, while those whose earned equity makes them reasonable candidates to pay dividends have a propensity reduction that is twice the overall reduction in Fama and French [2000, Journal of Financial Economics 76, 549\u2013582]. Finally, our simulations show that, if well-established firms had not paid dividends, their cash balances would be enormous and their long-term debt trivial, thus granting extreme discretion to managers of these mature firms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.07.005"
+        },
+        {
+            "no": "3",
+            "title": "Determinants of collateral",
+            "date": "Jun 2005",
+            "author": [
+                "Gabriel Jim\u00e9nez",
+                "Vicente Salas",
+                "Jes\u00fas Saurina"
+            ],
+            "abstract": "We estimate a comprehensive model of the determinants of collateral in loans extended to business firms. We use a panel data on a sample of bank loans to Spanish firms from 1984 to 2002. Consistent with theories that view collateral as a solution to adverse selection problems, our results provide direct evidence of a negative association between collateral and a borrower's risk. We also present evidence on previously unexplored determinants of collateral such as credit market competition, lender type, and the business cycle.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.06.003"
+        },
+        {
+            "no": "4",
+            "title": "Hedging, speculation, and shareholder value",
+            "date": "Mar 2005",
+            "author": [
+                "Tim R. Adam",
+                "Chitru S. Fernando"
+            ],
+            "abstract": "We document that gold mining firms have consistently realized economically significant cash flow gains from their derivatives transactions. We conclude that these cash flows have increased shareholder value since there is no evidence of an offsetting adjustment in firms\u2019 systematic risk. This finding contradicts a central assumption in the risk management literature that derivatives transactions have zero net present value, and highlights an important motive for firms to use derivatives that the literature has hitherto ignored. Although we find considerable evidence of selective hedging in our sample, the cash flow gains from selective hedging appear to be small at best.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.03.014"
+        },
+        {
+            "no": "5",
+            "title": "Feedback and the success of irrational investors",
+            "date": "May 2005",
+            "author": [
+                "David Hirshleifer",
+                "Avanidhar Subrahmanyam",
+                "Sheridan Titman"
+            ],
+            "abstract": "We provide a model in which irrational investors trade based upon considerations that have no inherent connection to fundamentals. However, trading activity affects market prices, and because of feedback from security prices to cash flows, the irrational trades influence underlying cash flows. As a result, irrational investors can, in some situations, earn abnormal (i.e., risk-adjusted) profits that can exceed the abnormal profits of rational informed investors. Although the trading of irrational investors cause prices to deviate from fundamental values, stock prices follow a random walk.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.05.006"
+        },
+        {
+            "no": "6",
+            "title": "Investing in mutual funds when returns are predictable",
+            "date": "May 2005",
+            "author": [
+                "Doron Avramov",
+                "Russ Wermers"
+            ],
+            "abstract": "This paper forms investment strategies in US domestic equity mutual funds, incorporating predictability in (i) manager skills, (ii) fund risk loadings, and (iii) benchmark returns. We find predictability in manager skills to be the dominant source of investment profitability\u2014long-only strategies that incorporate such predictability outperform their Fama-French and momentum benchmarks by 2 to 4%/year by timing industries over the business cycle, and by an additional 3 to 6%/year by choosing funds that outperform their industry benchmarks. Our findings indicate that active management adds significant value, and that industries are important in locating outperforming mutual funds.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.05.010"
+        },
+        {
+            "no": "7",
+            "title": "Own company stock in defined contribution pension plans: A takeover defense?",
+            "date": "Jul 2005",
+            "author": [
+                "Joshua D. Rauh"
+            ],
+            "abstract": "If managers induce employees to hold company stock in defined contribution pension plans as a form of takeover defense, then changes in state laws that enhance managerial protection should lead to a reduction in employer stock in 401(k) plans. Delaware's mid-1990s validation of the poison pill in conjunction with a staggered board was followed by a significant decline in employee ownership within defined contribution plans for firms incorporated in Delaware. Evidence using governance data suggests that this is due to responses of firms with staggered boards. Binary choice models confirm that employee ownership in defined contribution plans lowers takeover probabilities.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.07.004"
+        },
+        {
+            "no": "8",
+            "title": "Political relationships, global financing, and corporate transparency: Evidence from Indonesia",
+            "date": "Jun 2005",
+            "author": [
+                "Christian Leuz",
+                "Felix Oberholzer-Gee"
+            ],
+            "abstract": "This study examines the role of political connections in firms\u2019 financing strategies and their long-run performance. We view political connections as an example for domestic arrangements which can reduce the benefits of global financing. Using data from Indonesia, we find that firms with strong political connections are less likely to have publicly traded foreign securities. As a result, estimates of the performance consequences of foreign financing are severely biased if value-creating domestic arrangements such as political relationships are ignored. Connections not only alter firms\u2019 financing strategies, they also influence long-run performance. Tracking returns across several regimes, we show that firms have difficulty re-establishing connections with a new government when their patron falls from power, leading closely connected firms to underperform under the new regime and subsequently to increase their foreign financing.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.06.006"
+        },
+        {
+            "no": "9",
+            "title": "The strategy of professional forecasting",
+            "date": "Aug 2005",
+            "author": [
+                "Marco Ottaviani",
+                "Peter Norman S\u00f8rensen"
+            ],
+            "abstract": "We develop and compare two theories of professional forecasters\u2019 strategic behavior. The first theory, reputational cheap talk, posits that forecasters endeavor to convince the market that they are well informed. The market evaluates their forecasting talent on the basis of the forecasts and the realized state. If the market expects forecasters to report their posterior expectations honestly, then forecasts are shaded toward the prior mean. With correct market expectations, equilibrium forecasts are imprecise but not shaded. The second theory posits that forecasters compete in a forecasting contest with pre-specified rules. In a winner-take-all contest, equilibrium forecasts are excessively differentiated.",
+            "link": "https://doi.org/10.1016/j.jfineco.2005.08.002"
+        }
+    ]
+}

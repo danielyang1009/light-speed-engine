@@ -1,0 +1,141 @@
+{
+    "journal": "JFE",
+    "volume": "131",
+    "issue": "2",
+    "date": "February 2019",
+    "page": "Pages 251-506",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Feb 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(19)30010-8"
+        },
+        {
+            "no": "2",
+            "title": "Regulating a model",
+            "date": "Aug 2018",
+            "author": [
+                "Yaron Leitner",
+                "Bilge Yilmaz"
+            ],
+            "abstract": "We study a situation in which a regulator relies on risk models that banks produce in order to regulate them. A bank can generate more than one model and choose which models to reveal to the regulator. The regulator can find out the other models by monitoring the bank, but in equilibrium, monitoring induces the bank to produce less information. We show that a high level of monitoring is desirable when the bank\u2019s private gain from producing more information is either sufficiently high or sufficiently low. When public models are more precise, banks produce more information, but the regulator may end up monitoring more.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.08.010"
+        },
+        {
+            "no": "3",
+            "title": "The CAPM strikes back? An equilibrium model with disasters",
+            "date": "Aug 2018",
+            "author": [
+                "Hang Bai",
+                "Kewei Hou",
+                "Howard Kung",
+                "Erica X.N. Li",
+                "Lu Zhang"
+            ],
+            "abstract": "Embedding disasters into a general equilibrium model with heterogeneous firms induces strong nonlinearity in the pricing kernel, helping explain the empirical failure of the (consumption) CAPM. Our single-factor model reproduces the failure of the CAPM in explaining the value premium in finite samples without disasters and its relative success in samples with disasters. Due to beta measurement errors, the estimated beta-return relation is flat, consistent with the beta \u201canomaly,\u201d even though the true beta-return relation is strongly positive. Finally, the consumption CAPM fails in simulations, even though a nonlinear model with the true pricing kernel holds exactly by construction.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.08.009"
+        },
+        {
+            "no": "4",
+            "title": "Collateralizing liquidity",
+            "date": "Feb 2018",
+            "author": [
+                "Cecilia Parlatore"
+            ],
+            "abstract": "I develop a dynamic model of optimal funding to understand why financial assets are used as collateral instead of being sold to raise funds. Firms need funds to invest in risky projects with nonobservable returns. Since holding these assets allows firms to raise these funds, investing firms value the asset more than noninvesting ones. When assets are less than perfectly liquid and investment opportunities are persistent, collateralized debt minimizes asset transfers from investing to noninvesting firms and thus is optimal. Frictions in asset markets lead to an illiquidity discount and a collateral premium, which increase with the asset\u2019s illiquidity.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.02.013"
+        },
+        {
+            "no": "5",
+            "title": "Inferring latent social networks from stock holdings",
+            "date": "Aug 2017",
+            "author": [
+                "Harrison Hong",
+                "Jiangmin Xu"
+            ],
+            "abstract": "We infer the latent social networks of investors using data on their stock holdings. We map linkages to portfolio weights using a portfolio-choice model. The precision of an investor\u2019s private signal about firm value is assumed to increase with his connections in the city where the firm is headquartered. Using money-manager data, we find that managerial linkages to a city are overly dispersed relative to the Erd\u00f6s\u2013R\u00e9nyi model of i.i.d. connections. Managers at the tail of this distribution with non-i.i.d. linkages have more university alumni in that city. Their stock holdings there outperform their holdings in other cities.",
+            "link": "https://doi.org/10.1016/j.jfineco.2017.08.005"
+        },
+        {
+            "no": "6",
+            "title": "Who benefits in a crisis? Evidence from hedge fund stock and option holdings",
+            "date": "Sep 2017",
+            "author": [
+                "George O. Aragon",
+                "J. Spencer Martin",
+                "Zhen Shi"
+            ],
+            "abstract": "We use a unique data set of hedge fund long equity and equity option positions to investigate a significant lockup-related premium earned during the tech bubble (1999\u20132001) and financial crisis (2007\u20132009). Net fund flows are significantly greater among lockup funds during crisis and noncrisis periods. Managers of hedge funds with locked-up capital trade opportunistically against flow-motivated trades of non-lockup managers, consistent with a hypothesis of rent extraction in providing crisis era liquidity. The success of this opportunistic trading is concentrated during periods of high borrowing costs, in less liquid stock markets, and is enhanced by hedging in the equity option market.",
+            "link": "https://doi.org/10.1016/j.jfineco.2017.09.008"
+        },
+        {
+            "no": "7",
+            "title": "The profitability and investment premium: Pre-1963 evidence",
+            "date": "Sep 2018",
+            "author": [
+                "Sunil Wahal"
+            ],
+            "abstract": "I investigate the profitability and investment premium in stock returns using hand-collected data from Moody's Manuals for 1940\u20131963. Controlling for value, the profitability premium emerges as important in this period. In contrast, there is no reliable relation between investment and returns, regardless of whether investment is measured using growth in total assets or book equity and even after extending the data back to 1926. In spanning regressions, factors constructed from profitability and book-to-market ratios (RMW and HML, respectively) improve the mean-variance efficient tangency portfolio but the investment factor (CMA) does not.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.09.007"
+        },
+        {
+            "no": "8",
+            "title": "How effective are trading pauses?",
+            "date": "Dec 2017",
+            "author": [
+                "Nikolaus Hautsch",
+                "Akos Horvath"
+            ],
+            "abstract": "Exploiting Nasdaq order book data and difference-in-differences methodology, we\u00a0identify the distinct effects of trading pause mechanisms introduced on US\u00a0stock exchanges after May\u00a02010. We show that the mere existence of such a regulation makes market participants behave differently in anticipation of a pause. Pauses enhance price discovery during the break but have adverse effects on price stability and liquidity after the pause. We\u00a0find that pauses ultimately do not \u201ccool\u00a0off\u201d markets but cause extra volatility. This\u00a0implies a regulatory trade-off between the protective role of trading pauses and their adverse effects on market quality.",
+            "link": "https://doi.org/10.1016/j.jfineco.2017.12.011"
+        },
+        {
+            "no": "9",
+            "title": "Mark Twain\u2019s Cat: Investment experience, categorical thinking, and stock selection",
+            "date": "Aug 2018",
+            "author": [
+                "Xing Huang"
+            ],
+            "abstract": "This paper examines the effect of prior investment experience in specific industries on subsequent investment decisions. Using households\u2019 trading records from a large discount broker between 1991 and 1996, I find that prior success in a given industry increases the likelihood of subsequent purchases in the same industry. The effect is stronger for more recent experiences and for less sophisticated or diversified investors, and it is not wealth enhancing. The results suggest investors categorize industries at a highly resolved level, finer than the Fama\u2013French ten-industry classification. Similar effects are also apparent for size- and value-based categories but at smaller magnitudes.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.08.003"
+        },
+        {
+            "no": "10",
+            "title": "The impact of jumps on carry trade returns",
+            "date": "Aug 2018",
+            "author": [
+                "Suzanne S. Lee",
+                "Minho Wang"
+            ],
+            "abstract": "This paper investigates how jump risks are priced in currency markets. We find that currencies whose changes are more sensitive to negative market jumps provide significantly higher expected returns. The positive risk premium constitutes compensation for the extreme losses during periods of market turmoil. Using the empirical findings, we propose a jump modified carry trade strategy, which has approximately two-percentage-point (per annum) higher returns than the regular carry trade strategy. These findings result from the fact that negative jump betas are significantly related to the riskiness of currencies and business conditions.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.08.006"
+        },
+        {
+            "no": "11",
+            "title": "Firms\u2019 innovation strategy under the shadow of analyst coverage",
+            "date": "Aug 2018",
+            "author": [
+                "Bing Guo",
+                "David P\u00e9rez-Castrillo",
+                "Anna Toldr\u00e0-Simats"
+            ],
+            "abstract": "We study the effect of analyst coverage on firms\u2019 innovation strategy and outcome. Using data of US firms from 1990 to 2012, we find evidence that an increase in financial analysts leads firms to cut research and development expenses, acquire more innovative firms, and invest in corporate venture capital. We attribute the first result to the effect of analyst pressure and the others to the informational role of analysts. We also find that financial analysts encourage firms to make more efficient investments related to innovation, which increases their future patents and citations and influences the novelty of their innovations.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.08.005"
+        },
+        {
+            "no": "12",
+            "title": "Trade credit and supplier competition",
+            "date": "Aug 2018",
+            "author": [
+                "Jiri Chod",
+                "Evgeny Lyandres",
+                "S. Alex Yang"
+            ],
+            "abstract": "This paper examines how competition among suppliers affects their willingness to provide trade credit financing. Trade credit extended by a supplier to a cash constrained retailer allows the latter to increase cash purchases from its other suppliers, leading to a free rider problem. A supplier that represents a smaller share of the retailer\u2019s purchases internalizes a smaller part of the benefit from increased spending by the retailer and, as a result, extends less trade credit relative to its sales. In consequence, retailers with dispersed suppliers obtain less trade credit than those whose suppliers are more concentrated. The free rider problem is especially detrimental to a trade creditor when the free-riding suppliers are its product market competitors, leading to a negative relation between product substitutability among suppliers to a given retailer and trade credit that the former provide to the latter. We test the model using both simulated and real data. The estimated relations are consistent with the model\u2019s predictions and are statistically and economically significant.",
+            "link": "https://doi.org/10.1016/j.jfineco.2018.08.008"
+        }
+    ]
+}

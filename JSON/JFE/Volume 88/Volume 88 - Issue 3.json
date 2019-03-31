@@ -1,0 +1,125 @@
+{
+    "journal": "JFE",
+    "volume": "88",
+    "issue": "3",
+    "date": "June 2008",
+    "page": "Pages 425-656",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial Board",
+            "date": "Jun 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/S0304-405X(08)00082-2"
+        },
+        {
+            "no": "2",
+            "title": "Darden conference issue: Capital raising in emerging economies",
+            "date": "Apr 2008",
+            "author": [
+                "Campbell R. Harvey",
+                "Marc L. Lipson",
+                "Francis E. Warnock"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.04.001"
+        },
+        {
+            "no": "3",
+            "title": "The law and economics of self-dealing",
+            "date": "Feb 2007",
+            "author": [
+                "Simeon Djankov",
+                "Rafael La Porta",
+                "Florencio Lopez-de-Silanes",
+                "Andrei Shleifer"
+            ],
+            "abstract": "We present a new measure of legal protection of minority shareholders against expropriation by corporate insiders: the anti-self-dealing index. Assembled with the help of Lex Mundi law firms, the index is calculated for 72 countries based on legal rules prevailing in 2003, and focuses on private enforcement mechanisms, such as disclosure, approval, and litigation, that govern a specific self-dealing transaction. This theoretically grounded index predicts a variety of stock market outcomes, and generally works better than the previously introduced index of anti-director rights.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.02.007"
+        },
+        {
+            "no": "4",
+            "title": "Mixing family with business: A study of Thai business groups and the families behind them",
+            "date": "Apr 2008",
+            "author": [
+                "Marianne Bertrand",
+                "Simon Johnson",
+                "Krislert Samphantharak",
+                "Antoinette Schoar"
+            ],
+            "abstract": "How does the structure of the families behind business groups affect the group's organization, governance, and performance? We construct a unique dataset of family trees and business groups for 93 of the largest business families in Thailand. We find a strong positive association between family size and family involvement in the ownership and control of the family businesses. The founders\u2019 sons play a central role in both ownership and board membership, especially when the founder of the group is dead. Greater involvement by sons is also associated with lower firm-level performance, especially when the founder is dead. One hypothesis that emerges from our analysis is that part of the decay of family-run groups over time is due to the dilution of ownership and control across a set of equally powerful descendants of the founder, which creates a \u201crace to the bottom\u201d in tunneling resources out of the group firms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2008.04.002"
+        },
+        {
+            "no": "5",
+            "title": "The colors of investors\u2019 money: The role of institutional investors around the world",
+            "date": "Jul 2007",
+            "author": [
+                "Miguel A. Ferreira",
+                "Pedro Matos"
+            ],
+            "abstract": "We study the role of institutional investors around the world using a comprehensive data set of equity holdings from 27 countries. We find that all institutional investors have a strong preference for the stock of large firms and firms with good governance, while foreign institutions tend to overweight firms that are cross-listed in the U.S. and members of the Morgan Stanley Capital International World Index. Firms with higher ownership by foreign and independent institutions have higher firm valuations, better operating performance, and lower capital expenditures. Our results indicate that foreign and independent institutions, with potentially fewer business ties to firms, are involved in monitoring corporations worldwide.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.07.003"
+        },
+        {
+            "no": "6",
+            "title": "Capital structure with risky foreign investment",
+            "date": "May 2007",
+            "author": [
+                "Mihir A. Desai",
+                "C. Fritz Foley",
+                "James R. Hines"
+            ],
+            "abstract": "Firms facing significant business risks have incentives to mitigate the costs of these risks by adjusting their capital structures. This paper investigates this link by analyzing the exposures of multinational firms to political risk. The evidence indicates that returns on investment in politically risky countries are more volatile than returns elsewhere. Multinational firms reduce their leverage in response to these political risks: a one standard deviation increase in foreign political risk is associated with 3.5% reduced leverage. The effect of foreign political risks on leverage is most pronounced for firms in industries whose returns are most susceptible to political influence.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.05.002"
+        },
+        {
+            "no": "7",
+            "title": "Political connections and preferential access to finance: The role of campaign contributions",
+            "date": "Nov 2006",
+            "author": [
+                "Stijn Claessens",
+                "Erik Feijen",
+                "Luc Laeven"
+            ],
+            "abstract": "Using novel indicators of political connections constructed from campaign contribution data, we show that Brazilian firms that provided contributions to (elected) federal deputies experienced higher stock returns than firms that did not around the 1998 and 2002 elections. This suggests that contributions help shape policy on a firm-specific basis. Using a firm fixed effects framework to mitigate the risk that unobserved firm characteristics distort the results, we find that contributing firms substantially increased their bank financing relative to a control group after each election, indicating that access to bank finance is an important channel through which political connections operate. We estimate the economic costs of this rent seeking over the two election cycles to be at least 0.2% of gross domestic product per annum.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.11.003"
+        },
+        {
+            "no": "8",
+            "title": "Do local analysts know more? A cross-country study of the performance of local analysts and foreign analysts",
+            "date": "Feb 2007",
+            "author": [
+                "Kee-Hong Bae",
+                "Ren\u00e9 M. Stulz",
+                "Hongping Tan"
+            ],
+            "abstract": "This paper examines whether analysts resident in a country make more precise earnings forecasts for firms in that country than non-resident analysts. Using a sample of 32 countries, we find an economically and statistically significant local analyst advantage even after controlling for firm and analyst characteristics. The local advantage is high in countries where earnings are smoothed more, less information is disclosed by firms, and firm idiosyncratic information explains a smaller fraction of stock returns. It is negatively related to whether a firm has foreign assets and to market participation by foreign investors and by institutions, and positively related to holdings by insiders. The extent to which U.S. investors underweight a country's stocks is positively related to that country's local analyst advantage.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.02.004"
+        },
+        {
+            "no": "9",
+            "title": "Internationalization and the evolution of corporate valuation",
+            "date": "Dec 2006",
+            "author": [
+                "Juan Carlos Gozzi",
+                "Ross Levine",
+                "Sergio L. Schmukler"
+            ],
+            "abstract": "By documenting the evolution of Tobin's q before, during, and after firms internationalize, this paper provides evidence on the bonding, segmentation, and market-timing theories of internationalization. We find that Tobin's q does not rise after internationalization, even relative to domestic firms. Instead, q rises significantly before and during the internationalization year, but then falls sharply in the following year, quickly relinquishing the increases of the previous years. In decomposing these dynamics, we find that market capitalization rises before internationalization and remains high, while corporate assets increase during internationalization. The evidence supports the theory that financial internationalization facilitates corporate expansion, but challenges the theory that internationalization produces an enduring effect on q by bonding firms to a better corporate governance system.",
+            "link": "https://doi.org/10.1016/j.jfineco.2006.12.004"
+        },
+        {
+            "no": "10",
+            "title": "Incumbents and protectionism: The political economy of foreign entry liberalization",
+            "date": "Jul 2007",
+            "author": [
+                "Anusha Chari",
+                "Nandini Gupta"
+            ],
+            "abstract": "This paper investigates the influence of incumbent firms on the decision to allow foreign direct investment into an industry. Using data from India's economic reforms, the results show that firms in concentrated industries are more successful at preventing foreign entry, state-owned firms are more successful at stopping foreign entry than privately-owned firms, and profitable state-owned firms are more successful at stopping foreign entry than unprofitable state-owned firms. The pattern of foreign entry liberalization supports the private interest view of policy implementation and suggests that it may be necessary to reduce the influence of state-owned firms to optimally enact reforms.",
+            "link": "https://doi.org/10.1016/j.jfineco.2007.07.006"
+        }
+    ]
+}

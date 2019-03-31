@@ -1,0 +1,75 @@
+{
+    "journal": "JFE",
+    "volume": "8",
+    "issue": "4",
+    "date": "December 1980",
+    "page": "Pages 321-403",
+    "article": [
+        {
+            "no": "1",
+            "title": "Editorial data",
+            "date": "Dec 1980",
+            "author": [
+                "Michael C. Jensen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(80)90006-9"
+        },
+        {
+            "no": "2",
+            "title": "On estimating the expected return on the market",
+            "date": "Dec 1980",
+            "author": [
+                "Robert C. Merton"
+            ],
+            "abstract": "The expected market return is a number frequently required for the solution of many investment and corporate finance problems, but by comparison with other financial variables, there has been little research on estimating this expected return. Current practice for estimating the expected market return adds the historical average realized excess market returns to the current observed interest rate. While this model explicitly reflects the dependence of the market return on the interest rate, it fails to account for the effect of changes in the level of market risk. Three models of equilibrium expected market returns which reflect this dependence are analyzed in this paper. Estimation procedures which incorporate the prior restriction that equilibrium expected excess returns on the market must be positive are derived and applied to return data for the period 1926\u20131978. The principal conclusions from this exploratory investigation are: (1) in estimating models of the expected market return, the non-negativity restriction of the expected excess return should be explicity included as part of the specification: (2) estimators which use realized returns should be adjusted for heteroscedasticity.",
+            "link": "https://doi.org/10.1016/0304-405X(80)90007-0"
+        },
+        {
+            "no": "3",
+            "title": "An ex ante analysis of put-call parity",
+            "date": "Dec 1980",
+            "author": [
+                "Robert C. Klemkosky",
+                "Bruce G. Resnick"
+            ],
+            "abstract": "The authors previously had extended the theoretical put-call parity models developed by Stoll (1969) and Merton (1973) to include a dividend term. Ex post tests of the models were generally consistent with market efficiency, but a sufficient number of hedges had high enough returns to warrant analysis of ex ante results. The purpose of this study was to construct hedges 5 and 15 minutes after they were initially identified as having an ex post return in excess of $20 per hedge. The results indicate that mispriced options adjust and that economic profit is sensitive to the level of transaction costs and unlikely even for member firms.",
+            "link": "https://doi.org/10.1016/0304-405X(80)90008-2"
+        },
+        {
+            "no": "4",
+            "title": "Corporate leverage and growth the game-theoretic issues",
+            "date": "Dec 1980",
+            "author": [
+                "Varouj A. Aivazian",
+                "Jeffrey L. Callen"
+            ],
+            "abstract": "The equilibrium value of a levered firm facing growth opportunities is shown to involve the valuation of a lottery over (cooperative) games rather than a lottery over specific monetary outcomes. In the absence of assumptions about negotiating risk, the value of the firm's claims is seen to be ambiguous even with zero transactions costs. This ambiguity is compounded if the core of the game is empty. This paper rationalizes specific financial instruments and institutions as means for attenuating negotiation costs and core existence problems. Furthermore, the valuation of these instruments requires determining the certainty-equivalent of a lottery over games.",
+            "link": "https://doi.org/10.1016/0304-405X(80)90009-4"
+        },
+        {
+            "no": "5",
+            "title": "Editorial collaborators",
+            "date": "Dec 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(80)90010-0"
+        },
+        {
+            "no": "6",
+            "title": "News item",
+            "date": "Dec 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(80)90011-2"
+        },
+        {
+            "no": "7",
+            "title": "Index",
+            "date": "Dec 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1016/0304-405X(80)90012-4"
+        }
+    ]
+}
