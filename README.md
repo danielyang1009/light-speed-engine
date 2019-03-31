@@ -44,6 +44,12 @@
 
 ## Version:
 
+### v0.4
+
+- Supporting JFE
+- Save as json files
+- json to markdown converter
+
 ### v0.3
 
 - Add support for fetch volume, issue list for Management Science
