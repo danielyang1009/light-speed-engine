@@ -1,6 +1,5 @@
 # Light Speed Engine
 
-- 'Light Speed' acadamic paper information extraction
 - Supporting sites:
   - [x] [MS](https://pubsonline.informs.org/journal/mnsc)
   - [x] [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
@@ -39,8 +38,6 @@
     ]
 }
 ```
-
-
 
 ## Version:
 
