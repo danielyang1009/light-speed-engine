@@ -5,7 +5,7 @@
 ## 1. Controlling stockholders and the disciplinary role of corporate payout policy: a study of the Times Mirror Company
 ### Date
 - May 2000
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 ### Abstract
@@ -16,7 +16,7 @@ The Times Mirror Company, a NYSE-listed Fortune 500 firm controlled for 100 year
 ## 2. Is the abnormal return following equity issuances anomalous?
 ### Date
 - May 2000
-### Authors
+### Author
 - Alon Brav
 - Christopher Geczy
 - Paul A. Gompers
@@ -28,7 +28,7 @@ We examine whether a distinct equity issuer underperformance anomaly exists. In 
 ## 3. Seasoned public offerings: resolution of the ‘new issues puzzle’
 ### Date
 - May 2000
-### Authors
+### Author
 - B.Espen Eckbo
 - Ronald W. Masulis
 - Øyvind Norli
@@ -40,7 +40,7 @@ The ‘new issues puzzle’ is that stocks of common stock issuers subsequently 
 ## 4. Investment bank market share, contingent fee payments, and the performance of acquiring firms
 ### Date
 - May 2000
-### Authors
+### Author
 - P Raghavendra Rau
 ### Abstract
 This paper investigates the determinants of the market share of investment banks acting as advisors in mergers and tender offers. In both mergers and tender offers, bank market share is positively related to the contingent fee payments charged by the bank and to the percentage of deals completed in the past by the bank. It is unrelated to the performance of the acquirors advised by the bank in the past. In tender offers, the post-acquisition performance of the acquiror is negatively related to the contingent fee payments charged by the bank, suggesting that the contingent fee structure in tender offers ensures that investment banks focus on completing the deal.
@@ -50,7 +50,7 @@ This paper investigates the determinants of the market share of investment banks
 ## 5. ‘Time to build, option value and investment decisions’: a comment
 ### Date
 - May 2000
-### Authors
+### Author
 - Alistair Milne
 - A Elizabeth Whalley
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jul 1982
-### Authors
+### Author
 - MichaelC. Jensen
 - G.William Schwert
 ### Abstract
@@ -16,7 +16,7 @@
 ## 2. Tax-induced clientele effects in the market for British government securities
 ### Date
 - Jul 1982
-### Authors
+### Author
 - Stephen M. Schaefer
 ### Abstract
 This paper develops a new methods for measuring tax effects in bond markets and presents empirical results for British Government Securities. The basic idea is to construct a least cost portfolio which, for investors in a given tax bracket, dominates a given bond. A portfolio is said to dominate a bond if it provides cash flows which are at least as great in every period, and has a lower price. In effect our method calculates an upper bound on the value of a bond to investors in a given tax bracket. The results demonstrate (i) the existence of clientele effects and (ii) the absence of an ‘effective tax rate’.
@@ -26,7 +26,7 @@ This paper develops a new methods for measuring tax effects in bond markets and 
 ## 3. Options on the minimum or the maximum of two risky assets
 ### Date
 - Jul 1982
-### Authors
+### Author
 - RenéM. Stulz
 ### Abstract
 This paper provides analytical formulas for European put and call options on the minimum or the maximum of two risky assets. The properties of these formulas are discussed in detail. Options on the minimum or the maximum of two risky assets are useful to price a wide variety of contingent claims of interest to financial economists. Applications discussed in this paper include the valuation of foreign currency debt, option-bonds, compensation plans, risk-sharing contracts, secured debt and growth opportunities involving mutually exclusive investments.
@@ -36,7 +36,7 @@ This paper provides analytical formulas for European put and call options on the
 ## 4. Racetrack betting and informed behavior
 ### Date
 - Jul 1982
-### Authors
+### Author
 - Peter Asch
 - Burton G. Malkiel
 - Richard E. Quandt
@@ -48,7 +48,7 @@ Horse racing data permit interesting tests of attitudes toward risk. The present
 ## 5. Consumption correlatedness and risk measurement in economies with non-traded assets and heterogeneous information
 ### Date
 - Jul 1982
-### Authors
+### Author
 - Sanford J. Grossman
 - Robert J. Shiller
 ### Abstract
@@ -59,7 +59,7 @@ A technique is presented for deriving equilibrium models of asset risk premia in
 ## 6. Stockholder-bondholder conflict and dividend constraints
 ### Date
 - Jul 1982
-### Authors
+### Author
 - Avner Kalay
 ### Abstract
 This paper examines a large, randomly chosen, sample of bond indentures focusing on the constraints they set on dividend payments that have the potential to transfer wealth from the bondholders (i.e., payments which are financed by a new debt issue or reduced investment). The nature of these restrictions support the hypothesis that bond convenants are structured to control the conflict of interest between stockholders and bondholders. Further, the empirical evidence suggests that these constraints are not binding — i.e., stockholders do not pay themselves as much dividends as they are allowed to. Explanations of this puzzling empirical regularity are suggested.

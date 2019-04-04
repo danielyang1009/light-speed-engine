@@ -1,0 +1,83 @@
+# RFS, Volume 2, Issue 3
+- July 1989
+- Pages 275–443
+
+## 1. Optimal Innovation of Futures Contracts
+### Date
+- 05 May 2015
+### Author
+- Darrell Duffie
+- Matthew O. Jackson
+### Abstract
+This article presents a simple model of the innovation of new futures contracts by transaction volume-maximizing futures exchanges in incomplete markets under uncertainty, with mean-variance preferences and proportional transactions costs. We characterize the set of Nash equilibria for a number of exchanges simultaneously or sequentially choosing contracts. The optimal monopolistic contract design is shown to be Pareto-optimal. An example shows the failure of Pareto optimality for a particular Nash equilibrium. Likewise, in a monopolistic multiperiod setting, an example shows the failure of Pareto optimality given an incentive for the exchange to induce turnover.
+### Link
+- https://doi.org/10.1093/rfs/2.3.275
+
+## 2. The Mispricing of U.S. Treasury Bonds: A Case Study
+### Date
+- 05 May 2015
+### Author
+- Bradford Cornell
+- Alan C. Shapiro
+### Abstract
+This article documents an apparent pricing anomaly involving |$9{\textstyle{1 \over 4}}$| percent, 30-year Treasury bonds during the months of May and June 1986. During this period, the price of the |$9{\textstyle{1 \over 4}}{\rm{s}}$| rose sharply relative to the prices of other long-term Treasury bonds and created a potential arbitrage opportunity. In addition, owners of the |$9{\textstyle{1 \over 4}}$| bonds were able to borrow at a zero interest rate by pledging their bonds. Detailed examination reveals that this relative pricing anomaly cannot be attributed to changes in the level or term structure of interest rates or to differences between the bonds with respect to liquidity, taxation, or duration.
+### Link
+- https://doi.org/10.1093/rfs/2.3.297
+
+## 3. Auctions with Resale Markets: An Exploratory Model of Treasury Bill Markets
+### Date
+- 05 May 2015
+### Author
+- Sushil Bukhchandani
+- Chi-fu Huang
+### Abstract
+This article develops a model of competitive bidding with a resale market. The primary market is modeled as a common-value auction, in which bidders participate for the purpose of resale. After the auction the winning bidders sell the objects in a secondary market, and the buyers in the secondary market receive information about the bids submitted in the auction. The effect of this information linkage between the primary auction and the secondary market on bidding behavior in the primary auction is examined. The auctioneer’s expected revenues from organizing the primary market as a discriminatory auction versus a uniform-price auction are compared, and sufficient conditions under which the uniform-price auction will yield higher expected revenues are obtained. An example of our model, with the primary market organized as a discriminatory auction, is the U.S. Treasury bill market.
+### Link
+- https://doi.org/10.1093/rfs/2.3.311
+
+## 4. A Reexamination of the Value of Tax Options
+### Date
+- 05 May 2015
+### Author
+- Robert M. Dammon
+- Kenneth B. Dunn
+- Chester S. Spatt
+### Abstract
+This article reexamines the value of tax trading when the tax rate on long-term realizations is less than that on short-term realizations. In particular, the value of the option to realize long-term capital gains and repurchase stock in order to increase one’s tax basis and restart the option to realize future losses short term is examined empirically. Our estimate of the incremental value of restarting, which is based on the results of simulations of several alternative tax trading policies over a large number of independent return sequences, is generally much smaller than that reported by Constantinides (1984). The incremental value of restarting is shown to depend critically on the particular pattern of realized returns and the assumed tax treatment of unrealized capital gains at the end of the simulation period. The effects of stock price volatility, transaction costs, portfolio offset rules, and realization cutoff levels on the value of tax trading are also investigated.
+### Link
+- https://doi.org/10.1093/rfs/2.3.341
+
+## 5. An Intertemporal Equilibrium Beta Pricing Model
+### Date
+- 05 May 2015
+### Author
+- Gregory Connor
+- Robert A. Korajczyk
+### Abstract
+This article develops an intertemporal, discrete-time, competitive equilibrium version of the arbitrage pricing theory (APT) and explores the econometric implications of this model under various restrictions on investor preferences and on the dynamic behavior of dividends. We describe conditions under which the econometric techniques typically used for estimating and testing the APT can be shown to be consistent with our economic model. We relate our intertemporal version of the APT to the static APT and to Merton’s intertemporal capital asset pricing model.
+### Link
+- https://doi.org/10.1093/rfs/2.3.373
+
+## 6. Portfolio Performance Evaluation: Old Issues and New Insights
+### Date
+- 05 May 2015
+### Author
+- Mark Grinblatt
+- Sheridan Titman
+### Abstract
+This article presents a model that provides insights about various measures of portfolio performance. The model explores several criticisms of these measures. These include the problem of identifying an appropriate benchmark portfolio, the possibility of overestimating risk because of market-timing ability, and the failure of informed investors to earn positive risk-adjusted returns because of increasing risk aversion. The article argues that these need not be serious impediments to performance evaluation.
+### Link
+- https://doi.org/10.1093/rfs/2.3.393
+
+## 7. Stock Repurchase as a Takeover Defense
+### Date
+- 05 May 2015
+### Author
+- Mark Bagnoli
+- Roger Gordon
+- Barton L. Lipman
+### Abstract
+We develop a model in which stock repurchases serve as a defense against takeovers by signaling the manager’s private information about the value of the firm. The manager repurchases shares to block a takeover only if the cost of doing so is not too high. Since the cost is inversely related to the value of the firm under his management, a repurchase signals that the value of the stock is high, blocking a takeover. While a repurchase increases the expected value of the stock, it also makes the stock riskier. The model also implies that there are too few takeovers for efficiency.
+### Link
+- https://doi.org/10.1093/rfs/2.3.423
+

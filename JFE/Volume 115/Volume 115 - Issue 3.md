@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Monetary policy and long-term real rates
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Samuel G. Hanson
 - Jeremy C. Stein
 ### Abstract
@@ -25,7 +25,7 @@ Changes in monetary policy have surprisingly strong effects on forward real rate
 ## 3. Capital allocation and delegation of decision-making authority within firms
 ### Date
 - Oct 2014
-### Authors
+### Author
 - John R. Graham
 - Campbell R. Harvey
 - Manju Puri
@@ -37,7 +37,7 @@ We use a unique data set that contains information on more than 1,000 Chief Exec
 ## 4. Vulnerable banks
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Robin Greenwood
 - Augustin Landier
 - David Thesmar
@@ -49,7 +49,7 @@ We present a model in which fire sales propagate shocks across bank balance shee
 ## 5. Do investors overpay for stocks with lottery-like payoffs? An examination of the returns of OTC stocks
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Bjørn Eraker
 - Mark Ready
 ### Abstract
@@ -60,7 +60,7 @@ We study returns on over-the-counter stocks and find that these returns are extr
 ## 6. Impact of the Dodd-Frank act on credit ratings
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Valentin Dimitrov
 - Darius Palia
 - Leo Tang
@@ -72,7 +72,7 @@ We analyze the impact of the Dodd-Frank Wall Street Reform and Consumer Protecti
 ## 7. Corporate payout, cash retention, and the supply of credit: Evidence from the 2008–2009 credit crisis
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Barbara A. Bliss
 - Yingmei Cheng
 - David J. Denis
@@ -84,7 +84,7 @@ We document significant reductions in corporate payouts-both dividends and (to a
 ## 8. Information reliability and welfare: A theory of coarse credit ratings
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Anand M. Goel
 - Anjan V. Thakor
 ### Abstract
@@ -95,7 +95,7 @@ An enduring puzzle is why credit rating agencies (CRAs) use a few categories to 
 ## 9. Technology spillovers and corporate cash holdings
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Jiaping Qiu
 - Chi Wan
 ### Abstract
@@ -106,7 +106,7 @@ This study examines the effect of technology spillovers on firms׳ cash holdings
 ## 10. Excess control rights, bank capital structure adjustments, and lending
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Laetitia Lepetit
 - Nadia Saghi-Zedek
 - Amine Tarazi
@@ -118,7 +118,7 @@ We investigate whether excess control rights of ultimate owners in pyramids affe
 ## 11. Trade credit and cross-country predictable firm returns
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Rui Albuquerque
 - Tarun Ramadorai
 - Sumudu W. Watugala
@@ -130,7 +130,7 @@ We investigate the role of trade credit links in generating cross-border return 
 ## 12. Price support by bank-affiliated mutual funds
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Benjamin Golez
 - Jose M. Marin
 ### Abstract
@@ -141,7 +141,7 @@ Fund managers are double agents; they serve both fund investors and owners of ma
 ## 13. Friends or foes? The interrelationship between angel and venture capital markets
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Thomas Hellmann
 - Veikko Thiele
 ### Abstract

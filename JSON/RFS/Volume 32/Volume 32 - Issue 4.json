@@ -1,0 +1,124 @@
+{
+    "journal": "RFS",
+    "volume": "32",
+    "issue": "4",
+    "date": "April 2019",
+    "page": "Pages 1235\u20131646",
+    "article": [
+        {
+            "no": "1",
+            "title": "Firm Financing over the Business Cycle",
+            "date": "30 August 2018",
+            "author": [
+                "Juliane Begenau",
+                "Juliana Salomao"
+            ],
+            "abstract": "Data from U.S. public firms show that in booms large firms finance with debt and payout equity, whereas small firms issue both equity and debt. Therefore, large firms generally substitute between debt and equity financing over the business cycle, whereas small firms adhere to a procyclical financing policy for debt and equity. We explain these cyclical financing patterns quantitatively using a heterogeneous firm model with endogenous firm dynamics. We find that cross-sectional differences in investment returns and, therefore, funding needs and exposures to financial frictions are essential to understanding how firms\u2019 financing policies respond to macroeconomic shocks.",
+            "link": "https://doi.org/10.1093/rfs/hhy099"
+        },
+        {
+            "no": "2",
+            "title": "Cyclical Dispersion in Expected Defaults",
+            "date": "01 August 2018",
+            "author": [
+                "Jo\u00e3o F Gomes",
+                "Marco Grotteria",
+                "Jessica A Wachter"
+            ],
+            "abstract": "A growing literature shows that credit indicators forecast aggregate real outcomes. While researchers have proposed various explanations, the economic mechanism behind these results remains an open question. In this paper, we show that a simple, frictionless model explains empirical findings commonly attributed to credit cycles. Our key assumption is that firms have heterogeneous exposures to underlying economy-wide shocks. This leads to endogenous dispersion in credit quality that varies over time and predicts future excess returns and real outcomes.",
+            "link": "https://doi.org/10.1093/rfs/hhy085"
+        },
+        {
+            "no": "3",
+            "title": "Private Equity and Financial Fragility during the Crisis",
+            "date": "20 July 2018",
+            "author": [
+                "Shai Bernstein",
+                "Josh Lerner",
+                "Filippo Mezzanotti"
+            ],
+            "abstract": "Does private equity (PE) contribute to financial fragility during economic crises? The proliferation of poorly structured transactions during booms may increase the vulnerability of the economy to downturns. During the 2008 crisis, PE-backed companies decreased investments less than did their peers and experienced greater equity and debt inflows, higher asset growth, and increased market share. These effects are especially strong among financially constrained companies and those whose PE investors had more resources at the crisis onset. In a survey, PE firms report being active investors during the crisis and spending more time working with their portfolio companies.",
+            "link": "https://doi.org/10.1093/rfs/hhy078"
+        },
+        {
+            "no": "4",
+            "title": "Ratings-Based Regulation and Systematic Risk Incentives",
+            "date": "16 August 2018",
+            "author": [
+                "Giuliano Iannotta",
+                "George Pennacchi",
+                "Jo\u00e3o A C Santos"
+            ],
+            "abstract": "Our model shows that when regulation is based on credit ratings, banks with low charter value maximize shareholder value by minimizing capital and selecting identically rated loans and bonds with the highest systematic risk. This regulatory arbitrage is possible if the credit spreads on same-rated loans and bonds are greater when their systematic risk (debt beta) is higher. We empirically confirm this relationship between credit spreads, ratings, and debt betas. We also show that banks with lower capital select syndicated loans with higher debt betas and credit spreads. Banks with lower charter value choose overall assets with higher systematic risk.",
+            "link": "https://doi.org/10.1093/rfs/hhy091"
+        },
+        {
+            "no": "5",
+            "title": "Riding the Bubble with Convex Incentives",
+            "date": "17 July 2018",
+            "author": [
+                "Juan Sotes-Paladino",
+                "Fernando Zapatero"
+            ],
+            "abstract": "We show that benchmark-linked convex incentives can lead risk-averse money managers aware of mispricing to overinvest in overpriced securities. In the model, the managers\u2019 risk-seeking behavior varies in response to the interaction of mispricing with convexity and benchmarking concerns. Convexity effects can exacerbate the manager\u2019s overinvestment in overvalued nonbenchmark securities. In contrast, they potentially offset the benchmarking effects studied in the literature, leading to underinvestment in overpriced benchmark securities. Under correlated mispricing across assets, our model rationalizes positive positions in nonbenchmark, negative risk premium (i.e., \u201cbubble\u201d) securities and \u201cpairs trading\u201d in two overvalued securities. Our findings help explain several empirical puzzles.",
+            "link": "https://doi.org/10.1093/rfs/hhy074"
+        },
+        {
+            "no": "6",
+            "title": "Do Shocks to Personal Wealth Affect Risk-taking in Delegated Portfolios?",
+            "date": "29 August 2018",
+            "author": [
+                "Veronika K Pool",
+                "Noah Stoffman",
+                "Scott E Yonker",
+                "Hanjiang Zhang"
+            ],
+            "abstract": "Using exogenous wealth shocks stemming from the collapse of the housing market, we show that managers who experience substantial losses in their home values subsequently reduce risk in their delegated funds. The decline in fund risk comes through reductions in idiosyncratic risk and tracking error, suggesting that the behavior is likely driven by career concerns. Our paper provides evidence that idiosyncratic personal preferences affect mutual fund managers\u2019 professional decisions and offers a methodology for testing for manager effects that is not subject to the selection critique of Fee, Hadlock, and Pierce (2013).",
+            "link": "https://doi.org/10.1093/rfs/hhy096"
+        },
+        {
+            "no": "7",
+            "title": "Limited Stock Market Participation Among Renters and Homeowners",
+            "date": "10 August 2018",
+            "author": [
+                "Roine Vestman"
+            ],
+            "abstract": "The stock market participation rate among homeowners is twice as high as among renters. This paper builds a life-cycle portfolio choice model with endogenous housing tenure choice. A stylized form of preference heterogeneity generates a substantial difference in participation rates. A majority of households have a large savings motive and choose to be homeowners and participate. A minority of households have a small savings motive and find it less worthwhile to participate. Fewer of these households become homeowners. Difference-in-difference regressions on panel data do not find evidence of a crowding-out effect of homeownership on participation, supporting the message that preference heterogeneity matters.",
+            "link": "https://doi.org/10.1093/rfs/hhy089"
+        },
+        {
+            "no": "8",
+            "title": "Exploration Activity, Long-run Decisions, and the Risk Premium in Energy Futures",
+            "date": "17 August 2018",
+            "author": [
+                "Alexander David"
+            ],
+            "abstract": "Investment by oil firms positively affects the futures basis and negatively predicts excess returns on crude oil futures. I build an equilibrium model of drilling, exploration, and storage to understand these facts. Firms\u2019 capital stock lowers extraction costs as firms drill in increasingly expensive fields. Drilled wells produce the resource at a geometrically declining rate; however, by specifying consumers\u2019 habit level equaling production from old wells, the futures basis and risk premium are only related to drilling, investment, and inventory. Investment leads to a more elastic drilling response by firms and dampens oil price increases from demand shocks, thus lowering the risk premium.",
+            "link": "https://doi.org/10.1093/rfs/hhy067"
+        },
+        {
+            "no": "9",
+            "title": "A Protocol for Factor Identification",
+            "date": "25 August 2018",
+            "author": [
+                "Kuntara Pukthuanthong",
+                "Richard Roll",
+                "Avanidhar Subrahmanyam"
+            ],
+            "abstract": "We propose a protocol for identifying genuine risk factors. A genuine risk factor must be related to the covariance matrix of returns, must be priced in the cross-section of returns, and should yield a reward-to-risk ratio that is reasonable enough to be consistent with risk pricing. A market factor, a profitability factor, and traded versions of macroeconomic factors pass our protocol, but many characteristic-based factors do not. Several of the underlying characteristics, however, do command premiums in the cross-section.",
+            "link": "https://doi.org/10.1093/rfs/hhy093"
+        },
+        {
+            "no": "10",
+            "title": "Arbitrage Trading: The Long and the Short of It",
+            "date": "29 August 2018",
+            "author": [
+                "Yong Chen",
+                "Zhi Da",
+                "Dayong Huang"
+            ],
+            "abstract": "We examine net arbitrage trading (NAT) measured by the difference between quarterly abnormal hedge fund holdings and abnormal short interest. NAT strongly predicts stock returns in the cross-section. Across ten well-known stock anomalies, abnormal returns are realized only among stocks experiencing large NAT. Exploiting Regulation SHO, which facilitated short selling for a random group of stocks, we present causal evidence that NAT has stronger return predictability among stocks facing greater limits to arbitrage. We also find large returns for anomalies that arbitrageurs chose to exploit despite capital constraints during the 2007\u201309 financial crisis. We confirm our findings using daily data.",
+            "link": "https://doi.org/10.1093/rfs/hhy097"
+        }
+    ]
+}

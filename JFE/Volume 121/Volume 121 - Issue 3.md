@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. What do private equity firms say they do?
 ### Date
 - Jun 2016
-### Authors
+### Author
 - Paul Gompers
 - Steven N. Kaplan
 - Vladimir Mukharlyamov
@@ -26,7 +26,7 @@ We survey 79 private equity (PE) investors with combined assets under management
 ## 3. Decision-making approaches and the propensity to default: Evidence and implications
 ### Date
 - May 2016
-### Authors
+### Author
 - Jeffrey R. Brown
 - Anne M. Farrell
 - Scott J. Weisbenner
@@ -38,7 +38,7 @@ This paper examines heterogeneity in the responsiveness to default options in a 
 ## 4. Can information be locked up? Informed trading ahead of macro-news announcements
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Gennaro Bernile
 - Jianfeng Hu
 - Yuehua Tang
@@ -50,7 +50,7 @@ Government agencies routinely allow pre-release access to information to accredi
 ## 5. Capitalizing on Capitol Hill: Informed trading by hedge fund managers
 ### Date
 - Nov 2015
-### Authors
+### Author
 - Meng Gao
 - Jiekun Huang
 ### Abstract
@@ -61,7 +61,7 @@ This paper examines the hypothesis that hedge fund managers gain an informationa
 ## 6. Shorting at close range: A tale of two types
 ### Date
 - May 2016
-### Authors
+### Author
 - Carole Comerton-Forde
 - Charles M. Jones
 - Tālis J. Putniņš
@@ -73,7 +73,7 @@ We examine returns, order flow, and market conditions in the minutes before, dur
 ## 7. Securities trading by banks and credit supply: Micro-evidence from the crisis
 ### Date
 - May 2016
-### Authors
+### Author
 - Puriya Abbassi
 - Rajkamal Iyer
 - José-Luis Peydró
@@ -86,7 +86,7 @@ We analyze securities trading by banks during the crisis and the associated spil
 ## 8. Fragility in money market funds: Sponsor support and regulation
 ### Date
 - May 2016
-### Authors
+### Author
 - Cecilia Parlatore
 ### Abstract
 Money market funds (MMFs), which are crucial to short-term funding markets, rely on voluntary support of fund sponsors to maintain stable share values. I develop a general equilibrium model of MMFs to study how sponsor support affects the industry’s fragility and regulation. Adverse asset-quality shocks lead MMFs to liquidate assets. When liquidity in asset markets is limited, asset prices are lower if more funds liquidate. Lower asset prices, in turn, make sponsor support costlier and even more liquidations occur. This feedback leads to complementarities in sponsors’ support decisions. Based on the model’s insights, I derive implications for the regulation of MMFs.
@@ -96,7 +96,7 @@ Money market funds (MMFs), which are crucial to short-term funding markets, rely
 ## 9. Comovement revisited
 ### Date
 - May 2016
-### Authors
+### Author
 - Honghui Chen
 - Vijay Singal
 - Robert F. Whitelaw
@@ -108,7 +108,7 @@ Evidence of excessive comovement among stocks following index additions (Barberi
 ## 10. Can analysts assess fundamental risk and valuation uncertainty? An empirical analysis of scenario-based value estimates
 ### Date
 - May 2016
-### Authors
+### Author
 - Peter Joos
 - Joseph D. Piotroski
 - Suraj Srinivasan

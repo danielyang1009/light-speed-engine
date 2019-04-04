@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Darden conference issue: Capital raising in emerging economies
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Campbell R. Harvey
 - Marc L. Lipson
 - Francis E. Warnock
@@ -26,7 +26,7 @@
 ## 3. The law and economics of self-dealing
 ### Date
 - Feb 2007
-### Authors
+### Author
 - Simeon Djankov
 - Rafael La Porta
 - Florencio Lopez-de-Silanes
@@ -39,7 +39,7 @@ We present a new measure of legal protection of minority shareholders against ex
 ## 4. Mixing family with business: A study of Thai business groups and the families behind them
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Marianne Bertrand
 - Simon Johnson
 - Krislert Samphantharak
@@ -52,7 +52,7 @@ How does the structure of the families behind business groups affect the group's
 ## 5. The colors of investors’ money: The role of institutional investors around the world
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Miguel A. Ferreira
 - Pedro Matos
 ### Abstract
@@ -63,7 +63,7 @@ We study the role of institutional investors around the world using a comprehens
 ## 6. Capital structure with risky foreign investment
 ### Date
 - May 2007
-### Authors
+### Author
 - Mihir A. Desai
 - C. Fritz Foley
 - James R. Hines
@@ -75,7 +75,7 @@ Firms facing significant business risks have incentives to mitigate the costs of
 ## 7. Political connections and preferential access to finance: The role of campaign contributions
 ### Date
 - Nov 2006
-### Authors
+### Author
 - Stijn Claessens
 - Erik Feijen
 - Luc Laeven
@@ -87,7 +87,7 @@ Using novel indicators of political connections constructed from campaign contri
 ## 8. Do local analysts know more? A cross-country study of the performance of local analysts and foreign analysts
 ### Date
 - Feb 2007
-### Authors
+### Author
 - Kee-Hong Bae
 - René M. Stulz
 - Hongping Tan
@@ -99,7 +99,7 @@ This paper examines whether analysts resident in a country make more precise ear
 ## 9. Internationalization and the evolution of corporate valuation
 ### Date
 - Dec 2006
-### Authors
+### Author
 - Juan Carlos Gozzi
 - Ross Levine
 - Sergio L. Schmukler
@@ -111,7 +111,7 @@ By documenting the evolution of Tobin's q before, during, and after firms intern
 ## 10. Incumbents and protectionism: The political economy of foreign entry liberalization
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Anusha Chari
 - Nandini Gupta
 ### Abstract

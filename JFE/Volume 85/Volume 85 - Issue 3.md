@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. How much of the corporate bond spread is due to personal taxes?
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Sheen Liu
 - Jian Shi
 - Junbo Wang
@@ -27,7 +27,7 @@ Existing term structure models of defaultable bonds have often underestimated co
 ## 3. Why are IPOs underpriced? Evidence from Japan's hybrid auction-method offerings
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Frank Kerins
 - Kenji Kutsuna
 - Richard Smith
@@ -39,7 +39,7 @@ We document discretionary underpricing and partial adjustment of IPO prices in t
 ## 4. Why do corporate managers misstate financial statements? The role of option compensation and other factors
 ### Date
 - May 2006
-### Authors
+### Author
 - Jap Efendi
 - Anup Srivastava
 - Edward P. Swanson
@@ -51,7 +51,7 @@ We investigate the incentives that led to the rash of restated financial stateme
 ## 5. Collateral, debt capacity, and corporate investment: Evidence from a natural experiment
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Jie Gan
 ### Abstract
 This paper examines how a shock to collateral value influences firms’ debt capacities and investments. Using a source of exogenous variation in collateral value provided by the land market collapse in Japan, I find that collateral has a statistically and economically significant impact on corporate investments. I also provide direct evidence on the workings of such a collateral channel. Exploiting a unique dataset of matched bank-firm lending, I show that firms with greater collateral losses are less likely to sustain their banking relationships and tend to obtain a smaller amount of bank credit.
@@ -61,7 +61,7 @@ This paper examines how a shock to collateral value influences firms’ debt cap
 ## 6. Technological innovation and real investment booms and busts
 ### Date
 - Jul 2006
-### Authors
+### Author
 - Peter DeMarzo
 - Ron Kaniel
 - Ilan Kremer
@@ -73,7 +73,7 @@ We investigate why new, high-risk technologies can attract excessive and often u
 ## 7. Determinants of the floating-to-fixed rate debt structure of firms
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Sudheer Chava
 - Amiyatosh Purnanandam
 ### Abstract
@@ -84,7 +84,7 @@ We analyze the effects of managerial incentive, firm characteristics and market 
 ## 8. Does industry-wide distress affect defaulted firms? Evidence from creditor recoveries
 ### Date
 - May 2006
-### Authors
+### Author
 - Viral V. Acharya
 - Sreedhar T. Bharath
 - Anand Srinivasan
@@ -96,7 +96,7 @@ Using data on defaulted firms in the United States over the period 1982–1999, 
 ## 9. SV mixture models with application to S&P 500 index returns
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Garland B. Durham
 ### Abstract
 Understanding both the dynamics of volatility and the shape of the distribution of returns conditional on the volatility state is important for many financial applications. A simple single-factor stochastic volatility model appears to be sufficient to capture most of the dynamics. It is the shape of the conditional distribution that is the problem. This paper examines the idea of modeling this distribution as a discrete mixture of normals. The flexibility of this class of distributions provides a transparent look into the tails of the returns distribution. Model diagnostics suggest that the model, SV-mix, does a good job of capturing the salient features of the data. In a direct comparison against several affine-jump models, SV-mix is strongly preferred by Akaike and Schwarz information criteria.
@@ -106,7 +106,7 @@ Understanding both the dynamics of volatility and the shape of the distribution 
 ## 10. Order flow, dealer profitability, and price formation
 ### Date
 - May 2006
-### Authors
+### Author
 - Peter Locke
 - Zhan Onayev
 ### Abstract

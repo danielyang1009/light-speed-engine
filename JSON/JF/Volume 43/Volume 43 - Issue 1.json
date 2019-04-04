@@ -1,0 +1,232 @@
+{
+    "journal": "JF",
+    "volume": "43",
+    "issue": "1",
+    "date": "March 1988",
+    "page": "Pages: i-vi, 1-269, vii-xli",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb00556.x"
+        },
+        {
+            "no": "2",
+            "title": "The Determinants of Capital Structure Choice",
+            "date": "March 1988",
+            "author": [
+                "SHERIDAN TITMAN",
+                "ROBERTO WESSELS"
+            ],
+            "abstract": "This paper analyzes the explanatory power of some of the recent theories of optimal capital structure. The study extends empirical work on capital structure theory in three ways. First, it examines a much broader set of capital structure theories, many of which have not previously been analyzed empirically. Second, since the theories have different empirical implications in regard to different types of debt instruments, the authors analyze measures of short\u2010term, long\u2010term, and convertible debt rather than an aggregate measure of total debt. Third, the study uses a factor\u2010analytic technique that mitigates the measurement problems encountered when working with proxy variables.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02585.x"
+        },
+        {
+            "no": "3",
+            "title": "Capital Structure, Ownership, and Capital Payment Policy: The Case of Hospitals",
+            "date": "March 1988",
+            "author": [
+                "GERARD WEDIG",
+                "FRANK A. SLOAN",
+                "MAHMUD HASSAN",
+                "MICHAEL A. MORRISEY"
+            ],
+            "abstract": "This study examines effects of pertinent features of hospital capital payment policies on hospital capital structure decisions in a one\u2010period stochastic, value\u2010maximization model. Separate models are developed for for\u2010profit and not\u2010for\u2010profit hospitals. Hospital debt\u2010to\u2010assets ratios are analyzed empirically using a cross\u2010section of data from the American Hospital Association. Although the effect on capital structure of hospital reliance on cost\u2010based reimbursement cannot be signed theoretically, in both for\u2010profit and not\u2010for\u2010profit cases, a higher cost\u2010based share leads to higher leverage. Factors associated with high bankruptcy risk (e.g., earnings volatility) cause hospitals to take on less debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02586.x"
+        },
+        {
+            "no": "4",
+            "title": "Private versus Public Ownership: Investment, Ownership Distribution, and Optimality",
+            "date": "March 1988",
+            "author": [
+                "SALMAN SHAH",
+                "ANJAN V. THAKOR"
+            ],
+            "abstract": "Examined in this paper is the choice between private and public incorporation of an asset for an entrepreneur (asset owner) who hires a manager with superior information about the asset's return distribution. Public sale of equity is shown to be the preferred alternative when (a) capital market issue costs are low or (b) the assest's idiosyncratic risk is high and the owner is either sufficiently risk averse or sufficiently \u201coptimistic\u201d about the asset's expected return. Thus, those assets deemed most valuable by their owners will tend to be publicly incorporated. The paper also explores the impact of incorporation mode\u2014private versus public\u2014and information structure on the firm's investment policy and ownership distribution.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02587.x"
+        },
+        {
+            "no": "5",
+            "title": "An Alternative Testable Form of the Consumption CAPM",
+            "date": "March 1988",
+            "author": [
+                "HOSSEIN B. KAZEMI"
+            ],
+            "abstract": "This paper develops a consumption\u2010oriented model of asset prices in a multigood economy that is, in principle, testable even when aggregate consumption of goods and their market prices are only partially observable. Previous studies show that, when there are m consumption goods, equilibrium expected excess returns on securities are functions of their covariances with\nm\n+\n1\nvariables\u2014aggregate consumption expenditure and market prices of consumption goods. Without making any further assumptions, the present model shows that a similar equilibrium relationship can be expressed in terms of covariances of asset returns with the following\nm\n+\n1\nvariables: market prices of k consumption goods and aggregate consumption of\nm\n+\n1\n\u2212\nk\ngoods. Because the author's result provides researchers with some flexibility in choosing the set of\nm\n+\n1\nvariables that measure riskiness of securities, it should lead to more powerful tests of the model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02588.x"
+        },
+        {
+            "no": "6",
+            "title": "A Simple Algorithm for the Portfolio Selection Problem",
+            "date": "March 1988",
+            "author": [
+                "ALAN L. LEWIS"
+            ],
+            "abstract": "The author presents a rapidly convergent algorithm to solve the general portfolio problem of maximizing concave utility functions subject to linear constraints. The algorithm is based on an iterative use of the Markowitz critical line method for solving quadratic programs. A simple example, taken from the theory of state\u2010contingent claims, is worked out in detail. For technical convergence results, the reader is referred to the appropriate mathematical programming literature.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02589.x"
+        },
+        {
+            "no": "7",
+            "title": "A Theory of Noise Trading in Securities Markets",
+            "date": "March 1988",
+            "author": [
+                "BRETT TRUEMAN"
+            ],
+            "abstract": "In a recent article, Black 1 introduces a type of trading that he terms noise trading. He asserts that noise trading, which he defines as trading on noise as if it were information, must be a significant factor in securities markets. However, he does not provide an explanation of why any investors would rationally want to engage in noise trading. The goal of this paper is to provide such an explanation for one type of investor, managers of investment funds. As shown here, the incentive for a manager to engage in noise trading arises because of the positive signal that the level of the manager's trading provides about his or her ability to collect private information concerning current and potential investments. If the manager's compensation is directly related to investors' perceptions of his or her ability, the manager will then trade more frequently than is justified on the basis of his or her private information. In addition to providing this explanation for noise trading, the results of this analysis may also be useful for further empirical exploration of the relation between investment fund portfolio turnover and subsequent performance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02590.x"
+        },
+        {
+            "no": "8",
+            "title": "The Total Cost of Transactions on the NYSE",
+            "date": "March 1988",
+            "author": [
+                "STEPHEN A. BERKOWITZ",
+                "DENNIS E. LOGUE",
+                "EUGENE A. NOSER Jr."
+            ],
+            "abstract": "This paper develops a measure of execution costs (market impact) of transactions on the NYSE. The measure is the volume\u2010weighted average price over the trading day. It yields results that are less biased than measures that use single prices, such as closes. The paper then applies this measure to a data set containing more than 14,000 actual trades. We show that total transaction costs, commission plus market impact costs, average twenty\u2010three basis points of principal value for our sample. Commission costs, averaging eighteen basis points, are considerably higher than execution costs, which average five basis points. They vary slightly across brokers and significantly across money managers. Though brokers do not incur consistently high or low transaction costs, money managers experience persistently high or lost costs. Finally, the paper explores the possible tradeoff between commission expenditures and market impact costs. Paying higher commissions does not yield commensurately lower execution costs, even after adjusting for trade difficulty. We cannot determine whether other valuable brokerage services are being purchased with higher commission payments or whether some money managers really are inefficient consumers of brokerage trading services.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02591.x"
+        },
+        {
+            "no": "9",
+            "title": "Closed\u2010End Fund Shares' Abnormal Returns and the Information Content of Discounts and Premiums",
+            "date": "March 1988",
+            "author": [
+                "GREGGORY A. BRAUER"
+            ],
+            "abstract": "Closed\u2010end funds' discounts contain information in the sense that they can be used to construct portfolios that earn returns exceeding those predicted by the two\u2010factor capital asset pricing model. The precise nature of the information contained in a discount is not clear, however. This paper provides evidence that the information contained in a discount is an incomplete prediction of the fund's likelihood of being open\u2010ended profitably.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02592.x"
+        },
+        {
+            "no": "10",
+            "title": "The January Effect and Aggregate Insider Trading",
+            "date": "March 1988",
+            "author": [
+                "H. NEJAT SEYHUN"
+            ],
+            "abstract": "This study investigates the seasonal pattern of aggregate insider trading to help distinguish between two competing explanations for the seasonal pattern of security returns. The first potential explanation examined is that the January effect arises from predictable changes in turn\u2010of\u2010the\u2010year demand for securities. The second potential explanation examined is that the January effect represents compensation for the higher risk of trading against informed traders at the turn of the year.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02593.x"
+        },
+        {
+            "no": "11",
+            "title": "On the Optimal Hedge of a Nontraded Cash Position",
+            "date": "March 1988",
+            "author": [
+                "MICHAEL ADLER",
+                "J\u00c9R\u00d4ME B. DETEMPLE"
+            ],
+            "abstract": "In this paper, we focus on the optimal demand for futures contracts by an investor with a logarithmic utility function who attempts to hedge a nontraded cash position. When the analysis is conducted in the \u201ccash\u2010commodity\u2010price\u201d space, we show that the value function associated with the Bernoulli investor program is not additively separable, thus suggesting that this investor hedges against shifts in the opportunity set as represented by the commodity price. By establishing the equivalence between the cash formulation of the problem and the wealth formulation, we are able to analyze the problem in the \u201cwealth\u2010commodity\u2010price\u201d space. In this space, we show the additive separability of the value function when the futures settlement price process is perfectly locally correlated with the commodity price process. The demand for futures in this instance is composed of (a) a mean\u2010variance term and (b) a minimum\u2010variance component that is a classic feature of models with nontraded assets. Since the first\u2010best (nonmyopic) optimum is attained, however, the deviation from a mean\u2010variance demand should not be interpreted as the expression of a nonmyopic behavior but rather as an attempt to restore a first\u2010best optimum. On the other hand, when the correlation between the futures price and the underlying commodity price is imperfect, in general, the value function does not separate additively, the first\u2010best solution cannot be attained, and the optimal futures trading strategy involves a hedging term against shifts in the opportunity set.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02594.x"
+        },
+        {
+            "no": "12",
+            "title": "Jump\u2010Diffusion Processes and the Term Structure of Interest Rates",
+            "date": "March 1988",
+            "author": [
+                "CHANG MO AHN",
+                "HOWARD E. THOMPSON"
+            ],
+            "abstract": "The authors investigate the term structure of interest rates when the underlying state variables and production technologies follow the jump\u2010diffusion processes. Even in some cases where the traditional expectations theory about the term structure is consistent with general equilibrium under diffusion processes, the traditional theory is not consistent under jump\u2010diffusion processes. It is shown that bond prices are strictly higher under jump risks than otherwise and that consumers with logarithmic utility functions will develop hedge portfolios in the presence of jump diffusion.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02595.x"
+        },
+        {
+            "no": "13",
+            "title": "Optimal Futures Positions for Large Banking Firms",
+            "date": "March 1988",
+            "author": [
+                "GEORGE EMIR MORGAN",
+                "DILIP K. SHOME",
+                "STEPHEN D. SMITH"
+            ],
+            "abstract": "In this paper, we extend earlier work on hedging models so that uncertainty about both deposit supply and loan demand is incorporated as well as random rates of return on loans and CD's. Our model suggests that the optimal forward position is the sum of three ratios that should be estimated simultaneously. Using bank\u2010specific data, the optimal hedge ratios are estimated in both the pre\u2010deregulation and deregulation subperiods. Our results show that previous studies of bank hedging with interest rate futures have greatly overstated (a) the volume of short futures positions that banks should take and (b) the degree of homogeneity of optimal hedge ratios across the banking system. Similarly, deregulation has not uniformly affected the interest rate risk borne by different institutions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02596.x"
+        },
+        {
+            "no": "14",
+            "title": "Exchange Rate Uncertainty, Forward Contracts, and International Portfolio Selection",
+            "date": "March 1988",
+            "author": [
+                "CHEOL S. EUN",
+                "BRUCE G. RESNICK"
+            ],
+            "abstract": "In this paper, ex ante efficient portfolio selection strategies are developed to realize potential gains from international diversification under flexible exchange rates. It is shown that exchange rate uncertainty is a largely nondiversifiable factor adversely affecting the performance of international portfolios. Therefore, it is essential to effectively control exchange rate volatility. For that purpose, two methods of exchange risk reduction are simultaneously employed: multicurrency diversification and hedging via forward exchange contracts. The empirical findings show that international portfolio selection strategies designed to control both estimation and exchange risks almost consistently outperform the U.S. domestic portfolio in out\u2010of\u2010sample periods.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02597.x"
+        },
+        {
+            "no": "15",
+            "title": "The October 1979 Change in the U.S. Monetary Regime: Its Impact on the Forecastability of Canadian Interest Rates",
+            "date": "March 1988",
+            "author": [
+                "JAMES E. PESANDO",
+                "ANDR\u00c9 PLOURDE"
+            ],
+            "abstract": "Subsequent to the October 1979 shift in monetary policy in the United States, interest rates in North America not only reached unprecedented levels but also exhibited unprecedented volatility. Using Canadian data, the authors show that anticipated quarterly changes in long\u2010term rates associated with the rational\u2010expectations model have remained small during this post\u2010shift period. The authors examine three sets of recorded forecasts of long\u2010term interest rates in Canada and note their failure to improve upon the no\u2010change prediction. The \u201cperverse\u201d relationship between the slope of the yield curve and the subsequent movement in long\u2010term rates exists in the Canadian data but is of only modest value in a forecasting context. The excess returns on long\u2010term bonds implicit in the recorded forecasts of the level of interest rates vary sharply, yet there is little evidence that forecasters have identified a predictable component of time\u2010varying term premia.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02598.x"
+        },
+        {
+            "no": "16",
+            "title": "A Note on Simple Criteria for Optimal Portfolio Selection",
+            "date": "March 1988",
+            "author": [
+                "C. SHERMAN CHEUNG",
+                "CLARENCE C. Y. KWAN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02599.x"
+        },
+        {
+            "no": "17",
+            "title": "Implied Spot Rates as Predictors of Currency Returns: A Note",
+            "date": "March 1988",
+            "author": [
+                "DAVID R. PETERSON",
+                "ALAN L. TUCKER"
+            ],
+            "abstract": "Currency call option transactions data and the Black\u2010Scholes option pricing model, as modified by Merton for continuous dividends and as adapted to currency options by Biger and Hull and by Garman and Kohlhagen, are used to imply spot foreign exchange rates. The proportional deviation between implied and simultaneously observed spot rates is found to be a direct and statistically significant determinant of subsequent returns on foreign currency holdings after controlling for interest rate differentials. Further, an ex ante trading rule reveals that the additional information contained in implied rates often is sufficient to generate significant economic profits.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02600.x"
+        },
+        {
+            "no": "18",
+            "title": "Book Reviews",
+            "date": "March 1988",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nTheory of Financial Decision Making. By JONATHAN E. INGERSOLL, JR.\nReal Estate Finance. By SHERMAN J. MAISEL.\nDuration Analysis: Managing Interest Rate Risk. by GERALD O. BIERWAG.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02601.x"
+        },
+        {
+            "no": "19",
+            "title": "MISCELLANEA",
+            "date": "March 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02602.x"
+        },
+        {
+            "no": "20",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02583.x"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb02584.x"
+        },
+        {
+            "no": "22",
+            "title": "Back Matter",
+            "date": "March 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb00557.x"
+        }
+    ]
+}

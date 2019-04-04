@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Sep 1984
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -19,7 +19,7 @@
 ## 2. Optimal bond trading with personal taxes
 ### Date
 - Sep 1984
-### Authors
+### Author
 - George M. Constantinides
 - Jonathan E. Ingersoll
 ### Abstract
@@ -30,7 +30,7 @@ Tax considerations governing bondholders' optimal trading include: capital loss 
 ## 3. Arbitrage pricing, transaction costs and taxation of capital gains
 ### Date
 - Sep 1984
-### Authors
+### Author
 - Robert H. Litzenberger
 - Jacques Rolfo
 ### Abstract
@@ -41,7 +41,7 @@ This paper examines one of the few cases of seemingly redundant securities: sets
 ## 4. The quality option implicit in futures contracts
 ### Date
 - Sep 1984
-### Authors
+### Author
 - Gerald D. Gay
 - Steven Manaster
 ### Abstract
@@ -52,7 +52,7 @@ The quality option implicit in futures contracts allows the short position to sa
 ## 5. Warrant exercise and bond conversion in competitive markets
 ### Date
 - Sep 1984
-### Authors
+### Author
 - George M. Constantinides
 ### Abstract
 We develop a theory of warrants held by competitive warrantholders not constrained to exercise their warrants as one block; the theory also applies to convertible bonds held by competitive bondholders not constrained to convert their bonds as one block. We prove that the warrant (bond) price in each of the competitive equilibria is less than or equal to the price in an economy with the block constraint; and for at least one competitive equilibrium the warrant (bond) price equals the warrant (bond) price in the block-constrained economy. We illustrate the paths of competitive warrant exercise and bond conversion and conclude that under realistic assumptions they can be long.
@@ -62,7 +62,7 @@ We develop a theory of warrants held by competitive warrantholders not constrain
 ## 6. A strategic analysis of sinking fund bonds
 ### Date
 - Sep 1984
-### Authors
+### Author
 - Kenneth B. Dunn
 - Chester S. Spatt
 ### Abstract
@@ -73,7 +73,7 @@ Unlike most securities, the pricing of sinking fund bonds is influenced by the d
 ## 7. Call options and the risk of underlying securities
 ### Date
 - Sep 1984
-### Authors
+### Author
 - Ravi Jagannathan
 ### Abstract
 Merton (1973) in his seminal article ‘Theory of Rational Option Pricing’ showed that the rationally determined price of a call option is a non-decreasing function of the ‘riskness’ of its associated common stock. In deriving his results, Merton made restrictive assumptions about the way the market prices payoff distributions, and used the Rothschild-Stiglitz (1970) measure to compare the riskiness of securities. I show by means of an example that the Merton result will not in general be true. I then derive a sufficient condition for the option on one stock to have higher market value than the option on another stock, when both the stocks have the same price, and explain why the Merton result is valid in the Black-Scholes environment.
@@ -83,7 +83,7 @@ Merton (1973) in his seminal article ‘Theory of Rational Option Pricing’ sho
 ## 8. Volume and turn-of-the-year behavior
 ### Date
 - Sep 1984
-### Authors
+### Author
 - Josef Lakonishok
 - Seymour Smidt
 ### Abstract
@@ -94,7 +94,7 @@ This paper studies the trading characteristics of listed companies by size, and 
 ## 9. Call for papers
 ### Date
 - Sep 1984
-### Authors
+### Author
 ### Abstract
 
 ### Link

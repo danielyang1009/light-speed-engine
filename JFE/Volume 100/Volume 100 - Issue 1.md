@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Ownership structure and the cost of corporate borrowing
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Chen Lin
 - Yue Ma
 - Paul Malatesta
@@ -27,7 +27,7 @@ This article identifies an important channel through which excess control rights
 ## 3. The liquidity risk of liquid hedge funds
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Melvyn Teo
 ### Abstract
 This paper evaluates hedge funds that grant favorable redemption terms to investors. Within this group of purportedly liquid funds, high net inflow funds subsequently outperform low net inflow funds by 4.79% per year after adjusting for risk. The return impact of fund flows is stronger when funds embrace liquidity risk, when market liquidity is low, and when funding liquidity, as measured by the Treasury-Eurodollar spread, aggregate hedge fund flows, and prime broker stock returns, is tight. In keeping with an agency explanation, funds with strong incentives to raise capital, low manager option deltas, and no manager capital co-invested are more likely to take on excessive liquidity risk. These results resonate with the theory of funding liquidity by Brunnermeier and Pedersen (2009).
@@ -37,7 +37,7 @@ This paper evaluates hedge funds that grant favorable redemption terms to invest
 ## 4. Strategic IPOs and product market competition
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Jiri Chod
 - Evgeny Lyandres
 ### Abstract
@@ -48,7 +48,7 @@ We examine firms' incentives to go public in the presence of product market comp
 ## 5. Institutional tax clienteles and payout policy
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Mihir A. Desai
 - Li Jin
 ### Abstract
@@ -59,7 +59,7 @@ This paper employs heterogeneity in institutional shareholder tax characteristic
 ## 6. Tests of ex ante versus ex post theories of collateral using private and public information
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Allen N. Berger
 - W. Scott Frame
 - Vasso Ioannidou
@@ -71,7 +71,7 @@ Collateral is a widely used, but not well understood, debt contracting feature. 
 ## 7. Stock market aversion? Political preferences and stock market participation
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Markku Kaustia
 - Sami Torstila
 ### Abstract
@@ -82,7 +82,7 @@ We find that left-wing voters and politicians are less likely to invest in stock
 ## 8. Why do convertible issuers simultaneously repurchase stock? An arbitrage-based explanation
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Abe de Jong
 - Marie Dutordoir
 - Patrick Verwijmeren
@@ -94,7 +94,7 @@ Over recent years, a substantial fraction of US convertible bond issues have bee
 ## 9. Employee treatment and firm leverage: A test of the stakeholder theory of capital structure
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Kee-Hong Bae
 - Jun-Koo Kang
 - Jin Wang
@@ -106,7 +106,7 @@ We investigate the stakeholder theory of capital structure from the perspective 
 ## 10. Does governance travel around the world? Evidence from institutional investors
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Reena Aggarwal
 - Isil Erel
 - Miguel Ferreira
@@ -119,7 +119,7 @@ We examine whether institutional investors affect corporate governance by analyz
 ## 11. Research for sale: Determinants and consequences of paid-for analyst research
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Marcus Kirk
 ### Abstract
 I examine the determinants and market impact of paid-for coverage using a hand-collected sample of paid-for reports over 1999–2006. More than five hundred publicly listed US companies paid for analyst coverage since 1999. Yet little is known about the informational consequences of this analyst research. Firms with greater uncertainty, weaker information environments, and low turnover are more likely to buy coverage as they have the most to gain from analyst coverage but are unlikely to attract sell-side analysts. Despite the inherent conflicts of interest, I find paid-for reports have information content for investors based on 2-day abnormal returns. After the initiation of coverage, companies experience an increase in institutional ownership, sell-side analyst following, and liquidity. In addition, the results are strongest for the fee-based research firm with ex ante policies that reduce potential conflicts of interest.
@@ -129,7 +129,7 @@ I examine the determinants and market impact of paid-for coverage using a hand-c
 ## 12. Price impact and portfolio impact
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Jaksa Cvitanić
 - Semyon Malamud
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. The jump-risk premia implicit in options: evidence from an integrated time-series study
 ### Date
 - Jan 2002
-### Authors
+### Author
 - Jun Pan
 ### Abstract
 This paper examines the joint time series of the S&P 500 index and near-the-money short-dated option prices with an arbitrage-free model, capturing both stochastic volatility and jumps. Jump-risk premia uncovered from the joint data respond quickly to market volatility, becoming more prominent during volatile markets. This form of jump-risk premia is important not only in reconciling the dynamics implied by the joint data, but also in explaining the volatility “smirks” of cross-sectional options data.
@@ -15,7 +15,7 @@ This paper examines the joint time series of the S&P 500 index and near-the-mone
 ## 2. Does diversification destroy value? Evidence from the industry shocks
 ### Date
 - Jan 2002
-### Authors
+### Author
 - Owen A. Lamont
 - Christopher Polk
 ### Abstract
@@ -26,7 +26,7 @@ Does corporate diversification reduce shareholder value? Since firms endogenousl
 ## 3. Contracting in the investment management industry:
 ### Date
 - Jan 2002
-### Authors
+### Author
 - Daniel N. Deli
 - Raj Varma
 ### Abstract
@@ -37,7 +37,7 @@ We investigate the option to invest in derivative securities using a large sampl
 ## 4. Agents watching agents?: evidence from pension fund ownership and firm value
 ### Date
 - Jan 2002
-### Authors
+### Author
 - Tracie Woidtke
 ### Abstract
 This paper examines the valuation effects associated with the incentive structures of different types of institutional investors using the ownership levels of public and private pension funds in a firm. The results suggest that institutional monitoring is associated with valuation effects when both observable and unobservable aspects of the relationship between institutions and firms are taken into account. Moreover, the valuation effects vary according to the objective functions of institutions’ administrators. Thus, other shareholders do not necessarily benefit from relationships between institutions and managers, and they could be hurt when the institutional agents watching firm agents have conflicts of interest with other shareholders.
@@ -47,7 +47,7 @@ This paper examines the valuation effects associated with the incentive structur
 ## 5. Liquidity provision and specialist trading in NYSE-listed non-U.S. stocks
 ### Date
 - Jan 2002
-### Authors
+### Author
 - Jeffrey M. Bacidore
 - George Sofianos
 ### Abstract

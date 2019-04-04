@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Firm size and the gains from acquisitions
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Sara B Moeller
 - Frederik P Schlingemann
 - René M Stulz
@@ -26,7 +26,7 @@ We examine a sample of 12,023 acquisitions by public firms from 1980 to 2001. Th
 ## 3. New lists: Fundamentals and survival rates
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Eugene F Fama
 - Kenneth R French
 ### Abstract
@@ -37,7 +37,7 @@ The class of firms that obtain public equity financing expands dramatically in t
 ## 4. Appearing and disappearing dividends: The link to catering incentives
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Malcolm Baker
 - Jeffrey Wurgler
 ### Abstract
@@ -48,7 +48,7 @@ We document a close link between fluctuations in the propensity to pay dividends
 ## 5. Why constrain your mutual fund manager?
 ### Date
 - May 2003
-### Authors
+### Author
 - Andres Almazan
 - Keith C. Brown
 - Murray Carlson
@@ -61,7 +61,7 @@ We examine the form, adoption rates, and economic rationale for various mutual f
 ## 6. The costs of shared ownership: Evidence from international joint ventures
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Mihir A Desai
 - C.Fritz Foley
 - James R Hines
@@ -73,7 +73,7 @@ This paper analyzes the determinants of partial ownership of the foreign affilia
 ## 7. Grandstanding, certification and the underpricing of venture capital backed IPOs
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Peggy M. Lee
 - Sunil Wahal
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Aug 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. The determinants of organizational form changes: evidence and implications from real estate
 ### Date
 - Aug 1997
-### Authors
+### Author
 - Aswath Damodaran
 - Kose John
 - Crocker H. Liu
@@ -27,7 +27,7 @@ We study changes in the real estate industry among organizational forms with var
 ## 3. Ownership structure and top executive turnover
 ### Date
 - Aug 1997
-### Authors
+### Author
 - David J. Denis
 - Diane K. Denis
 - Atulya Sarin
@@ -39,7 +39,7 @@ We report that ownership structure significantly affects the likelihood of a cha
 ## 4. Executive stock ownership and performance tracking faint traces
 ### Date
 - Aug 1997
-### Authors
+### Author
 - Claudio Loderer
 - Kenneth Martin
 ### Abstract
@@ -50,7 +50,7 @@ We examine the relation between managers' financial interests and firm performan
 ## 5. Corporate focus and value creation evidence from spinoffs
 ### Date
 - Aug 1997
-### Authors
+### Author
 - Lane Daley
 - Vikas Mehrotra
 - Ranjini Sivakumar

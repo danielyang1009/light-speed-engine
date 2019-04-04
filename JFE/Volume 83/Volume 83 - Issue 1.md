@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Firms’ histories and their capital structures
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Ayla Kayhan
 - Sheridan Titman
 ### Abstract
@@ -25,7 +25,7 @@ This paper examines how cash flows, investment expenditures, and stock price his
 ## 3. Share restrictions and asset pricing: Evidence from the hedge fund industry
 ### Date
 - Nov 2005
-### Authors
+### Author
 - George O. Aragon
 ### Abstract
 This paper presents evidence on the relation between hedge fund returns and restrictions imposed by funds that limit the liquidity of fund investors. The excess returns of funds with lockup restrictions are approximately 4–7% per year higher than those of nonlockup funds. The average alpha of all funds is negative or insignificant after controlling for lockups and other share restrictions. Also, a negative relation is found between share restrictions and the liquidity of the fund's portfolio. This suggests that share restrictions allow funds to efficiently manage illiquid assets, and these benefits are captured by investors as a share illiquidity premium.
@@ -35,7 +35,7 @@ This paper presents evidence on the relation between hedge fund returns and rest
 ## 4. The term structure of commercial paper rates
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Chris Downing
 - Stephen Oliner
 ### Abstract
@@ -46,7 +46,7 @@ This paper tests a generalized version of the expectations hypothesis in the mar
 ## 5. Saving and investing for early retirement: A theoretical analysis
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Emmanuel Farhi
 - Stavros Panageas
 ### Abstract
@@ -57,7 +57,7 @@ We study optimal consumption and portfolio choice in a framework where investors
 ## 6. Market price of risk specifications for affine models: Theory and evidence
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Patrick Cheridito
 - Damir Filipović
 - Robert L. Kimmel
@@ -69,7 +69,7 @@ We extend the standard specification of the market price of risk for affine yiel
 ## 7. The empirical risk–return relation: A factor analysis approach
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Sydney C. Ludvigson
 - Serena Ng
 ### Abstract
@@ -80,7 +80,7 @@ Existing empirical literature on the risk–return relation uses relatively smal
 ## 8. Informed finance and technological change: Evidence from credit relationships
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Ana Maria Herrera
 - Raoul Minetti
 ### Abstract

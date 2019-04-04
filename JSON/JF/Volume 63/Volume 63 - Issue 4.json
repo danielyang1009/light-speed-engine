@@ -1,0 +1,210 @@
+{
+    "journal": "JF",
+    "volume": "63",
+    "issue": "4",
+    "date": "August 2008",
+    "page": "Pages: i-v, 1537-2082, vii-xviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "19 July 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01366.x"
+        },
+        {
+            "no": "2",
+            "title": "Presidential Address: The Cost of Active Investing",
+            "date": "19 July 2008",
+            "author": [
+                "KENNETH R. FRENCH"
+            ],
+            "abstract": "I compare the fees, expenses, and trading costs society pays to invest in the U.S. stock market with an estimate of what would be paid if everyone invested passively. Averaging over 1980\u20132006, I find investors spend 0.67% of the aggregate value of the market each year searching for superior returns. Society's capitalized cost of price discovery is at least 10% of the current market cap. Under reasonable assumptions, the typical investor would increase his average annual return by 67 basis points over the 1980\u20132006 period if he switched to a passive market portfolio.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01368.x"
+        },
+        {
+            "no": "3",
+            "title": "Back to the Beginning: Persistence and the Cross\u2010Section of Corporate Capital Structure",
+            "date": "19 July 2008",
+            "author": [
+                "MICHAEL L. LEMMON",
+                "MICHAEL R. ROBERTS",
+                "JAIME F. ZENDER"
+            ],
+            "abstract": "We find that the majority of variation in leverage ratios is driven by an unobserved time\u2010invariant effect that generates surprisingly stable capital structures: High (low) levered firms tend to remain as such for over two decades. This feature of leverage is largely unexplained by previously identified determinants, is robust to firm exit, and is present prior to the IPO, suggesting that variation in capital structures is primarily determined by factors that remain stable for long periods of time. We then show that these results have important implications for empirical analysis attempting to understand capital structure heterogeneity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01369.x"
+        },
+        {
+            "no": "4",
+            "title": "Asset Growth and the Cross\u2010Section of Stock Returns",
+            "date": "19 July 2008",
+            "author": [
+                "MICHAEL J. COOPER",
+                "HUSEYIN GULEN",
+                "MICHAEL J. SCHILL"
+            ],
+            "abstract": "We test for firm\u2010level asset investment effects in returns by examining the cross\u2010sectional relation between firm asset growth and subsequent stock returns. Asset growth rates are strong predictors of future abnormal returns. Asset growth retains its forecasting ability even on large capitalization stocks. When we compare asset growth rates with the previously documented determinants of the cross\u2010section of returns (i.e., book\u2010to\u2010market ratios, firm capitalization, lagged returns, accruals, and other growth measures), we find that a firm's annual asset growth rate emerges as an economically and statistically significant predictor of the cross\u2010section of U.S. stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01370.x"
+        },
+        {
+            "no": "5",
+            "title": "Dissecting Anomalies",
+            "date": "19 July 2008",
+            "author": [
+                "EUGENE F. FAMA",
+                "KENNETH R. FRENCH"
+            ],
+            "abstract": "The anomalous returns associated with net stock issues, accruals, and momentum are pervasive; they show up in all size groups (micro, small, and big) in cross\u2010section regressions, and they are also strong in sorts, at least in the extremes. The asset growth and profitability anomalies are less robust. There is an asset growth anomaly in average returns on microcaps and small stocks, but it is absent for big stocks. Among profitable firms, higher profitability tends to be associated with abnormally high returns, but there is little evidence that unprofitable firms have unusually low returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01371.x"
+        },
+        {
+            "no": "6",
+            "title": "Corporate Governance and Risk\u2010Taking",
+            "date": "19 July 2008",
+            "author": [
+                "KOSE JOHN",
+                "LUBOMIR LITOV",
+                "BERNARD YEUNG"
+            ],
+            "abstract": "Better investor protection could lead corporations to undertake riskier but value\u2010enhancing investments. For example, better investor protection mitigates the taking of private benefits leading to excess risk\u2010avoidance. Further, in better investor protection environments, stakeholders like creditors, labor groups, and the government are less effective in reducing corporate risk\u2010taking for their self\u2010interest. However, arguments can also be made for a negative relationship between investor protection and risk\u2010taking. Using a cross\u2010country panel and a U.S.\u2010only sample, we find that corporate risk\u2010taking and firm growth rates are positively related to the quality of investor protection.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01372.x"
+        },
+        {
+            "no": "7",
+            "title": "Hedge Fund Activism, Corporate Governance, and Firm Performance",
+            "date": "19 July 2008",
+            "author": [
+                "ALON BRAV",
+                "WEI JIANG",
+                "FRANK PARTNOY",
+                "RANDALL THOMAS"
+            ],
+            "abstract": "Using a large hand\u2010collected data set from 2001 to 2006, we find that activist hedge funds in the United States propose strategic, operational, and financial remedies and attain success or partial success in two\u2010thirds of the cases. Hedge funds seldom seek control and in most cases are nonconfrontational. The abnormal return around the announcement of activism is approximately 7%, with no reversal during the subsequent year. Target firms experience increases in payout, operating performance, and higher CEO turnover after activism. Our analysis provides important new evidence on the mechanisms and effects of informed shareholder monitoring.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01373.x"
+        },
+        {
+            "no": "8",
+            "title": "Hedge Funds: Performance, Risk, and Capital Formation",
+            "date": "19 July 2008",
+            "author": [
+                "WILLIAM FUNG",
+                "DAVID A. HSIEH",
+                "NARAYAN Y. NAIK",
+                "TARUN RAMADORAI"
+            ],
+            "abstract": "We use a comprehensive data set of funds\u2010of\u2010funds to investigate performance, risk, and capital formation in the hedge fund industry from 1995 to 2004. While the average fund\u2010of\u2010funds delivers alpha only in the period between October 1998 and March 2000, a subset of funds\u2010of\u2010funds consistently delivers alpha. The alpha\u2010producing funds are not as likely to liquidate as those that do not deliver alpha, and experience far greater and steadier capital inflows than their less fortunate counterparts. These capital inflows attenuate the ability of the alpha producers to continue to deliver alpha in the future.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01374.x"
+        },
+        {
+            "no": "9",
+            "title": "The Selection and Termination of Investment Management Firms by Plan Sponsors",
+            "date": "19 July 2008",
+            "author": [
+                "AMIT GOYAL",
+                "SUNIL WAHAL"
+            ],
+            "abstract": "We examine the selection and termination of investment management firms by 3,400 plan sponsors between 1994 and 2003. Plan sponsors hire investment managers after large positive excess returns but this return\u2010chasing behavior does not deliver positive excess returns thereafter. Investment managers are terminated for a variety of reasons, including but not limited to underperformance. Excess returns after terminations are typically indistinguishable from zero but in some cases positive. In a sample of round\u2010trip firing and hiring decisions, we find that if plan sponsors had stayed with fired investment managers, their excess returns would be no different from those delivered by newly hired managers. We uncover significant variation in pre\u2010 and post\u2010hiring and firing returns that is related to plan sponsor characteristics.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01375.x"
+        },
+        {
+            "no": "10",
+            "title": "Optimal Decentralized Investment Management",
+            "date": "19 July 2008",
+            "author": [
+                "JULES H. Van BINSBERGEN",
+                "MICHAEL W. BRANDT",
+                "RALPH S. J. KOIJEN"
+            ],
+            "abstract": "We study an institutional investment problem in which a centralized decision maker, the Chief Investment Officer (CIO), for example, employs multiple asset managers to implement investment strategies in separate asset classes. The CIO allocates capital to the managers who, in turn, allocate these funds to the assets in their asset class. This two\u2010step investment process causes several misalignments of objectives between the CIO and his managers and can lead to large utility costs for the CIO. We focus on (1) loss of diversification, (2) unobservable managerial appetite for risk, and (3) different investment horizons. We derive an optimal unconditional linear performance benchmark and show that this benchmark can be used to better align incentives within the firm. We find that the CIO's uncertainty about the managers' risk appetites increases both the costs of decentralized investment management and the value of an optimally designed benchmark.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01376.x"
+        },
+        {
+            "no": "11",
+            "title": "International Cross\u2010Listing, Firm Performance, and Top Management Turnover: A Test of the Bonding Hypothesis",
+            "date": "19 July 2008",
+            "author": [
+                "UGUR LEL",
+                "DARIUS P. MILLER"
+            ],
+            "abstract": "We examine a primary outcome of corporate governance, namely, the ability to identify and terminate poorly performing CEOs, to test the effectiveness of U.S. investor protections in improving the corporate governance of cross\u2010listed firms. We find that firms from weak investor protection regimes that are cross\u2010listed on a major U.S. Exchange are more likely to terminate poorly performing CEOs than non\u2010cross\u2010listed firms. Cross\u2010listings on exchanges that do not require the adoption of stringent investor protections (OTC, private placements, and London listings) are not associated with a higher propensity to remove poorly performing CEOs.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01377.x"
+        },
+        {
+            "no": "12",
+            "title": "Feedback Effects and Asset Prices",
+            "date": "19 July 2008",
+            "author": [
+                "EMRE OZDENOREN",
+                "KATHY YUAN"
+            ],
+            "abstract": "Feedback effects from asset prices to firm cash flows have been empirically documented. This finding raises a question for asset pricing: How are asset prices determined if price affects fundamental value, which in turn affects price? In this environment, by buying assets that others are buying, investors ensure high future cash flows for the firm and subsequent high returns for themselves. Hence, investors have an incentive to coordinate, which may generate self\u2010fulfilling beliefs and multiple equilibria. Using insights from global games, we pin down investors' beliefs, analyze equilibrium prices, and show that strong feedback leads to higher excess volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01378.x"
+        },
+        {
+            "no": "13",
+            "title": "Economic Links and Predictable Returns",
+            "date": "19 July 2008",
+            "author": [
+                "LAUREN COHEN",
+                "ANDREA FRAZZINI"
+            ],
+            "abstract": "This paper finds evidence of return predictability across economically linked firms. We test the hypothesis that in the presence of investors subject to attention constraints, stock prices do not promptly incorporate news about economically related firms, generating return predictability across assets. Using a data set of firms' principal customers to identify a set of economically related firms, we show that stock prices do not incorporate news involving related firms, generating predictable subsequent price moves. A long\u2013short equity strategy based on this effect yields monthly alphas of over 150 basis points.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01379.x"
+        },
+        {
+            "no": "14",
+            "title": "Market Liquidity, Investor Participation, and Managerial Autonomy: Why Do Firms Go Private?",
+            "date": "19 July 2008",
+            "author": [
+                "ARNOUD W. A. BOOT",
+                "RADHAKRISHNAN GOPALAN",
+                "ANJAN V. THAKOR"
+            ],
+            "abstract": "We focus on public\u2010market investor participation to analyze the firm's decision to stay public or go private. The liquidity of public ownership is both a blessing and a curse: It lowers the cost of capital, but also introduces volatility in a firm's shareholder base, exposing management to uncertainty regarding shareholder intervention in management decisions, thereby affecting the manager's perceived decision\u2010making autonomy and curtailing managerial inputs. We extract predictions about how investor participation affects stock price level and volatility and the public firm's incentives to go private, providing a link between investor participation and firm participation in public markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01380.x"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Editor of The Journal of Finance for the Year 2007",
+            "date": "19 July 2008",
+            "author": [
+                "CAMPBELL R. HARVEY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01381.x"
+        },
+        {
+            "no": "16",
+            "title": "Minutes of the Annual Membership Meeting January 5, 2008",
+            "date": "19 July 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01383.x"
+        },
+        {
+            "no": "17",
+            "title": "Report of the Executive Secretary and Treasurer for the Year Ending September 30, 2007",
+            "date": "19 July 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01382.x"
+        },
+        {
+            "no": "18",
+            "title": "MISCELLANEA",
+            "date": "19 July 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01384.x"
+        },
+        {
+            "no": "19",
+            "title": "Back Matter",
+            "date": "19 July 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01385.x"
+        }
+    ]
+}

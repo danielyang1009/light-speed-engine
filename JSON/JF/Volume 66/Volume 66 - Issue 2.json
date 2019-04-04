@@ -1,0 +1,159 @@
+{
+    "journal": "JF",
+    "volume": "66",
+    "issue": "2",
+    "date": "April 2011",
+    "page": "Pages: i-v, 337-691",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "21 March 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01660.x"
+        },
+        {
+            "no": "2",
+            "title": "ANNOUNCEMENT OF 2010 SMITH BREEDEN AND BRATTLE GROUP PRIZES",
+            "date": "21 March 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01635.x"
+        },
+        {
+            "no": "3",
+            "title": "Bankruptcy and the Collateral Channel",
+            "date": "21 March 2011",
+            "author": [
+                "EFRAIM BENMELECH",
+                "NITTAI K. BERGMAN"
+            ],
+            "abstract": "Do bankrupt firms impose negative externalities on their nonbankrupt competitors? We propose and analyze a collateral channel in which a firm's bankruptcy reduces the collateral value of other industry participants, thereby increasing their cost of debt financing. We identify the collateral channel using novel data of secured debt tranches issued by U.S. airlines that include detailed descriptions of the underlying collateral pools. Our estimates suggest that industry bankruptcies have a sizeable impact on the cost of debt financing of other industry participants. We discuss how the collateral channel may lead to contagion effects that amplify the business cycle during industry downturns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01636.x"
+        },
+        {
+            "no": "4",
+            "title": "Public Information and Coordination: Evidence from a Credit Registry Expansion",
+            "date": "21 March 2011",
+            "author": [
+                "ANDREW HERTZBERG",
+                "JOS\u00c9 MAR\u00cdA LIBERTI",
+                "DANIEL PARAVISINI"
+            ],
+            "abstract": "This paper provides evidence that lenders to a firm close to distress have incentives to coordinate: lower financing by one lender reduces firm creditworthiness and causes other lenders to reduce financing. To isolate the coordination channel from lenders' joint reaction to new information, we exploit a natural experiment that forced lenders to share negative private assessments about their borrowers. We show that lenders, while learning nothing new about the firm, reduce credit in anticipation of other lenders' reaction to the negative news about the firm. The results show that public information exacerbates lender coordination and increases the incidence of firm financial distress.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01637.x"
+        },
+        {
+            "no": "5",
+            "title": "Security Issue Timing: What Do Managers Know, and When Do They Know It?",
+            "date": "21 March 2011",
+            "author": [
+                "DIRK JENTER",
+                "KATHARINA LEWELLEN",
+                "JEROLD B. WARNER"
+            ],
+            "abstract": "We study put option sales on company stock by large firms. An often\u2010cited motivation for these transactions is market timing, and managers' decision to issue puts should be sensitive to whether the stock is undervalued. We provide new evidence that large firms successfully time security sales. In the 100 days following put option issues, there is roughly a 5% abnormal stock return, with much of the abnormal return following the first earnings release date after the sale. Direct evidence on put option exercises reinforces these findings: exercise frequencies and payoffs to put holders are abnormally low.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01638.x"
+        },
+        {
+            "no": "6",
+            "title": "Private Equity and Long\u2010Run Investment: The Case of Innovation",
+            "date": "21 March 2011",
+            "author": [
+                "JOSH LERNER",
+                "MORTEN SORENSEN",
+                "PER STR\u00d6MBERG"
+            ],
+            "abstract": "A long\u2010standing controversy is whether leveraged buyouts (LBOs) relieve managers from short\u2010term pressures from public shareholders, or whether LBO funds themselves sacrifice long\u2010term growth to boost short\u2010term performance. We examine one form of long\u2010run activity, namely, investments in innovation as measured by patenting activity. Based on 472 LBO transactions, we find no evidence that LBOs sacrifice long\u2010term investments. LBO firm patents are more cited (a proxy for economic importance), show no shifts in the fundamental nature of the research, and become more concentrated in important areas of companies' innovative portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01639.x"
+        },
+        {
+            "no": "7",
+            "title": "Do Buyouts (Still) Create Value?",
+            "date": "21 March 2011",
+            "author": [
+                "SHOURUN GUO",
+                "EDITH S. HOTCHKISS",
+                "WEIHONG SONG"
+            ],
+            "abstract": "We examine how leveraged buyouts from the most recent wave of public to private transactions created value. Buyouts completed between 1990 and 2006 are more conservatively priced and less levered than their predecessors from the 1980s. For deals with post\u2010buyout data available, median market\u2010 and risk\u2010adjusted returns to pre\u2010 (post\u2010) buyout capital invested are 72.5% (40.9%). In contrast, gains in operating performance are either comparable to or slightly exceed those observed for benchmark firms. Increases in industry valuation multiples and realized tax benefits from increasing leverage, while private, are each economically as important as operating gains in explaining realized returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01640.x"
+        },
+        {
+            "no": "8",
+            "title": "The Joy of Giving or Assisted Living? Using Strategic Surveys to Separate Public Care Aversion from Bequest Motives",
+            "date": "21 March 2011",
+            "author": [
+                "JOHN AMERIKS",
+                "ANDREW CAPLIN",
+                "STEVEN LAUFER",
+                "STIJN VAN NIEUWERBURGH"
+            ],
+            "abstract": "The \u201cannuity puzzle,\u201d conveying the apparently low interest of retirees in longevity insurance, is central to household finance. Two possible explanations are \u201cpublic care aversion\u201d (PCA), retiree aversion to simultaneously running out of wealth and being in need of long\u2010term care, and an intentional bequest motive. To disentangle the relative importance of PCA and bequest motive, we estimate a structural model of the retirement phase using a novel survey instrument that includes hypothetical questions. We identify PCA as very significant and find bequest motives that spread deep into the middle class. Our results highlight potential interest in annuities that make allowance for long\u2010term care expenses.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01641.x"
+        },
+        {
+            "no": "9",
+            "title": "Corporate Governance, Product Market Competition, and Equity Prices",
+            "date": "21 March 2011",
+            "author": [
+                "XAVIER GIROUD",
+                "HOLGER M. MUELLER"
+            ],
+            "abstract": "This paper examines whether firms in noncompetitive industries benefit more from good governance than do firms in competitive industries. We find that weak governance firms have lower equity returns, worse operating performance, and lower firm value, but only in noncompetitive industries. When exploring the causes of the inefficiency, we find that weak governance firms have lower labor productivity and higher input costs, and make more value\u2010destroying acquisitions, but, again, only in noncompetitive industries. We also find that weak governance firms in noncompetitive industries are more likely to be targeted by activist hedge funds, suggesting that investors take actions to mitigate the inefficiency.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01642.x"
+        },
+        {
+            "no": "10",
+            "title": "The Interim Trading Skills of Institutional Investors",
+            "date": "21 March 2011",
+            "author": [
+                "ANDY PUCKETT",
+                "XUEMIN (STERLING) YAN"
+            ],
+            "abstract": "Using a large proprietary database of institutional trades, this paper examines the interim (intraquarter) trading skills of institutional investors. We find strong evidence that institutional investors earn significant abnormal returns on their trades within the trading quarter and that interim trading performance is persistent. After transactions costs, our estimates suggest that interim trading skills contribute between 20 and 26 basis points per year to the average fund's abnormal performance. Our findings also indicate that any trading skills documented by previous studies that use quarterly data are biased downwards because of their inability to account for interim trades.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01643.x"
+        },
+        {
+            "no": "11",
+            "title": "Institutional Trade Persistence and Long\u2010Term Equity Returns",
+            "date": "21 March 2011",
+            "author": [
+                "AMIL DASGUPTA",
+                "ANDREA PRAT",
+                "MICHELA VERARDO"
+            ],
+            "abstract": "Recent studies show that single\u2010quarter institutional herding positively predicts short\u2010term returns. Motivated by the theoretical herding literature, which emphasizes endogenous persistence in decisions over time, we estimate the effect of multiquarter institutional buying and selling on stock returns. Using both regression and portfolio tests, we find that persistent institutional trading negatively predicts long\u2010term returns: persistently sold stocks outperform persistently bought stocks at long horizons. The negative association between returns and institutional trade persistence is not subsumed by past returns or other stock characteristics, is concentrated among smaller stocks, and is stronger for stocks with higher institutional ownership.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01644.x"
+        },
+        {
+            "no": "12",
+            "title": "Local Dividend Clienteles",
+            "date": "21 March 2011",
+            "author": [
+                "BO BECKER",
+                "ZORAN IVKOVI\u0106",
+                "SCOTT WEISBENNER"
+            ],
+            "abstract": "We exploit demographic variation to identify the effect of dividend demand on corporate payout policy. Retail investors tend to hold local stocks and older investors prefer dividend\u2010paying stocks. Together, these tendencies generate geographically varying demand for dividends. Firms headquartered in areas in which seniors constitute a large fraction of the population are more likely to pay dividends, initiate dividends, and have higher dividend yields. We also provide indirect evidence as to why managers may respond to the demand for dividends from local seniors. Overall, these results are consistent with the notion that the investor base affects corporate policy choices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01645.x"
+        },
+        {
+            "no": "13",
+            "title": "MISCELLANEA",
+            "date": "21 March 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01646.x"
+        },
+        {
+            "no": "14",
+            "title": "Back Matter",
+            "date": "21 March 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01661.x"
+        }
+    ]
+}

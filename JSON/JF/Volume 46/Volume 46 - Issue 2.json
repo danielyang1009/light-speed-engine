@@ -1,0 +1,249 @@
+{
+    "journal": "JF",
+    "volume": "46",
+    "issue": "2",
+    "date": "June 1991",
+    "page": "Pages: i-vi, 469-802, vii-xxvii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00592.x"
+        },
+        {
+            "no": "2",
+            "title": "Foundations of Portfolio Theory",
+            "date": "June 1991",
+            "author": [
+                "HARRY M. MARKOWITZ"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02669.x"
+        },
+        {
+            "no": "3",
+            "title": "Leverage",
+            "date": "June 1991",
+            "author": [
+                "MERTON H. MILLER"
+            ],
+            "abstract": "Nobel Memorial Prize Lecture for presentation at the Royal Swedish Academy of Sciences in Stockholm, December 7, 1990. Helpful comments on an earlier draft were made by my colleagues Steven Kaplan and Robert Vishny.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02670.x"
+        },
+        {
+            "no": "4",
+            "title": "Capital Asset Prices with and without Negative Holdings",
+            "date": "June 1991",
+            "author": [
+                "WILLIAM F. SHARPE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02671.x"
+        },
+        {
+            "no": "5",
+            "title": "Using Generalized Method of Moments to Test Mean\u2010Variance Efficiency",
+            "date": "June 1991",
+            "author": [
+                "A. CRAIG MACKINLAY",
+                "MATTHEW P. RICHARDSON"
+            ],
+            "abstract": "This paper develops tests of unconditional mean\u2010variance efflciency under weak distributional assumptions using a Generalized Method of Moments framework. These tests are potentially more robust than commonly employed tests which rely on the assumption that asset returns are normally distributed and temporarily i.i.d. Using returns for size\u2010based portfolios from 1926 to 1988 we show that the conclusion concerning the mean\u2010variance effilciency of market indexes can be sensitive to the test considered.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02672.x"
+        },
+        {
+            "no": "6",
+            "title": "Financial Investment Opportunities and the Macroeconomy",
+            "date": "June 1991",
+            "author": [
+                "NAI\u2010FU CHEN"
+            ],
+            "abstract": "This paper studies the relation between changes in financial investment opportunities and changes in the macroeconomy. States variables such as the lagged production growth rate, the default premium, the term premium, the short\u2010term interest rate and the market dividend\u2010price ratio are shown to be indicators of recent and future economic growth. Further, the market excess return is negatively correlated with recent economic growth and positively correlated with expected future economic growth. These results offer straightforward interpretations of recent evidence on the forecasts of the market excess return by state variable via their forecasts on the macroeconomy.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02673.x"
+        },
+        {
+            "no": "7",
+            "title": "The Term Structure as a Predictor of Real Economic Activity",
+            "date": "June 1991",
+            "author": [
+                "ARTURO ESTRELLA",
+                "GIKAS A. HARDOUVELIS"
+            ],
+            "abstract": "A positive slope of the yield curve is associated with a future increase in real economic activity: consumption (nondurables plus services), consumer durables, and investment. It has extra predictive power over the index of leading indicators, real short\u2010term interest rates, lagged growth in economic activity, and lagged rates of inflation. It outperforms survey forecasts, both in\u2010sample and out\u2010of\u2010sample. Historically, the information in the slope reflected, inter alia, factors that were independent of monetary policy, and thus the slope could have provided useful information both to private investors and to policy makers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02674.x"
+        },
+        {
+            "no": "8",
+            "title": "An Exact Solution to a Dynamic Portfolio Choice Problem under Transactions Costs",
+            "date": "June 1991",
+            "author": [
+                "BERNARD DUMAS",
+                "ELISA LUCIANO"
+            ],
+            "abstract": "The presence of any friction in financial markets qualitatively changes the nature of the optimization problem faced by an investor. It requires one to either act or do nothing, an issue which, of course, does not arise in frictionless situations. The investor considered here accumulates wealth without consuming until some terminal point in time when he consumes all. His objective is to maximize the expected utility derived from that terminal consumption. We postpone the terminal point far into the future to obtain a stationary portfolio rule. The portfolio policy is in the form of two control barriers between which portfolio proportions are allowed to fluctuate. We show how to calculate them.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02675.x"
+        },
+        {
+            "no": "9",
+            "title": "The Default Risk of Swaps",
+            "date": "June 1991",
+            "author": [
+                "IAN A. COOPER",
+                "ANTONIO S. MELLO"
+            ],
+            "abstract": "We characterize the exchange of financial claims from risky swaps. These transfers are among three groups: shareholders, debtholders, and the swap counterparty. From this analysis we derive equilibrium swap rates and relate them to debt market spreads. We then show that equilibrium swaps in perfect markets transfer wealth from shareholders to debtholders. In a simplified case, we obtain closed\u2010form solutions for the value of the default risk in the swap. For interest\u2010rate swaps, we obtain numerical solutions for the equilibrium swap rate, including default risk. We compare these with equilibrium debt market default risk spreads.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02676.x"
+        },
+        {
+            "no": "10",
+            "title": "The Price Elasticity of Demand for Common Stock",
+            "date": "June 1991",
+            "author": [
+                "CLAUDIO LODERER",
+                "JOHN W. COONEY",
+                "LEONARD D. VAN DRUNEN"
+            ],
+            "abstract": "We study the price elasticity of demand for the common stock of an individual corporation. Despite the prevelance of assumptions that demand is perfectly elastic, there is little if any direct evidence in the literature to either support or reject that contention. Consistent with the notion of finite price elasticities, we find that the announcement of primary stock offerings by regulated firms depresses their stock prices and little if any evidence that this decline is the result of adverse information about future cash flows. Attempts to relate offer announcement effects directly to possible determinants of price elasticities, however, are inconclusive.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02677.x"
+        },
+        {
+            "no": "11",
+            "title": "The Mode of Acquisition in Takeovers: Taxes and Asymmetric Information",
+            "date": "June 1991",
+            "author": [
+                "DAVID T. BROWN",
+                "MICHAEL D. RYNGAERT"
+            ],
+            "abstract": "We develop a model in which the mode of acquisition conveys information concerning the value of the bidder. The model incorporates the possibility that offers containing both cash and stock can be made in a setting consistent with the U.S. tax code. We demonstrate that bidders with unfavorable private information about their equity value choose offers containing some stock to avoid the capital gains tax consequences of cash offers. The model yields a number of unique predictions about the construction of acquisition offers. We present evidence consistent with the model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02678.x"
+        },
+        {
+            "no": "12",
+            "title": "Corporate Performance, Corporate Takeovers, and Management Turnover",
+            "date": "June 1991",
+            "author": [
+                "KENNETH J. MARTIN",
+                "JOHN J. MCCONNELL"
+            ],
+            "abstract": "This paper examines the hypothesis that an important role of corporate takeovers is to discipline the top managers of poorly performing target firms. We document that the turnover rate for the top manager of target firms in tender offer\u2010takeovers significantly increases following completion of the takeover and that prior to the takeover these firms were significantly under\u2010performing other firms in their industry as well as other target firms which had no post\u2010takeover change in the top executive. We interpret the results to indicate that the takeover market plays an important role in controlling the nonvalue maximizing behavior of top corporate managers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02679.x"
+        },
+        {
+            "no": "13",
+            "title": "Event Risk: An Analysis of Losses to Bondholders and \u201cSuper Poison Put\u201d Bond Covenants",
+            "date": "June 1991",
+            "author": [
+                "LELAND CRABBE"
+            ],
+            "abstract": "Ten percent of the investment\u2010grade industrial bonds that were associated with major capital restructurings between 1983 and 1988 had already been downgraded to speculative grade as of August 1989. In response to these downgrades, and the corresponding wealth losses for bondholders, over 40 percent of recently issued investment\u2010grade industrial bonds are protected from this type of \u201cevent risk\u201d by virtue of specialized covenants. These event\u2010risk convenants may have initially reduced interest costs for borrowers by roughly 20 to 30 basis points. However, the magnitude of the effect appears to have declined along with the general decline in corporate restructurings.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02680.x"
+        },
+        {
+            "no": "14",
+            "title": "The Effects of Stock Repurchases on Rival Firms",
+            "date": "June 1991",
+            "author": [
+                "MICHAEL G. HERTZEL"
+            ],
+            "abstract": "This paper investigates the stock price behavior of rival firms in the same industry as firms announcing stock repurchase tender offers. Using a sample of 134 repurchase announcements, I find that rival firms on average realize insignificant announcement period abnormal returns. Negative rival stock price performance is detected over longer intervals surrounding the announcement period and for a subset of announcements which ex ante were identified as most likely to affect rivals. This evidence, however, is statistically weak and does little to alter the overall conclusion that the information in repurchase announcements is primarily firm\u2010specific.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02681.x"
+        },
+        {
+            "no": "15",
+            "title": "Animal Spirits, Margin Requirements, and Stock Price Volatility",
+            "date": "June 1991",
+            "author": [
+                "PAUL H. KUPIEC",
+                "STEVEN A. SHARPE"
+            ],
+            "abstract": "A simple overlapping generations model is used to characterize the effects of initial margin requirements on the volatility of risky asset prices. Investors are assumed to exhibit heterogeneous preferences for risk\u2010bearing, the distribution of which evolves stochastically across generations. This framework is used to show that imposing a binding initial margin requirement may either increase or decrease stock price volatility, depending upon the microeconomic structure behind fluctuations in economy\u2010wide average risk\u2010bearing propensity. The ambiguous effect on volatility similarly arises when the source of heterogeneity is noise trader beliefs.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02682.x"
+        },
+        {
+            "no": "16",
+            "title": "Inferring Trade Direction from Intraday Data",
+            "date": "June 1991",
+            "author": [
+                "CHARLES M. C. LEE",
+                "MARK J. READY"
+            ],
+            "abstract": "This paper evaluates alternative methods for classifying individual trades as market buy or market sell orders using intraday trade and quote data. We document two potential problems with quote\u2010based methods of trade classification: quotes may be recorded ahead of trades that triggered them, and trades inside the spread are not readily classifiable. These problems are analyzed in the context of the interaction between exchange floor agents. We then propose and test relatively simple procedures for improving trade classifications.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02683.x"
+        },
+        {
+            "no": "17",
+            "title": "The Reversal of Large Stock\u2010Price Decreases",
+            "date": "June 1991",
+            "author": [
+                "MARC BREMER",
+                "RICHARD J. SWEENEY"
+            ],
+            "abstract": "Extremely large negative 10\u2010day rates of return are followed on average by larger\u2010than\u2010expected positive rates of return over following days. This price adjustment lasts approximately 2 days and is observed in a sample of firms that is largely devoid of methodological problems that might explain the reversal phenomenon. While perhaps not representing abnormal profit opportunities, these reversals present a puzzle as to the length of the price adjustment period. Such a slow recovery is inconsistent with the notion that market prices quickly reflect relevant information.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02684.x"
+        },
+        {
+            "no": "18",
+            "title": "An Examination of Ex\u2010Dividend Day Stock Price Movements: The Case of Nontaxable Master Limited Partnership Distributions",
+            "date": "June 1991",
+            "author": [
+                "WAYNE H. SHAW"
+            ],
+            "abstract": "This study examines the unit (stock) price and volume behavior of master limited partnerships (MLP) around the ex\u2010dividend day. Since the dividends of MLPs are not taxable to the unitholder, tax based hypotheses predict no abnormal unit movements around the ex\u2010day. Significant positive excess returns and volume are found before the ex\u2010dividend day, and significant negative excess returns are found on the ex\u2010dividend day. The findings which are not significantly impacted by the Tax Reform Act of 1986 suggest ex\u2010day stock movements are not solely a function of investor marginal tax rates or corporate trading behavior.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02685.x"
+        },
+        {
+            "no": "19",
+            "title": "A Variance\u2010Ratio Test of Random Walks in Foreign Exchange Rates",
+            "date": "June 1991",
+            "author": [
+                "CHRISTINA Y. LIU",
+                "JIA HE"
+            ],
+            "abstract": "The separate variance\u2010ratio tests under homoscedasticity and heteroscedasticity both provide evidence rejecting the random walk hypothesis, using five pairs of weekly nominal exchange rate series over the period from August 7, 1974 to March 29, 1989. The rejections cast doubt on the random walk hypothesis in exchange rates, which has received support in the existing literature. Furthermore, since the rejections are robust to heteroscedasticity, they suggest autocorelations of weekly increments in the nominal exchange rate series, which may be consistent with the exchange rate overshooting or undershooting phenomenon.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02686.x"
+        },
+        {
+            "no": "20",
+            "title": "Book Reviews",
+            "date": "June 1991",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nA Bibliography of Finance. By RICHARD BREALEY and HELEN EDWARDS. Cambridge, MA: The MIT Press, 1991. Pp. xli + 822.\nModern Corporate Finance. By ALAN C. SHAPIRO. New York, NY: Macmillan Publishing Company, 1990. Pp. xxvi + 1045.\nOptions: An Introduction. By ROBERT W. KOLB. Miami, FL: Kolb Publishing Co., 1991. Pp. viii + 216.\nThe Separation of Commercial and Investment Banking: The Glass\u2010Steagall Act Revisited and Reconsidered. By GEORGE J. BENSTON. Oxford: Oxford University Press, 1990. Pp. x + 263.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02687.x"
+        },
+        {
+            "no": "21",
+            "title": "MISCELLANEA",
+            "date": "June 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02688.x"
+        },
+        {
+            "no": "22",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02667.x"
+        },
+        {
+            "no": "23",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb02668.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "June 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00593.x"
+        }
+    ]
+}

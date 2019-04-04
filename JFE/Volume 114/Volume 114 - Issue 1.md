@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Macroeconomic risk and hedge fund returns
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Turan G. Bali
 - Stephen J. Brown
 - Mustafa O. Caglayan
@@ -26,7 +26,7 @@ This paper estimates hedge fund and mutual fund exposure to newly proposed measu
 ## 3. News-driven return reversals: Liquidity provision ahead of earnings announcements
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Eric C. So
 - Sean Wang
 ### Abstract
@@ -37,7 +37,7 @@ This study documents a six-fold increase in short-term return reversals during e
 ## 4. Price informativeness and stock return synchronicity: Evidence from the pricing of seasoned equity offerings
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Kalok Chan
 - Yue-Cheong Chan
 ### Abstract
@@ -48,7 +48,7 @@ We investigate what stock return synchronicity reflects in terms of price inform
 ## 5. The death of the deal: Are withdrawn acquisition deals informative of CEO quality?
 ### Date
 - May 2014
-### Authors
+### Author
 - Stacey Jacobsen
 ### Abstract
 To examine the market response to positive revelations of chief executive officer (CEO) quality, this study focuses on CEOs who withdraw acquisition bids when the price becomes increasingly expensive. Firms that withdrawal for price-related reasons earn higher withdrawal returns than firms that withdraw for other reasons. This relation is stronger when CEO uncertainty and discretion is high. CEOs unwilling to increase the offer price are less likely to be replaced and more likely to advance to a larger firm than a control group of CEOs. The finding that the market attaches value to CEO-specific information suggests that unobservable manager characteristics can meaningfully impact firm outcomes.
@@ -58,7 +58,7 @@ To examine the market response to positive revelations of chief executive office
 ## 6. On the systematic volatility of unpriced earnings
 ### Date
 - May 2014
-### Authors
+### Author
 - Timothy C. Johnson
 - Jaehoon Lee
 ### Abstract
@@ -69,7 +69,7 @@ Some important puzzles in macro finance can be resolved in a model featuring sys
 ## 7. What do firms do when dividend tax rates change? An examination of alternative payout responses
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Michelle Hanlon
 - Jeffrey L. Hoopes
 ### Abstract
@@ -80,7 +80,7 @@ This paper investigates whether investor-level taxes affect corporate payout pol
 ## 8. Financial expert CEOs: CEO׳s work experience and firm׳s financial policies
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Cláudia Custódio
 - Daniel Metzger
 ### Abstract
@@ -91,7 +91,7 @@ We study CEOs with a career background in finance. Firms with financial expert C
 ## 9. The determinants of recovery rates in the US corporate bond market
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Rainer Jankowitsch
 - Florian Nagler
 - Marti G. Subrahmanyam
@@ -103,7 +103,7 @@ We examine recovery rates of defaulted bonds in the US corporate bond market, ba
 ## 10. Does PIN affect equity prices around the world?
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Sandy Lai
 - Lilian Ng
 - Bohui Zhang

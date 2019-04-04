@@ -1,0 +1,205 @@
+{
+    "journal": "JF",
+    "volume": "51",
+    "issue": "2",
+    "date": "June 1996",
+    "page": "Pages: i-vii, 385-786, viii-xxiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1996",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb00294.x"
+        },
+        {
+            "no": "2",
+            "title": "On the Predictability of Stock Returns: An Asset\u2010Allocation Perspective",
+            "date": "June 1996",
+            "author": [
+                "SHMUEL KANDEL",
+                "ROBERT F. STAMBAUGH"
+            ],
+            "abstract": "Sample evidence about the predictability of monthly stock returns is considered from the perspective of a risk\u2010averse Bayesian investor who must allocate funds between stocks and cash. The investor uses the sample evidence to update prior beliefs about the parameters in a regression of stock returns on a set of predictive variables. The regression relation can seem weak when described by usual statistical measures, but the current values of the predictive variables can exert a substantial influence on the investor's portfolio decision, even when the investor's prior beliefs are weighted against predictability.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02689.x"
+        },
+        {
+            "no": "3",
+            "title": "Measuring Fund Strategy and Performance in Changing Economic Conditions",
+            "date": "June 1996",
+            "author": [
+                "WAYNE E. FERSON",
+                "RUDI W. SCHADT"
+            ],
+            "abstract": "The use of predetermined variables to represent public information and time\u2010variation has produced new insights about asset pricing models, but the literature on mutual fund performance has not exploited these insights. This paper advocates conditional performance evaluation in which the relevant expectations are conditioned on public information variables. We modify several classical performance measures to this end and find that the predetermined variables are both statistically and economically significant. Conditioning on public information controls for biases in traditional market timing models and makes the average performance of the mutual funds in our sample look better.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02690.x"
+        },
+        {
+            "no": "4",
+            "title": "Oil and the Stock Markets",
+            "date": "June 1996",
+            "author": [
+                "CHARLES M. JONES",
+                "GAUTAM KAUL"
+            ],
+            "abstract": "We test whether the reaction of international stock markets to oil shocks can be justified by current and future changes in real cash flows and/or changes in expected returns. We find that in the postwar period, the reaction of United States and Canadian stock prices to oil shocks can be completely accounted for by the impact of these shocks on real cash flows alone. In contrast, in both the United Kingdom and Japan, innovations in oil prices appear to cause larger changes in stock prices than can be justified by subsequent changes in real cash flows or by changing expected returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02691.x"
+        },
+        {
+            "no": "5",
+            "title": "Special Repo Rates",
+            "date": "June 1996",
+            "author": [
+                "DARRELL DUFFIE"
+            ],
+            "abstract": "This article provides the causes and symptoms of special repo rates in a competitive market for repurchase agreements. A repo rate is, in effect, an interest rate on loans collateralized by a specific instrument. A \u201cspecial\u201d is a repo rate significantly below prevailing market riskless interest rates. This article shows that specials can occur when those owning the collateral are inhibited, whether from legal or institutional requirements or from frictional costs, from supplying collateral into repurchase agreements. Specialness increases the equilibrium price for the underlying instrument by the present value of savings in borrowing costs associated with the repo specials.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02692.x"
+        },
+        {
+            "no": "6",
+            "title": "Idiosyncratic Variation of Treasury Bill Yields",
+            "date": "June 1996",
+            "author": [
+                "GREGORY R. DUFFEE"
+            ],
+            "abstract": "I document a dramatic increase in the importance of two types of variation in Treasury bill yields beginning in the early 1980s. The first is idiosyncratic variation in individual short\u2010maturity (less than three months) bill yields. The second is a common component in Treasury bill yields that is not shared by yields on other instruments, such as short\u2010maturity privately\u2010issued instruments or longer\u2010maturity Treasury notes and bonds. Some evidence suggests the first type reflects increased market segmentation. These results have important implications for the calibration and testing of no\u2010arbitrage term structure models and interpreting tests of the expectations hypothesis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02693.x"
+        },
+        {
+            "no": "7",
+            "title": "Non\u2010Fundamental Speculation",
+            "date": "June 1996",
+            "author": [
+                "VICENTE MADRIGAL"
+            ],
+            "abstract": "We study an intertemporal asset market where insiders coexist with \u201cnon\u2010fundamental\u201d speculators. Non\u2010fundamental speculators possess no private information on fundamental values of assets, but have superior knowledge about some aspect of the market environment. We show that the entry of these (rational) speculators can lead to reductions in market liquidity and in the information content of prices, even in an efficient market. Also, equilibrium trades display patterns of empirical interest. For example, speculators appear to chase trends and lose money after market \u201coverreactions,\u201d while insiders trade as contrarians and profit after such overreactions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02694.x"
+        },
+        {
+            "no": "8",
+            "title": "Transparency and Liquidity: A Comparison of Auction and Dealer Markets with Informed Trading",
+            "date": "June 1996",
+            "author": [
+                "MARCO PAGANO",
+                "AILSA R\u00d6ELL"
+            ],
+            "abstract": "Trading systems differ in their degree of transparency, here defined as the extent to which market makers can observe the size and direction of the current order flow. We investigate whether greater transparency enhances market liquidity by reducing the opportunities for taking advantage of uninformed participants. We compare the price formation process in several stylized trading systems with different degrees of transparency: various types of auction markets and a stylized dealer market. We find that greater transparency generates lower trading costs for uninformed traders on average, although not necessarily for every size of trade.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02695.x"
+        },
+        {
+            "no": "9",
+            "title": "Call and Continuous Trading Mechanisms Under Asymmetric Information: An Experimental Investigation",
+            "date": "June 1996",
+            "author": [
+                "CHARLES R. SCHNITZLEIN"
+            ],
+            "abstract": "I examine the relative performance of call and continuous auctions under asymmetric information by manipulating trading rules and information sets in laboratory asset markets. I find significant differences in an environment that extends the Kyle (1985) framework to permit the exogenous liquidity trading motive to have a natural economic interpretation. The adverse selection costs incurred by noise traders are significantly lower under the call auction, despite no significant reduction in average price efficiency. This result suggests that discussions of the costs and benefits of insider trading should take place within the context of a specific trading mechanism.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02696.x"
+        },
+        {
+            "no": "10",
+            "title": "Asymmetric Information, Managerial Opportunism, Financing, and Payout Policies",
+            "date": "June 1996",
+            "author": [
+                "THOMAS H. NOE",
+                "MICHAEL J. REBELLO"
+            ],
+            "abstract": "We examine corporate issuance and payout policies in the presence of both adverse selection (in capital markets) and managerial opportunism. Our results establish the importance of the locus of decision control in the firm. When shareholders determine policies, debt financing is always optimal in the presence of either adverse selection or managerial opportunism. However, when both of these problems are simultaneously present, equity issuance can become an optimal signaling mechanism. Shareholders' most preferred signaling mechanism is restricting dividends, followed by equity financing, and finally underpricing securities. When managers determine policies, a reversed hierarchy may be obtained.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02697.x"
+        },
+        {
+            "no": "11",
+            "title": "Dividends and Profits: Some Unsubtle Foreign Influences",
+            "date": "June 1996",
+            "author": [
+                "JAMES R. HINES JR."
+            ],
+            "abstract": "American corporations earn a significant share of their profits from foreign sources, out of which they appear to pay dividends at rates that are three times higher than their payout rates from domestic profits. Why firms do so is unclear, although this behavior is consistent with the use of dividends to signal profitability. This payout behavior implies that a significant part of the U.S. tax revenue generated by the foreign profits of U.S. corporations arises through the taxation of dividends received by individuals, and that the cost of capital may be higher for foreign than for domestic operations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02698.x"
+        },
+        {
+            "no": "12",
+            "title": "A Theory of Corporate Scope and Financial Structure",
+            "date": "June 1996",
+            "author": [
+                "DAVID D. LI",
+                "SHAN LI"
+            ],
+            "abstract": "We simultaneously address three basic issues regarding the corporation: the optimal scope of operation, the optimal financial structure, and the relationship between these two. The starting point is that financial structure serves as a bonding device on the managers' self\u2010interest behavior. The effectiveness of this bonding depends on the distribution of the firm's future cash flow, which in turn depends on the firm's scope. Our theory also links the firm's investment decisions to its operation scope. As empirical implications, the theory reconciles the failure of the 1960s U.S. conglomerates with the success of the Japanese Keiretsu.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02699.x"
+        },
+        {
+            "no": "13",
+            "title": "Bank Debt Restructurings and the Composition of Exchange Offers in Financial Distress",
+            "date": "June 1996",
+            "author": [
+                "CHRISTOPHER JAMES"
+            ],
+            "abstract": "This article examines the relation between bank debt forgiveness and the structure of public debt exchange offers in financial distress. I find that the structure of exchange offers and the likelihood of an offer's success are significantly related to whether the bank participates in the restructuring transaction. Exchange offers made in conjunction with bank concessions are characterized by significantly greater reductions in public debt outstanding and significantly less senior debt offered to bondholders. Overall, the results suggest that the structure of a firm's public and private claims significantly affects the firm's ability to modify its capital structure in financial distress.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02700.x"
+        },
+        {
+            "no": "14",
+            "title": "An Empirical Investigation of Short\u2010Selling Activity Prior to Seasoned Equity Offerings",
+            "date": "June 1996",
+            "author": [
+                "ASSEM SAFIEDDINE",
+                "WILLIAM J. WILHELM JR."
+            ],
+            "abstract": "We investigate the nature and magnitude of short\u2010selling activity around seasoned equity offerings, the relation between short\u2010selling activity and issue discounts, and the consequences of the Securities and Exchange Commission (SEC's) adoption of Rule 10b\u201021 in response to concerns about manipulative short\u2010selling practices. Seasoned offerings are characterized by abnormally high levels of short selling and option open interest. Higher levels of such activity are related to lower expected proceeds from the issuance of new shares. Where it could not be circumvented, Rule 10b\u201021 appears to have curbed short\u2010selling activity and reduced issue discounts.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02701.x"
+        },
+        {
+            "no": "15",
+            "title": "Robust Structure Without Predictability: The \u201cCompass Rose\u201d Pattern of the Stock Market",
+            "date": "June 1996",
+            "author": [
+                "TIMOTHY FALCON CRACK",
+                "OLIVIER LEDOIT"
+            ],
+            "abstract": "Plotting daily stock returns against themselves with one day's lag reveals a striking pattern. Evenly spaced lines radiate from the origin; the thickest lines point in the major directions of the compass. This \u201ccompass rose\u201d pattern appears in every stock. It is caused by discreteness. However, counter\u2010examples demonstrate that the existence of exchange\u2010imposed tick sizes (e.g. eighths) is neither necessary nor sufficient for the compass rose. The compass rose cannot be used to make abnormal profits: it is structure without predictability. Among other consequences, the compass rose may bias estimation of ARCH models, and tests for chaos.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02702.x"
+        },
+        {
+            "no": "16",
+            "title": "Book Reviews",
+            "date": "June 1996",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nInvestments: A Visual Approach: Volume 1: Modern Portfolio Theory (text) and CAPM Tutor (software). By JOHN O'BRIEN and SANJAY SRIVASTAVA.\nInternational Financial Markets and the Firm. By PIET SERCU and RAMAN UPPAL.\nFinance Theory and Asset Pricing. By FRANK MILNE.\nMarket Microstructure Theory. By MAUREEN O'HARA.\nCorporate Governance. By ROBERT MONKS and NELLS MINOW.\nPension Schemes and Pension Funds in the United Kingdom. By DAVID BLAKE.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02703.x"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "June 1996",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02704.x"
+        },
+        {
+            "no": "18",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1996",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02705.x"
+        },
+        {
+            "no": "19",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1996",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb02706.x"
+        },
+        {
+            "no": "20",
+            "title": "Back Matter",
+            "date": "June 1996",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1996.tb00295.x"
+        }
+    ]
+}

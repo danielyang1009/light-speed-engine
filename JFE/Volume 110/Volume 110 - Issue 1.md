@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The role of the media in corporate governance: Do the media influence managers' capital allocation decisions?
 ### Date
 - Jun 2013
-### Authors
+### Author
 - Baixiao Liu
 - John J. McConnell
 ### Abstract
@@ -25,7 +25,7 @@ Using 636 large acquisition attempts that are accompanied by a negative stock pr
 ## 3. Does the director labor market offer ex post settling-up for CEOs? The case of acquisitions
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Jarrad Harford
 - Robert J. Schonlau
 ### Abstract
@@ -36,7 +36,7 @@ We examine the rewards for experience and ability in the director labor market. 
 ## 4. Directors' and officers' liability insurance and loan spreads
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Chen Lin
 - Micah S. Officer
 - Rui Wang
@@ -49,7 +49,7 @@ We analyze the effect of directors' and officers' liability insurance (D&O insur
 ## 5. Are small firms less vulnerable to overpriced stock offers?
 ### Date
 - May 2013
-### Authors
+### Author
 - Anand M. Vijh
 - Ke Yang
 ### Abstract
@@ -60,7 +60,7 @@ We show an inverted-U relation between targetiveness (probability of being targe
 ## 6. Corporate social responsibility and stakeholder value maximization: Evidence from mergers
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Xin Deng
 - Jun-koo Kang
 - Buen Sin Low
@@ -72,7 +72,7 @@ Using a large sample of mergers in the US, we examine whether corporate social r
 ## 7. Pricing the term structure with linear regressions
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Tobias Adrian
 - Richard K. Crump
 - Emanuel Moench
@@ -84,7 +84,7 @@ We show how to price the time series and cross section of the term structure of 
 ## 8. Predictability of currency carry trades and asset pricing implications
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Gurdip Bakshi
 - George Panayotov
 ### Abstract
@@ -95,7 +95,7 @@ This paper studies the time series predictability of currency carry trades, cons
 ## 9. Investment shocks and the commodity basis spread
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Fan Yang
 ### Abstract
 I identify a “slope” factor in the cross section of commodity futures returns: high-basis commodity futures have higher loadings on this factor than low-basis commodity futures. Combined with a level factor (an index of commodity futures), this slope factor explains most of the average excess returns of commodity futures portfolios sorted by basis. More importantly, I find that this factor is significantly correlated with investment shocks, which represent the technological progress in producing new capital. I investigate a competitive dynamic equilibrium model of commodity production to endogenize this correlation. The model reproduces the cross-sectional futures returns and many asset pricing tests.
@@ -105,7 +105,7 @@ I identify a “slope” factor in the cross section of commodity futures return
 ## 10. Supply uncertainty of the bond investor base and the leverage of the firm
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Massimo Massa
 - Ayako Yasuda
 - Lei Zhang
@@ -117,7 +117,7 @@ We examine the effect of the bond capital supply uncertainty of institutional in
 ## 11. Asset management and investment banking
 ### Date
 - May 2013
-### Authors
+### Author
 - Janis Berzins
 - Crocker H. Liu
 - Charles Trzcinka
@@ -129,7 +129,7 @@ We find evidence that conflicts of interest are pervasive in the asset managemen
 ## 12. Brand perception, cash flow stability, and financial policy
 ### Date
 - May 2013
-### Authors
+### Author
 - Yelena Larkin
 ### Abstract
 This paper demonstrates that intangible assets play an important role in financial policy. Using a proprietary database of consumer brand evaluation, I show that positive consumer attitude toward a firm's products alleviates financial frictions and provides additional net debt capacity, as measured by higher leverage and lower cash holdings. Brand perception affects financial policy through reducing overall firm riskiness, as strong consumer evaluations translate into lower future cash flow volatility as well as higher credit ratings for potentially volatile firms. The impact of brand is stronger among small firms, contradicting a number of reverse causality and omitted variables explanations.
@@ -139,7 +139,7 @@ This paper demonstrates that intangible assets play an important role in financi
 ## 13. Allocation of decision rights and the investment strategy of mutual funds
 ### Date
 - Jun 2013
-### Authors
+### Author
 - Nishant Dass
 - Vikram Nanda
 - Qinghai Wang

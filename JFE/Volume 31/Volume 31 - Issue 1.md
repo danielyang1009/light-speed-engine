@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - 1992
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - 1992
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -29,7 +29,7 @@
 ## 3. State intervention in the market for corporate control
 ### Date
 - 1992
-### Authors
+### Author
 - Samuel H. Szewczyk
 - George P. Tsetsekos
 ### Abstract
@@ -40,7 +40,7 @@ This study investigates the impact of Pennsylvania Senate Bill 1310 on the share
 ## 4. Contract costs, bank loans, and the cross-monitoring hypothesis
 ### Date
 - 1992
-### Authors
+### Author
 - James R. Booth
 ### Abstract
 I examine whether monitoring-related contract costs are reflected in bank loan spreads and find evidence that cross-monitoring by senior and subordinate claimholders is associated with smaller spreads. I also find that loan spreads reflect financial contract costs of controlling borrower behavior toward the assets being financed. These results support the importance of contract costs in firms' financing decisions and provide evidence of the importance of monitoring in bank lending arrangements.
@@ -50,7 +50,7 @@ I examine whether monitoring-related contract costs are reflected in bank loan s
 ## 5. Market volatility prediction and the efficiency of the S & P 100 index option market
 ### Date
 - 1992
-### Authors
+### Author
 - Campbell R. Harvey
 - Robert E. Whaley
 ### Abstract
@@ -61,7 +61,7 @@ Most models of market volatility use either past returns or ex post volatility t
 ## 6. The relation between the Value Line enigma and post-earnings-announcement drift
 ### Date
 - 1992
-### Authors
+### Author
 - John Affleck-Graves
 - Richard R. Mendenhall
 ### Abstract
@@ -72,7 +72,7 @@ We investigate the relation between the Value Line enigma and post-earnings-anno
 ## 7. The monotonicity of the term premium
 ### Date
 - 1992
-### Authors
+### Author
 - Matthew Richardson
 - Paul Richardson
 - Tom Smith
@@ -84,7 +84,7 @@ This paper reexamines existing evidence regarding the monotonicity of the term p
 ## 8. Regulation, competition, and abnormal returns in the market for failed thrifts
 ### Date
 - 1992
-### Authors
+### Author
 - Sheldon D. Baibirer
 - G.Donald Jud
 - Frederick W. Lindahl

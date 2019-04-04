@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -19,7 +19,7 @@
 ## 2. A Bayesian approach to testing portfolio efficiency
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Jay Shanken
 ### Abstract
 This paper develops a Bayesian test of portfolio efficiency and derives a computationally convenient posterior-odds ratio. The analysis indicates that significance levels higher than the traditional 0.05 level are recommended for many test situations. In an example from the literature, the classical test fails to reject with p-value 0.082, yet the odds are nearly two to one against efficiency under apparently reasonable assumptions. Procedures for testing approximate efficiency and for aggregating subperiod results are also considered.
@@ -29,7 +29,7 @@ This paper develops a Bayesian test of portfolio efficiency and derives a comput
 ## 3. Some evidence on the uniqueness of bank loans
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Christopher James
 ### Abstract
 This paper presents evidence that banks provide some special service with their lending activity that is not available from other lenders. I find evidence that bank borrowers, not CD holders, bear the cost of reserve requirements on CDs. In addition, I find a positive stock price response to the announcement of new bank credit agreements that is larger than the stock price response associated with announcements of private placements or public straight debt offerings. Finally, I find significantly negative returns for announcements of private placements and straight debt issues used to repay bank loans.
@@ -39,7 +39,7 @@ This paper presents evidence that banks provide some special service with their 
 ## 4. The effect of large block transactions on security prices: A cross-sectional analysis
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Robert W. Holthausen
 - Richard W. Leftwich
 - David Mayers
@@ -51,7 +51,7 @@ This paper documents the effects of large (block) transactions on the prices of 
 ## 5. The costs of going public
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Jay R. Ritter
 ### Abstract
 This paper presents evidence regarding the two quantifiable components of the costs of going public: direct expenses and underpricing. Together, these costs average 21.22% of the realized market value of the securities issued for firm commitment offers and 31.87% for best efforts offers. For a given size offer, the direct expenses are of the same order of magnitude for both contract types, but the underpricing is greater for best efforts offers. An explanation of why some firms choose to use best efforts offers in spite of their apparent higher total costs is given.
@@ -61,7 +61,7 @@ This paper presents evidence regarding the two quantifiable components of the co
 ## 6. Two-tier and negotiated tender offers: The imprisonment of the free-riding shareholder
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Robert Comment
 - Gregg A. Jarrell
 ### Abstract
@@ -72,7 +72,7 @@ We measure the differential effects on shareholder wealth and tendering behavior
 ## 7. Voluntary corporate liquidations
 ### Date
 - Dec 1987
-### Authors
+### Author
 - E.Han Kim
 - John D. Schatzberg
 ### Abstract
@@ -83,7 +83,7 @@ This paper examines possible motives for and consequences of voluntary corporate
 ## 8. Target abnormal returns associated with acquisition announcements: Payment, acquisition form, and managerial resistance
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Yen-Sheng Huang
 - Ralph A. Walkling
 ### Abstract
@@ -94,7 +94,7 @@ Abnormal returns earned by target firms at the time of initial acquisition annou
 ## 9. Option values under stochastic volatility: Theory and empirical estimates
 ### Date
 - Dec 1987
-### Authors
+### Author
 - James B. Wiggins
 ### Abstract
 This paper numerically solves the call option valuation problem given a fairly general continuous stochastic process for return volatility. Statistical estimators for volatility process parameters are derived, and parameter estimates are calculated for several individual stocks and indices. The resulting estimated option values do not differ dramatically from Black-Scholes values in most cases, although there is some evidence that for longer-maturity index options, Black-Scholes overvalues out-of-the-money calls in relation to in-the-money calls.
@@ -104,7 +104,7 @@ This paper numerically solves the call option valuation problem given a fairly g
 ## 10. Semi-parametric upper bounds for option prices and expected payoffs
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Andrew W. Lo
 ### Abstract
 Upper bounds on the expected payoff of call and put options are derived. These bounds depend only on the mean and variance of the terminal stock price and not on its entire distribution, so they are termed semi-parametric. A corollary of this result is a set of upper bounds for option prices obtained by the risk-neutral valuation approach of Cox and Ross. As an example, these bounds are shown to obtain across both lognormal diffusions and mixed diffusion-jump processes for any given data set. We present an illustrative example that suggests these bounds may be of considerable practical value.
@@ -114,7 +114,7 @@ Upper bounds on the expected payoff of call and put options are derived. These b
 ## 11. Subperiod aggregation and the power of multivariate tests of portfolio efficiency
 ### Date
 - Dec 1987
-### Authors
+### Author
 - Michael R. Gibbons
 - Jay Shanken
 ### Abstract
@@ -125,7 +125,7 @@ When testing portfolio efficiency, empiricists usually perform tests using subpe
 ## 12. Editorial collaborators
 ### Date
 - Dec 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -134,7 +134,7 @@ When testing portfolio efficiency, empiricists usually perform tests using subpe
 ## 13. Index
 ### Date
 - Dec 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link

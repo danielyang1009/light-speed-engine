@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1977
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Alternative methods for raising capital
 ### Date
 - Dec 1977
-### Authors
+### Author
 - Clifford W. Smith
 ### Abstract
 This paper provides an analysis of the choice of method for raising additional equity capital by listed firms. Examination of expenses reported to the SEC indicates that rights offerings involve significantly lower costs; yet underwriter are employed in over 90 percent of the offerings. The underwriting industry, finance textbooks, and corporate proxy statements offer several justifications for the use of underwriters. However, estimates of the magnitudes of these arguments indicate that they are insufficient to justify the additional costs of the use of underwriters. The use of underwriters thus appears to be inconsistent with rational, wealth-maximizing behavior by the owners of the firm. The paper concludes with an examination of alternate explanations of the observed choice of financing method.
@@ -25,7 +25,7 @@ This paper provides an analysis of the choice of method for raising additional e
 ## 3. Estimating betas from nonsynchronous data
 ### Date
 - Dec 1977
-### Authors
+### Author
 - Myron Scholes
 - Joseph Williams
 ### Abstract
@@ -36,7 +36,7 @@ Nonsynchronous trading of securities introduces into the market model a potentia
 ## 4. The effect of a rating change announcement on bond price
 ### Date
 - Dec 1977
-### Authors
+### Author
 - Mark I. Weinstein
 ### Abstract
 This paper examines the behavior of corporate bond prices during the period surrounding the announcement of a rating change. We find some evidence of price change during the period from 18 to 7 months before the rating change is announced. We find no evidence of any reaction during the 6 months prior to the rating change. We also find little reaction, if any, during the month of the change or for 6 months after the change. This evidence contradicts the recent findings of Katz and Grier and Katz.
@@ -46,7 +46,7 @@ This paper examines the behavior of corporate bond prices during the period surr
 ## 5. Tender offers and stockholder returns
 ### Date
 - Dec 1977
-### Authors
+### Author
 - Peter Dodd
 - Richard Ruback
 ### Abstract
@@ -57,7 +57,7 @@ This paper provides empirical estimates of the stock market reaction to tender o
 ## 6. The impact of variance estimation in option valuation models
 ### Date
 - Dec 1977
-### Authors
+### Author
 - Phelim P. Boyle
 - A.L. Ananthanarayanan
 ### Abstract
@@ -68,7 +68,7 @@ This paper examines some implications of using an estimate of the variance in op
 ## 7. An autoregressive jump process for common stock returns
 ### Date
 - Dec 1977
-### Authors
+### Author
 - George S. Oldfield
 - Richard J. Rogalski
 - Robert A. Jarrow
@@ -80,7 +80,7 @@ This paper develops a new distribution theory for common stock returns. The mode
 ## 8. Taxes, transactions costs and the clientele effect of dividends
 ### Date
 - Dec 1977
-### Authors
+### Author
 - R.Richardson Pettit
 ### Abstract
 This paper is an empirical investigation into the extent to which transactions costs and taxes influence individual investors' portfolios. Using actual portfolio and demoraphic data made available by the Individual Investor Research Project at Purdue University, this study finds evidence of a significant dividend clientele effect. Reasonable proxy variables used to measure time preferences and tax rates in part explain the cross sectional variability of investors' portfolio dividend yields. The variables that are most important in influencing the individual's dividend decision are age, and a measure of the investor's differential tax rate on dividends and capital gains.
@@ -90,7 +90,7 @@ This paper is an empirical investigation into the extent to which transactions c
 ## 9. Editorial collaborators
 ### Date
 - Dec 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -99,7 +99,7 @@ This paper is an empirical investigation into the extent to which transactions c
 ## 10. European finance association
 ### Date
 - Dec 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -108,7 +108,7 @@ This paper is an empirical investigation into the extent to which transactions c
 ## 11. Index
 ### Date
 - Dec 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link

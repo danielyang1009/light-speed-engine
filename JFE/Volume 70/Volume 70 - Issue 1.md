@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The choice among bank debt, non-bank private debt, and public debt: evidence from new corporate borrowings
 ### Date
 - Oct 2003
-### Authors
+### Author
 - David J Denis
 - Vassil T Mihov
 ### Abstract
@@ -25,7 +25,7 @@ Using a sample of 1,560 new debt financings, we examine the choice among bank de
 ## 3. The calendar structure of risk and expected returns on stocks and bonds
 ### Date
 - Oct 2003
-### Authors
+### Author
 - Joseph P. Ogden
 ### Abstract
 This paper documents, for 1947–2000, seasonalities in economic activity, stock and bond returns, and relationships among them. Evidence is consistent with an annual cycle view of economic activity and risk conditions. The power of lagged stock returns to forecast economic activity is greater for quarters ending in December and March. Mean excess returns on NYSE stocks in October through March account for 78–107% of their annual means and reflect a seasonal asymmetric return reversal tendency, which in turn explains low long-horizon variance ratios. Both market losses in April through September and subsequent returns in October through March are related, but with opposing signs, to October through March economic activity. The forecasting power of five variables is greatest for October through March. Tests of an asset-pricing model indicate that expected returns vary both cross-sectionally and over time. Implications for the debate between efficient markets and behavioral finance are discussed.
@@ -35,7 +35,7 @@ This paper documents, for 1947–2000, seasonalities in economic activity, stock
 ## 4. Divisional diversity and the conglomerate discount: evidence from spinoffs
 ### Date
 - Oct 2003
-### Authors
+### Author
 - Timothy R. Burch
 - Vikram Nanda
 ### Abstract
@@ -46,7 +46,7 @@ Existing literature argues that disparity in investment opportunities within div
 ## 5. Institutional trading and alternative trading systems
 ### Date
 - Oct 2003
-### Authors
+### Author
 - Jennifer Conrad
 - Kevin M. Johnson
 - Sunil Wahal

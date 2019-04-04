@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The risk and return of venture capital
 ### Date
 - Mar 2004
-### Authors
+### Author
 - John H. Cochrane
 ### Abstract
 This paper measures the mean, standard deviation, alpha, and beta of venture capital investments, using a maximum likelihood estimate that corrects for selection bias. The bias-corrected estimation neatly accounts for log returns. It reduces the estimate of the mean log return from 108% to 15%, and of the log market model intercept from 92% to
@@ -28,7 +28,7 @@ This paper measures the mean, standard deviation, alpha, and beta of venture cap
 ## 3. Accounting transparency and the term structure of credit spreads
 ### Date
 - Jul 2004
-### Authors
+### Author
 - Fan Yu
 ### Abstract
 Theory predicts that the quality of a firm's information disclosure can affect the term structure of its corporate bond yield spreads. Using cross-sectional regression and Nelson-Siegel yield curve estimation, I find that firms with higher Association for Investment Management and Research disclosure rankings tend to have lower credit spreads. Moreover, this transparency spread is especially large among short-term bonds. These findings are consistent with the theory of discretionary disclosure as well as the incomplete accounting information model of Duffie and Lando (Econometrica 69 (2001) 633). The presence of a sizable short-term transparency spread can attenuate some of the empirical problems associated with structural credit risk models.
@@ -38,7 +38,7 @@ Theory predicts that the quality of a firm's information disclosure can affect t
 ## 4. The cross-section of expected corporate bond returns: Betas or characteristics?
 ### Date
 - Apr 2004
-### Authors
+### Author
 - William R. Gebhardt
 - Soeren Hvidkjaer
 - Bhaskaran Swaminathan
@@ -50,7 +50,7 @@ This paper finds that default betas are significantly related to the cross-secti
 ## 5. The timing of initial public offerings
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Simon Benninga
 - Mark Helmantel
 - Oded Sarig
@@ -62,7 +62,7 @@ We study the dynamics of IPOs by examining the tradeoff between an entrepreneur'
 ## 6. The effect of external finance on the equilibrium allocation of capital
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Heitor Almeida
 - Daniel Wolfenzon
 ### Abstract
@@ -73,7 +73,7 @@ We develop an equilibrium model to understand how the efficiency of capital allo
 ## 7. The “make or take” decision in an electronic market: Evidence on the evolution of liquidity
 ### Date
 - Jul 2004
-### Authors
+### Author
 - Robert Bloomfield
 - Maureen O’Hara
 - Gideon Saar
@@ -85,7 +85,7 @@ This paper uses experimental asset markets to investigate the evolution of liqui
 ## 8. Integration, organizational processes, and allocation of resources
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Oguzhan Ozbas
 ### Abstract
 Does the level of integration of a firm affect the quality of information available to its top decision makers responsible for allocating resources? Motivated by the pervasiveness of specific knowledge in large multi-division firms, I develop a model of internal competition for corporate resources among specialist managers and show that: (i) managers of integrated firms exaggerate the payoffs of their projects to obtain resources despite potentially adverse career consequences, and (ii) the exaggeration problem worsens with increased integration and reduces the allocative efficiency of an integrated firm. Control rights based on asset ownership enable the firm to set “the rules of the game” and improve managerial behavior through organizational processes such as rigid capital budgets, job rotation, centralization and hierarchies.

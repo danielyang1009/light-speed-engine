@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A skeptical appraisal of asset pricing tests
 ### Date
 - Sep 2009
-### Authors
+### Author
 - Jonathan Lewellen
 - Stefan Nagel
 - Jay Shanken
@@ -26,7 +26,7 @@ It has become standard practice in the cross-sectional asset pricing literature 
 ## 3. When are outside directors effective?
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Ran Duchin
 - John G. Matsusaka
 - Oguzhan Ozbas
@@ -38,7 +38,7 @@ This paper uses recent regulations that have required some companies to increase
 ## 4. Liquidity biases in asset pricing tests
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Elena Asparouhova
 - Hendrik Bessembinder
 - Ivalina Kalcheva
@@ -50,7 +50,7 @@ Microstructure noise in security prices biases the results of empirical asset pr
 ## 5. The performance of emerging hedge funds and managers
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Rajesh K. Aggarwal
 - Philippe Jorion
 ### Abstract
@@ -61,7 +61,7 @@ This paper provides the first systematic analysis of performance patterns for em
 ## 6. Inside the black box: The role and composition of compensation peer groups
 ### Date
 - Jan 2010
-### Authors
+### Author
 - Michael Faulkender
 - Jun Yang
 ### Abstract
@@ -72,7 +72,7 @@ This paper considers the features of the newly disclosed compensation peer group
 ## 7. Detecting jumps from Lévy jump diffusion processes
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Suzanne S. Lee
 - Jan Hannig
 ### Abstract
@@ -83,7 +83,7 @@ Recent asset-pricing models incorporate jump risk through Lévy processes in add
 ## 8. The Sarbanes-Oxley act and corporate investment: A structural assessment
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Qiang Kang
 - Qiao Liu
 - Rong Qi
@@ -95,7 +95,7 @@ We assess the impact of the Sarbanes-Oxley Act of 2002 on corporate investment i
 ## 9. The role of private equity group reputation in LBO financing
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Cem Demiroglu
 - Christopher M. James
 ### Abstract
@@ -106,7 +106,7 @@ This paper investigates whether the reputation of acquiring private equity group
 ## 10. Limited participation and consumption-saving puzzles: A simple explanation and the role of insurance
 ### Date
 - Jan 2010
-### Authors
+### Author
 - Todd Gormley
 - Hong Liu
 - Guofu Zhou

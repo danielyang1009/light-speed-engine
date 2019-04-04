@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Debt and managerial rents in a real-options model of the firm
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Bart M. Lambrecht
 - Stewart C. Myers
 ### Abstract
@@ -25,7 +25,7 @@ We present a theory of capital investment and debt and equity financing in a rea
 ## 3. Can real options explain financing behavior?
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Yuri Tserlukevich
 ### Abstract
 Trade-off models commonly invoke financial transaction costs in order to explain observed leverage fluctuations. This paper offers an alternative explanation based on real options. The model is frictionless on the financing side but incorporates irreversibility and fixed costs of investment. Results obtained from simulating the model are broadly consistent with observed financing patterns. Market leverage ratios are negatively related to profitability, mean-reverting, and depend on past stock returns. The gradual and lumpy leverage adjustments can occur in the absence of financial transaction costs. This evidence shows that incorporating real frictions into structural models increases their explanatory power.
@@ -35,7 +35,7 @@ Trade-off models commonly invoke financial transaction costs in order to explain
 ## 4. On the importance of retail banking relationships
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Manju Puri
 - Jörg Rocholl
 ### Abstract
@@ -46,7 +46,7 @@ We use proprietary data to analyze the importance of retail banking relationship
 ## 5. Advisors and asset prices: A model of the origins of bubbles
 ### Date
 - Sep 2007
-### Authors
+### Author
 - Harrison Hong
 - José Scheinkman
 - Wei Xiong
@@ -58,7 +58,7 @@ We develop a model of asset price bubbles based on the communication process bet
 ## 6. Information flows within financial conglomerates: Evidence from the banks–mutual funds relation
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Massimo Massa
 - Zahid Rehman
 ### Abstract
@@ -69,7 +69,7 @@ We study how information flows within financial conglomerates by analyzing the r
 ## 7. Striking oil: Another puzzle?
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Gerben Driesprong
 - Ben Jacobsen
 - Benjamin Maat
@@ -81,7 +81,7 @@ Changes in oil prices predict stock market returns worldwide. We find significan
 ## 8. Rights offerings, takeup, renounceability, and underwriting status
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Balasingham Balachandran
 - Robert Faff
 - Michael Theobald
@@ -93,7 +93,7 @@ Rights offerings in Australia provide valuable choices to the issuer in terms of
 ## 9. Dividends and share repurchases in the European Union
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Henk von Eije
 - William L. Megginson
 ### Abstract

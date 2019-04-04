@@ -1,0 +1,130 @@
+{
+    "journal": "JF",
+    "volume": "67",
+    "issue": "2",
+    "date": "April 2012",
+    "page": "Pages: 391-800",
+    "article": [
+        {
+            "no": "1",
+            "title": "Rollover Risk and Credit Risk",
+            "date": "27 March 2012",
+            "author": [
+                "ZHIGUO HE",
+                "WEI XIONG"
+            ],
+            "abstract": "Our model shows that deterioration in debt market liquidity leads to an increase in not only the liquidity premium of corporate bonds but also credit risk. The latter effect originates from firms' debt rollover. When liquidity deterioration causes a firm to suffer losses in rolling over its maturing debt, equity holders bear the losses while maturing debt holders are paid in full. This conflict leads the firm to default at a higher fundamental threshold. Our model demonstrates an intricate interaction between the liquidity premium and default premium and highlights the role of short\u2010term debt in exacerbating rollover risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01721.x"
+        },
+        {
+            "no": "2",
+            "title": "Are Stocks Really Less Volatile in the Long Run?",
+            "date": "27 March 2012",
+            "author": [
+                "\u013dUBO\u0160 P\u00c1STOR",
+                "ROBERT F. STAMBAUGH"
+            ],
+            "abstract": "According to conventional wisdom, annualized volatility of stock returns is lower over long horizons than over short horizons, due to mean reversion induced by return predictability. In contrast, we find that stocks are substantially more volatile over long horizons from an investor's perspective. This perspective recognizes that parameters are uncertain, even with two centuries of data, and that observable predictors imperfectly deliver the conditional expected return. Mean reversion contributes strongly to reducing long\u2010horizon variance but is more than offset by various uncertainties faced by the investor. The same uncertainties reduce desired stock allocations of long\u2010horizon investors contemplating target\u2010date funds.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01722.x"
+        },
+        {
+            "no": "3",
+            "title": "The Secondary Market for Hedge Funds and the Closed Hedge Fund Premium",
+            "date": "27 March 2012",
+            "author": [
+                "TARUN RAMADORAI"
+            ],
+            "abstract": "Rational theories of the closed\u2010end fund premium puzzle highlight fund share and asset illiquidity, managerial ability, and fees as important determinants of the premium. Several of these attributes are difficult to measure for mutual funds, and easier to measure for hedge funds. This paper employs new data from a secondary market for hedge funds, discovers a closed\u2010hedge fund premium that is highly correlated with the closed\u2010end mutual fund premium, and shows that the closed\u2010hedge fund premium is well explained by variables suggested by rational theories. Sentiment\u2010based explanations do not find support in the data.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01723.x"
+        },
+        {
+            "no": "4",
+            "title": "Hedge Funds and Chapter 11",
+            "date": "27 March 2012",
+            "author": [
+                "WEI JIANG",
+                "KAI LI",
+                "WEI WANG"
+            ],
+            "abstract": "This paper studies the presence of hedge funds in the Chapter 11 process and their effects on bankruptcy outcomes. Hedge funds strategically choose positions in the capital structure where their actions could have a bigger impact on value. Their presence, especially as unsecured creditors, helps balance power between the debtor and secured creditors. Their effect on the debtor manifests in higher probabilities of the latter's loss of exclusive rights to file reorganization plans, CEO turnover, and adoptions of key employee retention plan, while their effect on secured creditors manifests in higher probabilities of emergence and payoffs to junior claims.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01724.x"
+        },
+        {
+            "no": "5",
+            "title": "Don't Believe the Hype: Local Media Slant, Local Advertising, and Firm Value",
+            "date": "27 March 2012",
+            "author": [
+                "UMIT G. GURUN",
+                "ALEXANDER W. BUTLER"
+            ],
+            "abstract": "When local media report news about local companies, they use fewer negative words compared to the same media reporting about nonlocal companies. We document that one reason for this positive slant is the firms' local media advertising expenditures. Abnormal positive local media slant strongly relates to firm equity values. The effect is stronger for small firms; firms held predominantly by individual investors; and firms with illiquid or highly volatile stock, low analyst following, or high dispersion of analyst forecasts. These findings show that news content varies systematically with the characteristics and conflicts of interest of the source.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01725.x"
+        },
+        {
+            "no": "6",
+            "title": "Selective Publicity and Stock Prices",
+            "date": "27 March 2012",
+            "author": [
+                "DAVID H. SOLOMON"
+            ],
+            "abstract": "I examine how media coverage of good and bad corporate news affects stock prices, by studying the effect of investor relations (IR) firms. I find that IR firms \u201cspin\u201d their clients' news, generating more media coverage of positive press releases than negative press releases. This spin increases announcement returns. Around earnings announcements, however, IR firms cannot spin the news and their clients' returns are significantly lower. This pattern is consistent with positive media coverage increasing investor expectations, creating disappointment around hard information. Using reporter connections and geographical links, I argue that IR firms causally affect both media coverage and returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01726.x"
+        },
+        {
+            "no": "7",
+            "title": "Individual Investor Trading and Return Patterns around Earnings Announcements",
+            "date": "27 March 2012",
+            "author": [
+                "RON KANIEL",
+                "SHUMING LIU",
+                "GIDEON SAAR",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "This paper provides evidence of informed trading by individual investors around earnings announcements using a unique data set of NYSE stocks. We show that intense aggregate individual investor buying (selling) predicts large positive (negative) abnormal returns on and after earnings announcement dates. We decompose abnormal returns following the event into information and liquidity provision components, and show that about half of the returns can be attributed to private information. We also find that individuals trade in both return\u2010contrarian and news\u2010contrarian manners after earnings announcements. The latter behavior has the potential to slow the adjustment of prices to earnings news.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01727.x"
+        },
+        {
+            "no": "8",
+            "title": "Carry Trades and Global Foreign Exchange Volatility",
+            "date": "27 March 2012",
+            "author": [
+                "LUKAS MENKHOFF",
+                "LUCIO SARNO",
+                "MAIK SCHMELING",
+                "ANDREAS SCHRIMPF"
+            ],
+            "abstract": "We investigate the relation between global foreign exchange (FX) volatility risk and the cross section of excess returns arising from popular strategies that borrow in low interest rate currencies and invest in high interest rate currencies, so\u2010called \u201ccarry trades.\u201d We find that high interest rate currencies are negatively related to innovations in global FX volatility, and thus deliver low returns in times of unexpected high volatility, when low interest rate currencies provide a hedge by yielding positive returns. Furthermore, we show that volatility risk dominates liquidity risk and our volatility risk proxy also performs well for pricing returns of other portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01728.x"
+        },
+        {
+            "no": "9",
+            "title": "A Simple Way to Estimate Bid\u2010Ask Spreads from Daily High and Low Prices",
+            "date": "27 March 2012",
+            "author": [
+                "SHANE A. CORWIN",
+                "PAUL SCHULTZ"
+            ],
+            "abstract": "We develop a bid\u2010ask spread estimator from daily high and low prices. Daily high (low) prices are almost always buy (sell) trades. Hence, the high\u2013low ratio reflects both the stock's variance and its bid\u2010ask spread. Although the variance component of the high\u2013low ratio is proportional to the return interval, the spread component is not. This allows us to derive a spread estimator as a function of high\u2013low ratios over 1\u2010day and 2\u2010day intervals. The estimator is easy to calculate, can be applied in a variety of research areas, and generally outperforms other low\u2010frequency estimators.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01729.x"
+        },
+        {
+            "no": "10",
+            "title": "Share Issuance and Factor Timing",
+            "date": "27 March 2012",
+            "author": [
+                "ROBIN GREENWOOD",
+                "SAMUEL G. HANSON"
+            ],
+            "abstract": "We show that characteristics of stock issuers can be used to forecast important common factors in stocks' returns such as those associated with book\u2010to\u2010market, size, and industry. Specifically, we use differences between the attributes of stock issuers and repurchasers to forecast characteristic\u2010related factor returns. For example, we show that large firms underperform after years when issuing firms are large relative to repurchasing firms. While our strongest results are for portfolios based on book\u2010to\u2010market (i.e., HML), size (i.e., SMB), and industry, our approach is also useful for forecasting factor returns associated with distress, payout policy, and profitability.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01730.x"
+        },
+        {
+            "no": "11",
+            "title": "MISCELLANEA",
+            "date": "27 March 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01731.x"
+        }
+    ]
+}

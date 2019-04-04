@@ -5,7 +5,7 @@
 ## 1. Trading activity and expected stock returns
 ### Date
 - Jan 2001
-### Authors
+### Author
 - Tarun Chordia
 - Avanidhar Subrahmanyam
 - V.Ravi Anshuman
@@ -17,7 +17,7 @@ Given the evidence that the level of liquidity affects asset returns, a reasonab
 ## 2. The capital gain lock-in effect and long-horizon return reversal
 ### Date
 - Jan 2001
-### Authors
+### Author
 - Peter Klein
 ### Abstract
 This paper develops and tests an asset pricing model that allows for the presence of a capital gain lock-in effect. The principal empirical implication of this model is that stock returns exhibit reversal behavior over long horizons because of investors’ accrued capital gains. Empirical tests on the cross-section of stock returns find that long-horizon return reversal is primarily attributable to the effect of investors’ accrued capital gains and that the effect is nonlinear in the manner predicted by the model. These finds are robust to the addition of size and past total return to the empirical tests.
@@ -27,7 +27,7 @@ This paper develops and tests an asset pricing model that allows for the presenc
 ## 3. Pricing the strategic value of putable securities in liquidity crises
 ### Date
 - Jan 2001
-### Authors
+### Author
 - Alexander David
 ### Abstract
 Putable security holders have a de facto first claim on the firm's liquid assets and can threaten to force solvent issuers to bear financial distress costs. Their threatening power implies that the puts have a strategic value larger than their intrinsic value. Strategic value depends on the issuer's size, potential distress costs, and the distribution of put ownership relative to the firm's liquidity position. The analysis of Kmart's put-induced crisis in 1995, and a calibration to observed secondary market yield reductions on poison put bonds, shows that strategic value is an important determinant of payouts received by bondholders.
@@ -37,7 +37,7 @@ Putable security holders have a de facto first claim on the firm's liquid assets
 ## 4. The structure of debt and active equity investors: The case of the buyout specialist
 ### Date
 - Jan 2001
-### Authors
+### Author
 - James F Cotter
 - Sarah W Peck
 ### Abstract

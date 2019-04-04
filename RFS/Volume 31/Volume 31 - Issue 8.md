@@ -1,0 +1,120 @@
+# RFS, Volume 31, Issue 8
+- August 2018
+- Pages 2855–3264
+
+## 1. Real Effects of the Sovereign Debt Crisis in Europe: Evidence from Syndicated Loans
+### Date
+- 23 April 2018
+### Author
+- Viral V Acharya
+- Tim Eisert
+- Christian Eufinger
+- Christian Hirsch
+### Abstract
+We explore the causes of the credit crunch during the European sovereign debt crisis and its impact on the corporate policies of European firms. Our results show that value impairment in banks’ exposures to sovereign debt and the risk-shifting behavior of weakly capitalized banks reduced the probability of firms being granted new syndicated loans by up to 53%. This lending contraction depressed investment, employment, and sales growth of firms affiliated with affected banks. Our estimates based on firm-level data suggest that the credit crunch explains between 44% and 66% of the overall negative real effects suffered by European firms.
+### Link
+- https://doi.org/10.1093/rfs/hhy045
+
+## 2. The Myth of the Credit Spread Puzzle
+### Date
+- 24 March 2018
+### Author
+- Peter Feldhütter
+- Stephen M Schaefer
+### Abstract
+Are standard structural models able to explain credit spreads on corporate bonds? In contrast to much of the literature, we find that the Black-Cox model matches the level of investment-grade spreads well. Model spreads for speculative-grade debt are too low, and we find that bond illiquidity contributes to this underpricing. Our analysis makes use of a new approach for calibrating the model to historical default rates that leads to more precise estimates of investment-grade default probabilities.
+### Link
+- https://doi.org/10.1093/rfs/hhy032
+
+## 3. Lending Standards over the Credit Cycle
+### Date
+- 24 April 2018
+### Author
+- Giacomo Rodano
+- Nicolas Serrano-Velarde
+- Emanuele Tarantino
+### Abstract
+We analyze how firms’ segmentation into credit classes affects the lending standards applied by banks to small and medium enterprises over the cycle. We exploit an institutional feature of the Italian credit market that generates a discontinuity in the allocation of comparable firms into the performing and substandard classes of credit risk. In the boom period, segmentation results in a positive interest rate spread between substandard and performing firms. In the bust period, the increase in banks’ cost of wholesale funds implies that substandard firms are excluded from credit. These firms then report lower values of production and capital investments.
+### Link
+- https://doi.org/10.1093/rfs/hhy023
+
+## 4. Notes on Bonds: Illiquidity Feedback During the Financial Crisis
+### Date
+- 06 March 2018
+### Author
+- David Musto
+- Greg Nini
+- Krista Schwarz
+### Abstract
+We trace the evolution of extreme illiquidity discounts among Treasury securities during the financial crisis, when bond prices fell more than 6% below more liquid but otherwise identical notes. Using high-resolution data on market quality and trader identities and characteristics, we find that the discounts amplify through feedback loops, where cheaper, less-liquid securities flow to longer-horizon investors, thereby increasing their illiquidity and thus their appeal to these investors. The effect of the widened liquidity gap on transactions costs is further amplified by a surge in the price liquidity providers charge for access to their balance sheets in the crisis.
+### Link
+- https://doi.org/10.1093/rfs/hhy022
+
+## 5. Interest Rate Risk Management in Uncertain Times
+### Date
+- 05 April 2018
+### Author
+- Lorenzo Bretscher
+- Lukas Schmid
+- Andrea Vedolin
+### Abstract
+We revisit evidence of real effects of uncertainty shocks in the context of interest rate uncertainty. We document that adverse movements in interest rate uncertainty predict significant slowdowns in real activity, both at the aggregate and at the firm levels. To understand how firms cope with interest rate uncertainty, we develop a dynamic model of corporate investment, financing, and risk management and test it using a rich data set on corporate swap usage. We find that interest rate uncertainty depresses financially constrained firms’ investments in spite of hedging opportunities, because risk management by means of swaps is effectively risky.
+### Link
+- https://doi.org/10.1093/rfs/hhy039
+
+## 6. Kicking Maturity Down the Road: Early Refinancing and Maturity Management in the Corporate Bond Market
+### Date
+- 12 October 2017
+### Author
+- Qiping Xu
+### Abstract
+This paper examines debt maturity management through early refinancing, where firms retire their outstanding bonds before the due date and simultaneously issue new ones as replacements. Speculative-grade firms frequently refinance their corporate bonds early to extend maturity, particularly under accommodating credit supply conditions, leading to a procyclical maturity structure. In contrast, investment-grade firms do not manage their maturity in the same manner. I exploit the protection period of callable bonds to show that the maturity extension is not driven by unobservable confounding factors. The evidence is consistent with speculative-grade firms dynamically managing maturity to mitigate refinancing risk.
+### Link
+- https://doi.org/10.1093/rfs/hhx116
+
+## 7. Shareholder-Creditor Conflict and Payout Policy: Evidence from Mergers between Lenders and Shareholders
+### Date
+- 11 December 2017
+### Author
+- Yongqiang Chu
+### Abstract
+This paper studies how the conflict of interest between shareholders and creditors affects corporate payout policy. Using mergers between lenders and equity holders of the same firm as shocks to the shareholder-creditor conflict, I find that firms pay out less when there is less conflict between shareholders and creditors, suggesting that the shareholder-creditor conflict induces firms to pay out more at the expense of creditors. The effect is stronger for firms in financial distress.
+### Link
+- https://doi.org/10.1093/rfs/hhx142
+
+## 8. Corporate Deleveraging and Financial Flexibility
+### Date
+- 26 December 2017
+### Author
+- Harry DeAngelo
+- Andrei S Gonçalves
+- René M Stulz
+### Abstract
+Most firms deleverage from their historical peak market-leverage (ML) ratios to near-zero ML, while also markedly increasing cash balances to high levels. Among 4,476 nonfinancial firms with five or more years of post-peak data, median ML is 0.543 at the peak and 0.026 at the later trough, with a six-year median time from peak to trough and with debt repayment and earnings retention accounting for 93.7% of the median peak-to-trough decline in ML. The findings support theories in which firms deleverage to restore ample financial flexibility and are difficult to reconcile with most firms having materially positive leverage targets.
+### Link
+- https://doi.org/10.1093/rfs/hhx147
+
+## 9. Vote Avoidance and Shareholder Voting in Mergers and Acquisitions
+### Date
+- 08 June 2018
+### Author
+- Kai Li
+- Tingting Liu
+- Juan (Julie) Wu
+### Abstract
+We examine whether, how, and why acquirer shareholder voting matters. We show that acquirers with low institutional ownership, high deal risk, and high agency costs are more likely to bypass shareholder voting. Such acquirers have lower announcement returns and make higher offers than those who do not. To avoid a shareholder vote, acquirers increase equity issuance and cut payouts to raise the portion of cash in mixed-payment deals. Employing a regression discontinuity design, we show a positive effect on acquirer announcement returns concentrated in acquirers with higher institutional ownership. We conclude that shareholder voting mitigates agency problems in corporate acquisitions.
+### Link
+- https://doi.org/10.1093/rfs/hhy065
+
+## 10. Winning by Losing: Evidence on the Long-run Effects of Mergers
+### Date
+- 05 March 2018
+### Author
+- Ulrike Malmendier
+- Enrico Moretti
+- Florian S Peters
+### Abstract
+We propose a novel approach for measuring returns to mergers. In a new data set of close bidding contests, we use losers’ post-merger performance to construct the counterfactual performance of winners had they not won the contest. Stock returns of winners and losers closely track each other over the 36 months before the merger, corroborating our identification approach. Bidders are also very similar in terms of Tobins q, profitability, and other accounting measures. Over the 3 years after the merger, however, losers outperform winners by 24%. Commonly used methodologies, such as announcement returns, fail to identify acquirer underperformance.
+### Link
+- https://doi.org/10.1093/rfs/hhy009
+

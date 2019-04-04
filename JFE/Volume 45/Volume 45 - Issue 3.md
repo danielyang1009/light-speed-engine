@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Sep 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Analyzing investments whose histories differ in length
 ### Date
 - Sep 1997
-### Authors
+### Author
 - Robert F. Stambaugh
 ### Abstract
 This study explores multivariate methods for investment analysis based on return histories that differ in length across assets. The longer histories provide greater information about moments of return, not only for the longer-history assets, but for the shorter-history assets as well. To account for the remaining parameter uncertainty, or ‘estimation risk’, portfolio opportunities are characterized by a Bayesian predictive distribution. Examples involving emerging markets demonstrate the value of using the combined sample of histories and accounting for estimation risk, as compared to truncating the sample to produce equal-length histories or ignoring estimation risk by using maximum-likelihood estimates.
@@ -25,7 +25,7 @@ This study explores multivariate methods for investment analysis based on return
 ## 3. Share price and mortality: An empirical evaluation of newly listed Nasdaq stocks
 ### Date
 - Sep 1997
-### Authors
+### Author
 - P.J. Seguin
 - M.M. Smoller
 ### Abstract
@@ -36,7 +36,7 @@ We examine a sample of 5896 stocks listed on Nasdaq between 1974 and 1988 to see
 ## 4. Market microstructure and securities values: Evidence from the Tel Aviv Stock Exchange
 ### Date
 - Sep 1997
-### Authors
+### Author
 - Yakov Amihud
 - Haim Mendelson
 - Beni Lauterbach
@@ -48,7 +48,7 @@ This paper examines the value effects of improvements in the trading mechanism. 
 ## 5. Underpricing, ownership and control in initial public offerings of equity securities in the UK
 ### Date
 - Sep 1997
-### Authors
+### Author
 - M.J. Brennan
 - J. Franks
 ### Abstract
@@ -59,7 +59,7 @@ In this paper we examine how separation of ownership and control evolves as a re
 ## 6. Index
 ### Date
 - Sep 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link

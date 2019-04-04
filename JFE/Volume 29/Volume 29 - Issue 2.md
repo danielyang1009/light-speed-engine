@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Oct 1991
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -20,7 +20,7 @@
 ## 2. Habit persistence and durability in aggregate consumption
 ### Date
 - Oct 1991
-### Authors
+### Author
 - Wayne E. Ferson
 - George M. Constantinides
 ### Abstract
@@ -31,7 +31,7 @@ Habit persistence in preferences and durability of consumption goods both imply 
 ## 3. Proxy voting and the SEC
 ### Date
 - Oct 1991
-### Authors
+### Author
 - John Pound
 ### Abstract
 This paper analyzes the SEC's proxy regulations and assesses their effects on corporate governance. The proxy rules began in 1935 as a minimal series of disclosure requirements and a prohibition against fraud. By 1956, they imposed extensive and wide-ranging disclosure requirements on anyone wishing to communicate about voting issues and required that all such communications be cleared in advance — in essence, censored — by the SEC. I present evidence that since that time, the rules have significantly increased the costs of communication and coordinated action among shareholders. They have thus deterred shareholder initiatives and inhibited the development of a private market for information about voting issues.
@@ -41,7 +41,7 @@ This paper analyzes the SEC's proxy regulations and assesses their effects on co
 ## 4. The staying power of leveraged buyouts
 ### Date
 - Oct 1991
-### Authors
+### Author
 - Steven N. Kaplan
 ### Abstract
 This paper documents the organizational status over time of 183 large leveraged buyouts completed between 1979 and 1986. By August 1990, 62% of the LBOs are privately owned, 14% are independent public companies, and 24% are owned by other public companies. The percentage of LBOs returning to public ownership increases over time, with LBOs remaining private for a median time of 6.82 years. The majority of LBOs, therefore, are neither short-lived nor permanent. The moderate fraction of LBO assets owned by other companies implies that asset sales play a role, but are not the primary motivating force in LBO transactions.
@@ -51,7 +51,7 @@ This paper documents the organizational status over time of 183 large leveraged 
 ## 5. A test of the free cash flow hypothesis
 ### Date
 - Oct 1991
-### Authors
+### Author
 - Larry H.P. Lang
 - RenéM. Stulz
 - Ralph A. Walkling
@@ -63,7 +63,7 @@ We develop a measure of free cash flow using Tobin's q to distinguish between fi
 ## 6. Were Japanese stock prices too high?
 ### Date
 - Oct 1991
-### Authors
+### Author
 - Kenneth R. French
 - James M. Poterba
 ### Abstract
@@ -74,7 +74,7 @@ This paper asks whether market fundamentals can explain the recent run-up and de
 ## 7. Components of short-horizon individual security returns
 ### Date
 - Oct 1991
-### Authors
+### Author
 - Jennifer Conrad
 - Gautam Kaul
 - M. Nimalendran
@@ -86,7 +86,7 @@ In this paper, we present a simple model which relates security returns to three
 ## 8. Index
 ### Date
 - Oct 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link

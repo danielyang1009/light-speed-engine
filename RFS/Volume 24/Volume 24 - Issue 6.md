@@ -1,0 +1,187 @@
+# RFS, Volume 24, Issue 6
+- June 2011
+- Pages 1773–2205
+
+## 1. The Academic Analysis of the 2008 Financial Crisis: Round 1
+### Date
+- 01 June 2011
+### Author
+- Matthew Spiegel
+### Abstract
+Academics responded to the challenges posed by the 2008 financial crisis with a flurry of studies. This collection of articles is just the academic community's first look into it. The articles begin with an examination at the last national housing price crash: the great depression of the 1930s. This is followed by articles looking at the current mortgage market and how it behaved. Did modern innovations reflect or add to the downturn? The next set of papers examines how non-financial firms were impacted by the crash. To what degree did credit worthy firms nevertheless find themselves without access to capital? The papers then end with a look into how the banking sector itself fared throughout this period.
+### Link
+- https://doi.org/10.1093/rfs/hhr040
+
+## 2. The Influence of the Home Owners' Loan Corporation on Housing Markets During the 1930s
+### Date
+- 22 December 2010
+### Author
+- Price V. Fishback
+- Alfonso Flores-Lagunes
+- William C. Horrace
+- Shawn Kantor
+- Jaret Treber
+### Abstract
+Problems with mortgage financing are widely considered to be a major cause of the recent financial meltdown. Several modern programs have been designed to mimic the Home Owners' Loan Corporation (HOLC) of the 1930s. We analyze the impact of the HOLC on the nonfarm rental and owned home markets for over 2,800 counties in the United States in the 1930s. In sparsely populated counties, where financial markets were not as well developed as in larger cities, the HOLC stimulated demand for owned housing more than it influenced supply. In rental markets the HOLC appears to have contributed to an increase in supply.
+### Link
+- https://doi.org/10.1093/rfs/hhq144
+
+## 3. Securitization and Mortgage Renegotiation: Evidence from the Great Depression
+### Date
+- 02 April 2011
+### Author
+- Andra C. Ghent
+### Abstract
+We use loan-level data from the New York City metropolitan area to examine the extent to which lenders attempted to prevent foreclosures with concessionary modifications during the Great Depression. We find no principal forgiveness in the sample and only a handful of concessionary mortgage modifications of other types. Far more mortgages terminated through foreclosure than received any sort of concessionary modification. The results indicate that there are significant impediments to renegotiation of residential mortgages beyond securitization. As such, less renegotiation seems unlikely to be a major cost of securitization of residential mortgages.
+### Link
+- https://doi.org/10.1093/rfs/hhr017
+
+## 4. Understanding the Subprime Mortgage Crisis
+### Date
+- 04 May 2009
+### Author
+- Yuliya Demyanyk
+- Otto Van Hemert
+### Abstract
+Using loan-level data, we analyze the quality of subprime mortgage loans by adjusting their performance for differences in borrower characteristics, loan characteristics, and macroeconomic conditions. We find that the quality of loans deteriorated for six consecutive years before the crisis and that securitizers were, to some extent, aware of it. We provide evidence that the rise and fall of the subprime mortgage market follows a classic lending boom-bust scenario, in which unsustainable growth leads to the collapse of the market. Problems could have been detected long before the crisis, but they were masked by high house price appreciation between 2003 and 2005.
+### Link
+- https://doi.org/10.1093/rfs/hhp033
+
+## 5. Originate-to-distribute Model and the Subprime Mortgage Crisis
+### Date
+- 14 October 2010
+### Author
+- Amiyatosh Purnanandam
+### Abstract
+An originate-to-distribute (OTD) model of lending, where the originator of a loan sells it to various third parties, was a popular method of mortgage lending before the onset of the subprime mortgage crisis. We show that banks with high involvement in the OTD market during the pre-crisis period originated excessively poor-quality mortgages. This result is not explained away by differences in observable borrower quality, geographical location of the property, or the cost of capital of high- and low-OTD banks. Instead, our evidence supports the view that the originating banks did not expend resources in screening their borrowers. The effect of OTD lending on poor mortgage quality is stronger for capital-constrained banks. Overall, we provide evidence that lack of screening incentives coupled with leverage-induced risk-taking behavior significantly contributed to the current subprime mortgage crisis.
+### Link
+- https://doi.org/10.1093/rfs/hhq106
+
+## 6. Bank Corporate Loan Pricing Following the Subprime Crisis
+### Date
+- 16 November 2010
+### Author
+- João A. C. Santos
+### Abstract
+The massive losses that banks incurred with the meltdown of the subprime mortgage market have raised concerns about their ability to continue lending to corporations. We investigate these concerns. We find that firms paid higher loan spreads during the subprime crisis. Importantly, the increase in loan spreads was higher for firms that borrowed from banks that incurred larger losses. These results hold after we control for firm-, bank-, and loan-specific factors, and account for endogeneity of bank losses. These findings, together with our evidence that borrowers took out smaller loans during the crisis when they borrowed from banks that incurred larger losses, lend support to the concerns about bank lending following their subprime losses.
+### Link
+- https://doi.org/10.1093/rfs/hhq115
+
+## 7. Liquidity Management and Corporate Investment During a Financial Crisis
+### Date
+- 02 April 2011
+### Author
+- Murillo Campello
+- Erasmo Giambona
+- John R. Graham
+- Campbell R. Harvey
+### Abstract
+This article uses a unique dataset to study how firms managed liquidity during the 2008–2009 financial crisis. Our analysis provides new insights on interactions between internal liquidity, external funds, and real corporate decisions, such as investment and employment. We first describe how companies used credit lines during the crisis (access, size of facilities, and drawdown activity), the characteristics of these facilities (fees, markups, maturity, and collateral), and whether managers had difficulties in renewing or initiating lines. We also describe the dynamics of credit line violations and the outcome of subsequent renegotiations. We show how companies substitute between credit lines and internal liquidity (cash and profits) when facing a severe credit shortage. Looking at real-side decisions, we find that credit lines are associated with greater spending when companies are not cash-strapped. Firms with limited access to credit lines, in contrast, appear to choose between saving and investing during the crisis. Our evidence indicates that credit lines eased the impact of the financial crisis on corporate spending.
+### Link
+- https://doi.org/10.1093/rfs/hhq131
+
+## 8. Margin-based Asset Pricing and Deviations from the Law of One Price
+### Date
+- 14 April 2011
+### Author
+- Nicolae Gârleanu
+- Lasse Heje Pedersen
+### Abstract
+In a model with heterogeneous-risk-aversion agents facing margin constraints, we show how securities' required returns increase in both their betas and their margin requirements. Negative shocks to fundamentals make margin constraints bind, lowering risk-free rates and raising Sharpe ratios of risky securities, especially for high-margin securities. Such a funding-liquidity crisis gives rise to “bases,” that is, price gaps between securities with identical cash-flows but different margins. In the time series, bases depend on the shadow cost of capital, which can be captured through the interest-rate spread between collateralized and uncollateralized loans and, in the cross-section, they depend on relative margins. We test the model empirically using the credit default swap–bond bases and other deviations from the Law of One Price, and use it to evaluate central banks' lending facilities.
+### Link
+- https://doi.org/10.1093/rfs/hhr027
+
+## 9. The Composition Matters: Capital Inflows and Liquidity Crunch During a Global Economic Crisis
+### Date
+- 26 September 2010
+### Author
+- Hui Tong
+- Shang-Jin Wei
+### Abstract
+This article studies whether the volume and composition of capital flows affect the degree of credit crunch during the 2007–2009 crisis. Using data on 3,823 firms in 24 emerging countries, we find that, on average, the decline in stock prices was more severe for firms that are intrinsically more dependent on external finance for working capital. Interestingly, while the volume of capital flows per se has no significant effect, the composition matters a lot. In particular, greater dependence on non-FDI capital inflows before the crisis worsens the credit crunch during the crisis, while exposure to FDI alleviates the liquidity constraint.
+### Link
+- https://doi.org/10.1093/rfs/hhq078
+
+## 10. Effects of Central Bank Intervention on the Interbank Market During the Subprime Crisis
+### Date
+- 08 November 2010
+### Author
+- Celso Brunetti
+- Mario di Filippo
+- Jeffrey H. Harris
+### Abstract
+We explore whether central bank intervention improves liquidity in the interbank market during the current subprime crisis with unique trade and quote data from the e-MID, the only regulated electronic interbank market in the world. Central bank intervention consistently creates greater uncertainty in the interbank market. Prior to the crisis, the cover-to-bid ratio effectively conveys good and bad news from the central bank, but this link is broken during the crisis, suggesting that standard (and special) interventions that do not specifically target interbank asymmetric information fail to improve market liquidity. Our results suggest that the central bank should release stress tests for individual banks, provide interbank loan guarantees, or engage in direct asset purchases rather than simply providing more capital when counterparty risk poses systemic risk to the interbank market.
+### Link
+- https://doi.org/10.1093/rfs/hhq123
+
+## 11. Competition, Risk-shifting, and Public Bail-out Policies
+### Date
+- 26 November 2010
+### Author
+- Reint Gropp
+- Hendrik Hakenes
+- Isabel Schnabel
+### Abstract
+This article empirically investigates the competitive effects of government bail-out policies. We construct a measure of bail-out perceptions by using rating information. From there, we construct the market shares of insured competitor banks for any given bank, and analyze the impact of this variable on banks' risk-taking behavior, using a large sample of banks from OECD countries. Our results suggest that government guarantees strongly increase the risk-taking of competitor banks. In contrast, there is no evidence that public guarantees increase the protected banks' risk-taking, except for banks that have outright public ownership. These results have important implications for the effects of the recent wave of bank bail-outs on banks' risk-taking behavior.
+### Link
+- https://doi.org/10.1093/rfs/hhq114
+
+## 12. Bank Risk-taking, Securitization, Supervision, and Low Interest Rates: Evidence from the Euro-area and the U.S. Lending Standards
+### Date
+- 01 June 2011
+### Author
+- Angela Maddaloni
+- José-Luis Peydró
+### Abstract
+Using a unique dataset of the Euro-area and the U.S. bank lending standards, we find that low (monetary policy) short-term interest rates soften standards for household and corporate loans. This softening—especially for mortgages—is amplified by securitization activity, weak supervision for bank capital, and low monetary policy rates for an extended period. Conversely, low long-term interest rates do not soften lending standards. Finally, countries with softer lending standards before the crisis related to negative Taylor rule residuals experienced a worse economic performance afterward. These results help shed light on the origins of the crisis and have important policy implications.
+### Link
+- https://doi.org/10.1093/rfs/hhr015
+
+## 13. Crisis Resolution and Bank Liquidity
+### Date
+- 15 September 2010
+### Author
+- Viral V. Acharya
+- Hyun Song Shin
+- Tanju Yorulmazer
+### Abstract
+What is the effect of financial crises and their resolution on banks' choice of liquidity? When banks have relative expertise in employing risky assets, the market for these assets clears only at fire-sale prices following a large number of bank failures. The gains from acquiring assets at fire-sale prices make it attractive for banks to hold liquid assets. The resulting choice of bank liquidity is countercyclical, inefficiently low during economic booms but excessively high during crises. We present evidence consistent with these predictions. While interventions to resolve banking crises may be desirable ex post, they affect bank liquidity in subtle ways: Liquidity support to failed banks or unconditional support to surviving banks reduces incentives to hold liquidity, whereas support to surviving banks conditional on their liquid asset holdings has the opposite effect.
+### Link
+- https://doi.org/10.1093/rfs/hhq073
+
+## 14. Forthcoming Articles
+### Date
+- 01 June 2011
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1093/rfs/hhr048
+
+## 15. Cover
+### Date
+- 01 June 2011
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1093/rfs/hhr046
+
+## 16. Editorial Board
+### Date
+- 01 June 2011
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1093/rfs/hhr047
+
+## 17. Table of Contents
+### Date
+- 01 June 2011
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1093/rfs/hhr049
+

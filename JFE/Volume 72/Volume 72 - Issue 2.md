@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. On the relationship between the conditional mean and volatility of stock returns: A latent VAR approach
 ### Date
 - Jun 2002
-### Authors
+### Author
 - Michael W. Brandt
 - Qiang Kang
 ### Abstract
@@ -25,7 +25,7 @@ We model the conditional mean and volatility of stock returns as a latent VAR pr
 ## 3. A theory of corporate spin-offs
 ### Date
 - May 2003
-### Authors
+### Author
 - Thomas J. Chemmanur
 - An Yan
 ### Abstract
@@ -36,7 +36,7 @@ We develop a new rationale for corporate spin-offs, and for the performance and 
 ## 4. The importance of the loss function in option valuation
 ### Date
 - Feb 2003
-### Authors
+### Author
 - Peter Christoffersen
 - Kris Jacobs
 ### Abstract
@@ -47,7 +47,7 @@ Which loss function should be used when estimating and evaluating option valuati
 ## 5. The effect of capital market characteristics on the value of start-up firms
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Roman Inderst
 - Holger M. Müller
 ### Abstract
@@ -58,7 +58,7 @@ We develop an equilibrium model of contracting, bargaining, and search in which 
 ## 6. The effects of government ownership on bank lending
 ### Date
 - Oct 2002
-### Authors
+### Author
 - Paola Sapienza
 ### Abstract
 This paper uses information on individual loan contracts to study the effects of government ownership on bank lending behavior. State-owned banks charge lower interest rates than do privately owned banks to similar or identical firms, even if firms are able to borrow more from privately owned banks. State-owned banks mostly favor large firms and firms located in depressed areas. The lending behavior of state-owned banks is affected by the electoral results of the party affiliated with the bank: the stronger the political party in the area where the firm is borrowing, the lower the interest rates charged.
@@ -68,7 +68,7 @@ This paper uses information on individual loan contracts to study the effects of
 ## 7. Data-generating process uncertainty: What difference does it make in portfolio decisions?
 ### Date
 - May 2003
-### Authors
+### Author
 - Jun Tu
 - Guofu Zhou
 ### Abstract

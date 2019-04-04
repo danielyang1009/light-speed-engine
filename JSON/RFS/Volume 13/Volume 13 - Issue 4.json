@@ -1,0 +1,116 @@
+{
+    "journal": "RFS",
+    "volume": "13",
+    "issue": "4",
+    "date": "October 2000",
+    "page": "Pages 841\u20131156",
+    "article": [
+        {
+            "no": "1",
+            "title": "Toeholds, Bid Jumps, and Expected Payoffs in Takeovers",
+            "date": "15 June 2015",
+            "author": [
+                "Sandra Betton",
+                "B. Espen Eckbo"
+            ],
+            "abstract": "We estimate sequentially outcome probabilities and expected payoffs associated with first, second, and final bids in a large sample of tender offer contests. Rival bids arrive quickly and produce large bid jumps. Greater bidder toeholds (prebid ownership of target shares) reduce the probability of competition and target resistance and are associated with both lower bid premiums and lower prebid target stock price runups. The expected payoff to target shareholders is increasing in the bid premium and in the probability of competition, but decreasing in the bidder's toehold. The initial bidder's expected payoff is significantly positive in the \u201crival-bidder-win\u201d outcome, in part reflecting gains from the pending toehold sale. Despite these dramatic toehold effects, only half of the initial bidders acquire toeholds.",
+            "link": "https://doi.org/10.1093/rfs/13.4.841"
+        },
+        {
+            "no": "2",
+            "title": "Asset Pricing Models: Implications for Expected Returns and Portfolio Selection",
+            "date": "15 June 2015",
+            "author": [
+                "A. Craig MacKinlay",
+                "\u013dubo\u0161 P\u00e1stor"
+            ],
+            "abstract": "When a risk factor is missing from an asset pricing model, the resulting mispricing is embedded within the residual covariance matrix. Exploiting this phenomenon leads to expected return estimates that are more stable and precise than estimates delivered by standard methods. Portfolio selection can also be improved. At an extreme, optimal portfolio weights are proportional to expected returns when no factors are observable. We find that such portfolios perform well in simulations and in out-of-sample comparisons.",
+            "link": "https://doi.org/10.1093/rfs/13.4.883"
+        },
+        {
+            "no": "3",
+            "title": "Regulatory and Legal Pressures and the Costs of Nasdaq Trading",
+            "date": "15 June 2015",
+            "author": [
+                "Paul Schultz"
+            ],
+            "abstract": "The Nasdaq market came under intense pressure from regulators and class-action lawsuits following allegations of tacit collusion by Christie and Schultz (1994). This article examines the changes in transaction costs on the Nasdaq from January 1993 through June 1996 using 16 million trades in 30 stocks. Effective spreads cannot be matched. However, the autocovariance spread estimator of Roll (1984) works well with intraday data over this period. This spread estimator reveals that trading costs declined significantly for 29 of the 30 stocks over 1993\u20131996.",
+            "link": "https://doi.org/10.1093/rfs/13.4.917"
+        },
+        {
+            "no": "4",
+            "title": "The Interaction between Product Market and Financing Strategy: The Role of Venture Capital",
+            "date": "15 June 2015",
+            "author": [
+                "Thomas Hellmann",
+                "Manju Puri"
+            ],
+            "abstract": "Venture capital financing is widely believed to be influential for new innovative companies. We provide empirical evidence that venture capital financing is related to product market strategies and outcomes of start-ups. Using a unique hand-collected database of Silicon Valley high-tech start-ups. Using a unique hand-collected database of Silicon Valley high-tech start-ups we find that innovator firms are more likely to obtain venture capital than imitator firms. Venture capital is also associated with a significant reduction in the time to bring a product to market, especially for innovators. Our results suggest significant interrelations between investor types and product market dimensions, and a role of venture capital for innovative companies.",
+            "link": "https://doi.org/10.1093/rfs/13.4.959"
+        },
+        {
+            "no": "5",
+            "title": "Strategic Debt Restructuring",
+            "date": "15 June 2015",
+            "author": [
+                "Thomas H. Noe",
+                "Jun Wang"
+            ],
+            "abstract": "We analyze a distressed firm indebted to many creditors. The firm's owners have the option of choosing the sequence of restructuring negotiations with the creditors. We show that sequencing flexibility is beneficial to firm owners, and that the optimal sequencing of restructuring negotiations involves exploiting the firm's liabilities to some creditors so as to moderate the demands of others. Moderately distressed firms will eschew renegotiations with creditors in strong bargaining positions. Severely distressed firms will extract concessions from all creditors. In this case, owners can gain if they can credibly commit to conditional restructuring agreements that link the concessions of one creditor to concessions by others.",
+            "link": "https://doi.org/10.1093/rfs/13.4.985"
+        },
+        {
+            "no": "6",
+            "title": "The Private Placement of Debt and Outside Equity as an Information Revelation Mechanism",
+            "date": "15 June 2015",
+            "author": [
+                "Michel A. Habib",
+                "D. Bruce Johnsen"
+            ],
+            "abstract": "We view debt and outside equity as serving to elicit credible information from different specialists about the value of an enterprise in its various uses. The equity valuation specialist provides a price forecast for equity that reveals information about the value of the enterprise in its primary use. The debt valuation specialist provides a price forecast for debt that reveals information about the value of the enterprise in its alternative use. The prices forecast by the valuation specialists credibly reveal their private information because they are required to buy the associated claims at the forecast prices, thereby bonding their valuations.",
+            "link": "https://doi.org/10.1093/rfs/13.4.1017"
+        },
+        {
+            "no": "7",
+            "title": "Debt Valuation, Renegotiation, and Optimal Dividend Policy",
+            "date": "15 June 2015",
+            "author": [
+                "Hua Fan",
+                "Suresh M. Sundaresan"
+            ],
+            "abstract": "The valuation of debt and equity, reorganization boundaries, and firm's optimal dividend policies are studied in a framework where we model strategic interactions between debt holders and equity holders in a game-theoretic setting which can accommodate varying bargaining powers to the two claimants. Two formulations of reorganization are presented: debt-equity swaps and strategic debt service resulting from negotiated debt service reductions. We study the effects of bond covenants on payout policies and distinguish liquidity-induced defaults from strategic defaults. We derive optimal equity issuance and payout policies. The debt capacity of the firm and the optimal capital structure are characterized.",
+            "link": "https://doi.org/10.1093/rfs/13.4.1057"
+        },
+        {
+            "no": "8",
+            "title": "Client Discretion, Switching Costs, and Financial Innovation",
+            "date": "15 June 2015",
+            "author": [
+                "Sugato Bhattacharyya",
+                "Vikram Nanda"
+            ],
+            "abstract": "We analyze the incentives of investment banks to develop innovative products. We show that client characteristics and market structure affect these incentives significantly. Investment banks with larger market shares have greater incentives to innovate and smaller banks are likely to share their innovations with the largest bank. Innovation incentives increase in volatile environments and regulatory scrutiny actually encourages loophole exploitation activity. Our predictions are consistent with stylized facts and the analysis has broad testable implications for innovative activity in other markets similarly characterized by a lack of comprehensive protection for intellectual property rights, for example, the software industry.",
+            "link": "https://doi.org/10.1093/rfs/13.4.1101"
+        },
+        {
+            "no": "9",
+            "title": "Market Making, Prices, and Quantity Limits",
+            "date": "15 June 2015",
+            "author": [
+                "Dominique Dupont"
+            ],
+            "abstract": "This article develops a model of spread and depth setting under asymmetric information where the equilibrium depth is proportionally more sensitive than the spread to changes in the degree of information asymmetry. The analysis uses a one-period model in which a risk-neutral, monopolistic market maker faces a price-sensitive liquidity trader and a better informed trader who is alternatively risk neutral and risk averse. The equilibrium depth can take values ranging from 0 to infinity, depending on the information asymmetry, the asset volatility, and the strength of the liquidity demand, while the spread remains positive and finite.",
+            "link": "https://doi.org/10.1093/rfs/13.4.1129"
+        },
+        {
+            "no": "10",
+            "title": "Active Portfolio Management: A Quantitative Approach to Providing Superior Returns and Controlling Risk",
+            "date": "15 June 2015",
+            "author": [
+                "Gregory Connor"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/13.4.1153"
+        }
+    ]
+}

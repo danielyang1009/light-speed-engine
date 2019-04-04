@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. O/S: The relative trading activity in options and stock
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Richard Roll
 - Eduardo Schwartz
 - Avanidhar Subrahmanyam
@@ -26,7 +26,7 @@ Relatively little is known about the trading volume in derivatives relative to t
 ## 3. Performance persistence in entrepreneurship
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Paul Gompers
 - Anna Kovner
 - Josh Lerner
@@ -39,7 +39,7 @@ This paper presents evidence of performance persistence in entrepreneurship. We 
 ## 4. Quantifying private benefits of control from a structural model of block trades
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Rui Albuquerque
 - Enrique Schroth
 ### Abstract
@@ -50,7 +50,7 @@ We study the determinants of private benefits of control in negotiated block tra
 ## 5. A resolution of the distress risk and leverage puzzles in the cross section of stock returns
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Thomas J. George
 - Chuan-Yang Hwang
 ### Abstract
@@ -61,7 +61,7 @@ We revisit findings that returns are negatively related to financial distress in
 ## 6. The good news in short interest
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Ekkehart Boehmer
 - Zsuzsa R. Huszar
 - Bradford D. Jordan
@@ -73,7 +73,7 @@ Stocks with relatively high short interest subsequently experience negative abno
 ## 7. Institutional investors, intangible information, and the book-to-market effect
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Hao Jiang
 ### Abstract
 This paper establishes a robust link between the trading behavior of institutions and the book-to-market effect. Building on work by Daniel and Titman (2006), who argue that the book-to-market effect is driven by the reversal of intangible returns, I find that institutions tend to buy (sell) shares in response to positive (negative) intangible information and that the reversal of the intangible return is most pronounced among stocks for which a large proportion of active institutions trade in the direction of intangible information. Furthermore, the book-to-market effect is large and significant in stocks with intense past institutional trading but nonexistent in stocks with moderate institutional trading. This influence of institutional trading on the book-to-market effect is distinct from that of firm size. These results are consistent with the view that the tendency of institutions to trade in the direction of intangible information exacerbates price overreaction, thereby contributing to the value premium.
@@ -83,7 +83,7 @@ This paper establishes a robust link between the trading behavior of institution
 ## 8. The effect of state antitakeover laws on the firm's bondholders
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Bill B. Francis
 - Iftekhar Hasan
 - Kose John
@@ -96,7 +96,7 @@ We examine how state antitakeover laws affect bondholders and the cost of debt, 
 ## 9. How does law affect finance? An examination of equity tunneling in Bulgaria
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Vladimir Atanasov
 - Bernard Black
 - Conrad Ciccotello

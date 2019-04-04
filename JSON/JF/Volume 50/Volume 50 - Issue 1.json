@@ -1,0 +1,221 @@
+{
+    "journal": "JF",
+    "volume": "50",
+    "issue": "1",
+    "date": "March 1995",
+    "page": "Pages: i-vi, 1-429",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb00152.x"
+        },
+        {
+            "no": "2",
+            "title": "Smith Breeden Prizes for 1994",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05164.x"
+        },
+        {
+            "no": "3",
+            "title": "Postbankruptcy Performance and Management Turnover",
+            "date": "March 1995",
+            "author": [
+                "EDITH SHWALB HOTCHKISS"
+            ],
+            "abstract": "This article examines the performance of 197 public companies that emerged from Chapter 11. Over 40 percent of the sample firms continue to experience operating losses in the three years following bankruptcy; 32 percent reenter bankruptcy or privately restructure their debt. The continued involvement of prebankruptcy management in the restructuring process is strongly associated with poor post\u2010bankruptcy performance. The substantial number of firms emerging from Chapter 11 that are not viable or need further restructuring provides little evidence that the process effectively rehabilitates distressed firms and is consistent with the view that there are economically important biases toward continuation of unprofitable firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05165.x"
+        },
+        {
+            "no": "4",
+            "title": "The New Issues Puzzle",
+            "date": "March 1995",
+            "author": [
+                "TIM LOUGHRAN",
+                "JAY R. RITTER"
+            ],
+            "abstract": "Companies issuing stock during 1970 to 1990, whether an initial public offering or a seasoned equity offering, have been poor long\u2010run investments for investors. During the five years after the issue, investors have received average returns of only 5 percent per year for companies going public and only 7 percent per year for companies conducting a seasoned equity offer. Book\u2010to\u2010market effects account for only a modest portion of the low returns. An investor would have had to invest 44 percent more money in the issuers than in nonissuers of the same size to have the same wealth five years after the offering date.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05166.x"
+        },
+        {
+            "no": "5",
+            "title": "Pricing Derivatives on Financial Securities Subject to Credit Risk",
+            "date": "March 1995",
+            "author": [
+                "ROBERT A. JARROW",
+                "STUART M. TURNBULL"
+            ],
+            "abstract": "This article provides a new methodology for pricing and hedging derivative securities involving credit risk. Two types of credit risks are considered. The first is where the asset underlying the derivative security may default. The second is where the writer of the derivative security may default. We apply the foreign currency analogy of Jarrow and Turnbull (1991) to decompose the dollar payoff from a risky security into a certain payoff and a \u201cspot exchange rate.\u201d Arbitrage\u2010free valuation techniques are then employed. This methodology can be applied to corporate debt and over the counter derivatives, such as swaps and caps.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05167.x"
+        },
+        {
+            "no": "6",
+            "title": "Implementing Option Pricing Models When Asset Returns Are Predictable",
+            "date": "March 1995",
+            "author": [
+                "ANDREW W. LO",
+                "JIANG WANG"
+            ],
+            "abstract": "The predictability of an asset's returns will affect the prices of options on that asset, even though predictability is typically induced by the drift, which does not enter the option pricing formula. For discretely\u2010sampled data, predictability is linked to the parameters that do enter the option pricing formula. We construct an adjustment for predictability to the Black\u2010Scholes formula and show that this adjustment can be important even for small levels of predictability, especially for longer maturity options. We propose several continuous\u2010time linear diffusion processes that can capture broader forms of predictability, and provide numerical examples that illustrate their importance for pricing options.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05168.x"
+        },
+        {
+            "no": "7",
+            "title": "Size and Book\u2010to\u2010Market Factors in Earnings and Returns",
+            "date": "March 1995",
+            "author": [
+                "EUGENE F. FAMA",
+                "KENNETH R. FRENCH"
+            ],
+            "abstract": "We study whether the behavior of stock prices, in relation to size and book\u2010to\u2010market\u2010equity (BE/ME), reflects the behavior of earnings. Consistent with rational pricing, high BE/ME signals persistent poor earnings and low BE/ME signals strong earnings. Moreover, stock prices forecast the reversion of earnings growth observed after firms are ranked on size and BE/ME. Finally, there are market, size, and BE/ME factors in earnings like those in returns. The market and size factors in earnings help explain those in returns, but we find no link between BE/ME factors in earnings and returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05169.x"
+        },
+        {
+            "no": "8",
+            "title": "Portfolio Inefficiency and the Cross\u2010section of Expected Returns",
+            "date": "March 1995",
+            "author": [
+                "SHMUEL KANDEL",
+                "ROBERT F. STAMBAUGH"
+            ],
+            "abstract": "The Capital Asset Pricing Model implies that (i) the market portfolio is efficient and (ii) expected returns are linearly related to betas. Many do not view these implications as separate, since either implies the other, but we demonstrate that either can hold nearly perfectly while the other fails grossly. If the index portfolio is inefficient, then the coefficients and\nR\n2\nfrom an ordinary least squares regression of expected returns on betas can equal essentially any values and bear no relation to the index portfolio's mean\u2010variance location. That location does determine the outcome of a mean\u2010beta regression fitted by generalized least squares.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05170.x"
+        },
+        {
+            "no": "9",
+            "title": "Another Look at the Cross\u2010section of Expected Stock Returns",
+            "date": "March 1995",
+            "author": [
+                "S. P. KOTHARI",
+                "JAY SHANKEN",
+                "RICHARD G. SLOAN"
+            ],
+            "abstract": "Our examination of the cross\u2010section of expected returns reveals economically and statistically significant compensation (about 6 to 9 percent per annum) for beta risk when betas are estimated from time\u2010series regressions of annual portfolio returns on the annual return on the equally weighted market index. The relation between book\u2010to\u2010market equity and returns is weaker and less consistent than that in Fama and French (1992). We conjecture that past book\u2010to\u2010market results using COMPUS\u2010TAT data are affected by a selection bias and provide indirect evidence.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05171.x"
+        },
+        {
+            "no": "10",
+            "title": "Do Expected Shifts in Inflation Affect Estimates of the Long\u2010Run Fisher Relation?",
+            "date": "March 1995",
+            "author": [
+                "MARTIN D. D. EVANS",
+                "KAREN K. LEWIS"
+            ],
+            "abstract": "Recent empirical studies suggest that nominal interest rates and expected inflation do not move together one\u2010for\u2010one in the long run, a finding at odds with many theoretical models. This article shows that these results can be deceptive when the process followed by inflation shifts infrequently. We characterize the shifts in inflation by a Markov switching model. Based upon this model's forecasts, we reexamine the long\u2010run relationship between nominal interest rates and inflation. Interestingly, we are unable to reject the hypothesis that in the long run nominal interest rates reflect expected inflation one\u2010for\u2010one.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05172.x"
+        },
+        {
+            "no": "11",
+            "title": "Trading Behavior and the Unbiasedness of the Market Reaction to Dividend Announcements",
+            "date": "March 1995",
+            "author": [
+                "MUKESH BAJAJ",
+                "ANAND M. VIJH"
+            ],
+            "abstract": "This article examines the price formation process during dividend announcement day, using daily closing prices and transactions data. We find that the unconditional positive excess returns, first documented by Kalay and Loewenstein (1985), are higher for small\u2010firm and low\u2010priced stocks. Price volatility and trading volume also increase during this period. Examination of trade prices relative to the bid\u2010ask spread and volume of trades at bid and asked prices shows that the excess returns cannot be attributed to measurement errors or to spillover effects of tax\u2010related ex\u2010day trading. Rather, the price behavior is related to the absorption of dividend information.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05173.x"
+        },
+        {
+            "no": "12",
+            "title": "Stock Volatility and the Levels of the Basis and Open Interest in Futures Contracts",
+            "date": "March 1995",
+            "author": [
+                "NAI\u2010FU CHEN",
+                "CHARLES J. CUNY",
+                "ROBERT A. HAUGEN"
+            ],
+            "abstract": "This article tests a theoretical model of the basis and open interest of stock index futures. The model is based on the differences between stock and futures in terms of investors' ability to customize stock portfolios and liquidity. Empirical evidence confirms the model's prediction that increased volatility decreases the basis and increases open interest.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05174.x"
+        },
+        {
+            "no": "13",
+            "title": "Venture Capitalists and the Oversight of Private Firms",
+            "date": "March 1995",
+            "author": [
+                "JOSH LERNER"
+            ],
+            "abstract": "This article examines the representation of venture capitalists on the boards of private firms in their portfolios. If venture capitalists are intensive monitors of managers, their involvement as directors should be more intense when the need for oversight is greater. I show that venture capitalists' representation on the board increases around the time of chief executive officer turnover, while the number of other outsiders remains constant. I also show that distance to the firm is an important determinant of the board membership of venture capitalists, as might be anticipated if the oversight of local firms is less costly than more distant businesses.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05175.x"
+        },
+        {
+            "no": "14",
+            "title": "On Intraday Risk Premia",
+            "date": "March 1995",
+            "author": [
+                "MATTHEW SPIEGEL",
+                "AVANIDHAR SUBRAHMANYAM"
+            ],
+            "abstract": "This article presents a framework for analyzing the dynamic effects of anticipated large demand pressures on asset risk premia. We show that large institutions who can time their entry into the market will trade either at the open, or during periods of unusual demand pressures. We show that if these institutions do enter later in the day, they trade in the same direction as institutions which provide liquidity continuously; institutions therefore appear to exhibit \u201cherding\u201d behavior. We also explore how changing the uncertainty of demand pressures late in the day affects trading costs throughout the day.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05176.x"
+        },
+        {
+            "no": "15",
+            "title": "Information Quality, Performance Measurement, and Security Demand in Rational Expectations Economies",
+            "date": "March 1995",
+            "author": [
+                "THOMAS H. NOE",
+                "BUDDHAVARAPU SAILESH RAMAMURTIE"
+            ],
+            "abstract": "The relationship between asset demand and information quality in rational expectations economies is analyzed. First we derive a number of new summary descriptive statistics that measure four basic characteristics of investment style: asset selection, market timing, aggressiveness, and specialization. Then we relate these statistics to the divergence between a given investor's information structure and the market average information structure. Finally, we demonstrate that informational differentials can be identified, and consistently estimated, using ordinary least squares, from the time\u2010series of observed asset demand.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05177.x"
+        },
+        {
+            "no": "16",
+            "title": "Mean Reversion in Equilibrium Asset Prices: Evidence from the Futures Term Structure",
+            "date": "March 1995",
+            "author": [
+                "HENDRIK BESSEMBINDER",
+                "JAY F. COUGHENOUR",
+                "PAUL J. SEGUIN",
+                "MARGARET MONROE SMOLLER"
+            ],
+            "abstract": "We use the term structure of futures prices to test whether investors anticipate mean reversion in spot asset prices. The empirical results indicate mean reversion in each market we examine. For agricultural commodities and crude oil the magnitude of the estimated mean reversion is large; for example, point estimates indicate that 44 percent of a typical spot oil price shock is expected to be reversed over the subsequent eight months. For metals, the degree of mean reversion is substantially less, but still statistically significant. We detect only weak evidence of mean reversion in financial asset prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05178.x"
+        },
+        {
+            "no": "17",
+            "title": "Book Reviews",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nFinancial Risk Management: Fixed Income and Foreign Exchange. By TIM S. CAMPBELL and WILLIAM A. KRACAW\nFinancial Services: Perspectives and Challenges. Edited by SAMUEL L. HAYES\nCorporate Takeovers and Productivity. By FRANK R. LICHTENBERG\nThe Econometric Modelling of Financial Time Series. By TERENCE C. MILLS\nGrain Futures Contracts: An Economic Appraisal. By S. CRAIG PIRRONG, DAVID HADDOCK, and ROGER KORMENDI\nFinancial Institutions Management: A Modern Perspective. By ANTHONY SAUNDERS\nAdvances in Behavioral Finance. By RICHARD H. THALER",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05179.x"
+        },
+        {
+            "no": "18",
+            "title": "Miscellanea",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb05180.x"
+        },
+        {
+            "no": "19",
+            "title": "Association Meetings",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb00153.x"
+        },
+        {
+            "no": "20",
+            "title": "Announcements",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb00154.x"
+        },
+        {
+            "no": "21",
+            "title": "Back Matter",
+            "date": "March 1995",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1995.tb00155.x"
+        }
+    ]
+}

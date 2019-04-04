@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 1979
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Mar 1979
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -24,7 +24,7 @@
 ## 3. Measuring portfolio performance and the empirical content of asset pricing models
 ### Date
 - Mar 1979
-### Authors
+### Author
 - David Mayers
 - Edward M. Rice
 ### Abstract
@@ -35,7 +35,7 @@ Recent work by Richard Roll has challenged the worth of portfolio performance me
 ## 4. Information dissemination, market efficiency and the frequency of transactions
 ### Date
 - Mar 1979
-### Authors
+### Author
 - M. Barry Goldman
 - Howard B. Sosin
 ### Abstract
@@ -46,7 +46,7 @@ Casual observers of the New York Stock Exchange are often dumbfounded by the fre
 ## 5. The valuation of compound options
 ### Date
 - Mar 1979
-### Authors
+### Author
 - Robert Geske
 ### Abstract
 This paper presents a theory for pricing options on options, or compound options. The method can be generalized to value many corporate liabilities. The compound call option formula derived herein considers a call option on stock which is itself an option on the assets of the firm. This perspective incorporates leverage effects into option pricing and consequently the variance of the rate of return on the stock is not constant as Black-Scholes assumed, but is instead a function of the level of the stock price. The Black-Scholes formula is shown to be a special case of the compound option formula. This new model for puts and calls corrects some important biases of the Black-Scholes model.
@@ -56,7 +56,7 @@ This paper presents a theory for pricing options on options, or compound options
 ## 6. Financial leverage clienteles
 ### Date
 - Mar 1979
-### Authors
+### Author
 - E. Han Kim
 - Wilbur G. Lewellen
 - John J. McConnell
@@ -68,7 +68,7 @@ This paper examines the hypothesis that investors will sort themselves out into 
 ## 7. News item
 ### Date
 - Mar 1979
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -77,7 +77,7 @@ This paper examines the hypothesis that investors will sort themselves out into 
 ## 8. Journal of business finance and accounting
 ### Date
 - Mar 1979
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -1,0 +1,258 @@
+{
+    "journal": "JF",
+    "volume": "36",
+    "issue": "4",
+    "date": "September 1981",
+    "page": "Pages: i-vi, 769-995, vii-xvi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb00754.x"
+        },
+        {
+            "no": "2",
+            "title": "A Re\u2010examination of Traditional Hypotheses about the Term Structure of Interest Rates",
+            "date": "September 1981",
+            "author": [
+                "JOHN C. COX",
+                "JONATHAN E. INGERSOLL JR.",
+                "STEPHEN A. ROSS"
+            ],
+            "abstract": "The term structure of interest rates is an important subject to economists, and has a long history of traditions. This paper re\u2010examines many of these traditional hypotheses while employing recent advances in the theory of valuation and contingent claims. We show how the Expectations Hypothesis and the Preferred Habitat Theory must be reformulated if they are to obtain in a continuous\u2010time, rational\u2010expectations equilibrium. We also modify the linear adaptive interest rate forecasting models, which are common to the macroeconomic literature, so that they will be consistent in the same framework.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04884.x"
+        },
+        {
+            "no": "3",
+            "title": "Pension Funding, Share Prices, and National Savings",
+            "date": "September 1981",
+            "author": [
+                "MARTIN FELDSTEIN",
+                "STEPHANIE SELIGMAN"
+            ],
+            "abstract": "This paper examines empirically the effect of unfunded pension obligations on corporate share prices and discusses the implications of these estimates for national saving, the decline of the stock market in recent years, and the rationality of corporate financial behavior. The analysis uses the information on inflation\u2010adjusted income and assets which large firms were required to provide for 1976 and subsequent years.\nThe evidence for a sample of nearly 200 manufacturing firms is consistent with the conclusion that share prices fully reflect the value of unfunded pension obligations. Since the conventional accounting measure of the unfunded pension liability has a number of problems (which we examine in the paper), it would be more accurate to say that the data are consistent with the conclusion that shareholders accept the conventional measure as the best available information and reduce share prices by a corresponding amount.\nThe most important implication of the share price response is that the existence of unfunded private pension liabilities does not necessarily entail a reduction in total private saving. Because the pension liability reduces the equity value of the firm, shareholders are given notice of its existence and an incentive to save more themselves. For this reason, unfunded private pensions differ fundamentally from the unfunded Social Security pension and the other unfunded federal government civilian and military pensions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04885.x"
+        },
+        {
+            "no": "4",
+            "title": "A Theoretical Framework for Evaluating the Impact of Universal Reserve Requirements",
+            "date": "September 1981",
+            "author": [
+                "CASE M. SPRENKLE",
+                "BRYAN E. STANHOUSE"
+            ],
+            "abstract": "This paper provides an appropriate framework to evaluate the impact of the universal reserve requirements called for by the new DIDMC Act of 1980. We derived the optimal reserve ratios for a dual banking system under the objective of controlling the monetary aggregates and the level of output. Then optimal reserve requirements were calculated from illustrative money market and macroeconomic parameters since the usual comparative statics were not useful. The results, generally, suggested optimal reserve ratios which were significantly higher than the old dual or the new universal reserve regimes for all targets. However, the calculation of values for the loss functions under various reserve regimes suggests that attainment of\nr\n1\n*\n,\nr\n2\n*\nand\nt\n*\nmay not be imperative, since the discrepancy between losses for optimal and various nonoptimal reserve schemes were not large. A major result of this paper, observed for both monetary and real targets, was that the differences in the instability of the targets for the old dual reserve ratios and the Fed's new universal reserve scheme were small. This result clearly suggests that although the DIDMC Act may solve the Federal Reserve's membership problem, it will not significantly enhance the Fed's effectiveness in controlling monetary or real sector aggregates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04886.x"
+        },
+        {
+            "no": "5",
+            "title": "Effects of the 1970 Bank Holding Company Act: Evidence from Capital Markets",
+            "date": "September 1981",
+            "author": [
+                "JOSEPH AHARONY",
+                "ITZHAK SWARY"
+            ],
+            "abstract": "This study measures the effects of the 1970 amendment to the Bank Holding Company (BHC) Act on the profitability and risk of BHCs using capital market data. Differences in abnormal returns and risk among three portfolios of bank shares which differ in their regulatory status are examined in various periods preceding and following the enactment. No significant differences in performance and no change in the relative risk of any pair of portfolios were observed. Thus, the null hypothesis that the nonbank expansion provisions of the 1970 amendment had no effect on BHCs' risk and profitability cannot be rejected.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04887.x"
+        },
+        {
+            "no": "6",
+            "title": "Merger Announcements and Insider Trading Activity: An Empirical Investigation",
+            "date": "September 1981",
+            "author": [
+                "ARTHUR J. KEOWN",
+                "JOHN M. PINKERTON"
+            ],
+            "abstract": "This paper provides evidence of excess returns earned by investors in acquired firms prior to the first public announcement of planned mergers. The study is distinguished from earlier merger studies in its use of daily holding period returns for the 194 firms sampled. The results confirm statistically what most traders already know. Impending merger announcements are poorly held secrets, and trading on this nonpublic information abounds. Specifically, leakage of inside information is a pervasive problem occurring at a significant level up to 12 trading days prior to the first public announcement of a proposed merger.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04888.x"
+        },
+        {
+            "no": "7",
+            "title": "Portfolio Analysis with Factors and Scenarios",
+            "date": "September 1981",
+            "author": [
+                "HARRY M. MARKOWITZ",
+                "ANDR\u00c9F. PEROLD"
+            ],
+            "abstract": "Recently there has been a growing interest in the scenario model of covariance as an alternative to the one\u2010factor or many\u2010factor models. We show how the covariance matrix resulting from the scenario model can easily be made diagonal by adding new variables linearly related to the amounts invested; note the meanings of these new variables; note how portfolio variance divides itself into \u201cwithin scenario\u201d and \u201cbetween scenario\u201d variances; and extend the results to models in which scenarios and factors both appear where factor distributions and effects may or may not be scenario sensitive.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04889.x"
+        },
+        {
+            "no": "8",
+            "title": "A Possible Explanation of the Small Firm Effect",
+            "date": "September 1981",
+            "author": [
+                "RICHARD ROLL"
+            ],
+            "abstract": "Recent empirical studies have found that small listed firms yield higher average returns than large firms even when their riskiness is equal. The riskiness of small firms, however, has been improperly measured. Apparently, the error is due to auto\u2010correlation in portfolio returns caused by infrequent trading. Other anomalous predictors of riskadjusted returns, such as price/earnings ratios and dividend yields, may also derive some of their apparent power from this spurious source.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04890.x"
+        },
+        {
+            "no": "9",
+            "title": "Performance Hypothesis Testing with the Sharpe and Treynor Measures",
+            "date": "September 1981",
+            "author": [
+                "J. D. JOBSON",
+                "BOB M. KORKIE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04891.x"
+        },
+        {
+            "no": "10",
+            "title": "Optimal Regulation Under Uncertainty",
+            "date": "September 1981",
+            "author": [
+                "WILLIAM J. MARSHALL",
+                "JESS B. YAWITZ",
+                "EDWARD GREENBERG"
+            ],
+            "abstract": "This paper is concerned with the problem of price regulation when demand is uncertain. Uncertainty gives rise to substantial difficulties in determining both the return a firm's owners should be provided and a set of prices capable of producing that return. We argue that conventional approaches to price regulation are incapable of attaining the economically desirable objectives of efficiency and an equitable return to investors. The deficiencies in current practices are attributable to the separation of the risk measurement\u2010return determination and price setting activities in the conventional approach. We present a model of the regulated firm that synthesizes contemporary financial market theory and the theory of the firm under uncertainty.1\n1 A recent paper by Baron 1 furnishes an excellent review of a host of diverse issues involving the behavior of the firm under uncertainty and the role of financial markets.\n\nIn our approach, the income stream produced by the firm is valued ex ante in the financial market according to investors' perceptions and preferences over riskreturn characteristics. We portray the firm as producing risk and return by choosing among available production technologies to maximize its market value, given the prices set by regulators. Within this framework, it is shown that regulators can choose the lowest prices consistent with an equitable return to investors. We also show that prices so chosen induce the choice of the optimal technology by the firm.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04892.x"
+        },
+        {
+            "no": "11",
+            "title": "On the Effects of Barriers to International Investment",
+            "date": "September 1981",
+            "author": [
+                "REN\u00c9 M. STULZ"
+            ],
+            "abstract": "A simple model is presented in which it is costly for domestic investors to hold foreign assets. The implications of the model for the composition of optimal portfolios at home and abroad are derived. It is shown that all foreign assets with a beta larger than some beta\n\u03b2\n*\nplot on either one of two security market lines. Some foreign assets with a beta smaller than\n\u03b2\n*\nare not held by domestic investors even if their expected return is increased slightly.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04893.x"
+        },
+        {
+            "no": "12",
+            "title": "Reserve Requirements and the Structure of the CD Market: A Note*",
+            "date": "September 1981",
+            "author": [
+                "THOMAS A. LAWLER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04894.x"
+        },
+        {
+            "no": "13",
+            "title": "Risk Decomposition and Portfolio Diversification When Beta is Nonstationary: A Note",
+            "date": "September 1981",
+            "author": [
+                "SON\u2010NAN CHEN",
+                "ARTHUR J. KEOWN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04895.x"
+        },
+        {
+            "no": "14",
+            "title": "Reinsurance under Conditions of Capital Market Equilibrium: A Note*",
+            "date": "September 1981",
+            "author": [
+                "N. A. DOHERTY",
+                "S. M. TINIC"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04896.x"
+        },
+        {
+            "no": "15",
+            "title": "\u201cFisher, Phillips, Friedman and the Measured Impact of Inflation on Interest\u201d: A Comment",
+            "date": "September 1981",
+            "author": [
+                "HERBERT TAYLOR"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04897.x"
+        },
+        {
+            "no": "16",
+            "title": "Fisher, Phillips, Friedman and the Measured Impact of Inflation on Interest: A Reply",
+            "date": "September 1981",
+            "author": [
+                "MAURICE D. LEVI",
+                "JOHN H. MAKIN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04898.x"
+        },
+        {
+            "no": "17",
+            "title": "FHLB Advances and the Cost and Availability of Funds to S&Ls: A Comment",
+            "date": "September 1981",
+            "author": [
+                "BRIAN A. MARIS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04899.x"
+        },
+        {
+            "no": "18",
+            "title": "Book Reviews",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nShare Markets and Portfolio Theory: Readings and Australian Evidence. Edited by RAY BALL, PHILIP BROWN, FRANK J. FINN, and R. R. OFFICER.\nThe Economics of Taxation. Edited by HENRY AARON and MICHAEL BOSKIN.\nForeign Exchange Management in U.S. Multinationals. By RITA M. RODRIGUEZ.\nInvestment Strategies for Doctors. By DAVID A. UMSTEAD\nInvestment Strategies for Doctors. By DAVID A. UMSTEAD\nIntroduction to Financial Management. By IQBAL MATHUR\nPrinciples of Corporate Finance. By RICHARD BREALEY and STEWART MYERS\nFinance and Accounting for Nonfinancial Managers. By WILLIAM C. DROMS",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04900.x"
+        },
+        {
+            "no": "19",
+            "title": "Miscellanea",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04901.x"
+        },
+        {
+            "no": "20",
+            "title": "PRELIMINARY PROGRAM FORTIETH ANNUAL MEETING AMERICAN FINANCE ASSOCIATION",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04902.x"
+        },
+        {
+            "no": "21",
+            "title": "STYLE INSTRUCTIONS",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04903.x"
+        },
+        {
+            "no": "22",
+            "title": "EASTERN FINANCE ASSOCIATION CALL FOR PAPERS",
+            "date": "September 1981",
+            "author": [
+                "Philip L. Cooley"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04904.x"
+        },
+        {
+            "no": "23",
+            "title": "THE JERUSALEM BUSINESS SCHOOL THE HEBREW UNIVERSITY OF JERUSALEM",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04882.x"
+        },
+        {
+            "no": "24",
+            "title": "VISITING SCHOLAR POSITION",
+            "date": "September 1981",
+            "author": [
+                "William A. Longbrake"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb04883.x"
+        },
+        {
+            "no": "25",
+            "title": "Back Matter",
+            "date": "September 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb00755.x"
+        }
+    ]
+}

@@ -1,0 +1,298 @@
+{
+    "journal": "JF",
+    "volume": "52",
+    "issue": "4",
+    "date": "September 1997",
+    "page": "Pages: i-vii, 1615-1723, viii, 1725-1758, ix-lxxx",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00411.x"
+        },
+        {
+            "no": "2",
+            "title": "Does the Specialist Matter? Differential Execution Costs and Intersecurity Subsidization on the New York Stock Exchange",
+            "date": "18 April 2012",
+            "author": [
+                "CHARLES CAO",
+                "HYUK CHOE",
+                "FRANK HATHEWAY"
+            ],
+            "abstract": "This article tests for differences in execution costs among specialist firms for New York Stock Exchange listed securities. Execution cost differences provide a measure of the relative performance of specialist firms. We find a substantial difference in effective spreads and order processing costs across specialist firms, controlling for stock characteristics. While economically significant, the differences in execution costs between specialist firms are much smaller than the cross\u2010market differences reported by Huang and Stoll (1996). Within a specialist firm, there is a positive relation between order processing costs and trading activity that is consistent with the hypothesis that active stocks subsidize inactive stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01123.x"
+        },
+        {
+            "no": "3",
+            "title": "Corporate Governance and Equity Prices: Evidence from the Czech and Slovak Republics",
+            "date": "18 April 2012",
+            "author": [
+                "STIJN CLAESSENS"
+            ],
+            "abstract": "The Czech and Slovak Republics' mass privatization scheme used voucher points distributed to the population and a competitive bidding process to change the governance of a large number of firms. Voucher prices and following secondary market prices are shown to depend upon the resulting ownership structures. The more concentrated ownership is, the higher prices are. High absolute ownership by a single domestic investor is associated with even higher voucher prices. I find some evidence that initially prices are relatively lower when a bank\u2010sponsored investment fund has a relatively large stake in a firm. This suggests conflicts of interest.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01124.x"
+        },
+        {
+            "no": "4",
+            "title": "Public Offerings of State\u2010Owned And Privately\u2010Owned Enterprises: An International Comparison",
+            "date": "18 April 2012",
+            "author": [
+                "KATHRYN L. DEWENTER",
+                "PAUL H. MALATESTA"
+            ],
+            "abstract": "We compare initial offer prices in privatizations to initial prices in public offerings of private companies. The evidence indicates that government officials in the United Kingdom underprice IPOs significantly more than their private company counterparts. In Canada and Malaysia, however, the opposite is true. There does not appear to be a general tendency for privatizations to be underpriced to a greater degree than private company IPOs. We provide additional evidence on the determinants of privatization initial returns. Our findings indicate that initial returns are significantly higher in relatively primitive capital markets and for privatized companies in regulated industries.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01125.x"
+        },
+        {
+            "no": "5",
+            "title": "The Relation Between Default\u2010Free Interest Rates and Expected Economic Growth Is Stronger Than You Think",
+            "date": "18 April 2012",
+            "author": [
+                "AVRAHAM KAMARA"
+            ],
+            "abstract": "The relation between default\u2010free interest rates and expected economic growth is substantially stronger than suggested by extant literature. Futures\u2010implied Treasury bill yield spreads are more highly correlated with future real consumption, investment, and GNP growth than spot spreads. This stronger relation arises because using futures removes a component of the spot term structure that covaries negatively with real economic growth. Treasury forward rates from spot bills contain a premium for the risk that short\u2010sellers will default. This risk premium is negatively related to expected economic growth.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01126.x"
+        },
+        {
+            "no": "6",
+            "title": "Gaussian Estimation of Single\u2010Factor Continuous Time Models of The Term Structure of Interest Rates",
+            "date": "18 April 2012",
+            "author": [
+                "K. B. NOWMAN"
+            ],
+            "abstract": "This article presents the first application in finance of recently developed methods for the Gaussian estimation of continuous time dynamic models. A range of one factor continuous time models of the short\u2010term interest rate are estimated using a discrete time model and compared to a recent discrete approximation used by Chan, Karolyi, Longstaff, and Sanders (1992a, hereafter CKLS). Whereas the volatility of short\u2010term rates is highly sensitive to the level of rates in the United States, it is not in the United Kingdom.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01127.x"
+        },
+        {
+            "no": "7",
+            "title": "The Market for Equity Options in the 1870s",
+            "date": "18 April 2012",
+            "author": [
+                "JOSEPH P. KAIRYS JR.",
+                "NICHOLAS VALERIO III"
+            ],
+            "abstract": "The introduction of exchange\u2010traded options in 1973 led to explosive growth in the stock options market, but put and call options on equity securities have existed for more than a century. Prior to the listing of option contracts, trading was conducted in an order\u2010driven over\u2010the\u2010counter market. From 1873 to 1875, quotes for options contracts were published weekly in The Commercial and Financial Chronicle during a period that saw extensive marketing efforts by a number of brokerage firms. In this article we examine these quotes to determine why this seemingly sophisticated market existed for only a brief period in financial history.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01128.x"
+        },
+        {
+            "no": "8",
+            "title": "EDITORIAL",
+            "date": "18 April 2012",
+            "author": [
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01110.x"
+        },
+        {
+            "no": "9",
+            "title": "Testing Market Efficiency: Evidence From The NFL Sports Betting Market",
+            "date": "18 April 2012",
+            "author": [
+                "PHILIP K. GRAY",
+                "STEPHEN F. GRAY"
+            ],
+            "abstract": "This article examines the efficiency of the National Football League (NFL) betting market. The standard ordinary least squares (OLS) regression methodology is replaced by a probit model. This circumvents potential econometric problems, and allows us to implement more sophisticated betting strategies where bets are placed only when there is a relatively high probability of success. In\u2010sample tests indicate that probit\u2010based betting strategies generate statistically significant profits. Whereas the profitability of a number of these betting strategies is confirmed by out\u2010of\u2010sample testing, there is some inconsistency among the remaining out\u2010of\u2010sample predictions. Our results also suggest that widely documented inefficiencies in this market tend to dissipate over time.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01129.x"
+        },
+        {
+            "no": "10",
+            "title": "An Econometric Model of the Term Structure of Interest\u2010Rate Swap Yields",
+            "date": "18 April 2012",
+            "author": [
+                "DARRELL DUFFIE",
+                "KENNETH J. SINGLETON"
+            ],
+            "abstract": "This article develops a multi\u2010factor econometric model of the term structure of interest\u2010rate swap yields. The model accommodates the possibility of counterparty default, and any differences in the liquidities of the Treasury and Swap markets. By parameterizing a model of swap rates directly, we are able to compute model\u2010based estimates of the defaultable zero\u2010coupon bond rates implicit in the swap market without having to specify a priori the dependence of these rates on default hazard or recovery rates. The time series analysis of spreads between zero\u2010coupon swap and treasury yields reveals that both credit and liquidity factors were important sources of variation in swap spreads over the past decade.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01111.x"
+        },
+        {
+            "no": "11",
+            "title": "Why Firms Use Currency Derivatives",
+            "date": "18 April 2012",
+            "author": [
+                "CHRISTOPHER G\u00c9CZY",
+                "BERNADETTE A. MINTON",
+                "CATHERINE SCHRAND"
+            ],
+            "abstract": "We examine the use of currency derivatives in order to differentiate among existing theories of hedging behavior. Firms with greater growth opportunities and tighter financial constraints are more likely to use currency derivatives. This result suggests that firms might use derivatives to reduce cash flow variation that might otherwise preclude firms from investing in valuable growth opportunities. Firms with extensive foreign exchange\u2010rate exposure and economies of scale in hedging activities are also more likely to use currency derivatives. Finally, the source of foreign exchange\u2010rate exposure is an important factor in the choice among types of currency derivatives.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01112.x"
+        },
+        {
+            "no": "12",
+            "title": "On The Robustness of Size and Book\u2010to\u2010Market in Cross\u2010Sectional Regressions",
+            "date": "18 April 2012",
+            "author": [
+                "PETER J. KNEZ",
+                "MARK J. READY"
+            ],
+            "abstract": "We use a robust regression estimator to analyze the risk premia on size and book\u2010to\u2010market. We find that the risk premium on size that was estimated by Fama and French (1992) completely disappears when the 1 percent most extreme observations are trimmed each month. We also show that the negative average of the monthly size coefficients reported by Fama and French can be entirely explained by the 16 months with the most extreme coefficients. We argue that further investigation of these results could lead to an understanding of the economic forces underlying the size effect, and may also yield important insights into how firms grow.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01113.x"
+        },
+        {
+            "no": "13",
+            "title": "Approximating the Asset Pricing Kernel",
+            "date": "18 April 2012",
+            "author": [
+                "DAVID A. CHAPMAN"
+            ],
+            "abstract": "This article tests a simple consumption\u2010based asset pricing model by approximating the true asset pricing kernel using low\u2010order orthonormal polynomials based on the model's state variables. Approximated kernels based solely on next period's consumption growth are not rejected by overall measures of model fit, but they produce statistically and economically large pricing errors. Approximated kernels based on two quarters of future consumption growth and technology shocks have substantially improved overall fit. In particular, the best of these kernels are capable of eliminating the small firm effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01114.x"
+        },
+        {
+            "no": "14",
+            "title": "Managerial Entrenchment and Capital Structure Decisions",
+            "date": "18 April 2012",
+            "author": [
+                "PHILIP G. BERGER",
+                "ELI OFEK",
+                "DAVID L. YERMACK"
+            ],
+            "abstract": "We study associations between managerial entrenchment and firms' capital structures, with results generally suggesting that entrenched CEOs seek to avoid debt. In a cross\u2010sectional analysis, we find that leverage levels are lower when CEOs do not face pressure from either ownership and compensation incentives or active monitoring. In an analysis of leverage changes, we find that leverage increases in the aftermath of entrenchment\u2010reducing shocks to managerial security, including unsuccessful tender offers, involuntary CEO replacements, and the addition to the board of major stockholders.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01115.x"
+        },
+        {
+            "no": "15",
+            "title": "Do Firms Knowingly Sell Overvalued Equity?",
+            "date": "18 April 2012",
+            "author": [
+                "INMOO LEE"
+            ],
+            "abstract": "This article examines the relation between top executives' trading and the long\u2010run stock returns of seasoned equity issuing firms. Primary issuers, who sell mostly newly\u2010issued primary shares, significantly underperform their benchmarks, regardless of the top executives' prior trading pattern. However, top executives' trading is reliably associated with the stock returns of secondary issuers, who sell mostly secondary shares previously held by existing shareholders. On average, secondary issuers do not underperform their benchmarks. The results suggest that increased free cash flow problems after issue play an important role in explaining the underperformance of issuing firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01116.x"
+        },
+        {
+            "no": "16",
+            "title": "Defensive Mechanisms and Managerial Discretion",
+            "date": "18 April 2012",
+            "author": [
+                "RONALD GIAMMARINO",
+                "ROBERT HEINKEL",
+                "BURTON HOLLIFIELD"
+            ],
+            "abstract": "We study a model where firms may possess free cash flow and takeovers may be disruptive. We show that the possibility of a takeover, combined with defensive mechanisms and the ability to pay greenmail, can solve the free cash flow problem in an efficient way. The payment of greenmail reveals information that generates a stock price decline that exceeds the value of the greenmail payment, even though the payment of greenmail is value maximizing. Optimal defensive measures limit takeover attempts if the target stock price is too low. We also provide cross\u2010sectional implications of the analysis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01117.x"
+        },
+        {
+            "no": "17",
+            "title": "CEO Contracting and Antitakeover Amendments",
+            "date": "18 April 2012",
+            "author": [
+                "KENNETH A. BOROKHOVICH",
+                "KELLY R. BRUNARSKI",
+                "ROBERT PARRINO"
+            ],
+            "abstract": "This article examines incentives for adopting antitakeover charter amendments (ATAs) that are associated with compensation contracts. The evidence is consistent with the hypothesis that antitakeover measures such as ATAs help managers protect above\u2010market levels of compensation. Chief executive officers (CEOs) of firms that adopt ATAs receive higher salaries and more valuable option grants than CEOs at similar firms that do not adopt them. Furthermore, the magnitude of this difference increases following ATA adoption. The evidence is inconsistent with the hypothesis that ATAs facilitate the writing of efficient compensation contracts.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01118.x"
+        },
+        {
+            "no": "18",
+            "title": "The Cyclical Behavior of Interest Rates",
+            "date": "18 April 2012",
+            "author": [
+                "ANTONIO ROMA",
+                "WALTER TOROUS"
+            ],
+            "abstract": "This article investigates the behavior of the term structure of interest rates over the business cycle. In contrast to prior studies that measure the business cycle by the simple growth in aggregate economic activity, we consider the deviation of aggregate economic activity from its potentially stochastic trend. We show that incorporating both an independent trend and cyclical component in consumption improves the efficiency in estimating consumption\u2010based asset pricing models. We also find that the term spread is more informative about future changes in stochastically detrended real gross domestic product (GDP) than future growth rates in real GDP.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01119.x"
+        },
+        {
+            "no": "19",
+            "title": "Institutions and Individuals at the Turn\u2010of\u2010the\u2010Year",
+            "date": "18 April 2012",
+            "author": [
+                "RICHARD W. SIAS",
+                "LAURA T. STARKS"
+            ],
+            "abstract": "This article evaluates the tax\u2010loss\u2010selling hypothesis against the window\u2010dressing hypothesis as explanations for turn\u2010of\u2010the\u2010year anomalies. We examine differences between securities dominated by individual investors versus those dominated by institutional investors and find that the effect is more pervasive in the former. Controlling for capitalization, we find that in early January (late December), stocks with greater individual investor interest outperform (underperform) stocks with greater institutional investor interest. These results hold for both stocks that previously appreciated in value and stocks that previously depreciated in value. The results are most consistent with the tax\u2010loss\u2010selling hypothesis as an explanation for the turn\u2010of\u2010the\u2010year effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01120.x"
+        },
+        {
+            "no": "20",
+            "title": "Portfolio Disclosures and Year\u2010End Price Shifts",
+            "date": "18 April 2012",
+            "author": [
+                "DAVID K. MUSTO"
+            ],
+            "abstract": "Commercial paper sells at an extra discount if it matures in the next calendar year but Treasury bills do not. The discount is apparent in downward price shifts before the year\u2010end, and upward price shifts at the turn of the year that are significantly correlated with the simultaneous returns to small stocks, and that cannot reflect tax\u2010loss selling. Cross\u2010sectional and time\u2010series tests on prices, as well as low of funds evidence on trades by institutional investors, indicate that both the debt and equity patterns reflect agency problems related to portfolio disclosures.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01121.x"
+        },
+        {
+            "no": "21",
+            "title": "Informed Traders, Intervention, and Price Leadership: A Deeper View of the Microstructure of the Foreign Exchange Market",
+            "date": "18 April 2012",
+            "author": [
+                "BETTINA PEIERS"
+            ],
+            "abstract": "This article identifies price leadership patterns in foreign exchange trading, with a focus on central bank intervention as an informational trigger for leadership positioning. Granger causality tests applied to DM/US$ spot rate quotes reveal Deutsche Bank as a price leader up to 60 minutes prior to Bundesbank interventionary reports. By the minus 25\u2010minute mark, interbank quote adjustments become two\u2010way Granger\u2010causal. These results suggest that central bank activity is revealed in stages: first to the price leader, then to competitors, and lastly to the general public.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01122.x"
+        },
+        {
+            "no": "22",
+            "title": "Book Reviews",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nCorporate Finance, Theory and Practice. By ASWATH DAMODARAN\nCorporate Financial Management. By DOUGLAS R. EMERY and JOHN D. FINNERTY\nCrisis and Reform in Latin America, From Despair to Hope. By SESBASTIAN EDWARDS\nCorporate Bankruptcy: Economic and Legal Perspectives, edited by JAGDEEP S. BHANDARI and LAWRENCE A. WEISS",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01130.x"
+        },
+        {
+            "no": "23",
+            "title": "MISCELLANEA",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb01131.x"
+        },
+        {
+            "no": "24",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00412.x"
+        },
+        {
+            "no": "25",
+            "title": "Participants in the AFA Program",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00413.x"
+        },
+        {
+            "no": "26",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00414.x"
+        },
+        {
+            "no": "27",
+            "title": "ANNOUNCEMENTS",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00415.x"
+        },
+        {
+            "no": "28",
+            "title": "FROM THE EXSEC'S NOTEBOOK",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00416.x"
+        },
+        {
+            "no": "29",
+            "title": "Back Matter",
+            "date": "17 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00417.x"
+        }
+    ]
+}

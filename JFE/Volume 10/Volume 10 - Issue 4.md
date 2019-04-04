@@ -5,7 +5,7 @@
 ## 1. Note from the editors
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Bond indenture provisions and the risk of corporate debt
 ### Date
 - Dec 1982
-### Authors
+### Author
 - Thomas S.Y. Ho
 - Ronald F. Singer
 ### Abstract
@@ -34,7 +34,7 @@ This paper examines the effect of alternative bond indenture provisions on the a
 ## 4. The stochastic behavior of common stock variances
 ### Date
 - Dec 1982
-### Authors
+### Author
 - Andrew A. Christie
 ### Abstract
 This paper examines the relation between the variance of equity returns and several explanatory variables. It is found that equity variances have a strong positive association with both financial leverage and, contrary to the predictions of the options literature, interest rates. To a substantial degree, the negative elasticity of variance with respect to value of equity that is part of market folklore is found to be attributable to financial leverage. A maximum likehood estimator is developed for this elasticity that is substantially more efficient than extant estimation procedures.
@@ -44,7 +44,7 @@ This paper examines the relation between the variance of equity returns and seve
 ## 5. Potential performance and tests of portfolio efficiency
 ### Date
 - Dec 1982
-### Authors
+### Author
 - J.D. Jobson
 - Bob Korkie
 ### Abstract
@@ -55,7 +55,7 @@ The potential performance of an asset set may be obtained by choosing the portfo
 ## 6. The effect of temporal risk aversion on liquidity preference
 ### Date
 - Dec 1982
-### Authors
+### Author
 - Gyorgy G. Karady
 ### Abstract
 In most instances, investors are not indifferent to risk. Their attitudes toward it influence their decisions. Temporal risk aversion, the dynamic analogue of the usual concept of risk aversion, has a marked effect on investors' decisions but is usually ignored in the literature. This paper investigates the liquidity preference of temporally risk-averse investors. The analysis shows that, all other things being equal, temporal risk aversion reduces the liquidity premium investors must receive to hold an asset that is not perfectly reversible. Thus, the optimal investment policy is closer to what one would expect had a frictionless exchange market existed for the irreversible asset. As far as an individual's investment behavior is concerned, temporal risk aversion counters the effects of an asset's irreversibility and tends to compensate for the absence of frictionless exchange.
@@ -65,7 +65,7 @@ In most instances, investors are not indifferent to risk. Their attitudes toward
 ## 7. News item
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -74,7 +74,7 @@ In most instances, investors are not indifferent to risk. Their attitudes toward
 ## 8. Editorial collaborators
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -83,7 +83,7 @@ In most instances, investors are not indifferent to risk. Their attitudes toward
 ## 9. Index
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -92,7 +92,7 @@ In most instances, investors are not indifferent to risk. Their attitudes toward
 ## 10. Subject index
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -101,7 +101,7 @@ In most instances, investors are not indifferent to risk. Their attitudes toward
 ## 11. Author index
 ### Date
 - Dec 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link

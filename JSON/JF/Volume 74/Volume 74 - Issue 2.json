@@ -1,0 +1,188 @@
+{
+    "journal": "JF",
+    "volume": "74",
+    "issue": "2",
+    "date": "April 2019",
+    "page": "Pages: 537-1081",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "07 March 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12629"
+        },
+        {
+            "no": "2",
+            "title": "AMUNDI PIONEER AND BRATTLE GROUP PRIZES FOR 2018",
+            "date": "07 March 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12767"
+        },
+        {
+            "no": "3",
+            "title": "Political Connections and Allocative Distortions",
+            "date": "14 December 2018",
+            "author": [
+                "DAVID SCHOENHERR"
+            ],
+            "abstract": "Exploiting a unique institutional setting in Korea, this paper documents that politicians can increase the amount of government resources allocated through their social networks to the benefit of private firms connected to these networks. After winning the election, the new president appoints members of his networks as CEOs of state\u2010owned firms that act as intermediaries in allocating government contracts to private firms. In turn, these state firms allocate significantly more procurement contracts to private firms with a CEO from the same network. Contracts allocated to connected private firms are executed systematically worse and exhibit more frequent cost increases through renegotiations.",
+            "link": "https://doi.org/10.1111/jofi.12751"
+        },
+        {
+            "no": "4",
+            "title": "Portfolio Manager Compensation in the U.S. Mutual Fund Industry",
+            "date": "12 December 2018",
+            "author": [
+                "LINLIN MA",
+                "YUEHUA TANG",
+                "JUAN\u2010PEDRO G\u00d3MEZ"
+            ],
+            "abstract": "We study compensation contracts of individual portfolio managers using hand\u2010collected data of over 4,500 U.S. mutual funds. Variations in the compensation structures are broadly consistent with an optimal contracting equilibrium. The likelihood of explicit performance\u2010based incentives is positively correlated with the intensity of agency conflicts, as proxied by the advisor's clientele dispersion, its affiliations in the financial industry, and its ownership structure. Investor sophistication and the threat of dismissal in outsourced funds serve as substitutes for explicit performance\u2010based incentives. Finally, we find little evidence of differences in future performance associated with any particular compensation arrangement.",
+            "link": "https://doi.org/10.1111/jofi.12749"
+        },
+        {
+            "no": "5",
+            "title": "Sticky Expectations and the Profitability Anomaly",
+            "date": "07 October 2018",
+            "author": [
+                "JEAN\u2010PHILIPPE BOUCHAUD",
+                "PHILIPP KR\u00dcGER",
+                "AUGUSTIN LANDIER",
+                "DAVID THESMAR"
+            ],
+            "abstract": "We propose a theory of the \u201cprofitability\u201d anomaly. In our model, investors forecast future profits using a signal and sticky belief dynamics. In this model, past profits forecast future returns (the profitability anomaly). Using analyst forecast data, we measure expectation stickiness at the firm level and find strong support for three additional model predictions: (1) analysts are on average too pessimistic regarding the future profits of high\u2010profit firms, (2) the profitability anomaly is stronger for stocks that are followed by stickier analysts, and (3) the profitability anomaly is stronger for stocks with more persistent profits.",
+            "link": "https://doi.org/10.1111/jofi.12734"
+        },
+        {
+            "no": "6",
+            "title": "An Explanation of Negative Swap Spreads: Demand for Duration from Underfunded Pension Plans",
+            "date": "13 December 2018",
+            "author": [
+                "SVEN KLINGLER",
+                "SURESH SUNDARESAN"
+            ],
+            "abstract": "The 30\u2010year U.S. swap spreads have been negative since September 2008. We offer a novel explanation for this persistent anomaly. Through an illustrative model, we show that underfunded pension plans optimally use swaps for duration hedging. Combined with dealer banks' balance sheet constraints, this demand can drive swap spreads to become negative. Empirically, we construct a measure of the aggregate funding status of defined benefit pension plans and show that this measure helps explain 30\u2010year swap spreads. We find a similar link between pension funds' underfunding and swap spreads for two other regions.",
+            "link": "https://doi.org/10.1111/jofi.12750"
+        },
+        {
+            "no": "7",
+            "title": "Stealing Deposits: Deposit Insurance, Risk\u2010Taking, and the Removal of Market Discipline in Early 20th\u2010Century Banks",
+            "date": "16 December 2018",
+            "author": [
+                "CHARLES W. CALOMIRIS",
+                "MATTHEW JAREMSKI"
+            ],
+            "abstract": "Deposit insurance reduces liquidity risk but can increase insolvency risk by encouraging reckless behavior. Several U.S. states installed deposit insurance laws before the creation of the Federal Deposit Insurance Corporation, and those laws applied only to some depository institutions within those states. These experiments present a unique testing ground for investigating the effect of deposit insurance. We show that deposit insurance removed market discipline constraining uninsured banks. Taking advantage of World War I's rise in world agricultural prices, insured banks increased their insolvency risk and competed aggressively for deposits. When prices fell after the war, the insurance systems collapsed and suffered high losses.",
+            "link": "https://doi.org/10.1111/jofi.12753"
+        },
+        {
+            "no": "8",
+            "title": "Who Finances Durable Goods and Why It Matters: Captive Finance and the Coase Conjecture",
+            "date": "19 December 2018",
+            "author": [
+                "JUSTIN MURFIN",
+                "RYAN PRATT"
+            ],
+            "abstract": "We propose that, by financing their own product sales through captive finance subsidiaries, durable goods manufacturers commit to higher resale values for their products in future periods. Using data on captive financing by the manufacturers of heavy equipment, we find that captive\u2010backed models have lower price depreciation. The evidence is consistent with captive finance helping manufacturers commit to ex\u2010post actions that support used machine prices. This, in turn, conveys higher pledgeability for captive\u2010backed products, even for individual machines financed by banks. Although motivated as a rent\u2010seeking device, captive financing generates positive spillovers by relaxing credit\u00a0constraints.",
+            "link": "https://doi.org/10.1111/jofi.12745"
+        },
+        {
+            "no": "9",
+            "title": "The Dynamic Properties of Financial\u2010Market Equilibrium with Trading Fees",
+            "date": "12 December 2018",
+            "author": [
+                "ADRIAN BUSS",
+                "BERNARD DUMAS"
+            ],
+            "abstract": "We incorporate trading fees into a dynamic, multiagent general\u2010equilibrium model in which traders optimally decide when to trade. For that purpose, we propose an innovative algorithm that synchronizes the traders. Securities prices are not so much affected by the payment of the fees itself, but rather by the trade\u2010off that the traders face between smoothing consumption and smoothing holdings. In calibrated examples, the interest rate and welfare decline with trading fees, while risk premia and volatilities increase. Liquidity risk and expected liquidity are priced, leading to deviations from the consumption\u2010CAPM. With trading fees, capital is slow\u2010moving, generating slow price reversal.",
+            "link": "https://doi.org/10.1111/jofi.12744"
+        },
+        {
+            "no": "10",
+            "title": "Equity Misvaluation and Default Options",
+            "date": "18 December 2018",
+            "author": [
+                "ASSAF EISDORFER",
+                "AMIT GOYAL",
+                "ALEXEI ZHDANOV"
+            ],
+            "abstract": "We study whether default options are mispriced in equity values by employing a structural equity valuation model that explicitly takes into account the value of the option to default (or abandon the firm) and uses firm\u2010specific inputs. We implement our model on the entire cross section of stocks and identify both over\u2010 and underpriced equities. An investment strategy that buys undervalued stocks and shorts overvalued stocks generates an annual four\u2010factor alpha of about 11% for U.S. stocks. The model's performance is stronger for stocks with a higher value of the default option, such as distressed or highly volatile stocks.",
+            "link": "https://doi.org/10.1111/jofi.12748"
+        },
+        {
+            "no": "11",
+            "title": "Stockholders\u2019 Unrealized Returns and the Market Reaction to Financial Disclosures",
+            "date": "13 December 2018",
+            "author": [
+                "ERIC WEISBROD"
+            ],
+            "abstract": "Using both investor\u2010 and stock\u2010level data, I examine the relation between stockholders\u2019 unrealized returns since purchase and the market response to earnings announcements. I demonstrate that stockholders\u2019 unrealized gain/loss position moderates their trading behavior in response to earnings announcements. I also find that this behavior generates a short\u2010window return underreaction to earnings news. My results are generally consistent with predictions from prospect theory regarding the manner in which stockholders\u2019 unrealized returns moderate their trading response to belief shocks. However, my results also suggest that an emotional component (i.e., regret\u2010avoidance/pride\u2010seeking) is necessary to explain the observed investor behavior.",
+            "link": "https://doi.org/10.1111/jofi.12743"
+        },
+        {
+            "no": "12",
+            "title": "Robust Measures of Earnings Surprises",
+            "date": "19 December 2018",
+            "author": [
+                "CHIN\u2010HAN CHIANG",
+                "WEI DAI",
+                "JIANQING FAN",
+                "HARRISON HONG",
+                "JUN TU"
+            ],
+            "abstract": "Event studies of market efficiency measure earnings surprises using the consensus error (CE), given as actual earnings minus the average professional forecast. If a subset of forecasts can be biased, the ideal but difficult to estimate parameter\u2010dependent alternative to CE is a nonlinear filter of individual errors that adjusts for bias. We show that CE is a poor parameter\u2010free approximation of this ideal measure. The fraction of misses on the same side (FOM), which discards the magnitude of misses, offers a far better approximation. FOM performs particularly well against CE in predicting the returns of U.S. stocks, where bias is potentially large.",
+            "link": "https://doi.org/10.1111/jofi.12746"
+        },
+        {
+            "no": "13",
+            "title": "Sentiment Metrics and Investor Demand",
+            "date": "17 December 2018",
+            "author": [
+                "LUKE DeVAULT",
+                "RICHARD SIAS",
+                "LAURA STARKS"
+            ],
+            "abstract": "Recent work suggests that sentiment traders shift from safer to more speculative stocks when sentiment increases. Exploiting these cross\u2010sectional patterns and changes in share ownership, we find that sentiment metrics capture institutional rather than individual investors\u2019 demand shocks. We investigate the underlying economic mechanisms and find that common institutional investment styles (e.g., risk management, momentum trading) explain a significant portion of the relation between institutions and sentiment.",
+            "link": "https://doi.org/10.1111/jofi.12754"
+        },
+        {
+            "no": "14",
+            "title": "Cautious Risk Takers: Investor Preferences and Demand for Active Management",
+            "date": "13 December 2018",
+            "author": [
+                "VALERY POLKOVNICHENKO",
+                "KELSEY D. WEI",
+                "FENG ZHAO"
+            ],
+            "abstract": "Despite their mediocre mean performance, actively managed mutual funds are distinct from passive funds in their return distributions. Active value funds better hedge downside risk, while active growth funds better capture upside potential. Since such performance features may appeal to investors with tail\u2010overweighting preferences, we show that preferences for downside protection and upside potential estimated from the empirical pricing kernel can help explain active fund flows in the value and growth categories, respectively. This effect of investor risk preferences varies significantly with funds' downside\u2010hedging and upside\u2010capturing ability, with levels of active management, and across retirement and retail funds.",
+            "link": "https://doi.org/10.1111/jofi.12747"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "07 March 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12626"
+        },
+        {
+            "no": "16",
+            "title": "ANNOUNCEMENTS",
+            "date": "07 March 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12627"
+        },
+        {
+            "no": "17",
+            "title": "ISSUE INFORMATION BM",
+            "date": "07 March 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12630"
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "journal": "RFS",
+    "volume": "28",
+    "issue": "10",
+    "date": "October 2015",
+    "page": "Pages 2723\u20132992",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Real Effects of Hedge Fund Activism: Productivity, Asset Allocation, and Labor Outcomes",
+            "date": "27 June 2015",
+            "author": [
+                "Alon Brav",
+                "Wei Jiang",
+                "Hyunseob Kim"
+            ],
+            "abstract": "This paper studies the long-term effect of hedge fund activism on firm productivity using plant-level information from the U.S. Census Bureau. A typical target firm improves production efficiency in the 3 years after intervention, with stronger improvements in business strategy-oriented interventions. Plants sold after intervention improve productivity significantly under new ownership, suggesting that capital redeployment is an important channel for value creation. Employees of target firms experience stagnation in work hours and wages despite an increase in labor productivity. Additional tests refute alternative explanations attributing the improvement to mean reversion, management's voluntary reforms, industry consolidation shocks, or activists' stock-picking abilities.",
+            "link": "https://doi.org/10.1093/rfs/hhv037"
+        },
+        {
+            "no": "2",
+            "title": "Board Structure and Monitoring: New Evidence from CEO Turnovers",
+            "date": "30 June 2015",
+            "author": [
+                "Lixiong Guo",
+                "Ronald W. Masulis"
+            ],
+            "abstract": "We use the 2003 NYSE and NASDAQ listing rules for board and committee independence as a quasinatural experiment to examine the causal relations between board structure and CEO monitoring. Noncompliant firms forced to raise board independence or adopt a fully independent nominating committee significantly increased their forced CEO turnover sensitivity to performance relative to compliant firms. Nominating committee independence is important even when firms had an independent board, and the effect is stronger when the CEO is on the committee. We conclude that greater board independence and full independence of nominating committees lead to more rigorous CEO monitoring and discipline.",
+            "link": "https://doi.org/10.1093/rfs/hhv038"
+        },
+        {
+            "no": "3",
+            "title": "Restraining Overconfident CEOs through Improved Governance: Evidence from the Sarbanes-Oxley Act",
+            "date": "01 June 2015",
+            "author": [
+                "Suman Banerjee",
+                "Mark Humphery-Jenner",
+                "Vikram Nanda"
+            ],
+            "abstract": "The literature posits that some CEO overconfidence benefits shareholders, though high levels may not. We argue that adequate controls and independent viewpoints provided by an independent board mitigates the costs of CEO overconfidence. We use the concurrent passage of the Sarbanes-Oxley Act and changes to the NYSE/NASDAQ listing rules (collectively, SOX) as natural experiments, to examine whether board independence improves decision making by overconfident CEOs. The results are strongly supportive: after SOX, overconfident CEOs reduce investment and risk exposure, increase dividends, improve postacquisition performance, and have better operating performance and market value. Importantly, these changes are absent for overconfident-CEO firms that were compliant prior to SOX.",
+            "link": "https://doi.org/10.1093/rfs/hhv034"
+        },
+        {
+            "no": "4",
+            "title": "Expected Returns in Treasury Bonds",
+            "date": "29 May 2015",
+            "author": [
+                "Anna Cieslak",
+                "Pavol Povala"
+            ],
+            "abstract": "We study risk premium in U.S. Treasury bonds. We decompose Treasury yields into inflation expectations and maturity-specific interest-rate cycles, which we define as variation in yields orthogonal to expected inflation. The short-maturity cycle captures the real short-rate dynamics. Jointly with expected inflation, it comprises the expectations hypothesis (EH) term in the yield curve. Controlling for the EH term, we extract a measure of risk-premium variation from yields. The risk-premium factor forecasts excess bond returns in and out of sample and subsumes the common bond return predictor obtained as a linear combination of forward rates.",
+            "link": "https://doi.org/10.1093/rfs/hhv032"
+        },
+        {
+            "no": "5",
+            "title": "Exploring Return Dynamics via Corridor Implied Volatility",
+            "date": "01 June 2015",
+            "author": [
+                "Torben G. Andersen",
+                "Oleg Bondarenko",
+                "Maria T. Gonzalez-Perez"
+            ],
+            "abstract": "Some fundamental questions regarding equity-index return dynamics are difficult to address due to the latent character of spot volatility. We exploit tick-by-tick option quotes to compute a novel \u201cCorridor Volatility\u201d index which may serve as an observable proxy for short-term volatility. Exploiting this index, we find that equity-index volatility jumps are common, symmetrically distributed, and cojump with the underlying returns. Moreover, the return-volatility asymmetry is more pronounced than is generally recognized and is in force for both diffusive and jump innovations in volatility. Finally, the index performs admirably during turbulent market conditions, constituting a useful real-time gauge of market stress.",
+            "link": "https://doi.org/10.1093/rfs/hhv033"
+        },
+        {
+            "no": "6",
+            "title": "Dynamic Thin Markets",
+            "date": "04 May 2015",
+            "author": [
+                "Marzena Rostek",
+                "Marek Weretka"
+            ],
+            "abstract": "Large institutional investors dominate many financial markets. This paper develops a consumption-based model of markets in which all institutional traders recognize their impact on prices. Bilateral (buyer and seller) market power changes efficiency and arbitrage properties of equilibrium. Predictions match temporary and permanent price effects of supply shocks, order breakup, limits to arbitrage, nonneutrality of trading frequency, and real effects of shocks and announcements in periods other than event dates. Maximizing welfare and stabilizing liquidity through disclosure of information about fundamentals presents a trade-off. Equilibrium representation as \u201ctrading against price impact\u201d provides a link with the industry's practice.",
+            "link": "https://doi.org/10.1093/rfs/hhv027"
+        },
+        {
+            "no": "7",
+            "title": "Cover",
+            "date": "07 September 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu095"
+        },
+        {
+            "no": "8",
+            "title": "Editorial Board",
+            "date": "07 September 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu096"
+        },
+        {
+            "no": "9",
+            "title": "Forthcoming Articles",
+            "date": "07 September 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu097"
+        },
+        {
+            "no": "10",
+            "title": "Volume 28 Number 10 October 2015\nThe Review of Financial Studies - Table of Contents",
+            "date": "07 September 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu098"
+        }
+    ]
+}

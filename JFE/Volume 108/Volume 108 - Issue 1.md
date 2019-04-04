@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The other side of value: The gross profitability premium
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Robert Novy-Marx
 ### Abstract
 Profitability, measured by gross profits-to-assets, has roughly the same power as book-to-market predicting the cross section of average returns. Profitable firms generate significantly higher returns than unprofitable firms, despite having significantly higher valuation ratios. Controlling for profitability also dramatically increases the performance of value strategies, especially among the largest, most liquid stocks. These results are difficult to reconcile with popular explanations of the value premium, as profitable firms are less prone to distress, have longer cash flow durations, and have lower levels of operating leverage. Controlling for gross profitability explains most earnings related anomalies and a wide range of seemingly unrelated profitable trading strategies.
@@ -24,7 +24,7 @@ Profitability, measured by gross profits-to-assets, has roughly the same power a
 ## 3. Systemic risk and the refinancing ratchet effect
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Amir E. Khandani
 - Andrew W. Lo
 - Robert C. Merton
@@ -36,7 +36,7 @@ The combination of rising home prices, declining interest rates, and near-fricti
 ## 4. Rating agencies in the face of regulation
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Christian C. Opp
 - Marcus M. Opp
 - Milton Harris
@@ -48,7 +48,7 @@ This paper develops a theoretical framework to shed light on variation in credit
 ## 5. Ratings quality over the business cycle
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Heski Bar-Isaac
 - Joel Shapiro
 ### Abstract
@@ -59,7 +59,7 @@ Credit rating agencies (CRAs) have long held that reputational concerns discipli
 ## 6. CEO wage dynamics: Estimates from a learning model
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Lucian A. Taylor
 ### Abstract
 The level of Chief Executive Officer (CEO) pay responds asymmetrically to good and bad news about the CEO's ability. The average CEO captures approximately half of the surpluses from good news, implying CEOs and shareholders have roughly equal bargaining power. In contrast, the average CEO bears none of the negative surplus from bad news, implying CEOs have downward rigid pay. These estimates are consistent with the optimal contracting benchmark of Harris and Hölmstrom (1982) and do not appear to be driven by weak governance. Risk-averse CEOs accept significantly lower compensation in return for the insurance provided by downward rigid pay.
@@ -69,7 +69,7 @@ The level of Chief Executive Officer (CEO) pay responds asymmetrically to good a
 ## 7. Learning from repetitive acquisitions: Evidence from the time between deals
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Nihat Aktas
 - Eric de Bodt
 - Richard Roll
@@ -81,7 +81,7 @@ Knowledge gleaned from previous acquisitions may confer valuation expertise and 
 ## 8. The earnings announcement premium around the globe
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Brad M. Barber
 - Emmanuel T. De George
 - Reuven Lehavy
@@ -94,7 +94,7 @@ U.S. stocks have been shown to earn higher returns during earnings announcement 
 ## 9. Anomalies and financial distress
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Doron Avramov
 - Tarun Chordia
 - Gergana Jostova
@@ -107,7 +107,7 @@ This paper explores commonalities across asset pricing anomalies. In particular,
 ## 10. Peer choice in CEO compensation
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Ana M. Albuquerque
 - Gus De Franco
 - Rodrigo S. Verdi
@@ -119,7 +119,7 @@ Current research shows that firms are more likely to benchmark against peers tha
 ## 11. Why are US firms using more short-term debt?
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Cláudia Custódio
 - Miguel A. Ferreira
 - Luís Laureano
@@ -131,7 +131,7 @@ We show that corporate use of long-term debt has decreased in the US over the pa
 ## 12. Does shareholder coordination matter? Evidence from private placements
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Indraneel Chakraborty
 - Nickolay Gantchev
 ### Abstract
@@ -142,7 +142,7 @@ We propose a new role for private investments in public equity (PIPEs) as a mech
 ## 13. Cross section of option returns and idiosyncratic stock volatility
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Jie Cao
 - Bing Han
 ### Abstract
@@ -153,7 +153,7 @@ This paper presents a robust new finding that delta-hedged equity option return 
 ## 14. The acquisitiveness of youth: CEO age and acquisition behavior
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Soojin Yim
 ### Abstract
 I demonstrate that acquisitions are accompanied by large, permanent increases in Chief Executive Officer (CEO) compensation, which create strong financial incentives for CEOs to pursue acquisitions earlier in their career. Accordingly, I document that a firm's acquisition propensity is decreasing in the age of its CEO: a firm with a CEO who is 20 years older is

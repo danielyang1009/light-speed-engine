@@ -5,7 +5,7 @@
 ## 1. Capital budgeting and delegation1
 ### Date
 - 1 December
-### Authors
+### Author
 - Milton Harris
 - Artur Raviv
 ### Abstract
@@ -16,7 +16,7 @@ As part of our ongoing research into capital budgeting processes as responses to
 ## 2. The effect of changes in ownership structure on performance: Evidence from the thrift industry1
 ### Date
 - 1 December
-### Authors
+### Author
 - Rebel A. Cole
 - Hamid Mehran
 ### Abstract
@@ -27,7 +27,7 @@ Restrictions on stock ownership may harm a company's performance, because restri
 ## 3. CEO incentive plans and corporate liquidation policy1
 ### Date
 - 1 December
-### Authors
+### Author
 - Hamid Mehran
 - George E. Nogler
 - Kenneth B. Schwartz
@@ -39,7 +39,7 @@ To investigate CEOs' incentives to liquidate their firms, we examine the effects
 ## 4. Another look at the role of the industrial structure of markets for international diversification strategies1
 ### Date
 - 1 December
-### Authors
+### Author
 - John M Griffin
 - G Andrew Karolyi
 ### Abstract
@@ -50,7 +50,7 @@ This paper re-examines the extent to which gains from international diversificat
 ## 5. Index
 ### Date
 - 1 December
-### Authors
+### Author
 ### Abstract
 
 ### Link

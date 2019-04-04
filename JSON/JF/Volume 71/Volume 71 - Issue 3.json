@@ -1,0 +1,224 @@
+{
+    "journal": "JF",
+    "volume": "71",
+    "issue": "3",
+    "date": "June 2016",
+    "page": "Pages: 1019-1478",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION \u2010 ED BOARD",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12328"
+        },
+        {
+            "no": "2",
+            "title": "ISSUE INFORMATION \u2010 HELP DESK",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12329"
+        },
+        {
+            "no": "3",
+            "title": "ISSUE INFORMATION \u2010 TOC",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12327"
+        },
+        {
+            "no": "4",
+            "title": "Oliver Hart",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12410"
+        },
+        {
+            "no": "5",
+            "title": "Local Currency Sovereign Risk",
+            "date": "03 February 2016",
+            "author": [
+                "WENXIN DU",
+                "JESSE SCHREGER"
+            ],
+            "abstract": "We introduce a new measure of emerging market sovereign credit risk: the local currency credit spread, defined as the spread of local currency bonds over the synthetic local currency risk\u2010free rate constructed using cross\u2010currency swaps. We find that local currency credit spreads are positive and sizable. Compared with credit spreads on foreign\u2010currency\u2010denominated debt, local currency credit spreads have lower means, lower cross\u2010country correlations, and lower sensitivity to global risk factors. We discuss several major sources of credit spread differentials, including positively correlated credit and currency risk, selective default, capital controls, and various financial market frictions.",
+            "link": "https://doi.org/10.1111/jofi.12389"
+        },
+        {
+            "no": "6",
+            "title": "Asymmetric Information about Collateral Values",
+            "date": "04 May 2015",
+            "author": [
+                "JOHANNES STROEBEL"
+            ],
+            "abstract": "I empirically analyze credit market outcomes when competing lenders are differentially informed about the expected return from making a loan. I study the residential mortgage market, where property developers often cooperate with vertically integrated mortgage lenders to offer financing to buyers of new homes. I show that these integrated lenders have superior information about the construction quality of individual homes and exploit this information to lend against higher quality collateral, decreasing foreclosures by up to 40%. To compensate for this adverse selection on collateral quality, nonintegrated lenders charge higher interest rates when competing against a better\u2010informed integrated lender.",
+            "link": "https://doi.org/10.1111/jofi.12288"
+        },
+        {
+            "no": "7",
+            "title": "Information Acquisition in Rumor\u2010Based Bank Runs",
+            "date": "11 November 2014",
+            "author": [
+                "ZHIGUO HE",
+                "ASAF MANELA"
+            ],
+            "abstract": "We study information acquisition and dynamic withdrawal decisions when a spreading rumor exposes a solvent bank to a run. Uncertainty about the bank's liquidity and potential failure motivates depositors who hear the rumor to acquire additional noisy signals. Depositors with less informative signals may wait before gradually running on the bank, leading to an endogenous aggregate withdrawal speed and bank survival time. Private information acquisition about liquidity can subject solvent\u2010but\u2010illiquid banks to runs, and shorten the survival time of failing banks. Public provision of solvency information can mitigate runs by indirectly crowding\u2010out individual depositors' effort to acquire liquidity information.",
+            "link": "https://doi.org/10.1111/jofi.12202"
+        },
+        {
+            "no": "8",
+            "title": "Exporting Liquidity: Branch Banking and Financial Integration",
+            "date": "03 February 2016",
+            "author": [
+                "ERIK P. GILJE",
+                "ELENA LOUTSKINA",
+                "PHILIP E. STRAHAN"
+            ],
+            "abstract": "Using exogenous liquidity windfalls from oil and natural gas shale discoveries, we demonstrate that bank branch networks help integrate U.S. lending markets. Banks exposed to shale booms enjoy liquidity inflows, which increase their capacity to originate and hold new loans. Exposed banks increase mortgage lending in nonboom counties, but only where they have branches and only for hard\u2010to\u2010securitize mortgages. Our findings suggest that contracting frictions limit the ability of arm's length finance to integrate credit markets fully. Branch networks continue to play an important role in financial integration, despite the development of securitization markets.",
+            "link": "https://doi.org/10.1111/jofi.12387"
+        },
+        {
+            "no": "9",
+            "title": "The Boats That Did Not Sail: Asset Price Volatility in a Natural Experiment",
+            "date": "06 August 2015",
+            "author": [
+                "PETER KOUDIJS"
+            ],
+            "abstract": "What explains short\u2010term fluctuations of stock prices? This paper exploits a natural experiment from the 18 century in which information flows were regularly interrupted for exogenous reasons. English shares were traded on the Amsterdam exchange and news came in on sailboats that were often delayed because of adverse weather conditions. The paper documents that prices responded strongly to boat arrivals, but there was considerable volatility in the absence of news. The evidence suggests that this was largely the result of the revelation of (long\u2010lived) private information and the (transitory) impact of uninformed liquidity trades on intermediaries' risk premia.",
+            "link": "https://doi.org/10.1111/jofi.12312"
+        },
+        {
+            "no": "10",
+            "title": "Worrying about the Stock Market: Evidence from Hospital Admissions",
+            "date": "03 February 2016",
+            "author": [
+                "JOSEPH ENGELBERG",
+                "CHRISTOPHER A. PARSONS"
+            ],
+            "abstract": "Using individual patient records for every hospital in California from 1983 to 2011, we find a strong inverse link between daily stock returns and hospital admissions, particularly for psychological conditions such as anxiety, panic disorder, and major depression. The effect is nearly instantaneous (within the same day) for psychological conditions, suggesting that anticipation over future consumption directly influences instantaneous utility.",
+            "link": "https://doi.org/10.1111/jofi.12386"
+        },
+        {
+            "no": "11",
+            "title": "Short Selling and Earnings Management: A Controlled Experiment",
+            "date": "13 October 2015",
+            "author": [
+                "VIVIAN W. FANG",
+                "ALLEN H. HUANG",
+                "JONATHAN M. KARPOFF"
+            ],
+            "abstract": "During 2005 to 2007, the SEC ordered a pilot program in which one\u2010third of the Russell 3000 index were arbitrarily chosen as pilot stocks and exempted from short\u2010sale price tests. Pilot firms\u2019 discretionary accruals and likelihood of marginally beating earnings targets decrease during this period, and revert to pre\u2010experiment levels when the program ends. After the program starts, pilot firms are more likely to be caught for fraud initiated before the program, and their stock returns better incorporate earnings information. These results indicate that short selling, or its prospect, curbs earnings management, helps detect fraud, and improves price efficiency.",
+            "link": "https://doi.org/10.1111/jofi.12369"
+        },
+        {
+            "no": "12",
+            "title": "Collateralization, Bank Loan Rates, and Monitoring",
+            "date": "17 September 2014",
+            "author": [
+                "GERALDO CERQUEIRO",
+                "STEVEN ONGENA",
+                "KASPER ROSZBACH"
+            ],
+            "abstract": "We show that collateral plays an important role in the design of debt contracts, the provision of credit, and the incentives of lenders to monitor borrowers. Using a unique data set from a large bank containing timely assessments of collateral values, we find that the bank responded to a legal reform that exogenously reduced collateral values by increasing interest rates, tightening credit limits, and reducing the intensity of its monitoring of borrowers and collateral, spurring borrower delinquency on outstanding claims. We thus explain why banks are senior lenders and quantify the value of claimant priority.",
+            "link": "https://doi.org/10.1111/jofi.12214"
+        },
+        {
+            "no": "13",
+            "title": "From Wall Street to Main Street: The Impact of the Financial Crisis on Consumer Credit Supply",
+            "date": "01 September 2014",
+            "author": [
+                "RODNEY RAMCHARAN",
+                "ST\u00c9PHANE VERANI",
+                "SKANDER J. VAN DEN HEUVEL"
+            ],
+            "abstract": "How did the collapse of the asset\u2010backed securities (ABS) market during the 2007 to 2009 financial crisis affect the supply of credit to the broader economy? Using new data on the U.S. credit union industry, we find that ABS\u2010related losses are associated with a large contraction in the supply of credit to consumers, especially among those credit unions that began the crisis with weaker capitalization. We also find that this credit supply shock restricted the availability of mortgage and automobile credit. These results show how movements in the prices of financial assets can affect the real economy.",
+            "link": "https://doi.org/10.1111/jofi.12209"
+        },
+        {
+            "no": "14",
+            "title": "The Total Cost of Corporate Borrowing in the Loan Market: Don't Ignore the Fees",
+            "date": "01 May 2015",
+            "author": [
+                "TOBIAS BERG",
+                "ANTHONY SAUNDERS",
+                "SASCHA STEFFEN"
+            ],
+            "abstract": "More than 80% of U.S. syndicated loans contain at least one fee type and contracts typically specify a menu of spreads and fee types. We test the predictions of existing theories on the main purposes of fees and provide supporting evidence that: (1) fees are used to price options embedded in loan contracts such as the drawdown option for credit lines and the cancellation option in term loans, and (2) fees are used to screen borrowers based on the likelihood of exercising these options. We also propose a new total\u2010cost\u2010of\u2010borrowing measure that includes various fees charged by lenders.",
+            "link": "https://doi.org/10.1111/jofi.12281"
+        },
+        {
+            "no": "15",
+            "title": "Information in the Term Structure of Yield Curve Volatility",
+            "date": "03 February 2016",
+            "author": [
+                "ANNA CIESLAK",
+                "PAVOL POVALA"
+            ],
+            "abstract": "Using a novel no\u2010arbitrage model and extensive second\u2010moment data, we decompose conditional volatility of U.S. Treasury yields into volatilities of short\u2010rate expectations and term premia. Short\u2010rate expectations become more volatile than premia before recessions and during asset market distress. Correlation between shocks to premia and shocks to short\u2010rate expectations is close to zero on average and varies with the monetary policy stance. While Treasuries are nearly unexposed to variance shocks, investors pay a premium for hedging variance risk with derivatives. We illustrate the dynamics of the yield volatility components during and after the financial crisis.",
+            "link": "https://doi.org/10.1111/jofi.12388"
+        },
+        {
+            "no": "16",
+            "title": "Risk\u2010Adjusting the Returns to Venture Capital",
+            "date": "03 February 2016",
+            "author": [
+                "ARTHUR KORTEWEG",
+                "STEFAN NAGEL"
+            ],
+            "abstract": "We adapt stochastic discount factor (SDF) valuation methods for venture capital (VC) performance evaluation. Our approach generalizes the popular Public Market Equivalent (PME) method and allows statistical inference in the presence of cross\u2010sectionally dependent, skewed VC payoffs. We relax SDF restrictions implicit in the PME so that the SDF can accurately reflect risk\u2010free rates and returns of public equity markets during the sample period. This generalized PME yields substantially different abnormal performance estimates for VC funds and start\u2010up investments, especially in times of strongly rising public equity markets and for investments with betas far from one.",
+            "link": "https://doi.org/10.1111/jofi.12390"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12416"
+        },
+        {
+            "no": "18",
+            "title": "ANNOUNCEMENTS",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12415"
+        },
+        {
+            "no": "19",
+            "title": "To Those Seeking Permissions for Academic Classroom Use",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12333"
+        },
+        {
+            "no": "20",
+            "title": "Issue Information \u2010 Style Instuctions",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12330"
+        },
+        {
+            "no": "21",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12331"
+        },
+        {
+            "no": "22",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "11 May 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12332"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - October 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Behavioral biases of mutual fund investors
 ### Date
 - May 2011
-### Authors
+### Author
 - Warren Bailey
 - Alok Kumar
 - David Ng
@@ -26,7 +26,7 @@ We examine the effect of behavioral biases on the mutual fund choices of a large
 ## 3. Payday lenders: Heroes or villains?
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Adair Morse
 ### Abstract
 Does access to high-interest credit (payday loans) exacerbate or mitigate individual financial distress. Using natural disasters as an exogenous shock, I apply a propensity score-matched, triple-difference specification to identify a causal relation between welfare and access to credit. California foreclosures increase by 4.5 units per 1,000 homes after a natural disaster. The existence of payday lenders mitigates 1.0–1.3 of them, with the caveat that not all payday loans are for emergency distress. Payday lenders also mitigate larcenies (but not burglaries or vehicle thefts). In a placebo test of disasters covered by homeowner insurance, payday lending has no mitigation effect.
@@ -36,7 +36,7 @@ Does access to high-interest credit (payday loans) exacerbate or mitigate indivi
 ## 4. Long-run risk in durable consumption
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Wei Yang
 ### Abstract
 Durable consumption growth is persistent and predicted by the price–dividend ratio. This provides strong and direct evidence for the existence of a highly persistent expected component. Durable consumption growth is left-skewed and exhibits time-varying volatility. I model durable consumption growth as containing a persistent expected component and driven by counter-cyclical volatility, nondurable consumption as a random walk, and dividend growth as exposed to the expected component of durable consumption growth. Together with nonseparable Epstein-Zin preferences, the model demonstrates that long-run risk in durable consumption can explain major asset market phenomena. The model also generates an upward-sloping real term structure.
@@ -46,7 +46,7 @@ Durable consumption growth is persistent and predicted by the price–dividend r
 ## 5. Institutional investors and the limits of arbitrage
 ### Date
 - May 2011
-### Authors
+### Author
 - Jonathan Lewellen
 ### Abstract
 The returns and stock holdings of institutional investors from 1980 to 2007 provide little evidence of stock-picking skill. Institutions as a whole closely mimic the market portfolio, with pre-cost returns that have nearly perfect correlation with the value-weighted index and an insignificant CAPM alpha of 0.08% quarterly. Institutions also show little tendency to bet on any of the main characteristics known to predict stock returns, such as book-to-market, momentum, or accruals. While particular groups of institutions have modest stock-picking skill relative to the CAPM, their performance is almost entirely explained by the book-to-market and momentum effects in returns. Further, no group holds a portfolio that deviates efficiently from the market portfolio.
@@ -56,7 +56,7 @@ The returns and stock holdings of institutional investors from 1980 to 2007 prov
 ## 6. Short-term termination without deterring long-term investment: A theory of debt and buyouts
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Alex Edmans
 ### Abstract
 The option to terminate a manager early minimizes investor losses if he is unskilled. However, it also deters a skilled manager from undertaking efficient long-term projects that risk low short-term earnings. This paper demonstrates how risky debt can overcome this tension. Leverage concentrates equityholders' stakes, inducing them to learn the cause of low earnings. If they result from investment (poor management), the firm is continued (liquidated). Therefore, unskilled managers are terminated and skilled managers invest without fear of termination. Unlike models of managerial discipline based on total payout, dividends are not a substitute for debt—they allow for termination upon non-payment, but at the expense of investment since they do not concentrate ownership and induce monitoring. Debt is dynamically consistent as the manager benefits from monitoring. In traditional theories, monitoring constrains the manager; here, it frees him to invest.
@@ -66,7 +66,7 @@ The option to terminate a manager early minimizes investor losses if he is unski
 ## 7. Hedge fund leverage
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Andrew Ang
 - Sergiy Gorovyy
 - Gregory B. van Inwegen
@@ -78,7 +78,7 @@ We investigate the leverage of hedge funds in the time series and cross-section.
 ## 8. Limits-to-arbitrage, investment frictions, and the asset growth anomaly
 ### Date
 - Mar 2011
-### Authors
+### Author
 - F.Y. Eric C. Lam
 - K.C. John Wei
 ### Abstract
@@ -89,7 +89,7 @@ We empirically evaluate the predictions of the mispricing hypothesis with limits
 ## 9. Creditor rights and corporate risk-taking
 ### Date
 - Apr 2011
-### Authors
+### Author
 - Viral V. Acharya
 - Yakov Amihud
 - Lubomir Litov
@@ -101,7 +101,7 @@ We propose that stronger creditor rights in bankruptcy affect corporate investme
 ## 10. Tracking down distress risk
 ### Date
 - May 2011
-### Authors
+### Author
 - Nishad Kapadia
 ### Abstract
 This paper shows that exposure to aggregate distress risk is the underlying source of the premiums for the Fama-French size (SMB) and value (HML) factors. Using a unique data set of aggregate business failures of both private and public firms from 1926 to 1997, I build portfolios that track news about future firm failures. These tracking portfolios optimally hedge aggregate distress risk and earn a Capital Asset Pricing Model (CAPM) alpha of approximately −4% a year. Both HML and SMB predict changes in future failure rates. Small stocks have lower returns than large stocks and value stocks have lower returns than growth stocks when the market expects an increase in future failure rates. Finally, a two-factor model with the market and the tracking portfolio for aggregate distress as factors does as well as the Fama-French three-factor model in pricing the 25 size and book-to-market sorted portfolios.
@@ -111,7 +111,7 @@ This paper shows that exposure to aggregate distress risk is the underlying sour
 ## 11. Corporate cash holdings and CEO compensation incentives
 ### Date
 - May 2011
-### Authors
+### Author
 - Yixin Liu
 - David C. Mauer
 ### Abstract
@@ -122,7 +122,7 @@ We examine the effect of chief executive officer (CEO) compensation incentives o
 ## 12. The CEO pay slice
 ### Date
 - May 2011
-### Authors
+### Author
 - Lucian A. Bebchuk
 - K.J. Martijn Cremers
 - Urs C. Peyer
@@ -134,7 +134,7 @@ We investigate the relation between the CEO Pay Slice (CPS)—the fraction of th
 ## 13. Structural breaks, parameter uncertainty, and term structure puzzles
 ### Date
 - May 2011
-### Authors
+### Author
 - George Bulkley
 - Paolo Giordani
 ### Abstract

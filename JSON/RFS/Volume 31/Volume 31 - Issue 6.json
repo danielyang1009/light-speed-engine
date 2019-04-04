@@ -1,0 +1,150 @@
+{
+    "journal": "RFS",
+    "volume": "31",
+    "issue": "6",
+    "date": "June 2018",
+    "page": "Pages 2005\u20132421",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Labor Market Effects of Credit Market Information",
+            "date": "23 January 2018",
+            "author": [
+                "Marieke Bos",
+                "Emily Breza",
+                "Andres Liberman"
+            ],
+            "abstract": "We exploit a natural experiment to provide one of the first measurements of the causal effect of negative credit information on employment and earnings. We estimate that one additional year of negative credit information reduces employment by 3 percentage points and wage earnings by |${\\$}$|1,000. In comparison, the decrease in credit is only one-fourth as large. Negative credit information also causes an increase in self-employment and a decrease in mobility. Further evidence suggests this cost of default is inefficiently borne by those most creditworthy among previous defaulters.",
+            "link": "https://doi.org/10.1093/rfs/hhy006"
+        },
+        {
+            "no": "2",
+            "title": "Credit Ratings and the Cost of Municipal Financing",
+            "date": "03 October 2017",
+            "author": [
+                "Jess Cornaggia",
+                "Kimberly J. Cornaggia",
+                "Ryan D. Israelsen"
+            ],
+            "abstract": "A common belief held among researchers and policy makers is that regulatory reliance has inflated market demand for credit ratings, despite their decreasing informational value. Advances in information technology, coupled with reputation losses following the subprime crisis, renew the question of whether investors still rely on ratings to assess credit risk. Using Moody\u2019s 2010 scale recalibration, which was unrelated to changing issuer fundamentals, we find that ratings still matter to investors and to issuers\u2014apart from any regulatory implications. Our results commend improved disclosure to mitigate mechanistic reliance on ratings and inefficiencies due to rating standards that vary across asset classes.",
+            "link": "https://doi.org/10.1093/rfs/hhx094"
+        },
+        {
+            "no": "3",
+            "title": "Banks\u2019 Incentives and Inconsistent Risk Models",
+            "date": "10 May 2018",
+            "author": [
+                "Matthew C Plosser",
+                "Jo\u00e3o A C Santos"
+            ],
+            "abstract": "This paper investigates banks\u2019 incentive to bias the risk estimates they report to regulators. Within loan syndicates, we find that banks with less capital report lower risk estimates. Consistent with an effort to mitigate capital requirements, the sensitivity to capital is robust to bank fixed effects and greater for large, risky, and opaque credits. Also, low-capital banks\u2019 risk estimates have less explanatory power than those of high-capital banks with regard to loan prices, indicating that their estimates incorporate less information. Our results suggest banks underreport risk in response to capital constraints and highlight the perils of regulation premised on self-reporting.",
+            "link": "https://doi.org/10.1093/rfs/hhy028"
+        },
+        {
+            "no": "4",
+            "title": "Banks, Firms, and Jobs",
+            "date": "16 January 2018",
+            "author": [
+                "Fabio Berton",
+                "Sauro Mocetti",
+                "Andrea F. Presbitero",
+                "Matteo Richiardi"
+            ],
+            "abstract": "We analyze the heterogeneous employment effects of financial shocks using a rich data set of job contracts, matched with the universe of firms and their lending banks in one Italian region. To isolate the effect of the financial shock, we construct a firm-specific time-varying measure of credit supply. The preferred estimate indicates that the average elasticity of employment to a credit supply shock is |$0.36$|\u2060. Adjustment affects both the extensive and the intensive margins and is concentrated among workers with temporary contracts. We also examine the heterogeneous effects of the credit crunch by education, age, gender and nationality.",
+            "link": "https://doi.org/10.1093/rfs/hhy003"
+        },
+        {
+            "no": "5",
+            "title": "Why Trading Speed Matters: A Tale of Queue Rationing under Price Controls",
+            "date": "18 April 2018",
+            "author": [
+                "Chen Yao",
+                "Mao Ye"
+            ],
+            "abstract": "We show that queue rationing under price controls is one driver of high-frequency trading. Uniform tick sizes constrain price competition and create rents for liquidity provision, particularly for securities with lower prices. The time priority rule allocates rents to high-frequency traders (HFTs) because of their speed advantage. An increase in relative tick size, defined as uniform tick sizes divided by security prices, increases the fraction of liquidity provided by HFTs but harms liquidity. We find that the message-to-trade ratio is a poor cross-sectional proxy for HFTs\u2019 liquidity provision: stocks with more liquidity provided by HFTs have lower message-to-trade ratios.",
+            "link": "https://doi.org/10.1093/rfs/hhy002"
+        },
+        {
+            "no": "6",
+            "title": "Does Algorithmic Trading Reduce Information Acquisition?",
+            "date": "07 December 2017",
+            "author": [
+                "Brian M. Weller"
+            ],
+            "abstract": "I demonstrate an important tension between acquiring information and incorporating it into asset prices. As a salient case, I analyze algorithmic trading (AT), which is typically associated with improved price efficiency. Using a new measure of the information content of prices and a comprehensive panel of 54,879 stock-quarters of Securities and Exchange Commission (SEC) market data, I establish instead that the amount of information in prices decreases by 9% to 13% per standard deviation of AT activity and up to a month before scheduled disclosures. AT thus may reduce price informativeness despite its importance for translating available information into prices.",
+            "link": "https://doi.org/10.1093/rfs/hhx137"
+        },
+        {
+            "no": "7",
+            "title": "The Competitive Landscape of High-Frequency Trading Firms",
+            "date": "18 January 2018",
+            "author": [
+                "Ekkehart Boehmer",
+                "Dan Li",
+                "Gideon Saar"
+            ],
+            "abstract": "We examine product differentiation in the high-frequency trading (HFT) industry, where the \u201cproducts\u201d are secretive proprietary trading strategies. We demonstrate how principal component analysis can be used to detect underlying strategies common to multiple HFT firms and show that there are three product categories with distinct attributes. We study how HFT competition in each product category affects the market environment and present evidence that indicates how it influences the short-horizon volatility of stocks as well as the viability of trading venues.",
+            "link": "https://doi.org/10.1093/rfs/hhx144"
+        },
+        {
+            "no": "8",
+            "title": "Identifying Information Asymmetry in Securities Markets",
+            "date": "30 November 2017",
+            "author": [
+                "Kerry Back",
+                "Kevin Crotty",
+                "Tao Li"
+            ],
+            "abstract": "We propose and estimate a model of endogenous informed trading that is a hybrid of the PIN and Kyle models. When an informed trader trades optimally, both returns and order flows are needed to identify information asymmetry parameters. Empirical relationships between parameter estimates and price impacts and between parameter estimates and stochastic volatility are consistent with theory. We illustrate how the estimates can be used to detect information events in the time series and to characterize the information content of prices in the cross-section. We also compare the estimates to those from other models on various criteria.",
+            "link": "https://doi.org/10.1093/rfs/hhx133"
+        },
+        {
+            "no": "9",
+            "title": "High-Frequency Measures of Informed Trading and Corporate Announcements",
+            "date": "18 January 2018",
+            "author": [
+                "Michael J. Brennan",
+                "Sahn-Wook Huh",
+                "Avanidhar Subrahmanyam"
+            ],
+            "abstract": "We explore the dynamics of informed trading around corporate announcements of merger bids, dividend initiations, SEOs, and quarterly earnings by calculating daily posterior probabilities of informed buying and selling. We find evidence of informed trading before the announcements and a significant part of the news in announcements is impounded in stock prices before the announcements by pre-event informed trading. We also find evidence of informed trading after the announcements. Most strikingly, the probability of informed trading after merger bids predicts the probability of the bid being withdrawn or met with a competing bid. For other announcements, post-announcement informed-trading probabilities predict subsequent returns.",
+            "link": "https://doi.org/10.1093/rfs/hhy005"
+        },
+        {
+            "no": "10",
+            "title": "When Transparency Improves, Must Prices Reflect Fundamentals Better?",
+            "date": "25 April 2018",
+            "author": [
+                "Snehal Banerjee",
+                "Jesse Davis",
+                "Naveen Gondhi"
+            ],
+            "abstract": "No. In the presence of speculative opportunities, investors can learn about both asset fundamentals and the beliefs of other traders. We show that this learning exhibits complementarity: learning more along one dimension increases the value of learning about the other. As a result, regulatory changes may be counterproductive. First, increasing transparency (i.e., making fundamental information cheaper to acquire) can make prices less informative when investors respond by learning relatively more about others. Second, public disclosures discourage private learning about fundamentals, while encouraging information acquisition about others. Accordingly, disclosing more fundamental information can decrease overall informational efficiency by decreasing price informativeness.",
+            "link": "https://doi.org/10.1093/rfs/hhy034"
+        },
+        {
+            "no": "11",
+            "title": "Corrigendum",
+            "date": "13 April 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhy043"
+        },
+        {
+            "no": "12",
+            "title": "Corrigendum",
+            "date": "16 May 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhy044"
+        },
+        {
+            "no": "13",
+            "title": "Erratum",
+            "date": "10 May 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhy035"
+        }
+    ]
+}

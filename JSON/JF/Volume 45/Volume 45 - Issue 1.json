@@ -1,0 +1,262 @@
+{
+    "journal": "JF",
+    "volume": "45",
+    "issue": "1",
+    "date": "March 1990",
+    "page": "Pages: i-vi, 1-320, vii-xxxiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb00379.x"
+        },
+        {
+            "no": "2",
+            "title": "SMITH BREEDEN PRIZES FOR 1989",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05077.x"
+        },
+        {
+            "no": "3",
+            "title": "Margin Regulation and Stock Market Volatility",
+            "date": "March 1990",
+            "author": [
+                "DAVID A. HSIEH",
+                "MERTON H. MILLER"
+            ],
+            "abstract": "Using daily and monthly stock returns we find no convincing evidence that Federal Reserve margin requirements have served to dampen stock market volatility. The contrary conclusion, expressed in recent papers by Hardouvelis (1988a, b), is traced to flaws in his test design. We do detect the expected negative relation between margin requirements and the amount of margin credit outstanding. We also confirm the recent finding by Schwert (1988) that changes in margin requirements by the Fed have tended to follow rather than lead changes in market volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05078.x"
+        },
+        {
+            "no": "4",
+            "title": "Do Managerial Objectives Drive Bad Acquisitions?",
+            "date": "March 1990",
+            "author": [
+                "RANDALL MORCK",
+                "ANDREI SHLEIFER",
+                "ROBERT W. VISHNY"
+            ],
+            "abstract": "In a sample of 326 US acquisitions between 1975 and 1987, three types of acquisitions have systematically lower and predominantly negative announcement period returns to bidding firms. The returns to bidding shareholders are lower when their firm diversifies, when it buys a rapidly growing target, and when its managers performed poorly before the acquisition. These results suggest that managerial objectives may drive acquisitions that reduce bidding firms' values.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05079.x"
+        },
+        {
+            "no": "5",
+            "title": "Financial Intermediaries and Liquidity Creation",
+            "date": "March 1990",
+            "author": [
+                "GARY GORTON",
+                "GEORGE PENNACCHI"
+            ],
+            "abstract": "Trading losses associated with information asymmetries can be mitigated by designing securities which split the cash flows of underlying assets. These securities, which can arise endogenously, have values that do not depend on the information known only to informed agents. Bank debt (deposits) is an example of this type of liquid security which protect relatively uninformed agents, and we provide a rationale for deposit insurance in this content. High\u2010grade corporate debt and government bonds are other examples, implying that a money market mutual fund\u2010based payments system may be an alternative to one based on insured bank deposits.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05080.x"
+        },
+        {
+            "no": "6",
+            "title": "Equilibrium Block Trading and Asymmetric Information",
+            "date": "March 1990",
+            "author": [
+                "DUANE J. SEPPI"
+            ],
+            "abstract": "This paper investigates the existence of equilibria with information\u2010based block trading in a multiperiod market when no investor is constrained to block trade. Attention is restricted to equilibria in which a strategic uninformed institution (i.e., one which is forced to rebalance its portfolio but is free to choose an optimal rebalancing strategy) is willing to trade a block rather than \u201cbreak up\u201d the block into a series of smaller trades. Examples of such equilibria are found and analyzed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05081.x"
+        },
+        {
+            "no": "7",
+            "title": "An Examination of the Impact of the Garn\u2010St. Germain Depository Institutions Act of 1982 on Commercial Banks and Savings and Loans",
+            "date": "March 1990",
+            "author": [
+                "MARCIA MILLON CORNETT",
+                "HASSAN TEHRANIAN"
+            ],
+            "abstract": "This paper evaluates the effects of events leading to the passage of the Garn\u2010St. Germain Depository Institutions Act of 1982. The evidence suggests that the call for reform by President Reagan's Housing Commission and the Senate passage of the bill produced positive abnormal returns to stockholders of large savings and loans and commercial banks. Stockholders of small S&Ls and banks, on the other hand, generally experienced negative abnormal returns. Furthermore, when hopes of passage of the Act faded, significant negative (positive) abnormal returns were experienced by stockholders of large (small) S&Ls and banks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05082.x"
+        },
+        {
+            "no": "8",
+            "title": "Modeling Structural and Temporal Variation in the Market's Valuation of Banking Firms",
+            "date": "March 1990",
+            "author": [
+                "EDWARD J. KANE",
+                "HALUK UNAL"
+            ],
+            "abstract": "Hidden capital exists whenever the accounting measure of a firm's net worth diverges from its economic value. Such unbooked capital has on\u2010balance\u2010sheet and off\u2010balance\u2010sheet sources. This paper develops a model to estimate both forms of hidden capital and to test hypotheses about their determinants. In effect, the analysis expands the two\u2010index model by endogenizing the market and interest\u2010rate sensitivities of any stock and decomposing each sensitivity into on\u2010balance\u2010sheet and off\u2010balance\u2010sheet elements. For a sample of banks during 1975\u20131985, the model finds considerable variation in both forms of hidden capital.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05083.x"
+        },
+        {
+            "no": "9",
+            "title": "How Target Shareholders Benefit from Value\u2010Reducing Defensive Strategies in Takeovers",
+            "date": "March 1990",
+            "author": [
+                "ELAZAR BERKOVITCH",
+                "NAVEEN KHANNA"
+            ],
+            "abstract": "This paper shows that target shareholders can be made better off through the use of certain types of defensive strategies that reduce the value of the target by different amounts for different bidders. In many cases, simply the threat of such strategies can make target shareholders better off. Therefore, empirical tests based on stock price reactions at the adoption of defensive strategies may be underestimating the effect of such strategies. The paper also identifies the necessary characteristics that make these strategies effective and shows that many observed defenses possess similar properties.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05084.x"
+        },
+        {
+            "no": "10",
+            "title": "Purchasing Power Parity in the Long Run",
+            "date": "March 1990",
+            "author": [
+                "NISO ABUAF",
+                "PHILIPPE JORION"
+            ],
+            "abstract": "This paper re\u2010examines the evidence on Purchasing Power Parity (PPP) in the long run. Previous studies have generally been unable to reject the hypothesis that the real exchange rate follows a random walk. If true, this implies that PPP does not hold. In contrast, this paper casts serious doubt on this random walk hypothesis. The results follow from more powerful estimation techniques, applied in a multilateral framework. Deviations from PPP, while substantial in the short run, appear to take about three years to be reduced in half.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05085.x"
+        },
+        {
+            "no": "11",
+            "title": "Disentangling the Coefficient of Relative Risk Aversion from the Elasticity of Intertemporal Substitution: An Irrelevance Result",
+            "date": "March 1990",
+            "author": [
+                "NARAYANA R. KOCHERLAKOTA"
+            ],
+            "abstract": "For homothetic time and state separable preferences, the coefficient of relative risk aversion (CRRA) is equal to the reciprocal of the elasticity of intertemporal substitution (EIS). This paper shows that, when the growth rate of consumption is i.i.d., asset pricing models based upon preferences in which the CRRA and the EIS are no longer linked do not have more explanatory power. Further, in these stochastic environments, estimates of the CRRA in the standard preferences are measures of the true CRRA and not the EIS. These results are fairly accurate descriptions of economies calibrated using United States annual data.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05086.x"
+        },
+        {
+            "no": "12",
+            "title": "Intraday Price Change and Trading Volume Relations in the Stock and Stock Option Markets",
+            "date": "March 1990",
+            "author": [
+                "JENS A. STEPHAN",
+                "ROBERT E. WHALEY"
+            ],
+            "abstract": "This study investigates intraday relations between price changes and trading volume of options and stocks for a sample of firms whose options traded on the CBOE during the first quarter of 1986. After purging the price change series of the effects of bid/ask spreads, multivariate time\u2010series analysis is used to estimate the lead/lag relation between the price changes in the option and stock markets. The results indicate that price changes in the stock market lead the option market by as much as fifteen minutes. The analysis of trading volume indicates that the stock market lead may be even longer.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05087.x"
+        },
+        {
+            "no": "13",
+            "title": "Heteroskedasticity in Stock Return Data: Volume versus GARCH Effects",
+            "date": "March 1990",
+            "author": [
+                "CHRISTOPHER G. LAMOUREUX",
+                "WILLIAM D. LASTRAPES"
+            ],
+            "abstract": "This paper provides empirical support for the notion that Autoregressive Conditional Heteroskedasticity (ARCH) in daily stock return data reflects time dependence in the process generating information flow to the market. Daily trading volume, used as a proxy for information arrival time, is shown to have significant explanatory power regarding the variance of daily returns, which is an implication of the assumption that daily returns are subordinated to intraday equilibrium returns. Furthermore, ARCH effects tend to disappear when volume is included in the variance equation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05088.x"
+        },
+        {
+            "no": "14",
+            "title": "The Weekend Effect: Trading Patterns of Individual and Institutional Investors",
+            "date": "March 1990",
+            "author": [
+                "JOSEF LAKONISHOK",
+                "EDWIN MABERLY"
+            ],
+            "abstract": "In this paper, we document regularities in trading patterns of individual and institutional investors related to the day of the week. We find a relative increase in trading activity by individuals on Mondays. In addition, there is a tendency for individuals to increase the number of sell transactions relative to buy transactions, which might explain at least part of the weekend effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05089.x"
+        },
+        {
+            "no": "15",
+            "title": "Can Futures Market Data Be Used to Understand the Behavior of Real Interest Rates?",
+            "date": "March 1990",
+            "author": [
+                "FREDERIC S. MISHKIN"
+            ],
+            "abstract": "This paper examines whether futures market data can be used to understand the behavior of real interest rates. Several ways of examining the data indicate that futures market data are not particularly informative about real interest rates. Not only does this evidence cast some doubt on results in previous research that make use of futures market data to draw inferences about real interest rates, but it also indicates that future research on real interest rates may need to turn to a different line of attack.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05090.x"
+        },
+        {
+            "no": "16",
+            "title": "On Arbitrage\u2010Free Pricing of Interest Rate Contingent Claims",
+            "date": "March 1990",
+            "author": [
+                "PETER RITCHKEN",
+                "KIEKIE BOENAWAN"
+            ],
+            "abstract": "Unlike most interest rate claim models, the Ho\u2010Lee model utilizes full information on the current term structure. Unfortunately, the model has a major deficiency in that negative interest rates can occur. This article modifies the model such that interest rates are well behaved.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05091.x"
+        },
+        {
+            "no": "17",
+            "title": "Default Risk and the Duration of Zero Coupon Bonds",
+            "date": "March 1990",
+            "author": [
+                "DON M. CHANCE"
+            ],
+            "abstract": "This paper applies a contingent claims approach to examine the duration of a zero coupon bond subject to default risk. One replicating portfolio for a default\u2010prone zero coupon bond contains a long position in the default\u2010free asset plus a short position in a put option on the underlying assets. The duration of the bond is shown to be a weighted combination of the duration of the default\u2010free bond and the put option. The duration is less than maturity and is not an immunizing duration. The technique is then extended to subordinated debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05092.x"
+        },
+        {
+            "no": "18",
+            "title": "The Shelf Registration of Debt and Self Selection Bias",
+            "date": "March 1990",
+            "author": [
+                "DAVID S. ALLEN",
+                "ROBERT E. LAMY",
+                "G. RODNEY THOMPSON"
+            ],
+            "abstract": "Prior studies report lower issue costs for shelf registered debt and conclude that the benefits of increased underwriter competition can be realized by those firms using this registration procedure. This study re\u2010examines the purported superiority of issuing debt via shelf registration, and finds that the savings in issue costs displayed by earlier studies can be attributed to a self selection bias and not the method of registration.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05093.x"
+        },
+        {
+            "no": "19",
+            "title": "Corporate Sale\u2010and\u2010Leasebacks and Shareholder Wealth",
+            "date": "March 1990",
+            "author": [
+                "MYRON B. SLOVIN",
+                "MARIE E. SUSHKA",
+                "JOHN A. POLONCHEK"
+            ],
+            "abstract": "In this paper, we examine the market valuation effects of corporate sale\u2010and\u2010leasebacks. Specifically, we test whether such transactions offer a net benefit to lessees or lessors by evaluating the impact on share prices from announcements of sale\u2010and\u2010leasebacks of major corporate assets. Our evidence indicates that the announcements are associated with positive abnormal returns to lessees. We conclude that this positive market reaction results from an overall reduction in the present value of expected taxes occasioned by the transactions. Our evidence also suggests that the gains from sale\u2010and\u2010leasebacks accrue solely to lessee firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05094.x"
+        },
+        {
+            "no": "20",
+            "title": "Patterns of Productivity in the Finance Literature: A Study of the Bibliometric Distributions",
+            "date": "March 1990",
+            "author": [
+                "KEE H. CHUNG",
+                "RAYMOND A. K. COX"
+            ],
+            "abstract": "This study finds a bibliometric regularity in the finance literature that the number of authors publishing n papers is about\n1\n/\nn\nc\nof those publishing one paper. We find that the finance literature conforms very well to the inverse square law\n(\nc\n=\n2\n)\nif data are taken from a large collection of journals. When applied to individual finance journals, we find that values of c range from 1.95 to 3.26. We also find that top\u2010rated journals have higher concentrations among their contributors. This implies that the phenomenon \u201csuccess breeds success\u201d is more common in higher quality publications.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05095.x"
+        },
+        {
+            "no": "21",
+            "title": "Book Reviews",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nKnights, Raiders, and Targets: The Impact of the Hostile Takeover. Edited by JOHN C. COFFEE, JR., LOUIS LOWENSTEIN, and SUSAN ROSE\u2010ACKERMAN. New York, Oxford: Oxford University Press, 1988. Pp. xii + 547.\nOptions, Futures, and Other Derivative Securities. By JOHN HULL. Englewood Cliffs, NJ: Prentice\u2010Hall, Inc., 1989. Pp. xviii + 341.\nThe Theory of Finance: Evidence and Applications. By JOHN D. MARTIN, SAMUEL H. COX, JR., and RICHARD D. MACMINN. Hinsdale, IL: Dryden Press, 1988. Pp. xxvi + 709.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05096.x"
+        },
+        {
+            "no": "22",
+            "title": "MISCELLANEA",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05097.x"
+        },
+        {
+            "no": "23",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05098.x"
+        },
+        {
+            "no": "24",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb05099.x"
+        },
+        {
+            "no": "25",
+            "title": "Back Matter",
+            "date": "March 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb00378.x"
+        }
+    ]
+}

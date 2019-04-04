@@ -1,0 +1,207 @@
+{
+    "journal": "JF",
+    "volume": "64",
+    "issue": "4",
+    "date": "August 2009",
+    "page": "Pages: i-iii, 1517-1987",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "16 July 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01472_2.x"
+        },
+        {
+            "no": "2",
+            "title": "Presidential Address: Sophisticated Investors and Market Efficiency",
+            "date": "16 July 2009",
+            "author": [
+                "JEREMY C. STEIN"
+            ],
+            "abstract": "Stock\u2010market trading is increasingly dominated by sophisticated professionals, as opposed to individual investors. Will this trend ultimately lead to greater market efficiency? I consider two complicating factors. The first is crowding\u2014the fact that, for a wide range of \u201cunanchored\u201d strategies, an arbitrageur cannot know how many of his peers are simultaneously entering the same trade. The second is leverage\u2014when an arbitrageur chooses a privately optimal leverage ratio, he may create a fire\u2010sale externality that raises the likelihood of a severe crash. In some cases, capital regulation may be helpful in dealing with the latter problem.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01472.x"
+        },
+        {
+            "no": "3",
+            "title": "Why Are Buyouts Levered? The Financial Structure of Private Equity Funds",
+            "date": "16 July 2009",
+            "author": [
+                "ULF AXELSON",
+                "PER STR\u00d6MBERG",
+                "MICHAEL S. WEISBACH"
+            ],
+            "abstract": "Private equity funds are important to the economy, yet there is little analysis explaining their financial structure. In our model the financial structure minimizes agency conflicts between fund managers and investors. Relative to financing each deal separately, raising a fund where the manager receives a fraction of aggregate excess returns reduces incentives to make bad investments. Efficiency is further improved by requiring funds to also use deal\u2010by\u2010deal debt financing, which becomes unavailable in states where internal discipline fails. Private equity investment becomes highly sensitive to aggregate credit conditions and investments in bad states outperform investments in good states.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01473.x"
+        },
+        {
+            "no": "4",
+            "title": "Predictive Systems: Living with Imperfect Predictors",
+            "date": "16 July 2009",
+            "author": [
+                "\u013dUBO\u0160 P\u00c1STOR",
+                "ROBERT F. STAMBAUGH"
+            ],
+            "abstract": "We develop a framework for estimating expected returns\u2014a predictive system\u2014that allows predictors to be imperfectly correlated with the conditional expected return. When predictors are imperfect, the estimated expected return depends on past returns in a manner that hinges on the correlation between unexpected returns and innovations in expected returns. We find empirically that prior beliefs about this correlation, which is most likely negative, substantially affect estimates of expected returns as well as various inferences about predictability, including assessments of a predictor's usefulness. Compared to standard predictive regressions, predictive systems deliver different expected returns with higher estimated precision.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01474.x"
+        },
+        {
+            "no": "5",
+            "title": "Explicit versus Implicit Contracts: Evidence from CEO Employment Agreements",
+            "date": "16 July 2009",
+            "author": [
+                "STUART L. GILLAN",
+                "JAY C. HARTZELL",
+                "ROBERT PARRINO"
+            ],
+            "abstract": "We report evidence on the determinants of whether the relationship between a firm and its Chief Executive Officer (CEO) is governed by an explicit (written) or an implicit agreement. We find that fewer than half of the CEOs of S&P 500 firms have comprehensive explicit employment agreements. Consistent with contracting theory, explicit agreements are more likely to be observed and are likely to have a longer duration in situations in which the sustainability of the relationship is less certain and where the expected loss to the CEO is greater if the firm fails to honor the agreement.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01475.x"
+        },
+        {
+            "no": "6",
+            "title": "Control Rights and Capital Structure: An Empirical Investigation",
+            "date": "16 July 2009",
+            "author": [
+                "MICHAEL R. ROBERTS",
+                "AMIR SUFI"
+            ],
+            "abstract": "We show that incentive conflicts between firms and their creditors have a large impact on corporate debt policy. Net debt issuing activity experiences a sharp and persistent decline following debt covenant violations, when creditors use their acceleration and termination rights to increase interest rates and reduce the availability of credit. The effect of creditor actions on debt policy is strongest when the borrower's alternative sources of finance are costly. In addition, despite the less favorable terms offered by existing creditors, borrowers rarely switch lenders following a violation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01476.x"
+        },
+        {
+            "no": "7",
+            "title": "Agency Problems at Dual\u2010Class Companies",
+            "date": "16 July 2009",
+            "author": [
+                "RONALD W. MASULIS",
+                "CONG WANG",
+                "FEI XIE"
+            ],
+            "abstract": "Using a sample of U.S. dual\u2010class companies, we examine how divergence between insider voting and cash flow rights affects managerial extraction of private benefits of control. We find that as this divergence widens, corporate cash holdings are worth less to outside shareholders, CEOs receive higher compensation, managers make shareholder value\u2010destroying acquisitions more often, and capital expenditures contribute less to shareholder value. These findings support the agency hypothesis that managers with greater excess control rights over cash flow rights are more prone to pursue private benefits at shareholders\u2019 expense, and help explain why firm value is decreasing in insider excess control rights.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01477.x"
+        },
+        {
+            "no": "8",
+            "title": "The Corporate Propensity to Save",
+            "date": "16 July 2009",
+            "author": [
+                "LEIGH A. RIDDICK",
+                "TONI M. WHITED"
+            ],
+            "abstract": "Why do corporations accumulate liquid assets? We show theoretically that intertemporal trade\u2010offs between interest income taxation and the cost of external finance determine optimal savings. Intriguingly, we find that, controlling for Tobin's q, saving and cash flow are negatively related because firms lower cash reserves to invest after receiving positive cash\u2010flow shocks, and vice versa. Consistent with theory, we estimate negative propensities to save out of cash flow. We also find that income uncertainty affects saving more than do external finance constraints. Therefore, contrary to previous evidence, saving propensities reflect too many forces to be used to measure external finance constraints.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01478.x"
+        },
+        {
+            "no": "9",
+            "title": "Target Behavior and Financing: How Conclusive Is the Evidence?",
+            "date": "16 July 2009",
+            "author": [
+                "XIN CHANG",
+                "SUDIPTO DASGUPTA"
+            ],
+            "abstract": "The notion that firms have a debt ratio target that is a primary determinant of financing behavior is influential in finance. Yet, how definitive is the evidence? We address this issue by generating samples where financing is unrelated to a firm's current debt ratio or a target. We find that much of the available evidence in favor of target behavior based on leverage ratio changes can be reproduced for these samples. Taken together, our findings suggest that a number of existing tests of target behavior have no power to reject alternatives.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01479.x"
+        },
+        {
+            "no": "10",
+            "title": "Analyzing the Tax Benefits from Employee Stock Options",
+            "date": "16 July 2009",
+            "author": [
+                "ILONA BABENKO",
+                "YURI TSERLUKEVICH"
+            ],
+            "abstract": "Employees tend to exercise stock options when corporate taxable income is high, shifting corporate tax deductions to years with higher tax rates. If firms paid employees the same dollar value in wages instead of stock options, the average annual tax bill for large U.S. companies would increase by $12.6 million, or 9.8%. These direct tax benefits of options increase in the convexity of the tax function. In addition, profitable firms can realize indirect tax benefits because stock options increase debt capacity. Although tax minimization is probably not the main motive for option grants, firms with larger potential tax benefits grant more options.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01480.x"
+        },
+        {
+            "no": "11",
+            "title": "Financially Constrained Stock Returns",
+            "date": "16 July 2009",
+            "author": [
+                "DMITRY LIVDAN",
+                "HORACIO SAPRIZA",
+                "LU ZHANG"
+            ],
+            "abstract": "We study the effect of financial constraints on risk and expected returns by extending the investment\u2010based asset pricing framework to incorporate retained earnings, debt, costly equity, and collateral constraints on debt capacity. Quantitative results show that more financially constrained firms are riskier and earn higher expected stock returns than less financially constrained firms. Intuitively, by preventing firms from financing all desired investments, collateral constraints restrict the flexibility of firms in smoothing dividend streams in the face of aggregate shocks. The inflexibility mechanism also gives rise to a convex relation between market leverage and expected stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01481.x"
+        },
+        {
+            "no": "12",
+            "title": "First\u2010Order Risk Aversion, Heterogeneity, and Asset Market Outcomes",
+            "date": "16 July 2009",
+            "author": [
+                "DAVID A. CHAPMAN",
+                "VALERY POLKOVNICHENKO"
+            ],
+            "abstract": "We examine a wide range of two\u2010date economies populated by heterogeneous agents with the most common forms of nonexpected utility preferences used in finance and macroeconomics. We demonstrate that the risk premium and the risk\u2010free rate in these models are sensitive to ignoring heterogeneity. This follows because of endogenous withdrawal by nonexpected utility agents from the market for the risky asset. This finding is important precisely because these alternative preferences have frequently been proposed as possible resolutions to various asset pricing puzzles, and they have all been examined exclusively in a representative agent framework.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01482.x"
+        },
+        {
+            "no": "13",
+            "title": "Who Gambles in the Stock Market?",
+            "date": "16 July 2009",
+            "author": [
+                "ALOK KUMAR"
+            ],
+            "abstract": "This study shows that the propensity to gamble and investment decisions are correlated. At the aggregate level, individual investors prefer stocks with lottery features, and like lottery demand, the demand for lottery\u2010type stocks increases during economic downturns. In the cross\u2010section, socioeconomic factors that induce greater expenditure in lotteries are associated with greater investment in lottery\u2010type stocks. Further, lottery investment levels are higher in regions with favorable lottery environments. Because lottery\u2010type stocks underperform, gambling\u2010related underperformance is greater among low\u2010income investors who excessively overweight lottery\u2010type stocks. These results indicate that state lotteries and lottery\u2010type stocks attract very similar socioeconomic clienteles.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01483.x"
+        },
+        {
+            "no": "14",
+            "title": "Rewriting History",
+            "date": "16 July 2009",
+            "author": [
+                "ALEXANDER LJUNGQVIST",
+                "CHRISTOPHER MALLOY",
+                "FELICIA MARSTON"
+            ],
+            "abstract": "We document widespread changes to the historical I/B/E/S analyst stock recommendations database. Across seven I/B/E/S downloads, obtained between 2000 and 2007, we find that between 6,580 (1.6%) and 97,582 (21.7%) of matched observations are different from one download to the next. The changes include alterations of recommendations, additions and deletions of records, and removal of analyst names. These changes are nonrandom, clustering by analyst reputation, broker size and status, and recommendation boldness, and affect trading signal classifications and back\u2010tests of three stylized facts: profitability of trading signals, profitability of consensus recommendation changes, and persistence in individual analyst stock\u2010picking ability.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01484.x"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Editor of The Journal of Finance for the Year 2008",
+            "date": "16 July 2009",
+            "author": [
+                "CAMPBELL R. HARVEY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01485.x"
+        },
+        {
+            "no": "16",
+            "title": "Minutes of the Annual Membership Meeting January 4, 2009",
+            "date": "16 July 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01486.x"
+        },
+        {
+            "no": "17",
+            "title": "Report of the Executive Secretary and Treasurer for the Year Ending September 30, 2008",
+            "date": "16 July 2009",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01487.x"
+        },
+        {
+            "no": "18",
+            "title": "MISCELLANEA",
+            "date": "16 July 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01488.x"
+        },
+        {
+            "no": "19",
+            "title": "Back Matter",
+            "date": "16 July 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01489.x"
+        }
+    ]
+}

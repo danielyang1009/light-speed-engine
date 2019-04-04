@@ -5,7 +5,7 @@
 ## 1. Investor protection and corporate governance
 ### Date
 - 2000
-### Authors
+### Author
 - Rafael La Porta
 - Florencio Lopez-de-Silanes
 - Andrei Shleifer
@@ -18,7 +18,7 @@ Recent research has documented large differences among countries in ownership co
 ## 2. Universal banking and the performance of German firms
 ### Date
 - 2000
-### Authors
+### Author
 - Gary Gorton
 - Frank A Schmid
 ### Abstract
@@ -29,7 +29,7 @@ We empirically investigate the influence of German universal banks on the perfor
 ## 3. The separation of ownership and control in East Asian Corporations
 ### Date
 - 2000
-### Authors
+### Author
 - Stijn Claessens
 - Simeon Djankov
 - Larry H.P Lang
@@ -41,7 +41,7 @@ We examine the separation of ownership and control for 2,980 corporations in nin
 ## 4. The balance of power in closely held corporations
 ### Date
 - 2000
-### Authors
+### Author
 - Morten Bennedsen
 - Daniel Wolfenzon
 ### Abstract
@@ -52,7 +52,7 @@ We analyze a closely held corporation characterized by the absence of a resale m
 ## 5. Corporate governance in the Asian financial crisis
 ### Date
 - 2000
-### Authors
+### Author
 - Simon Johnson
 - Peter Boone
 - Alasdair Breach
@@ -65,7 +65,7 @@ The “Asian Crisis” of 1997–98 affected all the “emerging markets” open
 ## 6. Financial markets and the allocation of capital
 ### Date
 - 2000
-### Authors
+### Author
 - Jeffrey Wurgler
 ### Abstract
 Financial markets appear to improve the allocation of capital. Across 65 countries, those with developed financial sectors increase investment more in their growing industries, and decrease investment more in their declining industries, than those with undeveloped financial sectors. The efficiency of capital allocation is negatively correlated with the extent of state ownership in the economy, positively correlated with the amount of firm-specific information in domestic stock returns, and positively correlated with the legal protection of minority investors. In particular, strong minority investor rights appear to curb overinvestment in declining industries.
@@ -75,7 +75,7 @@ Financial markets appear to improve the allocation of capital. Across 65 countri
 ## 7. The information content of stock markets: why do emerging markets have synchronous stock price movements?
 ### Date
 - 2000
-### Authors
+### Author
 - Randall Morck
 - Bernard Yeung
 - Wayne Yu
@@ -87,7 +87,7 @@ Stock prices move together more in poor economies than in rich economies. This f
 ## 8. Finance and the sources of growth
 ### Date
 - 2000
-### Authors
+### Author
 - Thorsten Beck
 - Ross Levine
 - Norman Loayza
@@ -99,7 +99,7 @@ This paper evaluates the empirical relation between the level of financial inter
 ## 9. Do stock market liberalizations cause investment booms?
 ### Date
 - 2000
-### Authors
+### Author
 - Peter Blair Henry
 ### Abstract
 Stock market liberalizations lead private investment booms. In a sample of 11 developing countries that liberalized their stock markets, 9 experience growth rates of private investment above their non-liberalization median in the first year after liberalizing. In the second and third years after liberalization, this number is 10 of 11 and 8 of 11, respectively. The mean growth rate of private investment in the three years immediately following stock market liberalization exceeds the sample mean by 22 percentage points. The evidence stands in sharp contrast to recent work that suggests capital account liberalization has no effect on investment.

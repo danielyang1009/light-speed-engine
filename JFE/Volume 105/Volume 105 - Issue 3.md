@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Size, value, and momentum in international stock returns
 ### Date
 - May 2012
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -25,7 +25,7 @@ In the four regions (North America, Europe, Japan, and Asia Pacific) we examine,
 ## 3. What does futures market interest tell us about the macroeconomy and asset prices?
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Harrison Hong
 - Motohiro Yogo
 ### Abstract
@@ -36,7 +36,7 @@ Economists have traditionally viewed futures prices as fully informative about f
 ## 4. Displacement risk and asset returns
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Nicolae Gârleanu
 - Leonid Kogan
 - Stavros Panageas
@@ -48,7 +48,7 @@ We study asset-pricing implications of innovation in a general-equilibrium overl
 ## 5. Risk and the cross section of stock returns
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Radu Burlacu
 - Patrice Fontaine
 - Sonia Jimenez-Garcès
@@ -69,7 +69,7 @@ change in our variable is associated with a 0.31% difference in average returns 
 ## 6. Sell-order liquidity and the cross-section of expected stock returns
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Michael J. Brennan
 - Tarun Chordia
 - Avanidhar Subrahmanyam
@@ -82,7 +82,7 @@ We estimate buy- and sell-order illiquidity measures (lambdas) for a comprehensi
 ## 7. Limited arbitrage between equity and credit markets
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Nikunj Kapadia
 - Xiaoling Pu
 ### Abstract
@@ -93,7 +93,7 @@ We document that short-horizon pricing discrepancies across firms' equity and cr
 ## 8. Market fragility and international market crashes
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Dave Berger
 - Kuntara Pukthuanthong
 ### Abstract
@@ -104,7 +104,7 @@ We extend the Pukthuanthong and Roll (2009) measure of integration to provide an
 ## 9. Endogeneity and the dynamics of internal corporate governance
 ### Date
 - Mar 2012
-### Authors
+### Author
 - M. Babajide Wintoki
 - James S. Linck
 - Jeffry M. Netter
@@ -116,7 +116,7 @@ We use a well-developed dynamic panel generalized method of moments (GMM) estima
 ## 10. Does it matter who pays for bond ratings? Historical evidence
 ### Date
 - Apr 2012
-### Authors
+### Author
 - John (Xuefeng) Jiang
 - Mary Harris Stanford
 - Yuan Xie
@@ -128,7 +128,7 @@ We test whether Standard and Poor's (S&P) assigns higher bond ratings after it s
 ## 11. Hedging labor income risk
 ### Date
 - May 2012
-### Authors
+### Author
 - Sebastien Betermier
 - Thomas Jansson
 - Christine Parlour
@@ -141,7 +141,7 @@ We use a detailed panel data set of Swedish households to investigate the relati
 ## 12. Adverse selection in mortgage securitization
 ### Date
 - May 2012
-### Authors
+### Author
 - Sumit Agarwal
 - Yan Chang
 - Abdullah Yavas
@@ -153,7 +153,7 @@ Using several large data sets of mortgage loans originated between 2004 and 2007
 ## 13. Competition and the cost of debt
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Philip Valta
 ### Abstract
 This paper empirically shows that the cost of bank debt is systematically higher for firms that operate in competitive product markets. Using various proxies for product market competition, and reductions of import tariff rates to capture exogenous changes to a firm's competitive environment, I find that competition has a significantly positive effect on the cost of bank debt. Moreover, the analysis reveals that the effect of competition is greater in industries in which small firms face financially strong rivals, in industries with intense strategic interactions between firms, and in illiquid industries. Overall, these findings suggest that banks price financial contracts by taking into account the risk that arises from product market competition.

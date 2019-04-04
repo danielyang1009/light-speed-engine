@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Intermediary asset pricing: New evidence from many asset classes
 ### Date
 - Aug 2017
-### Authors
+### Author
 - Zhiguo He
 - Bryan Kelly
 - Asaf Manela
@@ -26,7 +26,7 @@ We find that shocks to the equity capital ratio of financial intermediaries—Pr
 ## 3. The impact of portfolio disclosure on hedge fund performance
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Zhen Shi
 ### Abstract
 Consistent with the argument that portfolio disclosure reveals trade secrets, a difference-in-differences estimation suggests a drop in fund performance after a hedge fund begins filing Form 13F as well as an increase in return correlations with other funds in the same investment style. The drop in performance is concentrated among funds with larger expected proprietary costs of disclosure, for instance, funds that disclose a greater fraction of their assets or hold more illiquid stocks. The drop in performance cannot be fully explained by alternative explanations such as decreasing returns to scale or mean reversion in fund returns.
@@ -36,7 +36,7 @@ Consistent with the argument that portfolio disclosure reveals trade secrets, a 
 ## 4. Activism mergers
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Nicole M. Boyson
 - Nickolay Gantchev
 - Anil Shivdasani
@@ -48,7 +48,7 @@ Shareholder value creation from hedge fund activism occurs primarily by influenc
 ## 5. The source of information in prices and investment-price sensitivity
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Alex Edmans
 - Sudarshan Jayaraman
 - Jan Schneemeier
@@ -60,7 +60,7 @@ This paper shows that real decisions depend not only on the total amount of info
 ## 6. Do managers overreact to salient risks? Evidence from hurricane strikes
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Olivier Dessaint
 - Adrien Matray
 ### Abstract
@@ -71,7 +71,7 @@ We study how managers respond to hurricane events when their firms are located i
 ## 7. Are foreign investors locusts? The long-term effects of foreign institutional ownership
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Jan Bena
 - Miguel A Ferreira
 - Pedro Matos
@@ -84,7 +84,7 @@ This paper challenges the view that foreign investors lead firms to adopt a shor
 ## 8. An extrapolative model of house price dynamics
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Edward L. Glaeser
 - Charles G. Nathanson
 ### Abstract
@@ -95,7 +95,7 @@ A model in which homebuyers make a modest approximation leads house prices to di
 ## 9. The effects of institutional investor objectives on firm valuation and governance
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Paul Borochin
 - Jie Yang
 ### Abstract
@@ -106,7 +106,7 @@ We find that ownership by different types of institutional investors has varying
 ## 10. Merger activity in industry equilibrium
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Theodosios Dimopoulos
 - Stefano Sacchetto
 ### Abstract

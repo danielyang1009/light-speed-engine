@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Equity issuances and agency costs: The telling story of shareholder approval around the world
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Clifford G. Holderness
 ### Abstract
 Mandatory shareholder approval of equity issuances varies across and within countries. When shareholders approve issuances, average announcement returns are positive. When managers issue stock without shareholder approval, returns are negative and 4% lower. The closer the vote is to the issuance or the greater is the required plurality, the higher are the returns for public offers, rights offers, and private placements. When shareholder approval is required, rights offers predominate. When managers may issue stock without shareholder approval, public offers predominate. These findings suggest that agency problems affect equity issuances and challenge existing adverse selection, market timing, and signaling explanations.
@@ -24,7 +24,7 @@ Mandatory shareholder approval of equity issuances varies across and within coun
 ## 3. Do stocks outperform Treasury bills?
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Hendrik Bessembinder
 ### Abstract
 The majority of common stocks that have appeared in the Center for Research in Security Prices (CRSP) database since 1926 have lifetime buy-and-hold returns less than one-month Treasuries. When stated in terms of lifetime dollar wealth creation, the best-performing 4% of listed companies explain the net gain for the entire US stock market since 1926, as other stocks collectively matched Treasury bills. These results highlight the important role of positive skewness in the distribution of individual stock returns, attributable to skewness in monthly returns and to the effects of compounding. The results help to explain why poorly diversified active strategies most often underperform market averages.
@@ -34,7 +34,7 @@ The majority of common stocks that have appeared in the Center for Research in S
 ## 4. Stocks with extreme past returns: Lotteries or insurance?
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Alexander Barinov
 ### Abstract
 The paper shows that lottery-like stocks are hedges against unexpected increases in market volatility. The loading on the aggregate volatility risk factor explains the majority of low abnormal returns to stocks with high maximum returns in the past month (Bali et al., 2011) and high expected skewness (Boyer et al., 2010). Aggregate volatility risk also explains the new evidence that the maximum effect and the skewness effect are stronger for firms with high market to book or high expected probability of bankruptcy.
@@ -44,7 +44,7 @@ The paper shows that lottery-like stocks are hedges against unexpected increases
 ## 5. Size matters, if you control your junk
 ### Date
 - May 2018
-### Authors
+### Author
 - Clifford Asness
 - Andrea Frazzini
 - Ronen Israel
@@ -58,7 +58,7 @@ The size premium has been accused of having a weak historical record, being meag
 ## 6. Financing as a supply chain: The capital structure of banks and borrowers
 ### Date
 - May 2018
-### Authors
+### Author
 - Will Gornall
 - Ilya A. Strebulaev
 ### Abstract
@@ -69,7 +69,7 @@ We develop a model of the joint capital structure decisions of banks and their b
 ## 7. Does policy uncertainty affect mergers and acquisitions?
 ### Date
 - May 2018
-### Authors
+### Author
 - Alice Bonaime
 - Huseyin Gulen
 - Mihai Ion
@@ -81,7 +81,7 @@ Political and regulatory uncertainty is strongly negatively associated with merg
 ## 8. Private equity portfolio company fees
 ### Date
 - May 2018
-### Authors
+### Author
 - Ludovic Phalippou
 - Christian Rauch
 - Marc Umber
@@ -93,7 +93,7 @@ In private equity, general partners (GPs) receive fee payments from companies wh
 ## 9. The effect of mortgage securitization on foreclosure and modification
 ### Date
 - Jan 2018
-### Authors
+### Author
 - Samuel Kruger
 ### Abstract
 Did securitization exacerbate the foreclosure crisis by altering mortgage servicing practices? I exploit the unanticipated freeze of private mortgage securitization in 2007 to provide new evidence that securitization increases foreclosure probability and decreases modification probability. These effects are economically large and persist over time even after implementation of the Home Affordable Modification Program (HAMP) in 2009. Using hand-collected data on the contractual terms of servicing agreements, I show that servicers typically have broad discretion to modify loans but face significant incentives favoring foreclosure. The evidence implies that securitization significantly increased foreclosure rates during and after the crisis.
@@ -103,7 +103,7 @@ Did securitization exacerbate the foreclosure crisis by altering mortgage servic
 ## 10. Loan prospecting and the loss of soft information
 ### Date
 - May 2018
-### Authors
+### Author
 - Sumit Agarwal
 - Itzhak Ben-David
 ### Abstract

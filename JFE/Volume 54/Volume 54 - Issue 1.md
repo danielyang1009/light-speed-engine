@@ -5,7 +5,7 @@
 ## 1. The time-series relations among expected return, risk, and book-to-market
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Jonathan Lewellen
 ### Abstract
 This paper examines the time-series relations among expected return, risk, and book-to-market (B/M) at the portfolio level. I find that B/M predicts economically and statistically significant time-variation in expected stock returns. Further, B/M is strongly associated with changes in risk, as measured by the Fama and French (1993) (Journal of Financial Economics, 33, 3–56) three-factor model. After controlling for risk, B/M provides no incremental information about expected returns. The evidence suggests that the three-factor model explains time-varying expected returns better than a characteristics-based model.
@@ -15,7 +15,7 @@ This paper examines the time-series relations among expected return, risk, and b
 ## 2. The long-run performance of stock returns following debt offerings
 ### Date
 - Oct 1999
-### Authors
+### Author
 - D.Katherine Spiess
 - John Affleck-Graves
 ### Abstract
@@ -26,7 +26,7 @@ We document substantial long-run post-issue underperformance by firms making str
 ## 3. Firm performance and focus: long-run stock market performance following spinoffs
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Hemang Desai
 - Prem C. Jain
 ### Abstract
@@ -37,7 +37,7 @@ We examine whether an increase in focus is an explanation for the stock market g
 ## 4. GMM tests of stochastic discount factor models with useless factors
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Raymond Kan
 - Chu Zhang
 ### Abstract

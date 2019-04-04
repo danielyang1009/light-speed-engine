@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The dynamics of international equity market expectations
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Michael J. Brennan
 - H. Henry Cao
 - Norman Strong
@@ -27,7 +27,7 @@ This paper develops a noisy rational expectations model of the way in which inte
 ## 3. Earnings expectations, investor trade size, and anomalous returns around earnings announcements
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Robert H. Battalio
 - Richard R. Mendenhall
 ### Abstract
@@ -38,7 +38,7 @@ We provide evidence that identifiable subsets of investors use significantly dif
 ## 4. Optimal toeholds in takeover contests
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Eitan Goldman
 - Jun Qian
 ### Abstract
@@ -49,7 +49,7 @@ We offer an explanation for why raiders do not acquire the maximum possible toeh
 ## 5. Issuer surplus and the partial adjustment of IPO prices to public information
 ### Date
 - May 2004
-### Authors
+### Author
 - Roger M. Edelen
 - Gregory B. Kadlec
 ### Abstract
@@ -60,7 +60,7 @@ This study develops a model in which rational issuers maximize the expected surp
 ## 6. Asset pricing with liquidity risk
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Viral V. Acharya
 - Lasse Heje Pedersen
 ### Abstract
@@ -71,7 +71,7 @@ This paper solves explicitly a simple equilibrium model with liquidity risk. In 
 ## 7. Liquidity of emerging markets
 ### Date
 - Jan 2004
-### Authors
+### Author
 - David A. Lesmond
 ### Abstract
 Emerging markets are characterized by volatile, but substantial returns that can easily exceed 75% per annum. Balancing these lofty returns are liquidity costs that, using the bid–ask spread as a basis, range from 1% for the Taiwanese market to over 47% for the Russian market. However, the paucity of bid–ask spread information across countries and time requires the use of liquidity estimates in emerging markets even though little is known about the efficacy of these estimates in measuring bid–ask spread costs. Using firm-level quoted bid–ask spreads as a basis, I find that price-based liquidity measures of Lesmond et al. [Review of Financial Studies 12 (1999) 1113] and Roll [Journal of Finance 39 (1984) 1127] perform better at representing cross-country liquidity effects than do volume based liquidity measures. Within-country liquidity is best measured with the liquidity estimates of either Lesmond, Ogden, and Trzcinka or, to a lesser extent, Amihud (2002). Examining the impact of legal origin and political institutions on liquidity levels shows that countries with weak political and legal institutions have significantly higher liquidity costs than do countries with strong political and legal systems, even to the exclusion of legal origin or insider trading enforcement. Higher incremental political risk is associated with a 10 basis point increase in transaction costs, using the Lesmond, Ogden, and Trzcinka estimate, or a 1.9% increase in price impact costs, using the Amihud estimate.
@@ -81,7 +81,7 @@ Emerging markets are characterized by volatile, but substantial returns that can
 ## 8. Politicians and banks: Political influences on government-owned banks in emerging markets
 ### Date
 - Jun 2004
-### Authors
+### Author
 - I. Serdar Dinç
 ### Abstract
 Government ownership of banks is very common in countries other than the United States. This paper provides cross-country, bank-level empirical evidence about political influences on these banks. It shows that government-owned banks increase their lending in election years relative to private banks. This effect is robust to controlling for country-specific macroeconomic and institutional factors as well as bank-specific factors. The increase in lending is about 11% of a government-owned bank's total loan portfolio or about 0.5% of the median country's GDP per election per government-owned bank.

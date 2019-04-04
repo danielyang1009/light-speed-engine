@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The mystery of zero-leverage firms
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Ilya A. Strebulaev
 - Baozhong Yang
 ### Abstract
@@ -25,7 +25,7 @@ We present the puzzling evidence that, from 1962 to 2009, an average 10.2% of la
 ## 3. Acquisitions driven by stock overvaluation: Are they good deals?
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Fangjian Fu
 - Leming Lin
 - Micah S. Officer
@@ -37,7 +37,7 @@ Theory and recent evidence suggest that overvalued firms can create value for sh
 ## 4. Market timing, investment, and risk management
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Patrick Bolton
 - Hui Chen
 - Neng Wang
@@ -49,7 +49,7 @@ The 2008 financial crisis exemplifies significant uncertainties in corporate fin
 ## 5. Are busy boards detrimental?
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Laura Field
 - Michelle Lowry
 - Anahit Mkrtchyan
@@ -61,7 +61,7 @@ Busy directors have been widely criticized as being ineffective. However, we hyp
 ## 6. Firm characteristics and long-run stock returns after corporate events
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Hendrik Bessembinder
 - Feng Zhang
 ### Abstract
@@ -72,7 +72,7 @@ The well-documented abnormal long-run buy-and-hold returns to firms issuing equi
 ## 7. Managerial attitudes and corporate actions
 ### Date
 - Jan 2013
-### Authors
+### Author
 - John R. Graham
 - Campbell R. Harvey
 - Manju Puri
@@ -84,7 +84,7 @@ We administer psychometric tests to senior executives to obtain evidence on thei
 ## 8. The deep-pocket effect of internal capital markets
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Xavier Boutin
 - Giacinta Cestone
 - Chiara Fumagalli
@@ -98,7 +98,7 @@ We provide evidence that incumbent and entrant firms' access to business group d
 ## 9. How does capital affect bank performance during financial crises?
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Allen N. Berger
 - Christa H.S. Bouwman
 ### Abstract
@@ -109,7 +109,7 @@ This paper empirically examines how capital affects a bank’s performance (surv
 ## 10. Worldwide reach of short selling regulations
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Archana Jain
 - Pankaj K. Jain
 - Thomas H. McInish
@@ -122,7 +122,7 @@ We characterize legality and incidence of short selling in a worldwide, multimar
 ## 11. Sharing information in the credit market: Contract-level evidence from U.S. firms
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Antonio Doblas-Madrid
 - Raoul Minetti
 ### Abstract
@@ -133,7 +133,7 @@ We investigate the impact of lenders' information sharing on firms' performance 
 ## 12. The leverage effect puzzle: Disentangling sources of bias at high frequency
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Yacine Aït-Sahalia
 - Jianqing Fan
 - Yingying Li
@@ -145,7 +145,7 @@ The leverage effect refers to the generally negative correlation between an asse
 ## 13. Productivity, restructuring, and the gains from takeovers
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Xiaoyang Li
 ### Abstract
 This paper investigates how takeovers create value. Using plant-level data, I show that acquirers increase targets' productivity through more efficient use of capital and labor. Acquirers reduce capital expenditures, wages, and employment in target plants, though output is unchanged. Acquirers improve targets' investment efficiency through reallocating capital to industries with better investment opportunities. Moreover, changes in productivity help explain the merging firms' announcement returns. The combined announcement returns are driven by improvements in target's productivity. Targets with greater productivity improvements receive higher premiums. These results provide some first empirical evidence on the relation between productivity and stock returns in takeovers.
@@ -155,7 +155,7 @@ This paper investigates how takeovers create value. Using plant-level data, I sh
 ## 14. Firms as liquidity providers: Evidence from the 2007–2008 financial crisis
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Emilia Garcia-Appendini
 - Judit Montoriol-Garriga
 ### Abstract

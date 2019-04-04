@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. X-CAPM: An extrapolative capital asset pricing model
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Nicholas Barberis
 - Robin Greenwood
 - Lawrence Jin
@@ -27,7 +27,7 @@ Survey evidence suggests that many investors form beliefs about future stock mar
 ## 3. Financial integration, housing, and economic volatility
 ### Date
 - Sep 2014
-### Authors
+### Author
 - Elena Loutskina
 - Philip E. Strahan
 ### Abstract
@@ -38,7 +38,7 @@ The Great Recession illustrates the sensitivity of the economy to housing. This 
 ## 4. Macroeconomic linkages between monetary policy and the term structure of interest rates
 ### Date
 - Sep 2014
-### Authors
+### Author
 - Howard Kung
 ### Abstract
 This paper studies the equilibrium term structure of nominal and real interest rates and the time-varying bond risk premia implied by a stochastic endogenous growth model with imperfect price adjustment and monetary policy shocks. The production and price-setting decisions of firms drive low-frequency movements in growth and inflation rates that are negatively related. With recursive preferences, these growth and inflation dynamics are crucial for rationalizing key stylized facts in bond markets. When calibrated to macroeconomic data, the model quantitatively explains the means and volatilities of nominal bond yields and the failure of the expectations hypothesis.
@@ -48,7 +48,7 @@ This paper studies the equilibrium term structure of nominal and real interest r
 ## 5. Why do term structures in different currencies co-move?
 ### Date
 - Sep 2014
-### Authors
+### Author
 - Chotibhak Jotikasthira
 - Anh Le
 - Christian Lundblad
@@ -60,7 +60,7 @@ Yield curve fluctuations across different currencies are highly correlated. This
 ## 6. Attentive insider trading
 ### Date
 - Sep 2014
-### Authors
+### Author
 - Dallin M. Alldredge
 - David C. Cicero
 ### Abstract
@@ -71,7 +71,7 @@ We provide evidence that some profitable insider stock selling is motivated by p
 ## 7. Fund managers under pressure: Rationale and determinants of secondary buyouts
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Sridhar Arcot
 - Zsuzsanna Fluck
 - José-Miguel Gaspar
@@ -84,7 +84,7 @@ The fastest growing segment of private equity (PE) deals is secondary buyouts (S
 ## 8. End-of-the-year economic growth and time-varying expected returns
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Stig V. Møller
 - Jesper Rangvid
 ### Abstract
@@ -95,7 +95,7 @@ We show that macroeconomic growth at the end of the year (fourth quarter or Dece
 ## 9. Market run-ups, market freezes, inventories, and leverage
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Philip Bond
 - Yaron Leitner
 ### Abstract
@@ -106,7 +106,7 @@ We study trade between an informed seller and an uninformed buyer who have exist
 ## 10. Non-executive employee stock options and corporate innovation
 ### Date
 - Sep 2014
-### Authors
+### Author
 - Xin Chang
 - Kangkang Fu
 - Angie Low
@@ -119,7 +119,7 @@ We provide empirical evidence on the positive effect of non-executive employee s
 ## 11. Does banking competition affect innovation?
 ### Date
 - Sep 2014
-### Authors
+### Author
 - Jess Cornaggia
 - Yifei Mao
 - Xuan Tian
@@ -132,7 +132,7 @@ We exploit the deregulation of interstate bank branching laws to test whether ba
 ## 12. A comment on Christoffersen, Jacobs, and Ornthanalai (2012), “Dynamic jump intensities and risk premiums: Evidence from S&P 500 returns and options”
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Garland Durham
 - John Geweke
 - Pulak Ghosh

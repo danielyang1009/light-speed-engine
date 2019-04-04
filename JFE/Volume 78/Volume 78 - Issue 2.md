@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Short interest, institutional ownership, and stock returns
 ### Date
 - Jan 2005
-### Authors
+### Author
 - Paul Asquith
 - Parag A. Pathak
 - Jay R. Ritter
@@ -26,7 +26,7 @@ Stocks are short-sale constrained when there is a strong demand to sell short an
 ## 3. Short sales, institutional investors and the cross-section of stock returns
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Stefan Nagel
 ### Abstract
 Short-sale constraints are most likely to bind among stocks with low institutional ownership. Because of institutional constraints, most professional investors simply never sell short and hence cannot trade against overpricing of stocks they do not own. Furthermore, stock loan supply tends to be sparse and short selling more expensive when institutional ownership is low. Using institutional ownership as a proxy, I find that short-sale constraints help explain cross-sectional stock return anomalies. Specifically, holding size fixed, the under-performance of stocks with high market-to-book, analyst forecast dispersion, turnover, or volatility is most pronounced among stocks with low institutional ownership. Ownership by passive investors with large stock lending programs partly mitigates this under-performance, indicating some impact of stock loan supply. Prices of stocks with low institutional ownership also underreact to bad cash-flow news and overreact to good cash-flow news, consistent with the idea that short-sale constraints hold negative opinions off the market for these stocks.
@@ -36,7 +36,7 @@ Short-sale constraints are most likely to bind among stocks with low institution
 ## 4. Prospect theory, mental accounting, and momentum
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Mark Grinblatt
 - Bing Han
 ### Abstract
@@ -47,7 +47,7 @@ The tendency of some investors to hold on to their losing stocks, driven by pros
 ## 5. Liquidity: Urban versus rural firms
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Tim Loughran
 - Paul Schultz
 ### Abstract
@@ -58,7 +58,7 @@ Our paper examines the impact of geographic location on liquidity for U.S. rural
 ## 6. The choice between rights offerings and private equity placements
 ### Date
 - Dec 2004
-### Authors
+### Author
 - Henrik Cronqvist
 - Mattias Nilsson
 ### Abstract
@@ -69,7 +69,7 @@ We develop and test a nested logit model to examine how firms choose between a r
 ## 7. The costs of entrenched boards
 ### Date
 - Dec 2004
-### Authors
+### Author
 - Lucian A. Bebchuk
 - Alma Cohen
 ### Abstract
@@ -80,7 +80,7 @@ This paper investigates empirically how the value of publicly traded firms is af
 ## 8. An empirical examination of the costs and benefits of executive stock options: Evidence from Japan
 ### Date
 - Sep 2004
-### Authors
+### Author
 - Hideaki Kiyoshi Kato
 - Michael Lemmon
 - Mi Luo

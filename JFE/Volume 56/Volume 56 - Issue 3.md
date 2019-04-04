@@ -5,7 +5,7 @@
 ## 1. Comparing asset pricing models: an investment perspective
 ### Date
 - Jun 2000
-### Authors
+### Author
 - Ľuboš Pástor
 - Robert F. Stambaugh
 ### Abstract
@@ -16,7 +16,7 @@ We investigate the portfolio choices of mean-variance-optimizing investors who u
 ## 2. Speed of issuance and the adequacy of disclosure in the 144A high-yield debt market
 ### Date
 - Jun 2000
-### Authors
+### Author
 - George W Fenn
 ### Abstract
 I document the shift of high-yield issuance from the public to the Rule 144A private placement market and exploit data on credit spreads to investigate whether investors regard disclosure in the two markets as comparable. The key implications of the inadequate-disclosure hypothesis are that investors require premiums on 144A securities and that such premiums are largest for first-time bond issuers and privately owned firms about whom less information is publicly available. I find that 144A premiums, though positive initially, have vanished over time, and I find no evidence of larger 144A premiums for first-time issuers or private firms. Investors do, however, require premiums of first-time issuers, and to a lesser extent of privately owned firms, regardless of whether securities are issued in the 144A or public market. These findings imply that sophisticated investors do not value the incremental information provided by securities registration, but do value ongoing disclosure.
@@ -26,7 +26,7 @@ I document the shift of high-yield issuance from the public to the Rule 144A pri
 ## 3. A study towards a unified approach to the joint estimation of objective and risk neutral measures for the purpose of options valuation
 ### Date
 - Jun 2000
-### Authors
+### Author
 - Mikhail Chernov
 - Eric Ghysels
 ### Abstract
@@ -37,7 +37,7 @@ The purpose of this paper is to bridge two strands of the literature, one pertai
 ## 4. Why firms issue targeted stock
 ### Date
 - Jun 2000
-### Authors
+### Author
 - Julia D'Souza
 - John Jacob
 ### Abstract
@@ -48,7 +48,7 @@ We analyze market reaction to targeted stock issuances and investigate possible 
 ## 5. From cradle to grave: How to loot a 401(k) plan
 ### Date
 - Jun 2000
-### Authors
+### Author
 - Richard Stanton
 ### Abstract
 The regulations governing asset distributions from many retirement plans give participants the option to time retirement or rollovers from the plan strategically. They possess a long-lived put option, whose exercise price resets periodically to the current value of the assets in the plan. I derive a recursive closed-form valuation formula for the option and develop a numerical algorithm for implementing the result. I find that, for reasonable assumptions about volatility and life expectancy, the option's value may approach 40% of the value of the assets in the plan, financed entirely by those still contributing. This wealth transfer can, however, be easily avoided by making a simple change to the current regulations governing valuation and payout of these retirement plans.
@@ -58,7 +58,7 @@ The regulations governing asset distributions from many retirement plans give pa
 ## 6. Index
 ### Date
 - Jun 2000
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -28,7 +28,7 @@
 ## 3. Dividend yields and expected stock returns
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -39,7 +39,7 @@ The power of dividend yields to forecast stock returns, measured by regression R
 ## 4. Mean reversion in stock prices
 ### Date
 - Oct 1988
-### Authors
+### Author
 - James M. Poterba
 - Lawrence H. Summers
 ### Abstract
@@ -50,7 +50,7 @@ This paper investigates transitory components in stock prices. After showing tha
 ## 5. Corporate payout policy
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Michael J. Barclay
 - Clifford W. Smith
 ### Abstract
@@ -61,7 +61,7 @@ Theories of corporate payout policy do not explain the observed form of distribu
 ## 6. Stock splits, stock prices, and transaction costs
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Michael J. Brennan
 - Thomas E. Copeland
 ### Abstract
@@ -72,7 +72,7 @@ We develop a model of stock-split behavior in which the split serves as a costly
 ## 7. The behavior of the volatility implicit in the prices of stock index options
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Theodore E. Day
 - Craig M. Lewis
 ### Abstract
@@ -83,7 +83,7 @@ We examine stock-market volatility around the quarterly expirations of stock ind
 ## 8. Investigating security-price performance in the presence of event-date uncertainty
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Clifford A. Ball
 - Walter N. Torous
 ### Abstract
@@ -94,7 +94,7 @@ This paper introduces an event-study method that incorporates the possibility of
 ## 9. The effect of issuing preferred stock on common and preferred stockholder wealth
 ### Date
 - Oct 1988
-### Authors
+### Author
 - Scott C. Linn
 - J. Michael Pinegar
 ### Abstract
@@ -105,7 +105,7 @@ Generally, utilities issue straight fixed-rate preferreds, industrials issue con
 ## 10. News items
 ### Date
 - Oct 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link

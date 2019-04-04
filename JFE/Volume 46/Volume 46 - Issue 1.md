@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Oct 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -24,7 +24,7 @@
 ## 3. Why is there a home bias? An analysis of foreign portfolio equity ownership in Japan
 ### Date
 - Oct 1997
-### Authors
+### Author
 - Jun-Koo Kang
 - Rene´M. Stulz
 ### Abstract
@@ -35,7 +35,7 @@ This paper studies stock ownership in Japanese firms by non-Japanese investors f
 ## 4. Corporate restructuring during performance declines in Japan
 ### Date
 - Oct 1997
-### Authors
+### Author
 - Jun-Koo Kang
 - Anil Shivdasani
 ### Abstract
@@ -46,7 +46,7 @@ This paper documents the restructuring of 92 Japanese corporations that experien
 ## 5. Negative option values are possible: The impact of Treasury bond futures on the cash U.S. Treasury market
 ### Date
 - Oct 1997
-### Authors
+### Author
 - Bradford D. Jordan
 - David R. Kuipers
 ### Abstract
@@ -57,7 +57,7 @@ This paper uses a unique financial instrument in the U.S. Treasury market to stu
 ## 6. Return autocorrelation and institutional investors
 ### Date
 - Oct 1997
-### Authors
+### Author
 - Richard W. Sias
 - Laura T. Starks
 ### Abstract

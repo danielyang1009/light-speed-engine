@@ -1,0 +1,191 @@
+{
+    "journal": "JF",
+    "volume": "62",
+    "issue": "2",
+    "date": "April 2007",
+    "page": "Pages: i-vi, 485-992, vii-xi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "20 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01244.x"
+        },
+        {
+            "no": "2",
+            "title": "Fund Manager Use of Public Information: New Evidence on Managerial Skills",
+            "date": "20 March 2007",
+            "author": [
+                "MARCIN KACPERCZYK",
+                "AMIT SERU"
+            ],
+            "abstract": "We show theoretically that the responsiveness of a fund manager's portfolio allocations to changes in public information decreases in the manager's skill. We go on to estimate this sensitivity (RPI) as the R2 of the regression of changes in a manager's portfolio holdings on changes in public information using a panel of U.S. equity funds. Consistent with RPI containing information related to managerial skills, we find a strong inverse relationship between RPI and various existing measures of performance, and between RPI and fund flows. We also document that both fund\u2010 and manager\u2010specific attributes affect RPI.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01215.x"
+        },
+        {
+            "no": "3",
+            "title": "Managerial Ability, Compensation, and the Closed\u2010End Fund Discount",
+            "date": "20 March 2007",
+            "author": [
+                "JONATHAN B. BERK",
+                "RICHARD STANTON"
+            ],
+            "abstract": "This paper shows that the existence of managerial ability, combined with the labor contract prevalent in the industry, implies that the closed\u2010end fund discount should exhibit many of the primary features documented in the literature. We evaluate the model's ability to match the quantitative features of the data, and find that it does well, although there is some observed behavior that remains to be explained.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01216.x"
+        },
+        {
+            "no": "4",
+            "title": "Limits of Arbitrage: Theory and Evidence from the Mortgage\u2010Backed Securities Market",
+            "date": "20 March 2007",
+            "author": [
+                "XAVIER GABAIX",
+                "ARVIND KRISHNAMURTHY",
+                "OLIVIER VIGNERON"
+            ],
+            "abstract": "\u201cLimits of Arbitrage\u201d theories hypothesize that the marginal investor in a particular asset market is a specialized arbitrageur rather than a diversified representative investor. We examine the mortgage\u2010backed securities (MBS) market in this light. We show that the risk of homeowner prepayment, which is a wash in the aggregate, is priced in the MBS market. The covariance of prepayment risk with aggregate wealth implies the wrong sign to match the observed prices of prepayment risk. The price of risk is better explained by a kernel based on MBS market\u2010wide specific risk, consistent with the specialized arbitrageur hypothesis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01217.x"
+        },
+        {
+            "no": "5",
+            "title": "Banking Deregulation and Industry Structure: Evidence from the French Banking Reforms of 1985",
+            "date": "20 March 2007",
+            "author": [
+                "MARIANNE BERTRAND",
+                "ANTOINETTE SCHOAR",
+                "DAVID THESMAR"
+            ],
+            "abstract": "We investigate how the deregulation of the French banking industry in the 1980s affected the real behavior of firms and the structure and dynamics of product markets. Following deregulation, banks are less willing to bail out poorly performing firms and firms in the more bank\u2010dependent sectors are more likely to undertake restructuring activities. At the industry level, we observe an increase in asset and job reallocation, an improvement in allocative efficiency across firms, and a decline in concentration. Overall, these findings support the view that a more efficient banking sector helps foster a Schumpeterian process of \u201ccreative destruction.\u201d",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01218.x"
+        },
+        {
+            "no": "6",
+            "title": "Information Asymmetry and Financing Arrangements: Evidence from Syndicated Loans",
+            "date": "20 March 2007",
+            "author": [
+                "AMIR SUFI"
+            ],
+            "abstract": "I empirically explore the syndicated loan market, with an emphasis on how information asymmetry between lenders and borrowers influences syndicate structure and on which lenders become syndicate members. Consistent with moral hazard in monitoring, the lead bank retains a larger share of the loan and forms a more concentrated syndicate when the borrower requires more intense monitoring and due diligence. When information asymmetry between the borrower and lenders is potentially severe, participant lenders are closer to the borrower, both geographically and in terms of previous lending relationships. Lead bank and borrower reputation mitigates, but does not eliminate information asymmetry problems.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01219.x"
+        },
+        {
+            "no": "7",
+            "title": "Winners or Losers? The Effects of Banking Consolidation on Corporate Borrowers",
+            "date": "20 March 2007",
+            "author": [
+                "EMILIA BONACCORSI DI PATTI",
+                "GIORGIO GOBBI"
+            ],
+            "abstract": "We estimate the impact of bank mergers and acquisitions (M&As) on outstanding credit, credit lines, and the sensitivity of investment to cash flow using a large sample of Italian corporate borrowers. We distinguish between firms that experienced relationship termination as a consequence of bank M&As and those that did not. Our findings are consistent with bank M&As having an adverse effect on credit, particularly when the M&A is followed by relationship termination. The effect persists 3 years and then is absorbed, suggesting that firms are able to compensate for the negative shock.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01220.x"
+        },
+        {
+            "no": "8",
+            "title": "Growth Opportunities and the Choice of Leverage, Debt Maturity, and Covenants",
+            "date": "20 March 2007",
+            "author": [
+                "MATTHEW T. BILLETT",
+                "TAO\u2010HSIEN DOLLY KING",
+                "DAVID C. MAUER"
+            ],
+            "abstract": "We investigate the effect of growth opportunities in a firm's investment opportunity set on its joint choice of leverage, debt maturity, and covenants. Using a database that contains detailed debt covenant information, we provide large\u2010sample evidence of the incidence of covenants in public debt and construct firm\u2010level indices of bondholder covenant protection. We find that covenant protection is increasing in growth opportunities, debt maturity, and leverage. We also document that the negative relation between leverage and growth opportunities is significantly attenuated by covenant protection, suggesting that covenants can mitigate the agency costs of debt for high growth firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01221.x"
+        },
+        {
+            "no": "9",
+            "title": "Smart Institutions, Foolish Choices: The Limited Partner Performance Puzzle",
+            "date": "20 March 2007",
+            "author": [
+                "JOSH LERNER",
+                "ANTOINETTE SCHOAR",
+                "WAN WONGSUNWAI"
+            ],
+            "abstract": "The returns that institutional investors realize from private equity differ dramatically across institutions. Using detailed, hitherto unexplored records, we document large heterogeneity in the performance of investor classes: endowments' annual returns are nearly 21% greater than average. Analysis of reinvestment decisions suggests that endowments (and to a lesser extent, public pensions) are better than other investors at predicting whether follow\u2010on funds will have high returns. The results are not primarily due to endowments' greater access to established funds, since they also hold for young or undersubscribed funds. Our results suggest that investors vary in their sophistication and potentially their investment objectives.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01222.x"
+        },
+        {
+            "no": "10",
+            "title": "Financial Synergies and the Optimal Scope of the Firm: Implications for Mergers, Spinoffs, and Structured Finance",
+            "date": "20 March 2007",
+            "author": [
+                "HAYNE E. LELAND"
+            ],
+            "abstract": "Multiple activities may be separated financially, allowing each to optimize its financial structure, or combined in a firm with a single optimal financial structure. We consider activities with nonsynergistic operational cash flows, and examine the purely financial benefits of separation versus merger. The magnitude of financial synergies depends upon tax rates, default costs, relative size, and the riskiness and correlation of cash flows. Contrary to accepted wisdom, financial synergies from mergers can be negative if firms have quite different risks or default costs. The results provide a rationale for structured finance techniques such as asset securitization and project finance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01223.x"
+        },
+        {
+            "no": "11",
+            "title": "A Theory of Takeovers and Disinvestment",
+            "date": "20 March 2007",
+            "author": [
+                "BART M. LAMBRECHT",
+                "STEWART C. MYERS"
+            ],
+            "abstract": "We present a real\u2010options model of takeovers and disinvestment in declining industries. As product demand declines, a first\u2010best closure level is reached, where overall value is maximized by closing the firm and releasing its capital to investors. Absent takeovers, managers of underleveraged firms always close too late, although golden parachutes may accelerate closure. We analyze the effects of takeovers of under\u2010leveraged firms. Takeovers by raiders enforce first\u2010best closure. Hostile takeovers by other firms occur either at the first\u2010best closure point or too early. Closure in management buyouts and mergers of equals happens inefficiently late.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01224.x"
+        },
+        {
+            "no": "12",
+            "title": "How Are Firms Sold?",
+            "date": "20 March 2007",
+            "author": [
+                "AUDRA L. BOONE",
+                "J. HAROLD MULHERIN"
+            ],
+            "abstract": "As measured by the number of bidders that publicly attempt to acquire a target, the takeover arena in the 1990s appears noncompetitive. However, we provide novel data on the pre\u2010public, private takeover process that indicates that public takeover activity is only the tip of the iceberg of actual takeover competition during the 1990s. We show a highly competitive market where half of the targets are auctioned among multiple bidders, while the remainder negotiate with a single bidder. In event study analysis, we find that the wealth effects for target shareholders are comparable in auctions and negotiations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01225.x"
+        },
+        {
+            "no": "13",
+            "title": "On the Importance of Measuring Payout Yield: Implications for Empirical Asset Pricing",
+            "date": "20 March 2007",
+            "author": [
+                "JACOB BOUDOUKH",
+                "RONI MICHAELY",
+                "MATTHEW RICHARDSON",
+                "MICHAEL R. ROBERTS"
+            ],
+            "abstract": "We investigate the empirical implications of using various measures of payout yield rather than dividend yield for asset pricing models. We find statistically and economically significant predictability in the time series when payout (dividends plus repurchases) and net payout (dividends plus repurchases minus issuances) yields are used instead of the dividend yield. Similarly, we find that payout (net payout) yields contains information about the cross section of expected stock returns exceeding that of dividend yields, and that the high minus low payout yield portfolio is a priced factor.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01226.x"
+        },
+        {
+            "no": "14",
+            "title": "Decoupling CEO Wealth and Firm Performance: The Case of Acquiring CEOs",
+            "date": "20 March 2007",
+            "author": [
+                "JARRAD HARFORD",
+                "KAI LI"
+            ],
+            "abstract": "We explore how compensation policies following mergers affect a CEO's incentives to pursue a merger. We find that even in mergers where bidding shareholders are worse off, bidding CEOs are better off three quarters of the time. Following a merger, a CEO's pay and overall wealth become insensitive to negative stock performance, but a CEO's wealth rises in step with positive stock performance. Corporate governance matters; bidding firms with stronger boards retain the sensitivity of their CEOs' compensation to poor performance following the merger. In comparison, we find that CEOs are not rewarded for undertaking major capital expenditures.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01227.x"
+        },
+        {
+            "no": "15",
+            "title": "Corporate Governance, Idiosyncratic Risk, and Information Flow",
+            "date": "20 March 2007",
+            "author": [
+                "MIGUEL A. FERREIRA",
+                "PAUL A. LAUX"
+            ],
+            "abstract": "We study the relationship of corporate governance policy and idiosyncratic risk. Firms with fewer antitakeover provisions display higher levels of idiosyncratic risk, trading activity, private information flow, and information about future earnings in stock prices. Trading interest by institutions, especially those active in merger arbitrage, strengthens the relationship of governance to idiosyncratic risk. Our results indicate that openness to the market for corporate control leads to more informative stock prices by encouraging collection of and trading on private information. Consistent with an information\u2010flow interpretation, the component of volatility unrelated to governance is associated with the efficiency of corporate investment.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01228.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "20 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01246.x"
+        },
+        {
+            "no": "17",
+            "title": "Back Matter",
+            "date": "20 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01245.x"
+        }
+    ]
+}

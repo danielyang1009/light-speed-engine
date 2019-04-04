@@ -5,7 +5,7 @@
 ## 1. Editorial
 ### Date
 - 15 March
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Venture capital and the structure of capital markets: banks versus stock markets1
 ### Date
 - 15 March
-### Authors
+### Author
 - Bernard S Black
 - Ronald J Gilson
 ### Abstract
@@ -25,7 +25,7 @@ The United States has many banks that are small relative to large corporations a
 ## 3. Proxy contests and corporate change: implications for shareholder wealth1
 ### Date
 - 15 March
-### Authors
+### Author
 - J.Harold Mulherin
 - Annette B Poulsen
 ### Abstract
@@ -36,7 +36,7 @@ We study the shareholder wealth effects of 270 proxy contests for board seats in
 ## 4. Macroeconomic news and bond market volatility1
 ### Date
 - 15 March
-### Authors
+### Author
 - Charles M. Jones
 - Owen Lamont
 - Robin L. Lumsdaine
@@ -48,7 +48,7 @@ We examine the reaction of daily Treasury bond prices to the release of U.S. mac
 ## 5. Short-term traders and liquidity:
 ### Date
 - 15 March
-### Authors
+### Author
 - Henk Berkman
 - Venkat R. Eleswarapu
 ### Abstract
@@ -59,7 +59,7 @@ The abolition and reinstatement of the forward trading facility (Badla) on the B
 ## 6. Index
 ### Date
 - 15 March
-### Authors
+### Author
 ### Abstract
 
 ### Link

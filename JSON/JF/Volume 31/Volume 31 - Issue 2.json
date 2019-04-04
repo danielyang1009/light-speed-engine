@@ -1,0 +1,559 @@
+{
+    "journal": "JF",
+    "volume": "31",
+    "issue": "2",
+    "date": "May 1976",
+    "page": "Pages: i-vii, 197-760, viii-xiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "May 1976",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00575.x"
+        },
+        {
+            "no": "2",
+            "title": "REPORT OF THE PROGRAM CHAIRMAN OF THE 34TH ANNUAL MEETING OF THE AMERICAN FINANCE ASSN",
+            "date": "May 1976",
+            "author": [
+                "Merton H. Miller"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01880.x"
+        },
+        {
+            "no": "3",
+            "title": "A PORTFOLIO THEORY OF THE SOCIAL DISCOUNT RATE AND THE PUBLIC DEBT*",
+            "date": "May 1976",
+            "author": [
+                "Myron J. Gordon"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01881.x"
+        },
+        {
+            "no": "4",
+            "title": "A TRANSACTIONS COST APPROACH TO THE THEORY OF FINANCIAL INTERMEDIATION",
+            "date": "May 1976",
+            "author": [
+                "Myron Scholes",
+                "George J. Benston",
+                "Clifford W. Smith Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01882.x"
+        },
+        {
+            "no": "5",
+            "title": "RESTRICTIONS ON THE RATE OF INTEREST ON DEMAND DEPOSITS AND A THEORY OF COMPENSATING BALANCES",
+            "date": "May 1976",
+            "author": [
+                "David Wiley Mullins Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01883.x"
+        },
+        {
+            "no": "6",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "James L. Bicksler"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01884.x"
+        },
+        {
+            "no": "7",
+            "title": "IS THERE A CAPITAL SHORTAGE: THEORY AND RECENT EMPIRICAL EVIDENCE",
+            "date": "May 1976",
+            "author": [
+                "Ernest T. Baughman",
+                "Leonall C. Andersen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01885.x"
+        },
+        {
+            "no": "8",
+            "title": "CAPITAL SHORTAGES: MYTH OR REALITY?",
+            "date": "May 1976",
+            "author": [
+                "Paul Wachtel",
+                "Arnold Sametz",
+                "Harry Shuford"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01886.x"
+        },
+        {
+            "no": "9",
+            "title": "THE EFFECTS OF TAX POLICY ON CAPITAL FORMATION, CORPORATE LIQUIDITY AND THE AVAILABILITY OF INVESTIBLE FUNDS: A SIMULATION STUDY",
+            "date": "May 1976",
+            "author": [
+                "Andrew F. Brimmer",
+                "Allen Sinai"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01887.x"
+        },
+        {
+            "no": "10",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Benjamin M. Friedman"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01888.x"
+        },
+        {
+            "no": "11",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Sally S. Ronk"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00576.x"
+        },
+        {
+            "no": "12",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Charles Upton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00577.x"
+        },
+        {
+            "no": "13",
+            "title": "TAXES AND THE PRICING OF OPTIONS",
+            "date": "May 1976",
+            "author": [
+                "Fischer Black",
+                "Myron Scholes"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01889.x"
+        },
+        {
+            "no": "14",
+            "title": "THE IMPACT ON OPTION PRICING OF SPECIFICATION ERROR IN THE UNDERLYING STOCK PRICE RETURNS",
+            "date": "May 1976",
+            "author": [
+                "Robert C. Merton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01890.x"
+        },
+        {
+            "no": "15",
+            "title": "VALUING CORPORATE SECURITIES: SOME EFFECTS OF BOND INDENTURE PROVISIONS",
+            "date": "May 1976",
+            "author": [
+                "Fischer Black",
+                "John C. Cox"
+            ],
+            "abstract": "I. The Valuation of Corporate Securities\nIn a recent paper 3 presented an explicit equilibrium model for valuing options. In this paper they indicated that a similar analysis could potentially be applied to all corporate securities. In other papers, both 8 and 11 noted the broad applicability of option pricing arguments. At the same time Black and Scholes also pointed out that actual security indentures have a variety of conditions that would bring new features and complications into the valuation process.\nOur objective in this paper is to make some general statements on this valuation process and then turn to an analysis of certain types of bond indenture provisions which are often found in practice. Specifically, we will look at the effects of safety covenants, subordination arrangements, and restrictions on the financing of interest and dividend payments.\nThroughout the paper we will make the following assumptions:\na1) Every individual acts as if he can buy or sell as much of any security as he wishes without affecting the market price.\na2) There exists a riskless asset paying a known constant interest rate r.\na3) Individuals may take short positions in any security, including the riskless asset, and receive the proceeds of the sale. Restitution is required for payouts made to securities held short.\na4) Trading takes place continuously.\na5) There are no taxes, indivisibilities, bankruptcy costs, transaction costs, or agency costs.\na6) The value of the firm follows a diffusion process with instantaneous variance proportional to the square of the value.\nThis last assumption is quite important and needs some amplification. Until very recently this was the standard framework for discussions of contingent claim pricing. Increasing evidence, however, indicates that it may not be completely. Appropriate.1\n1 See 1.\n\nThe instantaneous variance may be some other function of the firm value, and possibly dependent on time as well.2\n2 See 6 for a discussion of some models of this type.\n\nIt may also depend on other random variables. Furthermore, discontinuities associated with jump processes may be important.3\n3 Processes with discontinuous sample paths are examined in 5, 6 and 10.\n\nNevertheless, this assumption provides a useful setting for the points we want to make and facilitates comparison with earlier results.\nWith these assumptions, the standard hedging or capital asset pricing arguments lead to a valuation equation. For the process we are considering here, it is derived in its most general form in 9 as\n1\n2\n\u03c3\n2\nV\n2\nf\nvv\n+\n(\nrV\n\u2212\np\n(\nV\n,\nt\n)\n)\nf\nv\n\u2212\nrf\n+\nf\nt\n+\np\n\u2032\n(\nV\n,\nt\n)\n=\n0\n(1)\nwhere f is a generic label for any of the firm's securities, V is the value of the firm, t denotes time,\n\u03c3\n2\nis the instantaneous variance of the return on the firm,\np\n(\nV\n,\nt\n)\nis the net total payout made, or inflow received, by the firm, and\np\n\u2032\n(\nV\n,\nt\n)\nis the payout received or payment made by security f.\nSuppose the firm has outstanding only equity and a single bond issue with a promised final payment of P. At the maturity date of the bonds, T, the stockholders will pay off the bondholders if they can. If they cannot, the ownership of the firm passes to the bondholders. So at time T, the bonds will have the value min(V, P) and the stock will have the value max(V \u2013 P, 0).\nNow this formulation already implicity contains several assumptions about the bond indenture. The fact that\n\u03c3\n2\n,\np\n(\nV\n,\nt\n)\nand\np\n\u2032\n(\nV\n,\nt\n)\n, and P were assumed known (and finite) implies that the bond contract renders them determinate by placing limiting restrictions on, respectively, the firm's investment, payout, and further financing policies.\nFurthermore, it assumes that the fortunes of the firm may cause its value to rise to an arbitrarily high level or dwindle to nearly nothing without any sort of reorganization occurring in the firm's financial arrangements. More generally, there may be both lower and upper boundaries at which the firm's securities must take on specific values. The boundaries may be given exogenously by the contract specifications or determined endogenously as part of an optimal decision problem.\nThe indenture agreements which we will consider serve as examples of a specified or induced lower boundary at which the firm will be reorganized. An example of an upper boundary is a call provision on a bond.4\n4 Call provisions on bonds have recently been examined by 4 and 7. All of our results could be extended to include such upper boundaries as well.\n\nAlso, the final payment at the maturity date may be a quite arbitrary function of the value of the firm at that time\u201d \u03be(V(T)).\nIt will be helpful to look at this problem in a way discussed in 5.5\n5 For a related discussion, see 2.\n\nThe valuation equation (1) does not involve preferences, so a solution derived for any specific set of preferences must hold in general. In particular, the relative value of contingent claims in terms of the value of underlying assets must be consistent with risk neutrality.6\n6 The ability to form a perfectly hedged portfolio is a sufficient condition for the derivation of a valuation equation free of preferences. Note that this does not say that the value of the underlying assets in terms of the values of other assets is independent of preferences.\n\nIf we know the distribution of the underlying assets in a risk\u2010neutral world, then we can readily solve a number of valuation problems.7\n7 In a risk neutral world the instantaneous mean total return must be rV, so the instantaneous mean of the price component must be\nrV\n\u2212\np\n(\nV\n,\nt\n)\n. For a diffusion process, this, together with the instanteous variance and behavior at accessible boundaries, completely specifies the processes. The value of the assets of the firm would in general have only a lower barrier, an absorbing one at the origin. However, our interest is in probabilities for paths of firm value which have not previously reached one of the reorganization boundaries. A convenient way to introduce this is by considering the distribution with the boundaries taken as artificial absorbing barriers, and we will adopt this convention.\n\nWe can in our problem think of each security as having four sources of value: its value at the maturity date if the firm is not reorganized before then, its value if the firm is reorganized at the lower boundary, its value if the firm is reorganized at the upper boundary, and the value of the payouts it will potentially receive. Although the first three sources are mutually exclusive, they are all possible outcomes given our current position, so they each contribute to current value. The contribution to the total value of a claim of any of its component sources will in a risk neutral world simply be the discounted expected value of that component.\nFor any claim f let\nh\ni\n(\nV\n(\nt\n)\n,\nt\n)\n,\ni\n=\n1\n,\n\u2026\n,\n4\n, denote respectively the four components referred to above, so\nf\n(\nV\n(\nt\n)\n,\nt\n)\n=\n\u2211\ni\n=\n1\n4\nh\ni\n(\nV\n(\nt\n)\n,\nt\n)\n. Let\ng\n1\n(\n\u03c4\n)\n(\ng\n2\n(\n\u03c4\n)\n)\nbe the value of f, as given by the contract, if the firm is reorganized at the lower (upper) boundary\nC\n1\n(\n\u03c4\n)\n(\nC\n2\n(\n\u03c4\n)\n)\nat time \u03c4. Denote the distribution in a risk neutral world of the value of the firm at time\n\u03c4\n,\nV\n(\n\u03c4\n)\n, conditional on its value at the current time\nt\n,\nV\n(\nt\n)\n,\nC\n1\n(\nt\n)\n<\nV\n(\nt\n)\n<\nC\n2\n(\nt\n)\n, as\n\u03a6\n(\nV\n(\n\u03c4\n)\n,\n\u03c4\n|\nV\n(\nt\n)\n,\nt\n)\n. Then taking the indicated expectations we can write\nh\n1\n(\nV\n(\nt\n)\n,\nt\n)\n=\ne\n\u2212\nr\n(\nT\n\u2212\nt\n)\n\u222b\n\u03ba\n(\nT\n)\n\u03be\n(\nV\n(\nT\n)\n)\nd\n\u03a6\n(\nV\n(\nT\n)\n,\nT\n|\nV\n(\nt\n)\n,\nt\n)\n(2)\nand\nh\n4\n(\nV\n(\nt\n)\n,\nt\n)\n=\n\u222b\nt\nT\ne\n\u2212\nr\n(\ns\n\u2212\nt\n)\n[\n\u222b\n\u03ba\n(\ns\n)\np\n\u2032\n(\nV\n(\ns\n)\n,\ns\n)\nd\n\u03a6\n(\nV\n(\ns\n)\n,\ns\n|\nV\n(\nt\n)\n,\nt\n)\n]\nds\n,\n(3)\nwhere \u03ba(\u00b7) denotes the interval (\nC\n1\n(\n\u00b7\n)\n,\nC\n2\n(\n\u00b7\n)\n)\n.\nThe contribution of the potential value at the reorganization boundaries is somewhat different. Formerly we knew the time of receipt of each potential payment but not the amount which would actually be received. Here the amount to be received at each boundary is a known function specified by the contract, but the time of receipt is a random variable. However, its distribution is just that of the first passage time to the boundary, and the approach taken by Cox and Ross can still be applied.\nLet\n\u03a8\n1\n(\nt\n\u2217\n|\nV\n(\nt\n)\n,\nt\n)\nbe the distribution of the first passage time\nt\n\u2217\nto the lower boundary, and let\n\u03a8\n2\n(\nt\n\u2217\n|\nV\n(\nt\n)\n,\nt\n)\ndenote the corresponding distribution for the upper boundary. Then\nh\ni\n+\n1\n(\nV\n(\nt\n)\n,\nt\n)\n=\n\u222b\nt\nT\ne\n\u2212\nr\n(\nt\n\u2217\n\u2212\nt\n)\ng\ni\n(\nt\n\u2217\n)\nd\n\u03a8\ni\n(\nt\n\u2217\n|\nV\n(\nt\n)\n,\nt\n)\n,\ni\n=\n1\n,\n2.\n(4)\nThis development also disposes of uniqueness problems, since economically inadmissible solutions to the valuation equation are automatically avoided by the probabilistic approach. However, it cannot be applied directly to situations where the boundaries must be determined endogenously as part of an optimal stopping problem.\nActual payouts by firms, of course, occur in lumps at discrete intervals. In many situations it is more convenient and perfectly acceptable to represent these payouts as a continual flow. Many other times, however, it is preferable to explicitly recognize the discrete nature of things. This is particularly true in optimal stopping problems when the structure of the problem dictates that decisions will be made only at these discrete points. An example in terms of options would be an American call on a stock paying discrete dividends. Restrictions on the financing of coupon payments to debt, which we will discuss later, provides an example in terms of corporate liabilities. To solve these problems we could work recursively, with the terminal condition at each stage determined by the solution to the previous stage. Start at the last payment date. If a decision is made to stop at this point, the claimholder receives a payoff given by the terms of the contract. If he does not stop, his payoff is the value of a claim with one more period to go, given that the value of the firm is its current value minus the payment. This value is determined by the payment to be received at the maturity date. The claimholder can then determine his optimal decision rule. With the optimal decision rule specified, we can find the value of the claim as a function of firm value at the last decision point. At the next\u2010to\u2010last decision point we would face an identical problem except that the value function we just found would take the place of the function giving the payment to be received at the maturity date, By working backward we can find the value of the claim at any time. Note that this gives only an approximate solution when the optimal decision points are actually continuous in time. However, we could always get a better approximation by adding more discrete decision points, even though no payouts are being made at these additional points.\nThroughout the paper we will make use of the relationship between the equilibrium expected return on any of the individual securities of the firm, v, and the (exogenously determined) equilibrium expected return on the total firm, \u03bc. As given in 3 and 9, this is\n\u03bd\n\u2212\nr\n=\n(\nV\nf\n\u03c5\n/\nf\n)\n(\n\u03bc\n\u2212\nr\n)\n. Furthermore, since the process followed by any individual security is a transformation of that governing the total value of the firm, its instantaneous variance will be\n\u03c3\n2\nV\n2\n[\nf\nv\n]\n2\n. Thus we can write the ratio of the instantaneous standard deviation of the rate of return on any individual security to that of the firm as\nV\nf\nv\n/\nf\n. Another way to say this is that in equilibrium the excess expected return per unit of risk must be the same for all of the firm's securities. The elasticity\nV\nf\n\u03c5\n/\nf\nthus conveys the essential information about relative risk and expected return. In subsequent use of the term elasticity, we will always be referring to this function.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01891.x"
+        },
+        {
+            "no": "16",
+            "title": "STANDARD DEVIATIONS OF STOCK PRICE RATIOS IMPLIED IN OPTION PRICES",
+            "date": "May 1976",
+            "author": [
+                "Henry A. Latan\u00e9",
+                "Richard J. Rendleman Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01892.x"
+        },
+        {
+            "no": "17",
+            "title": "A SURVEY OF SOME NEW RESULTS IN FINANCIAL OPTION PRICING THEORY",
+            "date": "May 1976",
+            "author": [
+                "John C. Cox",
+                "Stephen A. Ross"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01893.x"
+        },
+        {
+            "no": "18",
+            "title": "RECENT RESEARCH ON INDEXATION AND THE HOUSING MARKET",
+            "date": "May 1976",
+            "author": [
+                "Jack Guttentag",
+                "Richard A. Cohn",
+                "Donald R. Lessard"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01894.x"
+        },
+        {
+            "no": "19",
+            "title": "AN EMPIRICAL STUDY OF MORTGAGE PAYMENT TO INCOME RATIOS IN A VARIABLE RATE MORTGAGE PROGRAM*",
+            "date": "May 1976",
+            "author": [
+                "Stanley R. Stansell",
+                "James A. Millar"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01895.x"
+        },
+        {
+            "no": "20",
+            "title": "FINANCIAL INNOVATION AND THE MORTGAGE MARKET: THE POSSIBILITIES FOR LIABILITY MANAGEMENT BY THRIFTS",
+            "date": "May 1976",
+            "author": [
+                "Donald P. Tucker"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01896.x"
+        },
+        {
+            "no": "21",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Alan J. Donziger",
+                "Richard V. Eastin",
+                "Robert H. Edelstein"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01897.x"
+        },
+        {
+            "no": "22",
+            "title": "THE \u201cFISHER EFFECT\u201d FOR RISKY ASSETS: AN EMPIRICAL INVESTIGATION",
+            "date": "May 1976",
+            "author": [
+                "Katherine D. Miller",
+                "F. Jaffe Jeffrey",
+                "Gershon Mandelker"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01898.x"
+        },
+        {
+            "no": "23",
+            "title": "COMMON STOCKS AS A HEDGE AGAINST INFLATION",
+            "date": "May 1976",
+            "author": [
+                "Zvi Bodie"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01899.x"
+        },
+        {
+            "no": "24",
+            "title": "INFLATION AND RATES OF RETURN ON COMMON STOCKS",
+            "date": "May 1976",
+            "author": [
+                "Charles R. Nelson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01900.x"
+        },
+        {
+            "no": "25",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Donald A. Nichols"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01901.x"
+        },
+        {
+            "no": "26",
+            "title": "THE IMPACT OF OUTSTANDING CONVERTIBLE BONDS ON CORPORATE DIVIDEND POLICY",
+            "date": "May 1976",
+            "author": [
+                "James C. Van Horne",
+                "Dileep R. Mehta"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01902.x"
+        },
+        {
+            "no": "27",
+            "title": "SUPER PREMIUM SECURITY PRICES AND OPTIMAL CORPORATE FINANCING DECISIONS",
+            "date": "May 1976",
+            "author": [
+                "David W. Glenn"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01903.x"
+        },
+        {
+            "no": "28",
+            "title": "VALUATION AND ASSET SELECTION UNDER ALTERNATIVE INVESTMENT OPPORTUNITIES",
+            "date": "May 1976",
+            "author": [
+                "Edwin J. Elton",
+                "Martin J. Gruber"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01904.x"
+        },
+        {
+            "no": "29",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Manak C. Gupta"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01905.x"
+        },
+        {
+            "no": "30",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "S. Hamada Robert"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00578.x"
+        },
+        {
+            "no": "31",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "George E. Pinches"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00579.x"
+        },
+        {
+            "no": "32",
+            "title": "THE STRONG CASE FOR THE GENERALIZED LOGARITHMIC UTILITY MODEL AS THE PREMIER MODEL OF FINANCIAL MARKETS",
+            "date": "May 1976",
+            "author": [
+                "Robert Litzenberger",
+                "Mark Rubinstein"
+            ],
+            "abstract": "This paper begins by comparing the available well\u2010developed micro\u2010economic models in finance which recognize uncertainty. It is argued that models whose distinctive simplifying assumption restricts utility functions are superior to those which instead restrict probability distributions, both with respect to the realism of their assumptions and richness of their conclusions. In particular, the most successful model, based on generalized logarithmic utility (GLUM), is a multiperiod consumption/portfolio and equilibrium model in discrete\u2010time which (1) requires decreasing absolute risk aversion; (2) tolerates increasing, constant, or decreasing proportional risk aversion; (3) assumes no exogenous specification of the contemporaneous or intertemporal stochastic process of security prices; (4) tolerates heterogeneity with respect to wealth, lifetime, time\u2010and risk\u2010preference and beliefs; (5) results in a complete specification of consumption/portfolio decision and sharing rules which include nontrivial multiperiod separation properties and explains demand for default\u2010free bonds of various maturities and options; (6) leads to a solution to the aggregation problem; (7) results in a complete specification of the contemporaneous and intertemporal process of security prices which reveals necessary and sufficient conditions for an unbiased term structure and the market portfolio to follow a random walk as a natural outcome of equilibrium; (8) provides an empirically testable aggregate consumption function relating per capita consumption to per capita wealth and the present value of a perpetual default\u2010free annuity which does not require inferences of ex ante beliefs from ex post data; (9) provides a nontrivial multiperiod extension of popular single\u2010period security valuation models which is empirically testable; (10) yields a simple multiperiod valuation formula for an uncertain income stream even when this income is serially correlated over time.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01906.x"
+        },
+        {
+            "no": "33",
+            "title": "ON THE EFFICIENCY OF COMPETITIVE STOCK MARKETS WHERE TRADES HAVE DIVERSE INFORMATION",
+            "date": "May 1976",
+            "author": [
+                "Sanford Grossman"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01907.x"
+        },
+        {
+            "no": "34",
+            "title": "THE INVESTMENT DECISION OF THE FIRM UNDER UNCERTAINTY AND THE ALLOCATIVE EFFICIENCY OF CAPITAL MARKETS*",
+            "date": "May 1976",
+            "author": [
+                "Niels Christian Nielsen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01908.x"
+        },
+        {
+            "no": "35",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Alan Kraus"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01909.x"
+        },
+        {
+            "no": "36",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Frederick L. A. Grauer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00580.x"
+        },
+        {
+            "no": "37",
+            "title": "THE CAPITAL MARKET, THE MARKET FOR INFORMATION, AND EXTERNAL ACCOUNTING",
+            "date": "May 1976",
+            "author": [
+                "William Beaver",
+                "Nicholas J. Gonedes"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01910.x"
+        },
+        {
+            "no": "38",
+            "title": "COMPETITIVE INFORMATION IN THE STOCK MARKET: AN EMPIRICAL STUDY OF EARNINGS, DIVIDENDS AND ANALYSTS' FORECASTS*",
+            "date": "May 1976",
+            "author": [
+                "Paul A. Griffin"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01911.x"
+        },
+        {
+            "no": "39",
+            "title": "AN EMPIRICAL ANALYSIS OF DIFFERENTIAL CAPITAL MARKET REACTIONS TO EXTRAORDINARY ACCOUNTING ITEMS\u2020",
+            "date": "May 1976",
+            "author": [
+                "Robert K. Eskew",
+                "William F. Wright"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01912.x"
+        },
+        {
+            "no": "40",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "David H. Downes"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01913.x"
+        },
+        {
+            "no": "41",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Ross L. Watts"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00581.x"
+        },
+        {
+            "no": "42",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "S. Sunder"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00582.x"
+        },
+        {
+            "no": "43",
+            "title": "MEASURING ALLOCATIVE EFFICIENCY WITH TECHNOLOGICAL UNCERTAINTY",
+            "date": "May 1976",
+            "author": [
+                "Stewart Myers",
+                "Clement G. Krouse"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01914.x"
+        },
+        {
+            "no": "44",
+            "title": "THE VALUE OF THE FIRM UNDER REGULATION",
+            "date": "May 1976",
+            "author": [
+                "Jeffrey F. Jaffe",
+                "Gershon Mandelker"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01915.x"
+        },
+        {
+            "no": "45",
+            "title": "MERGERS, ANTITRUST LAW ENFORCEMENT AND STOCKHOLDER RETURNS",
+            "date": "May 1976",
+            "author": [
+                "James C. Ellert"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01916.x"
+        },
+        {
+            "no": "46",
+            "title": "THE DETERMINANTS OF COMMON STOCK RETURNS VOLATILITY: AN INTERNATIONAL COMPARISON",
+            "date": "May 1976",
+            "author": [
+                "Kalman J. Cohen",
+                "Walter L. Ness Jr.",
+                "Hitoshi Okuda",
+                "Robert A. Schwartz",
+                "David K. Whitcomb"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01917.x"
+        },
+        {
+            "no": "47",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "John B. Long"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01918.x"
+        },
+        {
+            "no": "48",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "J. Fred Weston",
+                "Edward M. Rice"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00583.x"
+        },
+        {
+            "no": "49",
+            "title": "DISCUSSION",
+            "date": "May 1976",
+            "author": [
+                "Stavros B. Thomadakis",
+                "Donald R. Lessard"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00584.x"
+        },
+        {
+            "no": "50",
+            "title": "AMERICAN FINANCE ASSOCIATION BUSINESS PROCEEDINGS",
+            "date": "May 1976",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01919.x"
+        },
+        {
+            "no": "51",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "May 1976",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01920.x"
+        },
+        {
+            "no": "52",
+            "title": "REPORT OF THE MANAGING EDITOR OF THE JOURNAL OF FINANCE COVERING 1975",
+            "date": "May 1976",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb01921.x"
+        },
+        {
+            "no": "53",
+            "title": "Back Matter",
+            "date": "May 1976",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1976.tb00585.x"
+        }
+    ]
+}

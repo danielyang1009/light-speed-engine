@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Differences in beliefs and currency risk premiums
 ### Date
 - Jul 2010
-### Authors
+### Author
 - Alessandro Beber
 - Francis Breedon
 - Andrea Buraschi
@@ -26,7 +26,7 @@ This paper studies the importance of heterogeneous beliefs for the dynamics of a
 ## 3. Rating the ratings: How good are commercial governance ratings?
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Robert M. Daines
 - Ian D. Gow
 - David F. Larcker
@@ -38,7 +38,7 @@ Proxy advisory and corporate governance rating firms (such as RiskMetrics/Instit
 ## 4. Do subjective expectations explain asset pricing puzzles?
 ### Date
 - Jul 2010
-### Authors
+### Author
 - Gurdip Bakshi
 - Georgios Skoulakis
 ### Abstract
@@ -49,7 +49,7 @@ The structural uncertainty model with Bayesian learning, advanced by Weitzman (A
 ## 5. Corporate venture capital and the returns to acquiring portfolio companies
 ### Date
 - Jul 2010
-### Authors
+### Author
 - David Benson
 - Rosemarie H. Ziedonis
 ### Abstract
@@ -60,7 +60,7 @@ A prominent motive for corporate venture capital (CVC) is the identification of 
 ## 6. More insiders, more insider trading: Evidence from private-equity buyouts
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Viral V. Acharya
 - Timothy C. Johnson
 ### Abstract
@@ -71,7 +71,7 @@ Prior theoretical research has found that, in the absence of regulation, a great
 ## 7. Mispricing of dual-class shares: Profit opportunities, arbitrage, and trading
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Paul Schultz
 - Sophie Shive
 ### Abstract
@@ -82,7 +82,7 @@ This is the first paper to examine the microstructure of how mispricing is creat
 ## 8. The value of independent directors: Evidence from sudden deaths
 ### Date
 - Jul 2010
-### Authors
+### Author
 - Bang Dang Nguyen
 - Kasper Meisner Nielsen
 ### Abstract
@@ -93,7 +93,7 @@ We investigate contributions of independent directors to shareholder value by ex
 ## 9. The market for certification by external parties: Evidence from underwriting and banking relationships
 ### Date
 - Jul 2010
-### Authors
+### Author
 - Tiago Duarte-Silva
 ### Abstract
 This paper provides evidence that an underwriter is better able to certify an equity issue if it has a lending relationship with the firm. An announcement of being underwritten by the firm’s lending-relationship bank reduces ex post information asymmetry, thereby improving the announcement return. Further, because this reduction in information asymmetry effectively disseminates what was previously the lending bank’s private information, it decreases its affiliated market maker’s information advantage, thus reducing its contribution to price discovery and liquidity. These results provide evidence on the value of information production and transmission by banks, and more generally on the role of external parties in reducing information asymmetry.
@@ -103,7 +103,7 @@ This paper provides evidence that an underwriter is better able to certify an eq
 ## 10. Nature or nurture: What determines investor behavior?
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Amir Barnea
 - Henrik Cronqvist
 - Stephan Siegel
@@ -115,7 +115,7 @@ Using data on identical and fraternal twins’ complete financial portfolios, we
 ## 11. Monotonicity in asset returns: New tests with applications to the term structure, the CAPM, and portfolio sorts
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Andrew J. Patton
 - Allan Timmermann
 ### Abstract
@@ -126,7 +126,7 @@ Many theories in finance imply monotonic patterns in expected returns and other 
 ## 12. Bank activity and funding strategies: The impact on risk and returns
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Asli Demirgüç-Kunt
 - Harry Huizinga
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A unified model of entrepreneurship dynamics
 ### Date
 - May 2012
-### Authors
+### Author
 - Chong Wang
 - Neng Wang
 - Jinqiang Yang
@@ -26,7 +26,7 @@ We develop an incomplete-markets q-theoretic model to study entrepreneurship dyn
 ## 3. The politics of government investment
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Ran Duchin
 - Denis Sosyura
 ### Abstract
@@ -37,7 +37,7 @@ This paper investigates the relation between corporate political connections and
 ## 4. The effect of reference point prices on mergers and acquisitions
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Malcolm Baker
 - Xin Pan
 - Jeffrey Wurgler
@@ -49,7 +49,7 @@ Prior stock price peaks of targets affect several aspects of merger and acquisit
 ## 5. Public market staging: The timing of capital infusions in newly public firms
 ### Date
 - May 2012
-### Authors
+### Author
 - Michael G. Hertzel
 - Mark R. Huson
 - Robert Parrino
@@ -61,7 +61,7 @@ We examine financing activities of newly public firms for evidence on capital st
 ## 6. Securitization without adverse selection: The case of CLOs
 ### Date
 - May 2012
-### Authors
+### Author
 - Efraim Benmelech
 - Jennifer Dlugosz
 - Victoria Ivashina
@@ -73,7 +73,7 @@ In this paper, we investigate whether securitization was associated with risky l
 ## 7. Systematic risk and the cross section of hedge fund returns
 ### Date
 - May 2012
-### Authors
+### Author
 - Turan G. Bali
 - Stephen J. Brown
 - Mustafa Onur Caglayan
@@ -85,7 +85,7 @@ This paper investigates the extent to which market risk, residual risk, and tail
 ## 8. Testing conditional factor models
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Andrew Ang
 - Dennis Kristensen
 ### Abstract
@@ -96,7 +96,7 @@ Using nonparametric techniques, we develop a methodology for estimating and test
 ## 9. Predictive regressions with time-varying coefficients
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Thomas Dangl
 - Michael Halling
 ### Abstract
@@ -107,7 +107,7 @@ We evaluate predictive regressions that explicitly consider the time-variation o
 ## 10. Entrepreneurial finance, credit cards, and race
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Aaron K. Chatterji
 - Robert C. Seamans
 ### Abstract
@@ -118,7 +118,7 @@ This paper examines the impact of financial deregulation on entrepreneurship. We
 ## 11. Political geography and stock returns: The value and risk implications of proximity to political power
 ### Date
 - May 2012
-### Authors
+### Author
 - Chansog (Francis) Kim
 - Christos Pantzalis
 - Jung Chul Park

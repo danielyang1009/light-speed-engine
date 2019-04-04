@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Financial dependence and innovation: The case of public versus private firms
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Viral Acharya
 - Zhaoxia Xu
 ### Abstract
@@ -25,7 +25,7 @@ In this paper, we examine the relation between innovation and a firm’s financi
 ## 3. Dark pool trading strategies, market quality and welfare
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Sabrina Buti
 - Barbara Rindi
 - Ingrid M. Werner
@@ -37,7 +37,7 @@ We show that when a continuous dark pool is added to a limit order book that ope
 ## 4. The value of trading relations in turbulent times
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Marco Di Maggio
 - Amir Kermani
 - Zhaogang Song
@@ -49,7 +49,7 @@ This paper investigates how dealers’ trading relations shape their trading beh
 ## 5. Do exogenous changes in passive institutional ownership affect corporate governance and firm value?
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Cornelius Schmidt
 - Rüdiger Fahlenbrach
 ### Abstract
@@ -60,7 +60,7 @@ We investigate whether corporations and their executives react to an exogenous c
 ## 6. Compensation goals and firm performance
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Benjamin Bennett
 - J. Carr Bettis
 - Radhakrishnan Gopalan
@@ -73,7 +73,7 @@ Using a large data set of performance goals employed in executive incentive cont
 ## 7. Uncovering expected returns: Information in analyst coverage proxies
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Charles M.C. Lee
 - Eric C. So
 ### Abstract
@@ -84,7 +84,7 @@ We show that analyst coverage proxies contain information about expected returns
 ## 8. Socioeconomic status and learning from financial information
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Camelia M. Kuhnen
 - Andrei C. Miu
 ### Abstract
@@ -95,7 +95,7 @@ The majority of lower socioeconomic status (SES) households in the U.S. and Euro
 ## 9. It pays to write well
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Byoung-Hyoun Hwang
 - Hugh Hoikwang Kim
 ### Abstract
@@ -106,7 +106,7 @@ We quantify the effects of easy-to-read disclosure documents on firm value by an
 ## 10. Credit default swaps, exacting creditors and corporate liquidity management
 ### Date
 - Feb 2017
-### Authors
+### Author
 - Marti G. Subrahmanyam
 - Dragon Yongjun Tang
 - Sarah Qian Wang
@@ -118,7 +118,7 @@ We investigate the liquidity management of firms following the inception of cred
 ## 11. Variance risk premiums and the forward premium puzzle
 ### Date
 - Feb 2017
-### Authors
+### Author
 - Juan M. Londono
 - Hao Zhou
 ### Abstract

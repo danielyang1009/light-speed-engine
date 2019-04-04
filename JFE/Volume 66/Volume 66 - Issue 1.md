@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Investor protection and equity markets
 ### Date
 - Oct 2002
-### Authors
+### Author
 - Andrei Shleifer
 - Daniel Wolfenzon
 ### Abstract
@@ -25,7 +25,7 @@ We present a simple model of an entrepreneur going public in an environment with
 ## 3. CEO compensation, diversification, and incentives
 ### Date
 - Oct 2002
-### Authors
+### Author
 - Li Jin
 ### Abstract
 This paper examines the relation between chief executive officers’ (CEOs’) incentive levels and their firms’ risk characteristics. I show theoretically that, when CEOs cannot trade the market portfolio, optimal incentive level decreases with firm's nonsystematic risk but is ambiguously affected by firm's systematic risk; when CEOs can trade the market portfolio, optimal incentive level decreases with nonsystematic risk but is unaffected by systematic risk. Empirically I find support for these predictions. Furthermore, I find that incentives for CEOs likely facing binding short-selling constraints decrease with systematic as well as nonsystematic risk, as predicted by theory. Thus, compensation practice is consistent with predictions of theory.
@@ -35,7 +35,7 @@ This paper examines the relation between chief executive officers’ (CEOs’) i
 ## 4. Protection of minority shareholder interests, cross-listings in the United States, and subsequent equity offerings
 ### Date
 - Oct 2002
-### Authors
+### Author
 - William A Reese
 - Michael S Weisbach
 ### Abstract
@@ -53,7 +53,7 @@ We find evidence consistent with each of these predictions. Overall, the desire 
 ## 5. Strategic IPO underpricing, information momentum, and lockup expiration selling
 ### Date
 - Oct 2002
-### Authors
+### Author
 - Rajesh K. Aggarwal
 - Laurie Krigman
 - Kent L. Womack
@@ -65,7 +65,7 @@ Managers usually do not sell any of their own shares in an initial public offeri
 ## 6. The impact of specialist firm acquisitions on market quality
 ### Date
 - Oct 2002
-### Authors
+### Author
 - Brian C. Hatch
 - Shane A. Johnson
 ### Abstract
@@ -76,7 +76,7 @@ Acquisitions among New York Stock Exchange specialist firms can increase special
 ## 7. Advert: Research in Banking
 ### Date
 - Oct 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -85,7 +85,7 @@ Acquisitions among New York Stock Exchange specialist firms can increase special
 ## 8. Advert: Science Direct
 ### Date
 - Oct 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -94,7 +94,7 @@ Acquisitions among New York Stock Exchange specialist firms can increase special
 ## 9. Advert: Contents Direct
 ### Date
 - Oct 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -103,7 +103,7 @@ Acquisitions among New York Stock Exchange specialist firms can increase special
 ## 10. Advert: Author Gateway
 ### Date
 - Oct 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link

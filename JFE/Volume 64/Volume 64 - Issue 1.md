@@ -5,7 +5,7 @@
 ## 1. Asset liquidity, debt covenants, and managerial discretion in financial distress:
 ### Date
 - Apr 2002
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Karen H. Wruck
@@ -17,7 +17,7 @@ A hot growth stock in the 1980s, L.A. Gear's equity fell from $1 billion in mark
 ## 2. Growth opportunities and corporate debt policy: the case of the U.S. defense industry
 ### Date
 - Apr 2002
-### Authors
+### Author
 - Vidhan K Goyal
 - Kenneth Lehn
 - Stanko Racic
@@ -29,7 +29,7 @@ The U.S. defense industry provides a natural experiment for examining how change
 ## 3. Governance with poor investor protection: evidence from top executive turnover in Italy
 ### Date
 - Apr 2002
-### Authors
+### Author
 - Paolo F. Volpin
 ### Abstract
 This paper studies the determinants of executive turnover and firm valuation as a function of ownership and control structure in Italy, a country that features low legal protection for investors, firms with controlling shareholders, and pyramidal groups. The results suggest that there is poor governance, as measured by a low sensitivity of turnover to performance and a low Q ratio, when (i) the controlling shareholders are also top executives, (ii) the control is fully in the hands of one shareholder and is not shared by a set of core shareholders, and (iii) the controlling shareholders own less than 50% of the firm's cash-flow rights.
@@ -39,7 +39,7 @@ This paper studies the determinants of executive turnover and firm valuation as 
 ## 4. Limited arbitrage in mergers and acquisitions
 ### Date
 - Apr 2002
-### Authors
+### Author
 - Malcolm Baker
 - Serkan Savaşoglu
 ### Abstract
@@ -50,7 +50,7 @@ A diversified portfolio of risk arbitrage positions produces an abnormal return 
 ## 5. Divestitures and the liquidity of the market for corporate assets
 ### Date
 - Apr 2002
-### Authors
+### Author
 - Frederik P. Schlingemann
 - René M. Stulz
 - Ralph A. Walkling

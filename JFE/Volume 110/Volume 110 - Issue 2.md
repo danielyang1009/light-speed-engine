@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Joint Editorial
 ### Date
 - Aug 2013
-### Authors
+### Author
 - David Hirshleifer
 - G. William Schwert
 - Kenneth J. Singleton
@@ -26,7 +26,7 @@
 ## 3. Access to capital, investment, and the financial crisis
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Kathleen M. Kahle
 - René M. Stulz
 ### Abstract
@@ -37,7 +37,7 @@ During the recent financial crisis, corporate borrowing and capital expenditures
 ## 4. The economics of hedge funds
 ### Date
 - May 2013
-### Authors
+### Author
 - Yingcong Lan
 - Neng Wang
 - Jinqiang Yang
@@ -49,7 +49,7 @@ Hedge fund managers trade off the benefits of leveraging on the alpha-generating
 ## 5. The performance of corporate alliances: Evidence from oil and gas drilling in the Gulf of Mexico
 ### Date
 - Jul 2013
-### Authors
+### Author
 - John Beshears
 ### Abstract
 I use data on oil and gas drilling in the Gulf of Mexico to measure how a corporate alliance—a group of firms that jointly develops an offshore tract—performs relative to a solo firm. I employ a regression discontinuity strategy based on bids in first-price sealed-bid auctions for the rights to develop leases. By focusing on leases where one organizational form narrowly outbids the other, I measure drilling outcomes while controlling for the endogenous matching of projects and organizational forms. Solo firm leases are less profitable than alliance leases because alliance members combine their information and expertise.
@@ -59,7 +59,7 @@ I use data on oil and gas drilling in the Gulf of Mexico to measure how a corpor
 ## 6. Stock returns and the Miller Modigliani valuation formula: Revisiting the Fama French analysis
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Gil Aharoni
 - Bruce Grundy
 - Qi Zeng
@@ -71,7 +71,7 @@ Fama and French (2006) use the dividend-discount model to develop the role of ex
 ## 7. Liquidity risk of corporate bond returns: conditional approach
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Viral V. Acharya
 - Yakov Amihud
 - Sreedhar T. Bharath
@@ -83,7 +83,7 @@ We study the exposure of the US corporate bond returns to liquidity shocks of st
 ## 8. The value of local political connections in a low-corruption environment
 ### Date
 - Jun 2013
-### Authors
+### Author
 - Mario Daniele Amore
 - Morten Bennedsen
 ### Abstract
@@ -94,7 +94,7 @@ We use exogenous changes in Danish local municipality sizes to identify a large 
 ## 9. Investment cycles and startup innovation
 ### Date
 - Jul 2013
-### Authors
+### Author
 - Ramana Nanda
 - Matthew Rhodes-Kropf
 ### Abstract
@@ -105,7 +105,7 @@ We find that venture capital-backed startups receiving their initial investment 
 ## 10. Predicting market returns using aggregate implied cost of capital
 ### Date
 - Jun 2013
-### Authors
+### Author
 - Yan Li
 - David T. Ng
 - Bhaskaran Swaminathan
@@ -117,7 +117,7 @@ Theoretically, the implied cost of capital (ICC) is a good proxy for time-varyin
 ## 11. Mutual fund skill and the performance of corporate acquirers
 ### Date
 - Jun 2013
-### Authors
+### Author
 - Amrita Nain
 - Tong Yao
 ### Abstract
@@ -128,7 +128,7 @@ We show that the commonly observed correlation between institutional investor ow
 ## 12. Do jumps contribute to the dynamics of the equity premium?
 ### Date
 - Jul 2013
-### Authors
+### Author
 - John M. Maheu
 - Thomas H. McCurdy
 - Xiaofei Zhao
@@ -140,7 +140,7 @@ This paper investigates whether risks associated with time-varying arrival of ju
 ## 13. Human capital, capital structure, and employee pay: An empirical analysis
 ### Date
 - Jul 2013
-### Authors
+### Author
 - Thomas J. Chemmanur
 - Yingmei Cheng
 - Tianming Zhang

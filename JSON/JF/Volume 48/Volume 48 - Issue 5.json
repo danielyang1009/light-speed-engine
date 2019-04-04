@@ -1,0 +1,285 @@
+{
+    "journal": "JF",
+    "volume": "48",
+    "issue": "5",
+    "date": "December 1993",
+    "page": "Pages: i-vi, 1565-2056, vii-xxxiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb00775.x"
+        },
+        {
+            "no": "2",
+            "title": "The Trades of Market Makers: An Empirical Analysis of NYSE Specialists",
+            "date": "December 1993",
+            "author": [
+                "JOEL HASBROUCK",
+                "GEORGE SOFIANOS"
+            ],
+            "abstract": "This paper presents a transaction\u2010level empirical analysis of the trading activities of New York Stock Exchange specialists. The main findings of the analysis are the following. Adjustment lags in inventories vary across stocks, and are in some cases as long as one or two months. Decomposition of specialist trading profits by trading horizon shows that the principal source of these profits is short term. An analysis of the dynamic relations among inventories, signed order flow, and quote changes suggests that trades in which the specialist participates have a higher immediate impact on the quotes than trades with no specialist participation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05121.x"
+        },
+        {
+            "no": "3",
+            "title": "An Analysis of Changes in Specialist Inventories and Quotations",
+            "date": "December 1993",
+            "author": [
+                "ANANTH MADHAVAN",
+                "SEYMOUR SMIDT"
+            ],
+            "abstract": "We develop a dynamic model of market making incorporating inventory and information effects. The market maker is both a dealer and an investor, quoting prices that induce mean reversion in inventory toward targets determined by portfolio considerations. We test the model with inventory data from a New York Stock Exchange specialist. Specialist inventories exhibit slow mean reversion, with a half\u2010life of over 49 days, suggesting weak inventory effects. However, after controlling for shifts in desired inventories, the half\u2010life falls to 7.3 days. Further, quote revisions are negatively related to specialist trades and are positively related to the information conveyed by order imbalances.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05122.x"
+        },
+        {
+            "no": "4",
+            "title": "Risk Management: Coordinating Corporate Investment and Financing Policies",
+            "date": "December 1993",
+            "author": [
+                "KENNETH A. FROOT",
+                "DAVID S. SCHARFSTEIN",
+                "JEREMY C. STEIN"
+            ],
+            "abstract": "This paper develops a general framework for analyzing corporate risk management policies. We begin by observing that if external sources of finance are more costly to corporations than internally generated funds, there will typically be a benefit to hedging: hedging adds value to the extent that it helps ensure that a corporation has sufficient internal funds available to take advantage of attractive investment opportunities. We then argue that this simple observation has wide ranging implications for the design of risk management strategies. We delineate how these strategies should depend on such factors as shocks to investment and financing opportunities. We also discuss exchange rate hedging strategies for multinationals, as well as strategies involving \u201cnonlinear\u201d instruments like options.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05123.x"
+        },
+        {
+            "no": "5",
+            "title": "Issue Size Choice and \u201cUnderpricing\u201d in Thrift Mutual\u2010to\u2010Stock Conversions",
+            "date": "December 1993",
+            "author": [
+                "VOJISLAV MAKSIMOVIC",
+                "HALUK UNAL"
+            ],
+            "abstract": "Issue size choice and underpricing in mutual\u2010to\u2010stock conversions of thrifts are explained as a function of growth opportunities, perquisite consumption, and proprietary information. We provide evidence that thrifts with greater growth opportunities choose larger issue size and experience higher after\u2010market price appreciation. This finding persists when we allow for investors' inferences about managers' proprietary information. Variables that explain underpricing in typical initial public offerings are significant by themselves but lose significance when combined with the issue size choice variables. Managerial holdings and the offer price do not act as dissipative signals of value in thrift conversions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05124.x"
+        },
+        {
+            "no": "6",
+            "title": "Information Sharing in Credit Markets",
+            "date": "December 1993",
+            "author": [
+                "MARCO PAGANO",
+                "TULLIO JAPPELLI"
+            ],
+            "abstract": "We present a model with adverse selection where information sharing between lenders arises endogenously. Lenders' incentives to share information about borrowers are positively related to the mobility and heterogeneity of borrowers, to the size of the credit market, and to advances in information technology; such incentives are instead reduced by the fear of competition from potential entrants. In addition, information sharing increases the volume of lending when adverse selection is so severe that safe borrowers drop out of the market. These predictions are supported by international and historical evidence in the context of the consumer credit market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05125.x"
+        },
+        {
+            "no": "7",
+            "title": "A New Approach to International Arbitrage Pricing",
+            "date": "December 1993",
+            "author": [
+                "RAVI BANSAL",
+                "DAVID A. HSIEH",
+                "S. VISWANATHAN"
+            ],
+            "abstract": "This paper uses a nonlinear arbitrage\u2010pricing model, a conditional linear model, and an unconditional linear model to price international equities, bonds, and forward currency contracts. Unlike linear models, the nonlinear arbitrage\u2010pricing model requires no restrictions on the payoff space, allowing it to price payoffs of options, forward contracts, and other derivative securities. Only the nonlinear arbitrage\u2010pricing model does an adequate job of explaining the time series behavior of a cross section of international returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05126.x"
+        },
+        {
+            "no": "8",
+            "title": "Measuring and Testing the Impact of News on Volatility",
+            "date": "December 1993",
+            "author": [
+                "ROBERT F. ENGLE",
+                "VICTOR K. NG"
+            ],
+            "abstract": "This paper defines the news impact curve which measures how new information is incorporated into volatility estimates. Various new and existing ARCH models including a partially nonparametric one are compared and estimated with daily Japanese stock return data. New diagnostic tests are presented which emphasize the asymmetry of the volatility response to news. Our results suggest that the model by Glosten, Jagannathan, and Runkle is the best parametric model. The EGARCH also can capture most of the asymmetry; however, there is evidence that the variability of the conditional variance implied by the EGARCH is too high.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05127.x"
+        },
+        {
+            "no": "9",
+            "title": "On the Relation between the Expected Value and the Volatility of the Nominal Excess Return on Stocks",
+            "date": "December 1993",
+            "author": [
+                "LAWRENCE R. GLOSTEN",
+                "RAVI JAGANNATHAN",
+                "DAVID E. RUNKLE"
+            ],
+            "abstract": "We find support for a negative relation between conditional expected monthly return and conditional variance of monthly return, using a GARCH\u2010M model modified by allowing (1) seasonal patterns in volatility, (2) positive and negative innovations to returns having different impacts on conditional volatility, and (3) nominal interest rates to predict conditional variance. Using the modified GARCH\u2010M model, we also show that monthly conditional volatility may not be as persistent as was thought. Positive unanticipated returns appear to result in a downward revision of the conditional volatility whereas negative unanticipated returns result in an upward revision of conditional volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05128.x"
+        },
+        {
+            "no": "10",
+            "title": "Asset\u2010pricing Puzzles and Incomplete Markets",
+            "date": "December 1993",
+            "author": [
+                "CHRIS I. TELMER"
+            ],
+            "abstract": "The representative agent theory of asset pricing is modified to incorporate heterogeneous agents and incomplete markets. The model features two types of agents who differ up to a nontradable, idiosyncratic component in their endowment processes. Numerical solutions indicate that individuals are able to diversify a substantial portion of their idiosyncratic income risk through riskless borrowing and lending alone. Restrictions on the variability of intertemporal marginal rates of substitution (Hansen and Jagannathan (1991)) are used to argue that incomplete markets, as modeled here, cannot account for the properties of asset returns that are anomalous from the perspective of representative agent theory.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05129.x"
+        },
+        {
+            "no": "11",
+            "title": "Jump Diffusion Option Valuation in Discrete Time",
+            "date": "December 1993",
+            "author": [
+                "KAUSHIK I. AMIN"
+            ],
+            "abstract": "We develop a simple, discrete time model to value options when the underlying process follows a jump diffusion process. Multivariate jumps are superimposed on the binomial model of Cox, Ross, and Rubinstein (1979) to obtain a model with a limiting jump diffusion process. This model incorporates the early exercise feature of American options as well as arbitrary jump distributions. It yields an efficient computational procedure that can be implemented in practice. As an application of the model, we illustrate some characteristics of the early exercise boundary of American options with certain types of jump distributions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05130.x"
+        },
+        {
+            "no": "12",
+            "title": "Currency Hedging for International Portfolios",
+            "date": "December 1993",
+            "author": [
+                "JACK GLEN",
+                "PHILIPPE JORION"
+            ],
+            "abstract": "This paper examines the benefits from currency hedging, both for speculative and risk minimization motives, in international bond and equity portfolios. The risk\u2010return performances of globally diversified portfolios are compared with and without forward contracts. Over the period 1974 to 1990, inclusion of forward contracts results in statistically significant improvements in the performance of unconditional portfolios containing bonds. Conditional strategies are also implemented, both in sample and out of sample, and are shown to both significantly improve the risk\u2010return tradeoff of global portfolios and to outperform unconditional hedging strategies.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05131.x"
+        },
+        {
+            "no": "13",
+            "title": "Accounting for Forward Rates in Markets for Foreign Currency",
+            "date": "December 1993",
+            "author": [
+                "DAVID K. BACKUS",
+                "ALLAN W. GREGORY",
+                "CHRIS I. TELMER"
+            ],
+            "abstract": "Forward and spot exchange rates between major currencies imply large standard deviations of both predictable returns from currency speculation and of the equilibrium price measure (the intertemporal marginal rate of substitution). Representative agent theory with time\u2010additive preferences cannot account for either of these properties. We show that the theory does considerably better along these dimensions when the representative agent's preferences exhibit habit persistence, but that the theory fails to reproduce some of the other properties of the data\u00e2\u20ac\u201din particular, the strong autocorrelation of forward premiums.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05132.x"
+        },
+        {
+            "no": "14",
+            "title": "Stock Market Crashes and the Performance of Circuit Breakers: Empirical Evidence",
+            "date": "December 1993",
+            "author": [
+                "BENI LAUTERBACH",
+                "URI BEN\u2010ZION"
+            ],
+            "abstract": "This study examines the behavior of a small stock market with circuit breakers and with a one\u2010hour preauction order imbalance disclosure, during the October 1987 crash. The crash and its aftershocks lasted for a week and selling pressure was concentrated in higher beta, larger capitalization, and lower leverage firm stocks. Circuit breakers when implemented reduced the next\u2010day opening order imbalance and the initial price loss; however, they had no effect on the long\u2010run response. Some price overreaction and reversal phenomena also are documented.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05133.x"
+        },
+        {
+            "no": "15",
+            "title": "Asset\u2010pricing Tests under Alternative Distributions",
+            "date": "December 1993",
+            "author": [
+                "GUOFU ZHOU"
+            ],
+            "abstract": "Given the normality assumption, we reject the mean\u2010variance efficiency of the Center for Research in Security Prices value\u2010weighted stock index for three of the six consecutive ten\u2010year subperiods from 1926 to 1986. However, the normality assumption is strongly rejected by the data. Under plausible alternative distributional assumptions of the elliptical class, the efficiency can no longer be rejected. When the normality assumption is violated but the ellipticity assumption is maintained, many tests tend to be biased toward overrejection and both the accuracy of estimated beta and\nR\n2\nare usually overstated.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05134.x"
+        },
+        {
+            "no": "16",
+            "title": "The Impact of Large Portfolio Insurers on Asset Prices",
+            "date": "December 1993",
+            "author": [
+                "R. GLEN DONALDSON",
+                "HARALD UHLIG"
+            ],
+            "abstract": "We develop a simple model in which the presence of portfolio insurers in a market of risk\u2010averse traders leads to multiple equilibria for the pricing of financial assets and can cause an increase in volatility, including insurance\u2010induced price drops. We demonstrate, however, that centralized portfolio insurance firms may actually reduce, not increase, volatility, even if the existence of these firms increases the total amount of funds under insurance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05135.x"
+        },
+        {
+            "no": "17",
+            "title": "Why Option Prices Lag Stock Prices: A Trading\u2010based Explanation",
+            "date": "December 1993",
+            "author": [
+                "KALOK CHAN",
+                "Y. PETER CHUNG",
+                "HERB JOHNSON"
+            ],
+            "abstract": "While many studies find that option prices lead stock prices, Stephan and Whaley (1990) find that stocks lead options. We find no evidence that options, even deep out\u2010of\u2010the\u2010money options, lead stocks. After confirming Stephan and Whaley's results, we show their results can be explained as spurious leads induced by infrequent trading of options. We show that the stock lead disappears when the average of the bid and ask prices is used instead of transaction prices. Hence, we find no evidence of arbitrage opportunities associated with the stock lead.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05136.x"
+        },
+        {
+            "no": "18",
+            "title": "Option Valuation and Hedging Strategies with Jumps in the Volatility of Asset Returns",
+            "date": "December 1993",
+            "author": [
+                "VASANTTILAK NAIK"
+            ],
+            "abstract": "We develop a model in which the volatility of risky assets is subject to random and discontinuous shifts over time. We derive prices of claims contingent on such assets and analyze options\u2010based trading strategies to hedge against the risk of jumps in the return volatility. Unsystematic and systematic events such as takeovers, major changes in business plans, or shifts in economic policy regimes may drastically alter firms' risk profiles. Our model captures the effect of such events on options markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05137.x"
+        },
+        {
+            "no": "19",
+            "title": "The Determinants of Leveraged Buyout Activity: Free Cash Flow vs. Financial Distress Costs",
+            "date": "December 1993",
+            "author": [
+                "TIM OPLER",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "This paper investigates the determinants of leveraged buyout (LBO) activity by comparing firms that have implemented LBOs to those that have not. Consistent with the free cash flow theory, we find that firms that initiate LBOs can be characterized as having a combination of unfavorable investment opportunities (low Tobin's q) and relatively high cash flow. LBO firms also tend to be more diversified than firms which do not undertake LBOs. In addition, firms with high expected costs of financial distress (e.g., those with high research and development expenditures) are less likely to do LBOs.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05138.x"
+        },
+        {
+            "no": "20",
+            "title": "Is a Bond Rating Downgrade Bad News, Good News, or No News for Stockholders?",
+            "date": "December 1993",
+            "author": [
+                "JEREMY C. GOH",
+                "LOUIS H. EDERINGTON"
+            ],
+            "abstract": "We examine the reaction of common stock returns to bond rating changes. While recent studies find a significant negative stock response to downgrades, we argue that this reaction should not be expected for all downgrades because: (1) some rating changes are anticipated by market participants and (2) downgrades because of an anticipated move to transfer wealth from bondholders to stockholders should be good news for stockholders. We find that downgrades associated with deteriorating financial prospects convey new negative information to the capital market, but that downgrades due to changes in firms' leverage do not.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05139.x"
+        },
+        {
+            "no": "21",
+            "title": "Moral Hazard and the Portfolio Management Problem",
+            "date": "December 1993",
+            "author": [
+                "NEAL M. STOUGHTON"
+            ],
+            "abstract": "This paper investigates the significance of nonlinear contracts on the incentive for portfolio managers to collect information. In addition, the manager must be motivated to disclose this information truthfully. We analyze three contracting regimes: (1) first\u2010best where effort is observable, (2) linear with unobservable effort, and (3) the optimal contract within the Bhattacharya\u2010Pfleiderer quadratic class. We find that the linear contract leads to a serious lack of effort expenditure by the manager. This underinvestment problem can be successfully overcome through the use of quadratic contracts. These contracts are shown to be asymptotically optimal for very risk\u2010tolerant principals.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05140.x"
+        },
+        {
+            "no": "22",
+            "title": "Book Reviews",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nInvestor Response to Management Decisions: A Research\u2010based Analysis of Actions and Effects. By RICHARD M. ALTMAN. New York: Quorum Books, 1992. Pp. xiv + 375.\nDynamic Asset Pricing Theory. By DARRELL DUFFIE. Princeton: Princeton University Press, 1992. Pp. xvi + 299.\nFinance in a Theory of the Business Cycle. By ROBERT E. KRAINER. Cambridge: Blackwell Publishers, 1992. Pp. xx + 245.\nThe swaps Market. By JOHN F. MARSHALL and KENNETH R. KAPNER. Miami: Kolb Publishing, 2nd ed., 1993. Pp. 258.\nChaos and Order in the Capital Markets: A New View of Cycles, Prices, and Market Volatility. By EDGAR E. PETERS. New York: John Wiley, 1991. Pp. xii + 240.\nProfit\u2010Making Speculation in Foreign Exchange Markets. By PATCHARA SURAJARAS and RICHARD J. SWEENEY. Boulder, Colorado: Westview Press, 1992. Pp. xiv + 280.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05141.x"
+        },
+        {
+            "no": "23",
+            "title": "MISCELLANEA",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05142.x"
+        },
+        {
+            "no": "24",
+            "title": "INDEX TO VOLUME XLVIII",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb00774.x"
+        },
+        {
+            "no": "25",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05119.x"
+        },
+        {
+            "no": "26",
+            "title": "ANNOUNCEMENTS",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb05120.x"
+        },
+        {
+            "no": "27",
+            "title": "Back Matter",
+            "date": "December 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb00776.x"
+        }
+    ]
+}

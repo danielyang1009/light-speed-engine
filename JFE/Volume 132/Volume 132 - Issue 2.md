@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2019
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do private equity funds manipulate reported returns?
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Gregory W. Brown
 - Oleg R. Gredil
 - Steven N. Kaplan
@@ -26,7 +26,7 @@ Private equity funds hold assets that are hard to value. Managers have incentive
 ## 3. Entry and competition in takeover auctions
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Matthew Gentry
 - Caleb Stroup
 ### Abstract
@@ -37,7 +37,7 @@ We estimate the degree of uncertainty faced by potential bidders in takeover auc
 ## 4. An anatomy of the market return
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Paul Schneider
 ### Abstract
 This paper introduces a model free decomposition of S&P 500 forward market index returns in terms of realized and implied dispersion, downside, and tail risk using option portfolios. The decomposition lends itself by construction to learn about the different sources of risk in the market return and subsequently to visual and formal diagnosing of asset pricing models. It utilizes a novel conditional frequency analysis on the basis of available options rather than the times series of the S&P 500. Empirically, downside risk accounts for most of the forward market return, while symmetric tail risk is not prominently featured. The predictable, persistent part of the realized return is small. Nevertheless, signals revealed by this risk anatomy provide predictive out of sample power for realized returns, in particular for longer maturities. Furthermore, it indicates that models with identically and independently distributed state variables are generally misspecified in this market, and that care must be taken when calibrating disaster risk models. A formal test based on the risk anatomy rejects a model with time-varying disaster intensity.
@@ -47,7 +47,7 @@ This paper introduces a model free decomposition of S&P 500 forward market index
 ## 5. Liquidity standards and the value of an informed lender of last resort
 ### Date
 - Oct 2018
-### Authors
+### Author
 - João A.C. Santos
 - Javier Suarez
 ### Abstract
@@ -58,7 +58,7 @@ We consider a dynamic model in which receiving support from the lender of last r
 ## 6. Attention allocation and return co-movement: Evidence from repeated natural experiments
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Shiyang Huang
 - Yulin Huang
 - Tse-Chun Lin
@@ -70,7 +70,7 @@ We hypothesize that when investors pay less attention to financial markets, they
 ## 7. Capital flows and sovereign debt markets: Evidence from index rebalancings
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Lorenzo Pandolfi
 - Tomas Williams
 ### Abstract
@@ -81,7 +81,7 @@ We analyze how capital flows into the sovereign debt market affect government bo
 ## 8. Municipal borrowing costs and state policies for distressed municipalities
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Pengjie Gao
 - Chang Lee
 - Dermot Murphy
@@ -93,7 +93,7 @@ Policies on financially distressed municipalities differ across US states, with 
 ## 9. Mood, firm behavior, and aggregate economic outcomes
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Vidhi Chhaochharia
 - Dasol Kim
 - George M. Korniotis
@@ -106,7 +106,7 @@ This study examines whether mood affects the aggregate state-level macroeconomy 
 ## 10. Too good to be true? Fallacies in evaluating risk factor models
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Nikolay Gospodinov
 - Raymond Kan
 - Cesare Robotti
@@ -118,7 +118,7 @@ This paper is concerned with statistical inference and model evaluation in possi
 ## 11. Financing intangible capital
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Qi Sun
 - Mindy Z. Xiaolan
 ### Abstract
@@ -129,7 +129,7 @@ Firms finance intangible investment through employee compensation contracts. In 
 ## 12. The cross-section of labor leverage and equity returns
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Andres Donangelo
 - François Gourio
 - Matthias Kehrig
@@ -142,7 +142,7 @@ The relative size and inflexibility of labor expenses lead to a form of operatin
 ## 13. Liquidity, innovation, and endogenous growth
 ### Date
 - Nov 2018
-### Authors
+### Author
 - Semyon Malamud
 - Francesca Zucchi
 ### Abstract

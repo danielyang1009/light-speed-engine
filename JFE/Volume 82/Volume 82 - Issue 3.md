@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Profitability, investment and average returns
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -25,7 +25,7 @@ Valuation theory says that expected stock returns are related to three variables
 ## 3. Capital structure, credit risk, and macroeconomic conditions
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Dirk Hackbarth
 - Jianjun Miao
 - Erwan Morellec
@@ -37,7 +37,7 @@ This paper develops a framework for analyzing the impact of macroeconomic condit
 ## 4. Financing decisions when managers are risk averse
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Katharina Lewellen
 ### Abstract
 Leverage raises stock volatility, driving a wedge between the cost of debt to shareholders and the cost to undiversified, risk-averse managers. I quantify these “volatility costs” of debt and examine their impact on financing decisions. I find that: (1) the volatility costs of debt can be large for executives exposed to firm-specific risk; (2) for a range of empirically relevant parameters, higher option ownership tends to increase, not decrease, the volatility costs of debt; and (3) for managers with stock options, a stock price increase typically raises volatility costs. For a large sample of US firms, I find evidence that volatility costs affect both the level of and short-term changes in debt, and that volatility costs help explain a firm's choice between debt and equity.
@@ -47,7 +47,7 @@ Leverage raises stock volatility, driving a wedge between the cost of debt to sh
 ## 5. Entry regulation as a barrier to entrepreneurship
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Leora Klapper
 - Luc Laeven
 - Raghuram Rajan
@@ -59,7 +59,7 @@ Using a comprehensive database of European firms, we study the effect of market 
 ## 6. A liquidity-augmented capital asset pricing model
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Weimin Liu
 ### Abstract
 Using a new measure of liquidity, this paper documents a significant liquidity premium robust to the CAPM and the Fama–French three-factor model and shows that liquidity is an important source of priced risk. A two-factor (market and liquidity) model well explains the cross-section of stock returns, describing the liquidity premium, subsuming documented anomalies associated with size, long-term contrarian investment, and fundamental (cashflow, earnings, and dividend) to price ratios. In particular, the two-factor model accounts for the book-to-market effect, which the Fama–French three-factor model fails to explain.
@@ -69,7 +69,7 @@ Using a new measure of liquidity, this paper documents a significant liquidity p
 ## 7. Does good corporate governance include employee representation? Evidence from German corporate boards
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Larry Fauver
 - Michael E. Fuerst
 ### Abstract
@@ -80,7 +80,7 @@ Within the German corporate governance system, employee representation on the su
 ## 8. Author index to volume 82
 ### Date
 - Dec 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link

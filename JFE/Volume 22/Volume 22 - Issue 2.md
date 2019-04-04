@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1988
-### Authors
+### Author
 - MichaelC. Jensen
 - JohnB. Long
 - RichardS. Ruback
@@ -19,7 +19,7 @@
 ## 2. The Eurobond market and corporate financial policy
 ### Date
 - Dec 1988
-### Authors
+### Author
 - Yong Cheol Kim
 - RenéM. Stulz
 ### Abstract
@@ -30,7 +30,7 @@ On average, significant positive abnormal returns are associated with Eurobond i
 ## 3. The information effects of takeover bids and resistance
 ### Date
 - Dec 1988
-### Authors
+### Author
 - John Pound
 ### Abstract
 This paper tests whether takeover bids and takeover resistance by target management convey information to the market about the stand-alone value of target firms. When initial bids are made, analysts' consensus forecasts of stand-alone earnings do not change significantly for any group of takeover targets. This is consistent with the synergy view of mergers and inconsistent with the undervaluation theory. Consensus forecasts fall significantly when managers resist takeover. The decline is about 10% of the level of previously forecast earnings and is approximately equal whether the target is ultimately acquired or remains independent.
@@ -40,7 +40,7 @@ This paper tests whether takeover bids and takeover resistance by target managem
 ## 4. Trades, quotes, inventories, and information
 ### Date
 - Dec 1988
-### Authors
+### Author
 - Joel Hasbrouck
 ### Abstract
 This empirical examination of the relation between trades and quote revisions for New York Stock Exchange-listed stocks is designed to ascertain asymmetric-information and inventory-control effects. This study finds that negative autocorrelation in trades consistent with inventory-control behavior characterizes low-volume stocks, but not high-volume stocks. The evidence of inventory control in the impact of trades on quote revisions is inconclusive. The information content of trades, on the other hand, is found to be substantial. There is also strong evidence that large trades convey more information than small trades.
@@ -50,7 +50,7 @@ This empirical examination of the relation between trades and quote revisions fo
 ## 5. An investigation of cost differences between public sales and private placements of debt
 ### Date
 - Dec 1988
-### Authors
+### Author
 - David W. Blackwell
 - David S. Kidwell
 ### Abstract
@@ -61,7 +61,7 @@ We examine the cost differences between public sales and private placements of d
 ## 6. Equilibrium pricing and portfolio composition in the presence of uncertain parameters
 ### Date
 - Dec 1988
-### Authors
+### Author
 - Jeffrey L. Coles
 - Uri Loewenstein
 ### Abstract
@@ -72,7 +72,7 @@ We analyze the effect of parameter uncertainty on equilibrium asset prices. For 
 ## 7. The real term structure and consumption growth
 ### Date
 - Dec 1988
-### Authors
+### Author
 - Campbell R. Harvey
 ### Abstract
 One version of the consumption-based asset pricing model implies a linear relation between expected returns and expected consumption growth. This paper provides evidence that the expected real term structure contains information that can be used to forecast consumption growth. The evidence is strongest for the 1970s and 1980s. The real term structure contains more information than two alternative measures: lagged consumption growth and lagged stock returns. Further, the real term structure appears to have slightly more forecasting power than the leading commercial econemetric models.
@@ -82,7 +82,7 @@ One version of the consumption-based asset pricing model implies a linear relati
 ## 8. Time-varying betas and risk premia in the pricing of forward foreign exchange contracts
 ### Date
 - Dec 1988
-### Authors
+### Author
 - Nelson C. Mark
 ### Abstract
 This paper specifies the single-beta capital asset pricing model for the pricing of forward foreign exchange contracts from the point of view of a U.S. investor. Parametric specification of the betas as ARCH-like processes explicitly allows for time variation as well as sign variation of the risk premium in the forward foreign exchange market. I estimate the model jointly for four currencies, using a generalized method of moments procedure. The results show significant time variation for the betas and tests of the overidentifying restrictions are generally favorable to the model.
@@ -92,7 +92,7 @@ This paper specifies the single-beta capital asset pricing model for the pricing
 ## 9. Risk aversion, uncertain information, and market efficiency
 ### Date
 - Dec 1988
-### Authors
+### Author
 - Keith C. Brown
 - W.V. Harlow
 - Seha M. Tinic
@@ -104,7 +104,7 @@ This paper develops and tests the uncertain information hypothesis as a means of
 ## 10. News items
 ### Date
 - Dec 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -113,7 +113,7 @@ This paper develops and tests the uncertain information hypothesis as a means of
 ## 11. Journal of financial economics — Volumes 20, 21, and 22
 ### Date
 - Dec 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -122,7 +122,7 @@ This paper develops and tests the uncertain information hypothesis as a means of
 ## 12. Index
 ### Date
 - Dec 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link

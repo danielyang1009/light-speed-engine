@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Feb 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Causes of financial distress following leveraged recapitalizations
 ### Date
 - Feb 1995
-### Authors
+### Author
 - David J. Denis
 - Diane K. Denis
 ### Abstract
@@ -32,7 +32,7 @@ We report that 31% of the firms completing leveraged recapitalizations between 1
 ## 3. CEO turnover and the firm's investment decisions
 ### Date
 - Feb 1995
-### Authors
+### Author
 - Michael S. Weisbach
 ### Abstract
 This paper examines the relation between management turnover and divestitures of recently acquired divisions. The empirical results indicate that at the time of a management change, there is an increased probability of divesting an acquisition at a loss or one considered unprofitable by the press. The probability increases by about the same amount regardless of whether the change is an apparent age-65 retirement or a resignation. Overall, the results are consistent with a variety of agency-based theories of corporate investment and suggest that management changes are important events for corporations because they lead to reversals of poor prior decisions.
@@ -42,7 +42,7 @@ This paper examines the relation between management turnover and divestitures of
 ## 4. Increased debt and industry product markets an empirical analysis
 ### Date
 - Feb 1995
-### Authors
+### Author
 - Gordon M. Phillips
 ### Abstract
 This paper tests for changes in firms' production and pricing decisions in four industries in which firms have sharply increased their financial leverage. The analysis of product price and quantity data shows that industry product market decisions are associated with capital structure. In three industries, output is negatively associated with the average industry debt ratio. In the one industry which shows a positive association between output and debt ratios, rival firms have low financial leverage and entry barriers are relatively low. Analysis of executive compensation data supports the hypothesis that managers' incentives to maximize shareholders' wealth increase following recapitalization.
@@ -52,7 +52,7 @@ This paper tests for changes in firms' production and pricing decisions in four 
 ## 5. Evidence on the strategic allocation of initial public offerings
 ### Date
 - Feb 1995
-### Authors
+### Author
 - Kathleen Weiss Hanley
 - William J. Wilhelm
 ### Abstract

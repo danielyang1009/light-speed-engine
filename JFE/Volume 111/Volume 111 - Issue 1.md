@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Betting against beta
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Andrea Frazzini
 - Lasse Heje Pedersen
 ### Abstract
@@ -25,7 +25,7 @@ We present a model with leverage and margin constraints that vary across investo
 ## 3. Overcoming limits of arbitrage: Theory and evidence
 ### Date
 - Sep 2013
-### Authors
+### Author
 - Johan Hombert
 - David Thesmar
 ### Abstract
@@ -36,7 +36,7 @@ Limits to arbitrage arise because financial intermediaries may face funding cons
 ## 4. Syndicated loan spreads and the composition of the syndicate
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Jongha Lim
 - Bernadette A. Minton
 - Michael S. Weisbach
@@ -48,7 +48,7 @@ During the past decade, non-bank institutional investors are increasingly taking
 ## 5. Government policy and ownership of equity securities
 ### Date
 - Sep 2013
-### Authors
+### Author
 - Kristian Rydqvist
 - Joshua Spizman
 - Ilya Strebulaev
@@ -60,7 +60,7 @@ Since World War II, direct stock ownership by households across the globe has la
 ## 6. The role of stock ownership by US members of Congress on the market for political favors
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Ahmed Tahoun
 ### Abstract
 I examine whether stock ownership by politicians helps to enforce noncontractible quid pro quo relations with firms. The ownership by US Congress members in firms contributing to their election campaigns is higher than in noncontributors. This bias toward contributors depends on the financial incentives of politicians and the relation's value. Firms with a stronger ownership–contribution association receive more government contracts. The financial gains from these contracts are economically large. When politicians divest stocks, firms discontinue contributions to the politicians, lose future contracts, and perform poorly. Politicians divest the stocks in contributors, but not in noncontributors, in anticipation of retirement.
@@ -70,7 +70,7 @@ I examine whether stock ownership by politicians helps to enforce noncontractibl
 ## 7. Politicians and the IPO decision: The impact of impending political promotions on IPO activity in China
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Joseph D. Piotroski
 - Tianyu Zhang
 ### Abstract
@@ -81,7 +81,7 @@ This paper shows that incentives created by the impending turnover of local poli
 ## 8. Investment busts, reputation, and the temptation to blend in with the crowd
 ### Date
 - Sep 2013
-### Authors
+### Author
 - Steven R. Grenadier
 - Andrey Malenko
 - Ilya A. Strebulaev
@@ -93,7 +93,7 @@ We provide a real-options model of an industry in which agents time abandonment 
 ## 9. Are red or blue companies more likely to go green? Politics and corporate social responsibility
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Alberta Di Giuli
 - Leonard Kostovetsky
 ### Abstract
@@ -104,7 +104,7 @@ Using the firm-level corporate social responsibility (CSR) ratings of Kinder, Ly
 ## 10. The value of diffusing information
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Asaf Manela
 ### Abstract
 How does the speed by which information diffuses affect its value to a stock market investor? In a structural model solved in closed-form, this speed has two opposing effects on the empirically dominant term of the value of information. Faster-diffusing information means quicker and less noisy profits, but, also increases competing informed trading, impounding more information into prices and eroding profits. Structural empirical analysis of stock market reaction to drug approvals using media coverage as a proxy for the transmission rate of information finds that the value of information is hump-shaped in its future transmission rate. Moreover, the estimated amount of noise trading is small.
@@ -114,7 +114,7 @@ How does the speed by which information diffuses affect its value to a stock mar
 ## 11. Risk tolerance and entrepreneurship
 ### Date
 - Jun 2013
-### Authors
+### Author
 - Hans K. Hvide
 - Georgios A. Panos
 ### Abstract
@@ -125,7 +125,7 @@ A theoretical tradition argues that more risk tolerant individuals are more like
 ## 12. Time-changed Lévy LIBOR market model: Pricing and joint estimation of the cap surface and swaption cube
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Markus Leippold
 - Jacob Strømberg
 ### Abstract
@@ -136,7 +136,7 @@ We propose a novel time-changed Lévy LIBOR (London Interbank Offered Rate) mark
 ## 13. Networks and productivity: Causal evidence from editor rotations
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Jonathan Brogaard
 - Joseph Engelberg
 - Christopher A. Parsons

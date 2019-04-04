@@ -1,0 +1,82 @@
+{
+    "journal": "RFS",
+    "volume": "4",
+    "issue": "2",
+    "date": "April 1991",
+    "page": "Pages 227\u2013384",
+    "article": [
+        {
+            "no": "1",
+            "title": "Tests of Financial Models in the Presence of Overlapping Observations",
+            "date": "05 May 2015",
+            "author": [
+                "Matthew Richardson",
+                "Tom Smith"
+            ],
+            "abstract": "A general approach to testing serial dependence restrictions implied from financial models is developed. In particular, we discuss joint serial dependence restrictions imposed by random walk, market microstructure, and rational expectations models recently examined in the literature. This approach incorporates more information from the data by explicitly modeling dependencies induced by the use of overlapping observations. Because the estimation problem is sufficiently simple in this framework, the test statistics have simple representations in terms of only a few unknown parameters. As a result, relatively good size properties are attained in small samples. In addition, the benefit to overlapping observations and the advantage of examining multiperiod time series are explicitly quantified.",
+            "link": "https://doi.org/10.1093/rfs/4.2.227"
+        },
+        {
+            "no": "2",
+            "title": "Insiders, Outsiders, and Market Breakdowns",
+            "date": "05 May 2015",
+            "author": [
+                "Utpal Bhattacharya",
+                "Matthew Spiegel"
+            ],
+            "abstract": "A simple classical Walrasian framework is proposed for the study of manipulation among asymmetrically informed risk-averse traders in financial markets, and it is used to analyze the occurrence of a market breakdown in the trading system. Such a phenomenon occurs when the outsiders refuse to trade with the insiders because the informational motive for trade of the insider outweighs her hedging motive. We demonstrate the robustness of our results by proving that the market collapse condition extends not only to the linear strategy function, but to the whole class of feasible nonlinear strategy functions. Implications for insider-trading regulation are sketched.",
+            "link": "https://doi.org/10.1093/rfs/4.2.255"
+        },
+        {
+            "no": "3",
+            "title": "Nondisclosure and Adverse Disclosure as Signals of Firm Value",
+            "date": "05 May 2015",
+            "author": [
+                "Siew Hong Teoh",
+                "Chuan Yang Hwang"
+            ],
+            "abstract": "We present a model in which some of the firm\u2019s information (\u201cnews\u201d) can be disclosed verifiably and some information (\u201ctype\u201d) cannot, to show that some firms may voluntarily withhold good news and disclose bad news. We describe an equilibrium in which high-type firms withhold good news and disclose bad news, whereas low-type firms disclose good news and withhold bad news. Under some parameter values, this equilibrium exists when other more traditional equilibria are ruled out by standard equilibrium refinements. The model explains some otherwise anomalous empirical evidence concerning stock price reactions to disclosure, provides some new empirical predictions, and suggests that mandatory disclosure requirements may have the undesirable consequence of making it more difficult for firms to reveal information that cannot be disclosed credibly.",
+            "link": "https://doi.org/10.1093/rfs/4.2.283"
+        },
+        {
+            "no": "4",
+            "title": "On the Sensitivity of Mean-Variance-Efficient Portfolios to Changes in Asset Means: Some Analytical and Computational Results",
+            "date": "05 May 2015",
+            "author": [
+                "Michael J. Best",
+                "Robert R. Grauer"
+            ],
+            "abstract": "This paper investigates the sensitivity of mean-variance(MV)-efficient portfolios to changes in the means of individual assets. When only a budget constraint is imposed on the investment problem, the analytical results indicate that an MV-efficient portfolio\u2019s weights, mean, and variance can be extremely sensitive to changes in asset means. When nonnegativity constraints are also imposed on the problem, the computational results confirm that a positively weighted MV-efficient portfolio\u2019s weights are extremely sensitive to changes in asset means, but the portfolio\u2019s returns are not. A surprisingly small increase in the mean of just one asset drives half the securities from the portfolio. Yet the portfolio\u2019s expected return and standard deviation are virtually unchanged.",
+            "link": "https://doi.org/10.1093/rfs/4.2.315"
+        },
+        {
+            "no": "5",
+            "title": "Trading Costs, Liquidity, and Asset Holdings",
+            "date": "05 May 2015",
+            "author": [
+                "Ravi Bhushan"
+            ],
+            "abstract": "In this article I develop a model that accounts for interdependence between trading costs in various asset markets arising from the optimizing behavior of liquidity traders. The model suggests that noise trading is an important determinant of the liquidity of asset markets and provides a positive theory for diversified asset holdings by risk-neutral liquidity traders.",
+            "link": "https://doi.org/10.1093/rfs/4.2.343"
+        },
+        {
+            "no": "6",
+            "title": "Design and Marketing of Financial Products",
+            "date": "05 May 2015",
+            "author": [
+                "Dilip Mada",
+                "Badih Soubra"
+            ],
+            "abstract": "Marketing costs are introduced into the security design environment outlined in Allen and Gale (1988). It is shown that splitting the firm\u2019s cash flow between products enhances their investor appeal and reduces marketing costs. We also explain how the extremal product design in Allen and Gale is thereby avoided and how in simple cases, debt, equity, or warrants can be optimal. Furthermore, we illustrate in general terms how the optimal solution employs portfolios of option-type products, and we give an example of two optimal products that share profits in seven of eight states.",
+            "link": "https://doi.org/10.1093/rfs/4.2.361"
+        },
+        {
+            "no": "7",
+            "title": "Erratum",
+            "date": "05 May 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/4.2.ii"
+        }
+    ]
+}

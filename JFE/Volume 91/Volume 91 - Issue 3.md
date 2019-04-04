@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Has New York become less competitive than London in global markets? Evaluating foreign listing choices over time
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Craig Doidge
 - G. Andrew Karolyi
 - René M. Stulz
@@ -26,7 +26,7 @@ We study the determinants and consequences of cross-listings on the New York and
 ## 3. Strategic price complexity in retail financial markets
 ### Date
 - May 2008
-### Authors
+### Author
 - Bruce I. Carlin
 ### Abstract
 There is mounting empirical evidence to suggest that the law of one price is violated in retail financial markets: there is significant price dispersion even when products are homogeneous. Also, despite the large number of firms in the market, prices remain above marginal cost and may even rise as more firms enter. In a non-cooperative oligopoly pricing model, I show that these anomalies arise when firms add complexity to their price structures. Complexity increases the market power of the firms because it prevents some consumers from becoming knowledgeable about prices in the market. In the model, as competition increases, firms tend to add more complexity to their prices as a best response, rather than make their disclosures more transparent. Because this may substantially decrease consumer surplus in these markets, such practices have important welfare implications.
@@ -36,7 +36,7 @@ There is mounting empirical evidence to suggest that the law of one price is vio
 ## 4. Conditional volatility in affine term-structure models: Evidence from Treasury and swap markets
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Kris Jacobs
 - Lotfi Karoui
 ### Abstract
@@ -47,7 +47,7 @@ We study the ability of three-factor affine term-structure models to extract con
 ## 5. Dynamic order submission strategies with competition between a dealer market and a crossing network
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Hans Degryse
 - Mark Van Achter
 - Gunther Wuyts
@@ -59,7 +59,7 @@ We analyze a dynamic microstructure model in which a dealer market (DM) and a cr
 ## 6. Collateral pricing
 ### Date
 - Mar 2008
-### Authors
+### Author
 - Efraim Benmelech
 - Nittai K. Bergman
 ### Abstract
@@ -70,7 +70,7 @@ We examine how collateral affects the cost of debt capital. Using a novel data s
 ## 7. Corruption in bank lending to firms: Cross-country micro evidence on the beneficial role of competition and information sharing
 ### Date
 - Apr 2008
-### Authors
+### Author
 - James R. Barth
 - Chen Lin
 - Ping Lin
@@ -83,7 +83,7 @@ Building on the important study by Beck, Demirguc-Kunt, and Levine [2006. Bank s
 ## 8. Accruals, cash flows, and aggregate stock returns
 ### Date
 - Nov 2007
-### Authors
+### Author
 - David Hirshleifer
 - Kewei Hou
 - Siew Hong Teoh

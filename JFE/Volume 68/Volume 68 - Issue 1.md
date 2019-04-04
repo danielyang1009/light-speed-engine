@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Voting with their feet: institutional ownership changes around forced CEO turnover
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Robert Parrino
 - Richard W Sias
 - Laura T Starks
@@ -26,7 +26,7 @@ We investigate whether institutional investors “vote with their feet” when d
 ## 3. News related to future GDP growth as a risk factor in equity returns
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Maria Vassalou
 ### Abstract
 A model that includes a factor that captures news related to future Gross Domestic Product (GDP) growth along with the market factor can explain the cross-section of equity returns about as well as the Fama-French model can. Furthermore, the Fama-French factors HML and SMB appear to contain mainly news related to future GDP growth. When news related to future GDP growth is present in the asset-pricing model, HML and SMB lose much of their ability to explain the cross-section.
@@ -36,7 +36,7 @@ A model that includes a factor that captures news related to future Gross Domest
 ## 4. Capital structure choice: macroeconomic conditions and financial constraints
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Robert A Korajczyk
 - Amnon Levy
 ### Abstract
@@ -47,7 +47,7 @@ This paper provides new evidence of how macroeconomic conditions affect capital 
 ## 5. Allocation of initial public offerings and flipping activity
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Reena Aggarwal
 ### Abstract
 There is a general perception that the large trading volume in initial public offerings is mostly due to “flippers” that are allocated shares in the offering and immediately resell them. On average, however, flipping accounts for only 19% of trading volume and 15% of shares offered during the first two days of trading. Institutions do more flipping than retail customers and hot IPOs are flipped much more than cold IPOs. Institutions do not quickly flip cold IPOs to take advantage of price support activities by the underwriter. Explicit penalty bids are rarely assessed against flippers.
@@ -57,7 +57,7 @@ There is a general perception that the large trading volume in initial public of
 ## 6. Allocations, adverse selection, and cascades in IPOs: Evidence from the Tel Aviv Stock Exchange
 ### Date
 - Apr 2003
-### Authors
+### Author
 - Yakov Amihud
 - Shmuel Hauser
 - Amir Kirsh
@@ -69,7 +69,7 @@ We examine theories of IPO underpricing using unique data from Israel where the 
 ## 7. Call for Papers: Corporate Governance
 ### Date
 - Apr 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -78,7 +78,7 @@ We examine theories of IPO underpricing using unique data from Israel where the 
 ## 8. Advert: Science Direct
 ### Date
 - Apr 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link

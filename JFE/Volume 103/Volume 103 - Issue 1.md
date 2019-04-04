@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - January 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Red and blue investing: Values and finance
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Harrison Hong
 - Leonard Kostovetsky
 ### Abstract
@@ -25,7 +25,7 @@ Using data on the political contributions and stock holdings of U.S. investment 
 ## 3. Behavioral consistency in corporate finance: CEO personal and corporate leverage
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Henrik Cronqvist
 - Anil K. Makhija
 - Scott E. Yonker
@@ -37,7 +37,7 @@ We find that firms behave consistently with how their CEOs behave personally in 
 ## 4. How much of the diversification discount can be explained by poor corporate governance?
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Daniel Hoechle
 - Markus Schmid
 - Ingo Walter
@@ -50,7 +50,7 @@ We investigate whether the diversification discount occurs partly as an artifact
 ## 5. When do high stock returns trigger equity issues?
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Aydoğan Altı
 - Johan Sulaeman
 ### Abstract
@@ -61,7 +61,7 @@ One of the most prominent stylized facts in corporate finance is that equity iss
 ## 6. Institutional determinants of capital structure adjustment speeds
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Özde Öztekin
 - Mark J. Flannery
 ### Abstract
@@ -72,7 +72,7 @@ Many authors relate a firm's performance to legal and political features and the
 ## 7. Expropriation risk and technology
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Marcus M. Opp
 ### Abstract
 This paper develops a unified framework to analyze the dynamics of firm investment in countries with poor legal enforcement. The firm's technology edge over the government generates endogenous property rights. Industry variation in the technology gap predicts a sectoral pecking-order of expropriations. Long-run investment distortions may be Pareto superior relative to persistent investment at the static optimum. The dynamics of investment and transfers depend on whether incentives (backloading) or efficiency (frontloading) concerns dominate at the initial division of surplus. An increase in government efficiency may reduce its welfare. The model provides a technology-driven rationale for the widespread use of conglomerate structures in emerging market countries.
@@ -82,7 +82,7 @@ This paper develops a unified framework to analyze the dynamics of firm investme
 ## 8. Incentives to innovate and financial crises
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Anjan V. Thakor
 ### Abstract
 In this paper I develop a model of a competitive financial system with unrestricted but costly entry and an endogenously determined number of competing financial institutions (“banks” for short). Banks can make standard loans on which plentiful historical data are available and unanimous agreement exists on default probabilities. Or banks can innovate and make new loans on which limited historical data are available, leading to possible disagreement over default probabilities. In equilibrium, banks make zero profits on standard loans and positive profits on innovative loans, which engenders innovation incentives for banks. But innovation brings with it the risk that investors could disagree with the bank that the loan is worthy of continued funding and hence could withdraw funding at an interim stage, precipitating a financial crisis. The degree of innovation in the financial system is determined by this trade-off. Welfare implications of financial innovation and mechanisms to reduce the probability of crises are discussed.
@@ -92,7 +92,7 @@ In this paper I develop a model of a competitive financial system with unrestric
 ## 9. Structural models and endogeneity in corporate finance: The link between managerial ownership and corporate performance
 ### Date
 - Apr 2011
-### Authors
+### Author
 - Jeffrey L. Coles
 - Michael L. Lemmon
 - J. Felix Meschke
@@ -104,7 +104,7 @@ This paper presents a parsimonious, structural model that isolates primary econo
 ## 10. Friends with money
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Joseph Engelberg
 - Pengjie Gao
 - Christopher A. Parsons
@@ -116,7 +116,7 @@ When banks and firms are connected through interpersonal linkages – such as th
 ## 11. Optimal clearing arrangements for financial trades
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Thorsten Koeppl
 - Cyril Monnet
 - Ted Temzelides
@@ -128,7 +128,7 @@ Clearinghouses support financial trades by keeping records of transactions and b
 ## 12. CAPM for estimating the cost of equity capital: Interpreting the empirical evidence
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Zhi Da
 - Re-Jin Guo
 - Ravi Jagannathan

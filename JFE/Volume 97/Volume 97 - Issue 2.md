@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The world price of home bias
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Sie Ting Lau
 - Lilian Ng
 - Bohui Zhang
@@ -26,7 +26,7 @@ Theoretical arguments suggest that as the degree of a country's home bias increa
 ## 3. Optimal compensation contracts when managers can hedge
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Huasheng Gao
 ### Abstract
 This paper examines optimal compensation contracts when executives can hedge their personal portfolios. In a simple principal-agent framework, I predict that the Chief Executive Officer's (CEO's) pay-performance sensitivity decreases with the executive-hedging cost. Empirically, I find evidence supporting the model's prediction. Providing further support for the theory, I show that shareholders also impose a high sensitivity of CEO wealth to stock volatility and increase financial leverage to resolve the executive-hedging problem. Moreover, executives with lower hedging costs hold more exercisable in-the-money options, have weaker incentives to cut dividends, and pursue fewer corporate diversification initiatives. Overall, the manager's ability to hedge the firm's risk affects governance mechanisms and managerial actions.
@@ -36,7 +36,7 @@ This paper examines optimal compensation contracts when executives can hedge the
 ## 4. Payoff complementarities and financial fragility: Evidence from mutual fund outflows
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Qi Chen
 - Itay Goldstein
 - Wei Jiang
@@ -48,7 +48,7 @@ The paper provides empirical evidence that strategic complementarities among inv
 ## 5. CEOs versus CFOs: Incentives and corporate policies
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Sudheer Chava
 - Amiyatosh Purnanandam
 ### Abstract
@@ -59,7 +59,7 @@ We undertake a broad-based study of the effect of managerial risk-taking incenti
 ## 6. Evaluating asset pricing models using the second Hansen-Jagannathan distance
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Haitao Li
 - Yuewu Xu
 - Xiaoyan Zhang

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Credit lines as monitored liquidity insurance: Theory and evidence
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Viral Acharya
 - Heitor Almeida
 - Filippo Ippolito
@@ -27,7 +27,7 @@ We propose a theory of credit lines provided by banks to firms as a form of moni
 ## 3. Limited partner performance and the maturing of the private equity industry
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Berk A. Sensoy
 - Yingdi Wang
 - Michael S. Weisbach
@@ -39,7 +39,7 @@ We evaluate the performance of limited partners׳ (LPs׳) private equity investm
 ## 4. Acquirer-target social ties and merger outcomes
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Joy Ishii
 - Yuhai Xuan
 ### Abstract
@@ -50,7 +50,7 @@ This article investigates the effect of social ties between acquirers and target
 ## 5. Freedom of choice between unitary and two-tier boards: An empirical analysis
 ### Date
 - Feb 2014
-### Authors
+### Author
 - François Belot
 - Edith Ginglinger
 - Myron B. Slovin
@@ -63,7 +63,7 @@ We examine board structure in France, which since 1966 has allowed firms the fre
 ## 6. Who works for startups? The relation between firm age, employee age, and growth
 ### Date
 - Mar 2014
-### Authors
+### Author
 - Paige Ouimet
 - Rebecca Zarutskie
 ### Abstract

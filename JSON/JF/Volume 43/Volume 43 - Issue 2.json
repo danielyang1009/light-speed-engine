@@ -1,0 +1,227 @@
+{
+    "journal": "JF",
+    "volume": "43",
+    "issue": "2",
+    "date": "June 1988",
+    "page": "Pages: i-vi, 271-540, vii-xxiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb00568.x"
+        },
+        {
+            "no": "2",
+            "title": "An Empirical Test of the Impact of Managerial Self\u2010Interest on Corporate Capital Structure",
+            "date": "June 1988",
+            "author": [
+                "IRWIN FRIEND",
+                "LARRY H. P. LANG"
+            ],
+            "abstract": "This paper provides a test of whether capital structure decisions are at least in part motivated by managerial self\u2010interest. It is shown that the debt ratio is negatively related to management's shareholding, reflecting the greater nondiversifiable risk of debt to management than to public investors for maintaining a low debt ratio. Unless there is a nonmanagerial principal stockholder, no substantial increase of debt can be realized, which may suggest that the existence of large nonmanagerial stockholders might make the interests of managers and public investors coincide.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03938.x"
+        },
+        {
+            "no": "3",
+            "title": "Time\u2010Invariant Portfolio Insurance Strategies",
+            "date": "June 1988",
+            "author": [
+                "MICHAEL J. BRENNAN",
+                "EDUARDO S. SCHWARTZ"
+            ],
+            "abstract": "This paper characterizes the complete class of time\u2010invariant portfolio insurance strategies and derives the corresponding value functions that relate the wealth accumulated under the strategy to the value of the underlying insured portfolio. Time\u2010invariant strategies are shown to correspond to the long\u2010run policies for a broad class of portfolio insurance payoff functions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03939.x"
+        },
+        {
+            "no": "4",
+            "title": "Option Bounds with Finite Revision Opportunities",
+            "date": "June 1988",
+            "author": [
+                "PETER H. RITCHKEN",
+                "SHYANJAW KUO"
+            ],
+            "abstract": "This article generalizes the single\u2010period linear\u2010programming bounds on option prices by allowing for a finite number of revision opportunities. It is shown that, in an incomplete market, the bounds on option prices can be derived using a modified binomial option\u2010pricing model. Tighter bounds are developed under more restrictive assumptions on probabilities and risk aversion. For this case the upper bounds are shown to coincide with the upper bounds derived by Perrakis, while the lower bounds are shown to be tighter.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03940.x"
+        },
+        {
+            "no": "5",
+            "title": "An Unconditional Asset\u2010Pricing Test and the Role of Firm Size as an Instrumental Variable for Risk",
+            "date": "June 1988",
+            "author": [
+                "K. C. CHAN",
+                "NAI\u2010FU CHEN"
+            ],
+            "abstract": "In an intertemporal economy where both risk (stock beta) and expected return are time varying, the authors derive a linear relation between the unconditional beta and the unconditional return under certain stationarity assumptions about the stochastic process of size\u2010portfolio betas. The model suggests the use of long time periods to estimate the unconditional portfolio betas. The authors find that, after controlling for the betas thus estimated, a firm\u2010size proxy, such as the logarithm of the firm size, does not have explanatory power for the averaged returns across the size\u2010ranked portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03941.x"
+        },
+        {
+            "no": "6",
+            "title": "Exact Arbitrage Pricing and the Minimum\u2010Variance Frontier",
+            "date": "June 1988",
+            "author": [
+                "JONATHAN TIEMANN"
+            ],
+            "abstract": "The author examines the relationship between the Arbitrage Pricing Theory of Ross and mean\u2010variance analysis. In particular, conditions are derived on the vector of the factor risk premia that are equivalent to the existence of a strictly positively weighted portfolio on the minimum\u2010variance frontier. Also, a sufficient condition is given under which the existence of a positive minimum\u2010variance portfolio of all the assets in the economy will imply the existence of a positive minimum\u2010variance portfolio on a subset. This means that rejection of the hypothesis of the existence of a positive minimum\u2010variance portfolio on a subset satisfying this condition implies rejection for the whole set.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03942.x"
+        },
+        {
+            "no": "7",
+            "title": "The Predictive Power of the Term Structure during Recent Monetary Regimes",
+            "date": "June 1988",
+            "author": [
+                "GIKAS A. HARDOUVELIS"
+            ],
+            "abstract": "I use weekly Treasury\u2010bill rates with maturities of one to twenty\u2010six weeks to examine the information in forward rates during the 1970s and 1980s. Forward rates contain better information about future changes in spot rates than the information captured by autoregressivea nd vector\u2010autoregressivem odels. Forward rates also have considerable predictive power, which increased after October 1979 and remained strong after October 1982. The results show no necessary connection between interest rate predictability and the degree to which the Fed adheres to interest rate targeting.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03943.x"
+        },
+        {
+            "no": "8",
+            "title": "The Effect of Taxes and Depreciation on Corporate Investment and Financial Leverage",
+            "date": "June 1988",
+            "author": [
+                "ROBERT M. DAMMON",
+                "LEMMA W. SENBET"
+            ],
+            "abstract": "This paper provides an analysis of the effect of corporate and personal taxes on the firm's optimal investment and financing decisions under uncertainty. It extends the DeAngelo and Masulis capital structure model by endogenizing the firm's investment decision. The authors' results indicate that, when investment is allowed to adjust optimally, the existing predictions about the relationship between investment\u2010related and debt\u2010related tax shields must be modified. In particular, the authors show that increases in investment\u2010related tax shields due to changes in the corporate tax code are not necessarily associated with reductions in leverage at the individual firm level. In cross\u2010sectional analysis, firms with higher investment\u2010related tax shields (normalized by expected earnings) need not have lower debt\u2010related tax shields (normalized by expected earnings) unless all firms utilize the same production technology. Differences in production technologies across firms may thus explain why the empirical results of recent cross\u2010sectional studies have not conformed to the predictions of DeAngelo and Masulis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03944.x"
+        },
+        {
+            "no": "9",
+            "title": "Loan Sales and the Cost of Bank Capital",
+            "date": "June 1988",
+            "author": [
+                "GEORGE G. PENNACCHI"
+            ],
+            "abstract": "This paper considers a model where banks may improve the returns on loans by monitoring borrowers. Bank regulation, together with competitive deposit and equity financing, can give banks an incentive to sell loans, but the extent of their loan selling is limited by a moral\u2010hazard problem. A solution is given for the optimal design of the bank\u2010loan buyer contract that alleviates this moral\u2010hazard problem. An explanation is also given as to why some banks might buy loans and why loan sales volume has recently increased.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03945.x"
+        },
+        {
+            "no": "10",
+            "title": "Bond Covenants and Delegated Monitoring",
+            "date": "June 1988",
+            "author": [
+                "MITCHELL BERLIN",
+                "JAN LOEYS"
+            ],
+            "abstract": "This paper examines alternative contracting arrangements available to a firm seeking to finance an investment project. The authors consider the choice between loan contracts with covenants based on noisy indicators of the firm's financial health and loan contracts enforced by a monitoring specialist. In one interpretation, the specialist is a financial intermediary. The firm's choice is shown to depend upon the firm's credit rating, the accuracy of financial indicators of the firm's condition, the loss from premature liquidation of the firm's project, and the cost of monitoring.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03946.x"
+        },
+        {
+            "no": "11",
+            "title": "A Generalized Econometric Model and Tests of a Signalling Hypothesis with Two Discrete Signals",
+            "date": "June 1988",
+            "author": [
+                "SANKARSHAN ACHARYA*"
+            ],
+            "abstract": "To test the major prediction of a signalling hypothesis\u2010that the market price is monotonic in the signal\u2010the price response to the signal must be measured. Since a signal is an outcome of a rational decision rule of the signaller, the market can infer the true type of the signaller from the signal. This necessitates estimation of the price response to the signal, conditional on the rational decision rule. Thus, the empirical models (e.g., event studies in corporate finance) that estimate the market price responses to signals without conditioning on the rational decision rules are misspecified if viewed as tests of the prediction of a signalling hypothesis. This paper builds a generalized econometric model with two possible discrete signals, derives the rational decision rules, presents a simple estimator of the price response to a signal, and illustrates its use in testing a recently expounded hypothesis that firms signal their true value by forcing or not forcing an outstanding convertible bond.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03947.x"
+        },
+        {
+            "no": "12",
+            "title": "From T\u2010Bills to Common Stocks: Investigating the Generality of Intra\u2010Week Return Seasonality",
+            "date": "June 1988",
+            "author": [
+                "MARK J. FLANNERY",
+                "ARIS A. PROTOPAPADAKIS"
+            ],
+            "abstract": "The authors investigate the extent to which intra\u2010week seasonality still exists and whether its pattern is uniform across three stock indices and Treasury bonds with seven different maturities. They find that intra\u2010week seasonality continues to be significant and that its pattern is not uniform, either between the stock indices and the Treasury bonds or even among the bonds alone. A pattern shared by stocks and bonds is that Monday returns become increasingly negative with maturity. These findings suggest that neither institutional nor general\u2010equilibriumex planations by themselves can explain the pattern of intra\u2010week seasonality in securities markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03948.x"
+        },
+        {
+            "no": "13",
+            "title": "Estimating the Volatility of Discrete Stock Prices",
+            "date": "June 1988",
+            "author": [
+                "D. CHINHYUNG CHO",
+                "EDWARD W. FREES"
+            ],
+            "abstract": "This paper introduces an estimator of stock price volatility that eliminates, at least asymptotically, the biases that are caused by the discreteness of observed stock prices. Assuming that the observed stock prices are continuously monitored, an estimator is constructed using the notion of how quickly the price changes rather than how much the price changes. It is shown that this estimator has desirable asymptotic properties, including consistency and asymptotic normality. Also, through a simulation study, the authors show that it outperforms natural estimators for the low\u2010 and middle\u2010priced stocks. Furthermoret, he simulation study demonstratest hat the proposed estimator is robust to certain misspecifications in measuring the time between price changes.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03949.x"
+        },
+        {
+            "no": "14",
+            "title": "Intradaily Price\u2010Volume Adjustments of NYSE Stocks to Unexpected Earnings",
+            "date": "June 1988",
+            "author": [
+                "CATHERINE S. WOODRUFF",
+                "A. J. SENCHACK Jr."
+            ],
+            "abstract": "The speed and path of adjustment in stocks to the degree of earnings surprise in their quarterly announcements are studied using price\u2010volume transactions data. A differential price\u2010adjustmentp rocess was observed,w ith stocks having large,p ositive earnings surprises experiencing a faster adjustment compared with those stocks with negative earnings surprises. Volume, transaction frequency, and size were found to be directly related to the absolute degree of surprise,b ut very favorablee arnings\u2010surprises tocks experienced initially a large number of smaller trades while stocks with large unfavorable earnings surprises had relatively fewer transactions but higher volume per trade.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03950.x"
+        },
+        {
+            "no": "15",
+            "title": "Warrant Exercise, Dividends, and Reinvestment Policy",
+            "date": "June 1988",
+            "author": [
+                "CHESTER S. SPATT",
+                "FREDERIC P. STERBENZ"
+            ],
+            "abstract": "In this paper, we examine sequential exercise strategies by warrantholders and the gain from hoarding warrants. We analyze several obstacles to acquiring large blocks in order to exploit sequential strategies. First, we identify several reinvestment policies for which sequential exercise is not advantageous, thereby eliminating the gain from hoarding. However, sequential exercise strategies may be advantageous for monopoly or oligopoly warrantholders, even absent dividends, because using exercise proceeds to repurchase stock or to expand the firm's scale increases the riskiness of an equity share. Second, oligopoly warrantholders can receive a smaller warrant value than perfectly competitive warrantholders, suggesting a potential cost to unsuccessful hoarding.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03951.x"
+        },
+        {
+            "no": "16",
+            "title": "Debt/Equity Ratio and Expected Common Stock Returns: Empirical Evidence",
+            "date": "June 1988",
+            "author": [
+                "LAXMI CHAND BHANDARI"
+            ],
+            "abstract": "The expected common stock returns are positively related to the ratio of debt (noncommon equity liabilities) to equity, controlling for the beta and firm size and including as well as excluding January, though the relation is much larger in January. This relationship is not sensitive to variations in the market proxy, estimation technique, etc. The evidence suggests that the \u201cpremium\u201d associated with the debt/equity ratio is not likely to be just some kind of \u201crisk premium\u201d.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03952.x"
+        },
+        {
+            "no": "17",
+            "title": "A Mean\u2010Variance Synthesis of Corporate Financial Theory: A Note",
+            "date": "June 1988",
+            "author": [
+                "C. R. NARAYANASWAMY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03953.x"
+        },
+        {
+            "no": "18",
+            "title": "Book Reviews",
+            "date": "June 1988",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nBusiness Cycles and Equilibrium. By FISCHER BLACK. New York: Basil Blackwell, 1987. Pp. xi + 180.\nCorporate Finance. By STEPHEN A. ROSS and RANDOLPH W. WESTERFIELD. St. Louis: Times Mirror/Mosby, 1988. Pp, xxvii + 857.\nFinance Theory. By ROBERT JARROW. Englewood Cliffs: Prentice\u2010Hall, 1988. Pp. xiv + 298.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03954.x"
+        },
+        {
+            "no": "19",
+            "title": "MISCELLANEA",
+            "date": "June 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03955.x"
+        },
+        {
+            "no": "20",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03936.x"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb03937.x"
+        },
+        {
+            "no": "22",
+            "title": "Back Matter",
+            "date": "June 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb00569.x"
+        }
+    ]
+}

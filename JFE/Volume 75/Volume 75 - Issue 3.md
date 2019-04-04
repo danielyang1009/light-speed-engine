@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Investment timing, agency, and information
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Steven R. Grenadier
 - Neng Wang
 ### Abstract
@@ -25,7 +25,7 @@ This paper provides a model of investment timing by managers in a decentralized 
 ## 3. Financial intermediation as a beliefs-bridge between optimists and pessimists
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Joshua D. Coval
 - Anjan V. Thakor
 ### Abstract
@@ -36,7 +36,7 @@ This paper proposes a new framework for understanding financial intermediation. 
 ## 4. Dealer behavior and trading systems in foreign exchange markets
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Geir Høidal Bjønnes
 - Dagfinn Rime
 ### Abstract
@@ -47,7 +47,7 @@ We study dealer behavior in the foreign exchange spot market using detailed obse
 ## 5. Short- and long-term demand curves for stocks: theory and evidence on the dynamics of arbitrage
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Robin Greenwood
 ### Abstract
 I develop a framework to analyze demand curves for multiple risky securities at extended horizons in a setting with limits-to-arbitrage. Following an unexpected change in uninformed investor demand for several assets, I predict returns of each security to be proportional to the contribution of that security's demand shock to the risk of a diversified arbitrage portfolio. I show that securities that are not affected by demand shocks but are correlated with securities undergoing changes in demand should experience returns related to their hedging role in arbitrageurs' portfolios. Finally, I predict a negative cross-sectional relation between post-event returns and the initial return associated with the change in demand. I confirm these predictions using data from a unique redefinition of the Nikkei 225 index in Japan, in which 255 stocks simultaneously undergo significant changes in index investor demand, causing more than
@@ -62,7 +62,7 @@ billion of trading in one week and large price changes followed by subsequent re
 ## 6. Stock and bond market interaction: Does momentum spill over?
 ### Date
 - Mar 2004
-### Authors
+### Author
 - William R. Gebhardt
 - Soeren Hvidkjaer
 - Bhaskaran Swaminathan
@@ -74,7 +74,7 @@ This paper examines the interaction between momentum in the returns of equities 
 ## 7. News spillovers in the sovereign debt market
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Amar Gande
 - David C. Parsley
 ### Abstract
@@ -85,7 +85,7 @@ We study the effect of a sovereign credit rating change of one country on the so
 ## 8. Index
 ### Date
 - Mar 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link

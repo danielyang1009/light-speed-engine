@@ -1,0 +1,129 @@
+{
+    "journal": "RFS",
+    "volume": "30",
+    "issue": "11",
+    "date": "November 2017",
+    "page": "Pages 3711\u20134081",
+    "article": [
+        {
+            "no": "1",
+            "title": "Credit-Induced Boom and Bust",
+            "date": "30 June 2017",
+            "author": [
+                "Marco Di Maggio",
+                "Amir Kermani"
+            ],
+            "abstract": "This paper exploits the federal preemption of national banks in 2004 from local laws against predatory lending to gauge the effect of the supply of credit on the real economy. First, the preemption regulation resulted in an 11% increase in annual lending in the 2004\u20132006 period, which is associated with a 3.3% rise in annual house price growth rate and a 2.2% expansion of employment in nontradable sectors. This was followed by a sharp decline in subsequent years. Furthermore, we show that the increase in the supply of credit reduced delinquencies during boom years, but increased them in bust years.",
+            "link": "https://doi.org/10.1093/rfs/hhx056"
+        },
+        {
+            "no": "2",
+            "title": "The Dynamics of Investment, Payout and Debt",
+            "date": "19 July 2017",
+            "author": [
+                "Bart M. Lambrecht",
+                "Stewart C. Myers"
+            ],
+            "abstract": "We develop a dynamic agency model of a public corporation. Managers underinvest because of risk aversion. They smooth rents and payout. They do not exploit interest tax shields fully. The interactions of investment, debt, and payout decisions can change drastically depending on managers\u2019 preferences. Managers with power utility set investment, debt, and payout proportional to the firm\u2019s net worth, generating a constant (possibly negative) net debt ratio. With exponential utility, investment decisions are separated from decisions about debt and payout. More profitable firms become cash cows, and less profitable firms accumulate debt, as in a pecking-order model.",
+            "link": "https://doi.org/10.1093/rfs/hhx081"
+        },
+        {
+            "no": "3",
+            "title": "Do Professional Norms in the Banking Industry Favor Risk-taking?",
+            "date": "02 February 2017",
+            "author": [
+                "Alain Cohn",
+                "Ernst Fehr",
+                "Michel Andr\u00e9 Mar\u00e9chal"
+            ],
+            "abstract": "In recent years, the banking industry has witnessed several cases of excessive risk-taking that frequently have been attributed to problematic professional norms. We conduct experiments with employees from several banks in which we manipulate the saliency of their professional identity and subsequently measure their risk aversion in a real stakes investment task. If bank employees are exposed to professional norms that favor risk-taking, they should become more willing to take risks when their professional identity is salient. We find, however, that subjects take significantly less risk, challenging the view that the professional norms generally increase bank employees\u2019 willingness to take risks.",
+            "link": "https://doi.org/10.1093/rfs/hhx003"
+        },
+        {
+            "no": "4",
+            "title": "When Are Modifications of Securitized Loans Beneficial to Investors?",
+            "date": "29 May 2017",
+            "author": [
+                "Gonzalo Maturana"
+            ],
+            "abstract": "Loan modification is widely discussed as an alternative to foreclosure, but little research has focused on quantifying its effect on loan performance. I quantify this effect early in the housing crisis by exploiting exogenous variation in the incentives to modify securitized nonagency loans. An additional modification reduces loan losses by 35.8% relative to the average loss; this reduction suggests that the marginal benefit of modification likely exceeded the marginal cost. Consistent with the idea that high-income borrowers may be better equipped to withstand bad economic times, I find that modifications are especially beneficial when borrowers have larger loans.",
+            "link": "https://doi.org/10.1093/rfs/hhx053"
+        },
+        {
+            "no": "5",
+            "title": "The Effects of Quantitative Easing on Bank Lending Behavior",
+            "date": "14 June 2017",
+            "author": [
+                "Alexander Rodnyansky",
+                "Olivier M. Darmouni"
+            ],
+            "abstract": "Banks\u2019 exposure to large-scale asset purchases, as measured by the relative prevalence of mortgage-backed securities on their books, affects lending following unconventional monetary policy shocks. Using a difference-in-differences identification strategy, this paper finds strong effects of the first and third round of quantitative easing (QE1 and QE3) on credit. Highly affected commercial banks increase lending by 2% to 3% relative to their counterparts. QE2 had no significant impact, consistent with its exclusive focus on Treasuries sparsely held by banks. Overall, banks respond heterogeneously, and the type of asset being targeted is central to QE.",
+            "link": "https://doi.org/10.1093/rfs/hhx063"
+        },
+        {
+            "no": "6",
+            "title": "Endogenous Leverage and Advantageous Selection in Credit Markets",
+            "date": "13 September 2016",
+            "author": [
+                "Plamen T. Nenov"
+            ],
+            "abstract": "I study asset price amplification in an asymmetric information model. Entrepreneurs issue debt to finance investments in a physical asset. They have private information about their success probabilities. For a given debt level, higher asset prices require entrepreneurs to invest more of their own funds. This makes bad entrepreneurs more reluctant to mimic good ones; as a result, good entrepreneurs increase their equilibrium leverage and invest more, and this amplifies the initial asset price increase. This model generates predictions about the credit market that are qualitatively consistent with existing evidence.",
+            "link": "https://doi.org/10.1093/rfs/hhw077"
+        },
+        {
+            "no": "7",
+            "title": "Contingent Capital, Tail Risk, and Debt-Induced Collapse",
+            "date": "11 July 2017",
+            "author": [
+                "Nan Chen",
+                "Paul Glasserman",
+                "Behzad Nouri",
+                "Markus Pelger"
+            ],
+            "abstract": "We study the design and incentive effects of contingent convertible debt. With contingent convertibles, the endogenous bankruptcy boundary can be at either of two levels: one with lower default risk or one at which default precedes conversion. An increase in debt moves the firm from the first regime to the second, a phenomenon we call debt-induced collapse. Setting the conversion trigger sufficiently high avoids this hazard. Given this condition, we investigate the effect of contingent capital and debt maturity on optimal capital structure, debt overhang, and asset substitution. We calibrate the model to large banks during the financial crisis.",
+            "link": "https://doi.org/10.1093/rfs/hhx067"
+        },
+        {
+            "no": "8",
+            "title": "Risk-Based Capital Requirements for Banks and International Trade",
+            "date": "27 July 2017",
+            "author": [
+                "Banu Demir",
+                "Tomasz K. Michalski",
+                "Evren Ors"
+            ],
+            "abstract": "We test the trade finance channel of exports by controlling for the bank credit channel. Using Turkey\u2019s July 2012 adoption of Basel II as a quasi-natural experiment, we examine whether shocks to trade financing costs affect exports. With data for 16,662 Turkish exporters shipping 2,888 different products to 158 countries, we find that the share of letters-of-credit-based exports decreases (increases) when the associated risk weights for counterparty exposure increase (decrease) after the adoption of Basel II. However, growth of firm-product-country-level exports remains unaffected. Trade financing might have a lesser role in exports than previously suggested by the previous literature.",
+            "link": "https://doi.org/10.1093/rfs/hhx062"
+        },
+        {
+            "no": "9",
+            "title": "Speculation and the Term Structure of Interest Rates",
+            "date": "14 June 2017",
+            "author": [
+                "Francisco Barillas",
+                "Kristoffer P. Nimark"
+            ],
+            "abstract": "We develop and estimate a tractable equilibrium term structure model populated with rational but heterogeneously informed traders that take on speculative positions to exploit what they perceive to be inaccurate market expectations about future bond prices. The speculative motive is an important driver of trading volume. Yield dynamics due to speculation are (1) statistically distinct from classical term structure components due to risk premiums and expectations about future short rates and are orthogonal to public information available to traders in real time and (2) quantitatively important, accounting for a substantial fraction of the variation of long maturity U.S. bond yields.",
+            "link": "https://doi.org/10.1093/rfs/hhx059"
+        },
+        {
+            "no": "10",
+            "title": "De Facto Seniority, Credit Risk, and Corporate Bond Prices",
+            "date": "24 August 2017",
+            "author": [
+                "Jack Bao",
+                "Kewei Hou"
+            ],
+            "abstract": "We study the effect of a bond\u2019s place in its issuer\u2019s maturity structure on credit risk. Using a structural model as motivation, we argue that bonds due relatively late in their issuers\u2019 maturity structure have greater credit risk than do bonds due relatively early. Empirically, we find robust evidence that these later bonds have larger yield spreads and greater comovement with equity and that the magnitude of the effects is consistent with model predictions for investment-grade bonds. Our results highlight the importance of bond-specific credit risk for understanding corporate bond prices.",
+            "link": "https://doi.org/10.1093/rfs/hhx082"
+        },
+        {
+            "no": "11",
+            "title": "Erratum",
+            "date": "16 October 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhx110"
+        }
+    ]
+}

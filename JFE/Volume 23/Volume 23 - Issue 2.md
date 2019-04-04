@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -19,7 +19,7 @@
 ## 2. A nonlinear general equilibrium model of the term structure of interest rates
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Francis A. Longstaff
 ### Abstract
 We derive and test an alternative closed-form general equilibrium model of the term structure within the Cox, Ingersoll, and Ross theoretical framework in which yields are nonlinear functions of the risk-free rate. We show that equilibrium bond prices and the risk-free rate are not always inversely related and that bond risk need not be strictly increasing in maturity. Using Hansen's generalized method of moments to obtain parameter estimates, this nonlinear model outperforms the Cox, Ingersoll, and Ross square root model in describing actual Treasury bill yields for the 1964–1986 period.
@@ -29,7 +29,7 @@ We derive and test an alternative closed-form general equilibrium model of the t
 ## 3. Shareholder wealth effects of corporate takeovers
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Julian R. Franks
 - Robert S. Harris
 ### Abstract
@@ -40,7 +40,7 @@ This paper examines the effects of over 1,800 U.K. takeovers on shareholder weal
 ## 4. A direct test of Rock's model of the pricing of unseasoned issues
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Francis Koh
 - Terry Walter
 ### Abstract
@@ -51,7 +51,7 @@ Unique data availability and institutional arrangements for new issues in Singap
 ## 5. Voluntary conversion of convertible securities and the optimal call strategy
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Kenneth B. Dunn
 - Kenneth M. Eades
 ### Abstract
@@ -62,7 +62,7 @@ We provide an explanation of why convertibles are called long after the conversi
 ## 6. Signalling by underpricing in the IPO market
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Franklin Allen
 - Gerald R. Faulhaber
 ### Abstract
@@ -73,7 +73,7 @@ Empirical evidence suggests the existence of ‘hot-issue’ markets for initial
 ## 7. A critique of latent variable tests of asset pricing models
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Simon M. Wheatley
 ### Abstract
 Latent variable tests of asset pricing models make assumptions about the joint distribution of observable returns and unobservable benchmark returns. These tests can falsely accept models when a mean-variance efficient portfolio other than the benchmark satisfies the distributional assumptions imposed on the benchmark portfolio. Also, because the assumptions are untestable, there is no way to discover whether a model is being rejected because the assumptions are false. Without these assumptions, however, latent variable tests can be viewed only as tests of distributional hypotheses about mean-variance efficient portfolios of unknown composition.
@@ -83,7 +83,7 @@ Latent variable tests of asset pricing models make assumptions about the joint d
 ## 8. Trader rationality in the exercise of futures options
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Gerald D Gay
 - Robert W Kolb
 - Kenneth Yung
@@ -95,7 +95,7 @@ We examine the rationality of investor exercise behavior by analyzing two years'
 ## 9. The behavior of prices in the Nikkei spot and futures market
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Menachem Brenner
 - Marti G Subrahmanyam
 - Jun Uno
@@ -107,7 +107,7 @@ We examine the relation between the prices of Japanese stocks traded on the Toky
 ## 10. A nonparametric test for abnormal security-price performance in event studies
 ### Date
 - Aug 1989
-### Authors
+### Author
 - Charles J Corrado
 ### Abstract
 This paper evaluates a new nonparametric rank test for abnormal security-price performance in event studies. Simulations with daily security-return data show that the rank test is better specified under the null hypothesis and more powerful under the alternative hypothesis than the parametric t-test. Unlike previous nonparametric tests, this rank test does not require symmetry in cross-sectional excess returns distributions for correct specification.
@@ -117,7 +117,7 @@ This paper evaluates a new nonparametric rank test for abnormal security-price p
 ## 11. News item
 ### Date
 - Aug 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -126,7 +126,7 @@ This paper evaluates a new nonparametric rank test for abnormal security-price p
 ## 12. Index
 ### Date
 - Aug 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link

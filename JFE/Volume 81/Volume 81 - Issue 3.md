@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. External finance constraints and the intertemporal pattern of intermittent investment
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Toni M. Whited
 ### Abstract
 Do external finance constraints affect the timing of large investment projects? Simulations of a model with fixed capital-stock adjustment costs establish the hypothesis that external finance constraints lower a firm's investment hazard: the probability of undertaking a large project today as a function of the time since the last project. Hazard model estimation that controls for productivity and adjustment costs supports this hypothesis. Small firms that distribute cash to shareholders have higher hazards than small firms that do not; very small firms have lower hazards than small firms; small stand-alone firms have significantly lower hazards than small segments of conglomerates.
@@ -24,7 +24,7 @@ Do external finance constraints affect the timing of large investment projects? 
 ## 3. Evidence on the effects of bank competition on firm borrowing and investment
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Rebecca Zarutskie
 ### Abstract
 This paper presents evidence on the financial and real effects of bank competition using a large panel of privately held firms. I trace the firm-level impact of the Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994, which increased the competitiveness of U.S. banking markets. Following the deregulation, newly formed firms used significantly less external debt, were smaller, and realized higher returns on assets, consistent with their investing less due to greater financial constraints. These effects diminish as firms age, ultimately reversing sign. The differential impact that banking market reforms may have on newer and more established firms is underscored.
@@ -34,7 +34,7 @@ This paper presents evidence on the financial and real effects of bank competiti
 ## 4. Dividend policy, signaling, and discounts on closed-end funds
 ### Date
 - Aug 2005
-### Authors
+### Author
 - Shane A. Johnson
 - Ji-Chai Lin
 - Kyojik Roy Song
@@ -46,7 +46,7 @@ We test the predictions of dividend signaling models using closed-end equity fun
 ## 5. Tax shelters and corporate debt policy
 ### Date
 - Sep 2005
-### Authors
+### Author
 - John R. Graham
 - Alan L. Tucker
 ### Abstract
@@ -57,7 +57,7 @@ We gather a unique sample of 44 tax shelter cases to investigate the magnitude o
 ## 6. Output and expected returns
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Jesper Rangvid
 ### Abstract
 This paper shows for 1929–2003 U.S. data and also for international G-7 data that the ratio of share prices to GDP tracks a large fraction of the variation over time in expected returns on the aggregate stock market, capturing more of that variation than do price–earnings and price–dividend ratios and often also providing additional information about excess returns. The price–output ratio tracks long-term U.S. cumulative stock returns almost as well as the cay-ratio of Lettau and Ludvigson [2001a. Journal of Finance 56, 815–849, 2005. Journal of Financial Economics 76, 583–626], although the cay-ratio tracks variation in U.S. excess returns better. The price–output ratio, however, involves no parameter estimation and is easily constructed for non-U.S. countries.
@@ -67,7 +67,7 @@ This paper shows for 1929–2003 U.S. data and also for international G-7 data t
 ## 7. Stock market liberalization and operating performance at the firm level
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Todd Mitton
 ### Abstract
 I use firm-specific measures of openness to foreign investors to study the impact of stock market liberalization on firm-level operating performance. In a sample of over 1,100 firms from 28 countries, firms with stocks that are open to foreign investors experience higher growth, greater investment, greater profitability, greater efficiency, and lower leverage. Strategies to address potential endogeneity suggest that the observed relation reflects, at least in part, a causal effect of openness on operating performance.
@@ -77,7 +77,7 @@ I use firm-specific measures of openness to foreign investors to study the impac
 ## 8. IPOs, acquisitions, and the use of convertible securities in venture capital
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Thomas Hellmann
 ### Abstract
 This paper provides a new explanation for the use of convertible securities in venture capital. A key property of convertible preferred equity is that it allocates different cash flow rights, depending on whether exit occurs by acquisition or IPO. The paper builds a model with double moral hazard, where both the entrepreneur and the venture capitalist provide value-adding effort. The optimal contract gives the venture capitalist more cash flow rights in acquisitions than IPOs. This explains the use of convertible preferred equity, including automatic conversion at IPO. Contingent control rights are also important for achieving efficient exit decisions.
@@ -87,7 +87,7 @@ This paper provides a new explanation for the use of convertible securities in v
 ## 9. Shareholder wealth effects and bid negotiation in freeze-out deals: Are minority shareholders left out in the cold?
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Thomas W. Bates
 - Michael L. Lemmon
 - James S. Linck
@@ -99,7 +99,7 @@ This paper examines the shareholder wealth effects of bids by controlling shareh
 ## 10. Author index to volume 81
 ### Date
 - Sep 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link

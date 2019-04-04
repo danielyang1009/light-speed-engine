@@ -1,0 +1,157 @@
+{
+    "journal": "RFS",
+    "volume": "27",
+    "issue": "1",
+    "date": "January 2014",
+    "page": "Pages 1\u2013372",
+    "article": [
+        {
+            "no": "1",
+            "title": "Entrepreneurial Finance and Innovation: An Introduction and Agenda for Future Research",
+            "date": "16 December 2013",
+            "author": [
+                "Thomas J. Chemmanur",
+                "Paolo Fulghieri"
+            ],
+            "abstract": "The increasingly large role played by financial intermediaries, such as venture capitalists and angels, in nurturing entrepreneurial firms and in promoting product market innovation has led to great research interest in the area of entrepreneurial finance and innovation. This paper introduces the special issue of the Review of Financial Studies dedicated to entrepreneurial finance and innovation and highlights some of the promising topics for future research in this area. The special issue combines papers presented at the June 2010 \u201cEntrepreneurial Finance and Innovation (EFIC)\u201d conference, which was jointly sponsored by the Kauffman Foundation and the Review of Financial Studies, with other related papers.",
+            "link": "https://doi.org/10.1093/rfs/hht063"
+        },
+        {
+            "no": "2",
+            "title": "The Consequences of Entrepreneurial Finance: Evidence from Angel Financings",
+            "date": "09 October 2011",
+            "author": [
+                "William R. Kerr",
+                "Josh Lerner",
+                "Antoinette Schoar"
+            ],
+            "abstract": "This article documents the fact that ventures funded by two successful angel groups experience superior outcomes to rejected ventures: They have improved survival, exits, employment, patenting, Web traffic, and financing. We use strong discontinuities in angel- funding behavior over small changes in their collective interest levels to implement a regression discontinuity approach. We confirm the positive effects for venture operations, with qualitative support for a higher likelihood of successful exits. On the other hand, there is no difference in access to additional financing around the discontinuity. This might suggest that financing is not a central input of angel groups.",
+            "link": "https://doi.org/10.1093/rfs/hhr098"
+        },
+        {
+            "no": "3",
+            "title": "Venture Capitalists on Boards of Mature Public Firms",
+            "date": "03 September 2012",
+            "author": [
+                "Ugur Celikyurt",
+                "Merih Sevilir",
+                "Anil Shivdasani"
+            ],
+            "abstract": "Venture capitalists (VCs) often serve on the board of mature public firms long after their initial public offering (IPO), even for companies that were not VC-backed at the IPO. Board appointments of VC directors are followed by increases in research and development intensity, innovation output, and greater deal activity with other VC-backed firms. VC director appointments are associated with positive announcement returns and are followed by an improvement in operating performance. Firms experience higher announcement returns from acquisitions of VC-backed targets following the appointment of a VC director to the board. Hence, in addition to providing finance, monitoring and advice for small private firms, VCs play a significant role in mature public firms and have a broader influence in promoting innovation than has been established in the literature.",
+            "link": "https://doi.org/10.1093/rfs/hhs096"
+        },
+        {
+            "no": "4",
+            "title": "Informational Holdup and Performance Persistence in Venture Capital",
+            "date": "31 July 2013",
+            "author": [
+                "Yael V. Hochberg",
+                "Alexander Ljungqvist",
+                "Annette Vissing-J\u00f8rgensen"
+            ],
+            "abstract": "Why don\u2019t VCs eliminate excess demand for follow-on funds by raising fees? We propose a model of learning that leads to informational holdup. Current investors learn about skill whereas outside investors observe only returns. This gives current investors holdup power when the VC raises his next fund: Without their backing, no-one will fund him, as outside investors interpret the lack of backing as a sign of low skill. Holdup power diminishes the VC\u2019s ability to increase fees in line with performance, leading to return persistence. Empirical evidence supports the model. We estimate that up to two-thirds of VC firms lack skill.",
+            "link": "https://doi.org/10.1093/rfs/hht046"
+        },
+        {
+            "no": "5",
+            "title": "The Capital Structure Decisions of New Firms",
+            "date": "09 July 2012",
+            "author": [
+                "Alicia M. Robb",
+                "David T. Robinson"
+            ],
+            "abstract": "We study capital structure choices that entrepreneurs make in their firms' initial year of operation, using restricted-access data from the Kauffman Firm Survey. Firms in our data rely heavily on external debt sources, such as bank financing, and less extensively on friends-and-family-based funding sources. Many startups receive debt financed through the personal balance sheets of the entrepreneur, effectively resulting in the entrepreneur holding levered equity claims in their startups. This fact is robust to numerous controls, including credit quality. The reliance on external debt underscores the importance of credit markets for the success of nascent business activity.",
+            "link": "https://doi.org/10.1093/rfs/hhs072"
+        },
+        {
+            "no": "6",
+            "title": "Real Option Financing Under Asymmetric Information",
+            "date": "12 June 2012",
+            "author": [
+                "Matthieu Bouvard"
+            ],
+            "abstract": "This study examines the financing of innovation in the presence of adverse selection in the capital market. An entrepreneur with private information needs outside funding for a project requiring costly experimentation. Equilibrium contracts use the duration of the experimentation period, together with pay-for-performance, to signal information to outside investors. As a result, investment is delayed, entrepreneurs with stronger growth options receive vested stock options, and entrepreneurs with a lower probability of success are compensated in case of failure. These predictions are in line with empirical evidence on venture capital contracts, and on the impact of internal financing on risk taking.",
+            "link": "https://doi.org/10.1093/rfs/hhs068"
+        },
+        {
+            "no": "7",
+            "title": "Tolerance for Failure and Corporate Innovation",
+            "date": "05 December 2011",
+            "author": [
+                "Xuan Tian",
+                "Tracy Yue Wang"
+            ],
+            "abstract": "Based on a sample of venture capital (VC)-backed IPO firms, we examine whether tolerance for failure spurs corporate innovation. We develop a novel measure of VC investors' failure tolerance by examining their willingness to continue investing in underperforming ventures. We find that IPO firms backed by more failure-tolerant VC investors are significantly more innovative and VC failure tolerance is particularly important for ventures that are subject to high failure risk. We show that these results are not driven by endogenous matching between failure-tolerant VC firms and start-ups with high ex ante innovative potential. We also examine the determinants of the cross-sectional heterogeneity in a VC firm's failure tolerance. We find that both capital constraints and career concerns can negatively distort a VC firm's failure tolerance. Less experienced VC firms are more exposed to these distortions, making them less failure tolerant than are more established VC firms.",
+            "link": "https://doi.org/10.1093/rfs/hhr130"
+        },
+        {
+            "no": "8",
+            "title": "Incentives to Innovate and the Decision to Go Public or Private",
+            "date": "09 July 2012",
+            "author": [
+                "Daniel Ferreira",
+                "Gustavo Manso",
+                "Andr\u00e9 C. Silva"
+            ],
+            "abstract": "We model the impact of public and private ownership structures on firms' incentives to invest in innovative projects. We show that it is optimal to go public when exploiting existing ideas and optimal to go private when exploring new ideas. This result derives from the fact that private firms are less transparent to outside investors than are public firms. In private firms, insiders can time the market by choosing an early exit strategy if they receive bad news. This option makes insiders more tolerant of failures and thus more inclined to invest in innovative projects. In contrast, the prices of publicly traded securities react quickly to good news, providing insiders with incentives to choose conventional projects and cash in early.",
+            "link": "https://doi.org/10.1093/rfs/hhs070"
+        },
+        {
+            "no": "9",
+            "title": "Wrongful Discharge Laws and Innovation",
+            "date": "04 April 2013",
+            "author": [
+                "Viral V. Acharya",
+                "Ramin P. Baghai",
+                "Krishnamurthy V. Subramanian"
+            ],
+            "abstract": "We show that wrongful discharge laws\u2014laws that protect employees against unjust dismissal\u2014spur innovation and new firm creation. Wrongful discharge laws, particularly those that prohibit employers from acting in bad faith ex post, limit employers' ability to hold up innovating employees after the innovation is successful. By reducing the possibility of holdup, these laws enhance employees'innovative efforts and encourage firms to invest in risky but potentially mould-breaking projects. We develop a model and provide supporting empirical evidence of this effect using the staggered adoption of wrongful discharge laws across U.S. states.",
+            "link": "https://doi.org/10.1093/rfs/hht009"
+        },
+        {
+            "no": "10",
+            "title": "Interbank Liquidity Crunch and the Firm Credit Crunch: Evidence from the 2007\u20132009 Crisis",
+            "date": "07 October 2013",
+            "author": [
+                "Rajkamal Iyer",
+                "Jos\u00e9-Luis Peydr\u00f3",
+                "Samuel da-Rocha-Lopes",
+                "Antoinette Schoar"
+            ],
+            "abstract": "We study the credit supply effects of the unexpected freeze of the European interbank market, using exhaustive Portuguese loan-level data. We find that banks that rely more on interbank borrowing before the crisis decrease their credit supply more during the crisis. The credit supply reduction is stronger for firms that are smaller, with weaker banking relationships. Small firms cannot compensate the credit crunch with other sources of debt. Furthermore, the impact of illiquidity on the credit crunch is stronger for less solvent banks. Finally, we find no overall positive effects of central bank liquidity but instead higher hoarding of liquidity.",
+            "link": "https://doi.org/10.1093/rfs/hht056"
+        },
+        {
+            "no": "11",
+            "title": "Cover",
+            "date": "16 December 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht083"
+        },
+        {
+            "no": "12",
+            "title": "Editorial Board",
+            "date": "16 December 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht095"
+        },
+        {
+            "no": "13",
+            "title": "Forthcoming Articles",
+            "date": "16 December 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht107"
+        },
+        {
+            "no": "14",
+            "title": "Volume 27 Number 1 January 2014\nThe Review of Financial Studies - Table of Contents",
+            "date": "16 December 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht119"
+        }
+    ]
+}

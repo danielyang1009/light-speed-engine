@@ -1,0 +1,216 @@
+{
+    "journal": "JF",
+    "volume": "35",
+    "issue": "5",
+    "date": "December 1980",
+    "page": "Pages: i-vi, 1073-1303, vii-xxxi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "December 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb00627.x"
+        },
+        {
+            "no": "2",
+            "title": "An Empirical Investigation of the Arbitrage Pricing Theory",
+            "date": "December 1980",
+            "author": [
+                "RICHARD ROLL",
+                "STEPHEN A. ROSS"
+            ],
+            "abstract": "Empirical tests are reported for Ross' [48] arbitrage theory of asset pricing. Using data for individual equities during the 1962\u201372 period, at least three and probably four priced factors are found in the generating process of returns. The theory is supported in that estimated expected returns depend on estimated factor loadings, and variables such as the own standard deviation, though highly correlated (simply) with estimated expected returns, do not add any further explanatory power to that of the factor loadings.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02197.x"
+        },
+        {
+            "no": "3",
+            "title": "Heterogeneous Expectations, Restrictions on Short Sales, and Equilibrium Asset Prices",
+            "date": "December 1980",
+            "author": [
+                "ROBERT JARROW"
+            ],
+            "abstract": "Under heterogeneous expectations, the mean\u2013variance model of capital market equilibrium is employed to determine the effect restricting short sales has on equilibrium asset prices. Two equivalent markets differing only with respect to short sale restrictions are compared. It is shown that, in general, risky asset prices can either rise or fall due to short sale constraints. However, under a homogeneity of beliefs for the covariance matrix of future prices, short sale constraints will only increase risky asset prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02198.x"
+        },
+        {
+            "no": "4",
+            "title": "The Investment Banking Contract For New Issues Under Asymmetric Information: Delegation And The Incentive Problem",
+            "date": "December 1980",
+            "author": [
+                "DAVID P. BARON",
+                "BENGT HOLMSTR\u00d6M"
+            ],
+            "abstract": "In placing a new security issue, an investment banker has an opportunity to obtain private information by conducting preselling activities during the registration period. The task of the issuer is to design a contract that both induces the banker to use this information to the issuer's advantage and provides a disincentive for the banker to price the issue too low in order to reduce the effort required to sell the issue. This paper characterizes the class of price response functions that the issuer can induce the banker to choose under a delegation scheme and demonstrates that delegating the pricing decision to the banker can be optimal.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02199.x"
+        },
+        {
+            "no": "5",
+            "title": "Deposit Rate\u2010Setting, Risk Aversion, and the Theory of Depository Financial Intermediaries",
+            "date": "December 1980",
+            "author": [
+                "C. W. SEALEY Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02200.x"
+        },
+        {
+            "no": "6",
+            "title": "The Demand for Life Insurance: An Application of the Economics of Uncertainty",
+            "date": "December 1980",
+            "author": [
+                "RITCHIE A. CAMPBELL"
+            ],
+            "abstract": "Financial economists typically assume that capital income uncertainty, derived from investments in uncertain returned marketable securities, represents the major source of household consumption uncertainty. But, for many households, if not most, labor income uncertainty dominates capital income uncertainty.\nThis study analyzes households optimal reactions to labor income (human capital) uncertainty that is derived from the possibility of their wage earners' non\u2013survival. By introducing a risk resolution mechanism\u2014an insurance market\u2014and allowing for the possibility that future tastes may be state\u2013dependent, simple demand\u2013for\u2013insurance equations are mathematically derived to explicitly describe households optimal responses to human capital uncertainty.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02201.x"
+        },
+        {
+            "no": "7",
+            "title": "Asset Accumulation In Early Married Life",
+            "date": "December 1980",
+            "author": [
+                "ROBERT FERBER",
+                "LUCY CHAO LEE"
+            ],
+            "abstract": "This longitudinal study of the factors influencing the accumulation of financial assets by young married couples in three metropolitan areas of Illinois, finds that couples that start out with a strong financial base tend to improve their relative financial position over time. Especially intriguing is the finding that those couples that acquired initially substantial amounts of debt were more likely to be well off financially at a later time, possibly because the principal asset purchased with these debts, own home, appreciated substantially during the period studied.\nThe results also suggest that a measure of normal income becomes relevant to explaining variations in asset accumulation only after five or six years of the marriage, while socioeconomic variables other than income seemed to have relatively little effect on changes in asset holdings over time.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02202.x"
+        },
+        {
+            "no": "8",
+            "title": "A Catastrophe Model of Bank Failure",
+            "date": "December 1980",
+            "author": [
+                "THOMAS HO",
+                "ANTHONY SAUNDERS"
+            ],
+            "abstract": "Most models of bank failure have assumed that the path towards bankruptcy or insolvency is smooth and continuous. As a consequence a number of early\u2010warning systems have been suggested in the banking and financial literature to aid regulators in the identification of potential problem banks. However, these systems may be of little use when the path towards failure is explosive, involving a sudden crash or catastrophe. This paper seeks to examine such cases by applying the theory of catastrophes to bank failure. A model is developed to show how the interaction between bank management, regulators and depositors can induce catastrophic failure. It is argued that there is a crucial relationship between the power of regulatory intervention and depositors confidence levels which is both necessary and sufficient for catastrophe to occur. It is also argued that catastrophe appears to be more likely for large money market banks rather than small banks. Finally, some suggestions are made for regulatory policy and for further research in the area.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02203.x"
+        },
+        {
+            "no": "9",
+            "title": "On the Valuation of Federal Loan Guarantees to Corporations",
+            "date": "December 1980",
+            "author": [
+                "HOWARD B. SOSIN"
+            ],
+            "abstract": "Since 1956, Federal Loan Guarantee Programs have expanded to the point where recipients of guarantees represent most segments of the economy. Considerable debate centers on the determination of the magnitude of the liability of the Federal Government that is represented by these programs. This paper illustrates how option pricing techniques may be used to obtain estimates of the purely pecuniary costs of loan guarantees, interest saving to the firm on senior and junior debt, and implicit present value profitability indices of projects.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02204.x"
+        },
+        {
+            "no": "10",
+            "title": "A RATIONALE FOR DEBT MATURITY STRUCTURE AND CALL PROVISIONS IN THE AGENCY THEORETIC FRAMEWORK",
+            "date": "December 1980",
+            "author": [
+                "AMIR BARNEA",
+                "ROBERT A. HAUGEN",
+                "LEMMA W. SENBET"
+            ],
+            "abstract": "The agency costs of debt are introduced in this paper to explain the existence of complex financial instruments. Two areas of complexities are discussed in detail: the call provision and the maturity structure of debt. Their existence is rationalized as a means of resolving agency problems associated with informational asymmetry, managerial (stockholder) risk incentives, and foregone growth opportunities. It is also demonstrated that both features of corporate debt serve identical purposes in solving agency problems. Complex financial instruments are required because markets fail to provide complete and costless solutions to the agency problems discussed in the paper.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02205.x"
+        },
+        {
+            "no": "11",
+            "title": "Regulation of Bank Capital and Portfolio Risk",
+            "date": "December 1980",
+            "author": [
+                "MICHAEL KOEHN",
+                "ANTHONY M. SANTOMERO"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02206.x"
+        },
+        {
+            "no": "12",
+            "title": "Debt, Taxes and Leasing A Note",
+            "date": "December 1980",
+            "author": [
+                "R. A. BREALEY",
+                "C. M. YOUNG"
+            ],
+            "abstract": "This paper discusses the implications of Miller's paper \u201cDebt and Taxes\u201d for the valuation of leases. It shows that if Miller's equilibrium holds, leasing is only likely to dominate debt and equity for companies in temporary nontaxpaying positions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02207.x"
+        },
+        {
+            "no": "13",
+            "title": "A Note on Ambiguity in Portfolio Performance Measures",
+            "date": "December 1980",
+            "author": [
+                "DAVID PETERSON",
+                "MICHAEL L. RICE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02208.x"
+        },
+        {
+            "no": "14",
+            "title": "The Financial Consequences of Corporate Growth",
+            "date": "December 1980",
+            "author": [
+                "BENTON E. GUP"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02209.x"
+        },
+        {
+            "no": "15",
+            "title": "Error Rates in CRSP and COMPUSTAT: A Second Look",
+            "date": "December 1980",
+            "author": [
+                "ROBERT BENNIN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02210.x"
+        },
+        {
+            "no": "16",
+            "title": "The Hedging Performance of the New Futures Markets: Comment",
+            "date": "December 1980",
+            "author": [
+                "CHARLES T. FRANCKLE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02211.x"
+        },
+        {
+            "no": "17",
+            "title": "Erratum",
+            "date": "December 1980",
+            "author": [],
+            "abstract": "In the June issue of the Journal of Finance, the article by Stan Beckers entitled, \u201cThe Constant Elasticity of Variance Model and It's Implications For Option Pricing\u201d was printed with an error involving the headings of Table II (pages 668 and 669). This table is reprinted on the next two pages as the author originally intended.\nTable II. Call Values for Alternative Diffusion Models\nS\n=\n20\nr\n=\n1\n.\n05\n\u03b1\n=\n2\n(BS Model)\n\u03b1\n=\n1\n(Square Root)\n\u03b1\n=\n0\n(Absolute Model)\nMonths to Maturity\nMonths to Maturity\nMonths to Maturity\n\u03c3\nK\n1\n4\n7\n1\n4\n7\n1\n4\n7\n.2\n10\n10.041\n10.161\n10.281\n10.041\n10.161\n10.281\n10.041\n10.161\n10.281\n15\n5.061\n5.245\n5.439\n5.061\n5.248\n5.454\n5.061\n5.252\n5.472\n20\n.501\n1.084\n1.502\n.503\n1.097\n1.532\n.504\n1.101\n1.541\n25\n.0\n.037\n.161\n.0\n.029\n.144\n.0\n.021\n.118\n(.143)\n30\n.0\n.0\n.008\n.0\n.0\n.004\n.0\n.0\n.001\n.3\n10\n10.041\n10.161\n10.281\n10.041\n10.162\n10.288\n10.041\n10.163\n10.307\n(10.287)\n15\n5.061\n5.289\n5.570\n5.061\n5.320\n5.654\n5.062\n5.351\n5.725\n20\n.731\n1.536\n2.093\n.735\n1.574\n2.179\n.736\n1.581\n2.196\n(2.180)\n25\n.004\n.217\n.554\n.002\n.196\n.541\n.001\n.162\n.478\n(.540)\n30\n.0\n.018\n.115\n.0\n.010\n.086\n.0\n.004\n.050\n.4\n10\n10.041\n10.162\n10.293\n10.041\n10.170\n10.349\n10.041\n10.191\n10.454\n(10.348)\n15\n5.065\n5.416\n5.824\n5.068\n5.505\n6.033\n5.073\n5.579\n6.194\n(5.506)\n(6.037)\n20\n.960\n1.990\n2.685\n.970\n2.072\n2.878\n.972\n2.084\n2.936\n(2.073)\n(2.882)\n25\n.029\n.516\n1.062\n.022\n.501\n1.111\n.015\n.435\n1.034\n(.500)\n(1.110)\n30\n.0\n.106\n.383\n.0\n.078\n.350\n.0\n.043\n.254\n(.077)\n(.348)\nS\n=\n40\nr\n=\n1\n.\n05\n\u03b1\n=\n2\n(BS Model)\n\u03b1\n=\n1\n(Square Root)\n\u03b1\n=\n0\n(Absolute Model)\nMonths to Maturity\nMonths to Maturity\nMonths to Maturity\n\u03c3\nK\n1\n4\n7\n1\n4\n7\n1\n4\n7\n.2\n30\n10.122\n10.489\n10.878\n10.122\n10.495\n10.908\n10.122\n10.504\n10.944\n35\n5.148\n5.760\n6.399\n5.150\n5.798\n6.478\n5.153\n5.830\n6.539\n40\n1.003\n2.167\n3.004\n1.006\n2.193\n3.063\n1.007\n2.202\n3.082\n45\n.022\n.506\n1.103\n.019\n.487\n1.093\n.016\n.455\n1.047\n(.486)\n50\n.0\n.075\n.323\n.0\n.059\n.287\n.0\n.043\n.237\n.3\n30\n10.122\n10.579\n11.140\n10.123\n10.639\n11.307\n10.124\n10.702\n11.450\n(11.309)\n35\n5.219\n6.251\n7.171\n5.235\n6.363\n7.393\n5.250\n6.439\n7.520\n(7.396)\n40\n1.461\n3.073\n4.186\n1.471\n3.147\n4.357\n1.472\n3.161\n4.392\n(3.148)\n(4.360)\n45\n.162\n1.255\n2.235\n.149\n1.248\n2.298\n.133\n1.189\n2.224\n50\n.007\n.435\n1.107\n.004\n.393\n1.082\n.003\n.324\n.955\n(.392)\n(1.081)\n.4\n30\n10.129\n10.831\n11.649\n10.136\n11.010\n12.067\n10.147\n11.157\n12.389\n(11.011)\n(12.073)\n35\n5.388\n6.894\n8.095\n5.427\n7.121\n8.557\n5.461\n7.244\n8.813\n(7.124)\n(8.567)\n40\n1.920\n3.979\n5.370\n1.941\n4.145\n5.755\n1.943\n4.168\n5.873\n(1.940)\n(4.147)\n(5.764)\n45\n.419\n2.103\n3.428\n.397\n2.156\n3.670\n.365\n2.073\n3.633\n(3.675)\n50\n.057\n1.033\n2.124\n.044\n1.001\n2.221\n.030\n.871\n2.068\n(.043)\n(1.000)\n(2.220)\nS\n=\n60\nr\n=\n1\n.\n05\n\u03b1\n=\n2\n(BS Model)\n\u03b1\n=\n1\n(Square Root)\n\u03b1\n=\n0\n(Absolute Model)\nMonths to Maturity\nMonths to Maturity\nMonths to Maturity\n\u03c3\nK\n1\n4\n7\n1\n4\n7\n1\n4\n7\n.2\n50\n10.203\n10.916\n11.718\n10.204\n10.954\n11.816\n10.205\n10.992\n11.902\n(11.817)\n55\n5.304\n6.554\n7.665\n5.314\n6.619\n7.789\n5.324\n6.669\n7.872\n(7.790)\n60\n1.504\n3.251\n4.506\n1.509\n3.290\n4.595\n1.511\n3.302\n4.623\n65\n.158\n1.302\n2.373\n.149\n1.287\n2.390\n.138\n1.250\n2.347\n70\n.005\n.421\n1.125\n.004\n.387\n1.087\n.003\n.341\n1.005\n(.386)\n(1.086)\n.3\n50\n10.229\n11.394\n12.596\n10.241\n11.545\n12.918\n10.253\n11.664\n13.131\n(11.546)\n(12.922)\n55\n5.597\n7.559\n9.086\n5.631\n7.724\n9.411\n5.659\n7.818\n9.565\n(7.725)\n(9.415)\n60\n2.192\n4.609\n6.279\n2.206\n4.721\n6.536\n2.209\n4.742\n6.588\n(4.722)\n(6.540)\n65\n.565\n2.587\n4.170\n.545\n2.615\n4.320\n.519\n2.554\n4.259\n(4.322)\n70\n.094\n1.345\n2.673\n.079\n1.307\n2.715\n.064\n1.202\n2.566\n(1.306)\n.4\n50\n10.345\n12.157\n13.785\n10.387\n12.490\n14.477\n10.428\n12.702\n14.910\n(12.494)\n(14.491)\n55\n6.034\n8.702\n10.641\n6.099\n9.028\n11.313\n6.147\n9.172\n11.636\n(9.032)\n(11.328)\n60\n2.880\n5.969\n8.055\n2.911\n6.217\n8.633\n2.915\n6.252\n8.809\n(6.220)\n(8.646)\n65\n1.102\n3.936\n5.995\n1.082\n4.073\n6.434\n1.040\n3.994\n6.452\n(4.074)\n(6.443)\n70\n.340\n2.507\n4.397\n.306\n2.536\n4.684\n.263\n2.375\n4.560\n(2.535)\n(4.687)",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02212.x"
+        },
+        {
+            "no": "18",
+            "title": "Book Reviews",
+            "date": "December 1980",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nThe International Money Market: An Assessment of Forecasting Techniques and Market Efficiency. By RICHARD M. LEVICH.\nImplications of Regulation on Bank Expansion: A Simulation Analysis. By GEORGE S. OLDFIELD, Jr. Greenwich\nThe Failure of Franklin National Bank. By JOAN EDELMAN SPERO.\nPublic Utility Economics. By MICHAEL A. CREW and PAUL R. KLEINDORFER.\nBasic Real Estate Finance and Investments. By DONALD R. EPLEY and JAMES A. MILLAR.\nModern Managerial Finance. By J. R. FRANKS and J. E. BOYLES.\nManaging Personal Finance. By HOLLEY H. ULBRICH and T. BRUCE YANDLE, Jr.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02213.x"
+        },
+        {
+            "no": "19",
+            "title": "Miscellanea",
+            "date": "December 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb02214.x"
+        },
+        {
+            "no": "20",
+            "title": "INDEX TO VOLUME XXXV",
+            "date": "December 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb00626.x"
+        },
+        {
+            "no": "21",
+            "title": "Back Matter",
+            "date": "December 1980",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1980.tb00628.x"
+        }
+    ]
+}

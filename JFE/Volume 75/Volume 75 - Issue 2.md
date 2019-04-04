@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Information content of equity analyst reports
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Paul Asquith
 - Michael B. Mikhail
 - Andrea S. Au
@@ -26,7 +26,7 @@ We catalog the complete contents of Institutional Investor All-American analyst 
 ## 3. Comovement
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Nicholas Barberis
 - Andrei Shleifer
 - Jeffrey Wurgler
@@ -38,7 +38,7 @@ Building on Vijh (Rev. Financial Stud. 7 (1994)), we use additions to the S&P 50
 ## 4. Can foreign firms bond themselves effectively by renting U.S. securities laws?
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Jordan Siegel
 ### Abstract
 The study tests the functional convergence hypothesis, which states that foreign firms can leapfrog their countries’ weak legal institutions by listing equities in New York and agreeing to follow U.S. securities law. Evidence shows that the SEC and minority shareholders have not effectively enforced the law against cross-listed foreign firms. Detailed evidence from Mexico further shows that while some insiders exploited this weak legal enforcement with impunity, others that issued a cross-listing and passed through an economic downturn with a clean reputation went on to receive privileged long-term access to outside finance. As compared with legal bonding, reputational bonding better explains the success of cross-listings.
@@ -48,7 +48,7 @@ The study tests the functional convergence hypothesis, which states that foreign
 ## 5. The many facets of privately negotiated stock repurchases
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Urs C. Peyer
 - Theo Vermaelen
 ### Abstract
@@ -59,7 +59,7 @@ We investigate the causes and consequences of 737 privately negotiated share rep
 ## 6. Pricing, exit, and location decisions of firms: Evidence on the role of debt and operating efficiency
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Naveen Khanna
 - Sheri Tice
 ### Abstract
@@ -70,7 +70,7 @@ We compare pricing and exit decisions of discounters across the business cycle. 
 ## 7. Inflation risk premia and the expectations hypothesis
 ### Date
 - Jul 2004
-### Authors
+### Author
 - Andrea Buraschi
 - Alexei Jiltsov
 ### Abstract

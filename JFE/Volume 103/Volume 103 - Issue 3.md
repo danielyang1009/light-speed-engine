@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - March 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Is momentum really momentum?
 ### Date
 - May 2011
-### Authors
+### Author
 - Robert Novy-Marx
 ### Abstract
 Momentum is primarily driven by firms' performance 12 to seven months prior to portfolio formation, not by a tendency of rising and falling stocks to keep rising and falling. Strategies based on recent past performance generate positive returns but are less profitable than those based on intermediate horizon past performance, especially among the largest, most liquid stocks. These facts are not particular to the momentum observed in the cross section of US equities. Similar results hold for momentum strategies trading international equity indices, commodities, and currencies.
@@ -24,7 +24,7 @@ Momentum is primarily driven by firms' performance 12 to seven months prior to p
 ## 3. Do arbitrageurs amplify economic shocks?
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Harrison Hong
 - Jeffrey D. Kubik
 - Tal Fishman
@@ -36,7 +36,7 @@ We test the hypothesis that arbitrageurs amplify economic shocks in equity marke
 ## 4. Corporate bond liquidity before and after the onset of the subprime crisis
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Jens Dick-Nielsen
 - Peter Feldhütter
 - David Lando
@@ -48,7 +48,7 @@ We analyze liquidity components of corporate bond spreads during 2005–2009 usi
 ## 5. Industry contagion in loan spreads
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Michael G. Hertzel
 - Micah S. Officer
 ### Abstract
@@ -59,7 +59,7 @@ Spreads on new and renegotiated corporate loans are significantly higher when th
 ## 6. Longevity risk, retirement savings, and financial innovation
 ### Date
 - Oct 2011
-### Authors
+### Author
 - João F. Cocco
 - Francisco J. Gomes
 ### Abstract
@@ -70,7 +70,7 @@ Over the last couple of decades unprecedented increases in life expectancy have 
 ## 7. Bargaining power and industry dependence in mergers
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Kenneth R. Ahern
 ### Abstract
 In contrast to the widely held belief that targets capture the lion's share of merger gains, I show that the average dollar gains to targets are only modestly more than the dollar gains to acquirers. To help explain the variation in merger outcomes, I present empirical evidence in support of a new hypothesis that a target's relative scarcity (proxied by its market power) and product market dependence (proxied by customer–supplier relations) help to explain its share of the total merger gains. These results provide new evidence for an unexplored role of product markets on bargaining outcomes in mergers.
@@ -80,7 +80,7 @@ In contrast to the widely held belief that targets capture the lion's share of m
 ## 8. Bankruptcy spillover effects on strategic alliance partners
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Audra L. Boone
 - Vladimir I. Ivanov
 ### Abstract
@@ -91,7 +91,7 @@ This paper examines whether a party to a strategic alliance or joint venture suf
 ## 9. Hedge funds as liquidity providers: Evidence from the Lehman bankruptcy
 ### Date
 - Oct 2011
-### Authors
+### Author
 - George O. Aragon
 - Philip E. Strahan
 ### Abstract
@@ -102,7 +102,7 @@ Hedge funds using Lehman as prime broker faced a decline in funding liquidity af
 ## 10. Seeking safety: The relation between CEO inside debt holdings and the riskiness of firm investment and financial policies
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Cory A. Cassell
 - Shawn X. Huang
 - Juan Manuel Sanchez
@@ -115,7 +115,7 @@ CEO inside debt holdings (pension benefits and deferred compensation) are genera
 ## 11. Endogenous liquidity in credit derivatives
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Jiaping Qiu
 - Fan Yu
 ### Abstract
@@ -126,7 +126,7 @@ We study the determination of liquidity provision in the single-name credit defa
 ## 12. Cash flows and leverage adjustments
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Michael Faulkender
 - Mark J. Flannery
 - Kristine Watson Hankins

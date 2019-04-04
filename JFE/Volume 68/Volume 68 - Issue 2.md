@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Style investing
 ### Date
 - May 2003
-### Authors
+### Author
 - Nicholas Barberis
 - Andrei Shleifer
 ### Abstract
@@ -25,7 +25,7 @@ We study asset prices in an economy where some investors categorize risky assets
 ## 3. Long-horizon regressions: theoretical results and applications
 ### Date
 - May 2003
-### Authors
+### Author
 - Rossen Valkanov
 ### Abstract
 I use asymptotic arguments to show that the t-statistics in long-horizon regressions do not converge to well-defined distributions. In some cases, moreover, the ordinary least squares estimator is not consistent and the R2 is an inadequate measure of the goodness of fit. These findings can partially explain the tendency of long-horizon regressions to find “significant” results where previous short-term approaches find none. I propose a rescaled t-statistic, whose asymptotic distribution is easy to simulate, and revisit some of the long-horizon evidence on return predictability and of the Fisher effect.
@@ -35,7 +35,7 @@ I use asymptotic arguments to show that the t-statistics in long-horizon regress
 ## 4. CEO reputation and stock-based compensation
 ### Date
 - May 2003
-### Authors
+### Author
 - Todd T. Milbourn
 ### Abstract
 I develop a theory of stock-based compensation contracts for the chief executive officers (CEOs) of firms and confront the theoretical predictions with recent CEO compensation data. The model characterizes the optimal contract for a CEO whose reputation evolves as signals of the executive's ability are observed by shareholders. Using various proxies for CEO reputation, I show a positive and economically meaningful relationship between stock-based pay-sensitivities and CEO reputation. The findings are robust to controls for CEO age, firm size, the dollar variability of the stock returns, and industry effects.
@@ -45,7 +45,7 @@ I develop a theory of stock-based compensation contracts for the chief executive
 ## 5. Founding family ownership and the agency cost of debt
 ### Date
 - May 2003
-### Authors
+### Author
 - Ronald C. Anderson
 - Sattar A. Mansi
 - David M. Reeb
@@ -57,7 +57,7 @@ We investigate the impact of founding family ownership structure on the agency c
 ## 6. Corporate governance and firm profitability: evidence from Korea before the economic crisis
 ### Date
 - May 2003
-### Authors
+### Author
 - Sung Wook Joh
 ### Abstract
 This study examines how ownership structure and conflicts of interest among shareholders under a poor corporate governance system affected firm performance before the crisis. Using 5,829 Korean firms subject to outside auditing during 1993–1997, the paper finds that firms with low ownership concentration show low firm profitability, controlling for firm and industry characteristics. Controlling shareholders expropriated firm resources even when their ownership concentration was small. Firms with a high disparity between control rights and ownership rights showed low profitability. When a business group transferred resources from a subsidiary to another, they were often wasted, suggesting that “tunneling” occurred. In addition, the negative effects of control-ownership disparity and internal capital market inefficiency were stronger in publicly traded firms than in privately held ones.

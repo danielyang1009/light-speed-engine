@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Does backdating explain the stock price pattern around executive stock option grants?
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Randall A. Heron
 - Erik Lie
 ### Abstract
@@ -25,7 +25,7 @@ Extant studies show that stock returns are abnormally negative before executive 
 ## 3. The effect of state laws on capital structure
 ### Date
 - Oct 2005
-### Authors
+### Author
 - John K. Wald
 - Michael S. Long
 ### Abstract
@@ -36,7 +36,7 @@ US manufacturing firms incorporated in states with stronger payout restrictions 
 ## 4. Corporate capital structure and the characteristics of suppliers and customers
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Jayant R. Kale
 - Husayn Shahrur
 ### Abstract
@@ -47,7 +47,7 @@ We investigate the link between a firm's leverage and the characteristics of its
 ## 5. Do industries lead stock markets?
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Harrison Hong
 - Walter Torous
 - Rossen Valkanov
@@ -59,7 +59,7 @@ We investigate whether the returns of industry portfolios predict stock market m
 ## 6. Do asset prices reflect fundamentals? Freshly squeezed evidence from the OJ market
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Jacob Boudoukh
 - Matthew Richardson
 - YuQing (Jeff) Shen
@@ -72,7 +72,7 @@ The behavioral finance literature cites the frozen concentrated orange juice (FC
 ## 7. Maximum likelihood estimation of stochastic volatility models
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Yacine Aı¨t-Sahalia
 - Robert Kimmel
 ### Abstract
@@ -83,7 +83,7 @@ We develop and implement a method for maximum likelihood estimation in closed-fo
 ## 8. Trade credit and bank credit: Evidence from recent financial crises
 ### Date
 - Nov 2005
-### Authors
+### Author
 - Inessa Love
 - Lorenzo A. Preve
 - Virginia Sarria-Allende
@@ -95,7 +95,7 @@ This paper studies the effect of financial crises on trade credit for a sample o
 ## 9. Extending quadrature methods to value multi-asset and complex path dependent options
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Ari D. Andricopoulos
 - Martin Widdicks
 - David P. Newton
@@ -108,7 +108,7 @@ The exposition of the quadrature (QUAD) method (Andricopoulos, Widdicks, Duck, a
 ## 10. Classified boards, firm value, and managerial entrenchment
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Olubunmi Faleye
 ### Abstract
 This paper shows that classified boards destroy value by entrenching management and reducing director effectiveness. First, I show that classified boards are associated with a significant reduction in firm value and that this holds even among complex firms, although such firms are often regarded as most likely to benefit from staggered board elections. I then examine how classified boards entrench management by focusing on CEO turnover, executive compensation, proxy contests, and shareholder proposals. My results indicate that classified boards significantly insulate management from market discipline, thus suggesting that the observed reduction in value is due to managerial entrenchment and diminished board accountability.

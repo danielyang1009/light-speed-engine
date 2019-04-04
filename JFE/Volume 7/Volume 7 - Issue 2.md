@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1979
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. On financial contracting
 ### Date
 - Jun 1979
-### Authors
+### Author
 - Clifford W. Smith
 - Jerold B. Warner
 ### Abstract
@@ -26,7 +26,7 @@ With risky debt outstanding, stockholder actions aimed at maximizing the value o
 ## 3. The effect of personal taxes and dividends on capital asset prices
 ### Date
 - Jun 1979
-### Authors
+### Author
 - Robert H. Litzenberger
 - Krishna Ramaswamy
 ### Abstract
@@ -37,7 +37,7 @@ This paper derives an after tax version of the Capital Asset Pricing Model. The 
 ## 4. Risk measurement when shares are subject to infrequent trading
 ### Date
 - Jun 1979
-### Authors
+### Author
 - Elroy Dimson
 ### Abstract
 When shares are traded infrequently, beta estimates are often severely biased. This paper reviews the problems introduced by infrequent trading, and presents a method for measuring beta when share price data suffer from this problem. The method is used with monthly returns for a one-in-three random sample of all U.K. Stock Exchange shares from 1955 to 1974. Most of the bias in conventional beta estimates is eliminated when the proposed estimators are used in their place.

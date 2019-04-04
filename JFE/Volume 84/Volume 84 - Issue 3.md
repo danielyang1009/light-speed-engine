@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Theft and taxes
 ### Date
 - May 2006
-### Authors
+### Author
 - Mihir A. Desai
 - Alexander Dyck
 - Luigi Zingales
@@ -26,7 +26,7 @@ This paper analyzes the interaction between corporate taxes and corporate govern
 ## 3. Mimicking repurchases
 ### Date
 - Feb 2006
-### Authors
+### Author
 - Massimo Massa
 - Zahid Rehman
 - Theo Vermaelen
@@ -38,7 +38,7 @@ We study the tendency of firms to mimic the repurchase announcements of their in
 ## 4. Employee sentiment and stock option compensation
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Nittai K. Bergman
 - Dirk Jenter
 ### Abstract
@@ -49,7 +49,7 @@ The use of equity-based compensation for rank-and-file employees is a puzzle. We
 ## 5. The impact of all-star analyst job changes on their coverage choices and investment banking deal flow
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Jonathan Clarke
 - Ajay Khorana
 - Ajay Patel
@@ -62,7 +62,7 @@ Using a sample of all-star analysts who switch investment banks, we examine (1) 
 ## 6. Investor protection and the Coasian view
 ### Date
 - Nov 2005
-### Authors
+### Author
 - Nittai K. Bergman
 - Daniel Nicolaievsky
 ### Abstract
@@ -73,7 +73,7 @@ The corporate charters of a sample of Mexican firms show that private firms ofte
 ## 7. Is Chapter 11 costly?
 ### Date
 - Apr 2006
-### Authors
+### Author
 - Avner Kalay
 - Rajeev Singhal
 - Elizabeth Tashjian
@@ -85,7 +85,7 @@ We examine a sample of 459 firms filing for Chapter 11 during the period 1991–
 ## 8. The influence of product market dynamics on a firm's cash holdings and hedging behavior
 ### Date
 - May 2006
-### Authors
+### Author
 - David Haushalter
 - Sandy Klasa
 - William F. Maxwell
@@ -97,7 +97,7 @@ Prior work suggests that if a firm shares a larger proportion of its growth oppo
 ## 9. A lender-based theory of collateral
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Roman Inderst
 - Holger M. Mueller
 ### Abstract
@@ -108,7 +108,7 @@ We consider an imperfectly competitive loan market in which a local relationship
 ## 10. Good and bad credit contagion: Evidence from credit default swaps
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Philippe Jorion
 - Gaiyan Zhang
 ### Abstract

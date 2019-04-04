@@ -1,0 +1,233 @@
+{
+    "journal": "JF",
+    "volume": "55",
+    "issue": "5",
+    "date": "October 2000",
+    "page": "Pages: i-vi, 1901-2430, vii-lxix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "01 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00865.x"
+        },
+        {
+            "no": "2",
+            "title": "How Big Are the Tax Benefits of Debt?",
+            "date": "17 December 2002",
+            "author": [
+                "John R. Graham"
+            ],
+            "abstract": "I integrate under firm\u2010specific benefit functions to estimate that the capitalized tax benefit of debt equals 9.7 percent of firm value (or as low as 4.3 percent, net of personal taxes). The typical firm could double tax benefits by issuing debt until the marginal tax benefit begins to decline. I infer how aggressively a firm uses debt by observing the shape of its tax benefit function. Paradoxically, large, liquid, profitable firms with low expected distress costs use debt conservatively. Product market factors, growth options, low asset collateral, and planning for future expenditures lead to conservative debt usage. Conservative debt policy is persistent.",
+            "link": "https://doi.org/10.1111/0022-1082.00277"
+        },
+        {
+            "no": "3",
+            "title": "Specification Analysis of Affine Term Structure Models",
+            "date": "17 December 2002",
+            "author": [
+                "Qiang Dai",
+                "Kenneth J. Singleton"
+            ],
+            "abstract": "This paper explores the structural differences and relative goodness\u2010of\u2010fits of affine term structure models (ATSMs). Within the family of ATSMs there is a trade\u2010off between flexibility in modeling the conditional correlations and volatilities of the risk factors. This trade\u2010off is formalized by our classification of N\u2010factor affine family into\nN\n+\n1\nnon\u2010nested subfamilies of models. Specializing to three\u2010factor ATSMs, our analysis suggests, based on theoretical considerations and empirical evidence, that some subfamilies of ATSMs are better suited than others to explaining historical interest rate behavior.",
+            "link": "https://doi.org/10.1111/0022-1082.00278"
+        },
+        {
+            "no": "4",
+            "title": "Inference in Long\u2010Horizon Event Studies: A Bayesian Approach with Application to Initial Public Offerings",
+            "date": "17 December 2002",
+            "author": [
+                "Alon Brav"
+            ],
+            "abstract": "Statistical inference in long\u2010horizon event studies has been hampered by the fact that abnormal returns are neither normally distributed nor independent. This study presents a new approach to inference that overcomes these difficulties and dominates other popular testing methods. I illustrate the use of the methodology by examining the long\u2010horizon returns of initial public offerings (IPOs). I find that the Fama and French (1993) three\u2010factor model is inconsistent with the observed long\u2010horizon price performance of these IPOs, whereas a characteristic\u2010based model cannot be rejected.",
+            "link": "https://doi.org/10.1111/0022-1082.00279"
+        },
+        {
+            "no": "5",
+            "title": "Price Momentum and Trading Volume",
+            "date": "17 December 2002",
+            "author": [
+                "Charles M.C. Lee",
+                "Bhaskaran Swaminathan"
+            ],
+            "abstract": "This study shows that past trading volume provides an important link between \u201cmomentum\u201d and \u201cvalue\u201d strategies. Specifically, we find that firms with high (low) past turnover ratios exhibit many glamour (value) characteristics, earn lower (higher) future returns, and have consistently more negative (positive) earnings surprises over the next eight quarters. Past trading volume also predicts both the magnitude and persistence of price momentum. Specifically, price momentum effects reverse over the next five years, and high (low) volume winners (losers) experience faster reversals. Collectively, our findings show that past volume helps to reconcile intermediate\u2010horizon \u201cunderreaction\u201d and long\u2010horizon \u201coverreaction\u201d effects.",
+            "link": "https://doi.org/10.1111/0022-1082.00280"
+        },
+        {
+            "no": "6",
+            "title": "Crossing Networks and Dealer Markets: Competition and Performance",
+            "date": "17 December 2002",
+            "author": [
+                "Terrence Hendershott",
+                "Haim Mendelson"
+            ],
+            "abstract": "This paper studies the interaction between dealer markets and a relatively new form of exchange, passive crossing networks, where buyers and sellers trade directly with one another. We find that the crossing network is characterized by both positive (\u2018liquidity\u2019) and negative (\u2018crowding\u2019) externalities, and we analyze the effects of its introduction on the dealer market. Traders who use the dealer market as a \u2018market of last resort\u2019 can induce dealers to widen their spread and can lead to more efficient subsequent prices, but traders who only use the crossing network can provide a counterbalancing effect by reducing adverse selection and inventory holding costs.",
+            "link": "https://doi.org/10.1111/0022-1082.00281"
+        },
+        {
+            "no": "7",
+            "title": "Imperfect Competition among Informed Traders",
+            "date": "17 December 2002",
+            "author": [
+                "Kerry Back",
+                "C. Henry Cao",
+                "Gregory A. Willard"
+            ],
+            "abstract": "We analyze competition among informed traders in the continuous\u2010time Kyle(1985) model, as Foster and Viswanathan (1996) do in discrete time. We explicitly describe the unique linear equilibrium when signals are imperfectly correlated and confirm the conjecture of Holden and Subrahmanyam (1992) that there is no linear equilibrium when signals are perfectly correlated. One result is that at some date, and at all dates thereafter, the market would have been more informationally efficient had there been a monopolist informed trader instead of competing traders. The relatively large amount of private information remaining near the end of trading causes the market to approach complete illiquidity.",
+            "link": "https://doi.org/10.1111/0022-1082.00282"
+        },
+        {
+            "no": "8",
+            "title": "Monitoring and Structure of Debt Contracts",
+            "date": "17 December 2002",
+            "author": [
+                "Cheol Park"
+            ],
+            "abstract": "This paper presents a theory of optimal debt structure when the moral hazard problem is severe. The main idea is that the optimal debt contract delegates monitoring to a single senior lender and that seniority allows the monitoring senior lender to appropriate the full return from his monitoring activities. The theory explains (i) why debt contracts are prioritized, (ii) why short\u2010term debt is senior to long\u2010term debt, and (iii) why financial intermediaries usually hold short\u2010term senior debt whereas long\u2010term junior debt is widely held. Another implication of the theory is that covenant and maturity structures will be set to conform to the seniority structure.",
+            "link": "https://doi.org/10.1111/0022-1082.00283"
+        },
+        {
+            "no": "9",
+            "title": "The Effect of Bank Relations on Investment Decisions: An Investigation of Japanese Takeover Bids",
+            "date": "17 December 2002",
+            "author": [
+                "Jun\u2010Koo Kang",
+                "Anil Shivdasani",
+                "Takeshi Yamada"
+            ],
+            "abstract": "We study 154 domestic mergers in Japan during 1977 to 1993. In contrast to U.S. evidence, mergers are viewed favorably by investors of acquiring firms. We document a two\u2010day acquirer abnormal return of 1.2 percent and a mean cumulative abnormal return of 5.4 percent for the duration of the takeover. Announcement returns display a strong positive association with the strength of acquirer's relationships with banks. The benefits of bank relations appear to be greater for firms with poor investment opportunities and when the banking sector is healthy. We conclude that close ties with informed creditors, such as banks, facilitate investment policies that enhance shareholder wealth.",
+            "link": "https://doi.org/10.1111/0022-1082.00284"
+        },
+        {
+            "no": "10",
+            "title": "The Equity Share in New Issues and Aggregate Stock Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Malcolm Baker",
+                "Jeffrey Wurgler"
+            ],
+            "abstract": "The share of equity issues in total new equity and debt issues is a strong predictor of U.S. stock market returns between 1928 and 1997. In particular, firms issue relatively more equity than debt just before periods of low market returns. The equity share in new issues has stable predictive power in both halves of the sample period and after controlling for other known predictors. We do not find support for efficient market explanations of the results. Instead, the fact that the equity share sometimes predicts significantly negative market returns suggests inefficiency and that firms time the market component of their returns when issuing securities.",
+            "link": "https://doi.org/10.1111/0022-1082.00285"
+        },
+        {
+            "no": "11",
+            "title": "Order Flow, Transaction Clock, and Normality of Asset Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Thierry An\u00e9",
+                "H\u00e9lyette Geman"
+            ],
+            "abstract": "The goal of this paper is to show that normality of asset returns can be recovered through a stochastic time change. Clark (1973) addressed this issue by representing the price process as a subordinated process with volume as the lognormally distributed subordinator. We extend Clark's results and find the following: (i) stochastic time changes are mathematically much less constraining than subordinators; (ii) the cumulative number of trades is a better stochastic clock than the volume for generating virtually perfect normality in returns; (iii) this clock can be modeled nonparametrically, allowing both the time\u2010change and price processes to take the form of jump diffusions.",
+            "link": "https://doi.org/10.1111/0022-1082.00286"
+        },
+        {
+            "no": "12",
+            "title": "Predictability and Transaction Costs: The Impact on Rebalancing Rules and Behavior",
+            "date": "17 December 2002",
+            "author": [
+                "Anthony W. Lynch",
+                "Pierluigi Balduzzi"
+            ],
+            "abstract": "Recent papers show that predictability calibrated to U.S. data has a large effect on the rebalancing behavior of a multiperiod investor. We find that this continues to be true in the presence of realistic transaction costs. In particular, predictability causes the no\u2010trade region for the risky\u2010asset holding to become state dependent and, on average, wider and higher. Predictability also motivates the investor to spend considerably more on rebalancing and to rebalance more often. In other results, we find that introducing costly liquidation of the risky asset for consumption lowers the average allocation to the risky asset, though only marginally early in life. Our experiments also vary the nature of the return predictability and introduce return heteroskedasticity.",
+            "link": "https://doi.org/10.1111/0022-1082.00287"
+        },
+        {
+            "no": "13",
+            "title": "Does Option Compensation Increase Managerial Risk Appetite?",
+            "date": "17 December 2002",
+            "author": [
+                "Jennifer N. Carpenter"
+            ],
+            "abstract": "This paper solves the dynamic investment problem of a risk averse manager compensated with a call option on the assets he controls. Under the manager's optimal policy, the option ends up either deep in or deep out of the money. As the asset value goes to zero, volatility goes to infinity. However, the option compensation does not strictly lead to greater risk seeking. Sometimes, the manager's optimal volatility is less with the option than it would be if he were trading his own account. Furthermore, giving the manager more options causes him to reduce volatility.",
+            "link": "https://doi.org/10.1111/0022-1082.00288"
+        },
+        {
+            "no": "14",
+            "title": "The American Put Option and Its Critical Stock Price",
+            "date": "17 December 2002",
+            "author": [
+                "David S. Bunch",
+                "Herb Johnson"
+            ],
+            "abstract": "We derive an expression for the critical stock price for the American put. We start by expressing the put price as an integral involving first\u2010passage probabilities. This approach yields intuition for Merton's result for the perpetual put. We then consider the finite\u2010lived case. Using (1) the fact that the put value ceases to depend on time when the critical stock price is reached and (2) the result that an American put equals a European put plus an early\u2010exercise premium, we derive the critical stock price. We approximate the critical\u2010stock\u2010price function to compute accurate put prices.",
+            "link": "https://doi.org/10.1111/0022-1082.00289"
+        },
+        {
+            "no": "15",
+            "title": "Time Variation of Ex\u2010Dividend Day Stock Returns and Corporate Dividend Capture: A Reexamination",
+            "date": "17 December 2002",
+            "author": [
+                "Andy Naranjo",
+                "M. Nimalendran",
+                "Mike Ryngaert"
+            ],
+            "abstract": "This paper documents some empirical facts about ex\u2010day abnormal returns to high dividend yield stocks that are potentially subject to corporate dividend capture. We find that average abnormal ex\u2010dividend day returns are uniformly negative in each year after the introduction of negotiated commission rates and that time variation in ex\u2010day returns during the negotiated commission rates era is consistent with corporate tax\u2010based dividend capture. Ex\u2010day returns are more negative when the tax advantage to corporate dividend capture is greatest and more positive when increases in transaction costs and risk reduce incentives to engage in corporate tax\u2010based dividend capture.",
+            "link": "https://doi.org/10.1111/0022-1082.00290"
+        },
+        {
+            "no": "16",
+            "title": "Stock Repurchases in Canada: Performance and Strategic Trading",
+            "date": "17 December 2002",
+            "author": [
+                "David Ikenberry",
+                "Josef Lakonishok",
+                "Theo Vermaelen"
+            ],
+            "abstract": "During the 1980s, U.S. firms announcing stock repurchases earned favorable long\u2010run returns. Recently, concerns have been raised over the robustness of these findings. This concern comes at a time of explosive growth in repurchase programs. Thus, we study new evidence from the 1990s for 1,060 Canadian repurchase programs. Moreover, because of Canadian law, we can carefully track repurchase activity monthly. Similarly to the situation in the United States, the Canadian stock market discounts the information in repurchase announcements, particularly for value stocks. Completion rates in Canada are sensitive to mispricing. Trades also appear linked to price movements; managers buy more shares when prices fall.",
+            "link": "https://doi.org/10.1111/0022-1082.00291"
+        },
+        {
+            "no": "17",
+            "title": "Equity Undervaluation and Decisions Related to Repurchase Tender Offers: An Empirical Investigation",
+            "date": "17 December 2002",
+            "author": [
+                "Ranjan D'mello",
+                "Pervin K. Shroff"
+            ],
+            "abstract": "This paper tests whether managers repurchase stock when their assessment of the firm's economic value exceeds the market value. Using the forecasts managers would have if they had perfect foresight, we estimate economic value using an earnings\u2010based valuation model. The major findings are as follows: (1) 74 percent of the firms that repurchase shares via fixed\u2010price tender offers are undervalued relative to their preannouncement economic value; this percentage is significantly lower for a control sample, (2) the tender premium is highly correlated with the magnitude of undervaluation, and (3) the decision to satisfy oversubscription demand is influenced significantly by the magnitude of undervaluation.",
+            "link": "https://doi.org/10.1111/0022-1082.00292"
+        },
+        {
+            "no": "18",
+            "title": "Miscellanea",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00293"
+        },
+        {
+            "no": "19",
+            "title": "Announcements",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00294"
+        },
+        {
+            "no": "20",
+            "title": "Association Meetings",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00295"
+        },
+        {
+            "no": "21",
+            "title": "SIXTY FIRST ANNUAL MEETING",
+            "date": "01 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00866.x"
+        },
+        {
+            "no": "22",
+            "title": "Back Matter",
+            "date": "01 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00867.x"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "journal": "RFS",
+    "volume": "29",
+    "issue": "1",
+    "date": "January 2016",
+    "page": "Pages 1\u2013270",
+    "article": [
+        {
+            "no": "1",
+            "title": "In Memoriam: Rick Green",
+            "date": "12 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv075"
+        },
+        {
+            "no": "2",
+            "title": "The Cross-Section of Expected Returns: Where We Stand Today",
+            "date": "12 December 2015",
+            "author": [
+                "G. Andrew Karolyi"
+            ],
+            "abstract": "The Review of Financial Studies has among its missions the facilitation and promotion of a vigorous academic debate across unsettled questions in finance. This special section of Volume 29, Number 1 consists of three studies on the cross-section of expected returns. To what extent are our inferences about certain anomalous patterns in the cross-section of expected returns related to biases and inefficiencies in our testing procedures? Are all factor discoveries equally important? Do some proposed factors subsume the explanatory power of others? Is the after-trading-cost performance of some anomalies more resilient than that of others?",
+            "link": "https://doi.org/10.1093/rfs/hhv124"
+        },
+        {
+            "no": "3",
+            "title": "\u2026 and the Cross-Section of Expected Returns",
+            "date": "09 October 2015",
+            "author": [
+                "Campbell R. Harvey",
+                "Yan Liu",
+                "Heqing Zhu"
+            ],
+            "abstract": "Hundreds of papers and factors attempt to explain the cross-section of expected returns. Given this extensive data mining, it does not make sense to use the usual criteria for establishing significance. Which hurdle should be used for current research? Our paper introduces a new multiple testing framework and provides historical cutoffs from the first empirical tests in 1967 to today. A new factor needs to clear a much higher hurdle, with a t-statistic greater than 3.0. We argue that most claimed research findings in financial economics are likely false.",
+            "link": "https://doi.org/10.1093/rfs/hhv059"
+        },
+        {
+            "no": "4",
+            "title": "Dissecting Anomalies with a Five-Factor Model",
+            "date": "10 August 2015",
+            "author": [
+                "Eugene F. Fama",
+                "Kenneth R. French"
+            ],
+            "abstract": "A five-factor model that adds profitability (RMW) and investment (CMA) factors to the three-factor model of Fama and French (1993) suggests a shared story for several average-return anomalies. Specifically, positive exposures to RMW and CMA (stock returns that behave like those of profitable firms that invest conservatively) capture the high average returns associated with low market\n\u03b2\n\u2060, share repurchases, and low stock return volatility. Conversely, negative RMW and CMA slopes (like those of relatively unprofitable firms that invest aggressively) help explain the low average stock returns associated with high\n\u03b2\n\u2060, large share issues, and highly volatile returns.",
+            "link": "https://doi.org/10.1093/rfs/hhv043"
+        },
+        {
+            "no": "5",
+            "title": "A Taxonomy of Anomalies and Their Trading Costs",
+            "date": "10 November 2015",
+            "author": [
+                "Robert Novy-Marx",
+                "Mihail Velikov"
+            ],
+            "abstract": "We study the after-trading-cost performance of anomalies and the effectiveness of transaction cost mitigation techniques. Introducing a buy/hold spread, with more stringent requirements for establishing positions than for maintaining them, is the most effective cost mitigation technique. Most anomalies with less than 50% turnover per month generate significant net spreads when designed to mitigate transaction costs; few with higher turnover do. The extent to which new capital reduces strategy profitability is inversely related to turnover, and strategies based on size, value, and profitability have the greatest capacity to support new capital. Transaction costs always reduce strategy profitability, increasing data-snooping concerns.",
+            "link": "https://doi.org/10.1093/rfs/hhv063"
+        },
+        {
+            "no": "6",
+            "title": "Wage Rigidity: A Quantitative Solution to Several Asset Pricing Puzzles",
+            "date": "06 August 2015",
+            "author": [
+                "Jack Favilukis",
+                "Xiaoji Lin"
+            ],
+            "abstract": "In standard production models, wage volatility is far too high, and equity volatility is far too low. A simple modification\u2013sticky wages because of infrequent resetting together with a constant elasticity of substitution (CES) production function leads to both smoother wages and higher equity volatility. Further, the model produces several other hard-to-explain features of financial data: high Sharpe ratios, low and smooth interest rates, time-varying equity volatility and premium, a value premium, and a downward-sloping equity term structure. Procyclical, volatile wages are a hedge for firms in standard models; smoother wages act like operating leverage, making profits and dividends riskier.",
+            "link": "https://doi.org/10.1093/rfs/hhv041"
+        },
+        {
+            "no": "7",
+            "title": "Durable Goods, Inflation Risk, and Equilibrium Asset Prices",
+            "date": "03 September 2015",
+            "author": [
+                "Bj\u00f8rn Eraker",
+                "Ivan Shaliastovich",
+                "Wenyu Wang"
+            ],
+            "abstract": "High expected inflation is known to predict low future real growth. We show that, relative to nondurable goods sectors of the economy, such predictability is significantly more pronounced in durable sectors. Consistent with this macroeconomic evidence, the equity returns of durable goods-producing firms have a larger negative exposure to expected inflation risks. We estimate a two-good recursive utility model that features persistent growth fluctuations and inflation nonneutrality for durable and nondurable consumption. Our model can quantitatively account for the levels and volatilities of bond and equity prices, and correlations of equity returns with bond returns and with expected inflation.",
+            "link": "https://doi.org/10.1093/rfs/hhv049"
+        },
+        {
+            "no": "8",
+            "title": "The Dynamics of Crises and the Equity Premium",
+            "date": "23 September 2015",
+            "author": [
+                "Nicole Branger",
+                "Holger Kraft",
+                "Christoph Meinerding"
+            ],
+            "abstract": "It is a major challenge for asset pricing models to generate a high equity premium and a low risk-free rate while imposing realistic consumption dynamics. To address this issue, our paper proposes a novel pricing channel: we allow for consumption drops that can spark an economic crisis. This new feature generates a large equity premium even if possible consumption drops are of moderate size. In turn, our model also matches the consumption data of 42 countries along several dimensions. In particular, our approach generates a realistic number of crises that have realistic durations and involve clustering of moderate consumption drops.",
+            "link": "https://doi.org/10.1093/rfs/hhv057"
+        },
+        {
+            "no": "9",
+            "title": "Cover",
+            "date": "12 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv088"
+        },
+        {
+            "no": "10",
+            "title": "Editorial Board",
+            "date": "12 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv089"
+        },
+        {
+            "no": "11",
+            "title": "Forthcoming Articles",
+            "date": "12 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv090"
+        },
+        {
+            "no": "12",
+            "title": "Volume 29 Number 1 January 2016\nThe Review of Financial Studies - Table of Contents",
+            "date": "12 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv091"
+        }
+    ]
+}

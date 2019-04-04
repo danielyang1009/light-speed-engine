@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The personal-tax advantages of equity
 ### Date
 - Feb 2003
-### Authors
+### Author
 - Richard C. Green
 - Burton Hollifield
 ### Abstract
@@ -25,7 +25,7 @@ We value a firm that pays its cash flows to equity through share repurchases in 
 ## 3. Testing the pecking order theory of capital structure
 ### Date
 - Feb 2003
-### Authors
+### Author
 - Murray Z Frank
 - Vidhan K Goyal
 ### Abstract
@@ -36,7 +36,7 @@ We test the pecking order theory of corporate leverage on a broad cross-section 
 ## 4. How do family strategies affect fund performance? When performance-maximization is not the only game in town
 ### Date
 - Feb 2003
-### Authors
+### Author
 - Massimo Massa
 ### Abstract
 This is a first attempt to study how the structure of the industry affects mutual fund behavior. I show that industry structure matters; the mutual fund families employ strategies that rely on the heterogeneity of the investors in terms of investment horizon by offering the possibility to switch across different funds belonging to the same family at no cost. I argue that this option acts as an externality for all the funds belonging to the same family, affecting the target level of performance the family wants to reach and the number of funds it wants to set up.
@@ -46,7 +46,7 @@ This is a first attempt to study how the structure of the industry affects mutua
 ## 5. Executive rank, pay and project selection
 ### Date
 - Feb 2003
-### Authors
+### Author
 - John M. Barron
 - Glen R. Waddell
 ### Abstract
@@ -57,7 +57,7 @@ This paper extends the literature on executive compensation by developing and te
 ## 6. Cronyism and capital controls: evidence from Malaysia
 ### Date
 - Feb 2003
-### Authors
+### Author
 - Simon Johnson
 - Todd Mitton
 ### Abstract

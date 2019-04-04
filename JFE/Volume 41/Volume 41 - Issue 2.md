@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1996
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Markup pricing in mergers and acquisitions
 ### Date
 - Jun 1996
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 This paper studies the relation between the premiums in takeover bids involving exchange-listed target firms from 1975-91 and the pre-announcement stock price runups. The evidence shows that the pre-bid runup and the post-announcement increase in the target's stock price (the ‘markup’) are generally uncorrelated. With little substitution between the runup and the markup, the runup is an added cost to the bidder. This finding has important implications for assessing the costs of insider trading. It also raises interesting questions about the role of information from public capital markets in private takeover negotiations.
@@ -31,7 +31,7 @@ This paper studies the relation between the premiums in takeover bids involving 
 ## 3. The impact of industry shocks on takeover and restructuring activity
 ### Date
 - Jun 1996
-### Authors
+### Author
 - Mark L. Mitchell
 - J.Harold Mulherin
 ### Abstract
@@ -42,7 +42,7 @@ We study industry-level patterns in takeover and restructuring activity during t
 ## 4. The pricing of convertible debt offerings
 ### Date
 - Jun 1996
-### Authors
+### Author
 - Jun-Koo Kang
 - Yul W. Lee
 ### Abstract
@@ -53,7 +53,7 @@ We present the first empirical evidence on the pricing of convertible debt offer
 ## 5. Time-varying risk premia, volatility, and technical trading rule profits: Evidence from foreign currency futures markets
 ### Date
 - Jun 1996
-### Authors
+### Author
 - Bong-Chan Kho
 ### Abstract
 This paper re-examines the efficiency of foreign currency futures markets by evaluating the role of time-varying risk premia and volatility in explaining technical trading rule profits. The results show that large parts of the technical rule profits can be explained by the time-varying risk premia estimated from a general model for the conditional CAPM; The bootstrap distributions for the profits under the null model average one-third to one-half of the actual profits and enclose the actual profits well within the 90% confidence intervals. Time-varying conditional volatility explains an additional 10% of the profits.
@@ -63,7 +63,7 @@ This paper re-examines the efficiency of foreign currency futures markets by eva
 ## 6. Ownership dispersion, costly information, and IPO underpricing
 ### Date
 - Jun 1996
-### Authors
+### Author
 - James R. Booth
 - Lena Chua
 ### Abstract

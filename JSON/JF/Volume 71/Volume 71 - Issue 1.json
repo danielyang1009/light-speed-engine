@@ -1,0 +1,216 @@
+{
+    "journal": "JF",
+    "volume": "71",
+    "issue": "1",
+    "date": "February 2016",
+    "page": "Pages: 1-499",
+    "article": [
+        {
+            "no": "1",
+            "title": "Issue Information \u2010 Ed Board",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12314"
+        },
+        {
+            "no": "2",
+            "title": "Issue Information \u2010 Help Desk",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12315"
+        },
+        {
+            "no": "3",
+            "title": "Issue Information \u2010 TOC",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12313"
+        },
+        {
+            "no": "4",
+            "title": "Does Academic Research Destroy Stock Return Predictability?",
+            "date": "13 October 2015",
+            "author": [
+                "R. DAVID MCLEAN",
+                "JEFFREY PONTIFF"
+            ],
+            "abstract": "We study the out\u2010of\u2010sample and post\u2010publication return predictability of 97 variables shown to predict cross\u2010sectional stock returns. Portfolio returns are 26% lower out\u2010of\u2010sample and 58% lower post\u2010publication. The out\u2010of\u2010sample decline is an upper bound estimate of data mining effects. We estimate a 32% (58%\u201326%) lower return from publication\u2010informed trading. Post\u2010publication declines are greater for predictors with higher in\u2010sample returns, and returns are higher for portfolios concentrated in stocks with high idiosyncratic risk and low liquidity. Predictor portfolios exhibit post\u2010publication increases in correlations with other published\u2010predictor portfolios. Our findings suggest that investors learn about mispricing from academic publications.",
+            "link": "https://doi.org/10.1111/jofi.12365"
+        },
+        {
+            "no": "5",
+            "title": "Stock Market Volatility and Learning",
+            "date": "13 October 2015",
+            "author": [
+                "KLAUS ADAM",
+                "ALBERT MARCET",
+                "JUAN PABLO NICOLINI"
+            ],
+            "abstract": "We show that consumption\u2010based asset pricing models with time\u2010separable preferences generate realistic amounts of stock price volatility if one allows for small deviations from rational expectations. Rational investors with subjective beliefs about price behavior optimally learn from past price observations. This imparts momentum and mean reversion into stock prices. The model quantitatively accounts for the volatility of returns, the volatility and persistence of the price\u2010dividend ratio, and the predictability of long\u2010horizon returns. It passes a formal statistical test for the overall fit of a set of moments provided one excludes the equity premium.",
+            "link": "https://doi.org/10.1111/jofi.12364"
+        },
+        {
+            "no": "6",
+            "title": "Earnings Announcements and Systematic Risk",
+            "date": "14 October 2015",
+            "author": [
+                "PAVEL SAVOR",
+                "MUNGO WILSON"
+            ],
+            "abstract": "Firms scheduled to report earnings earn an annualized abnormal return of 9.9%. We propose a risk\u2010based explanation for this phenomenon, whereby investors use announcements to revise their expectations for nonannouncing firms, but can only do so imperfectly. Consequently, the covariance between firm\u2010specific and market cash flow news spikes around announcements, making announcers especially risky. Consistent with our hypothesis, announcer returns forecast aggregate earnings. The announcement premium is persistent across stocks, and early (late) announcers earn higher (lower) returns. Nonannouncers' response to announcements is consistent with our model, both over time and across firms. Finally, exposure to announcement risk is priced.",
+            "link": "https://doi.org/10.1111/jofi.12361"
+        },
+        {
+            "no": "7",
+            "title": "Corporate Acquisitions, Diversification, and the Firm's Life Cycle",
+            "date": "13 October 2015",
+            "author": [
+                "ASLI M. ARIKAN",
+                "REN\u00c9 M. STULZ"
+            ],
+            "abstract": "Agency theories predict that older firms make value\u2010destroying acquisitions to benefit managers. Neoclassical theories predict instead that such firms make wealth\u2010increasing acquisitions to exploit underutilized assets. Using IPO cohorts, we establish that, while younger firms make more related and diversifying acquisitions than mature firms, the acquisition rate follows a U\u2010shape over firms\u2019 life cycle. Consistent with neoclassical theories, we show that acquiring firms have better performance and growth opportunities and create wealth through acquisitions of nonpublic firms throughout their life. Consistent with agency theories, older firms experience negative stock price reactions for acquisitions of public firms.",
+            "link": "https://doi.org/10.1111/jofi.12362"
+        },
+        {
+            "no": "8",
+            "title": "Disappearing Call Delay and Dividend\u2010Protected Convertible Bonds",
+            "date": "13 October 2015",
+            "author": [
+                "BRUCE D. GRUNDY",
+                "PATRICK VERWIJMEREN"
+            ],
+            "abstract": "Firms do not historically call their convertible bonds as soon as conversion can be forced. A number of explanations for the delay rely on the size of the dividends that bondholders forgo so long as they do not convert. We investigate an important change in convertible security design, namely, dividend protection of convertible bond issues. Dividend protection means that the conversion value of the convertible bond is unaffected by dividend payments and thus dividend\u2010related rationales for call delay become moot. We document that call delay is near zero for dividend\u2010protected convertible bonds.",
+            "link": "https://doi.org/10.1111/jofi.12363"
+        },
+        {
+            "no": "9",
+            "title": "The Calm before the Storm",
+            "date": "24 October 2015",
+            "author": [
+                "FERHAT AKBAS"
+            ],
+            "abstract": "I provide evidence that stocks experiencing unusually low trading volume over the week prior to earnings announcements have more unfavorable earnings surprises. This effect is more pronounced among stocks with higher short\u2010selling constraints. These findings support the view that unusually low trading volume signals negative information, since, under short\u2010selling constraints, informed agents with bad news stay by the sidelines. Changes in visibility or risk\u2010based explanations are insufficient to explain the results. This evidence provides insights into why unusually low trading volume predicts price declines.",
+            "link": "https://doi.org/10.1111/jofi.12377"
+        },
+        {
+            "no": "10",
+            "title": "Looking for Someone to Blame: Delegation, Cognitive Dissonance, and the Disposition Effect",
+            "date": "06 August 2015",
+            "author": [
+                "TOM Y. CHANG",
+                "DAVID H. SOLOMON",
+                "MARK M. WESTERFIELD"
+            ],
+            "abstract": "We analyze brokerage data and an experiment to test a cognitive dissonance based theory of trading: investors avoid realizing losses because they dislike admitting that past purchases were mistakes, but delegation reverses this effect by allowing the investor to blame the manager instead. Using individual trading data, we show that the disposition effect\u2014the propensity to realize past gains more than past losses\u2014applies only to nondelegated assets like individual stocks; delegated assets, like mutual funds, exhibit a robust reverse\u2010disposition effect. In an experiment, we show that increasing investors' cognitive dissonance results in both a larger disposition effect in stocks and a larger reverse\u2010disposition effect in funds. Additionally, increasing the salience of delegation increases the reverse\u2010disposition effect in funds. Cognitive dissonance provides a unified explanation for apparently contradictory investor behavior across asset classes and has implications for personal investment decisions, mutual fund management, and intermediation.",
+            "link": "https://doi.org/10.1111/jofi.12311"
+        },
+        {
+            "no": "11",
+            "title": "Can Markets Discipline Government Agencies? Evidence from the Weather Derivatives Market",
+            "date": "13 October 2015",
+            "author": [
+                "AMIYATOSH PURNANANDAM",
+                "DANIEL WEAGLEY"
+            ],
+            "abstract": "We analyze the role of financial markets in shaping the incentives of government agencies using a unique empirical setting: the weather derivatives market. We show that the introduction of weather derivative contracts on the Chicago Mercantile Exchange (CME) improves the accuracy of temperature measurement by 13% to 20% at the underlying weather stations. We argue that temperature\u2010based financial markets generate additional scrutiny of the temperature data measured by the National Weather Service, which motivates the agency to minimize measurement errors. Our results have broader implications: the visibility and scrutiny generated by financial markets can potentially improve the efficiency of government agencies.",
+            "link": "https://doi.org/10.1111/jofi.12366"
+        },
+        {
+            "no": "12",
+            "title": "News Trading and Speed",
+            "date": "21 May 2015",
+            "author": [
+                "THIERRY FOUCAULT",
+                "JOHAN HOMBERT",
+                "IOANID RO\u015eU"
+            ],
+            "abstract": "We compare the optimal trading strategy of an informed speculator when he can trade ahead of incoming news (is \u201cfast\u201d), versus when he cannot (is \u201cslow\u201d). We find that speed matters: the fast speculator's trades account for a larger fraction of trading volume, and are more correlated with short\u2010run price changes. Nevertheless, he realizes a large fraction of his profits from trading on long\u2010term price changes. The fast speculator's behavior matches evidence about high\u2010frequency traders. We predict that stocks with more informative news are more liquid even though they attract more activity from informed high\u2010frequency traders.",
+            "link": "https://doi.org/10.1111/jofi.12302"
+        },
+        {
+            "no": "13",
+            "title": "Mutual Fund Flows and Cross\u2010Fund Learning within Families",
+            "date": "05 March 2015",
+            "author": [
+                "DAVID P. BROWN",
+                "YOUCHANG WU"
+            ],
+            "abstract": "We develop a model of performance evaluation and fund flows for mutual funds in a family. Family performance has two effects on a member fund's estimated skill and inflows: a positive common\u2010skill effect, and a negative correlated\u2010noise effect. The overall spillover can be either positive or negative, depending on the weight of common skill and correlation of noise in returns. Its absolute value increases with family size, and declines over time. The sensitivity of flows to a fund's own performance is affected accordingly. Empirical estimates of fund flow sensitivities show patterns consistent with rational cross\u2010fund learning within families.",
+            "link": "https://doi.org/10.1111/jofi.12263"
+        },
+        {
+            "no": "14",
+            "title": "Idiosyncratic Cash Flows and Systematic Risk",
+            "date": "01 May 2015",
+            "author": [
+                "ILONA BABENKO",
+                "OLIVER BOGUTH",
+                "YURI TSERLUKEVICH"
+            ],
+            "abstract": "We show that unpriced cash flow shocks contain information about future priced risk. A positive idiosyncratic shock decreases the sensitivity of firm value to priced risk factors and simultaneously increases firm size and idiosyncratic risk. A simple model can therefore explain book\u2010to\u2010market and size anomalies, as well as the negative relation between idiosyncratic volatility and stock returns. Empirically, we find that anomalies are more pronounced for firms with high idiosyncratic cash flow volatility. More generally, our results imply that any economic variable correlated with the history of idiosyncratic shocks can help to explain expected stock returns.",
+            "link": "https://doi.org/10.1111/jofi.12280"
+        },
+        {
+            "no": "15",
+            "title": "The Determinants of Long\u2010Term Corporate Debt Issuances",
+            "date": "05 March 2015",
+            "author": [
+                "DOMINIQUE C. BADOER",
+                "CHRISTOPHER M. JAMES"
+            ],
+            "abstract": "A significant proportion of the debt issued by investment\u2010grade firms has maturities greater than 20 years. In this paper we provide evidence that gap\u2010filling behavior is an important determinant of these very long\u2010term issues. Using data on individual corporate debt issues between 1987 and 2009, we find that gap\u2010filling behavior is more prominent in the very long end of the maturity spectrum where the required risk capital makes arbitrage costly. In addition, changes in the supply of long\u2010term government bonds affect not just the choice of maturity but also the overall level of corporate borrowing.",
+            "link": "https://doi.org/10.1111/jofi.12264"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12382"
+        },
+        {
+            "no": "17",
+            "title": "ANNOUNCEMENTS",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12381"
+        },
+        {
+            "no": "18",
+            "title": "To Those Seeking Permissions for Academic Classroom Use",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12319"
+        },
+        {
+            "no": "19",
+            "title": "Issue Information \u2010 Style Instuctions",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12316"
+        },
+        {
+            "no": "20",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12317"
+        },
+        {
+            "no": "21",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "14 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12318"
+        }
+    ]
+}

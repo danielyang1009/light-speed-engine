@@ -1,0 +1,77 @@
+{
+    "journal": "RFS",
+    "volume": "3",
+    "issue": "3",
+    "date": "July 1990",
+    "page": "Pages 315\u2013492",
+    "article": [
+        {
+            "no": "1",
+            "title": "Pooling, Separating, and Semiseparating Equilibria in Financial Markets: Some Experimental Evidence",
+            "date": "30 April 2015",
+            "author": [
+                "Charles B. Cadsby",
+                "Murray Frank",
+                "Vojislav Maksimovic"
+            ],
+            "abstract": "This study investigates experimental financial markets in which firms possess more information than do potential investors. Firms were given opportunities to undertake positive net present value projects which they could either forgo or finance by selling equity. Auctions were conducted among the investors for the right to finance the projects. When the theoretical equilibrium was unique, theory predicted well. When theory permitted pooling, separation, and semiseparation, only the more efficient pooling equilibrium was observed. The domination of the pooling equilibrium was robust to different experimental experiences by participants. When available, signals were used by good firms to distinguish themselves from bad.",
+            "link": "https://doi.org/10.1093/rfs/3.3.315"
+        },
+        {
+            "no": "2",
+            "title": "Consistent Estimation of Cross-Sectional Models in Event Studies",
+            "date": "30 April 2015",
+            "author": [
+                "B. Espen Eckbo",
+                "Vojislav Maksimovic",
+                "Joseph Williams"
+            ],
+            "abstract": "Event studies often include cross-sectional regressions of announcement effects on exogenous variables. If the event is voluntary and investors are rational, then standard OLS and GLS estimators are inconsistent. Consistent ML estimators are constructed for a cross-sectional model of horizontal mergers relating announcement effects to exogenous characteristics of firms and industries. The OLS and ML estimates differ dramatically for bidders but not for targets. The evidence suggests that managers of bidders, but not targets, have valuable private information about the potential synergies from proposed mergers.",
+            "link": "https://doi.org/10.1093/rfs/3.3.343"
+        },
+        {
+            "no": "3",
+            "title": "Shareholder-Value Maximization and Product-Market Competition",
+            "date": "30 April 2015",
+            "author": [
+                "Julio J. Rotemberg",
+                "David S. Scharfstein"
+            ],
+            "abstract": "We investigate product-market competition when managers maximize shareholder value rather than their expected discounted value of profits. If shareholders are imperfectly informed about future profitability, shareholder-value maximization can lead to either more or less aggressive product-market strategies. Lower rivals\u2019 profits lead investors to believe that the firm\u2019s costs are low relative to those of its rivals and that the industry\u2019s prospects are poor. If the former (latter) inference dominates, each firm tries to lower (raise) its rivals\u2019 profits to increase its own stock price. We also consider implications for corporate financial structure.",
+            "link": "https://doi.org/10.1093/rfs/3.3.367"
+        },
+        {
+            "no": "4",
+            "title": "Simple Binomial Processes as Diffusion Approximations in Financial Models",
+            "date": "30 April 2015",
+            "author": [
+                "Daniel B. Nelson",
+                "Krishna Ramaswamy"
+            ],
+            "abstract": "A binomial approximation to a diffusion is defined as \u201ccomputationally simple\u201d if the number of nodes grows at most linearly in the number of time intervals. It is shown how to construct computationally simple binomial processes that converge weakly to commonly employed diffusions in financial models. The convergence of the sequence of bond and European option prices from these processes to the corresponding values in the diffusion limit is also demonstrated. Numerical examples from the constant elasticity of variance stock price and the Cox, Ingersoll, and Ross (1985) discount bond price are provided.",
+            "link": "https://doi.org/10.1093/rfs/3.3.393"
+        },
+        {
+            "no": "5",
+            "title": "Data-Snooping Biases in Tests of Financial Asset Pricing Models",
+            "date": "30 April 2015",
+            "author": [
+                "Andrew W. Lo",
+                "A. Craig MacKinlay"
+            ],
+            "abstract": "Tests of financial asset pricing models may yield misleading inferences when properties of the data are used to construct the test statistics. In particular, such tests are often based on returns to portfolios of common stock, where portfolios are constructed by sorting on some empirically motivated characteristic of the securities such as market value of equity. Analytical calculations, Monte Carlo simulations, and two empirical examples show that the effects of this type of data snooping can be substantial.",
+            "link": "https://doi.org/10.1093/rfs/3.3.431"
+        },
+        {
+            "no": "6",
+            "title": "The Stop-Loss Start-Gain Paradox and Option Valuation: A New Decomposition into Intrinsic and Time Value",
+            "date": "30 April 2015",
+            "author": [
+                "Peter P. Carr",
+                "Robert A. Jarrow"
+            ],
+            "abstract": "The downside risk in a leveraged stock position can be eliminated by using stop-loss orders. The upside potential of such a position can be captured using contingent buy orders. The terminal payoff to this stop-loss start-gain strategy is identical to that of a call option, but the strategy costs less initially. This article resolves this paradox by showing that the strategy is not self-financing for continuous stock-price processes of unbounded variation. The resolution of the paradox leads to a new decomposition of an option\u2019s price into its intrinsic and time value. When the stock price follows geometric Brownian motion, this decomposition is proven to be mathematically equivalent to the Black\u2013Scholes (1973) formula.",
+            "link": "https://doi.org/10.1093/rfs/3.3.469"
+        }
+    ]
+}

@@ -1,0 +1,154 @@
+{
+    "journal": "JF",
+    "volume": "68",
+    "issue": "1",
+    "date": "February 2013",
+    "page": "Pages: i-vii, 1-385, bmi",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "11 January 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12013"
+        },
+        {
+            "no": "2",
+            "title": "Efficient Recapitalization",
+            "date": "27 December 2012",
+            "author": [
+                "THOMAS PHILIPPON",
+                "PHILIPP SCHNABL"
+            ],
+            "abstract": "We analyze government interventions to recapitalize a banking sector that restricts lending to firms because of debt overhang. We find that the efficient recapitalization program injects capital against preferred stock plus warrants and conditions implementation on sufficient bank participation. Preferred stock plus warrants reduces opportunistic participation by banks that do not require recapitalization, although conditional implementation limits free riding by banks that benefit from lower credit risk because of other banks\u2019 participation. Efficient recapitalization is profitable if the benefits of lower aggregate credit risk exceed the cost of implicit transfers to bank debt holders.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01793.x"
+        },
+        {
+            "no": "3",
+            "title": "Industry\u2010Specific Human Capital, Idiosyncratic Risk, and the Cross\u2010Section of Expected Stock Returns",
+            "date": "27 December 2012",
+            "author": [
+                "ESTHER EILING"
+            ],
+            "abstract": "Human capital is one of the largest assets in the economy and in theory may play an important role for asset pricing. Human capital is heterogeneous across investors. One source of heterogeneity is industry affiliation. I show that the cross\u2010section of expected stock returns is primarily affected by industry\u2010level rather than aggregate labor income risk. Furthermore, when human capital is excluded from the asset pricing model, the resulting idiosyncratic risk may appear to be priced. I find that the premium for idiosyncratic risk documented by several empirical studies depends on the covariance between stock and human capital returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01794.x"
+        },
+        {
+            "no": "4",
+            "title": "Ex Ante Skewness and Expected Stock Returns",
+            "date": "27 December 2012",
+            "author": [
+                "JENNIFER CONRAD",
+                "ROBERT F. DITTMAR",
+                "ERIC GHYSELS"
+            ],
+            "abstract": "We use option prices to estimate ex ante higher moments of the underlying individual securities\u2019 risk\u2010neutral returns distribution. We find that individual securities\u2019 risk\u2010neutral volatility, skewness, and kurtosis are strongly related to future returns. Specifically, we find a negative (positive) relation between ex ante volatility (kurtosis) and subsequent returns in the cross\u2010section, and more ex ante negatively (positively) skewed returns yield subsequent higher (lower) returns. We analyze the extent to which these returns relations represent compensation for risk and find evidence that, even after controlling for differences in co\u2010moments, individual securities\u2019 skewness matters.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01795.x"
+        },
+        {
+            "no": "5",
+            "title": "Dynamic Competition, Valuation, and Merger Activity",
+            "date": "27 December 2012",
+            "author": [
+                "MATTHEW SPIEGEL",
+                "HEATHER TOOKES"
+            ],
+            "abstract": "We model the interactions between product market competition and investment valuation within a dynamic oligopoly. To our knowledge, the model is the first continuous\u2010time corporate finance model in a multiple firm setting with heterogeneous products. The model is tractable and amenable to estimation. We use it to relate current industry characteristics with firm value and financial decisions. Unlike most corporate finance models, it produces predictions regarding parameter magnitudes as well their signs. Estimates of the model's parameters indicate strong linkages between model\u2010implied and actual values. The paper uses the estimated parameters to predict rivals\u2019 returns near merger announcements.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01796.x"
+        },
+        {
+            "no": "6",
+            "title": "Conflicting Family Values in Mutual Fund Families",
+            "date": "27 December 2012",
+            "author": [
+                "UTPAL BHATTACHARYA",
+                "JUNG H. LEE",
+                "VERONIKA K. POOL"
+            ],
+            "abstract": "We analyze the investment behavior of affiliated funds of mutual funds (AFoMFs), which are mutual funds that can only invest in other funds in the family, and are offered by most large families. Though never mentioned in any prospectus, we discover that AFoMFs provide an insurance pool against temporary liquidity shocks to other funds in the family. We show that, though the family benefits because funds can avoid fire sales, the cost of this insurance is borne by the investors in the AFoMFs. The paper thus uncovers some of the hidden complexities of fiduciary responsibility in mutual fund families.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01797.x"
+        },
+        {
+            "no": "7",
+            "title": "What Do Consumers\u2019 Fund Flows Maximize? Evidence from Their Brokers\u2019 Incentives",
+            "date": "23 December 2012",
+            "author": [
+                "SUSAN E. K. CHRISTOFFERSEN",
+                "RICHARD EVANS",
+                "DAVID K. MUSTO"
+            ],
+            "abstract": "We ask whether mutual funds\u2019 flows reflect the incentives of the brokers intermediating them. The incentives we address are those revealed in statutory filings: the brokers\u2019 shares of sales loads and other revenue, and their affiliation with the fund family. We find significant effects of these payments to brokers on funds\u2019 inflows, particularly when the brokers are not affiliated. Tracking these investments forward, we find load sharing, but not revenue sharing, to predict poor performance, consistent with the different incentives these payments impart. We identify one benefit of captive brokerage, which is the recapture of redemptions elsewhere in the family.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01798.x"
+        },
+        {
+            "no": "8",
+            "title": "Capital Budgeting versus Market Timing: An Evaluation Using Demographics",
+            "date": "27 December 2012",
+            "author": [
+                "STEFANO DELLAVIGNA",
+                "JOSHUA M. POLLET"
+            ],
+            "abstract": "Using demand shifts induced by demographics, we evaluate capital budgeting and market timing. Capital budgeting implies that industries anticipating positive demand shifts in the near future should issue more equity to finance greater capacity. To the extent that demand shifts in the distant future are not incorporated into equity prices, market timing implies that industries anticipating positive shifts in the distant future should issue less equity due to undervaluation. The evidence supports both theories: new listings and equity issuance respond positively to demand shifts during the next 5 years and negatively to demand shifts further in the future.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01799.x"
+        },
+        {
+            "no": "9",
+            "title": "Analyst Forecast Consistency",
+            "date": "23 December 2012",
+            "author": [
+                "GILLES HILARY",
+                "CHARLES HSU"
+            ],
+            "abstract": "We show empirically that analysts who display more consistent forecast errors have greater ability to affect prices, and that this effect is larger than that of stated accuracy. These results lead to three implications. First, consistent analysts are less likely to be demoted and are more likely to be nominated All Star analysts. Second, analysts strategically deliver downward\u2010biased forecasts to increase their consistency (if at the expense of stated accuracy). Finally, the benefits of consistency and of \u201clowballing\u201d (accuracy) are increasing (decreasing) in institutional investors\u2019 presence.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01800.x"
+        },
+        {
+            "no": "10",
+            "title": "Liquidity Cycles and Make/Take Fees in Electronic Markets",
+            "date": "27 December 2012",
+            "author": [
+                "THIERRY FOUCAULT",
+                "OHAD KADAN",
+                "EUGENE KANDEL"
+            ],
+            "abstract": "We develop a model in which the speed of reaction to trading opportunities is endogenous. Traders face a trade\u2010off between the benefit of being first to seize a profit opportunity and the cost of attention required to be first to seize this opportunity. The model provides an explanation for maker/taker pricing, and has implications for the effects of algorithmic trading on liquidity, volume, and welfare. Liquidity suppliers\u2019 and liquidity demanders\u2019 trading intensities reinforce each other, highlighting a new form of liquidity externalities. Data on durations between trades and quotes could be used to identify these externalities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01801.x"
+        },
+        {
+            "no": "11",
+            "title": "Short\u2010Selling Bans Around the World: Evidence from the 2007\u201309 Crisis",
+            "date": "27 December 2012",
+            "author": [
+                "ALESSANDRO BEBER",
+                "MARCO PAGANO"
+            ],
+            "abstract": "Most regulators around the world reacted to the 2007\u201309 crisis by imposing bans on short selling. These were imposed and lifted at different dates in different countries, often targeted different sets of stocks, and featured varying degrees of stringency. We exploit this variation in short\u2010sales regimes to identify their effects on liquidity, price discovery, and stock prices. Using panel and matching techniques, we find that bans (i) were detrimental for liquidity, especially for stocks with small capitalization and no listed options; (ii) slowed price discovery, especially in bear markets, and (iii) failed to support prices, except possibly for U.S. financial stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01802.x"
+        },
+        {
+            "no": "12",
+            "title": "MISCELLANEA",
+            "date": "11 January 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01803.x"
+        },
+        {
+            "no": "13",
+            "title": "ANNOUNCEMENTS",
+            "date": "11 January 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12015"
+        },
+        {
+            "no": "14",
+            "title": "BACK MATTER",
+            "date": "11 January 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12014"
+        }
+    ]
+}

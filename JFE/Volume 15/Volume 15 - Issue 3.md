@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Mar 1986
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -19,7 +19,7 @@
 ## 2. Unanticipated inflation and the value of the firm
 ### Date
 - Mar 1986
-### Authors
+### Author
 - Victor L. Bernard
 ### Abstract
 Evidence presented here indicates that the relationship between stock returns and unexpected inflation differs systematically across firms. The differences are shown to be consistent with cross-sectional variation in firms' nominal contracts (monetary claims and depreciation tax shields). The differences are also partially explained by proxies for underlying firm characteristics that could create interaction between unexpected inflation and operating profitability. Finally, much if not most of the differences appear to arise because unexpected inflation is correlated with changes in expected aggregate real activity, the effects of which tend to vary across firms according to their systematic risk.
@@ -29,7 +29,7 @@ Evidence presented here indicates that the relationship between stock returns an
 ## 3. Calculating the market value of riskless cash flows
 ### Date
 - Mar 1986
-### Authors
+### Author
 - Richard S. Ruback
 ### Abstract
 This paper uses arbitrage arguments to calculate the market value of riskless after-tax cash flows. The market value equals the present value of riskless after-tax cash flows discounted at the after-corporate-tax riskless interest rate. The market value equals the adjusted present value of riskless after-tax cash flows only when the incremental debt used in the adjusted present value calculations equals the market value of the remaining after-tax cash flows. Also, the analysis provides valuation formulas when interest and tax rates are certain but not uniform and when interest rates are uncertain.
@@ -39,7 +39,7 @@ This paper uses arbitrage arguments to calculate the market value of riskless af
 ## 4. Unbiased estimation of the Black/Scholes formula
 ### Date
 - Mar 1986
-### Authors
+### Author
 - J.S. Butler
 - Barry Schachter
 ### Abstract
@@ -50,7 +50,7 @@ The Black/Scholes model gives the price of an option as a function of the true v
 ## 5. Non-trading, market making, and estimates of stock price volatility
 ### Date
 - Mar 1986
-### Authors
+### Author
 - Terry A. Marsh
 - Eric R. Rosenfeld
 ### Abstract
@@ -61,7 +61,7 @@ We examine the effects of market making and intermittent trading on estimates of
 ## 6. Performance measurement with the arbitrage pricing theory
 ### Date
 - Mar 1986
-### Authors
+### Author
 - Gregory Connor
 - Robert A. Korajczyk
 ### Abstract
@@ -72,7 +72,7 @@ This paper develops a theory and econometric method of portfolio performance mea
 ## 7. The market valuation of cash dividends
 ### Date
 - Mar 1986
-### Authors
+### Author
 - James M Poterba
 ### Abstract
 This paper re-examines the case of Citizens Utilities, a firm with one class of common stock which pays stock dividends and one which pays taxable cash dividends. John Long's (1978) study of the two shares' relative prices suggests that investors may prefer cash dividends to equal-sized stock dividends. This paper finds that the cash dividend share's ex-day price decline is less than their dividend payment. Stock dividend shares fall by nearly their full dividend. The disparity between ex-day dividend valuation and the observed prices of the two shares is inconsistent with some explanations of the demand for cash dividends.
@@ -82,7 +82,7 @@ This paper re-examines the case of Citizens Utilities, a firm with one class of 
 ## 8. News item
 ### Date
 - Mar 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -91,7 +91,7 @@ This paper re-examines the case of Citizens Utilities, a firm with one class of 
 ## 9. Index
 ### Date
 - Mar 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link

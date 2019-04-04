@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Corporate ownership structure and bank loan syndicate structure
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Chen Lin
 - Yue Ma
 - Paul Malatesta
@@ -27,7 +27,7 @@ Using a novel data set on corporate ownership and control, we show that the dive
 ## 3. The flight home effect: Evidence from the syndicated loan market during financial crises
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Mariassunta Giannetti
 - Luc Laeven
 ### Abstract
@@ -38,7 +38,7 @@ This paper shows that the collapse of the global market for syndicated loans dur
 ## 4. Internal corporate governance, CEO turnover, and earnings management
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Sonali Hazarika
 - Jonathan M. Karpoff
 - Rajarishi Nahata
@@ -50,7 +50,7 @@ The likelihood and speed of forced CEO turnover – but not voluntary turnover �
 ## 5. Executive stock options, differential risk-taking incentives, and firm value
 ### Date
 - Nov 2011
-### Authors
+### Author
 - Christopher S. Armstrong
 - Rahul Vashishtha
 ### Abstract
@@ -61,7 +61,7 @@ The sensitivity of stock options' payoff to return volatility, or vega, provides
 ## 6. (Interstate) Banking and (interstate) trade: Does real integration follow financial integration?
 ### Date
 - Nov 2011
-### Authors
+### Author
 - Tomasz Michalski
 - Evren Ors
 ### Abstract
@@ -72,7 +72,7 @@ We conjecture that banks present in two regions charge the appropriate risk prem
 ## 7. Reputation penalties for poor monitoring of executive pay: Evidence from option backdating
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Yonca Ertimur
 - Fabrizio Ferri
 - David A. Maber
@@ -84,7 +84,7 @@ We study whether outside directors are held accountable for poor monitoring of e
 ## 8. Local investors, price discovery, and market efficiency
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Sophie Shive
 ### Abstract
 This study examines the effect of locally informed investors on market efficiency and stock prices using large power outages, which are exogenous events that constrain trading. Turnover in stocks headquartered in an outage area with 0.5% of U.S. electrical customers drops by 3–7% on the first full day of the outage, and bid–ask spreads narrow by 2.5%. Firm-specific price volatility is 2.3% lower on blackout dates. This effect is larger for smaller, lesser-known stocks and in higher income areas. Consistent with a valuation discount and higher expected returns for stocks with more informed traders, firms with a one-standard-deviation higher local trading propensity have market-to-book values that are 5% lower, Tobin's Q that is 6% lower, annualized four-factor alphas that are 1.2% higher, and average spreads that are 6.5% higher. Together, the evidence suggests that informed investors contribute disproportionately to both liquidity and price discovery, and that these contributions are reflected in valuations and expected returns.
@@ -94,7 +94,7 @@ This study examines the effect of locally informed investors on market efficienc
 ## 9. Cash holdings, risk, and expected returns
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Berardino Palazzo
 ### Abstract
 In this paper I develop and empirically test a model that highlights how the correlation between cash flows and a source of aggregate risk affects a firm's optimal cash holding policy. In the model, riskier firms (i.e., firms with a higher correlation between cash flows and the aggregate shock) are more likely to use costly external funding to finance their growth option exercises and have higher optimal savings. This precautionary savings motive implies a positive relation between expected equity returns and cash holdings. In addition, this positive relation is stronger for firms with less valuable growth options. Using a data set of US pubic companies, I find evidence consistent with the model's predictions.
@@ -104,7 +104,7 @@ In this paper I develop and empirically test a model that highlights how the cor
 ## 10. Optimal securitization with moral hazard
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Barney Hartman-Glaser
 - Tomasz Piskorski
 - Alexei Tchistyi
@@ -116,7 +116,7 @@ We consider the optimal design of mortgage-backed securities (MBS) in a dynamic 
 ## 11. The effect of board structure on firm value: A multiple identification strategies approach using Korean data
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Bernard Black
 - Woochan Kim
 ### Abstract

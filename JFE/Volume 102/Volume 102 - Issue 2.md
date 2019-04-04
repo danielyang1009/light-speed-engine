@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - November 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Corporate bond default risk: A 150-year perspective
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Kay Giesecke
 - Francis A. Longstaff
 - Stephen Schaefer
@@ -27,7 +27,7 @@ We study corporate bond default rates using an extensive new data set spanning t
 ## 3. Equity grants to target CEOs during deal negotiations
 ### Date
 - Jun 2011
-### Authors
+### Author
 - Shane Heitzman
 ### Abstract
 I investigate the determinants and consequences of granting equity to the target's Chief Executive Officer (CEO) during deal negotiations. These negotiation grants likely reflect information about the acquisition, benefit from the deal premium, and provide more timely bargaining incentives. I find that CEOs are more likely to receive equity during negotiations when they negotiate for the target, particularly when the target has more bargaining power. This suggests that boards use equity to enhance bargaining incentives for CEOs with the most influence over deal price. I find limited evidence that negotiation grants are used as compensation and no evidence that they have a material adverse effect on shareholders.
@@ -37,7 +37,7 @@ I investigate the determinants and consequences of granting equity to the target
 ## 4. CEO ownership, external governance, and risk-taking
 ### Date
 - Jul 2011
-### Authors
+### Author
 - E. Han Kim
 - Yao Lu
 ### Abstract
@@ -48,7 +48,7 @@ This paper shows the relation between CEO ownership and firm valuation hinges cr
 ## 5. What determines stock option contract design?
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Eva Liljeblom
 - Daniel Pasternack
 - Matts Rosenberg
@@ -60,7 +60,7 @@ We analyze the factors that drive exercise price policy for executive option pla
 ## 6. Post-merger restructuring and the boundaries of the firm
 ### Date
 - May 2011
-### Authors
+### Author
 - Vojislav Maksimovic
 - Gordon Phillips
 - N.R. Prabhala
@@ -72,7 +72,7 @@ We examine how firms redraw their boundaries after acquisitions using plant-leve
 ## 7. The price of liquidity: The effects of market conditions and bank characteristics
 ### Date
 - May 2011
-### Authors
+### Author
 - Falko Fecht
 - Kjell G. Nyborg
 - Jörg Rocholl
@@ -84,7 +84,7 @@ We study the prices that individual banks pay for liquidity (captured by borrowi
 ## 8. Conditional risk and performance evaluation: Volatility timing, overconditioning, and new estimates of momentum alphas
 ### Date
 - Jun 2011
-### Authors
+### Author
 - Oliver Boguth
 - Murray Carlson
 - Adlai Fisher
@@ -97,7 +97,7 @@ Unconditional alphas are biased when conditional beta covaries with the market r
 ## 9. Adding and subtracting Black-Scholes: A new approach to approximating derivative prices in continuous-time models
 ### Date
 - May 2011
-### Authors
+### Author
 - Dennis Kristensen
 - Antonio Mele
 ### Abstract
@@ -108,7 +108,7 @@ We develop a new approach to approximating asset prices in the context of contin
 ## 10. Ownership structure and financial constraints: Evidence from a structural estimation
 ### Date
 - Jun 2011
-### Authors
+### Author
 - Chen Lin
 - Yue Ma
 - Yuhai Xuan
@@ -120,7 +120,7 @@ This article examines the impact of the divergence between corporate insiders' c
 ## 11. Growth LBOs
 ### Date
 - May 2011
-### Authors
+### Author
 - Quentin Boucly
 - David Sraer
 - David Thesmar
@@ -132,7 +132,7 @@ Using a data set of 839 French deals, we look at the change in corporate behavio
 ## 12. Corporate governance when founders are directors
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Feng Li
 - Suraj Srinivasan
 ### Abstract

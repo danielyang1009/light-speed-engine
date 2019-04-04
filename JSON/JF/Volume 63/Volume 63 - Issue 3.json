@@ -1,0 +1,193 @@
+{
+    "journal": "JF",
+    "volume": "63",
+    "issue": "3",
+    "date": "June 2008",
+    "page": "Pages: 1025-1534, i-xviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Growth versus Margins: Destabilizing Consequences of Giving the Stock Market What It Wants",
+            "date": "09 May 2008",
+            "author": [
+                "PHILIPPE AGHION",
+                "JEREMY C. STEIN"
+            ],
+            "abstract": "We develop a model in which a firm can devote effort either to increasing sales growth, or to improving per\u2010unit profit margins. If the firm's manager cares about the current stock price, she will favor the growth strategy when the market pays more attention to growth numbers. Conversely, it can be rational for the market to weight growth measures more heavily when it is known that the firm is following a growth strategy. This two\u2010way feedback between firms' strategies and the market's pricing rule can lead to excess volatility in real variables, even absent any external shocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01351.x"
+        },
+        {
+            "no": "2",
+            "title": "Volatility Information Trading in the Option Market",
+            "date": "09 May 2008",
+            "author": [
+                "SOPHIE X. NI",
+                "JUN PAN",
+                "ALLEN M. POTESHMAN"
+            ],
+            "abstract": "This paper investigates informed trading on stock volatility in the option market. We construct non\u2010market maker net demand for volatility from the trading volume of individual equity options and find that this demand is informative about the future realized volatility of underlying stocks. We also find that the impact of volatility demand on option prices is positive. More importantly, the price impact increases by 40% as informational asymmetry about stock volatility intensifies in the days leading up to earnings announcements and diminishes to its normal level soon after the volatility uncertainty is resolved.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01352.x"
+        },
+        {
+            "no": "3",
+            "title": "The Corporate Governance Role of the Media: Evidence from Russia",
+            "date": "09 May 2008",
+            "author": [
+                "ALEXANDER DYCK",
+                "NATALYA VOLCHKOVA",
+                "LUIGI ZINGALES"
+            ],
+            "abstract": "We study the effect of media coverage on corporate governance by focusing on Russia in the period 1999 to 2002. We find that an investment fund's lobbying increases coverage of corporate governance violations in the Anglo\u2010American press. We also find that coverage in the Anglo\u2010American press increases the probability that a corporate governance violation is reversed. This effect is present even when we instrument coverage with an exogenous determinant, the fund's portfolio composition at the beginning of the period. The fund's strategy seems to work in part by impacting Russian companies' reputation abroad and in part by forcing regulators into action.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01353.x"
+        },
+        {
+            "no": "4",
+            "title": "Blurring Firm Boundaries: The Role of Venture Capital in Strategic Alliances",
+            "date": "09 May 2008",
+            "author": [
+                "LAURA LINDSEY"
+            ],
+            "abstract": "This study documents a new value\u2010added role of venture capitalists and addresses important questions about how resources are combined to create firms. As part of the nexus of contracts surrounding a firm, strategic alliances can be viewed as relational contracts that blur firm boundaries. This paper provides evidence that alliances are more frequent among companies sharing a common venture capitalist. The effect is concentrated in alliances in which contracting problems are more pronounced, consistent with venture capitalists utilizing informational and other advantages in providing resources to firms. Further, these alliances improve the probability of exit for venture\u2010backed firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01354.x"
+        },
+        {
+            "no": "5",
+            "title": "The Market for Mergers and the Boundaries of the Firm",
+            "date": "09 May 2008",
+            "author": [
+                "MATTHEW RHODES\u2010KROPF",
+                "DAVID T. ROBINSON"
+            ],
+            "abstract": "We relate the property rights theory of the firm to empirical regularities in the market for mergers and acquisitions. We first show that high market\u2010to\u2010book acquirers typically do not purchase low market\u2010to\u2010book targets. Instead, mergers pair together firms with similar ratios. We then build a continuous\u2010time model of investment and merger activity combining search, scarcity, and asset complementarity to explain this like buys like result. We test the model by relating like\u2010buys\u2010like to search frictions. Search frictions and assortative matching vary inversely, supporting the model over standard explanations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01355.x"
+        },
+        {
+            "no": "6",
+            "title": "Stock Returns in Mergers and Acquisitions",
+            "date": "09 May 2008",
+            "author": [
+                "DIRK HACKBARTH",
+                "ERWAN MORELLEC"
+            ],
+            "abstract": "This paper develops a real options framework to analyze the behavior of stock returns in mergers and acquisitions. In this framework, the timing and terms of takeovers are endogenous and result from value\u2010maximizing decisions. The implications of the model for abnormal announcement returns are consistent with the available empirical evidence. In addition, the model generates new predictions regarding the dynamics of firm\u2010level betas for the period surrounding control transactions. Using a sample of 1,086 takeovers of publicly traded U.S. firms between 1985 and 2002, we present new evidence on the dynamics of firm\u2010level betas, which is strongly supportive of the model's predictions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01356.x"
+        },
+        {
+            "no": "7",
+            "title": "The Price of Immediacy",
+            "date": "09 May 2008",
+            "author": [
+                "GEORGE C. CHACKO",
+                "JAKUB W. JUREK",
+                "ERIK STAFFORD"
+            ],
+            "abstract": "This paper models transaction costs as the rents that a monopolistic market maker extracts from impatient investors who trade via limit orders. We show that limit orders are American options. The limit prices inducing immediate execution of the order are functionally equivalent to bid and ask prices and can be solved for various transaction sizes to characterize the market maker's entire supply curve. We find considerable empirical support for the model's predictions in the cross\u2010section of NYSE firms. The model produces unbiased, out\u2010of\u2010sample forecasts of abnormal returns for firms added to the S&P 500 index.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01357.x"
+        },
+        {
+            "no": "8",
+            "title": "Loan Sales and Relationship Banking",
+            "date": "09 May 2008",
+            "author": [
+                "CHRISTINE A. PARLOUR",
+                "GUILLAUME PLANTIN"
+            ],
+            "abstract": "Firms raise money from banks and the bond market. Banks sell loans in a secondary market to recycle their funds or to trade on private information. Liquidity in the loan market depends on the relative likelihood of each motive for trade and affects firms' optimal financial structure. The endogenous degree of liquidity is not always socially optimal: There is excessive trade in highly rated names, and insufficient liquidity in riskier bonds. We provide testable implications for prices and quantities in primary and secondary loan markets, and bond markets. Further, we posit that risk\u2010based capital requirements may be socially desirable.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01358.x"
+        },
+        {
+            "no": "9",
+            "title": "Bank Loans, Bonds, and Information Monopolies across the Business Cycle",
+            "date": "09 May 2008",
+            "author": [
+                "JO\u00c3O A. C. SANTOS",
+                "ANDREW WINTON"
+            ],
+            "abstract": "Theory suggests that banks' private information about borrowers lets them hold up borrowers for higher interest rates. Since hold\u2010up power increases with borrower risk, banks with exploitable information should be able to raise their rates in recessions by more than is justified by borrower risk alone. We test this hypothesis by comparing the pricing of loans for bank\u2010dependent borrowers with the pricing of loans for borrowers with access to public debt markets, controlling for risk factors. Loan spreads rise in recessions, but firms with public debt market access pay lower spreads and their spreads rise significantly less in recessions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01359.x"
+        },
+        {
+            "no": "10",
+            "title": "A Search\u2010Based Theory of the On\u2010the\u2010Run Phenomenon",
+            "date": "09 May 2008",
+            "author": [
+                "DIMITRI VAYANOS",
+                "PIERRE\u2010OLIVIER WEILL"
+            ],
+            "abstract": "We propose a model in which assets with identical cash flows can trade at different prices. Infinitely lived agents can establish long positions in a search spot market, or short positions by first borrowing an asset in a search repo market. We show that short\u2010sellers can endogenously concentrate in one asset because of search externalities and the constraint that they must deliver the asset they borrowed. That asset enjoys greater liquidity, a higher lending fee (\u201cspecialness\u201d), and trades at a premium consistent with no\u2010arbitrage. We derive closed\u2010form solutions for small frictions, and provide a calibration generating realistic on\u2010the\u2010run premia.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01360.x"
+        },
+        {
+            "no": "11",
+            "title": "Attracting Attention: Cheap Managerial Talk and Costly Market Monitoring",
+            "date": "09 May 2008",
+            "author": [
+                "ANDRES ALMAZAN",
+                "SANJAY BANERJI",
+                "ADOLFO DE MOTTA"
+            ],
+            "abstract": "We provide a theory of informal communication\u2014cheap talk\u2014between firms and capital markets that incorporates the role of agency conflicts between managers and shareholders. The analysis suggests that a policy of discretionary disclosure that encourages managers to attract the market's attention when the firm is substantially undervalued can create shareholder value. The theory also relates the credibility of managerial announcements to the use of stock\u2010based compensation, the presence of informed trading, and the liquidity of the stock. Our results are consistent with the existence of positive announcement effects produced by apparently innocuous corporate events (e.g., stock dividends, name changes).",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01361.x"
+        },
+        {
+            "no": "12",
+            "title": "More Than Words: Quantifying Language to Measure Firms' Fundamentals",
+            "date": "09 May 2008",
+            "author": [
+                "PAUL C. TETLOCK",
+                "MAYTAL SAAR\u2010TSECHANSKY",
+                "SOFUS MACSKASSY"
+            ],
+            "abstract": "We examine whether a simple quantitative measure of language can be used to predict individual firms' accounting earnings and stock returns. Our three main findings are: (1) the fraction of negative words in firm\u2010specific news stories forecasts low firm earnings; (2) firms' stock prices briefly underreact to the information embedded in negative words; and (3) the earnings and return predictability from negative words is largest for the stories that focus on fundamentals. Together these findings suggest that linguistic media content captures otherwise hard\u2010to\u2010quantify aspects of firms' fundamentals, which investors quickly incorporate into stock prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01362.x"
+        },
+        {
+            "no": "13",
+            "title": "The Politics of Financial Development: Evidence from Trade Liberalization",
+            "date": "09 May 2008",
+            "author": [
+                "MATIAS BRAUN",
+                "CLAUDIO RADDATZ"
+            ],
+            "abstract": "Incumbents in various industries have different incentives to promote or oppose financial development. Changes in the relative strength of promoter and opponent industries thus result in changes in the political equilibrium level of financial development. We conduct an event study using a sample of 41 countries that liberalized trade during 1970 to 2000, and show that the strengthening of promoter relative to opponent industries resulting from liberalization is a good predictor of subsequent financial development. The benefits of developing the financial system are insufficient for financial development, and rents in particular hands appear to be necessary to achieve it.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01363.x"
+        },
+        {
+            "no": "14",
+            "title": "Neighbors Matter: Causal Community Effects and Stock Market Participation",
+            "date": "09 May 2008",
+            "author": [
+                "JEFFREY R. BROWN",
+                "ZORAN IVKOVI\u0106",
+                "PAUL A. SMITH",
+                "SCOTT WEISBENNER"
+            ],
+            "abstract": "This paper establishes a causal relation between an individual's decision whether to own stocks and average stock market participation of the individual's community. We instrument for the average ownership of an individual's community with lagged average ownership of the states in which one's nonnative neighbors were born. Combining this instrumental variables approach with controls for individual and community fixed effects, a broad set of time\u2010varying individual and community controls, and state\u2010year effects rules out alternative explanations. To further establish that word\u2010of\u2010mouth communication drives this causal effect, we show that the results are stronger in more sociable communities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01364.x"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "09 May 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01322.x"
+        },
+        {
+            "no": "16",
+            "title": "Front Matter",
+            "date": "09 May 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01345.x"
+        },
+        {
+            "no": "17",
+            "title": "Back Matter",
+            "date": "09 May 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01365.x"
+        }
+    ]
+}

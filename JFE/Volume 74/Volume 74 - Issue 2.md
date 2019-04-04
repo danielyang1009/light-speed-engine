@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Predicting returns with financial ratios
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Jonathan Lewellen
 ### Abstract
 This article studies whether financial ratios like dividend yield can predict aggregate stock returns. Predictive regressions are subject to small-sample biases, but the correction used by prior studies can substantially understate forecasting power. I show that dividend yield predicts market returns during the period 1946–2000, as well as in various subsamples. Book-to-market and the earnings-price ratio predict returns during the shorter sample 1963–2000. The evidence remains strong despite the unusual price run-up in recent years.
@@ -24,7 +24,7 @@ This article studies whether financial ratios like dividend yield can predict ag
 ## 3. Managerial succession and firm performance
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Mark R. Huson
 - Paul H. Malatesta
 - Robert Parrino
@@ -36,7 +36,7 @@ We examine CEO turnover and firm financial performance. Accounting measures of p
 ## 4. Cross-country determinants of mergers and acquisitions
 ### Date
 - Oct 2003
-### Authors
+### Author
 - Stefano Rossi
 - Paolo F. Volpin
 ### Abstract
@@ -47,7 +47,7 @@ We study the determinants of mergers and acquisitions around the world by focusi
 ## 5. Limited arbitrage and short sales restrictions: evidence from the options markets
 ### Date
 - May 2003
-### Authors
+### Author
 - Eli Ofek
 - Matthew Richardson
 - Robert F. Whitelaw
@@ -59,7 +59,7 @@ We investigate empirically the well-known put–call parity no-arbitrage relatio
 ## 6. Institutional trading and the turn-of-the-year effect
 ### Date
 - May 2003
-### Authors
+### Author
 - Lilian Ng
 - Qinghai Wang
 ### Abstract
@@ -70,7 +70,7 @@ This study provides evidence that links institutional trading behavior directly 
 ## 7. Style effects in the cross-section of stock returns
 ### Date
 - Oct 2003
-### Authors
+### Author
 - Melvyn Teo
 - Sung-Jun Woo
 ### Abstract

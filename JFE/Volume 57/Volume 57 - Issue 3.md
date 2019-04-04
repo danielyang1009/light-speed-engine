@@ -5,7 +5,7 @@
 ## 1. Special dividends and the evolution of dividend signaling
 ### Date
 - Sep 2000
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Douglas J. Skinner
@@ -17,7 +17,7 @@ This paper documents that (1) special dividends were once commonly paid by NYSE 
 ## 2. Financial flexibility and the choice between dividends and stock repurchases
 ### Date
 - Sep 2000
-### Authors
+### Author
 - Murali Jagannathan
 - Clifford P Stephens
 - Michael S Weisbach
@@ -29,7 +29,7 @@ This paper measures the growth in open market stock repurchases and the manner i
 ## 3. The cash-flow permanence and information content of dividend increases versus repurchases
 ### Date
 - Sep 2000
-### Authors
+### Author
 - Wayne Guay
 - Jarrad Harford
 ### Abstract
@@ -40,7 +40,7 @@ We hypothesize that firms choose dividend increases to distribute relatively per
 ## 4. Liquidity, investment ability, and mutual fund structure
 ### Date
 - Sep 2000
-### Authors
+### Author
 - Vikram Nanda
 - M.P Narayanan
 - Vincent A Warther
@@ -52,7 +52,7 @@ We develop a model of the mutual fund industry in which the management fees and 
 ## 5. Making markets for structured mortgage derivatives
 ### Date
 - Sep 2000
-### Authors
+### Author
 - George S. Oldfield
 ### Abstract
 This paper distinguishes between securitization, in which simple pass-through instruments are created, and structuring, in which mortgages derivative claims are created. The point is to explain how structuring a transaction brings value to a deal's underwriter. Briefly, an underwriter must defeat arbitrage between pass-throughs and derivatives. The potential for market segmentation and price discrimination by the underwriter is used to analyze the structuring process. In the course of the analysis, the legal rules for trusts, the algebraic rules for structuring, and the limits on permissible price discrimination are discussed. Results for an actual transaction illustrate the important features of the analysis.
@@ -62,7 +62,7 @@ This paper distinguishes between securitization, in which simple pass-through in
 ## 6. Index
 ### Date
 - Sep 2000
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Ambiguity and the corporation: Group disagreement and underinvestment
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Lorenzo Garlappi
 - Ron Giammarino
 - Ali Lazrak
@@ -26,7 +26,7 @@ We study a dynamic corporate investment problem where decisions have to be made 
 ## 3. Interbank networks in the National Banking Era: Their purpose and their role in the Panic of 1893
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Charles W. Calomiris
 - Mark Carlson
 ### Abstract
@@ -37,7 +37,7 @@ The unit banking structure of the United States produced a uniquely important in
 ## 4. Debt correlations in the wake of the financial crisis: What are appropriate default correlations for structured products?
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Jordan Nickerson
 - John M. Griffin
 ### Abstract
@@ -48,7 +48,7 @@ This paper proposes several frameworks to estimate the appropriate default corre
 ## 5. Fire sale discount: Evidence from the sale of minority equity stakes
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Serdar Dinc
 - Isil Erel
 - Rose Liao
@@ -60,7 +60,7 @@ Most empirical studies estimate the impact of fire sales either without the bene
 ## 6. Volatility of aggregate volatility and hedge fund returns
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Vikas Agarwal
 - Y. Eser Arisoy
 - Narayan Y. Naik
@@ -72,7 +72,7 @@ This paper investigates empirically whether uncertainty about equity market vola
 ## 7. Systemic risk in clearing houses: Evidence from the European repo market
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Charles Boissel
 - François Derrien
 - Evren Ors
@@ -85,7 +85,7 @@ We study how crises affect Central Clearing Counterparties (CCPs). We focus on a
 ## 8. The impact of innovation: Evidence from corporate bond exchange-traded funds (ETFs)
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Caitlin D. Dannhauser
 ### Abstract
 Using distinct features of corporate bond exchange-traded funds (ETFs), I find that financial innovation has a significant and long-term positive valuation impact on the systemically important underlying securities. A one standard deviation increase in ETF ownership reduces high-yield and investment-grade bond spreads by 20.3 and 9.2 basis points, respectively, implying an average monthly price increase of 1.03% and 0.75%. Two novel quasi-natural experiments exploit exogenous changes in ETF eligibility to confirm the effect. Examining theoretical explanations for the effect, I find that ETFs decrease liquidity trader participation, increase institutional ownership, and insignificantly or negatively impact the liquidity of individual bonds.
@@ -95,7 +95,7 @@ Using distinct features of corporate bond exchange-traded funds (ETFs), I find t
 ## 9. Informed trading and price discovery before corporate events
 ### Date
 - May 2017
-### Authors
+### Author
 - Shmuel Baruch
 - Marios Panayides
 - Kumar Venkataraman
@@ -107,7 +107,7 @@ Stock prices incorporate less news before negative events than positive events. 
 ## 10. Maximum likelihood estimation of the equity premium
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Efstathios Avdis
 - Jessica A. Wachter
 ### Abstract
@@ -118,7 +118,7 @@ The equity premium — the expected return on the aggregate stock market less th
 ## 11. Tail risk in hedge funds: A unique view from portfolio holdings
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Vikas Agarwal
 - Stefan Ruenzi
 - Florian Weigert
@@ -130,7 +130,7 @@ We develop a new systematic tail risk measure for equity-oriented hedge funds to
 ## 12. Reexamining staggered boards and shareholder value
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Alma Cohen
 - Charles C.Y. Wang
 ### Abstract

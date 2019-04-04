@@ -1,0 +1,231 @@
+{
+    "journal": "JF",
+    "volume": "42",
+    "issue": "1",
+    "date": "March 1987",
+    "page": "Pages: i-vi, 1-199, vii-xxviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00469.x"
+        },
+        {
+            "no": "2",
+            "title": "Mimicking Portfolios and Exact Arbitrage Pricing",
+            "date": "March 1987",
+            "author": [
+                "GUR HUBERMAN",
+                "SHMUEL KANDEL",
+                "ROBERT F. STAMBAUGH"
+            ],
+            "abstract": "We characterize the sets of mimicking positions with returns that can serve in place of factors in an exact K\u2010factor arbitrage\u2010pricing relation for a set of N assets. All of the sets are K\u2010dimensional nonsingular linear transformations of each other. We interpret three examples of such transformations and discuss empirical considerations. We provide conditions under which the mimicking positions can be expressed as portfolios, and we characterize the relation between mimicking portfolios and the minimum\u2010variance frontier.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02546.x"
+        },
+        {
+            "no": "3",
+            "title": "Autoregressive Modeling of Earnings\u2010Investment Causality",
+            "date": "March 1987",
+            "author": [
+                "SASSON BAR\u2010YOSEF",
+                "JEFFREY L. CALLEN",
+                "JOSHUA LIVNAT"
+            ],
+            "abstract": "The purpose of this paper is to empirically test the relationships between corporate earnings and investment. In particular, the study investigates whether knowledge of past investments improves the prediction of future earnings beyond predictions that are based on past earnings alone. Similarly, it investigates whether knowledge of past earnings improves the prediction of future investments beyond knowledge of past investments alone. This is the empirical definition of Granger causality. The empirical results show that the bivariate past series of earnings and investments is superior to the univariate series in predicting future investments but not in predicting future earnings.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02547.x"
+        },
+        {
+            "no": "4",
+            "title": "Perquisites, Risk, and Capital Structure",
+            "date": "March 1987",
+            "author": [
+                "JOSEPH WILLIAMS"
+            ],
+            "abstract": "In a corporate agency problem, perquisites and risk interact to produce novel, complex comparative statics. For example, even if additional debt induces risk\u2010neutral insiders to increase risk, they never seek to increase the market value of their stock; instead, insiders decrease the present value of their subsequent, conditionally optimal perquisites. Also, the firm's optimal capital structure includes a risky bond with an agreement to remove insiders whenever the bond defaults. However, the optimal sharing rule between corporate claimants cannot be supported solely by standard securities such as bonds, stocks, options, and their hybrids.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02548.x"
+        },
+        {
+            "no": "5",
+            "title": "Seasonality in the Risk\u2010Return Relationship: Some International Evidence",
+            "date": "March 1987",
+            "author": [
+                "ALBERT CORHAY",
+                "GABRIEL HAWAWINI",
+                "PIERRE MICHEL"
+            ],
+            "abstract": "We report evidence of seasonality in the Fama and MacBeth estimate of the CAPM\u2010based risk premium in four stock exchanges: the NYSE and the London, Paris, and Brussels exchanges. Specifically, we found that, in Belgium and France, risk premia are positive in January and negative the rest of the year. There is no January seasonal in the U.K. risk premium. Instead, we observed in this country a positive April seasonal and a negative average risk premium over the rest of the year. In the U.S., the pattern of risk\u2010premium seasonality coincides with the pattern of stock\u2010return seasonality. Both are positive and significant only in January. We also found that the January risk premium in the U.S. is significantly larger than those observed in the European markets. Interestingly, the reported patterns of risk\u2010premium seasonality in European equity markets do not fully coincide with the observed patterns of stock\u2010return seasonality in these markets. For example, in the U.K., average stock returns are significant and positive in January and April, whereas the market risk premium is significantly positive only in April. A possible interpretation of this phenomenon is presented in the paper.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02549.x"
+        },
+        {
+            "no": "6",
+            "title": "Expectations of Exchange Rates and Differential Inflation Rates: Further Evidence on Purchasing Power Parity in Efficient Markets",
+            "date": "March 1987",
+            "author": [
+                "ROGER D. HUANG"
+            ],
+            "abstract": "The paper tests the null hypothesis of ex ante purchasing power parity. The empirical evidence obtained is inconsistent with the null for major industrialized countries over the current floating exchange rate regime. Expected nominal exchange rate changes appear to deviate systematically from expected inflation rate differentials over the same holding period even though real exchange rate changes appear to be serially uncorrelated. This supports the presence of time\u2010varying risk premia in foreign exchange markets and real determinants of exchange rate movements as suggested by equilibrium theories of international asset markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02550.x"
+        },
+        {
+            "no": "7",
+            "title": "The Default Premium and Corporate Bond Experience",
+            "date": "March 1987",
+            "author": [
+                "JEROME S. FONS"
+            ],
+            "abstract": "The development of organized markets for speculative\u2010grade corporate debt has provided financial researchers with an opportunity to examine the pricing of default risk. By incorporating previous work on the default experience of low\u2010rated corporate debt, this paper presents an introduction to risk\u2010neutral models of risky\u2010bond pricing and uses these to examine the relationship between the default premium embodied in bond yields and actual default rates. The contribution of macroeconomic information to the default premium is also examined. The author finds that holders of low\u2010grade bonds have, on average, been compensated for losses due to default.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02551.x"
+        },
+        {
+            "no": "8",
+            "title": "An Analysis of Yield Curve Notes",
+            "date": "March 1987",
+            "author": [
+                "JOSEPH P. OGDEN"
+            ],
+            "abstract": "This paper analyzes a new type of security, the yield curve note, which pays interest at a rate that varies inversely with short\u2010term interest rates. A valuation model for yield curve notes is presented, the parameters of the model are estimated empirically, and the estimated model is used to explore, in simulation, the price behavior and risk characteristics of yield curve notes in comparison with fixed\u2010rate notes. The risk of a yield curve note is approximately twice as great as a fixed\u2010rate note with the same maturity. The unique risk characteristics of yield curve notes make them useful (as liabilities) in immunization strategies for financial institutions. Their usefulness in this regard may be the chief rationale for their development.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02552.x"
+        },
+        {
+            "no": "9",
+            "title": "Nonsynchronous Security Trading and Market Index Autocorrelation",
+            "date": "March 1987",
+            "author": [
+                "MICHAEL D. ATCHISON",
+                "KIRT C. BUTLER",
+                "RICHARD R. SIMONDS"
+            ],
+            "abstract": "The theoretical portfolio autocorrelation due solely to nonsynchronous trading is estimated from a derived model. This estimated level is found to be substantially less than that observed empirically. The theoretical and empirical relationship between portfolio size and autocorrelation also is investigated. The results of this study suggest that other price\u2010adjustment delay factors in addition to nonsynchronous trading cause the high autocorrelations present in daily returns on stock index portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02553.x"
+        },
+        {
+            "no": "10",
+            "title": "The Puzzle in Post\u2010Listing Common Stock Returns",
+            "date": "March 1987",
+            "author": [
+                "JOHN J. McCONNELL",
+                "GARY C. SANGER"
+            ],
+            "abstract": "Prior studies indicate that common stocks tend to earn negative returns immediately following listing on the NYSE. The authors document the phenomenon in detail and investigate a number of possible explanations. No full explanation is discovered, although several are ruled out.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02554.x"
+        },
+        {
+            "no": "11",
+            "title": "Using Financial Prices to Test Exchange Rate Models: A Note",
+            "date": "March 1987",
+            "author": [
+                "BRUNO SOLNIK"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02555.x"
+        },
+        {
+            "no": "12",
+            "title": "Asset Pricing and Dual Listing on Foreign Capital Markets: A Note",
+            "date": "March 1987",
+            "author": [
+                "GORDON J. ALEXANDER",
+                "CHEOL S. EUN",
+                "S. JANAKIRAMANAN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02556.x"
+        },
+        {
+            "no": "13",
+            "title": "Initial Public Offer Underpricing: The Issuer's View\u2014A Note",
+            "date": "March 1987",
+            "author": [
+                "STEVEN M. DAWSON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02557.x"
+        },
+        {
+            "no": "14",
+            "title": "A Note on the Behavior of Stock Returns around Ex\u2010Dates of Stock Distributions",
+            "date": "March 1987",
+            "author": [
+                "AJAY R. DRAVID"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02558.x"
+        },
+        {
+            "no": "15",
+            "title": "Miller's Irrelevance Mechanism: A Note",
+            "date": "March 1987",
+            "author": [
+                "VAROUJ A. AIVAZIAN",
+                "JEFFREY L. CALLEN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02559.x"
+        },
+        {
+            "no": "16",
+            "title": "The Distribution of Foreign Exchange Price Changes: Trading Day Effects and Risk Measurement\u2014A Comment",
+            "date": "March 1987",
+            "author": [
+                "JACKY C. SO"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02560.x"
+        },
+        {
+            "no": "17",
+            "title": "The Distribution of Foreign Exchange Price Changes: Trading Day Effects and Risk Measurement\u2014A Reply",
+            "date": "March 1987",
+            "author": [
+                "JAMES W. McFARLAND",
+                "R. RICHARDSON PETTIT",
+                "SAM K. SUNG"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02561.x"
+        },
+        {
+            "no": "18",
+            "title": "Book Reviews",
+            "date": "March 1987",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nFinancial Management for Decision Making. By HAROLD BIERMAN, JR. and SEYMOUR SMIDT.\nCase Studies in Financial Decision Making. By DIANA R. HARRINGTON.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02562.x"
+        },
+        {
+            "no": "19",
+            "title": "MISCELLANEA",
+            "date": "March 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb02563.x"
+        },
+        {
+            "no": "20",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00470.x"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00471.x"
+        },
+        {
+            "no": "22",
+            "title": "Back Matter",
+            "date": "March 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00472.x"
+        }
+    ]
+}

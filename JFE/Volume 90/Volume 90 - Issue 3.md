@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A theory of the transition to secondary market trading of IPOs
 ### Date
 - Aug 2007
-### Authors
+### Author
 - Zhaohui Chen
 - William J. Wilhelm
 ### Abstract
@@ -25,7 +25,7 @@ We develop a model in which investment banks and institutional investors collabo
 ## 3. Do investors value smooth performance?
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Brian Rountree
 - James P. Weston
 - George Allayannis
@@ -37,7 +37,7 @@ This paper presents empirical evidence that cash-flow volatility is negatively v
 ## 4. How common are common return factors across the NYSE and Nasdaq?
 ### Date
 - Jan 2008
-### Authors
+### Author
 - Amit Goyal
 - Christophe Pérignon
 - Christophe Villa
@@ -49,7 +49,7 @@ We entertain the possibility of pervasive factors that are not common across two
 ## 5. Option valuation with long-run and short-run volatility components
 ### Date
 - Dec 2007
-### Authors
+### Author
 - Peter Christoffersen
 - Kris Jacobs
 - Chayawat Ornthanalai
@@ -62,7 +62,7 @@ This paper presents a new model for the valuation of European options, in which 
 ## 6. Why firms purchase property insurance
 ### Date
 - Jan 2008
-### Authors
+### Author
 - Daniel Aunon-Nerin
 - Paul Ehling
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Tax management strategies with multiple risky assets
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Michael F. Gallmeyer
 - Ron Kaniel
 - Stathis Tompaidis
@@ -26,7 +26,7 @@ We study the consumption-portfolio problem in a setting with capital gain taxes 
 ## 3. Dividend changes and catering incentives
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Wei Li
 - Erik Lie
 ### Abstract
@@ -37,7 +37,7 @@ We extend Baker and Wurgler's [2004a. Journal of Finance 59 1125–1165] caterin
 ## 4. Momentum and post-earnings-announcement drift anomalies: The role of liquidity risk
 ### Date
 - Apr 2005
-### Authors
+### Author
 - Ronnie Sadka
 ### Abstract
 This paper investigates the components of liquidity risk that are important for understanding asset-pricing anomalies. Firm-level liquidity is decomposed into variable and fixed price effects and estimated using intraday data for the period 1983–2001. Unexpected systematic (market-wide) variations of the variable component rather than the fixed component of liquidity are shown to be priced within the context of momentum and post-earnings-announcement drift (PEAD) portfolio returns. As the variable component is typically associated with private information [e.g., Kyle, 1985. Econometrica 53, 1315–1335], the results suggest that a substantial part of momentum and PEAD returns can be viewed as compensation for the unexpected variations in the aggregate ratio of informed traders to noise traders.
@@ -47,7 +47,7 @@ This paper investigates the components of liquidity risk that are important for 
 ## 5. The outsourcing of R&D through acquisitions in the pharmaceutical industry
 ### Date
 - Apr 2005
-### Authors
+### Author
 - Matthew J. Higgins
 - Daniel Rodriguez
 ### Abstract
@@ -58,7 +58,7 @@ We examine the performance of 160 pharmaceutical acquisitions from 1994 to 2001 
 ## 6. How do family ownership, control and management affect firm value?
 ### Date
 - Dec 2004
-### Authors
+### Author
 - Belen Villalonga
 - Raphael Amit
 ### Abstract
@@ -69,7 +69,7 @@ Using proxy data on all Fortune-500 firms during 1994–2000, we find that famil
 ## 7. The American keiretsu and universal banks: Investing, voting and sitting on nonfinancials’ corporate boards
 ### Date
 - Mar 2005
-### Authors
+### Author
 - João A.C. Santos
 - Adrienne S. Rumble
 ### Abstract
@@ -80,7 +80,7 @@ This paper investigates the equity investments and voting rights that American b
 ## 8. Do accurate earnings forecasts facilitate superior investment recommendations?
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Roger K. Loh
 - G. Mujtaba Mian
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Capital utilization, market power, and the pricing of investment shocks
 ### Date
 - Nov 2016
-### Authors
+### Author
 - Lorenzo Garlappi
 - Zhongzhi Song
 ### Abstract
@@ -25,7 +25,7 @@ Capital utilization and market power crucially affect asset prices in an economy
 ## 3. Is economic uncertainty priced in the cross-section of stock returns?
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Turan G. Bali
 - Stephen J. Brown
 - Yi Tang
@@ -37,7 +37,7 @@ We investigate the role of economic uncertainty in the cross-sectional pricing o
 ## 4. Opportunism as a firm and managerial trait: Predicting insider trading profits and misconduct
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Usman Ali
 - David Hirshleifer
 ### Abstract
@@ -48,7 +48,7 @@ We show that opportunistic insiders can be identified through the profitability 
 ## 5. Offshore schemes and tax evasion: The role of banks
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Lucy Chernykh
 - Sergey Mityakov
 ### Abstract
@@ -59,7 +59,7 @@ We use mandatory Russian banks’ reports to the Central Bank to construct a nov
 ## 6. Shaped by their daughters: Executives, female socialization, and corporate social responsibility
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Henrik Cronqvist
 - Frank Yu
 ### Abstract
@@ -70,7 +70,7 @@ Corporate executives managing some of the largest public companies in the U.S. a
 ## 7. Systemic co-jumps
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Massimiliano Caporin
 - Aleksey Kolokolov
 - Roberto Renò
@@ -82,7 +82,7 @@ The simultaneous occurrence of jumps in several stocks can be associated with ma
 ## 8. Investor flows and fragility in corporate bond funds
 ### Date
 - Nov 2016
-### Authors
+### Author
 - Itay Goldstein
 - Hao Jiang
 - David T. Ng
@@ -94,7 +94,7 @@ This paper explores flow patterns in corporate bond mutual funds. We show that c
 ## 9. Advising shareholders in takeovers
 ### Date
 - Oct 2017
-### Authors
+### Author
 - Doron Levit
 ### Abstract
 This paper studies the advisory role of the board of directors in takeovers. I develop a model in which the takeover premium and the ability of the target board to resist the takeover are endogenous. The analysis relates the influence of the board on target shareholders and the reaction of the market to its recommendations to various characteristics of the acquirer and the target. I also show that the expected target shareholder value can decrease with the expertise of the board and it is maximized when the board is biased against the takeover. Generally, uninformative and ignored recommendations are not necessarily evidence that the target board has no influence on the outcome of the takeover. Perhaps surprisingly, under the optimal board structure, target shareholders ignore the recommendations of the board, which are never informative in equilibrium.
@@ -104,7 +104,7 @@ This paper studies the advisory role of the board of directors in takeovers. I d
 ## 10. Bank rescues and bailout expectations: The erosion of market discipline during the financial crisis
 ### Date
 - Oct 2017
-### Authors
+### Author
 - Florian Hett
 - Alexander Schmidt
 ### Abstract
@@ -115,7 +115,7 @@ We design a novel test for changes in market discipline based on the relation be
 ## 11. Designated market makers still matter: Evidence from two natural experiments
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Adam D. Clark-Joseph
 - Mao Ye
 - Chao Zi
@@ -127,7 +127,7 @@ Independent technological glitches forced two separate trading halts on differen
 ## 12. Confidence, bond risks, and equity returns
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Guihai Zhao
 ### Abstract
 I show that investor confidence (size of ambiguity) about future consumption growth is driven by past consumption growth and inflation. The impact of inflation on confidence has moved considerably over time and switched on average from negative to positive in 1997. Motivated by this evidence, I develop and estimate a model in which the confidence process has discrete regime shifts, and I find that the time-varying impact of inflation on confidence enables the model to match bond risks over different subperiods. The model can also account for stock and bond return predictability, and correlation between price-dividend ratios and inflation, among other features of the data.
@@ -137,7 +137,7 @@ I show that investor confidence (size of ambiguity) about future consumption gro
 ## 13. Tax uncertainty and retirement savings diversification
 ### Date
 - Oct 2017
-### Authors
+### Author
 - David C. Brown
 - Scott Cederburg
 - Michael S. O’Doherty

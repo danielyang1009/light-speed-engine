@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Jul 1997
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 
@@ -24,7 +24,7 @@
 ## 3. Symposium on market microstructure: Focus on Nasdaq
 ### Date
 - Jul 1997
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 This special issue of the Journal of Financial Economics includes six articles that analyze the market microstructure of Nasdaq in various ways. The question of the costs of trading on Nasdaq has become contentious in both the academic and legal/regulatory arenas since the Christie and Schultz (1994) article first noted that many actively traded Nasdaq stocks were almost never quoted on odd eights. The articles in this symposium bring new and interesting insights to this debate.
@@ -34,7 +34,7 @@ This special issue of the Journal of Financial Economics includes six articles t
 ## 4. The degree of price resolution and equity trading costs
 ### Date
 - Jul 1997
-### Authors
+### Author
 - Hendrik Bessembinder
 ### Abstract
 This paper investigates relations between trade execution costs and price-rounding practices for NYSE- and Nasdaq-listed firms. Execution costs on each exchange vary positively with the proportion of transaction prices and quotations rounded to eveneights of a dollar, both cross-sectionally and intertemporally. After allowing for variation in market-making costs attributable to the private information content of trades, there is a strong positive relation between execution costs and price-rounding frequencies for Nasdaq issues but not for NYSE issues. These findings are consistent with the assertion that price-rounding conventions effectively increase trade execution costs on Nasdaq.
@@ -44,7 +44,7 @@ This paper investigates relations between trade execution costs and price-roundi
 ## 5. Bid-ask spreads and the avoidance of odd-eighth quotes on Nasdaq: An examination of exchange listings
 ### Date
 - Jul 1997
-### Authors
+### Author
 - Michael J. Barclay
 ### Abstract
 This paper examines 472 securities that were listed on Nasdaq and moved to the NYSE or Amex. When Nasdaq market makers avoid odd-eighth quotes, bid-ask spreads are large and decline dramatically with exchange listing. When market makers use both odd and even eighths, spreads are smaller and decline only slightly with exchange listing. The large spreads observed when Nasdaq market makers avoid odd-eighths cannot be explained by security-specific characteristics. Instead, the results support the conclusion that the avoidance of odd-eighth quotes is used as a coordination device among Nasdaq market makers to maintain supra-competitive bid-ask spreads.
@@ -54,7 +54,7 @@ This paper examines 472 securities that were listed on Nasdaq and moved to the N
 ## 6. Nasdaq market structure and spread patterns
 ### Date
 - Jul 1997
-### Authors
+### Author
 - Eugene Kandel
 - Leslie M. Marx
 ### Abstract
@@ -65,7 +65,7 @@ Because of its institutional features, the Nasdaq market does not fit the standa
 ## 7. Limit orders and the alleged Nasdaq collusion
 ### Date
 - Jul 1997
-### Authors
+### Author
 - Harold Demsetz
 ### Abstract
 Different methods are used by the NYSE/Amex and the Nasdaq to accomodate limit orders received from investors. This accounts for at least part of the excess of Nasdaq spreads over NYSE spreads, adjusted for trading volume, and is a factor in determining this excess that is independent of collusion on the Nasdaq. The spread-comparison evidence given by others to support their belief that there is collusion among market makers on the Nasdaq therefore overstates the probability of collusion and its significance if it exists.
@@ -75,7 +75,7 @@ Different methods are used by the NYSE/Amex and the Nasdaq to accomodate limit o
 ## 8. Do institutions receive comparable execution in the NYSE and Nasdaq markets? A transaction study of block trades
 ### Date
 - Jul 1997
-### Authors
+### Author
 - Michele LaPlante
 - Chris J. Muscarella
 ### Abstract
@@ -86,7 +86,7 @@ The trading structure differences between the NYSE and the Nasdaq market could p
 ## 9. The importance of firm quotes and rapid executions: Evidence from the January 1994 SOES rules changes
 ### Date
 - Jul 1997
-### Authors
+### Author
 - Jeffrey H. Harris
 - Paul H. Schultz
 ### Abstract

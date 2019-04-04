@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Oct 1976
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Theory of the firm: Managerial behavior, agency costs and ownership structure
 ### Date
 - Oct 1976
-### Authors
+### Author
 - Michael C. Jensen
 - William H. Meckling
 ### Abstract
@@ -26,7 +26,7 @@ This paper integrates elements from the theory of agency, the theory of property
 ## 3. Forward rates as predictors of future spot rates
 ### Date
 - Oct 1976
-### Authors
+### Author
 - Eugene F. Fama
 ### Abstract
 When adjusted for variation through time in expected premiums, the forward rates of interest that are implicit in Treasury Bill prices contain assessments of expected future spot rates of interest that are about as good as those that can be obtained from the information in past spot rates. Moreover, in setting bill prices and forward rates, the market reacts appropriately to the negative autocorrelation in monthly changes in the spot rate and to changes through time in the degree of this autocorrelation. This evidence is consistent with the market efficiency proposition that in setting bill prices, the market correctly uses the information in past spot rates.
@@ -36,7 +36,7 @@ When adjusted for variation through time in expected premiums, the forward rates
 ## 4. Capital market seasonality: The case of stock returns
 ### Date
 - Oct 1976
-### Authors
+### Author
 - Michael S. Rozeff
 - William R. Kinney
 ### Abstract
@@ -47,7 +47,7 @@ In this paper we present evidence on the existence of seasonality in monthly rat
 ## 5. An algebra for evaluating hedge portfolios
 ### Date
 - Oct 1976
-### Authors
+### Author
 - Mark B. Garman
 ### Abstract
 This paper introduces a new tool, an ‘algebra’, for analyzing hedge portfolios. A hedge portfolio is defined as comprising PL- (for ‘piecewise linear’) options. The PL-option serves as a unifying concept for describing long and short positions in an unlying security and various options on that security. Additionally, piecewise linear taxes, margin requirements, transactions costs, etc., are all easily incorporated into the PL-option framework. A key result in this integrated treatment of hedge portfolios is the generation of necessary and sufficient rational option pricing theorems. Other applications of the algebra include the topics of option valuation, mean-variance analysis, and options-on-options.
@@ -57,7 +57,7 @@ This paper introduces a new tool, an ‘algebra’, for analyzing hedge portfoli
 ## 6. Editorial collaborators
 ### Date
 - Oct 1976
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -66,7 +66,7 @@ This paper introduces a new tool, an ‘algebra’, for analyzing hedge portfoli
 ## 7. Index
 ### Date
 - Oct 1976
-### Authors
+### Author
 ### Abstract
 
 ### Link

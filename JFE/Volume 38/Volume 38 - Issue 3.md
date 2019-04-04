@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jul 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Underperformance in long-run stock returns following seasoned equity offerings
 ### Date
 - Jul 1995
-### Authors
+### Author
 - D.Katherine Spiess
 - John Affleck-Graves
 ### Abstract
@@ -32,7 +32,7 @@ We document that firms making seasoned equity offerings during 1975–1989 subst
 ## 3. Evaluating the performance of value versus glamour stocks The impact of selection bias
 ### Date
 - Jul 1995
-### Authors
+### Author
 - Louis K.C. Chan
 - Narasimhan Jegadeesh
 - Josef Lakonishok
@@ -44,7 +44,7 @@ We examine whether sample selection bias explains the difference in returns betw
 ## 4. Valuing lease contracts A real-options approach
 ### Date
 - Jul 1995
-### Authors
+### Author
 - Steven R Grenadier
 ### Abstract
 Using a real-options approach to endogenously derive the entire term structure of lease rates, I develop a unified framework for pricing a wide variety of leasing contracts. The structure of the model is analogous to traditional models of the term structure of interest rates. I show how the model is flexible enough to determine equilibrium lease rates for leases of any term and practically any structure, including forward leases, leases with options to renew or cancel, lease insurance contracts, adjustable-rate leases, and leases with payments contingent on asset usage.
@@ -54,7 +54,7 @@ Using a real-options approach to endogenously derive the entire term structure o
 ## 5. Coercive tender and exchange offers in distressed high-yield debt restructurings An empirical analysis
 ### Date
 - Jul 1995
-### Authors
+### Author
 - Sris Chatterjee
 - Upinder S. Dhillon
 - Gabriel G. Ramírez
@@ -66,7 +66,7 @@ This paper examines a recent sample of public workouts for distressed high-yield
 ## 6. Investment analysis and price formation in securities markets
 ### Date
 - Jul 1995
-### Authors
+### Author
 - Michael J. Brennan
 - Avanidhar Subrahmanyam
 ### Abstract
@@ -77,7 +77,7 @@ This paper investigates the relation between the number of analysts following a 
 ## 7. Index
 ### Date
 - Jul 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link

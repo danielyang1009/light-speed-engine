@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Mar 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. A unified method for pricing options on diffusion processes
 ### Date
 - Mar 1991
-### Authors
+### Author
 - David H. Goldenberg
 ### Abstract
 This paper presents a unified method for closed-form pricing of European options on assets with diffusion prices. The method uses linear and nonlinear time and scale changes to reduce complex diffusion processes to known processes, thereby generating option pricing formulas for new diffusion processes and unifying existing results. Applications include: systematically modelling the effects on option prices of time-dependent variability in the underlying asset price, valuing futures options and options on assets showing maturity-related or seasonal volatility, valuing options on new nonconstant elasticity-of-variance diffusion processes, and pricing generalized options.
@@ -33,7 +33,7 @@ This paper presents a unified method for closed-form pricing of European options
 ## 4. The pricing of equity offerings
 ### Date
 - Mar 1991
-### Authors
+### Author
 - Claudio F. Loderer
 - Dennis P. Sheehan
 - Gregory B. Kadlec
@@ -45,7 +45,7 @@ Examination of 1,600 seasoned equity offerings reveals little evidence that unde
 ## 5. A multicountry comparison of term-structure forecasts at long horizons
 ### Date
 - Mar 1991
-### Authors
+### Author
 - Philippe Jorion
 - Frederic Mishkin
 ### Abstract
@@ -56,7 +56,7 @@ This paper extends previous work on the information in the U.S. term structure a
 ## 6. The postmerger share-price performance of acquiring firms
 ### Date
 - Mar 1991
-### Authors
+### Author
 - Julian Franks
 - Robert Harris
 - Sheridan Titman
@@ -68,7 +68,7 @@ This paper investigates share-price performance following corporate takeovers. W
 ## 7. The consumption of stockholders and nonstockholders
 ### Date
 - Mar 1991
-### Authors
+### Author
 - N.Gregory Mankiw
 - Stephen P. Zeldes
 ### Abstract
@@ -79,7 +79,7 @@ Only one-fourth of U.S. families own stock. This paper examines whether the cons
 ## 8. Underwriter warrants, underwriter compensation, and the costs of going public
 ### Date
 - Mar 1991
-### Authors
+### Author
 - Christopher B. Barry
 - Chris J. Muscarella
 - Michael R. Vetsuypens
@@ -91,7 +91,7 @@ Warrants are sometimes granted to underwriters in initial public offerings as pa
 ## 9. Opportunistic underinvestment in debt renegotiation and capital structure
 ### Date
 - Mar 1991
-### Authors
+### Author
 - Yaacov Z. Bergman
 - Jeffrey L. Callen
 ### Abstract
@@ -102,7 +102,7 @@ This paper models debt renegotiation as a bargaining game between debtholders an
 ## 10. Underwritten calls of convertible bonds
 ### Date
 - Mar 1991
-### Authors
+### Author
 - Ajai K. Singh
 - Arnold R. Cowan
 - Nandkumar Nayar

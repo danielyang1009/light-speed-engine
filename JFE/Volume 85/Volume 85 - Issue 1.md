@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Risk, return, and dividends
 ### Date
 - Jan 2007
-### Authors
+### Author
 - Andrew Ang
 - Jun Liu
 ### Abstract
@@ -25,7 +25,7 @@ Using only the definition of returns, together with a transversality assumption,
 ## 3. Executive stock options and IPO underpricing
 ### Date
 - May 2006
-### Authors
+### Author
 - Michelle Lowry
 - Kevin J. Murphy
 ### Abstract
@@ -36,7 +36,7 @@ In about one-third of US IPOs between 1996 and 2000, executives received stock o
 ## 4. The determinants of corporate board size and composition: An empirical analysis
 ### Date
 - May 2006
-### Authors
+### Author
 - Audra L. Boone
 - Laura Casares Field
 - Jonathan M. Karpoff
@@ -49,7 +49,7 @@ Using a unique panel dataset that tracks corporate board development from a firm
 ## 5. Laddering in initial public offerings
 ### Date
 - May 2006
-### Authors
+### Author
 - Qing Hao
 ### Abstract
 Laddering is a practice whereby the allocating underwriter requires the ladderer to buy additional shares of the issuer in the aftermarket as a condition for receiving shares at the offer price. This paper identifies factors that create incentives to engage in this type of manipulation and models the effect of laddering on initial public offering (IPO) pricing. I show that laddering has a bigger effect on the market price of IPOs with greater expected underpricing (without laddering) and greater expected momentum in the aftermarket; laddering increases the IPO offer price, the aftermarket price, and the money left on the table but does not necessarily increase the percentage underpricing; laddering contributes to long-run underperformance and creates a negative correlation between short-run and long-run returns; and profit-sharing increases the extent of laddering and the percentage underpricing.
@@ -59,7 +59,7 @@ Laddering is a practice whereby the allocating underwriter requires the ladderer
 ## 6. The risk return tradeoff in the long run: 1836–2003
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Christian Lundblad
 ### Abstract
 Previous studies typically find a statistically insignificant relation between the market risk premium and its expected volatility. Further, several of these studies estimate a negative risk return tradeoff, contrary to the predictions of mainstream theory. Using simulations, I demonstrate that even 100 years of data constitute a small sample that may easily lead to this finding even though the true risk return tradeoff is positive. Small-sample inference is plagued by the fact that conditional volatility has almost no explanatory power for realized returns. Using the nearly two century history of U.S. equity market returns from Schwert [1990. Indexes of United States stock prices from 1802 to 1987. Journal of Business 63, 399–426], I estimate a positive and statistically significant risk return tradeoff. Finally, exploratory analysis suggests a role for a time-varying relation linked to the changing nature of the U.S. economy.
@@ -69,7 +69,7 @@ Previous studies typically find a statistically insignificant relation between t
 ## 7. Geographical segmentation of US capital markets
 ### Date
 - Jul 2006
-### Authors
+### Author
 - Bo Becker
 ### Abstract
 Demographic variation in savings behavior can be exploited to provide evidence on segmentation in US bank loan markets. Cities with a large fraction of seniors have higher volumes of bank deposits. Since many banks rely heavily on deposit financing, this affects local loan supply and economic activity. I show a positive effect of local deposit supply on local outcomes, including the number of firms, the number of manufacturing firms, and the number of new firms started. The effect is stronger in industries that are heavily dependent on external finance. The deregulation of intrastate branching reduced the effect of local deposit supply by approximately a third.
@@ -79,7 +79,7 @@ Demographic variation in savings behavior can be exploited to provide evidence o
 ## 8. Portfolio manager ownership and fund performance
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Ajay Khorana
 - Henri Servaes
 - Lei Wedge
@@ -91,7 +91,7 @@ This paper documents the range of portfolio manager ownership in the funds they 
 ## 9. Do managers intentionally use repurchase tender offers to signal private information? Evidence from firm financial reporting behavior
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Henock Louis
 - Hal White
 ### Abstract
@@ -102,7 +102,7 @@ Signaling is the most commonly cited explanation for stock repurchases in the ac
 ## 10. Reaching out: Access to and use of banking services across countries
 ### Date
 - Jul 2006
-### Authors
+### Author
 - Thorsten Beck
 - Asli Demirguc-Kunt
 - Maria Soledad Martinez Peria

@@ -1,0 +1,344 @@
+{
+    "journal": "JF",
+    "volume": "38",
+    "issue": "3",
+    "date": "June 1983",
+    "page": "Pages: i-vii, 663-1051, viii-xvi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1983",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb00780.x"
+        },
+        {
+            "no": "2",
+            "title": "Stock Market Returns and Inflation Forecasts",
+            "date": "June 1983",
+            "author": [
+                "N. BULENT GULTEKIN"
+            ],
+            "abstract": "This study uses data from the Livingston survey of expectations to examine the Fisher hypothesis as a model relating expected\u2008stock returns and expected\u2008inflation. We show that the Fisher hypothesis holds much better for ex ante expectations than ex post realizations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02495.x"
+        },
+        {
+            "no": "3",
+            "title": "Taxes and the Pricing of Stock Index Futures",
+            "date": "June 1983",
+            "author": [
+                "BRADFORD CORNELL",
+                "KENNETH R. FRENCH"
+            ],
+            "abstract": "Stock index futures prices are generally below the level predicted by simple arbitrage models. This paper suggests that the discrepancy between the actual and predicted prices is caused by taxes. Capital gains and losses are not taxed until they are realized. As Constantinides demonstrates in a recent paper, this gives stockholders a valuable timing option. If the stock price drops, the investor can pass part of the loss on to the government by selling the stock. On the other hand, if the stock price rises, the investor can postpone the tax by not realizing the gain. Since this option is not available to stock index futures traders, the futures prices will be lower than standard no\u2010tax models predict.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02496.x"
+        },
+        {
+            "no": "4",
+            "title": "Optimal Aggregation of Money Supply Forecasts: Accuracy, Profitability and Market Efficiency",
+            "date": "June 1983",
+            "author": [
+                "STEPHEN FIGLEWSKI",
+                "THOMAS URICH"
+            ],
+            "abstract": "We present a general procedure for aggregating expert forecasts which exploits regularities in the structure of information within the forecaster population. Specific information structures lead to aggregation methods which adjust for additive bias, differences in individual accuracy, and correlation among forecasts. As an application, we construct composite predictions of the weekly change in the money supply from forecasts made by twenty major securities dealers, for which high positive correlation is found to be a significant characteristic. Due to instability in the information structure, our methods cannot improve on the accuracy of a simple average in this case. However, they do capture information about the correlation among money supply forecasts which is not fully impounded in short\u2010term interest rates. Forecasts from our models accurately predict the direction of price changes for Treasury bills and Treasury bill futures after a money supply announcement.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02497.x"
+        },
+        {
+            "no": "5",
+            "title": "A New Approach to Testing Asset Pricing Models: The Bilinear Paradigm",
+            "date": "June 1983",
+            "author": [
+                "STEPHEN J. BROWN",
+                "MARK I. WEINSTEIN"
+            ],
+            "abstract": "We propose a new approach to estimating and testing asset pricing models in the context of a bilinear paradigm introduced by Kruskal 18. This approach is both simple and at the same time quite general. As an illustration we apply it to the special case of the arbitrage pricing model where the number of factors is pre\u2010specified. The data appear to be generally in conflict with a five or seven factor representation of the model used by Roll and Ross 30. When we consider the number of replications of our test and the large number of observations on which it is performed, the frequency with which we reject the three factor APM does not lead us to conclude that this model is unrepresentative of security returns. Further, the rejection of the five and seven factor versions is to be expected if the three factor version is correct. The paradigm gives insight into the appropriate specification of the model and suggests that there may be a small number of economy wide factors that affect security returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02498.x"
+        },
+        {
+            "no": "6",
+            "title": "On the Class of Elliptical Distributions and their Applications to the Theory of Portfolio Choice",
+            "date": "June 1983",
+            "author": [
+                "JOEL OWEN",
+                "RAMON RABINOVITCH"
+            ],
+            "abstract": "It is shown that the class of elliptical distributions extend the Tobin 14 separation theorem, Bawa's 2 rules of ordering uncertain prospects, Ross's 12 mutual fund separation theorems, and the results of the CAPM to non\u2010normal distributions, which are not necessarily stable. Further, the mean\u2010covariance matrix framework is generalized to a mean\u2010characteristic matrix framework in which the characteristic matrix is the basis for a spread or risk measure, and a generalized equilibrium pricing equation is arrived at. The implications to empirical testing of the CAPM and modeling the empirical distribution of speculative prices are discussed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02499.x"
+        },
+        {
+            "no": "7",
+            "title": "The Stability of UK Risk Measures and The Problem of Thin Trading",
+            "date": "June 1983",
+            "author": [
+                "E. DIMSON",
+                "P. R. MARSH"
+            ],
+            "abstract": "This paper examines the problems of estimating risk measures and their stability in thin markets. It shows analytically that conventional approaches used in previous studies can lead to serious overestimates of the stability of risk measures when shares are subject to thin trading. It then demonstrates, using UK data, that this is, in fact, a serious practical problem, and that the resultant biases are of precisely the form predicted. Finally, the paper presents reliable evidence on the stability of UK risk measures by using an estimation method designed to avoid thin trading bias. Using this approach, risk measures are found to be as stable in the UK as they are in the USA.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02500.x"
+        },
+        {
+            "no": "8",
+            "title": "The Irrelevance of Capital Structure for the Impact of Inflation on Investment",
+            "date": "June 1983",
+            "author": [
+                "SHALOM HOCHMAN",
+                "ODED PALMON"
+            ],
+            "abstract": "Studies concerning the effect of inflation on firms' investment decisions suggest that the form of financing is relevant in assessing the effect of inflation on investment. This paper demonstrates that when the equilibrium relationship between market rates of return on bonds and stocks is considered, the effect of inflation on investment is independent of the capital structure. The paper also shows that when the \u2018Fisher effect\u2019 is assumed to hold, the cut\u2010off rate of return on investment declines with anticipated inflation independently of the financing. However, if the real interest rate rises with inflation, inflation may increase the cut\u2010off rate.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02501.x"
+        },
+        {
+            "no": "9",
+            "title": "The Allocation of Capital Between Residential and Nonresidential Uses: Taxes, Inflation and Capital Market Constraints",
+            "date": "June 1983",
+            "author": [
+                "PATRIC H. HENDERSHOTT",
+                "SHENG CHENG HU"
+            ],
+            "abstract": "We have constructed a simple two\u2010sector model of the demand for housing and corporate capital. Economic growth and an increase in the inflation rate were then simulated with a number of model variants. The model and simulation experiments illustrate both the tax bias in favor of housing and the manner in which the increase in inflation between 1965 and 1978 magnified it. The existence of capital\u2010market constraints offsets the bias against corporate capital, but it introduces a sharp, inefficient reallocation of housing from less wealthy, constrained households to wealthy households who do not have gains on mortgages and are not financially constrained.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02502.x"
+        },
+        {
+            "no": "10",
+            "title": "An Empirical Analysis of the Role of the Medium of Exchange in Mergers",
+            "date": "June 1983",
+            "author": [
+                "WILLARD T. CARLETON",
+                "DAVID K. GUILKEY",
+                "ROBERT S. HARRIS",
+                "JOHN F. STEWART"
+            ],
+            "abstract": "In empirical studies of differences between firms which are acquired and those which are not, researchers typically divide firms into two groups\u2010acquired and nonacquired. In this paper, we argue that cash takeovers may be sufficiently different from noncash acquisitionst hat failure to distinguish between them may lead to inappropriateg eneralizations. We provide evidence from the mid 1970s that three categories of firms can be distinguished:n onacquireda, cquiredi n a cash takeover, and acquired in an exchange of securities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02503.x"
+        },
+        {
+            "no": "11",
+            "title": "Controlling Monetary Aggregates: The Discount Window",
+            "date": "June 1983",
+            "author": [
+                "ANTHONY M. SANTOMERO"
+            ],
+            "abstract": "This paper argues that current discount window policy, coupled with non\u2010borrowed reserve targeting of the Federal Reserve, makes the quantity of high\u2010powered money endogenous. Examination of the advisability of this procedure in a stochastic environment is conducted using a general equilibrium financial model. It is concluded that the current policy reduces the destabilizing effects of shifts between various depository financial assets, but increases the effect of other asset portfolio shifts and aggregate supply disturbances. These results are consistent with the work of Poole inasmuch as the current debate over discount policy is a repackaging of the debate over interest rate or aggregates control for monetary policy.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02504.x"
+        },
+        {
+            "no": "12",
+            "title": "The Carry\u2010Forward Provision and Management of Bank Reserves",
+            "date": "June 1983",
+            "author": [
+                "RICHARD M. FRIEDMAN",
+                "WILLIAM W. ROBERTS"
+            ],
+            "abstract": "The 1968 amendment to Regulation D of the Federal Reserve Code permits banks to carry forward one sequential reserve excess or deficiency into the next reserve accounting period. This was intended to reduce the weekly pressure on individual banks to adjust their reserve position. We find, instead, that the carry\u2010forward provision gives individual banks an incentive to alternate weekly between reserve excesses and reserve deficiencies. Thus, the carry\u2010forward provision tends to induce reserve position adjustments even in the absence of changes in the level of deposits. In addition, the carry\u2010forward provision reduces the impact of interest\u2010rate changes on the desired level of excess reserves.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02505.x"
+        },
+        {
+            "no": "13",
+            "title": "Valuation, Capital Structure, and Shareholder Unanimity for Depository Financial Intermediaries",
+            "date": "June 1983",
+            "author": [
+                "C. W. SEALEY JR"
+            ],
+            "abstract": "The theory of corporate finance is not directly applicable to financial intermediary decision\u2010making. The lack of applicability stems largely from the particular conditions that distinguish intermediary operations from those of the nonfinancial firm. First, when intermediaries accept deposit financing, they must produce services such as liquidity and convenience at considerable expense for real resources. Second, the introduction of intermediation is likely to be accompanied by incomplete markets so that shareholder unanimity is not in general valid. In this paper, a model with incomplete markets is developed and a shareholder approved rule for intermediary capital structure decisions is derived.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02506.x"
+        },
+        {
+            "no": "14",
+            "title": "Lending Policies of Financial Intermediaries Facing Credit and Funding Risk",
+            "date": "June 1983",
+            "author": [
+                "SUDHAKAR D. DESHMUKH",
+                "STUART I. GREENBAUM",
+                "GEORGE KANATAS"
+            ],
+            "abstract": "This paper compares the optimal lending decisions of financial intermediaries that differ in their risk exposure. All intermediaries are assumed to face a loan demand described by a random applicant arrival process with each applicant offering a unique risk\u2010adjusted rate of return; loan demand is therefore uncertain in both quantity and quality. The intermediaries differ in terms of their risk exposure because of disparate funding practices. Intermediaries functioning as brokers minimize their exposure by borrowing funds only as demand is realized, whereas those behaving as asset\u2010transformers borrow in advance of realizing loan demand, thereby maintaining a loanable funds inventory and sustaining the related exposure. The optimal sequential lending policy is shown to involve setting a credit standard that becomes stricter with the length of the intermediary's planning horizon and the volume of loans outstanding. Most importantly, it is shown that brokers adopt stricter credit standards than asset\u2010transformers and therby reduce their volume of lending.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02507.x"
+        },
+        {
+            "no": "15",
+            "title": "Economies of Scale and Economies of Scope in Multiproduct Financial Institutions: A Study of British Columbia Credit Unions",
+            "date": "June 1983",
+            "author": [
+                "JOHN D. MURRAY",
+                "ROBERT W. WHITE"
+            ],
+            "abstract": "This paper investigates the production technology facing computerized credit unions in Canada. A full system of translog cost equations is estimated in order to test for economies of scale, economies of scope, and other production characteristics in a multiproduct context. The regression results indicate that most of the credit unions in our sample experience significant increasing returns to scale as they expand their level of output. There is also evidence of cost complementarity or economies of scope in their mortgage and other lending activities. As a result, legislation which limits the ability of credit unions to grow and diversify will likely raise the operating costs of this important group of financial institutions. Additional structural tests of the most general translog specification suggest that none of the restrictive production conditions commonly imposed by other researchers using Cobb\u2010Douglas and CES specifications provide a valid representation of credit union technology. The results of many earlier studies are therefore open to question.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02508.x"
+        },
+        {
+            "no": "16",
+            "title": "Consensus Beliefs Equilibrium and Market Efficiency",
+            "date": "June 1983",
+            "author": [
+                "DAVID EASLEY",
+                "ROBERT A. JARROW"
+            ],
+            "abstract": "This paper presents an analysis of the concept of consensus beliefs and its relation to market efficiency. We show that unless traders have rational expectations, the two published interpretations of consensus beliefs are not useful for considerations of market efficiency. One interpretation (see Verrecchia 6) has no implication for market efficiency. Under the second interpretation (see Verrecchia 7, 8) consensus beliefs equilibria are efficient, but they typically do not exist unless traders have rational expectations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02509.x"
+        },
+        {
+            "no": "17",
+            "title": "Optimality of the Disclosure of Private Information in a Production\u2010Exchange Economy",
+            "date": "June 1983",
+            "author": [
+                "BRETT TRUEMAN"
+            ],
+            "abstract": "This study provides an analysis of the effects on individual welfare of information revelation in a production\u2010exchange economy. It is shown that the total effect of information revelation on an agent's utility level may be decomposed into three elements: a price effect, a shareholding effect, and a production effect. Through this decomposition, it is demonstrated that, although a Pareto improvement need not result from information revelation, there are perspectives from which the release can be considered beneficial.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02510.x"
+        },
+        {
+            "no": "18",
+            "title": "International Portfolio Choice and Corporation Finance: A Synthesis",
+            "date": "June 1983",
+            "author": [
+                "MICHAEL ADLER",
+                "BERNARD DUMAS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02511.x"
+        },
+        {
+            "no": "19",
+            "title": "Exact Pricing in Linear Factor Models with Finitely Many Assets: A Note",
+            "date": "June 1983",
+            "author": [
+                "NAI\u2010FU CHEN",
+                "JONATHAN E. INGERSOLL JR."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02512.x"
+        },
+        {
+            "no": "20",
+            "title": "The Cost of Liquidity Services in Listed Options: A Note",
+            "date": "June 1983",
+            "author": [
+                "JEROME B. BAESEL",
+                "GEORGE SHOWS",
+                "EDWARD THORP"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02513.x"
+        },
+        {
+            "no": "21",
+            "title": "The Information Content of Municipal Bond Rating Changes: A Note",
+            "date": "June 1983",
+            "author": [
+                "ROBERT W. INGRAM",
+                "LEROY D. BROOKS",
+                "RONALD M. COPELAND*"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02514.x"
+        },
+        {
+            "no": "22",
+            "title": "Beta Nonstationarity and the Use of the Chen and Lee Estimator: A Note",
+            "date": "June 1983",
+            "author": [
+                "BILL McDONALD"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02515.x"
+        },
+        {
+            "no": "23",
+            "title": "Money Market Mutual Funds: An Experiment in Ad Hoc Deregulation: A Note",
+            "date": "June 1983",
+            "author": [
+                "KENNETH T. ROSEN",
+                "LARRY KATZ"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02516.x"
+        },
+        {
+            "no": "24",
+            "title": "The Effect of Common\u2010Stock Dividend Reductions on the Returns of Nonconvertible Preferred Stocks: A Note",
+            "date": "June 1983",
+            "author": [
+                "JAMES ROSENFELD"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02517.x"
+        },
+        {
+            "no": "25",
+            "title": "The Effect of Bank Deregulation on Small Business: A Note",
+            "date": "June 1983",
+            "author": [
+                "PETER L. STRUCK",
+                "LEWIS MANDELL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02518.x"
+        },
+        {
+            "no": "26",
+            "title": "Stochastic Choice in Insurance and Risk Sharing: A Comment",
+            "date": "June 1983",
+            "author": [
+                "YORAM KROLL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02519.x"
+        },
+        {
+            "no": "27",
+            "title": "Stochastic Choice in Insurance and Risk Sharing: A Reply",
+            "date": "June 1983",
+            "author": [
+                "NEIL A. DOHERTY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02520.x"
+        },
+        {
+            "no": "28",
+            "title": "Yield Approximations: A Historical Perspective: A Correction",
+            "date": "June 1983",
+            "author": [
+                "RICHARD P. BRIEF"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02521.x"
+        },
+        {
+            "no": "29",
+            "title": "Debt, Dividend Policy, Taxes, Inflation, and Market Valuation: Erratum",
+            "date": "June 1983",
+            "author": [
+                "FRANCO MODIGLIANI"
+            ],
+            "abstract": "The following is A correction to The Presidential Address published in the Journal of Finance 37 (May 1982). It first arises in Equation II.1 (p. 258) and results from the fact that, in computing the (real) return from the ith share, I failed to subtract the tax on the nominal capital gain accruing to that share as a result of inflation, namely:\n\u03c4\ng\nm\np\nS\ni\n. Accordingly, this quantity should be added with a negative sign in the curly bracket in the first equality of II.1, and in the square bracket in the second equality in II.1 as well as in II.2.\nUnfortunately this error turns out to affect a good many of the equations, though its magnitude seems small enough so as not to require significant revisions of any major conclusions. Accordingly, and to save space, I will report specific corrections for some basic formulae and only indicate the nature of required changes in most others.\nIn Equation II.4,\nr\np\nm\nshould be replaced by\n(\nr\np\nm\n+\np\n\u03c4\ng\nm\n)\n, and, similarly, in Equations II.5 to 13a, 15, and 17, whenever\nr\np\nappears, it should be replaced by\n(\nr\np\n+\np\n\u03c4\ng\n)\n. Note in particular that the value of leverage given by II.7 and II.14, now becomes\nl\n=\n1\n\u2212\nr\nc\nr\np\n+\np\n\u03c4\ng\n\u03b8\ng\n=\nq\n+\nq\n\u03b8\ng\nr\np\n+\np\n\u03c4\ng\np\nfrom which one can infer that the increase in l\u2008with inflation is somewhat larger than implied by II.7. In fact, since\n\u03c4\ng\nis presumably small, less than\u2008.1, the coefficient of p\u2008in the second equality above is close to\nq\n/\nr\np\n. Hence, with\nr\np\nof the order of 2 to 3 percent, and assuming it is inflation invariant, a rise in inflation from zero to no more than 2 to 3 percent, would be sufficient to double l. The corresponding expression for l*, the value of leverage when tax savings are uncertain, given at the top of page 265, becomes\nl\n*\n=\nr\np\n+\np\n\u03c4\ng\n\u03b2\ni\n\u03c0\n+\nr\np\n+\np\n\u03c4\ng\nl\nThus, l* can still be put at about\n1\n/\n3\nof l\u2008when p\u2008is zero, but tends to rise relative to l\u2008with inflation.\nOn the right\u2010hand side of II.16, the first term in square brackets is to be replaced by\np\n(\nd\n*\nq\n\u2212\n\u03c4\ng\n)\n, which implies a somewhat smaller effect on\nr\np\nfrom inflation for given leverage, but a larger impact from leverage, for given p. In Equations III.1 to III.2c wherever\nr\np\nm\n/\nr\np\nappears, it must be replaced by\n(\nr\np\nm\n+\np\n\u03c4\ng\nm\n)\n/\n(\nr\np\n+\np\n\u03c4\ng\n)\nwhich affects also Equations III.5, III.6. Note that, if capital gains taxes are proportional to income taxes, then the difference between the correct ratio and the original ratio,\nr\np\nm\n/\nr\np\n, is proportional to\np\n(\n\u03c4\np\nm\n\u2212\n\u03c4\np\n)\n, from which one can infer the effect of the correction on\nT\n1\n,\nT\n2\n,\nT\n3\n. The right\u2010hand side of III.3a which needs to be corrected also for another misprint, should be substituted by:\n(\n1\n+\nr\np\n+\np\n\u03c4\ng\n\u03b2\ni\n*\n\u03c0\n)\n\u03b8\ng\n\u2212\n1\nFinally, I am glad for this opportunity to correct a serious omission in the list of acknowledgements in the first footnote of the paper, namely that of Richard Cohn, whose painstaking review of the manuscript was invaluable.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02522.x"
+        },
+        {
+            "no": "30",
+            "title": "BOOK REVIEWS",
+            "date": "June 1983",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nFinancial Institution Management: Text and Cases. By FREDERICK YEAGER & NEIL LEITZ.\nEfficiency in the Municipal Bond Market: The Use of Tax Exempt Financing for \u201cPrivate\u201d Purposes.\nThe Prime: Myth and Reality. By GERALD C. FISCHER.\nInterest Rate Futures. By ROBERT W. KOLB. Richmond\nThe Speculator: Bernard M. Baruch in Washington, 1917\u20131965. By JORDAN A. SCHWARZ.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02523.x"
+        },
+        {
+            "no": "31",
+            "title": "MISCELLANEA",
+            "date": "June 1983",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb02524.x"
+        },
+        {
+            "no": "32",
+            "title": "Back Matter",
+            "date": "June 1983",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1983.tb00781.x"
+        }
+    ]
+}

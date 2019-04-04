@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Equity yields
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Jules van Binsbergen
 - Wouter Hueskes
 - Ralph Koijen
@@ -27,7 +27,7 @@ We study a new data set of dividend futures with maturities up to ten years acro
 ## 3. Political uncertainty and risk premia
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Ľuboš Pástor
 - Pietro Veronesi
 ### Abstract
@@ -38,7 +38,7 @@ We develop a general equilibrium model of government policy choice in which stoc
 ## 4. The U.S. left behind? Financial globalization and the rise of IPOs outside the U.S.
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Craig Doidge
 - G. Andrew Karolyi
 - René M. Stulz
@@ -50,7 +50,7 @@ From 1990 to 2011, the share of world IPO activity by non-U.S. firms increased b
 ## 5. Legislating stock prices
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Lauren Cohen
 - Karl Diether
 - Christopher Malloy
@@ -62,7 +62,7 @@ We demonstrate that legislation has a simple, yet previously undetected, impact 
 ## 6. Quiet bubbles
 ### Date
 - Jul 2013
-### Authors
+### Author
 - Harrison Hong
 - David Sraer
 ### Abstract
@@ -73,7 +73,7 @@ Motivated by the recent subprime mortgage crisis, we explore whether speculative
 ## 7. Contracting under asymmetric information: Evidence from lockup agreements in seasoned equity offerings
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Jonathan M. Karpoff
 - Gemma Lee
 - Ronald W. Masulis
@@ -85,7 +85,7 @@ We document the frequent use of lockup agreements in seasoned equity offerings (
 ## 8. How do staggered boards affect shareholder value? Evidence from a natural experiment
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Alma Cohen
 - Charles C.Y. Wang
 ### Abstract
@@ -96,7 +96,7 @@ The well-established negative correlation between staggered boards (SBs) and fir
 ## 9. Reputational contagion and optimal regulatory forbearance
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Alan D. Morrison
 - Lucy White
 ### Abstract
@@ -107,7 +107,7 @@ Existing studies suggest that systemic crises may arise because banks either hol
 ## 10. The effects of firm-initiated clawback provisions on bank loan contracting
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Lilian H. Chan
 - Kevin C.W. Chen
 - Tai-Yuan Chen
@@ -119,7 +119,7 @@ Although firm-initiated clawbacks reduce accounting manipulation, they also indu
 ## 11. Boards, CEO entrenchment, and the cost of capital
 ### Date
 - Aug 2013
-### Authors
+### Author
 - James Dow
 ### Abstract
 Existing research on chief executive officer (CEO) turnover focuses on CEO ability. This paper argues that board ability is also important. Corporate boards are reluctant to replace CEOs, as this makes financing expensive by sending a negative signal about board ability. Entrenchment in this model does not result from CEO power, or from agency problems. Entrenchment is mitigated when there are more assets-in-place relative to investment opportunities. The paper also compares public and private equity. Private ownership eliminates CEO entrenchment, but market signals improve investment decisions. Finally, the model implies that board choice in publicly listed firms will be conservative.
@@ -129,7 +129,7 @@ Existing research on chief executive officer (CEO) turnover focuses on CEO abili
 ## 12. The economics of options-implied inflation probability density functions
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Yuriy Kitsul
 - Jonathan H. Wright
 ### Abstract
@@ -140,7 +140,7 @@ Recently a market in options based on consumer price index inflation (inflation 
 ## 13. Word power: A new approach for content analysis
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Narasimhan Jegadeesh
 - Di Wu
 ### Abstract
@@ -151,7 +151,7 @@ We present a new approach for content analysis to quantify document tone. We fin
 ## 14. General equilibrium pricing of currency and currency options
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Du Du
 ### Abstract
 This paper presents a consumption-based general equilibrium model for valuing foreign exchange contingent claims. The model identifies a novel economic mechanism by exploiting highly but imperfectly shared consumption disaster with variable intensities which are the concerns to the representative investor under recursive utility. When applied to the data, the model simultaneously replicates (i) the moderate option-implied volatilities; (ii) substantial variations in the risk-neutral skewness of currency returns; (iii) the uncovered interest rate parity puzzle; and (iv) the first two moments of carry trade returns. Furthermore, the model rationalizes salient features of the aggregate stock, government bonds, and equity index options.

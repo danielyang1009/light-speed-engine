@@ -1,0 +1,124 @@
+{
+    "journal": "RFS",
+    "volume": "30",
+    "issue": "1",
+    "date": "January 2017",
+    "page": "Pages 1\u2013362",
+    "article": [
+        {
+            "no": "1",
+            "title": "Erratum",
+            "date": "21 December 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhw094"
+        },
+        {
+            "no": "2",
+            "title": "Measuring Systemic Risk",
+            "date": "19 October 2016",
+            "author": [
+                "Viral V. Acharya",
+                "Lasse H. Pedersen",
+                "Thomas Philippon",
+                "Matthew Richardson"
+            ],
+            "abstract": "We present an economic model of systemic risk in which undercapitalization of the financial sector as a whole is assumed to harm the real economy, leading to a systemic risk externality. Each financial institution\u2019s contribution to systemic risk can be measured as its systemic expected shortfall (SES), that is, its propensity to be undercapitalized when the system as a whole is undercapitalized. SES increases in the institution\u2019s leverage and its marginal expected shortfall (MES), that is, its losses in the tail of the system\u2019s loss distribution. We demonstrate empirically the ability of components of SES to predict emerging systemic risk during the financial crisis of 2007\u20132009.",
+            "link": "https://doi.org/10.1093/rfs/hhw088"
+        },
+        {
+            "no": "3",
+            "title": "SRISK: A Conditional Capital Shortfall Measure of Systemic Risk",
+            "date": "06 August 2016",
+            "author": [
+                "Christian Brownlees",
+                "Robert F. Engle"
+            ],
+            "abstract": "We introduce SRISK to measure the systemic risk contribution of a financial firm. SRISK measures the capital shortfall of a firm conditional on a severe market decline, and is a function of its size, leverage and risk. We use the measure to study top financial institutions in the recent financial crisis. SRISK delivers useful rankings of systemic institutions at various stages of the crisis and identifies Fannie Mae, Freddie Mac, Morgan Stanley, Bear Stearns, and Lehman Brothers as top contributors as early as 2005-Q1. Moreover, aggregate SRISK provides early warning signals of distress in indicators of real activity.",
+            "link": "https://doi.org/10.1093/rfs/hhw060"
+        },
+        {
+            "no": "4",
+            "title": "The Anatomy of the CDS Market",
+            "date": "18 August 2016",
+            "author": [
+                "Martin Oehmke",
+                "Adam Zawadowski"
+            ],
+            "abstract": "Using novel position and trading data for single-name corporate credit default swaps (CDSs), we provide evidence that CDS markets emerge as \u201calternative trading venues\u201d serving a standardization and liquidity role. CDS positions and trading volume are larger for firms with bonds fragmented into many separate issues and with heterogeneous contractual terms. Whereas hedging motives are associated with trading volume in the bond and CDS markets, speculative trading concentrates in the CDS. Cross-market arbitrage links the CDS and bond market via the basis trade, compressing the negative CDS-bond basis and reducing price impact in the bond market.",
+            "link": "https://doi.org/10.1093/rfs/hhw068"
+        },
+        {
+            "no": "5",
+            "title": "Design of Financial Securities: Empirical Evidence from Private-Label RMBS Deals",
+            "date": "08 July 2016",
+            "author": [
+                "Taylor A. Begley",
+                "Amiyatosh Purnanandam"
+            ],
+            "abstract": "We study the key drivers of security design in the residential mortgage-backed security (RMBS) market during the run-up to the subprime mortgage crisis. We show that deals with a higher level of equity tranche have a significantly lower delinquency rate conditional on observable loan characteristics. The effect is concentrated within pools with a higher likelihood of asymmetric information between deal sponsors and potential buyers of the securities. Further, securities sold from high-equity-tranche deals command higher prices conditional on their credit ratings. Overall, our results show that the goal of security design in this market was not only to exploit regulatory arbitrage, but also to mitigate information frictions that were pervasive in this market. (JEL G20, G30)",
+            "link": "https://doi.org/10.1093/rfs/hhw056"
+        },
+        {
+            "no": "6",
+            "title": "Corporate Policies with Permanent and Transitory Shocks",
+            "date": "16 September 2016",
+            "author": [
+                "Jean-Paul D\u00e9camps",
+                "Sebastian Gryglewicz",
+                "Erwan Morellec",
+                "St\u00e9phane Villeneuve"
+            ],
+            "abstract": "We model the financing, cash holdings, and hedging policies of a firm facing financing frictions and subject to permanent and transitory cash flow shocks. The permanent and transitory shocks generate distinct, sometimes opposite, effects on corporate policies. We use the model to develop a rich set of empirical predictions. In our model, correlated permanent and transitory shocks imply less risk, lower cash savings, and a drop in the value of credit lines. The composition of cash-flow shocks affects the cash-flow sensitivity of cash, which can be positive or negative. Optimal hedging of permanent and transitory shocks may involve opposite positions.",
+            "link": "https://doi.org/10.1093/rfs/hhw078"
+        },
+        {
+            "no": "7",
+            "title": "Does Junior Inherit? Refinancing and the Blocking Power of Second Mortgages",
+            "date": "02 October 2016",
+            "author": [
+                "Philip Bond",
+                "Ronel Elul",
+                "Sharon Garyn-Tal",
+                "David K. Musto"
+            ],
+            "abstract": "In most U.S. states, mortgage seniority follows time priority: older mortgages are paid first. This potentially impedes refinancing of senior mortgages because replacement mortgages are junior unless the existing junior lienholders consent to resubordination. We exploit legal variation across states to provide evidence that time priority reduces refinancing, especially of smaller mortgages (suggesting a significant fixed cost of obtaining resubordination) and of mortgages close to the conforming loan limit. On the contrary, we find evidence that time priority renders second mortgages more valuable to lenders, increasing the likelihood that a borrower obtains a second mortgage.",
+            "link": "https://doi.org/10.1093/rfs/hhw079"
+        },
+        {
+            "no": "8",
+            "title": "The Asset Redeployability Channel: How Uncertainty Affects Corporate Investment",
+            "date": "29 August 2016",
+            "author": [
+                "Hyunseob Kim",
+                "Howard Kung"
+            ],
+            "abstract": "This paper examines how uncertainty affects corporate investment under varying degrees of asset redeployability. We develop new measures of asset redeployability by accounting for the usability of assets within and across industries. We identify plausibly exogenous shocks to economic uncertainty by using major economic and political events. We find that after an increase in uncertainty, firms using less redeployable capital reduce investment more. More redeployable assets exhibit higher recovery rates and are traded more actively in secondary markets. Overall, our results suggest that frictions in redeploying assets affect liquidation values and therefore make firms cautious about investment decisions under uncertainty.",
+            "link": "https://doi.org/10.1093/rfs/hhv076"
+        },
+        {
+            "no": "9",
+            "title": "Being Surprised by the Unsurprising: Earnings Seasonality and Stock Returns",
+            "date": "02 August 2016",
+            "author": [
+                "Tom Y. Chang",
+                "Samuel M. Hartzmark",
+                "David H. Solomon",
+                "Eugene F. Soltes"
+            ],
+            "abstract": "We present evidence consistent with markets failing to properly price information in seasonal earnings patterns. Firms with historically larger earnings in one quarter of the year (\u201cpositive seasonality quarters\u201d) have higher returns when those earnings are usually announced. Analysts have more positive forecast errors in positive seasonality quarters, consistent with the returns being driven by mistaken earnings estimates. We show that investors appear to overweight recent lower earnings following positive seasonality quarters, leading to pessimistic forecasts in the subsequent positive seasonality quarter. The returns are not explained by risk-based explanations, firm-specific information, increased volume, or idiosyncratic volatility.",
+            "link": "https://doi.org/10.1093/rfs/hhw044"
+        },
+        {
+            "no": "10",
+            "title": "Actual Share Repurchases, Price Efficiency, and the Information Content of Stock Prices",
+            "date": "10 September 2016",
+            "author": [
+                "Pascal Busch",
+                "Stefan Obernberger"
+            ],
+            "abstract": "We examine the impact of actual share repurchases on stock prices using several measures of price efficiency and manually collected data on U.S. repurchases. We find that share repurchases make prices more efficient and reduce idiosyncratic risk. Further analyses reveal that the effects are primarily driven by repurchases in down markets. We conclude that share repurchases help to maintain accurate stock prices by providing price support at fundamental values. We find no evidence that managers use share repurchases to manipulate stock prices when selling their equity holdings or exercising stock options.",
+            "link": "https://doi.org/10.1093/rfs/hhw071"
+        }
+    ]
+}

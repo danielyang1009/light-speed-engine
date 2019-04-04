@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Paper millionaires: how valuable is stock to a stockholder who is restricted from selling it?
 ### Date
 - Mar 2003
-### Authors
+### Author
 - Matthias Kahl
 - Jun Liu
 - Francis A. Longstaff
@@ -26,7 +26,7 @@ Many firms have stockholders who face severe restrictions on their ability to se
 ## 3. Do equity financing cycles matter? evidence from biotechnology alliances
 ### Date
 - Mar 2003
-### Authors
+### Author
 - Josh Lerner
 - Hilary Shane
 - Alexander Tsai
@@ -38,7 +38,7 @@ In periods characterized by diminished public market financing, small biotechnol
 ## 4. Universal option valuation using quadrature methods
 ### Date
 - Mar 2003
-### Authors
+### Author
 - Ari D. Andricopoulos
 - Martin Widdicks
 - Peter W. Duck
@@ -51,7 +51,7 @@ This paper proposes and develops a novel, simple, widely applicable numerical ap
 ## 5. The economic value of volatility timing using “realized” volatility
 ### Date
 - Mar 2003
-### Authors
+### Author
 - Jeff Fleming
 - Chris Kirby
 - Barbara Ostdiek
@@ -63,7 +63,7 @@ Recent work suggests that intradaily returns can be used to construct estimates 
 ## 6. A barrier option framework for corporate security valuation
 ### Date
 - Mar 2003
-### Authors
+### Author
 - Paul Brockman
 - H.J. Turtle
 ### Abstract
@@ -74,7 +74,7 @@ This paper proposes a framework for corporate security valuation based on path-d
 ## 7. Corrigendum to “Equilibrium and welfare in markets with financially constrained arbitrageurs” [J. Financial Economics 66 (2002) 361]
 ### Date
 - Mar 2003
-### Authors
+### Author
 - Denis Gromb
 - Dimitri Vayanos
 ### Abstract
@@ -85,7 +85,7 @@ This paper proposes a framework for corporate security valuation based on path-d
 ## 8. Index
 ### Date
 - Mar 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -94,7 +94,7 @@ This paper proposes a framework for corporate security valuation based on path-d
 ## 9. Call for Papers Review of Financial Economics
 ### Date
 - Mar 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -103,7 +103,7 @@ This paper proposes a framework for corporate security valuation based on path-d
 ## 10. Advert: Science Direct
 ### Date
 - Mar 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link

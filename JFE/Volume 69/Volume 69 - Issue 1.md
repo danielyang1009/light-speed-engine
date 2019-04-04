@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Special Issue Contents Page
 ### Date
 - Jul 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. The great reversals: the politics of financial development in the twentieth century
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Raghuram G Rajan
 - Luigi Zingales
 ### Abstract
@@ -34,7 +34,7 @@ The state of development of the financial sector does not change monotonically o
 ## 4. Takeover bids and target directors’ incentives: the impact of a bid on directors’ wealth and board seats
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Jarrad Harford
 ### Abstract
 I investigate the nature of the incentives that lead outside directors to serve stockholders’ interests. Specifically, I document the effect of a takeover bid on target directors, both in terms of its immediate financial impact and its effect on the number of future board seats held by those target directors. Directors are rarely retained following a completed offer. All target directors hold fewer directorships in the future than a control group, suggesting that the target board seat is difficult to replace. For outside directors, the direct financial impact of a completed merger is predominately negative. This documents a cost to outside directors should they fail as monitors, forcing the external control market to act for them. Future seats are related to pre-bid performance. Among outside directors of poorly performing firms, those who rebuff an offer face partial settling-up in the directorial labor market, while those who complete the merger do not.
@@ -44,7 +44,7 @@ I investigate the nature of the incentives that lead outside directors to serve 
 ## 5. Control as a motivation for underpricing: a comparison of dual and single-class IPOs
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Scott B Smart
 - Chad J Zutter
 ### Abstract
@@ -55,7 +55,7 @@ We find that dual-class firms experience less underpricing than single-class fir
 ## 6. Governance and boards of directors in closed-end investment companies
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Diane Del Guercio
 - Larry Y Dann
 - M.Megan Partch
@@ -67,7 +67,7 @@ We analyze whether board structure and director independence in closed-end inves
 ## 7. Executive stock option repricing, internal governance mechanisms, and management turnover
 ### Date
 - Jul 2003
-### Authors
+### Author
 - N.K. Chidambaran
 - Nagpurnanand R. Prabhala
 ### Abstract
@@ -78,7 +78,7 @@ We examine firms that reprice their executive stock options and find little evid
 ## 8. Finance, investment, and growth
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Wendy Carlin
 - Colin Mayer
 ### Abstract
@@ -89,7 +89,7 @@ This paper examines the relation between the institutional structures of advance
 ## 9. Control benefits and CEO discipline in automatic bankruptcy auctions
 ### Date
 - Jul 2003
-### Authors
+### Author
 - B Espen Eckbo
 - Karin S Thorburn
 ### Abstract
@@ -100,7 +100,7 @@ Swedish bankruptcy filing automatically terminates the employment of the chief e
 ## 10. Debtor-in-possession financing and bankruptcy resolution: Empirical evidence
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Sandeep Dahiya
 - Kose John
 - Manju Puri

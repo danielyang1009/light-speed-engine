@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Playing it safe? Managerial preferences, risk, and agency conflicts
 ### Date
 - Aug 2016
-### Authors
+### Author
 - Todd A. Gormley
 - David A. Matsa
 ### Abstract
@@ -25,7 +25,7 @@ This article examines managers’ incentive to play it safe. We find that, after
 ## 3. Should we be afraid of the dark? Dark trading and market quality
 ### Date
 - Aug 2016
-### Authors
+### Author
 - Sean Foley
 - Tālis J. Putniņš
 ### Abstract
@@ -36,7 +36,7 @@ We exploit a unique natural experiment—recent restrictions of dark trading in 
 ## 4. Failure to refinance
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Benjamin J. Keys
 - Devin G. Pope
 - Jaren C. Pope
@@ -48,7 +48,7 @@ Households that fail to refinance their mortgage when interest rates decline los
 ## 5. Say on pay laws, executive compensation, pay slice, and firm valuation around the world
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Ricardo Correa
 - Ugur Lel
 ### Abstract
@@ -59,7 +59,7 @@ Using a large sample of firms from 38 countries over the 2001–2012 period, thi
 ## 6. Cyclicality, performance measurement, and cash flow liquidity in private equity
 ### Date
 - Sep 2016
-### Authors
+### Author
 - David T. Robinson
 - Berk A. Sensoy
 ### Abstract
@@ -70,7 +70,7 @@ We study the liquidity properties of private equity cash flows using data from 8
 ## 7. Short selling meets hedge fund 13F: An anatomy of informed demand
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Yawen Jiao
 - Massimo Massa
 - Hong Zhang
@@ -82,7 +82,7 @@ The existing literature treats the short side (i.e., short selling) and the long
 ## 8. Information tradeoffs in dynamic financial markets
 ### Date
 - Nov 2015
-### Authors
+### Author
 - Efstathios Avdis
 ### Abstract
 In dynamic financial markets the stochastic supply of risky assets has a significant informational role. Contrary to static models, where it acts as “noise,” in dynamic markets stochastic supply contains information about risk premiums. Acquiring private dividend information helps investors disentangle dividend information from discount-rate information contained in prices. For uninformed investors, however, as more informed investors enter the economy prices become more informative about dividends but less informative about discount rates. This tradeoff creates complementarities in information acquisition and multiple equilibria in the information market.
@@ -92,7 +92,7 @@ In dynamic financial markets the stochastic supply of risky assets has a signifi
 ## 9. Socially responsible firms
 ### Date
 - Dec 2015
-### Authors
+### Author
 - Allen Ferrell
 - Hao Liang
 - Luc Renneboog
@@ -104,7 +104,7 @@ In the corporate finance tradition, starting with Berle and Means (1932), corpor
 ## 10. Limited attention, marital events and hedge funds
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Yan Lu
 - Sugata Ray
 - Melvyn Teo
@@ -116,7 +116,7 @@ We explore the impact of limited attention by analyzing the performance of hedge
 ## 11. Have financial markets become more informative?
 ### Date
 - Aug 2016
-### Authors
+### Author
 - Jennie Bai
 - Thomas Philippon
 - Alexi Savov

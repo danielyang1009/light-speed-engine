@@ -1,0 +1,277 @@
+{
+    "journal": "JF",
+    "volume": "42",
+    "issue": "5",
+    "date": "December 1987",
+    "page": "Pages: i-vi, 1113-1416, vii-lvii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00607.x"
+        },
+        {
+            "no": "2",
+            "title": "Time\u2010Dependent Variance and the Pricing of Bond Options",
+            "date": "December 1987",
+            "author": [
+                "STEPHEN M. SCHAEFER",
+                "EDUARDO S. SCHWARTZ"
+            ],
+            "abstract": "In this paper, we develop a model for valuing debt options that takes into account the changing characteristics of the underlying bond by assuming that the standard deviation of return is proportional to the bond's duration. The resulting model uses the bond price as the single state variable and thus preserves much of the simplicity and robustness of the Black\u2010Scholes approach. The paper provides comparisons between option prices computed using this model and those using the Black\u2010Scholes and Brennan and Schwartz models.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04356.x"
+        },
+        {
+            "no": "3",
+            "title": "Arbitrage, Continuous Trading, and Margin Requirements",
+            "date": "December 1987",
+            "author": [
+                "DAVID C. HEATH",
+                "ROBERT A. JARROW"
+            ],
+            "abstract": "This paper studies the impact that margin requirements have on both the existence of arbitrage opportunities and the valuation of call options. In the context of the Black\u2010Scholes economy, margin restrictions are shown to exclude continuous\u2010trading arbitrage opportunities and, with two additional hypotheses, still to allow the Black\u2010Scholes call model to apply. The Black\u2010Scholes economy consists of a continuously traded stock with a price process that follows a geometric Brownian motion and a continuously traded bond with a price process that is deterministic.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04357.x"
+        },
+        {
+            "no": "4",
+            "title": "Tax Arbitrage and the Existence of Equilibrium Prices for Financial Assets",
+            "date": "December 1987",
+            "author": [
+                "ROBERT M. DAMMON",
+                "RICHARD C. GREEN"
+            ],
+            "abstract": "In models where both investors and securities are subject to differential taxation, there may be no set of prices that rule out infinite gains to trade, or \u201ctax arbitrage.\u201d This paper characterizes the joint restrictions on financial\u2010asset returns and investors' tax schedules that preclude tax arbitrage in the absence of short\u2010sale constraints. The authors show that, if there exists any configuration of marginal tax rates on investors' tax schedules that rule out infinite gains to trade, then \u201cno\u2010tax\u2010arbitrage\u201d prices will exist. They also show that the existence of \u201cno\u2010tax\u2010arbitrage\u201d prices ensures the existence of equilibrium prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04358.x"
+        },
+        {
+            "no": "5",
+            "title": "Forward Markets, Stock Markets, and the Theory of the Firm",
+            "date": "December 1987",
+            "author": [
+                "RICHARD D. MacMINN"
+            ],
+            "abstract": "This paper models a competitive financial market economy in which there are forward markets as well as stock and bond markets. Although there are separation theorems in the stock and forward markets literatures, this analysis shows that neither separation theorem survives in this integrated financial market economy. Next, the analysis shows that the separation results hold and are equivalent if the manager has an appropriate compensation package. Then the model is modified to allow for depreciation charges and tax credits. A positive theory of hedging is developed that shows that the corporation can preserve deductions and credits by hedging and so increase corporate value.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04359.x"
+        },
+        {
+            "no": "6",
+            "title": "An Empirical Investigation of the Market for Comex Gold Futures Options",
+            "date": "December 1987",
+            "author": [
+                "WARREN BAILEY"
+            ],
+            "abstract": "Option\u2010pricing models that assume a constant interest rate may misprice futures options if the interest rate fluctuates significantly or if the price of the underlying asset is correlated with the interest rate. The futures option\u2010pricing model of Ramaswamy and Sundaresan allows for a stochastic interest rate and correlation of the underlying asset's price with the interest rate. Using a data set of daily closing prices for Comex gold futures options, this paper tests the Ramaswamy and Sundaresan model against a constant interest rate model. Results indicate that the stochastic interest rate model is a superior predictor of market prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04360.x"
+        },
+        {
+            "no": "7",
+            "title": "The Seasonal Stability of the Factor Structure of Stock Returns",
+            "date": "December 1987",
+            "author": [
+                "D. CHINHYUNG CHO",
+                "WILLIAM M. TAYLOR"
+            ],
+            "abstract": "This paper investigates the month\u2010by\u2010month stability of (a) daily returns and correlation coefficients of stock returns, (b) correlation and covariance matrices, (c) number of return\u2010generating factors, and (d) the APT pricing relationship. The results show that there is a January effect and a small\u2010firm effect in stock returns. Correlation matrices are more stable than covariance matrices, but both types of matrices are not stable across months and across the sample groups. The number of return\u2010generating factors is rather stable most of the time and for most of the sample groups, but there is some significant instability that is related to the average correlation coefficients among stocks. The APT pricing relationship does not seem to be supported by the two\u2010stage process using the maximum\u2010likelihood factor analysis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04361.x"
+        },
+        {
+            "no": "8",
+            "title": "Stock Return Anomalies and the Tests of the APT",
+            "date": "December 1987",
+            "author": [
+                "MUSTAFA N. GULTEKIN",
+                "N. BULENT GULTEKIN"
+            ],
+            "abstract": "This paper shows that the empirical tests of the Arbitrage Pricing Theory (APT) model are very sensitive to the anomalies observed in January in the stock returns data. There is a strong seasonal pattern in the estimates of the risk premia from the APT model. The most important implication of the findings in this paper is that the APT model can explain the risk\u2010return relation mostly for January. Once the January returns are excluded from the data, there is no significant relation between the expected stock returns and the risk measures predicted by the APT model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04362.x"
+        },
+        {
+            "no": "9",
+            "title": "Efficient Financing under Asymmetric Information",
+            "date": "December 1987",
+            "author": [
+                "MICHAEL BRENNAN",
+                "ALAN KRAUS"
+            ],
+            "abstract": "This paper characterizes the conditions under which the adverse\u2010selection problem, which may prevent a firm from issuing securities to finance an otherwise profitable investment, may be costlessly overcome by an appropriate choice of financing strategy. The conditions are specialized when the information asymmetry may be characterized by either a first\u2010degree\u2010stochastic\u2010dominance or a mean\u2010preserving\u2010spread ordering across possible distributions of firm earnings. Possible financing strategies that resolve the information asymmetry are discussed, and the results are related to recent empirical findings concerning security issues.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04363.x"
+        },
+        {
+            "no": "10",
+            "title": "The Issue Decision of Manager\u2010Owners under Information Asymmetry",
+            "date": "December 1987",
+            "author": [
+                "WILLIAM D. BRADFORD"
+            ],
+            "abstract": "A firm must issue common stock in order to undertake a new investment, and the firm's manager\u2010owners can value the firm more accurately than the market. The ability of the manager\u2010owners to trade in the firm's shares during the issue (a) reduces the investments that are foregone because of the market's mispricing the firm's shares, (b) changes the size and direction of the stock price change when the firm announces a new stock issue, and (c) changes the market value of the firm before and after the issue announcement, whether or not it decides to issue.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04364.x"
+        },
+        {
+            "no": "11",
+            "title": "Acquisition of Divested Assets and Shareholders' Wealth",
+            "date": "December 1987",
+            "author": [
+                "NEIL W. SICHERMAN",
+                "RICHARD H. PETTWAY"
+            ],
+            "abstract": "The divesting of corporate assets has become quite popular. Previous studies of divestitures have found conflicting impacts upon shareholders' wealth of the buying firm. This study measures the impacts of product\u2010line relatedness between the acquiring firm and the divested unit and financial weakness of the selling firm upon the abnormal returns to the acquiring firm. Although the study finds that the impact of financial strength of the seller is ambiguous, the purchase of related assets produces more wealth than does the purchase of unrelated divested units. Further, firms that purchase related divested units have larger proportions of insider ownership.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04365.x"
+        },
+        {
+            "no": "12",
+            "title": "Debt Management under Corporate and Personal Taxation",
+            "date": "December 1987",
+            "author": [
+                "DAVID C. MAUER",
+                "WILBUR G. LEWELLEN"
+            ],
+            "abstract": "The presence of long\u2010term debt in a corporation's capital structure is shown to give rise to a valuable tax\u2010timing option that can be exercised by the firm on behalf of its shareholders. This option, which is not available if the firm is fully equity financed, implies that leverage will have a positive tax effect on total firm value even if there is no such effect associated with the tax deductibility of the coupon interest payments on debt. The more volatile interest rates and bond prices are, the more valuable the tax\u2010timing option and the larger the favorable impact of debt on shareholder wealth.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04366.x"
+        },
+        {
+            "no": "13",
+            "title": "Components of the Bid\u2010Ask Spread and the Statistical Properties of Transaction Prices",
+            "date": "December 1987",
+            "author": [
+                "LAWRENCE R. GLOSTEN"
+            ],
+            "abstract": "The bid\u2010ask spread can be decomposed into two parts: one part due to asymmetric information and the other part due to other factors such as monopoly power. The part due to asymmetric information attenuates statistical biases in mean return, variance, and serial covariance. Thus, using spread data to adjust for biases in return moments requires knowing not only the spread but the composition of the spread. Furthermore, any spread\u2010estimation procedure using transaction prices must estimate two spread components. On the other hand, the appropriateness of some previously suggested statistical corrections is independent of the spread composition.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04367.x"
+        },
+        {
+            "no": "14",
+            "title": "The Temporal Price Relationship between S&P 500 Futures and the S&P 500 Index",
+            "date": "December 1987",
+            "author": [
+                "IRA G. KAWALLER",
+                "PAUL D. KOCH",
+                "TIMOTHY W. KOCH"
+            ],
+            "abstract": "This paper empirically examines the intraday price relationship between S&P 500 futures and the S&P 500 index using minute\u2010to\u2010minute data. Three\u2010stage least\u2010squares regression is used to estimate lead and lag relationships with estimates for expiration days of the S&P 500 futures compared with estimates for days prior to expiration. The results suggest that futures price movements consistently lead index movements by twenty to forty\u2010five minutes while movements in the index rarely affect futures beyond one minute.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04368.x"
+        },
+        {
+            "no": "15",
+            "title": "Off\u2010Board Trading of NYSE\u2010Listed Stocks: The Effects of Deregulation and the National Market System",
+            "date": "December 1987",
+            "author": [
+                "JAMES L. HAMILTON"
+            ],
+            "abstract": "An econometric time\u2010series model of off\u2010board trading of NYSE\u2010listed stocks shows that high NYSE commission rates were an incentive for third\u2010market trading but that trading on the regional exchanges, which is most of the off\u2010board trading, has been affected very little by commissions or their deregulation. The effects of some changes in the trading organization and rules are estimated, including several that are part of the emerging National Market System. The estimates imply that the NMS has increased competition for the NYSE, as Congress intended, and has prompted the NYSE to improve its performance to retain market share.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04369.x"
+        },
+        {
+            "no": "16",
+            "title": "The Market Reaction to Stock Splits",
+            "date": "December 1987",
+            "author": [
+                "CHRISTOPHER G. LAMOUREUX",
+                "PERCY POON"
+            ],
+            "abstract": "In this paper, a model of market reaction to stock splits is presented and tested. We argue that the announcement of a split sets off the following chain of events. The market recognizes that, subsequent to the (reverse) split ex\u2010day, the daily number of transactions along with the raw volume of shares traded will increase (decrease). This increase in volume results in an increase in the noisiness of the security's return process. The increase in noise raises the tax\u2010option value of the stock, and it is this value that generates the announcement effect of stock splits. Empirical evidence using security returns, daily trading volume, and shareholder data strongly supports this theory. The evidence, in conjunction with this theory, also agrees with extant literature that splits result in decreased liquidity, but there is no evidence that this reduction in liquidity is priced.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04370.x"
+        },
+        {
+            "no": "17",
+            "title": "Portfolio Selection in the Mean\u2010Variance Model: A Note",
+            "date": "December 1987",
+            "author": [
+                "LARS TYGE NIELSEN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04371.x"
+        },
+        {
+            "no": "18",
+            "title": "A Note on Quantity versus Price Risk and the Theory of Financial Intermediation",
+            "date": "December 1987",
+            "author": [
+                "STEPHEN D. SMITH",
+                "DEBORAH WRIGHT GREGORY",
+                "KATHLEEN A. WEISS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04372.x"
+        },
+        {
+            "no": "19",
+            "title": "Friday the Thirteenth: \u2018Part VII\u2019\u2014A Note",
+            "date": "December 1987",
+            "author": [
+                "ROBERT W. KOLB",
+                "RICARDO J. RODRIGUEZ"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04373.x"
+        },
+        {
+            "no": "20",
+            "title": "Institutional Contributions to the Leading Finance Journals, 1975 through 1986: A Note",
+            "date": "December 1987",
+            "author": [
+                "ALBERT W. NIEMI JR"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04374.x"
+        },
+        {
+            "no": "21",
+            "title": "Book Reviews",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nMacroeconomics and Finance: Essays in Honor of Franco Modigliani. Edited by RUDIGER DORNBUSCH, STANLEY FISCHER, and JOHN BOSSONS. Cambridge, MA: MIT Press, 1987. Pp. x 339.\nThe Crash and Its Aftermath: A History of Securities Markets in the United States, 1929\u20131933. By BARRIE A. WIGMORE. (Contributions in Economics and Economic History, Number 58.) Westport, CT and London: Greenwood Press, 1985. Pp. xx + 731.\nProfits in the Long Run. By DENNIS C. MUELLER. New York: Cambridge University Press, 1986. Pp. xxii + 352.\nLiquidity Analysis and Management. By GEORGE W. GALLINGER and P. BASIL HEALY. Reading, MA: Addison\u2010Wesley Publishing Company, 1987. Pp. xxiv + 605.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04375.x"
+        },
+        {
+            "no": "22",
+            "title": "MISCELLANEA",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04376.x"
+        },
+        {
+            "no": "23",
+            "title": "INDEX TO VOLUME XLII",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00608.x"
+        },
+        {
+            "no": "24",
+            "title": "IRWIN FRIEND: EDWARD J. HOPKINSON EMERITUS PROFESSOR OF FINANCE AND ECONOMICS",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04355.x"
+        },
+        {
+            "no": "25",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00609.x"
+        },
+        {
+            "no": "26",
+            "title": "ANNOUNCEMENTS",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00610.x"
+        },
+        {
+            "no": "27",
+            "title": "Back Matter",
+            "date": "December 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00611.x"
+        }
+    ]
+}

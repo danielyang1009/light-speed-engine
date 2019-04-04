@@ -1,0 +1,156 @@
+{
+    "journal": "JF",
+    "volume": "65",
+    "issue": "6",
+    "date": "December 2010",
+    "page": "Pages: i-iii, 2015-2444",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "09 November 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01622.x"
+        },
+        {
+            "no": "2",
+            "title": "Sticks or Carrots? Optimal CEO Compensation when Managers Are Loss Averse",
+            "date": "09 November 2010",
+            "author": [
+                "INGOLF DITTMANN",
+                "ERNST MAUG",
+                "OLIVER SPALT"
+            ],
+            "abstract": "This paper analyzes optimal executive compensation contracts when managers are loss averse. We calibrate a stylized principal\u2010agent model to the observed contracts of 595 CEOs and show that this model can explain observed option holdings and high base salaries remarkably well for a range of parameterizations. We also derive and calibrate the general shape of the optimal contract that is increasing and convex for medium and high outcomes and that drops discontinuously to the lowest possible payout for low outcomes. Finally, we identify the critical features of the loss\u2010aversion model that render optimal contracts convex.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01609.x"
+        },
+        {
+            "no": "3",
+            "title": "Why Are CEOs Rarely Fired? Evidence from Structural Estimation",
+            "date": "09 November 2010",
+            "author": [
+                "LUCIAN A. TAYLOR"
+            ],
+            "abstract": "I evaluate the forced CEO turnover rate and quantify effects on shareholder value by estimating a dynamic model. The model features learning about CEO ability and costly turnover. To fit the observed forced turnover rate, the model needs the average board of directors to behave as if replacing the CEO costs shareholders at least $200 million. This cost mainly reflects CEO entrenchment rather than a real cost to shareholders. The model predicts that shareholder value would rise 3% if we eliminated this perceived turnover cost, all else equal. The model also helps explain the relation between CEO firings, tenure, and profitability.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01610.x"
+        },
+        {
+            "no": "4",
+            "title": "The Cost of Debt",
+            "date": "09 November 2010",
+            "author": [
+                "JULES H. Van BINSBERGEN",
+                "JOHN R. GRAHAM",
+                "JIE YANG"
+            ],
+            "abstract": "We use exogenous variation in tax benefit functions to estimate firm\u2010specific cost of debt functions that are conditional on company characteristics such as collateral, size, and book\u2010to\u2010market. By integrating the area between the benefit and cost functions, we estimate that the equilibrium net benefit of debt is 3.5% of asset value, resulting from an estimated gross benefit (cost) of debt equal to 10.4% (6.9%) of asset value. We find that the cost of being overlevered is asymmetrically higher than the cost of being underlevered and that expected default costs constitute only half of the total ex ante costs of debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01611.x"
+        },
+        {
+            "no": "5",
+            "title": "The Net Benefits to Leverage",
+            "date": "09 November 2010",
+            "author": [
+                "ARTHUR KORTEWEG"
+            ],
+            "abstract": "I estimate the market's valuation of the net benefits to leverage using panel data from 1994 to 2004, identified from market values and betas of a company's debt and equity. The median firm captures net benefits of up to 5.5% of firm value. Small and profitable firms have high optimal leverage ratios, as predicted by theory, but in contrast to existing empirical evidence. Companies are on average slightly underlevered relative to the optimal leverage ratio at refinancing. This result is mainly due to zero leverage firms. I also look at implications for financial policy.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01612.x"
+        },
+        {
+            "no": "6",
+            "title": "Macroeconomic Conditions and the Puzzles of Credit Spreads and Capital Structure",
+            "date": "09 November 2010",
+            "author": [
+                "HUI CHEN"
+            ],
+            "abstract": "I build a dynamic capital structure model that demonstrates how business cycle variation in expected growth rates, economic uncertainty, and risk premia influences firms' financing policies. Countercyclical fluctuations in risk prices, default probabilities, and default losses arise endogenously through firms' responses to macroeconomic conditions. These comovements generate large credit risk premia for investment grade firms, which helps address the credit spread puzzle and the under\u2010leverage puzzle in a unified framework. The model generates interesting dynamics for financing and defaults, including market timing in debt issuance and credit contagion. It also provides a novel procedure to estimate state\u2010dependent default losses.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01613.x"
+        },
+        {
+            "no": "7",
+            "title": "Who Blows the Whistle on Corporate Fraud?",
+            "date": "09 November 2010",
+            "author": [
+                "ALEXANDER DYCK",
+                "ADAIR MORSE",
+                "LUIGI ZINGALES"
+            ],
+            "abstract": "To identify the most effective mechanisms for detecting corporate fraud, we study all reported fraud cases in large U.S. companies between 1996 and 2004. We find that fraud detection does not rely on standard corporate governance actors (investors, SEC, and auditors), but rather takes a village, including several nontraditional players (employees, media, and industry regulators). Differences in access to information, as well as monetary and reputational incentives, help to explain this pattern. In\u2010depth analyses suggest that reputational incentives in general are weak, except for journalists in large cases. By contrast, monetary incentives help explain employee whistleblowing.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01614.x"
+        },
+        {
+            "no": "8",
+            "title": "Corporate Fraud and Business Conditions: Evidence from IPOs",
+            "date": "09 November 2010",
+            "author": [
+                "TRACY YUE WANG",
+                "ANDREW WINTON",
+                "XIAOYUN YU"
+            ],
+            "abstract": "We examine how a firm's incentive to commit fraud when going public varies with investor beliefs about industry business conditions. Fraud propensity increases with the level of investor beliefs about industry prospects but decreases when beliefs are extremely high. We find that two mechanisms are at work: monitoring by investors and short\u2010term executive compensation, both of which vary with investor beliefs about industry prospects. We also find that monitoring incentives of investors and underwriters differ. Our results are consistent with models of investor beliefs and corporate fraud, and suggest that regulators and auditors should be vigilant for fraud during booms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01615.x"
+        },
+        {
+            "no": "9",
+            "title": "Collateral, Risk Management, and the Distribution of Debt Capacity",
+            "date": "09 November 2010",
+            "author": [
+                "ADRIANO A. RAMPINI",
+                "S. VISWANATHAN"
+            ],
+            "abstract": "Collateral constraints imply that financing and risk management are fundamentally linked. The opportunity cost of engaging in risk management and conserving debt capacity to hedge future financing needs is forgone current investment, and is higher for more productive and less well\u2010capitalized firms. More constrained firms engage in less risk management and may exhaust their debt capacity and abstain from risk management, consistent with empirical evidence and in contrast to received theory. When cash flows are low, such firms may be unable to seize investment opportunities and be forced to downsize. Consequently, capital may be less productively deployed in downturns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01616.x"
+        },
+        {
+            "no": "10",
+            "title": "Leverage Choice and Credit Spreads when Managers Risk Shift",
+            "date": "09 November 2010",
+            "author": [
+                "MURRAY CARLSON",
+                "ALI LAZRAK"
+            ],
+            "abstract": "We model the debt and asset risk choice of a manager with performance\u2010insensitive pay (cash) and performance\u2010sensitive pay (stock) to theoretically link compensation structure, leverage, and credit spreads. The model predicts that optimal leverage trades off the tax benefit of debt against the utility cost of ex\u2010post asset substitution and that credit spreads are increasing in the ratio of cash\u2010to\u2010stock. Using a large cross\u2010section of U.S.\u2010based corporate credit default swaps (CDS) covering 2001 to 2006, we find a positive association between cash\u2010to\u2010stock and CDS rates, and between cash\u2010to\u2010stock and leverage ratios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01617.x"
+        },
+        {
+            "no": "11",
+            "title": "Lucky CEOs and Lucky Directors",
+            "date": "09 November 2010",
+            "author": [
+                "LUCIAN A. BEBCHUK",
+                "YANIV GRINSTEIN",
+                "URS PEYER"
+            ],
+            "abstract": "We study the relation between opportunistic timing of option grants and corporate governance failures, focusing on \u201clucky\u201d grants awarded at the lowest price of the grant month. Option grant practices were designed to provide lucky grants not only to executives but also to independent directors. Lucky grants to both CEOs and directors were the product of deliberate choices, not of firms\u2019 routines, and were timed to make them more profitable. Lucky grants are associated with higher CEO compensation from other sources, no majority of independent directors, no outside blockholder on the compensation committee, and a long\u2010serving CEO.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01618.x"
+        },
+        {
+            "no": "12",
+            "title": "Managerial Legacies, Entrenchment, and Strategic Inertia",
+            "date": "09 November 2010",
+            "author": [
+                "CATHERINE CASAMATTA",
+                "ALEXANDER GUEMBEL"
+            ],
+            "abstract": "This paper argues that the legacy potential of a firm's strategy is an important determinant of CEO compensation, turnover, and strategy change. A legacy makes CEO replacement expensive, because firm performance can only partially be attributed to a newly employed manager. Boards may therefore optimally allow an incumbent to be entrenched. Moreover, when a firm changes strategy it is optimal to change the CEO, because the incumbent has a vested interest in seeing the new strategy fail. Even though CEOs have no specific skills in our model, legacy issues can explain the empirical association between CEO and strategy change.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01619.x"
+        },
+        {
+            "no": "13",
+            "title": "MISCELLANEA",
+            "date": "09 November 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01620.x"
+        },
+        {
+            "no": "14",
+            "title": "Back Matter",
+            "date": "09 November 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01621.x"
+        }
+    ]
+}

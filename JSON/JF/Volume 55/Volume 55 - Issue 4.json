@@ -1,0 +1,213 @@
+{
+    "journal": "JF",
+    "volume": "55",
+    "issue": "4",
+    "date": "August 2000",
+    "page": "Pages: i-vii, 1477-1900, viii-xxvi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00700.x"
+        },
+        {
+            "no": "2",
+            "title": "Selection Editor's Introduction",
+            "date": "17 December 2002",
+            "author": [
+                "Franklin Allen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00258"
+        },
+        {
+            "no": "3",
+            "title": "Presidential Address: Friction",
+            "date": "17 December 2002",
+            "author": [
+                "Hans R. Stoll"
+            ],
+            "abstract": "The sources of trading friction are studied, and simple, robust empirical measures of friction are provided. Seven distinct measures of trading friction are computed from transactions data for 1,706 NYSE/AMSE stocks and 2,184 Nasdaq stocks. The measures provide insights into the magnitude of trading costs, the importance of informational versus real frictions, and the role of market structure. The degree to which the various measures are associated with each other and with trading characteristics of stocks is examined.",
+            "link": "https://doi.org/10.1111/0022-1082.00259"
+        },
+        {
+            "no": "4",
+            "title": "Asset Pricing at the Millennium",
+            "date": "17 December 2002",
+            "author": [
+                "John Y. Campbell"
+            ],
+            "abstract": "This paper surveys the field of asset pricing. The emphasis is on the interplay between theory and empirical work and on the trade\u2010off between risk and return. Modern research seeks to understand the behavior of the stochastic discount factor (SDF) that prices all assets in the economy. The behavior of the term structure of real interest rates restricts the conditional mean of the SDF, whereas patterns of risk premia restrict its conditional volatility and factor structure. Stylized facts about interest rates, aggregate stock prices, and cross\u2010sectional patterns in stock returns have stimulated new research on optimal portfolio choice, intertemporal equilibrium models, and behavioral finance.",
+            "link": "https://doi.org/10.1111/0022-1082.00260"
+        },
+        {
+            "no": "5",
+            "title": "Continuous\u2010Time Methods in Finance: A Review and an Assessment",
+            "date": "17 December 2002",
+            "author": [
+                "Suresh M. Sundaresan"
+            ],
+            "abstract": "I survey and assess the development of continuous\u2010time methods in finance during the last 30 years. The subperiod 1969 to 1980 saw a dizzying pace of development with seminal ideas in derivatives securities pricing, term structure theory, asset pricing, and optimal consumption and portfolio choices. During the period 1981 to 1999 the theory has been extended and modified to better explain empirical regularities in various subfields of finance. This latter subperiod has seen significant progress in econometric theory, computational and estimation methods to test and implement continuous\u2010time models. Capital market frictions and bargaining issues are being increasingly incorporated in continuous\u2010time theory.",
+            "link": "https://doi.org/10.1111/0022-1082.00261"
+        },
+        {
+            "no": "6",
+            "title": "In Search of New Foundations",
+            "date": "17 December 2002",
+            "author": [
+                "Luigi Zingales"
+            ],
+            "abstract": "In this paper I argue that corporate finance theory, empirical research, practical applications, and policy recommendations are deeply rooted in an underlying theory of the firm. I also argue that although the existing theories have delivered very important and useful insights, they seem to be quite ineffective in helping us cope with the new type of firms that is emerging. I outline the characteristics that a new theory of the firm should satisfy and how such a theory could change the way we do corporate finance, both theoretically and empirically.",
+            "link": "https://doi.org/10.1111/0022-1082.00262"
+        },
+        {
+            "no": "7",
+            "title": "Mutual Fund Performance: An Empirical Decomposition into Stock\u2010Picking Talent, Style, Transactions Costs, and Expenses",
+            "date": "17 December 2002",
+            "author": [
+                "Russ Wermers"
+            ],
+            "abstract": "We use a new database to perform a comprehensive analysis of the mutual fund industry. We find that funds hold stocks that outperform the market by 1.3 percent per year, but their net returns underperform by one percent. Of the 2.3 percent difference between these results, 0.7 percent is due to the underperformance of nonstock holdings, whereas 1.6 percent is due to expenses and transactions costs. Thus, funds pick stocks well enough to cover their costs. Also, high\u2010turnover funds beat the Vanguard Index 500 fund on a net return basis. Our evidence supports the value of active mutual fund management.",
+            "link": "https://doi.org/10.1111/0022-1082.00263"
+        },
+        {
+            "no": "8",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Tobias J. Moskowitz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00264"
+        },
+        {
+            "no": "9",
+            "title": "Foundations of Technical Analysis: Computational Algorithms, Statistical Inference, and Empirical Implementation",
+            "date": "17 December 2002",
+            "author": [
+                "Andrew W. Lo",
+                "Harry Mamaysky",
+                "Jiang Wang"
+            ],
+            "abstract": "Technical analysis, also known as \u201ccharting,\u201d has been a part of financial practice for many decades, but this discipline has not received the same level of academic scrutiny and acceptance as more traditional approaches such as fundamental analysis. One of the main obstacles is the highly subjective nature of technical analysis\u2014the presence of geometric shapes in historical price charts is often in the eyes of the beholder. In this paper, we propose a systematic and automatic approach to technical pattern recognition using nonparametric kernel regression, and we apply this method to a large number of U.S. stocks from 1962 to 1996 to evaluate the effectiveness of technical analysis. By comparing the unconditional empirical distribution of daily stock returns to the conditional distribution\u2014conditioned on specific technical indicators such as head\u2010and\u2010shoulders or double bottoms\u2014we find that over the 31\u2010year sample period, several technical indicators do provide incremental information and may have some practical value.",
+            "link": "https://doi.org/10.1111/0022-1082.00265"
+        },
+        {
+            "no": "10",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Narasimhan Jegadeesh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00266"
+        },
+        {
+            "no": "11",
+            "title": "Order Flow and Liquidity around NYSE Trading Halts",
+            "date": "17 December 2002",
+            "author": [
+                "Shane A. Corwin",
+                "Marc L. Lipson"
+            ],
+            "abstract": "We study order flow and liquidity around NYSE trading halts. We find that market and limit order submissions and cancellations increase significantly during trading halts, that a large proportion of the limit order book at the reopen is composed of orders submitted during the halt, and that the market\u2010clearing price at the reopen is a good predictor of future prices. Depth near the quotes is unusually low around trading halts, though specialists and/or floor traders appear to provide additional liquidity at these times. Finally, specialists appear to \u201cspread the quote\u201d prior to imbalance halts to convey information to market participants.",
+            "link": "https://doi.org/10.1111/0022-1082.00267"
+        },
+        {
+            "no": "12",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Daniel G. Weaver"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00268"
+        },
+        {
+            "no": "13",
+            "title": "Corporate Reorganizations and Non\u2010Cash Auctions",
+            "date": "17 December 2002",
+            "author": [
+                "Matthew Rhodes\u2010Kropf",
+                "S. Viswanathan"
+            ],
+            "abstract": "This paper extends the theory of non\u2010cash auctions by considering the revenue and efficiency of using different securities. Research on bankruptcy and privatization suggests using non\u2010cash auctions to increase cash\u2010constrained bidder participation. We examine this proposal and demonstrate that securities may lead to higher revenue. However, bidders pool unless bids include debt, which results in possible repossession by the seller. This suggests all\u2010equity outcomes are unlikely and explains the high debt of reorganized firms. Securities also inefficiently determine bidders' incentive contracts and the firm's capital structure. Therefore, we recommend a new cash auction for an incentive contract.",
+            "link": "https://doi.org/10.1111/0022-1082.00269"
+        },
+        {
+            "no": "14",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Robert Marquez"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00270"
+        },
+        {
+            "no": "15",
+            "title": "Minutes of the Annual Membership Meeting",
+            "date": "17 December 2002",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00271"
+        },
+        {
+            "no": "16",
+            "title": "Report of the Executive Secretary and Treasurer for the Year Ending September 30, 1999",
+            "date": "17 December 2002",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00272"
+        },
+        {
+            "no": "17",
+            "title": "Report of the Editor for His Tenure and 1999*",
+            "date": "17 December 2002",
+            "author": [
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00273"
+        },
+        {
+            "no": "18",
+            "title": "Report of the Representative to the National Bureau of Economic Research",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00059-i1"
+        },
+        {
+            "no": "19",
+            "title": "Announcements",
+            "date": "28 June 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00275"
+        },
+        {
+            "no": "20",
+            "title": "Association Meetings",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00276"
+        },
+        {
+            "no": "21",
+            "title": "Back Matter",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00701.x"
+        }
+    ]
+}

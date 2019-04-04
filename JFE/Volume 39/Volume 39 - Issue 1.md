@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Sep 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. Poison or placebo? Evidence on the deterrence and wealth effects of modern antitakeover measures
 ### Date
 - Sep 1995
-### Authors
+### Author
 - Robert Comment
 - G.William Schwert
 ### Abstract
@@ -41,7 +41,7 @@ This paper provides large-sample evidence that poison pill rights issues, contro
 ## 4. Liquidation costs and capital structure
 ### Date
 - Sep 1995
-### Authors
+### Author
 - Michael J. Alderson
 - Brian L. Betker
 ### Abstract
@@ -52,7 +52,7 @@ We investigate the relation between liquidation costs of assets and composition 
 ## 5. All in the family Nesting symmetric and asymmetric GARCH models
 ### Date
 - Sep 1995
-### Authors
+### Author
 - Ludger Hentschel
 ### Abstract
 This paper develops a parametric family of models of generalized autoregressive heteroskedasticity (GARCH). The family nests the most popular symmetric and asymmetric GARCH models, thereby highlighting the relation between the models and their treatment of asymmetry. Furthermore, the structure permits nested tests of different types of asymmetry and functional forms. Daily U.S. stock return data reject all standard GARCH models in favor of a model in which, roughly speaking, the conditional standard deviation depends on the shifted absolute value of the shocks raised to the power three halves and past standard deviations.
@@ -62,7 +62,7 @@ This paper develops a parametric family of models of generalized autoregressive 
 ## 6. Executive pay and performance Evidence from the U.S. banking industry
 ### Date
 - Sep 1995
-### Authors
+### Author
 - R.Glenn Hubbard
 - Darius Palia
 ### Abstract
@@ -73,7 +73,7 @@ This paper examines CEO pay in the banking industry and the effect of deregulati
 ## 7. Equity ownership and the two faces of debt
 ### Date
 - Sep 1995
-### Authors
+### Author
 - John J. McConnell
 - Henri Servaes
 ### Abstract

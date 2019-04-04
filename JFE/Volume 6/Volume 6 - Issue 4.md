@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1978
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Dividends and taxes
 ### Date
 - Dec 1978
-### Authors
+### Author
 - Merton H. Miller
 - Myron S. Scholes
 ### Abstract
@@ -26,7 +26,7 @@ We present sufficient conditions for taxable investors to be indifferent to divi
 ## 3. An application of a three-factor performance index to measure stockholder gains from merger
 ### Date
 - Dec 1978
-### Authors
+### Author
 - Terence C. Langetieg
 ### Abstract
 This article re-examines the magnitude of stockholder gains from merger. To measure stockholder gains we employ four alternative two-factor market-industry models in combination with a matched non-merging control group. The four two-factor models are based on either the capital asset pricing model or Black's (1972) zero-beta model combined with two alternative industry factors. The four models are shown to produce generally consistent results. However, the results from a two-factor model are sometimes different from the results of a simpler one-factor model. Also, the introduction of a third factor, the non-merging control group, is shown to have a substantial impact on performance measurement.
@@ -36,7 +36,7 @@ This article re-examines the magnitude of stockholder gains from merger. To meas
 ## 4. Market proxies and the conditional prediction of returns
 ### Date
 - Dec 1978
-### Authors
+### Author
 - I.G. Morgan
 ### Abstract
 Ex post efficient proxies for the market portfolio are tested against the equal weight proxy. The equal weight proxy outperforms the others when the criterion is squared error of conditional prediction of returns. The ex post efficient proxies use maximum likelihood estimates of return. Stein estimates of return will generally be different from the maximum likelihood estimates and they necessarily correspond to market proxies which are not efficient ex post. In other words, there generally exists a better, inefficient, proxy than an ex post efficient proxy when the criterion is squared error of conditional prediction of return.
@@ -46,7 +46,7 @@ Ex post efficient proxies for the market portfolio are tested against the equal 
 ## 5. Taxes and portfolio composition
 ### Date
 - Dec 1978
-### Authors
+### Author
 - Edwin J. Elton
 - Martin J. Gruber
 ### Abstract
@@ -57,7 +57,7 @@ This paper explores investors portfolio behavior when security returns can be de
 ## 6. Editorial collaborators
 ### Date
 - Dec 1978
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -66,7 +66,7 @@ This paper explores investors portfolio behavior when security returns can be de
 ## 7. Index
 ### Date
 - Dec 1978
-### Authors
+### Author
 ### Abstract
 
 ### Link

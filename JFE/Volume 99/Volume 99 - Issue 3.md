@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do hedge funds trade on private information? Evidence from syndicated lending and short-selling
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Nadia Massoud
 - Debarshi Nandy
 - Anthony Saunders
@@ -27,7 +27,7 @@ This paper investigates an important contemporary issue relating to the involvem
 ## 3. Institutional demand pressure and the cost of corporate loans
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Victoria Ivashina
 - Zheng Sun
 ### Abstract
@@ -38,7 +38,7 @@ Between 2001 and 2007, annual institutional funding in highly leveraged loans we
 ## 4. Board structure and price informativeness
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Daniel Ferreira
 - Miguel A. Ferreira
 - Clara C. Raposo
@@ -50,7 +50,7 @@ We develop and test the hypothesis that stock price informativeness affects the 
 ## 5. Why mutual funds “underperform”
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Vincent Glode
 ### Abstract
 I propose a parsimonious model that reproduces the negative risk-adjusted performance of actively managed equity mutual funds. In the model, a fund manager can generate state-dependent active returns at a disutility. Negative expected performance and mutual fund investing simultaneously arise in equilibrium because the active return the fund manager generates covaries positively with a component of the pricing kernel that the performance measure omits, consistent with recent empirical evidence. Using data on U.S. funds, I also document new empirical evidence consistent with the model's cross-sectional implications.
@@ -60,7 +60,7 @@ I propose a parsimonious model that reproduces the negative risk-adjusted perfor
 ## 6. Time-varying short-horizon predictability
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Sam James Henkel
 - J. Spencer Martin
 - Federico Nardari
@@ -72,7 +72,7 @@ In the G7 countries, the short-horizon performance of aggregate return predictor
 ## 7. Breaking down the barriers: Competition, syndicate structure, and underwriting incentives
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Anil Shivdasani
 - Wei-Ling Song
 ### Abstract
@@ -83,7 +83,7 @@ We argue that the entry of commercial banks into bond underwriting led to the ev
 ## 8. Technological change and the growing inequality in managerial compensation
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Hanno Lustig
 - Chad Syverson
 - Stijn Van Nieuwerburgh
@@ -95,7 +95,7 @@ Three of the most fundamental changes in US corporations since the early 1970s h
 ## 9. Liquidity risk and expected corporate bond returns
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Hai Lin
 - Junbo Wang
 - Chunchi Wu
@@ -107,7 +107,7 @@ This paper studies the pricing of liquidity risk in the cross section of corpora
 ## 10. Exchange trading rules and stock market liquidity
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Douglas Cumming
 - Sofia Johan
 - Dan Li
@@ -119,7 +119,7 @@ We examine stock exchange trading rules for market manipulation, insider trading
 ## 11. Hedge funds, managerial skill, and macroeconomic variables
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Doron Avramov
 - Robert Kosowski
 - Narayan Y. Naik
@@ -132,7 +132,7 @@ This paper evaluates hedge fund performance through portfolio strategies that in
 ## 12. Share issuance and cash savings
 ### Date
 - Oct 2010
-### Authors
+### Author
 - R. David McLean
 ### Abstract
 Firms increasingly issue shares for the purpose of cash savings. During the 1970s, $1.00 of issuance resulted in $0.23 of cash savings; over the most recent decade, $1.00 of issuance resulted in $0.60 of cash savings. This increase is caused by increasing precautionary motives. Proxies for precautionary motives increase over the sample period, and firm-level increases in these proxies are associated with firm-level increases in share issuance–cash savings. Share issuance–cash savings are inversely related to issuance costs, suggesting that firms issue and save when costs are low, so as to avoid issuing when costs are high. This framework can also help explain patterns and trends in share issuance activity over time. Market timing does not explain these effects, as share issuance–cash savings are not related to post-issuance stock returns.

@@ -5,7 +5,7 @@
 ## 1. Market efficiency, long-term returns, and behavioral finance1
 ### Date
 - 1 September
-### Authors
+### Author
 - Eugene F. Fama
 ### Abstract
 Market efficiency survives the challenge from the literature on long-term return anomalies. Consistent with the market efficiency hypothesis that the anomalies are chance results, apparent overreaction to information is about as common as underreaction, and post-event continuation of pre-event abnormal returns is about as frequent as post-event reversal. Most important, consistent with the market efficiency prediction that apparent anomalies can be due to methodology, most long-term return anomalies tend to disappear with reasonable changes in technique.
@@ -15,7 +15,7 @@ Market efficiency survives the challenge from the literature on long-term return
 ## 2. A model of investor sentiment1
 ### Date
 - 1 September
-### Authors
+### Author
 - Nicholas Barberis
 - Andrei Shleifer
 - Robert Vishny
@@ -27,7 +27,7 @@ Recent empirical research in finance has uncovered two families of pervasive reg
 ## 3. Alternative factor specifications, security characteristics, and the cross-section of expected stock returns1
 ### Date
 - 1 September
-### Authors
+### Author
 - Michael J. Brennan
 - Tarun Chordia
 - Avanidhar Subrahmanyam
@@ -39,7 +39,7 @@ We examine the relation between stock returns, measures of risk, and several non
 ## 4. How big is the premium for currency risk?1
 ### Date
 - 1 September
-### Authors
+### Author
 - Giorgio De Santis
 - Bruno Gérard
 ### Abstract
@@ -50,7 +50,7 @@ We estimate and test the conditional version of an International Capital Asset P
 ## 5. Index
 ### Date
 - 1 September
-### Authors
+### Author
 ### Abstract
 
 ### Link

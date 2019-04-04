@@ -5,7 +5,7 @@
 ## 1. Alternative flotation methods, adverse selection, and ownership structure: evidence from seasoned equity issuance in the U.K.
 ### Date
 - Aug 2000
-### Authors
+### Author
 - M.B Slovin
 - M.E Sushka
 - K.W.L Lai
@@ -17,7 +17,7 @@ We examine valuation effects of announcements of seasoned equity issuance and as
 ## 2. Corporate policies restricting trading by insiders
 ### Date
 - Aug 2000
-### Authors
+### Author
 - J.C Bettis
 - J.L Coles
 - M.L Lemmon
@@ -29,7 +29,7 @@ This paper examines policies and procedures put in place by corporations to regu
 ## 3. Can book-to-market, size and momentum be risk factors that predict economic growth?
 ### Date
 - Aug 2000
-### Authors
+### Author
 - Jimmy Liew
 - Maria Vassalou
 ### Abstract
@@ -40,7 +40,7 @@ We test whether the profitability of HML, SMB, and WML can be linked to future G
 ## 4. Trade size, order imbalance, and the volatility–volume relation
 ### Date
 - Aug 2000
-### Authors
+### Author
 - Kalok Chan
 - Wai-Ming Fong
 ### Abstract
@@ -51,7 +51,7 @@ This paper examines the roles of the number of trades, size of trades, and order
 ## 5. Corporate governance proposals and shareholder activism: the role of institutional investors
 ### Date
 - Aug 2000
-### Authors
+### Author
 - Stuart L. Gillan
 - Laura T. Starks
 ### Abstract

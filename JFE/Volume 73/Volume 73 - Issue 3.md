@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Asset prices and real investment
 ### Date
 - Dec 2003
-### Authors
+### Author
 - Leonid Kogan
 ### Abstract
 Firm investment activity and firm characteristics, particularly the market-to-book ratio or q, are functions of the state of the economy and therefore contain information about the dynamic behavior of stock returns. This paper develops a model of a production economy in which real investment is irreversible and subject to convex adjustment costs. During low-q (high-q) periods when the irreversibility constraint (constraint on the rate of investment) is binding, conditional volatility and expected returns on one hand, and market-to-book ratios on the other, should be negatively (positively) related. Empirical tests based on industry portfolios support these predictions for conditional volatility but not for expected returns.
@@ -24,7 +24,7 @@ Firm investment activity and firm characteristics, particularly the market-to-bo
 ## 3. The timing and value of forecast and recommendation revisions
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Zoran Ivković
 - Narasimhan Jegadeesh
 ### Abstract
@@ -35,7 +35,7 @@ This paper evaluates the information content of analysts’ one-quarter-ahead ea
 ## 4. Estimating the market risk premium
 ### Date
 - Mar 2002
-### Authors
+### Author
 - E Scott Mayfield
 ### Abstract
 This paper provides a method for estimating the market risk premium that accounts for shifts in investment opportunities by explicitly modeling the underlying process governing the level of market volatility. I find that approximately 50% of the measured risk premium is related to the risk of future changes in investment opportunities. Evidence of a structural shift in the underlying volatility process suggests that the simple historical average of excess market returns may substantially overstate the magnitude of the market risk premium for the period since the Great Depression.
@@ -45,7 +45,7 @@ This paper provides a method for estimating the market risk premium that account
 ## 5. Who is in whose pocket? Director compensation, board independence, and barriers to effective monitoring
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Harley E. Ryan
 - Roy A. Wiggins
 ### Abstract
@@ -56,7 +56,7 @@ We use a bargaining framework to examine empirically the relations between direc
 ## 6. Testing market efficiency using statistical arbitrage with applications to momentum and value strategies
 ### Date
 - Oct 2003
-### Authors
+### Author
 - Steve Hogan
 - Robert Jarrow
 - Melvyn Teo
@@ -69,7 +69,7 @@ This paper introduces the concept of statistical arbitrage, a long horizon tradi
 ## 7. Banking market structure and financial stability: Evidence from the Texas real estate crisis in the 1980s
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Jie Gan
 ### Abstract
 This paper examines the relationship between banking market structure and financial stability. Using data on thrifts, a type of banking institution specializing in residential mortgage lending, I test two related hypotheses. First, competition reduces franchise value. Second, reduced franchise value induces risk taking. Testing the second hypothesis exploits predictions that when hit by an exogenous shock, the slope of risk with respect to franchise value becomes more negative because thrifts adopt “bang-bang” strategies and choose minimal or maximal risk. Using the Texas real estate collapse in the 1980s as a natural experiment, I find evidence supporting both hypotheses.
@@ -79,7 +79,7 @@ This paper examines the relationship between banking market structure and financ
 ## 8. Corrigendum to “Universal option valuation using quadrature methods”
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Ari D Andricopoulos
 - Martin Widdicks
 - Peter W Duck
@@ -92,7 +92,7 @@ This paper examines the relationship between banking market structure and financ
 ## 9. Index
 ### Date
 - Sep 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link

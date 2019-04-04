@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A five-factor asset pricing model
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -25,7 +25,7 @@ A five-factor model directed at capturing the size, value, profitability, and in
 ## 3. Scale and skill in active management
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Ľuboš Pástor
 - Robert F. Stambaugh
 - Lucian A. Taylor
@@ -37,7 +37,7 @@ We empirically analyze the nature of returns to scale in active mutual fund mana
 ## 4. Structured debt ratings: Evidence on conflicts of interest
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Matthias Efing
 - Harald Hau
 ### Abstract
@@ -48,7 +48,7 @@ We test if issuers of asset- and mortgage-backed securities receive rating favor
 ## 5. The role of dynamic renegotiation and asymmetric information in financial contracting
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Michael R. Roberts
 ### Abstract
 Using data from Securities and Exchange Commission filings, I show that the typical bank loan is renegotiated five times, or every nine months. The pricing, maturity, amount, and covenants are all significantly modified during each renegotiation, whose timing is governed by the financial health of the contracting parties and uncertainty regarding the borrowers’ credit quality. The relative importance of these factors depends on the duration of the lending relationship. I interpret these results in light of financial contracting theories and emphasize that renegotiation is an important mechanism for dynamically completing contracts and for allocating control rights ex post.
@@ -58,7 +58,7 @@ Using data from Securities and Exchange Commission filings, I show that the typi
 ## 6. Commonality in news around the world
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Tung Lam Dang
 - Fariborz Moshirian
 - Bohui Zhang
@@ -70,7 +70,7 @@ Motivated by the pioneering study of Morck, Yeung, and Yu (2000), this paper inv
 ## 7. Momentum has its moments
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Pedro Barroso
 - Pedro Santa-Clara
 ### Abstract
@@ -81,7 +81,7 @@ Compared with the market, value, or size factors, momentum has offered investors
 ## 8. The JOBS Act and IPO volume: Evidence that disclosure costs affect the IPO decision
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Michael Dambra
 - Laura Casares Field
 - Matthew T. Gustafson
@@ -93,7 +93,7 @@ In April 2012, the Jumpstart Our Business Startups Act (JOBS Act) was enacted to
 ## 9. Political capital and moral hazard
 ### Date
 - Dec 2014
-### Authors
+### Author
 - Leonard Kostovetsky
 ### Abstract
 This paper examines how political connections affect risk exposure of financial institutions. Using a geography-based measure, I find that politically connected firms have higher leverage and their stocks have higher volatility and beta. Furthermore, prior to the 2008 financial crisis, politically-connected financial firms had higher leverage and were more likely to increase their leverage during the housing bubble in response to local growth in median housing prices. During the crisis, higher leverage was associated with worse performance but being in a state with a US Senator on the Banking Committee was correlated with weakly improved stock returns and reduced bankruptcy probability, highlighting the value of political connections for financial firms.
@@ -103,7 +103,7 @@ This paper examines how political connections affect risk exposure of financial 
 ## 10. The disintermediation of financial markets: Direct investing in private equity
 ### Date
 - Dec 2014
-### Authors
+### Author
 - Lily Fang
 - Victoria Ivashina
 - Josh Lerner
@@ -115,7 +115,7 @@ We examine 20 years of direct private equity investments by seven large institut
 ## 11. The effect of repatriation tax costs on U.S. multinational investment
 ### Date
 - Dec 2014
-### Authors
+### Author
 - Michelle Hanlon
 - Rebecca Lester
 - Rodrigo Verdi
@@ -127,7 +127,7 @@ This paper investigates whether the U.S. repatriation tax for U.S. multinational
 ## 12. Hedge funds and discretionary liquidity restrictions
 ### Date
 - Jan 2015
-### Authors
+### Author
 - Adam L. Aiken
 - Christopher P. Clifford
 - Jesse A. Ellis

@@ -1,0 +1,207 @@
+{
+    "journal": "JF",
+    "volume": "61",
+    "issue": "6",
+    "date": "December 2006",
+    "page": "Pages: i-v, 2551-3110, vi-x",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "11 January 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01013.x"
+        },
+        {
+            "no": "2",
+            "title": "Can Mutual Fund \u201cStars\u201d Really Pick Stocks? New Evidence from a Bootstrap Analysis",
+            "date": "11 January 2007",
+            "author": [
+                "ROBERT KOSOWSKI",
+                "ALLAN TIMMERMANN",
+                "RUSS WERMERS",
+                "HAL WHITE"
+            ],
+            "abstract": "We apply a new bootstrap statistical technique to examine the performance of the U.S. open\u2010end, domestic equity mutual fund industry over the 1975 to 2002 period. A bootstrap approach is necessary because the cross section of mutual fund alphas has a complex nonnormal distribution due to heterogeneous risk\u2010taking by funds as well as nonnormalities in individual fund alpha distributions. Our bootstrap approach uncovers findings that differ from many past studies. Specifically, we find that a sizable minority of managers pick stocks well enough to more than cover their costs. Moreover, the superior alphas of these managers persist.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01015.x"
+        },
+        {
+            "no": "3",
+            "title": "Political Connections and Corporate Bailouts",
+            "date": "11 January 2007",
+            "author": [
+                "MARA FACCIO",
+                "RONALD W. MASULIS",
+                "JOHN J. McCONNELL"
+            ],
+            "abstract": "We analyze the likelihood of government bailouts of 450 politically connected firms from 35 countries during 1997\u20132002. Politically connected firms are significantly more likely to be bailed out than similar nonconnected firms. Additionally, politically connected firms are disproportionately more likely to be bailed out when the International Monetary Fund or the World Bank provides financial assistance to the firm's home government. Further, among bailed\u2010out firms, those that are politically connected exhibit significantly worse financial performance than their nonconnected peers at the time of and following the bailout. This evidence suggests that, at least in some countries, political connections influence the allocation of capital through the mechanism of financial assistance when connected companies confront economic distress.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01000.x"
+        },
+        {
+            "no": "4",
+            "title": "A Theory of Pyramidal Ownership and Family Business Groups",
+            "date": "11 January 2007",
+            "author": [
+                "HEITOR V. ALMEIDA",
+                "DANIEL WOLFENZON"
+            ],
+            "abstract": "We provide a new rationale for pyramidal ownership in family business groups. A pyramid allows a family to access all retained earnings of a firm it already controls to set up a new firm, and to share the new firm's nondiverted payoff with shareholders of the original firm. Our model is consistent with recent evidence of a small separation between ownership and control in some pyramids, and can differentiate between pyramids and dual\u2010class shares, even when either method can achieve the same deviation from one share\u2013one vote. Other predictions of the model are consistent with both systematic and anecdotal evidence.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01001.x"
+        },
+        {
+            "no": "5",
+            "title": "Optimal Security Design and Dynamic Capital Structure in a Continuous\u2010Time Agency Model",
+            "date": "11 January 2007",
+            "author": [
+                "PETER M. DeMARZO",
+                "YULIY SANNIKOV"
+            ],
+            "abstract": "We derive the optimal dynamic contract in a continuous\u2010time principal\u2010agent setting, and implement it with a capital structure (credit line, long\u2010term debt, and equity) over which the agent controls the payout policy. While the project's volatility and liquidation cost have little impact on the firm's total debt capacity, they increase the use of credit versus debt. Leverage is nonstationary, and declines with past profitability. The firm may hold a compensating cash balance while borrowing (at a higher rate) through the credit line. Surprisingly, the usual conflicts between debt and equity (asset substitution, strategic default) need not arise.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01002.x"
+        },
+        {
+            "no": "6",
+            "title": "Does the Contribution of Corporate Cash Holdings and Dividends to Firm Value Depend on Governance? A Cross\u2010country Analysis",
+            "date": "11 January 2007",
+            "author": [
+                "LEE PINKOWITZ",
+                "REN\u00c9 STULZ",
+                "ROHAN WILLIAMSON"
+            ],
+            "abstract": "Agency theories predict that the value of corporate cash holdings is less in countries with poor investor protection because of the greater ability of controlling shareholders to extract private benefits from cash holdings in such countries. Using various specifications of the valuation regressions of Fama and French (1998), we find that the relation between cash holdings and firm value is much weaker in countries with poor investor protection than in other countries. In further support of the importance of agency theories, the relation between dividends and firm value is weaker in countries with stronger investor protection.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01003.x"
+        },
+        {
+            "no": "7",
+            "title": "Estimating the Gains from Trade in Limit\u2010Order Markets",
+            "date": "11 January 2007",
+            "author": [
+                "BURTON HOLLIFIELD",
+                "ROBERT A. MILLER",
+                "PATRIK SAND\u00c5S",
+                "JOSHUA SLIVE"
+            ],
+            "abstract": "We present a method to estimate the gains from trade in limit\u2010order markets and provide empirical evidence that the limit\u2010order market is a good market design. Using observations on order submissions and execution and cancellation histories, we estimate both the distribution of traders' unobserved valuations for the stock and latent trader arrival rates. We use the resulting estimates to compute the current gains from trade, the gains from trade in a perfectly liquid market, and the gains from trade with a monopoly liquidity supplier. The current gains are 90% of the maximum gains and 150% of the monopolist gains.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01004.x"
+        },
+        {
+            "no": "8",
+            "title": "Trading Volume: Implications of an Intertemporal Capital Asset Pricing Model",
+            "date": "11 January 2007",
+            "author": [
+                "ANDREW W. LO",
+                "JIANG WANG"
+            ],
+            "abstract": "We derive an intertemporal asset pricing model and explore its implications for trading volume and asset returns. We show that investors trade in only two portfolios: the market portfolio, and a hedging portfolio that is used to hedge the risk of changing market conditions. We empirically identify the hedging portfolio using weekly volume and returns data for U.S. stocks, and then test two of its properties implied by the theory: Its return should be an additional risk factor in explaining the cross section of asset returns, and should also be the best predictor of future market returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01005.x"
+        },
+        {
+            "no": "9",
+            "title": "Model Uncertainty and Option Markets with Heterogeneous Beliefs",
+            "date": "11 January 2007",
+            "author": [
+                "ANDREA BURASCHI",
+                "ALEXEI JILTSOV"
+            ],
+            "abstract": "This paper provides option pricing and volume implications for an economy with heterogeneous agents who face model uncertainty and have different beliefs on expected returns. Market incompleteness makes options nonredundant, while heterogeneity creates a link between differences in beliefs and option volumes. We solve for both option prices and volumes and test the joint empirical implications using S&P500 index option data. Specifically, we use survey data to build an Index of Dispersion in Beliefs and find that a model that takes information heterogeneity into account can explain the dynamics of option volume and the smile better than can reduced\u2010form models with stochastic volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01006.x"
+        },
+        {
+            "no": "10",
+            "title": "Information, Trading, and Volatility: Evidence from Weather\u2010Sensitive Markets",
+            "date": "11 January 2007",
+            "author": [
+                "JEFF FLEMING",
+                "CHRIS KIRBY",
+                "BARBARA OSTDIEK"
+            ],
+            "abstract": "We find that trading\u2010 versus nontrading\u2010period variance ratios in weather\u2010sensitive markets are lower than those in the equity market and higher than those in the currency market. The variance ratios are also substantially lower during periods of the year when prices are most sensitive to the weather. Moreover, the comovement of returns and volatilities for related commodities is stronger during the weather\u2010sensitive season, largely due to stronger comovement during nontrading periods. These results are consistent with a strong link between prices and public information flow and cannot be explained by pricing errors or changes in trading activity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01007.x"
+        },
+        {
+            "no": "11",
+            "title": "Insider Trading, News Releases, and Ownership Concentration",
+            "date": "11 January 2007",
+            "author": [
+                "JANA P. FIDRMUC",
+                "MARC GOERGEN",
+                "LUC RENNEBOOG"
+            ],
+            "abstract": "This paper investigates the market's reaction to U.K. insider transactions and analyzes whether the reaction depends on the firm's ownership. We present three major findings. First, differences in regulation between the U.K. and United States, in particular the speedier reporting of trades in the U.K., may explain the observed larger abnormal returns in the U.K. Second, ownership by directors and outside shareholders has an impact on the abnormal returns. Third, it is important to adjust for news released before directors' trades. In particular, trades preceded by news on mergers and acquisitions and CEO replacements contain significantly less information.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01008.x"
+        },
+        {
+            "no": "12",
+            "title": "When Financial Institutions Are Large Shareholders: The Role of Macro Corporate Governance Environments",
+            "date": "11 January 2007",
+            "author": [
+                "DONGHUI LI",
+                "FARIBORZ MOSHIRIAN",
+                "PETER KIEN PHAM",
+                "JASON ZEIN"
+            ],
+            "abstract": "While financial institutions' aggregate investments have grown substantially worldwide, the size of their individual shareholdings, and ultimately their incentive to monitor, may be limited by the free\u2010rider problem, regulations, and a preference for diversification and liquidity. We compare institutions' shareholding patterns across countries and find vast differences in the extent to which they are large shareholders. These variations are largely determined by macro corporate governance factors such as shareholder protection, law enforcement, and corporate disclosure requirements. This suggests that strong governance environments act to strengthen monitoring ability such that more institutions are encouraged to hold concentrated equity positions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01009.x"
+        },
+        {
+            "no": "13",
+            "title": "Analyst Coverage and Financing Decisions",
+            "date": "11 January 2007",
+            "author": [
+                "XIN CHANG",
+                "SUDIPTO DASGUPTA",
+                "GILLES HILARY"
+            ],
+            "abstract": "We provide evidence that analyst coverage affects security issuance. First, firms covered by fewer analysts are less likely to issue equity as opposed to debt. They issue equity less frequently, but when they do so, it is in larger amounts. Moreover, these firms depend more on favorable market conditions for their equity issuance decisions. Finally, debt ratios of less covered firms are more affected by Baker and Wurgler's (2002)\u201cexternal finance\u2010weighted\u201d average market\u2010to\u2010book ratio. These results are consistent with market timing behavior associated with information asymmetry, as well as behavior implied by dynamic adverse selection models of equity issuance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01010.x"
+        },
+        {
+            "no": "14",
+            "title": "Tax\u2010Loss Selling and the January Effect: Evidence from Municipal Bond Closed\u2010End Funds",
+            "date": "11 January 2007",
+            "author": [
+                "LAURA T. STARKS",
+                "LI YONG",
+                "LU ZHENG"
+            ],
+            "abstract": "This paper provides direct evidence supporting the tax\u2010loss selling hypothesis as an explanation of the January effect. Examining turn\u2010of\u2010the\u2010year return and volume patterns for municipal bond closed\u2010end funds, which are held mostly by tax\u2010sensitive individual investors, we document a January effect for these funds, but not for their underlying assets. We provide evidence that this effect can be largely explained by tax\u2010loss selling activities at the previous year\u2010end. Moreover, we find that funds associated with brokerage firms display more tax\u2010loss selling behavior, suggesting that tax counseling plays a role.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01011.x"
+        },
+        {
+            "no": "15",
+            "title": "Derivative Pricing 60 Years before Black\u2013Scholes: Evidence from the Johannesburg Stock Exchange",
+            "date": "11 January 2007",
+            "author": [
+                "LYNDON MOORE",
+                "STEVE JUH"
+            ],
+            "abstract": "We obtain daily data for warrants traded on the Johannesburg Stock Exchange between 1909 and 1922, and for a broker's call option quotes on stocks from 1908 to 1911. We use this new data set to test how close derivative prices are to Black\u2013Scholes (1973) prices and to compute profits for investors using a simple trading rule for call options. We examine whether investors exercised warrants optimally and how they reacted to extensions of the warrants' durations. We show that long before the development of the formal theory, investors had an intuitive grasp of the determinants of derivative pricing.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01012.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "11 January 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01016.x"
+        },
+        {
+            "no": "17",
+            "title": "INDEX TO VOLUME LXI",
+            "date": "11 January 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01017.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "11 January 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.01014.x"
+        }
+    ]
+}

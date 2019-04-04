@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. An intertemporal CAPM with stochastic volatility
 ### Date
 - Feb 2018
-### Authors
+### Author
 - John Y. Campbell
 - Stefano Giglio
 - Christopher Polk
@@ -27,7 +27,7 @@ This paper studies the pricing of volatility risk using the first-order conditio
 ## 3. Choosing factors
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -38,7 +38,7 @@ Our goal is to develop insights about the maximum squared Sharpe ratio for model
 ## 4. High frequency trading and extreme price movements
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Jonathan Brogaard
 - Allen Carrion
 - Thibaut Moyaert
@@ -53,7 +53,7 @@ Are endogenous liquidity providers (ELPs) reliable in times of market stress? We
 ## 5. Protection of trade secrets and capital structure decisions
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Sandy Klasa
 - Hernán Ortiz-Molina
 - Matthew Serfling
@@ -66,7 +66,7 @@ Firms strategically choose more conservative capital structures when they face g
 ## 6. Cash windfalls and acquisitions
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Bastian von Beschwitz
 ### Abstract
 This article studies the effect of cash windfalls on the acquisition policy of companies. As identification, I use a German tax reform that permitted firms to sell their equity stakes tax free. Companies that could realize a cash windfall by selling equity stakes see an increase in the probability of acquiring another company by 14%. I find that these additional acquisitions destroy firm value. Following the tax reform, affected firms experience a decrease of 1.2 percentage points in acquisition announcement returns. These effects are stronger for larger cash windfalls. My findings are consistent with the free cash flow theory.
@@ -76,7 +76,7 @@ This article studies the effect of cash windfalls on the acquisition policy of c
 ## 7. Bid anticipation, information revelation, and merger gains
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Wenyu Wang
 ### Abstract
 Because firms’ takeover motives are unobservable to investors, mergers are only partially anticipated and often appear as mixed blessings for acquirers. I construct and estimate a model to study the causes and consequences of bid anticipation and information revelation in mergers. Controlling for the market’s reassessment of the acquirer’s stand-alone value, I estimate that acquirers gain 4% from a typical merger. The total value of an active merger market averages 13% for acquirers, part of which is capitalized in their pre-merger market values. My model also explains the correlation between announcement returns and firm characteristics, as well as the low predictability of mergers.
@@ -86,7 +86,7 @@ Because firms’ takeover motives are unobservable to investors, mergers are onl
 ## 8. Interest rate volatility, the yield curve, and the macroeconomy
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Scott Joslin
 - Yaniv Konchitchki
 ### Abstract
@@ -97,7 +97,7 @@ This paper provides theory and evidence that a low-dimensional term structure mo
 ## 9. The effects of q and cash flow on investment in the presence of measurement error
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Andrew B. Abel
 ### Abstract
 I analyze investment, q, and cash flow in a tractable stochastic model in which marginal q and average q are identically equal. I introduce classical measurement error and derive closed-form expressions for the coefficients in regressions of investment on q and cash flow. The cash-flow coefficient is positive and larger for faster growing firms, yet there are no financial frictions in the model. I develop the concepts of bivariate attenuation and weight shifting to interpret the estimated coefficients on q and cash flow in the presence of measurement error.
@@ -107,7 +107,7 @@ I analyze investment, q, and cash flow in a tractable stochastic model in which 
 ## 10. CEO attributes, compensation, and firm value: Evidence from a structural estimation
 ### Date
 - Feb 2018
-### Authors
+### Author
 - T. Beau Page
 ### Abstract
 I present and estimate a dynamic model of chief executive officer (CEO) compensation and effort provision. I find that variation in CEO attributes explains the majority of variation in compensation (equity and total) but little of the variation in firm value. The primary drivers of cross-sectional compensation are risk aversion and influence on the board. Additionally, I estimate the magnitude of CEO agency issues. Removing CEO influence increases shareholder value in the typical firm by 1.74%, making CEOs risk neutral increases shareholder value by 16.12%, and removing all agency frictions increases shareholder value by 28.99%.

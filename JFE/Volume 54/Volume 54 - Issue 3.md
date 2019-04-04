@@ -5,7 +5,7 @@
 ## 1. The resolution of bankruptcy by auction: allocating the residual right of design
 ### Date
 - Dec 1999
-### Authors
+### Author
 - Sugato Bhattacharyya
 - Rajdeep Singh
 ### Abstract
@@ -16,7 +16,7 @@ In this paper, we examine the value of the right to choose the method of sale of
 ## 2. Institutions, financial markets, and firm debt maturity
 ### Date
 - Dec 1999
-### Authors
+### Author
 - Asli Demirgüç-Kunt
 - Vojislav Maksimovic
 ### Abstract
@@ -27,7 +27,7 @@ We examine firm debt maturity in 30 countries during the period 1980–1991. In 
 ## 3. Survivorship bias and attrition effects in measures of performance persistence
 ### Date
 - Dec 1999
-### Authors
+### Author
 - Jennifer N. Carpenter
 - Anthony W. Lynch
 ### Abstract
@@ -38,7 +38,7 @@ We simulate standard tests of performance persistence using alternative return-g
 ## 4. Predictive regressions
 ### Date
 - Dec 1999
-### Authors
+### Author
 - Robert F. Stambaugh
 ### Abstract
 When a rate of return is regressed on a lagged stochastic regressor, such as a dividend yield, the regression disturbance is correlated with the regressor's innovation. The OLS estimator's finite-sample properties, derived here, can depart substantially from the standard regression setting. Bayesian posterior distributions for the regression parameters are obtained under specifications that differ with respect to (i) prior beliefs about the autocorrelation of the regressor and (ii) whether the initial observation of the regressor is specified as fixed or stochastic. The posteriors differ across such specifications, and asset allocations in the presence of estimation risk exhibit sensitivity to those differences.
@@ -48,7 +48,7 @@ When a rate of return is regressed on a lagged stochastic regressor, such as a d
 ## 5. The impact of cash flow volatility on discretionary investment and the costs of debt and equity financing
 ### Date
 - Dec 1999
-### Authors
+### Author
 - Bernadette A. Minton
 - Catherine Schrand
 ### Abstract
@@ -59,7 +59,7 @@ We show that higher cash flow volatility is associated with lower average levels
 ## 6. Index
 ### Date
 - Dec 1999
-### Authors
+### Author
 ### Abstract
 
 ### Link

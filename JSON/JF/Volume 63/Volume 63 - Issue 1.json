@@ -1,0 +1,190 @@
+{
+    "journal": "JF",
+    "volume": "63",
+    "issue": "1",
+    "date": "February 2008",
+    "page": "Pages: i-viii, 1-490, ix-xiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "10 January 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01349.x"
+        },
+        {
+            "no": "2",
+            "title": "Morgan Stanley\u2014American Finance Association Award for Excellence in Finance 2008",
+            "date": "10 January 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01348.x"
+        },
+        {
+            "no": "3",
+            "title": "Agency Conflicts, Investment, and Asset Pricing",
+            "date": "10 January 2008",
+            "author": [
+                "RUI ALBUQUERUE",
+                "NENG WANG"
+            ],
+            "abstract": "The separation of ownership and control allows controlling shareholders to pursue private benefits. We develop an analytically tractable dynamic stochastic general equilibrium model to study asset pricing and welfare implications of imperfect investor protection. Consistent with empirical evidence, the model predicts that countries with weaker investor protection have more incentives to overinvest, lower Tobin's q, higher return volatility, larger risk premia, and higher interest rate. Calibrating the model to the Korean economy reveals that perfecting investor protection increases the stock market's value by 22%, a gain for which outside shareholders are willing to pay 11% of their capital stock.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01309.x"
+        },
+        {
+            "no": "4",
+            "title": "Heterogeneous Beliefs, Speculation, and the Equity Premium",
+            "date": "10 January 2008",
+            "author": [
+                "ALEXANDER DAVID"
+            ],
+            "abstract": "Agents with heterogeneous beliefs about fundamental growth do not share risks perfectly but instead speculate with each other on the relative accuracy of their models' predictions. They face the risk that market prices move more in line with the trading models of competing agents than with their own. Less risk\u2010averse agents speculate more aggressively and demand higher risk premiums. My calibrated model generates countercyclical consumption volatility, earnings forecast dispersion, and cross\u2010sectional consumption dispersion. With a risk aversion coefficient less than one, agents' speculation causes half the observed equity premium and lowers the riskless rate by about 1%.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01310.x"
+        },
+        {
+            "no": "5",
+            "title": "Which Money Is Smart? Mutual Fund Buys and Sells of Individual and Institutional Investors",
+            "date": "10 January 2008",
+            "author": [
+                "ANEEL KESWANI",
+                "DAVID STOLIN"
+            ],
+            "abstract": "Gruber (1996) and Zheng (1999) report that investors channel money toward mutual funds that subsequently perform well. Sapp and Tiwari (2004) find that this \u201csmart money\u201d effect no longer holds after controlling for stock return momentum. While prior work uses quarterly U.S. data, we employ a British data set of monthly fund inflows and outflows differentiated between individual and institutional investors. We document a robust smart money effect in the United Kingdom. The effect is caused by buying (but not selling) decisions of both individuals and institutions. Using monthly data available post\u20101991 we show that money is comparably smart in the United States.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01311.x"
+        },
+        {
+            "no": "6",
+            "title": "Competition for Order Flow and Smart Order Routing Systems",
+            "date": "10 January 2008",
+            "author": [
+                "THIERRY FOUCAULT",
+                "ALBERT J. MENKVELD"
+            ],
+            "abstract": "We study the rivalry between Euronext and the London Stock Exchange (LSE) in the Dutch stock market to test hypotheses about the effect of market fragmentation. As predicted by our theory, the consolidated limit order book is deeper after entry of the LSE. Moreover, cross\u2010sectionally, we find that a higher trade\u2010through rate in the entrant market coincides with less liquidity supply in this market. These findings imply that (i) fragmentation of order flow can enhance liquidity supply and (ii) protecting limit orders against trade\u2010throughs is important.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01312.x"
+        },
+        {
+            "no": "7",
+            "title": "Information Asymmetry and Asset Prices: Evidence from the China Foreign Share Discount",
+            "date": "10 January 2008",
+            "author": [
+                "KALOK CHAN",
+                "ALBERT J. MENKVELD",
+                "ZHISHU YANG"
+            ],
+            "abstract": "We examine the effect of information asymmetry on equity prices in the local A\u2010 and foreign B\u2010share market in China. We construct measures of information asymmetry based on market microstructure models, and find that they explain a significant portion of cross\u2010sectional variation in B\u2010share discounts, even after controlling for other factors. On a univariate basis, the price impact measure and the adverse selection component of the bid\u2010ask spread in the A\u2010 and B\u2010share markets explains 44% and 46% of the variation in B\u2010share discounts. On a multivariate basis, both measures are far more statistically significant than any of the control variables.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01313.x"
+        },
+        {
+            "no": "8",
+            "title": "Ambiguity, Information Quality, and Asset Pricing",
+            "date": "10 January 2008",
+            "author": [
+                "LARRY G. EPSTEIN",
+                "MARTIN SCHNEIDER"
+            ],
+            "abstract": "When ambiguity\u2010averse investors process news of uncertain quality, they act as if they take a worst\u2010case assessment of quality. As a result, they react more strongly to bad news than to good news. They also dislike assets for which information quality is poor, especially when the underlying fundamentals are volatile. These effects induce ambiguity premia that depend on idiosyncratic risk in fundamentals as well as skewness in returns. Moreover, shocks to information quality can have persistent negative effects on prices even if fundamentals do not change.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01314.x"
+        },
+        {
+            "no": "9",
+            "title": "Price Volatility and Investor Behavior in an Overlapping Generations Model with Information Asymmetry",
+            "date": "10 January 2008",
+            "author": [
+                "MASAHIRO WATANABE"
+            ],
+            "abstract": "This paper studies an overlapping generations model with multiple securities and heterogeneously informed agents. The model produces multiple equilibria, including highly volatile equilibria that can exhibit strong or weak correlations between asset returns\u2014even when asset supplies and future dividends are uncorrelated across assets. Less informed agents rationally behave like trend\u2010followers, while better informed agents follow contrarian strategies. Trading volume has a hump\u2010shaped relation with information precision and is positively correlated with absolute price changes. Finally, accurate information increases the volatility and correlation of stock returns in the highly volatile, strongly correlated equilibrium.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01315.x"
+        },
+        {
+            "no": "10",
+            "title": "Individual Investor Trading and Stock Returns",
+            "date": "10 January 2008",
+            "author": [
+                "RON KANIEL",
+                "GIDEON SAAR",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "This paper investigates the dynamic relation between net individual investor trading and short\u2010horizon returns for a large cross\u2010section of NYSE stocks. The evidence indicates that individuals tend to buy stocks following declines in the previous month and sell following price increases. We document positive excess returns in the month following intense buying by individuals and negative excess returns after individuals sell, which we show is distinct from the previously shown past return or volume effects. The patterns we document are consistent with the notion that risk\u2010averse individuals provide liquidity to meet institutional demand for immediacy.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01316.x"
+        },
+        {
+            "no": "11",
+            "title": "The Demise of Investment Banking Partnerships: Theory and Evidence",
+            "date": "10 January 2008",
+            "author": [
+                "ALAN D. MORRISON",
+                "WILLIAM J. WILHELM JR"
+            ],
+            "abstract": "In 1970 the New York Stock Exchange relaxed rules that prohibited the public incorporation of member firms. Investment banking concerns went public in waves, with Goldman Sachs the last of the bulge bracket banks to float. We explain the pattern of investment bank flotations. We argue that partnerships foster the formation of human capital and we use technological advances that undermine the role of human capital to explain the partnership's going\u2010public decision. We support our theory using a new data set of investment bank partnership statistics.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01317.x"
+        },
+        {
+            "no": "12",
+            "title": "Downward\u2010Sloping Demand Curves, the Supply of Shares, and the Collapse of Internet Stock Prices",
+            "date": "10 January 2008",
+            "author": [
+                "PAUL SCHULTZ"
+            ],
+            "abstract": "Over March and April 2000, Internet stocks lost 56%, or $700 billion. This sudden collapse has been attributed to an increasing supply of shares from lockup expirations and equity offerings. I show that Internet stocks collapsed in this period regardless of whether their lockups expired. Furthermore, daily Internet stock portfolio returns were almost unaffected by the number or dollar amount of lockup expirations that day, or by the amount of stock offered in IPOs or SEOs. Most of the Internet stock decline is explained by poor marketwide returns, particularly for growth stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01318.x"
+        },
+        {
+            "no": "13",
+            "title": "Information, Trading, and Product Market Interactions: Cross\u2010sectional Implications of Informed Trading",
+            "date": "10 January 2008",
+            "author": [
+                "HEATHER E. TOOKES"
+            ],
+            "abstract": "I present a simple model of informed trading in which asset values are derived from imperfectly competitive product markets and private information events occur at individual firms. The model predicts that informed traders may have incentives to make information\u2010based trades in the stocks of competitors, especially when events occur at firms with large market shares. In the context of 759 earnings announcements, I use intraday transactions data to test the hypothesis that net order flow and returns in the stocks of nonannouncing competitors have information content for announcing firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01319.x"
+        },
+        {
+            "no": "14",
+            "title": "The Long\u2010Lasting Momentum in Weekly Returns",
+            "date": "10 January 2008",
+            "author": [
+                "ROBERTO C. GUTIERREZ JR",
+                "ERIC K. KELLEY"
+            ],
+            "abstract": "Reversal is the current stylized fact of weekly returns. However, we find that an opposing and long\u2010lasting continuation in returns follows the well\u2010documented brief reversal. These subsequent momentum profits are strong enough to offset the initial reversal and to produce a significant momentum effect over the full year following portfolio formation. Thus, ex post, extreme weekly returns are not too extreme. Our findings extend to weekly price movements with and without public news. In addition, there is no relation between news uncertainty and the momentum in 1\u2010week returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01320.x"
+        },
+        {
+            "no": "15",
+            "title": "IPO Pricing and Share Allocation: The Importance of Being Ignorant",
+            "date": "10 January 2008",
+            "author": [
+                "C\u00c9LINE GONDAT\u2010LARRALDE",
+                "KEVIN R. JAMES"
+            ],
+            "abstract": "Since an underwriter sets an IPO's offer price without knowing its market value, investors can acquire information about its value and avoid overpriced deals (\u201clemon\u2010dodge\u201d). To mitigate this well\u2010known risk, the bank enters into a repeat game with a coalition of investors who do not lemon\u2010dodge in exchange for on\u2010average underpriced shares. We (i) derive and test a quantitative IPO pricing rule (showing that tech IPOs were not excessively underpriced during the boom of the 1990s); and (ii) analyzing a unique multibank data set, find strong support for the conjecture that a bank preferentially allocates shares to its coalition.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01321.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "10 January 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01346.x"
+        },
+        {
+            "no": "17",
+            "title": "INDEX TO VOLUME LXII",
+            "date": "10 January 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01343.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "10 January 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01350.x"
+        }
+    ]
+}

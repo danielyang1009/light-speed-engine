@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Changes in corporate effective tax rates over the past 25 years
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Scott D. Dyreng
 - Michelle Hanlon
 - Edward L. Maydew
@@ -27,7 +27,7 @@ We investigate systematic changes in corporate effective tax rates over the past
 ## 3. Do takeover laws matter? Evidence from five decades of hostile takeovers
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Matthew D. Cain
 - Stephen B. McKeon
 - Steven Davidoff Solomon
@@ -39,7 +39,7 @@ This study evaluates the relation between hostile takeovers and 17 takeover laws
 ## 4. Stock liquidity and default risk
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Jonathan Brogaard
 - Dan Li
 - Ying Xia
@@ -51,7 +51,7 @@ This paper examines the impact of stock liquidity on firm bankruptcy risk. Using
 ## 5. Shades of darkness: A pecking order of trading venues
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Albert J. Menkveld
 - Bart Zhou Yueshen
 - Haoxiang Zhu
@@ -63,7 +63,7 @@ We characterize the dynamic fragmentation of U.S. equity markets using a unique 
 ## 6. Skill and luck in private equity performance
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Arthur Korteweg
 - Morten Sorensen
 ### Abstract
@@ -74,7 +74,7 @@ Private equity (PE) performance is persistent, with PE firms consistently produc
 ## 7. Political uncertainty and investment: Causal evidence from U.S. gubernatorial elections
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Candace E. Jens
 ### Abstract
 I examine the link between political uncertainty and firm investment using U.S. gubernatorial elections as a source of plausibly exogenous variation in uncertainty. Investment declines 5% before all elections and up to 15% for subsamples of firms particularly susceptible to political uncertainty. I use term limits as an instrumental variable (IV) for election closeness. Because close elections are related to economic downturns, I find that the effect of close elections on investment is understated by more than half by ordinary least squares (OLS). Post-election rebounds in investment depend on whether an incumbent is re-elected. Finally, I provide evidence that firms delay equity and debt issuances tied to investments before elections.
@@ -84,7 +84,7 @@ I examine the link between political uncertainty and firm investment using U.S. 
 ## 8. The effects of removing barriers to equity issuance
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Matthew T. Gustafson
 - Peter Iliev
 ### Abstract
@@ -95,7 +95,7 @@ We study the consequences of a US deregulation allowing small firms to accelerat
 ## 9. Debt maturity and the liquidity of secondary debt markets
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Max Bruche
 - Anatoli Segura
 ### Abstract
@@ -106,7 +106,7 @@ We model the debt maturity choice of firms in the presence of fixed issuance cos
 ## 10. Investment banking relationships and analyst affiliation bias: The impact of the global settlement on sanctioned and non-sanctioned banks
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Shane A. Corwin
 - Stephannie A. Larocque
 - Mike A. Stegemoller
@@ -118,7 +118,7 @@ We examine the impact of the Global Settlement on affiliation bias in analyst re
 ## 11. Large shareholders and credit ratings
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Simi Kedia
 - Shivaram Rajgopal
 - Xing (Alex) Zhou

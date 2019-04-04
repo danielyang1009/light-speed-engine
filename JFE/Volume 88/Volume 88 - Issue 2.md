@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The consequences to managers for financial misrepresentation
 ### Date
 - Jun 2007
-### Authors
+### Author
 - Jonathan M. Karpoff
 - D. Scott Lee
 - Gerald S. Martin
@@ -26,7 +26,7 @@ We track the fortunes of all 2,206 individuals identified as responsible parties
 ## 3. Does international cross-listing improve the information environment
 ### Date
 - Jun 2007
-### Authors
+### Author
 - Nuno Fernandes
 - Miguel A. Ferreira
 ### Abstract
@@ -37,7 +37,7 @@ We investigate whether cross-listing in the U.S. affects the information environ
 ## 4. Analyst coverage and earnings management
 ### Date
 - May 2007
-### Authors
+### Author
 - Fang (Frank) Yu
 ### Abstract
 What is the role of information intermediaries in corporate governance? This paper examines equity analysts’ influence on managers’ earnings management decisions. Do analysts serve as external monitors to managers, or do they put excessive pressure on managers? Using multiple measures of earnings management, I find that firms followed by more analysts manage their earnings less. To address the potential endogeneity problem of analyst coverage, I use two instrumental variables based on change in broker size and on firm's inclusion in the Standard & Poor's 500 index, and I find that the results are robust. Finally, given the number of covering analysts, analysts from top brokers and more experienced analysts have stronger effects against earnings management.
@@ -47,7 +47,7 @@ What is the role of information intermediaries in corporate governance? This pap
 ## 5. Latent liquidity: A new measure of liquidity, with an application to corporate bonds
 ### Date
 - Feb 2007
-### Authors
+### Author
 - Sriketan Mahanti
 - Amrut Nashikkar
 - Marti Subrahmanyam
@@ -61,7 +61,7 @@ We present a new measure of liquidity known as “latent liquidity” and apply 
 ## 6. Dumb money: Mutual fund flows and the cross-section of stock returns
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Andrea Frazzini
 - Owen A. Lamont
 ### Abstract
@@ -72,7 +72,7 @@ We use mutual fund flows as a measure of individual investor sentiment for diffe
 ## 7. Financial expertise of directors
 ### Date
 - May 2007
-### Authors
+### Author
 - A. Burak Güner
 - Ulrike Malmendier
 - Geoffrey Tate
@@ -84,7 +84,7 @@ We analyze how directors with financial expertise affect corporate decisions. Us
 ## 8. Ex-dividend day trading: Who, how, and why?
 ### Date
 - Dec 2007
-### Authors
+### Author
 - Elias Rantapuska
 ### Abstract
 This study examines the ex-dividend day trading behavior of all investors in the Finnish stock market. Consistent with dynamic dividend clientele theories, investors with a preference for dividend income buy shares cum-dividend and sell ex-dividend; the reverse is true for investors with the opposite preference. Investors also engage in overnight arbitrage, earning on average a 2% overnight return on their invested capital. Trades at the investor-level reveal that idiosyncratic risk is an important determinant in the choice of stock for short-term ex-day trading. Furthermore, transaction costs and dividend yield jointly determine whether the volume of short-term trading activity is nonzero.
@@ -94,7 +94,7 @@ This study examines the ex-dividend day trading behavior of all investors in the
 ## 9. Decomposing swap spreads
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Peter Feldhütter
 - David Lando
 ### Abstract
@@ -105,7 +105,7 @@ We analyze a six-factor model for Treasury bonds, corporate bonds, and swap rate
 ## 10. Trading imbalances, predictable reversals, and cross-stock price pressure
 ### Date
 - Apr 2007
-### Authors
+### Author
 - Sandro C. Andrade
 - Charles Chang
 - Mark S. Seasholes

@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1993
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Private benefits from block ownership and discounts on closed-end funds
 ### Date
 - Jun 1993
-### Authors
+### Author
 - Michael J. Barclay
 - Clifford G. Holderness
 - Jeffrey Pontiff
@@ -33,7 +33,7 @@ The greater the managerial stock ownership in closed-end funds, the larger are t
 ## 3. Restructuring through spinoffs
 ### Date
 - Jun 1993
-### Authors
+### Author
 - Patrick J. Cusatis
 - James A. Miles
 - J.Randall Woolridge
@@ -45,7 +45,7 @@ We investigate the value created through spinoffs over the 1965–1988 period by
 ## 4. An empirical study of the Mexican Treasury bill auction
 ### Date
 - Jun 1993
-### Authors
+### Author
 - Steven R. Umlauf
 ### Abstract
 This paper analyzes bidding behavior in Mexican Treasury bill auctions for the period 1986–1991. The Mexican auction rules resemble those used in U.S. Treasury bill auctions closely. Results suggest the presence of collusion among large bidders throughout a large portion of the sampling period and the presence of information asymmetries between small and large bidders. Results also suggest that bidders account for the winner's curse and that participants bid more cautiously when uncertainty is high. Bidders' profits fell dramatically in 1990 when the Treasury substituted uniform for discriminatory pricing to combat collusion and to increase auction revenues.
@@ -55,7 +55,7 @@ This paper analyzes bidding behavior in Mexican Treasury bill auctions for the p
 ## 5. Seniority and maturity of debt contracts
 ### Date
 - Jun 1993
-### Authors
+### Author
 - Douglas W. Diamond
 ### Abstract
 This paper provides a model of how borrowers with private information about their credit prospects choose seniority and maturity of debt. Increased short-term debt leads lenders to liquidate too often. It also increases the sensitivity of financing costs to new information, although better-than-average borrowers desire information sensitivity. The model implies that short-term debt will be senior to long-term debt, and that long-term debt will allow the issue of additional future senior debt. The model also has implications on the structure of leveraged buyouts and on how various types of lenders respond to potential defaults.
@@ -65,7 +65,7 @@ This paper provides a model of how borrowers with private information about thei
 ## 6. The journal of financial economics
 ### Date
 - Jun 1993
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 Data for the 516 papers published in volumes 1–30 of the Journal of Financial Economics in the period 1974–91 are analyzed. 477 authors from 136 institutions contributed papers, and these papers received 16,231 citations according to the Social Science Citation Index. Lists of authors and institutions who have contributed the most papers to the JFE and a list of the mostly highly-cited JFE papers show why the Journal has been successful in influencing the finance and economics literature during its first 18 years.
@@ -75,7 +75,7 @@ Data for the 516 papers published in volumes 1–30 of the Journal of Financial 
 ## 7. Index
 ### Date
 - Jun 1993
-### Authors
+### Author
 ### Abstract
 
 ### Link

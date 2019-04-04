@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Carry
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Ralph S.J. Koijen
 - Tobias J. Moskowitz
 - Lasse Heje Pedersen
@@ -27,7 +27,7 @@ We apply the concept of carry, which has been studied almost exclusively in curr
 ## 3. Threat of entry and debt maturity: Evidence from airlines
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Gianpaolo Parise
 ### Abstract
 I explore the effect of the threat posed by low-cost competitors on debt structure in the airline industry. I use the route network expansion of low-cost airlines to identify routes where the probability of future entry increases dramatically. I find that when a large portion of their market is threatened, incumbents significantly increase debt maturity before entry occurs. Overall, the main findings suggest that airlines respond to entry threats trading off the benefits of short-term financing for lower rollover risk. The results are consistent with models in which firms set their optimal debt structure in the presence of costly rollover failure.
@@ -37,7 +37,7 @@ I explore the effect of the threat posed by low-cost competitors on debt structu
 ## 4. Four centuries of return predictability
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Benjamin Golez
 - Peter Koudijs
 ### Abstract
@@ -48,7 +48,7 @@ We combine annual stock market data for the most important equity markets of the
 ## 5. Liquidity risk and maturity management over the credit cycle
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Atif Mian
 - João A.C. Santos
 ### Abstract
@@ -59,7 +59,7 @@ We show that firm demand-side factors are strong drivers of procyclical refinanc
 ## 6. Taxation and executive compensation: Evidence from stock options
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Andrew Bird
 ### Abstract
 Understanding the effects of taxes on executive compensation provides insight into the process determining this compensation and is a key input to top income tax rate policy. A 2010 tax reform in Canada, which greatly increased the effective tax rate on stock option compensation for a subset of firms, provides a natural experiment with which to address this issue. Difference-in-differences estimates suggest that this tax increase resulted in an immediate reduction in both stock option grants and the fraction of total compensation made up of stock options with limited, if any, substitution towards other components of compensation.
@@ -69,7 +69,7 @@ Understanding the effects of taxes on executive compensation provides insight in
 ## 7. Employee representation and financial leverage
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Chen Lin
 - Thomas Schmid
 - Yuhai Xuan
@@ -81,7 +81,7 @@ We analyze how direct employee voice affects financial leverage. German law mand
 ## 8. Leverage constraints and asset prices: Insights from mutual fund risk taking
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Oliver Boguth
 - Mikhail Simutin
 ### Abstract
@@ -92,7 +92,7 @@ Prior theory suggests that time variation in the degree to which leverage constr
 ## 9. Belief-free price formation
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Johannes Hörner
 - Stefano Lovo
 - Tristan Tomala
@@ -104,7 +104,7 @@ We analyze security price formation in a dynamic setting in which long-lived dea
 ## 10. Determinants and consequences of information processing delay: Evidence from the Thomson Reuters Institutional Brokers’ Estimate System
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Ferhat Akbas
 - Stanimir Markov
 - Musa Subasi
@@ -117,7 +117,7 @@ We present new evidence that highlights the role of information intermediaries i
 ## 11. The consequences of managerial indiscretions: Sex, lies, and firm value
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Brandon N. Cline
 - Ralph A. Walkling
 - Adam S. Yore

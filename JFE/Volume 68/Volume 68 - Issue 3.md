@@ -5,7 +5,7 @@
 ## 1. Editorial Board>
 ### Date
 - Jun 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The value of corporate voting rights and control: A cross-country analysis
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Tatiana Nenova
 ### Abstract
 This paper measures the value of corporate voting rights, specifically of the control block of votes, in a sample of 661 dual-class firms in 18 countries, in 1997. A consistent measure across countries is proposed. The measure is adjusted for takeover probability, block-holding costs, and dividend and liquidity differences between the share classes. The value of controlblock votes varies widely across countries. It is close to half of firm market value in South Korea, and close to zero in Finland. The value of control-block votes is interpreted as a lower bound for actual private benefits of the controlling shareholder. The legal environment, law enforcement, investor protection, takeover regulations, and power-concentrating corporate charter provisions explain 68% of the cross-country variation in the value of control-block votes.
@@ -24,7 +24,7 @@ This paper measures the value of corporate voting rights, specifically of the co
 ## 3. Capital structure and product markets interactions: evidence from business cycles
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Murillo Campello
 ### Abstract
 This paper provides firm- and industry-level evidence of the effects of capital structure on product market outcomes for a large cross-section of industries over a number of years. The analysis uses shocks to aggregate demand as surrogates for exogenous changes in the product market environment. I find that debt financing has a negative impact on firm (relative-to-industry) sales growth in industries in which rivals are relatively unlevered during recessions, but not during booms. In contrast, no such effects are observed for firms competing in high-debt industries. At the industry level, markups are more countercyclical when industry debt is high. The cyclical dynamics I find for firm sales growth and for industry markups are consistent with Chevalier and Scharfstein's (American Economic Review (1996)) prediction that firms which rely heavily on external financing are more likely to cut their investment in market share building in response to negative shocks to demand and that the competitive outcomes resulting from such actions depend on the financial structures of their industry rivals.
@@ -34,7 +34,7 @@ This paper provides firm- and industry-level evidence of the effects of capital 
 ## 4. Payment for order flow
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Christine A. Parlour
 - Uday Rajan
 ### Abstract
@@ -45,7 +45,7 @@ We develop a dynamic model of price competition in broker and dealer markets. Wi
 ## 5. The marketing role of IPOs: evidence from internet stocks
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Elizabeth Demers
 - Katharina Lewellen
 ### Abstract
@@ -56,7 +56,7 @@ This paper explores the potential marketing benefits of going public and of IPO 
 ## 6. A closing call's impact on market quality at Euronext Paris
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Michael S. Pagano
 - Robert A. Schwartz
 ### Abstract
@@ -67,7 +67,7 @@ The Paris Bourse (currently Euronext Paris) refined its trading system to includ
 ## 7. Index
 ### Date
 - Jun 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -76,7 +76,7 @@ The Paris Bourse (currently Euronext Paris) refined its trading system to includ
 ## 8. Advert: Backfiles Economics and business
 ### Date
 - Jun 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -85,7 +85,7 @@ The Paris Bourse (currently Euronext Paris) refined its trading system to includ
 ## 9. Advert: Science Direct
 ### Date
 - Jun 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link

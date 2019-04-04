@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Richard c. Green
 ### Date
 - Nov 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Regression-based estimation of dynamic asset pricing models
 ### Date
 - Jul 2015
-### Authors
+### Author
 - Tobias Adrian
 - Richard K. Crump
 - Emanuel Moench
@@ -35,7 +35,7 @@ We propose regression-based estimators for beta representations of dynamic asset
 ## 4. Resource accumulation through economic ties: Evidence from venture capital
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Yael V. Hochberg
 - Laura A. Lindsey
 - Mark M. Westerfield
@@ -47,7 +47,7 @@ Ties between similar partners in economic and financial networks are often attri
 ## 5. Competition of the informed: Does the presence of short sellers affect insider selling?
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Massimo Massa
 - Wenlan Qian
 - Weibiao Xu
@@ -60,7 +60,7 @@ We study how the presence of short sellers affects the incentives of the insider
 ## 6. Volatility and mutual fund manager skill
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Bradford D. Jordan
 - Timothy B. Riley
 ### Abstract
@@ -71,7 +71,7 @@ In a standard four-factor framework, mutual fund return volatility is a reliable
 ## 7. Payout policy through the financial crisis: The growth of repurchases and the resilience of dividends
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Eric Floyd
 - Nan Li
 - Douglas J. Skinner
@@ -83,7 +83,7 @@ We compare the payout policies of US industrials and banks over the past 30 year
 ## 8. Discount window stigma during the 2007–2008 financial crisis
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Olivier Armantier
 - Eric Ghysels
 - Asani Sarkar
@@ -96,7 +96,7 @@ We provide empirical evidence for the existence, magnitude, and economic cost of
 ## 9. Liquidity hoarding and interbank market rates: The role of counterparty risk
 ### Date
 - Jul 2015
-### Authors
+### Author
 - Florian Heider
 - Marie Hoerova
 - Cornelia Holthausen
@@ -108,7 +108,7 @@ We develop a model of interbank lending and borrowing with counterparty risk. Th
 ## 10. Smart money, dumb money, and capital market anomalies
 ### Date
 - Jul 2015
-### Authors
+### Author
 - Ferhat Akbas
 - Will J. Armstrong
 - Sorin Sorescu
@@ -121,7 +121,7 @@ We investigate the dual notions that “dumb money” exacerbates well-known sto
 ## 11. Asymmetric decrease in liquidity trading before earnings announcements and the announcement return premium
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Shai Levi
 - Xiao-Jun Zhang
 ### Abstract
@@ -132,7 +132,7 @@ Investors are reluctant to trade in the high-information-asymmetry days before e
 ## 12. Stocking up: Executive optimism, option exercise, and share retention
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Rik Sen
 - Robert Tumarkin
 ### Abstract
@@ -143,7 +143,7 @@ We show that an executive is optimistic about her company׳s prospects if and on
 ## 13. The price of wine
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Elroy Dimson
 - Peter L. Rousseau
 - Christophe Spaenjers

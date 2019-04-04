@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Doing battle with short sellers: The conflicted role of blockholders in bear raids
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Naveen Khanna
 - Richmond D. Mathews
 ### Abstract
@@ -25,7 +25,7 @@ If short sellers can destroy firm value by manipulating prices down, an informed
 ## 3. The sources of value destruction in acquisitions by entrenched managers
 ### Date
 - May 2012
-### Authors
+### Author
 - Jarrad Harford
 - Mark Humphery-Jenner
 - Ronan Powell
@@ -37,7 +37,7 @@ Prior work has established that entrenched managers make value-decreasing acquis
 ## 4. The option to stock volume ratio and future returns
 ### Date
 - May 2012
-### Authors
+### Author
 - Travis L. Johnson
 - Eric C. So
 ### Abstract
@@ -48,7 +48,7 @@ We examine the information content of option and equity volumes when trade direc
 ## 5. Entrepreneurial risk, investment, and innovation
 ### Date
 - May 2012
-### Authors
+### Author
 - Andrea Caggese
 ### Abstract
 I estimate the effect of uncertainty on risky innovation using a panel of 11,417 manufacturing firms. I find that an increase in uncertainty has a large negative effect on the risky innovation of entrepreneurial firms, while it does not have any significant impact on other firms. This negative effect is stronger for the less diversified entrepreneurial firms in the sample. The estimation results are consistent with the innovation dynamics generated in a model in which entrepreneurs are risk averse and cannot diversify the risk of their business.
@@ -58,7 +58,7 @@ I estimate the effect of uncertainty on risky innovation using a panel of 11,417
 ## 6. Information effect of entry into credit ratings market: The case of insurers' ratings
 ### Date
 - May 2012
-### Authors
+### Author
 - Neil A. Doherty
 - Anastasia V. Kartasheva
 - Richard D. Phillips
@@ -70,7 +70,7 @@ The paper analyzes the effect of competition between credit rating agencies (CRA
 ## 7. Do option markets undo restrictions on short sales? Evidence from the 2008 short-sale ban
 ### Date
 - May 2012
-### Authors
+### Author
 - Bruce D. Grundy
 - Bryan Lim
 - Patrick Verwijmeren
@@ -82,7 +82,7 @@ The effectiveness of any sanction depends on the costs of avoiding its restricti
 ## 8. The seeds of a crisis: A theory of bank liquidity and risk taking over the business cycle
 ### Date
 - May 2012
-### Authors
+### Author
 - Viral Acharya
 - Hassan Naqvi
 ### Abstract
@@ -93,7 +93,7 @@ We examine how the banking sector could ignite the formation of asset price bubb
 ## 9. The term structure of inflation expectations
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Mikhail Chernov
 - Philippe Mueller
 ### Abstract
@@ -104,7 +104,7 @@ We use information in the term structure of survey-based forecasts of inflation 
 ## 10. Are banks happy when managers go long? The information content of managers’ vested option holdings for loan pricing
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Cristian L. Dezső
 - David Gaddis Ross
 ### Abstract
@@ -115,7 +115,7 @@ While traditional finance theory holds that managers with option-laden incentive
 ## 11. Optimal capital structure, bargaining, and the supplier market structure
 ### Date
 - May 2012
-### Authors
+### Author
 - Yongqiang Chu
 ### Abstract
 This paper studies the relationship between firm leverage and supplier market structure. We find that firm leverage decreases with the degree of competition between suppliers. Specifically, leverage decreases with the elasticity of substitution between suppliers. Leverage also decreases with the number of suppliers when the elasticity of substitution is high, and increases with the number of suppliers when the elasticity is low. We also provide empirical evidence that is consistent with the model predictions.
@@ -125,7 +125,7 @@ This paper studies the relationship between firm leverage and supplier market st
 ## 12. Profitability and capital structure: Evidence from import penetration
 ### Date
 - May 2012
-### Authors
+### Author
 - Jin Xu
 ### Abstract
 Firms experiencing increases in import competition significantly reduce their leverage ratios by issuing equity and selling assets to repay debt. Using import tariffs and foreign exchange rates as instrumental variables for import penetration, I show that these results are not manifestations of endogenous relations between import competition and leverage. The results are consistent with traditional trade-off models of capital structure that predict a positive relation between book leverage and expected future profitability. Further evidence suggests that import competition affects leverage through changes in the trade-off between the tax benefits of debt and the costs of financial distress.

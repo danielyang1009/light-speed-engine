@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1989
-### Authors
+### Author
 - MichaelC. Jensen
 - JohnB. Long
 - RichardS. Ruback
@@ -20,7 +20,7 @@
 ## 2. Organizational changes and value creation in leveraged buyouts
 ### Date
 - Dec 1989
-### Authors
+### Author
 - George P. Baker
 - Karen H. Wruck
 ### Abstract
@@ -31,7 +31,7 @@ This study documents the organizational changes that took place at the O.M. Scot
 ## 3. Campeau's acquisition of federated
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Steven N. Kaplan
 ### Abstract
 I analyze the acquisition of Federated Department Stores by Campeau Corporation and find that after the purchase the value of Federated assets increased by more than $1.8 billion. Federated and Campeau defaulted on the debt used to finance the acquisition because Campeau paid a premium of $3.4 billion for Federated, an overpayment of $1.6 billion, financed 97% of the purchase with debt, and did not have enough other assets to make up the shortfall. The Federated purchase illustrates that a highly leveraged transaction can increase value, but still not be able to make its debt payments.
@@ -41,7 +41,7 @@ I analyze the acquisition of Federated Department Stores by Campeau Corporation 
 ## 4. Financial innovation and first-mover advantages
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Peter Tufano
 ### Abstract
 This paper uses a database of 58 financial innovations from 1974–1986 to examine how investment banks are compensated for their investments in developing new products. Investment banks that create new products do not charge higher prices in the brief period of ‘monopoly’ before imitative products appear, and in the long-run charge prices below, not above, those charged by rivals offering imitative products. However, banks capture a larger share of underwritings with innovations than with imitative products. One interpretation of the price and quantity evidence is that innovators become inframarginal rivals that enjoy lower costs of trading, underwriting, and marketing.
@@ -51,7 +51,7 @@ This paper uses a database of 58 financial innovations from 1974–1986 to exami
 ## 5. Management turnover and financial distress
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Stuart C. Gilson
 ### Abstract
 This study investigates senior management turnover in financially distressed firms. In any given year, 52% of sampled firms experience turnover if they are either in default on their debt, bankrupt, or privately restructuring their debt to avoid bankruptcy. A significant number of changes are initiated by firms' bank lenders. Following their resignation from these firms, managers are not subsequently employed by another exchange-listed firm for at least three years. Results are consistent with managers experiencing large personal costs when their firms default.
@@ -61,7 +61,7 @@ This study investigates senior management turnover in financially distressed fir
 ## 6. Managers' voting rights and corporate control
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Wayne H. Mikkelson
 - M.Megan Partch
 ### Abstract
@@ -72,7 +72,7 @@ We document managers' vote holdings in a large random sample of industrial firms
 ## 7. The wealth effects of second-generation state takeover legislation
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Jonathan M. Karpoff
 - Paul H. Malatesta
 ### Abstract
@@ -83,7 +83,7 @@ We examine the stock-price effects of all second-generation state takeover laws 
 ## 8. Drawing inferences from statistics based on multiyear asset returns
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Matthew Richardson
 - James H. Stock
 ### Abstract
@@ -94,7 +94,7 @@ Researchers investigating the possibility of mean reversion in stock prices with
 ## 9. The information content of equity-for-debt swaps
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Ronen Israel
 - Aharon R. Ofer
 - Daniel R. Siegel
@@ -106,7 +106,7 @@ We demonstrate that analysts revise their forecasts of net operating income down
 ## 10. Private benefits from control of public corporations
 ### Date
 - Dec 1989
-### Authors
+### Author
 - Michael J. Barclay
 - Clifford G. Holderness
 ### Abstract
@@ -117,7 +117,7 @@ We analyze the pricing of 63 block trades between 1978 and 1982 involving at lea
 ## 11. News items
 ### Date
 - Dec 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -126,7 +126,7 @@ We analyze the pricing of 63 block trades between 1978 and 1982 involving at lea
 ## 12. Editorial collaborators
 ### Date
 - Dec 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -135,7 +135,7 @@ We analyze the pricing of 63 block trades between 1978 and 1982 involving at lea
 ## 13. Index
 ### Date
 - Dec 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link

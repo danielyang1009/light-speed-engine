@@ -1,0 +1,416 @@
+{
+    "journal": "JF",
+    "volume": "30",
+    "issue": "2",
+    "date": "May 1975",
+    "page": "Pages: i-vii, 257-696, viii-x",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "May 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb00522.x"
+        },
+        {
+            "no": "2",
+            "title": "A NOTE ON THIS PROCEEDINGS ISSUE",
+            "date": "May 1975",
+            "author": [
+                "Myron Gordon"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01808.x"
+        },
+        {
+            "no": "3",
+            "title": "INFLATION AND SECURITY RETURNS*",
+            "date": "May 1975",
+            "author": [
+                "John Lintner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01809.x"
+        },
+        {
+            "no": "4",
+            "title": "THE REGULATION OF BANK HOLDING COMPANIES",
+            "date": "May 1975",
+            "author": [
+                "Samuel B. Chase Jr.",
+                "John J. Mingo",
+                "Sherman J. Maisel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01810.x"
+        },
+        {
+            "no": "5",
+            "title": "FREEDOM FOR BANKS",
+            "date": "May 1975",
+            "author": [
+                "Thomas I. Storrs"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01811.x"
+        },
+        {
+            "no": "6",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "Joan G. Walters"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01812.x"
+        },
+        {
+            "no": "7",
+            "title": "THE EXPECTED HOLDING PERIOD RETURN, UNCERTAINTY AND THE TERM STRUCTURE OF INTEREST RATES",
+            "date": "May 1975",
+            "author": [
+                "Ramon Johnson Johnson",
+                "John S. McCallum"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01813.x"
+        },
+        {
+            "no": "8",
+            "title": "THE USE OF AVERAGE MATURITY AS A RISK PROXY IN INVESTMENT PORTFOLIOS",
+            "date": "May 1975",
+            "author": [
+                "Jess B. Yawitz",
+                "George H. Hempel",
+                "William J. Marshall"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01814.x"
+        },
+        {
+            "no": "9",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "John S. Bilbersee",
+                "Jacob Bichaelsen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01815.x"
+        },
+        {
+            "no": "10",
+            "title": "GROWTH OF AMERICAN INTERNATIONAL BANKING: IMPLICATIONS FOR PUBLIC POLICY",
+            "date": "May 1975",
+            "author": [
+                "LawrenceB. Krause",
+                "Andrew F. Brimmer",
+                "Frederick R. Dahl"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01816.x"
+        },
+        {
+            "no": "11",
+            "title": "MONETARY INDEPENDENCE UNDER FLOATING EXCHANGE RATES",
+            "date": "May 1975",
+            "author": [
+                "Robert Z. Aliber"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01817.x"
+        },
+        {
+            "no": "12",
+            "title": "A QUALITATIVE ANALYSIS OF EURO\u2010CURRENCY CONTROLS",
+            "date": "May 1975",
+            "author": [
+                "John Hewson",
+                "Eisuke Sakakibara"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01818.x"
+        },
+        {
+            "no": "13",
+            "title": "VALUATION, OPTIMUM INVESTMENT AND FINANCING FOR THE FIRM SUBJECT TO REGULATION",
+            "date": "May 1975",
+            "author": [
+                "Franco Modigliani",
+                "Edwin J. Elton",
+                "Martin J. Gruber",
+                "Zvi Lieber"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01819.x"
+        },
+        {
+            "no": "14",
+            "title": "MARKET EFFICIENCY AND THE COST OF CAPITAL: THE STRANGE CASE OF FIRE AND CASUALTY INSURANCE COMPANIES",
+            "date": "May 1975",
+            "author": [
+                "G. David Quirin",
+                "William R. Waters"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01820.x"
+        },
+        {
+            "no": "15",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "M. J. Brennan",
+                "Willard T. Carleton",
+                "Stewart C. Myers"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01821.x"
+        },
+        {
+            "no": "16",
+            "title": "THE ASSESSMENT OF INFLATION AND PORTFOLIO SELECTION",
+            "date": "May 1975",
+            "author": [
+                "Michael Adler",
+                "Nahum Biger"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01822.x"
+        },
+        {
+            "no": "17",
+            "title": "EFFECTS OF UNCERTAIN INFLATION ON THE INVESTMENT AND FINANCING DECISIONS OF A FIRM",
+            "date": "May 1975",
+            "author": [
+                "A. H. Chen",
+                "A. J. Boness"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01823.x"
+        },
+        {
+            "no": "18",
+            "title": "EXCHANGE RATE CHANGES, INFLATION, AND THE VALUE OF THE MULTINATIONAL CORPORATION",
+            "date": "May 1975",
+            "author": [
+                "Alan C. Shapiro"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01824.x"
+        },
+        {
+            "no": "19",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "Donald L. Tuttle",
+                "Patric H. Hendershott"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01825.x"
+        },
+        {
+            "no": "20",
+            "title": "INVESTORS' EXPECTATIONS OF EARNINGS GROWTH, THEIR ACCURACY AND EFFECTS ON THE STRUCTURE OF REALIZED RATES OF RETURN",
+            "date": "May 1975",
+            "author": [
+                "Manak C. Gupta",
+                "Aharon R. Ofer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01826.x"
+        },
+        {
+            "no": "21",
+            "title": "THE IMPACT OF CORPORATE GROWTH ON THE RISK OF COMMON STOCKS",
+            "date": "May 1975",
+            "author": [
+                "David R. Fewings"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01827.x"
+        },
+        {
+            "no": "22",
+            "title": "GROWTH STOCKS AND CORPORATE CAPITAL STRUCTURE THEORY",
+            "date": "May 1975",
+            "author": [
+                "Prem Kumar"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01828.x"
+        },
+        {
+            "no": "23",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "Burton G. Malkiel",
+                "Fred D. Arditti",
+                "Manak C. Gupta"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01829.x"
+        },
+        {
+            "no": "24",
+            "title": "THE USES OF SHARED REVENUE",
+            "date": "May 1975",
+            "author": [
+                "Nancy Teeters",
+                "Richard P. Nathan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01830.x"
+        },
+        {
+            "no": "25",
+            "title": "THE SOCIAL SECURITY PAYROLL TAX: SOME ALTERNATIVES FOR REFORM",
+            "date": "May 1975",
+            "author": [
+                "Benjamin A. Okner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01831.x"
+        },
+        {
+            "no": "26",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "Gail R. Wilensky",
+                "Wayne Vroman"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01832.x"
+        },
+        {
+            "no": "27",
+            "title": "THE ASSET STRUCTURE OF INDIVIDUAL PORTFOLIOS AND SOME IMPLICATIONS FOR UTILITY FUNCTIONS",
+            "date": "May 1975",
+            "author": [
+                "James C. Van Horne",
+                "Marshall E. Blume",
+                "Irwin Friend"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01833.x"
+        },
+        {
+            "no": "28",
+            "title": "INDIVIDUAL INVESTOR RISK AVERSION AND INVESTMENT PORTFOLIO COMPOSITION",
+            "date": "May 1975",
+            "author": [
+                "Richard A. Cohn",
+                "Wilbur G. Lewellen",
+                "Ronald C. Lease",
+                "Gary G. Schlarbaum"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01834.x"
+        },
+        {
+            "no": "29",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "Keith V. Smith",
+                "Robert H. Litzenberger"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01835.x"
+        },
+        {
+            "no": "30",
+            "title": "BOND RATING METHODS: COMPARISON AND VALIDATION",
+            "date": "May 1975",
+            "author": [
+                "Mary A. Hines",
+                "James S. Ang",
+                "Kiritkumar A. Patel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01836.x"
+        },
+        {
+            "no": "31",
+            "title": "FEDERAL RESERVE MEMBERSHIP AND BANK PERFORMANCE: THE EVIDENCE FROM TEXAS",
+            "date": "May 1975",
+            "author": [
+                "Donald R. Fraser",
+                "Peter S. Rose",
+                "Gary L. Schugart"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01837.x"
+        },
+        {
+            "no": "32",
+            "title": "SYSTEMATIC RISK FOR HETEROGENEOUS TIME HORIZONS",
+            "date": "May 1975",
+            "author": [
+                "John M. Hasty Jr",
+                "Bruce D. Fielitz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01838.x"
+        },
+        {
+            "no": "33",
+            "title": "DISCUSSION",
+            "date": "May 1975",
+            "author": [
+                "Robert R. Glauber",
+                "Lawrence S. Ritter"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01839.x"
+        },
+        {
+            "no": "34",
+            "title": "THE ROLE AND VIABILITY OF MUTUAL BANKS (Abstract)",
+            "date": "May 1975",
+            "author": [
+                "Oliver H. Jones",
+                "Lawrence D. Jones",
+                "R. Richardson Pettit"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01840.x"
+        },
+        {
+            "no": "35",
+            "title": "THE IMPACT OF \u201cFREE DISTRIBUTION\u201d CONVERSION WINDFALLS ON THE SAVINGS AND LOAN INDUSTRY (Abstract)",
+            "date": "May 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01841.x"
+        },
+        {
+            "no": "36",
+            "title": "AMERICAN FINANCE ASSOCIATION BUSINESS PROCEEDINGS",
+            "date": "May 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01842.x"
+        },
+        {
+            "no": "37",
+            "title": "STYLE INSTRUCTIONS",
+            "date": "May 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb01843.x"
+        },
+        {
+            "no": "38",
+            "title": "Back Matter",
+            "date": "May 1975",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1975.tb00523.x"
+        }
+    ]
+}

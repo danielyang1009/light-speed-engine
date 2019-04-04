@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Are corporate inversions good for shareholders?
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Anton Babkin
 - Brent Glover
 - Oliver Levine
@@ -26,7 +26,7 @@ Corporate inversion, the process of redomiciling for tax purposes, reduces corpo
 ## 3. Rollover risk as market discipline: A two-sided inefficiency
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Thomas M. Eisenbach
 ### Abstract
 Why does the market discipline that financial intermediaries face seem too weak during booms and too strong during crises? This paper shows in a general equilibrium setting that rollover risk as a disciplining device is effective only if all intermediaries face purely idiosyncratic risk. However, if assets are correlated, a two-sided inefficiency arises: Good aggregate states have intermediaries taking excessive risks, while bad aggregate states suffer from costly fire sales. The driving force behind this inefficiency is an amplifying feedback loop between asset values and market discipline. In equilibrium, financial intermediaries inefficiently amplify both positive and negative aggregate shocks.
@@ -36,7 +36,7 @@ Why does the market discipline that financial intermediaries face seem too weak 
 ## 4. International correlation risk
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Philippe Mueller
 - Andreas Stathopoulos
 - Andrea Vedolin
@@ -48,7 +48,7 @@ We show that the cross-sectional dispersion of conditional foreign exchange (FX)
 ## 5. Acquiring growth
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Oliver Levine
 ### Abstract
 I develop a model of mergers in which M&A deals are used to reallocate investment opportunities. In equilibrium, acquirers lack internal growth options and seek out projects from targets in the M&A market. The model is able to reconcile many features of the merger data that I document, including the high productivity, investment, and valuation of target firms. Furthermore, in my model, profitability is highly predictive of acquisition, and merger transactions naturally lead to a substantial drop in profitability despite creating value for the acquirer.
@@ -58,7 +58,7 @@ I develop a model of mergers in which M&A deals are used to reallocate investmen
 ## 6. Idiosyncratic risk and the manager
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Brent Glover
 - Oliver Levine
 ### Abstract
@@ -69,7 +69,7 @@ We develop a model to characterize and quantify the effects of stock, option, an
 ## 7. Employee bargaining power, inter-firm competition, and equity-based compensation
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Francesco Bova
 - Liyan Yang
 ### Abstract
@@ -80,7 +80,7 @@ We develop a model to illustrate that equity-based compensation for non-executiv
 ## 8. The effects of credit default swap trading on information asymmetry in syndicated loans
 ### Date
 - Oct 2016
-### Authors
+### Author
 - Dan Amiram
 - William H. Beaver
 - Wayne R. Landsman
@@ -93,7 +93,7 @@ This study shows that initiation of credit default swap (CDS) trading for an ent
 ## 9. Precautionary savings, retirement planning and misperceptions of financial literacy
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Anders Anderson
 - Forest Baker
 - David T. Robinson
@@ -105,7 +105,7 @@ We measure financial literacy among LinkedIn members, complementing standard que
 ## 10. Early peek advantage? Efficient price discovery with tiered information disclosure
 ### Date
 - Jul 2017
-### Authors
+### Author
 - Grace Xing Hu
 - Jun Pan
 - Jiang Wang
@@ -117,7 +117,7 @@ From 2007 to June 2013, a small group of fee-paying, high-speed traders receive 
 ## 11. Staggered boards and long-term firm value, revisited
 ### Date
 - Aug 2017
-### Authors
+### Author
 - K.J. Martijn Cremers
 - Lubomir P. Litov
 - Simone M. Sepe
@@ -129,7 +129,7 @@ This paper revisits the staggered board debate focusing on the long-term associa
 ## 12. Corrigendum to “Board reforms and firm value: Worldwide evidence” [J. Financ. Econ. 125 (2017) 120–142]
 ### Date
 - Aug 2017
-### Authors
+### Author
 - Larry Fauver
 - Mingyi Hung
 - Xi Li

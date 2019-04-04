@@ -1,0 +1,166 @@
+{
+    "journal": "JF",
+    "volume": "72",
+    "issue": "3",
+    "date": "June 2017",
+    "page": "Pages: 959-1393",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "02 June 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12453"
+        },
+        {
+            "no": "2",
+            "title": "Jos\u00e9 Alexandre Scheinkman",
+            "date": "02 June 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12516"
+        },
+        {
+            "no": "3",
+            "title": "The Flash Crash: High\u2010Frequency Trading in an Electronic Market",
+            "date": "25 January 2017",
+            "author": [
+                "ANDREI KIRILENKO",
+                "ALBERT S. KYLE",
+                "MEHRDAD SAMADI",
+                "TUGKAN TUZUN"
+            ],
+            "abstract": "We study intraday market intermediation in an electronic market before and during a period of large and temporary selling pressure. On May 6, 2010, U.S. financial markets experienced a systemic intraday event\u2014the Flash Crash\u2014where a large automated selling program was rapidly executed in the E\u2010mini S&P 500 stock index futures market. Using audit trail transaction\u2010level data for the E\u2010mini on May 6 and the previous three days, we find that the trading pattern of the most active nondesignated intraday intermediaries (classified as High\u2010Frequency Traders) did not change when prices fell during the Flash Crash.",
+            "link": "https://doi.org/10.1111/jofi.12498"
+        },
+        {
+            "no": "4",
+            "title": "Firm Age, Investment Opportunities, and Job Creation",
+            "date": "18 February 2017",
+            "author": [
+                "MANUEL ADELINO",
+                "SONG MA",
+                "DAVID ROBINSON"
+            ],
+            "abstract": "New firms are an important source of job creation, but the underlying economic mechanisms for why this is so are not well understood. Using an identification strategy that links shocks to local income to job creation in the nontradable sector, we ask whether job creation arises more through new firm creation or through the expansion of existing firms. We find that new firms account for the bulk of net employment creation in response to local investment opportunities. We also find significant gross job creation and destruction by existing firms, suggesting that positive local shocks accelerate churn.",
+            "link": "https://doi.org/10.1111/jofi.12495"
+        },
+        {
+            "no": "5",
+            "title": "Finance and Growth at the Firm Level: Evidence from SBA Loans",
+            "date": "24 January 2017",
+            "author": [
+                "J. DAVID BROWN",
+                "JOHN S. EARLE"
+            ],
+            "abstract": "We analyze linked databases on all SBA loans and lenders and on all U.S. employers to estimate the effects of financial access on employment growth. Estimation exploits the long panels and variation in local availability of SBA\u2010intensive lenders. The results imply an increase of 3\u20133.5 jobs for each million dollars of loans, suggesting real effects of credit constraints. Estimated impacts are stronger for younger and larger firms and when local credit conditions are weak, but we find no clear evidence of cyclical variation. We estimate taxpayer costs per job created in the range of $21,000\u2013$25,000.",
+            "link": "https://doi.org/10.1111/jofi.12492"
+        },
+        {
+            "no": "6",
+            "title": "Forced Asset Sales and the Concentration of Outstanding Debt: Evidence from the Mortgage Market",
+            "date": "24 January 2017",
+            "author": [
+                "GIOVANNI FAVARA",
+                "MARIASSUNTA GIANNETTI"
+            ],
+            "abstract": "We provide evidence that lenders differ in their ex post incentives to internalize price\u2010default externalities associated with the liquidation of collateralized debt. Using the mortgage market as a laboratory, we conjecture that lenders with a large share of outstanding mortgages on their balance sheets internalize the negative spillovers associated with the liquidation of defaulting mortgages and thus are less inclined to foreclose. We provide evidence consistent with our conjecture. Arguably as a consequence, zip codes with a higher concentration of outstanding mortgages experience smaller house prices declines. These results are not driven by unobservable zip code or lender characteristics.",
+            "link": "https://doi.org/10.1111/jofi.12494"
+        },
+        {
+            "no": "7",
+            "title": "Liquidity in a Market for Unique Assets: Specified Pool and To\u2010Be\u2010Announced Trading in the Mortgage\u2010Backed Securities Market",
+            "date": "25 January 2017",
+            "author": [
+                "PENGJIE GAO",
+                "PAUL SCHULTZ",
+                "ZHAOGANG SONG"
+            ],
+            "abstract": "Agency mortgage\u2010backed securities (MBS) trade simultaneously in a market for specified pools (SPs) and in the to\u2010be\u2010announced (TBA) forward market. TBA trading creates liquidity by allowing thousands of different MBS to be traded in a handful of TBA contracts. SPs that are eligible to be traded as TBAs have significantly lower trading costs than other SPs. We present evidence that TBA eligibility, in addition to characteristics of TBA\u2010eligible SPs, lowers trading costs. We show that dealers hedge SP inventory with TBA trades, and they are more likely to prearrange trades in SPs that are difficult to hedge.",
+            "link": "https://doi.org/10.1111/jofi.12496"
+        },
+        {
+            "no": "8",
+            "title": "The Effect of Housing on Portfolio Choice",
+            "date": "03 February 2017",
+            "author": [
+                "RAJ CHETTY",
+                "L\u00c1SZL\u00d3 S\u00c1NDOR",
+                "ADAM SZEIDL"
+            ],
+            "abstract": "We show that characterizing the effects of housing on portfolios requires distinguishing between the effects of home equity and mortgage debt. We isolate exogenous variation in home equity and mortgages by using differences across housing markets in house prices and housing supply elasticities as instruments. Increases in property value (holding home equity constant) reduce stockholdings, while increases in home equity wealth (holding property value constant) raise stockholdings. The stock share of liquid wealth would rise by 1 percentage point\u20146% of the mean stock share\u2014if a household were to spend 10% less on its house, holding fixed wealth.",
+            "link": "https://doi.org/10.1111/jofi.12500"
+        },
+        {
+            "no": "9",
+            "title": "Exchange Rates and Monetary Policy Uncertainty",
+            "date": "02 February 2017",
+            "author": [
+                "PHILIPPE MUELLER",
+                "ALIREZA TAHBAZ\u2010SALEHI",
+                "ANDREA VEDOLIN"
+            ],
+            "abstract": "We document that a trading strategy that is short the U.S. dollar and long other currencies exhibits significantly larger excess returns on days with scheduled Federal Open Market Committee (FOMC) announcements. We show that these excess returns (i) are higher for currencies with higher interest rate differentials vis\u2010\u00e0\u2010vis the United States, (ii) increase with uncertainty about monetary policy, and (iii) increase further when the Federal Reserve adopts a policy of monetary easing. We interpret these excess returns as compensation for monetary policy uncertainty within a parsimonious model of constrained financiers who intermediate global demand for currencies.",
+            "link": "https://doi.org/10.1111/jofi.12499"
+        },
+        {
+            "no": "10",
+            "title": "Correlated Default and Financial Intermediation",
+            "date": "24 January 2017",
+            "author": [
+                "GREGORY PHELAN"
+            ],
+            "abstract": "Financial intermediation naturally arises when knowing how loan payoffs are correlated is valuable for managing investments but lenders cannot easily observe that relationship. I show this result using a costly enforcement model in which lenders need ex post incentives to enforce payments from defaulted loans and borrowers' payoffs are correlated. When projects have correlated outcomes, learning the state of one project (via enforcement) provides information about the states of other projects. A large correlated portfolio provides ex post incentives for enforcement. Thus, intermediation dominates direct lending, and intermediaries are financed with risk\u2010free deposits, earn positive profits, and hold systemic default risk.",
+            "link": "https://doi.org/10.1111/jofi.12493"
+        },
+        {
+            "no": "11",
+            "title": "Does the Scope of the Sell\u2010Side Analyst Industry Matter? An Examination of Bias, Accuracy, and Information Content of Analyst Reports",
+            "date": "20 January 2017",
+            "author": [
+                "KENNETH MERKLEY",
+                "RONI MICHAELY",
+                "JOSEPH PACELLI"
+            ],
+            "abstract": "We examine changes in the scope of the sell\u2010side analyst industry and whether these changes impact information dissemination and the quality of analysts\u2019 reports. Our findings suggest that changes in the number of analysts covering an industry impact analyst competition and have significant spillover effects on other analysts\u2019 forecast accuracy, bias, report informativeness, and effort. These spillover industry effects are incremental to the effects of firm level changes in analyst coverage. Overall, a more significant sell\u2010side analyst industry presence has positive externalities that can result in better functioning capital markets.",
+            "link": "https://doi.org/10.1111/jofi.12485"
+        },
+        {
+            "no": "12",
+            "title": "Short\u2010Term Market Risks Implied by Weekly Options",
+            "date": "23 February 2017",
+            "author": [
+                "TORBEN G. ANDERSEN",
+                "NICOLA FUSARI",
+                "VIKTOR TODOROV"
+            ],
+            "abstract": "We study short\u2010maturity (\u201cweekly\u201d) S&P 500 index options, which provide a direct way to analyze volatility and jump risks. Unlike longer\u2010dated options, they are largely insensitive to the risk of intertemporal shifts in the economic environment. Adopting a novel seminonparametric approach, we uncover variation in the negative jump tail risk, which is not spanned by market volatility and helps predict future equity returns. As such, our approach allows for easy identification of periods of heightened concerns about negative tail events that are not always \u201csignaled\u201d by the level of market volatility and elude standard asset pricing models.",
+            "link": "https://doi.org/10.1111/jofi.12486"
+        },
+        {
+            "no": "13",
+            "title": "MISCELLANEA",
+            "date": "02 June 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12502"
+        },
+        {
+            "no": "14",
+            "title": "ANNOUNCEMENTS",
+            "date": "02 June 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12517"
+        },
+        {
+            "no": "15",
+            "title": "ISSUE INFORMATION BM",
+            "date": "02 June 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12454"
+        }
+    ]
+}

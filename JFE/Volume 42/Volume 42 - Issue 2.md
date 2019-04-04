@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Oct 1996
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Timing, investment opportunities, managerial discretion, and the security issue decision
 ### Date
 - Oct 1996
-### Authors
+### Author
 - Kooyul Jung
 - Yong-Cheol Kim
 - RenéM. Stulz
@@ -33,7 +33,7 @@ This paper investigates the ability of the pecking-order model, the agency model
 ## 3. Proxies for the corporate marginal tax rate
 ### Date
 - Oct 1996
-### Authors
+### Author
 - John R. Graham
 ### Abstract
 This paper focuses on how best to measure the corporate marginal tax rate, which is an important input into financial analysis of the cost of capital, financing policy, corporate hedging, and corporate reorganizations. The results indicate that the simulated tax rate used by Shevlin (1990) and Graham (1996), although difficult to calculate, is the best available proxy for the ‘true’ marginal tax rate. If the simulated rate is unavailable, an easy-to-calculate trichotomous variable or the statutory marginal tax rate (which captures the progressivity in the tax schedule) are reasonable alternatives, better than most commonly used tax variables.
@@ -43,7 +43,7 @@ This paper focuses on how best to measure the corporate marginal tax rate, which
 ## 4. Price stabilization as a bonding mechanism in new equity issues
 ### Date
 - Oct 1996
-### Authors
+### Author
 - Lawrence M. Benveniste
 - Walid Y. Busaba
 - William J. Wilhelm
@@ -55,7 +55,7 @@ Underwriters have an incentive to overstate investor interest in order to persua
 ## 5. Investor valuation of the abandonment option
 ### Date
 - Oct 1996
-### Authors
+### Author
 - Philip G. Berger
 - Eli Ofek
 - Itzhak Swary

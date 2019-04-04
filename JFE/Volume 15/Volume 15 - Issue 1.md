@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Preface
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Michael C. Jensen
 - Clifford W. Smith
 ### Abstract
@@ -25,7 +25,7 @@
 ## 3. Investment banking and the capital acquisition process
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Clifford W. Smith
 ### Abstract
 This paper reviews the theory and evidence on the process by which corporations raise debt and equity capital and the associated effects on security prices. Findings from related transactions are used to test hypotheses about the stock price patterns accompanying announcements of security offerings. Various contractual alternatives employed in security issues are examined; for example, rights or underwritten offers, negotiated or competitive bid, best efforts or firm commitment contracts, and shelf or traditional registration. Finally, incentives for underpricing new issues are analyzed.
@@ -35,7 +35,7 @@ This paper reviews the theory and evidence on the process by which corporations 
 ## 4. Valuation effects of security offerings and the issuance process
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Wayne H. Mikkelson
 - M.Megan Partch
 ### Abstract
@@ -46,7 +46,7 @@ This study examines the stock price effects of security offerings and investigat
 ## 5. Equity issues and offering dilution
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Paul Asquith
 - David W. Mullins
 ### Abstract
@@ -57,7 +57,7 @@ This study investigates the effect on stock prices of seasoned equity offerings.
 ## 6. Seasoned equity offerings
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Ronald W. Masulis
 - Ashok N. Korwar
 ### Abstract
@@ -68,7 +68,7 @@ This study examines common stock price adjustments to announcements of underwrit
 ## 7. Valuation effects of corporate debt offerings
 ### Date
 - Jan 1986
-### Authors
+### Author
 - B.Espen Eckbo
 ### Abstract
 This paper analyzes the effect of corporate debt offerings on stock prices. Straight debt offerings have non-positive price effects, while convertible debt offerings have significantly negative effects. Public utility mortgage (non-convertible) bond offerings have marginally negative effects, and the effect is significantly negative when the proceeds are used to finance the utility's investment program. Cross-sectional regressions reveal no relation between offer-induced price effects and offering size, rating, post-offer changes in abnormal earnings or debt-related tax shields. The evidence is inconsistent with theories predicting that the price effects of capital structure changes go in the direction of the leverage change.
@@ -78,7 +78,7 @@ This paper analyzes the effect of corporate debt offerings on stock prices. Stra
 ## 8. A comparison of equity carve-outs and seasoned equity offerings
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Katherine Schipper
 - Abbie Smith
 ### Abstract
@@ -89,7 +89,7 @@ This paper investigates share price reactions of parent firms to announcements o
 ## 9. Why new issues are underpriced
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Kevin Rock
 ### Abstract
 This paper presents a model for the underpricing of initial public offerings. The argument depends upon the existence of a group of investors whose information is superior to that of the firm as well as that of all other investors. If the new shares are priced at their expected value, these priveleged investors crowd out the others when good issues are offered and they withdraw from the market when bad issues are offered. The offering firm must price the shares at a discount in order to guarantee that the uninformed investors purchase the issue.
@@ -99,7 +99,7 @@ This paper presents a model for the underpricing of initial public offerings. Th
 ## 10. Investment banking, reputation, and the underpricing of initial public offerings
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Randolph P. Beatty
 - Jay R. Ritter
 ### Abstract
@@ -110,7 +110,7 @@ This paper develops and tests two propositions. We demonstrate that there is a m
 ## 11. Issuing costs to existing shareholders in competitive and negotiated underwritten public utility equity offerings
 ### Date
 - Jan 1986
-### Authors
+### Author
 - Sanjai Bhagat
 - Peter A. Frost
 ### Abstract
@@ -121,7 +121,7 @@ This paper presents the results of an empirical investigation of whether there i
 ## 12. Capital raising, underwriting and the certification hypothesis
 ### Date
 - Jan 1986
-### Authors
+### Author
 - James R. Booth
 - Richard L. Smith
 ### Abstract

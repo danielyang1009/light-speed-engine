@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1986
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G. William Schwert
@@ -19,7 +19,7 @@
 ## 2. Corporate mergers and security returns
 ### Date
 - Jun 1986
-### Authors
+### Author
 - Debra K. Dennis
 - John J. McConnell
 ### Abstract
@@ -30,7 +30,7 @@ An examination of rates of return and dollar value returns for various classes o
 ## 3. Insiders' profits, costs of trading, and market efficiency
 ### Date
 - Jun 1986
-### Authors
+### Author
 - H.Nejat Seyhun
 ### Abstract
 This study investigates the anomalous findings of the previous insider trading studies that any investor can earn abnormal profits by reading the Official Summary. Availability of abnormal profits to insiders, availability of abnormal profits to outsiders who imitate insiders, determinants of insiders' predictive ability, and effect of insider trading on costs of trading for other investors are examined by using approximately 60,000 insider sale and purchase transactions from 1975 to 1981. Implications for market efficiency and evaluation of abnormal profits to active trading strategies are discussed.
@@ -40,7 +40,7 @@ This study investigates the anomalous findings of the previous insider trading s
 ## 4. A theory of price limits in futures markets
 ### Date
 - Jun 1986
-### Authors
+### Author
 - Michael J. Brennan
 ### Abstract
 The existence of price limits in certain futures markets is explained by demonstrating that price limits may act as a partial substitute for margin requirements in ensuring contract performance. Their effectiveness is a decreasing function of the amount of information available to traders about the equilibrium futures price which is unobservable in the event of a limit move, and the theory predicts that no limits will exist in the markets for financial futures. Actual limits are broadly consistent with the theory.
@@ -50,7 +50,7 @@ The existence of price limits in certain futures markets is explained by demonst
 ## 5. An empirical investigation of calls of non-convertible bonds
 ### Date
 - Jun 1986
-### Authors
+### Author
 - Joseph D. Vu
 ### Abstract
 This paper examines call behavior of corporate issuers of non-convertible bonds. Evidence from a sample of 102 calls indicates that the market value of the called bonds is usually below the call price at the time of the announcement. The stock price reactions to call announcements are positively related to the direction of the change in leverage. When the call relaxes restrictive covenants, the firm on average pays a larger premium to call debt. The premium is a minimum estimate of the potential opportunity costs of restrictive covenants.
@@ -60,7 +60,7 @@ This paper examines call behavior of corporate issuers of non-convertible bonds.
 ## 6. The puzzling price behavior of treasury bills that mature at the turn of calendar months
 ### Date
 - Jun 1986
-### Authors
+### Author
 - Sang Yong Park
 - Marc R. Reinganum
 ### Abstract

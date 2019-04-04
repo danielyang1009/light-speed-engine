@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Is the IPO pricing process efficient?
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Michelle Lowry
 - G.William Schwert
 ### Abstract
@@ -25,7 +25,7 @@ This paper investigates underwriters’ treatment of public information througho
 ## 3. Earnings management, stock issues, and shareholder lawsuits
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Larry L DuCharme
 - Paul H Malatesta
 - Stephan E Sefcik
@@ -37,7 +37,7 @@ Abnormal accounting accruals are unusually high around stock offers, especially 
 ## 4. Tax-loss trading and wash sales
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Mark Grinblatt
 - Matti Keloharju
 ### Abstract
@@ -48,7 +48,7 @@ Finnish investors realize losses more than gains toward the end of December. Mor
 ## 5. The basis risk of catastrophic-loss index securities
 ### Date
 - Jan 2004
-### Authors
+### Author
 - J.David Cummins
 - David Lalonde
 - Richard D. Phillips
@@ -60,7 +60,7 @@ Using a windstorm simulation model developed by Applied Insurance Research, we a
 ## 6. Time-changed Lévy processes and option pricing
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Peter Carr
 - Liuren Wu
 ### Abstract
@@ -71,7 +71,7 @@ The classic Black-Scholes option pricing model assumes that returns follow Brown
 ## 7. The impact of stock market information production on internal resource allocation
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Eitan Goldman
 ### Abstract
 We analyze the resource allocation decision of a manager inside a multidivision firm whose compensation is based on the firm's stock price. We find that internal investments exhibit a positive correlation across the firms divisions. Namely, when two single-division firms merge the optimal investment level in one division becomes more positively related to the investment level in the other division. In addition, following a spinoff, divisional investments decline (increase) whenever the separated division has a project with a low (high) Sharpe ratio. Finally, multidivision firms trade at a discount which is larger the more diverse the investment sets of the divisions.
@@ -81,7 +81,7 @@ We analyze the resource allocation decision of a manager inside a multidivision 
 ## 8. Selling company shares to reluctant employees: France Telecom's experience
 ### Date
 - Jan 2004
-### Authors
+### Author
 - François Degeorge
 - Dirk Jenter
 - Alberto Moel

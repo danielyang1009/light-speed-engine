@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - September 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. How did increased competition affect credit ratings?
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Bo Becker
 - Todd Milbourn
 ### Abstract
@@ -25,7 +25,7 @@ The credit rating industry has historically been dominated by just two agencies,
 ## 3. The role of risk management in mergers and merger waves
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Jon A. Garfinkel
 - Kristine Watson Hankins
 ### Abstract
@@ -36,7 +36,7 @@ We show that merger activity and particularly waves are significantly driven by 
 ## 4. Does geography matter? Firm location and corporate payout policy
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Kose John
 - Anzhela Knyazeva
 - Diana Knyazeva
@@ -48,7 +48,7 @@ We investigate the impact of geography on agency costs and firm dividend policie
 ## 5. Explaining asset pricing puzzles associated with the 1987 market crash
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Luca Benzoni
 - Pierre Collin-Dufresne
 - Robert S. Goldstein
@@ -60,7 +60,7 @@ The 1987 market crash was associated with a dramatic and permanent steepening of
 ## 6. Performance maximization of actively managed funds
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Paolo Guasoni
 - Gur Huberman
 - Zhenyu Wang
@@ -72,7 +72,7 @@ A growing literature suggests that, even in the absence of any ability to predic
 ## 7. Regulatory pressure and fire sales in the corporate bond market
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Andrew Ellul
 - Chotibhak Jotikasthira
 - Christian T. Lundblad
@@ -84,7 +84,7 @@ This paper investigates fire sales of downgraded corporate bonds induced by regu
 ## 8. Does the stock market fully value intangibles? Employee satisfaction and equity prices
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Alex Edmans
 ### Abstract
 This paper analyzes the relationship between employee satisfaction and long-run stock returns. A value-weighted portfolio of the “100 Best Companies to Work For in America” earned an annual four-factor alpha of 3.5% from 1984 to 2009, and 2.1% above industry benchmarks. The results are robust to controls for firm characteristics, different weighting methodologies, and the removal of outliers. The Best Companies also exhibited significantly more positive earnings surprises and announcement returns. These findings have three main implications. First, consistent with human capital-centered theories of the firm, employee satisfaction is positively correlated with shareholder returns and need not represent managerial slack. Second, the stock market does not fully value intangibles, even when independently verified by a highly public survey on large firms. Third, certain socially responsible investing (SRI) screens may improve investment returns.
@@ -94,7 +94,7 @@ This paper analyzes the relationship between employee satisfaction and long-run 
 ## 9. Do small shareholders count?
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Eugene Kandel
 - Massimo Massa
 - Andrei Simonov
@@ -106,7 +106,7 @@ We hypothesize that age similarity among small shareholders acts as an implicit 
 ## 10. Corporate financing decisions, managerial market timing, and real investment
 ### Date
 - May 2011
-### Authors
+### Author
 - Alexander W. Butler
 - Jess Cornaggia
 - Gustavo Grullon
@@ -119,7 +119,7 @@ Both market timing and investment-based theories of corporate financing predict 
 ## 11. Information asymmetry and self-selection bias in bank loan announcement studies
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Pankaj K. Maskara
 - Donald J. Mullineaux
 ### Abstract
@@ -130,7 +130,7 @@ Event-study driven research has produced a consensus that loans are unique relat
 ## 12. CEO optimism and forced turnover
 ### Date
 - Mar 2011
-### Authors
+### Author
 - T. Colin Campbell
 - Michael Gallmeyer
 - Shane A. Johnson
@@ -144,7 +144,7 @@ We show theoretically that optimism can lead a risk-averse Chief Executive Offic
 ## 13. CFOs versus CEOs: Equity incentives and crashes
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Jeong-Bon Kim
 - Yinghua Li
 - Liandong Zhang

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Investment under uncertainty and time-inconsistent preferences
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Steven R. Grenadier
 - Neng Wang
 ### Abstract
@@ -25,7 +25,7 @@ While standard real options models assume that agents possess a constant rate of
 ## 3. Estimating and testing beta pricing models: Alternative methods and their performance in simulations
 ### Date
 - Feb 2006
-### Authors
+### Author
 - Jay Shanken
 - Guofu Zhou
 ### Abstract
@@ -36,7 +36,7 @@ We conduct a simulation analysis of the Fama and MacBeth[1973. Risk, returns and
 ## 4. Do today's trades affect tomorrow's IPO allocations?
 ### Date
 - Jan 2006
-### Authors
+### Author
 - M. Nimalendran
 - Jay R. Ritter
 - Donghang Zhang
@@ -48,7 +48,7 @@ Underwriters using bookbuilding can allocate shares of initial public offerings 
 ## 5. Insider trading in credit derivatives
 ### Date
 - May 2006
-### Authors
+### Author
 - Viral V. Acharya
 - Timothy C. Johnson
 ### Abstract
@@ -59,7 +59,7 @@ Insider trading in the credit derivatives market has become a significant concer
 ## 6. Is universal banking justified? Evidence from bank underwriting of corporate bonds in Japan
 ### Date
 - Feb 2006
-### Authors
+### Author
 - Jun-Koo Kang
 - Wei-Lin Liu
 ### Abstract
@@ -70,7 +70,7 @@ We examine the extent to which universal banking in Japan creates conflicts of i
 ## 7. Banking crises, financial dependence, and growth
 ### Date
 - May 2006
-### Authors
+### Author
 - Randall S. Kroszner
 - Luc Laeven
 - Daniela Klingebiel
@@ -82,7 +82,7 @@ This paper contributes to the literature that analyzes the mechanisms linking fi
 ## 8. Do hedge funds deliver alpha? A Bayesian and bootstrap analysis
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Robert Kosowski
 - Narayan Y. Naik
 - Melvyn Teo

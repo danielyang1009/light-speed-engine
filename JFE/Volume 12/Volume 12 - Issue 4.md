@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1983
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -19,7 +19,7 @@
 ## 2. Security price reactions around corporate spin-off announcements
 ### Date
 - Dec 1983
-### Authors
+### Author
 - Gailen L. Hite
 - James E. Owers
 ### Abstract
@@ -30,7 +30,7 @@ We examine security price reactions around the announcements of 123 voluntary sp
 ## 3. Effects of recontracting on shareholder wealth
 ### Date
 - Dec 1983
-### Authors
+### Author
 - Katherine Schipper
 - Abbie Smith
 ### Abstract
@@ -41,7 +41,7 @@ This paper investigates the effect of voluntary corporate spin-off announcements
 ## 4. Stock market seasonality
 ### Date
 - Dec 1983
-### Authors
+### Author
 - Mustafa N. Gultekin
 - N.Bulent Gultekin
 ### Abstract
@@ -52,7 +52,7 @@ This study examines empirically stock market seasonality in major industrialized
 ## 5. An explicit bound on individual assets' deviations from APT pricing in a finite economy
 ### Date
 - Dec 1983
-### Authors
+### Author
 - Philip H. Dybvig
 ### Abstract
 Ross's Arbitrage Pricing Theory (APT) is a tractible and reasonable alternative to the mean-variance model. Nonetheless, understanding of the theory has been obscured by the complexity of the sequence economy models used for motivation. By contrast, we give a simple and direct derivation of the APT in a finite economy. Using an explicit bound on the deviations from APT prices across assets, a coarse calculation shows that theoretical deviations from APT pricing are negligible in our economy.
@@ -62,7 +62,7 @@ Ross's Arbitrage Pricing Theory (APT) is a tractible and reasonable alternative 
 ## 6. Factor pricing in a finite economy
 ### Date
 - Dec 1983
-### Authors
+### Author
 - Mark Grinblatt
 - Sheridan Titman
 ### Abstract
@@ -73,7 +73,7 @@ Prior theoretical derivations of the Arbitrage Pricing Theory (APT) bound an agg
 ## 7. Editorial collaborators
 ### Date
 - Dec 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -82,7 +82,7 @@ Prior theoretical derivations of the Arbitrage Pricing Theory (APT) bound an agg
 ## 8. European finance association call for participation at the eleventh annual meeting
 ### Date
 - Dec 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -91,7 +91,7 @@ Prior theoretical derivations of the Arbitrage Pricing Theory (APT) bound an agg
 ## 9. Index
 ### Date
 - Dec 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link

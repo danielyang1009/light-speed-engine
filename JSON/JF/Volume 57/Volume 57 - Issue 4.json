@@ -1,0 +1,166 @@
+{
+    "journal": "JF",
+    "volume": "57",
+    "issue": "4",
+    "date": "August 2002",
+    "page": "Pages: i-vi, 1567-1855, vii-xxxiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "18 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00680.x"
+        },
+        {
+            "no": "2",
+            "title": "PAPERS AND PROCEEDINGS SIXTY\u2010SECOND ANNUAL MEETING AMERICAN FINANCE ASSOCIATION",
+            "date": "18 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00681.x"
+        },
+        {
+            "no": "3",
+            "title": "Rational Asset Prices",
+            "date": "17 December 2002",
+            "author": [
+                "George M. Constantinides"
+            ],
+            "abstract": "The mean, covariability, and predictability of the return of different classes of financial assets challenge the rational economic model for an explanation. The unconditional mean aggregate equity premium is almost seven percent per year and remains high after adjusting downwards the sample mean premium by introducing prior beliefs about the stationarity of the price\u2013dividend ratio and the (non)forecastability of the long\u2010term dividend growth and price\u2014dividend ratio. Recognition that idiosyncratic income shocks are uninsurable and concentrated in recessions contributes toward an explanation. Also borrowing constraints over the investors' life cycle that shift the stock market risk to the saving middle\u2010aged consumers contribute toward an explanation.",
+            "link": "https://doi.org/10.1111/1540-6261.00471"
+        },
+        {
+            "no": "4",
+            "title": "How Much Is Investor Autonomy Worth?",
+            "date": "17 December 2002",
+            "author": [
+                "Shlomo Benartzi",
+                "Richard H. Thaler"
+            ],
+            "abstract": "There is a worldwide trend towards defined contribution savings plans, where investors are often able to select their own portfolios. How much is this freedom of choice worth? We present retirement investors with information about the distribution of outcomes they could expect to obtain from the portfolios they picked for themselves, and the same information for the median portfolio selected by their peers. A majority of our survey participants actually prefer the median portfolio to the one they picked for themselves. We investigate various explanations for these findings and offer some evidence that the results are partly attributable to the fact that investors do not have well\u2010defined preferences.",
+            "link": "https://doi.org/10.1111/1540-6261.00472"
+        },
+        {
+            "no": "5",
+            "title": "Is Disinflation Good for the Stock Market?",
+            "date": "17 December 2002",
+            "author": [
+                "Peter Blair Henry"
+            ],
+            "abstract": "The stock market appreciates by an average of 24 percent in real dollar terms when countries attempt to stabilize annual inflation rates that are greater than 40 percent. In contrast, the average market response is 0 when the prestabilization rate of inflation is less than 40 percent. These results suggest that the potential long\u2010run benefits of stabilization may dominate shortrun costs at high levels of inflation, but at low to moderate levels of inflation, benefits may be offset by costs in a present value sense. Stock market responses also help predict the change in inflation and output in the year following all 81 stabilization efforts.",
+            "link": "https://doi.org/10.1111/1540-6261.00473"
+        },
+        {
+            "no": "6",
+            "title": "Dividends, Share Repurchases, and the Substitution Hypothesis",
+            "date": "17 December 2002",
+            "author": [
+                "Gustavo Grullon",
+                "Roni Michaely"
+            ],
+            "abstract": "We show that repurchases have not only became an important form of payout for U.S. corporations, but also that firms finance their share repurchases with funds that otherwise would have been used to increase dividends. We find that young firms have a higher propensity to pay cash through repurchases than they did in the past and that repurchases have become the preferred form of initiating a cash payout. Although large, established firms have generally not cut their dividends, they also show a higher propensity to pay out cash through repurchases. These findings indicate that firms have gradually substituted repurchases for dividends. Our results also suggest that before 1983, regulatory constraints inhibited firms from aggressively repurchasing shares.",
+            "link": "https://doi.org/10.1111/1540-6261.00474"
+        },
+        {
+            "no": "7",
+            "title": "Do Bonds Span the Fixed Income Markets? Theory and Evidence for Unspanned Stochastic Volatility",
+            "date": "17 December 2002",
+            "author": [
+                "Pierre Collin\u2010Dufresne",
+                "Robert S. Goldstein"
+            ],
+            "abstract": "Most term structure models assume bond markets are complete, that is, that all fixed income derivatives can be perfectly replicated using solely bonds. How ever, we find that, in practice, swap rates have limited explanatory power for returns on at\u2010the\u2010money straddles\u2014portfolios mainly exposed to volatility risk. We term this empirical feature unspanned stochastic volatility (USV). While USV can be captured within an HJM framework, we demonstrate that bivariate models cannot exhibit USV. We determine necessary and sufficient conditions for trivariate Markov affine systems to exhibit USV. For such USV models, bonds alone may not be sufficient to identify all parameters. Rather, derivatives are needed.",
+            "link": "https://doi.org/10.1111/1540-6261.00475"
+        },
+        {
+            "no": "8",
+            "title": "Explaining the Diversification Discount",
+            "date": "17 December 2002",
+            "author": [
+                "Jose Manuel Campa",
+                "Simi Kedia"
+            ],
+            "abstract": "This paper argues that the documented discount on diversified firms is not per se evidence that diversification destroys value. Firms choose to diversify. We use three alternative econometric techniques to control for the endogeneity of the diversification decision, and find evidence supporting the selfselection of diversifying firms. We find a strong negative correlation between a firms choice to diversify and firm value. The diversification discount always drops, and sometimes turns into a premium. There also exists evidence of selfselection by refocusing firms. These results point to the importance of explicitly modeling the endogeneity of the diversification status in analyzing its effect on firm value.",
+            "link": "https://doi.org/10.1111/1540-6261.00476"
+        },
+        {
+            "no": "9",
+            "title": "What Do Returns to Acquiring Firms Tell Us? Evidence from Firms That Make Many Acquisitions",
+            "date": "17 December 2002",
+            "author": [
+                "Kathleen Fuller",
+                "Jeffry Netter",
+                "Mike Stegemoller"
+            ],
+            "abstract": "We study shareholder returns for firms that acquired five or more public, private, and/or subsidiary targets within a short time period. Since the same bidder chooses different types of targets and methods of payment, any variation in returns must be due to the characteristics of the target and the bid. Results indicate bidder shareholders gain when buying a private firm or subsidiary but lose when purchasing a public firm. Further, the return is greater the larger the target and if the bidder offers stock. These results are consistent with a liquidity discount, and tax and control effects in this market.",
+            "link": "https://doi.org/10.1111/1540-6261.00477"
+        },
+        {
+            "no": "10",
+            "title": "A Review of IPO Activity, Pricing, and Allocations",
+            "date": "17 December 2002",
+            "author": [
+                "Jay R. Ritter",
+                "Ivo Welch"
+            ],
+            "abstract": "We review the theory and evidence on IPO activity: why firms go public, why they reward first\u2010day investors with considerable underpricing, and how IPOs perform in the long run. Our perspective is threefold: First, we believe that many IPO phenomena are not stationary. Second, we believe research into share allocation issues is the most promising area of research in IPOs at the moment. Third, we argue that asymmetric information is not the primary driver of many IPO phenomena. Instead, we believe future progress in the literature will come from nonrational and agency conflict explanations. We describe some promising such alternatives.",
+            "link": "https://doi.org/10.1111/1540-6261.00478"
+        },
+        {
+            "no": "11",
+            "title": "Minutes of the Annual Membership Meeting",
+            "date": "17 December 2002",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00061-i1"
+        },
+        {
+            "no": "12",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "17 December 2002",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00380-i1"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of The Journal of Finance for the Year 2001",
+            "date": "17 December 2002",
+            "author": [
+                "Richard C. Green"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00481"
+        },
+        {
+            "no": "14",
+            "title": "ANNOUNCEMENT",
+            "date": "18 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00682.x"
+        },
+        {
+            "no": "15",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "18 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00683.x"
+        },
+        {
+            "no": "16",
+            "title": "Back Matter",
+            "date": "18 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00684.x"
+        }
+    ]
+}

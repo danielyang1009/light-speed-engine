@@ -1,0 +1,291 @@
+{
+    "journal": "JF",
+    "volume": "42",
+    "issue": "3",
+    "date": "July 1987",
+    "page": "Pages: i-vi, 483-808, vii-xvii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "July 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00710.x"
+        },
+        {
+            "no": "2",
+            "title": "A Simple Model of Capital Market Equilibrium with Incomplete Information",
+            "date": "July 1987",
+            "author": [
+                "ROBERT C. MERTON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04565.x"
+        },
+        {
+            "no": "3",
+            "title": "Potential Competition And Actual Competition In Equity Options",
+            "date": "July 1987",
+            "author": [
+                "ROBERT NEAL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04566.x"
+        },
+        {
+            "no": "4",
+            "title": "Trading Mechanisms and Stock Returns: An Empirical Investigation",
+            "date": "July 1987",
+            "author": [
+                "YAKOV AMIHUD",
+                "HAIM MENDELSON"
+            ],
+            "abstract": "This paper examines the effects of the mechanism by which securities are traded on their price behavior. We compare the behavior of open\u2010to\u2010open and close\u2010to\u2010close returns on NYSE stocks, given the differences in execution methods applied in the opening and closing transactions. Opening returns are found to exhibit greater dispersion, greater deviations from normality and a more negative and significant autocorrelation pattern than closing returns. We study the effects of the bid\u2010ask spread and the price\u2010adjustment process on the estimated return variances and covariances and discuss the associated biases. We conclude that the trading mechanism has a significant effect on stock price behavior.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04567.x"
+        },
+        {
+            "no": "5",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "MAUREEN O'HARA"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04568.x"
+        },
+        {
+            "no": "6",
+            "title": "Further Evidence On Investor Overreaction and Stock Market Seasonality",
+            "date": "July 1987",
+            "author": [
+                "WERNER F. M. De BONDT",
+                "RICHARD H. THALER"
+            ],
+            "abstract": "In a previous paper, we found systematic price reversals for stocks that experience extreme long\u2010term gains or losses: Past losers significantly outperform past winners. We interpreted this finding as consistent with the behavioral hypothesis of investor overreaction. In this follow\u2010up paper, additional evidence is reported that supports the overreaction hypothesis and that is inconsistent with two alternative hypotheses based on firm size and differences in risk, as measured by CAPM\u2010betas. The seasonal pattern of returns is also examined. Excess returns in January are related to both short\u2010term and long\u2010term past performance, as well as to the previous year market return.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04569.x"
+        },
+        {
+            "no": "7",
+            "title": "Growth Opportunities and Risk\u2010Taking by Financial Intermediaries",
+            "date": "July 1987",
+            "author": [
+                "RICHARD J. HERRING",
+                "PRASHANT VANKUDRE"
+            ],
+            "abstract": "We show that growth opportunities which cannot be converted to cash under conditions of financial distress\n(\nG\nz\n)\nare a critical determinant of an intermediary's choice of risk. Financial institutions in which\nG\nz\nis a low proportion of total assets will be much more likely to engage in go\u2010for\u2010broke behavior. The model leads to a reevaluation of the effectiveness of several traditional remedies for dealing with banks that take excessive risks such as raising insurance premiums, intervening before capital is depleted, and restricting investment options. The model also has implications about a new approach to the examination of financial intermediaries.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04570.x"
+        },
+        {
+            "no": "8",
+            "title": "Orthogonal Frontiers and Alternative Mean\u2010Variance Efficiency Tests",
+            "date": "July 1987",
+            "author": [
+                "BRUCE N. LEHMANN"
+            ],
+            "abstract": "This paper catalogues properties of minimum norm orthogonal portfolios: portfolios which minimize a quadratic objective function and have returns uncorrelated with those of a candidate portfolio that is not mean\u2010variance efficient. The analysis shows that the dollar versions of these portfolios correspond to estimators of zero beta rates based on alternative statistical criteria and grouping procedures while costless orthogonal portfolios represent candidate mean\u2010variance efficiency tests. It also develops inference procedures for zero and unit net investment portfolios of individual securities (instead of grouped portfolios) that have zero expected betas. The resulting mean\u2010variance efficiency tests are reasonably insensitive to the underlying statistical assumptions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04571.x"
+        },
+        {
+            "no": "9",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "SHMUEL KANDEL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04572.x"
+        },
+        {
+            "no": "10",
+            "title": "Risk\u2010Shifting Incentives and Signalling Through Corporate Capital Structure",
+            "date": "July 1987",
+            "author": [
+                "KOSE JOHN"
+            ],
+            "abstract": "This paper examines optimal corporate financing arrangements under asymmetric information for different patterns of temporal resolution of uncertainty in the underlying technology. An agency problem, a signalling problem and an agency\u2010signalling problem arise as special cases. The associated informational equilibria and the optimal financing arrangements are characterized and compared. In the agency\u2010signalling equilibrium the private information of corporate insiders at the time of financing is signalled through capital structure choices which deviate optimally from agency\u2010cost minimizing financing arrangements, which in turn induce risk\u2010shifting incentives in the investment policy. In the pure signalling case the equilibrium is characterized by direct contractual precommitments to implement investment policies which are riskier than pareto\u2010optimal levels. Empirical implications for debt covenants and the announcement effect of investment policies and leverage increasing transactions on existing stock and bond prices are explicitly derived.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04573.x"
+        },
+        {
+            "no": "11",
+            "title": "Asset Writedowns: Managerial Incentives and Security Returns",
+            "date": "July 1987",
+            "author": [
+                "JOHN S. STRONG",
+                "JOHN R. MEYER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04574.x"
+        },
+        {
+            "no": "12",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "ANJAN V. THAKOR"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04575.x"
+        },
+        {
+            "no": "13",
+            "title": "Credit Granting: A Comparative Analysis of Classification Procedures",
+            "date": "July 1987",
+            "author": [
+                "VENKAT SRINIVASAN",
+                "YONG H. KIM"
+            ],
+            "abstract": "Financial classification issues, and particularly the financial distress problem, continue to be subject to vigorous investigation. The corporate credit granting process has not received as much attention in the literature. This paper examines the relative effectiveness of parametric, nonparametric and judgemental classification procedures on a sample of corporate credit data. The judgemental model is based on the Analytic Hierarchy Process. Evidence indicates that (nonparametric) recursive partitioning methods provide greater information than simultaneous partitioning procedures. The judgemental model is found to perform as well as statistical models. A complementary relationship is proposed between the statistical and the judgemental models as an effective paradigm for granting credit.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04576.x"
+        },
+        {
+            "no": "14",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "ROBERT A. EISENBEIS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04577.x"
+        },
+        {
+            "no": "15",
+            "title": "Death and Taxes: The Market for Flower Bonds",
+            "date": "July 1987",
+            "author": [
+                "DAVID MAYERS",
+                "CLIFFORD W. SMITH Jr."
+            ],
+            "abstract": "Certain U.S. Government securities, known as flower bonds, can be redeemed at par plus accrued interest for the purpose of paying estate taxes, if held at the time of death. Thus, a flower bond, selling at a discount, is like a straight bond plus a life insurance policy. An equilibrium derived from a rational flower bond pricing model implies the existence of clienteles: individuals with the highest death probabilities hold the deepest discount flower bonds. The empirical implication, that bonds with the deepest discount should be redeemed at the fastest rate, is tested and the results support the proposition.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04578.x"
+        },
+        {
+            "no": "16",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "ROBERT C. WITT"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04579.x"
+        },
+        {
+            "no": "17",
+            "title": "The Choice of Issuance Procedure and the Cost of Competitive and Negotiated Underwriting: an Examination of the Impact of Rule 50",
+            "date": "July 1987",
+            "author": [
+                "RICHARD L. SMITH"
+            ],
+            "abstract": "Previous research suggests that firms choose negotiated issuance over competitive despite its apparently higher net interest cost. This result is shown to arise partly from failure to correct for a selectivity bias in the choice of issuance procedures. Two stage analysis is used in a model that includes qualitative and limited dependent variables to re\u2010estimate the net interest cost difference between competitive and negotiated issues. Results support the hypothesis that the choice of issuance procedure is consistent with shareholder wealth maximization. Examination of debt issues subject to Rule 50 of the Public Utility Holding Company Act indicates that the regulation, as applied, is not effective.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04580.x"
+        },
+        {
+            "no": "18",
+            "title": "Gains from International Diversification: 1968\u201385 Returns on Portfolios of Stocks and Bonds",
+            "date": "July 1987",
+            "author": [
+                "ROBERT R. GRAUER",
+                "NILS H. HAKANSSON"
+            ],
+            "abstract": "This paper applies the multi\u2010period investment model to a universe of international securities on the basis of the simple probability assessment approach. Our principal findings are: 1) the gains from including non\u2010U.S. asset categories in the universe were remarkably large (in some cases statistically significant), especially for the highly risk\u2010averse strategies, 2) the gains from removing the no leverage constraint were more substantial than they were in the absence of non\u2010U.S. securities, and 3) there is strong evidence of market segmentation in that the optimal levels of investment in U.S. securities were mostly zero in the presence of the non\u2010U.S. asset categories.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04581.x"
+        },
+        {
+            "no": "19",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "MICHEL CROUHY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04582.x"
+        },
+        {
+            "no": "20",
+            "title": "Effects of Capital Gains Taxation on Life\u2010Cycle Investment and Portfolio Management",
+            "date": "July 1987",
+            "author": [
+                "YVES BALCER",
+                "KENNETH L. JUDD"
+            ],
+            "abstract": "We examine the impact of capital income taxation, both accrual forms of taxation and taxation of realized capital gains, on total savings and the demand for corporate financial instruments. We find that investors may hold both debt and equity in the face of effective collection of capital gains taxation even in a flat tax system. We also find that the two taxes will have substantially different effects on saving and consumption behavior, making it unlikely that the tax structure can be summarized by any single equivalent accrual tax rate.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04583.x"
+        },
+        {
+            "no": "21",
+            "title": "DISCUSSION",
+            "date": "July 1987",
+            "author": [
+                "CHESTER S. SPATT"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04584.x"
+        },
+        {
+            "no": "22",
+            "title": "The Effect of Sequential Information Arrival on Asset Prices: An Experimental Study",
+            "date": "July 1987",
+            "author": [
+                "THOMAS E. COPELAND",
+                "DANIEL FRIEDMAN"
+            ],
+            "abstract": "A complete understanding of security markets requires a simultaneous explanation of price behavior, trading volume, portfolio composition (ie., asset allocation), and bid\u2010ask spreads. In this paper, these variables are observed in a controlled setting\u2014a computerized double auction market, similar to NASDAQ. Our laboratory allows experimental control of information arrival\u2014whether simultaneously or sequentially received, and whether homogeneous or heterogeneous. We compare the price, volume, and share allocations of three market equilibrium models: telepathic rational expectations, which assumes that traders can read each others minds (strong\u2010form market efficiency); ordinary rational expectations, which assumes traders can use (some) market price information, (a type of semi\u2010strong form efficiency); and private information, where traders use no market information. We conclude 1) that stronger\u2010form market models predict equilibrium prices better than weaker\u2010form models, 2) that there were fewer misallocation forecasts in simultaneous information arrival (SIM) environments, 3) that trading volume was significantly higher in SIM environments, 4) and that bid\u2010ask spreads widen significantly when traders are exposed to price uncertainty resulting from information heterogeneity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04585.x"
+        },
+        {
+            "no": "23",
+            "title": "Minutes of the Annual Membership Meeting December 29, 1986",
+            "date": "July 1987",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04586.x"
+        },
+        {
+            "no": "24",
+            "title": "Report of the Executive Secretary and Treasurer: for the Year Ending September 30, 1986",
+            "date": "July 1987",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04587.x"
+        },
+        {
+            "no": "25",
+            "title": "Report of the Managing Editors of the Journal of Finance for 1986",
+            "date": "July 1987",
+            "author": [
+                "EDWIN J. ELTON",
+                "MARTIN J. GRUBER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb04588.x"
+        },
+        {
+            "no": "26",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "July 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00711.x"
+        },
+        {
+            "no": "27",
+            "title": "ANNOUNCEMENTS",
+            "date": "July 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00712.x"
+        },
+        {
+            "no": "28",
+            "title": "Back Matter",
+            "date": "July 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00713.x"
+        }
+    ]
+}

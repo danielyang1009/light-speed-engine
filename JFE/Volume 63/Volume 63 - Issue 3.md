@@ -5,7 +5,7 @@
 ## 1. Mutual fund performance and seemingly unrelated assets
 ### Date
 - Mar 2002
-### Authors
+### Author
 - Ľuboš Pástor
 - Robert F. Stambaugh
 ### Abstract
@@ -16,7 +16,7 @@ Estimates of standard performance measures can be improved by using returns on a
 ## 2. Investing in equity mutual funds
 ### Date
 - Mar 2002
-### Authors
+### Author
 - Ľuboš Pástor
 - Robert F. Stambaugh
 ### Abstract
@@ -27,7 +27,7 @@ We construct optimal portfolios of equity funds by combining historical returns 
 ## 3. Do after-tax returns affect mutual fund inflows?
 ### Date
 - Mar 2002
-### Authors
+### Author
 - Daniel Bergstresser
 - James Poterba
 ### Abstract
@@ -38,7 +38,7 @@ This paper explores the relationship between the after-tax returns that taxable 
 ## 4. Expectation puzzles, time-varying risk premia, and affine models of the term structure
 ### Date
 - Mar 2002
-### Authors
+### Author
 - Qiang Dai
 - Kenneth J. Singleton
 ### Abstract
@@ -49,7 +49,7 @@ Linear projections of returns on the slope of the yield curve have contradicted 
 ## 5. Asymmetric correlations of equity portfolios
 ### Date
 - Mar 2002
-### Authors
+### Author
 - Andrew Ang
 - Joseph Chen
 ### Abstract
@@ -60,7 +60,7 @@ Correlations between U.S. stocks and the aggregate U.S. market are much greater 
 ## 6. Index
 ### Date
 - Mar 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link

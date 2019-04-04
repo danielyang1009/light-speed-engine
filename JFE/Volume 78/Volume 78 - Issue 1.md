@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Dynamic risk management: Theory and evidence
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Frank Fehle
 - Sergey Tsyplakov
 ### Abstract
@@ -25,7 +25,7 @@ We present and test an infinite-horizon, continuous-time model of a firm that ca
 ## 3. Stock price clustering on option expiration dates
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Sophie Xiaoyan Ni
 - Neil D. Pearson
 - Allen M. Poteshman
@@ -37,7 +37,7 @@ This paper presents striking evidence that option trading changes the prices of 
 ## 4. You can’t always get what you want: Trade-size clustering and quantity choice in liquidity
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Pamela C. Moulton
 ### Abstract
 This paper examines whether investors care more about trading their exact quantity demands at some times than at others. Using a new data set of foreign exchange transactions, I find that customers trade more precise quantities at quarter-end, as evidenced by less trade-size clustering. Customers trade more odd lots and fewer round lots, while the number of trades and total volume are not significantly changed. I also find that the price impact of order flow is greater when customers care more about trading precise quantities. This work sheds new light on trade-size clustering and offers a potential explanation for time-series and cross-sectional variation in common liquidity measures.
@@ -47,7 +47,7 @@ This paper examines whether investors care more about trading their exact quanti
 ## 5. Crossborder dividend taxation and the preferences of taxable and nontaxable investors: Evidence from Canada
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Susan E.K. Christoffersen
 - Christopher C. Géczy
 - David K. Musto
@@ -60,7 +60,7 @@ We consider how fund managers respond to the conflicting preferences of their in
 ## 6. Explaining the size of the mutual fund industry around the world
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Ajay Khorana
 - Henri Servaes
 - Peter Tufano
@@ -72,7 +72,7 @@ This paper studies the mutual fund industry in 56 countries and examines where t
 ## 7. Is value riskier than growth?
 ### Date
 - Dec 2004
-### Authors
+### Author
 - Ralitsa Petkova
 - Lu Zhang
 ### Abstract
@@ -83,7 +83,7 @@ We study the relative risk of value and growth stocks. We find that time-varying
 ## 8. Unchecked intermediaries: Price manipulation in an emerging stock market
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Asim Ijaz Khwaja
 - Atif Mian
 ### Abstract

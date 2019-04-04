@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The dark side of financial innovation: A case study of the pricing of a retail financial product
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Brian J. Henderson
 - Neil D. Pearson
 ### Abstract
@@ -25,7 +25,7 @@ The offering prices of 64 issues of a popular retail structured equity product w
 ## 3. Higher risk, lower returns: What hedge fund investors really earn
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Ilia D. Dichev
 - Gwen Yu
 ### Abstract
@@ -36,7 +36,7 @@ The returns of hedge fund investors depend not only on the returns of the funds 
 ## 4. Banking system control, capital allocation, and economy performance
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Randall Morck
 - M. Deniz Yavuz
 - Bernard Yeung
@@ -48,7 +48,7 @@ We observe less efficient capital allocation in countries whose banking systems 
 ## 5. Institutional stock trading on loan market information
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Victoria Ivashina
 - Zheng Sun
 ### Abstract
@@ -59,7 +59,7 @@ One of the most important developments in the corporate loan market over the pas
 ## 6. Asymmetric information, adverse selection, and the pricing of CMBS
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Xudong An
 - Yongheng Deng
 - Stuart A. Gabriel
@@ -71,7 +71,7 @@ We demonstrate that asymmetric information between sellers (loan originators) an
 ## 7. Media ownership, concentration and corruption in bank lending
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Joel F. Houston
 - Chen Lin
 - Yue Ma
@@ -83,7 +83,7 @@ Building on the pioneering study by Beck, Demirguc-Kunt, and Levine (2006), this
 ## 8. A model of dynamic compensation and capital structure
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Zhiguo He
 ### Abstract
 This paper studies the optimal compensation problem between shareholders and the agent in the Leland (1994) capital structure model, and finds that the debt-overhang effect on the endogenous managerial incentives lowers the optimal leverage. Consistent with data, our model delivers a negative relation between pay-performance sensitivity and firm size, and the interaction between debt-overhang and agency issue leads smaller firms to take less leverage relative to their larger peers. During financial distress, a firm's cash flow becomes more sensitive to underlying performance shocks due to debt-overhang. The implications on credit spreads and debt covenants are also considered.
@@ -93,7 +93,7 @@ This paper studies the optimal compensation problem between shareholders and the
 ## 9. Investor sentiment and the mean–variance relation
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Jianfeng Yu
 - Yu Yuan
 ### Abstract
@@ -104,7 +104,7 @@ This study shows the influence of investor sentiment on the market's mean–vari
 ## 10. Country-specific sentiment and security prices
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Byoung-Hyoun Hwang
 ### Abstract
 I study the effect of country-specific sentiment on security prices. I provide evidence that a country’s popularity among Americans affects US investors’ demand for securities from that country and causes security prices to deviate from their fundamental values. Moreover, I find that country popularity is positively associated with the intensity of US cross-border mergers and acquisitions activity, suggesting that country popularity also affects firms’ investment decisions.
@@ -114,7 +114,7 @@ I study the effect of country-specific sentiment on security prices. I provide e
 ## 11. Firm life expectancy and the heterogeneity of the book-to-market effect
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Huafeng (Jason) Chen
 ### Abstract
 I argue that the reason the book-to-market effect is stronger in small stocks is because smaller stocks generally have shorter life expectancy and therefore shorter equity duration. I build a model in which the book-to-market effect is stronger in stocks with shorter life expectancy. Empirically, I use delisting probability as my proxy for life expectancy. The data support my model's central prediction and its additional implications for stock return and variance. My results provide a rational explanation for the heterogeneity of the book-to-market effect, evidence previously taken as support for behavioral explanations.
@@ -124,7 +124,7 @@ I argue that the reason the book-to-market effect is stronger in small stocks is
 ## 12. The disparity between long-term and short-term forecasted earnings growth
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Zhi Da
 - Mitch Warachka
 ### Abstract
@@ -135,7 +135,7 @@ We find the disparity between long-term and short-term analyst forecasted earnin
 ## 13. Ex post: The investment performance of collectible stamps
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Elroy Dimson
 - Christophe Spaenjers
 ### Abstract

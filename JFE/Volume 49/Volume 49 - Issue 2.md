@@ -5,7 +5,7 @@
 ## 1. Book-to-market ratios as predictors of market returns1
 ### Date
 - 1 August
-### Authors
+### Author
 - Jeffrey Pontiff
 - Lawrence D. Schall
 ### Abstract
@@ -16,7 +16,7 @@ The book-to-market ratio of the Dow Jones Industrial Average predicts market ret
 ## 2. Earnings signals in fixed-price and Dutch auction self-tender offers1
 ### Date
 - 1 August
-### Authors
+### Author
 - Erik Lie
 - John J. McConnell
 ### Abstract
@@ -27,7 +27,7 @@ Studies by Vermaelen (1981) and others indicate that the positive excess stock r
 ## 3. Share repurchases and firm performance:
 ### Date
 - 1 August
-### Authors
+### Author
 - Tom Nohel
 - Vefa Tarhan
 ### Abstract
@@ -38,7 +38,7 @@ In this paper we examine tender offer share repurchases to differentiate between
 ## 4. Glamour, value and the post-acquisition performance of acquiring firms1
 ### Date
 - 1 August
-### Authors
+### Author
 - P Raghavendra Rau
 - Theo Vermaelen
 ### Abstract
@@ -49,7 +49,7 @@ This paper uses a methodology robust to recent criticisms of standard long-horiz
 ## 5. The economics of parent-subsidiary mergers:
 ### Date
 - 1 August
-### Authors
+### Author
 - Myron B. Slovin
 - Marie E. Sushka
 ### Abstract

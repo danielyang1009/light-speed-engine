@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Extrapolation and bubbles
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Nicholas Barberis
 - Robin Greenwood
 - Lawrence Jin
@@ -27,7 +27,7 @@ We present an extrapolative model of bubbles. In the model, many investors form 
 ## 3. Spillovers from good-news and other bankruptcies: Real effects and price responses
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Nina Baranchuk
 - Michael J. Rebello
 ### Abstract
@@ -38,7 +38,7 @@ We model debt restructurings that could endogenously end in bankruptcy, and stud
 ## 4. Warehouse banking
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Jason Roderick Donaldson
 - Giorgia Piacentino
 - Anjan Thakor
@@ -50,7 +50,7 @@ We develop a theory of banking that explains why banks started out as commoditie
 ## 5. Cyclical investment behavior across financial institutions
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Yannick Timmer
 ### Abstract
 This paper contrasts the investment behavior of different financial institutions in debt securities as a response to past returns. For identification, I use unique security-level data from the German Microdatabase Securities Holdings Statistics. Banks and investment funds respond in a procyclical manner to past security-specific holding period returns. In contrast, insurance companies and pension funds act countercyclically; they buy when returns have been negative and sell after high returns. The heterogeneous responses can be explained by differences in their balance sheet structure. I exploit within-sector variation in the financial constraint to show that tighter constraints are associated with relatively more procyclical investment behavior.
@@ -60,7 +60,7 @@ This paper contrasts the investment behavior of different financial institutions
 ## 6. Financial intermediation in private equity: How well do funds of funds perform?
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Robert S. Harris
 - Tim Jenkinson
 - Steven N. Kaplan
@@ -73,7 +73,7 @@ This paper focuses on funds of funds (FOFs) as a form of financial intermediatio
 ## 7. Capital gains taxation and the cost of capital: Evidence from unanticipated cross-border transfers of tax base
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Harry Huizinga
 - Johannes Voget
 - Wolf Wagner
@@ -85,7 +85,7 @@ In a cross-border takeover, the tax base associated with future capital gains is
 ## 8. What makes the bonding stick? A natural experiment testing the legal bonding hypothesis
 ### Date
 - May 2018
-### Authors
+### Author
 - Amir N. Licht
 - Christopher Poliquin
 - Jordan I. Siegel
@@ -98,7 +98,7 @@ We use a US Supreme Court case, Morrison v. National Australia Bank (2010), as a
 ## 9. Non-myopic betas
 ### Date
 - May 2018
-### Authors
+### Author
 - Semyon Malamud
 - Grigory Vilkov
 ### Abstract
@@ -109,7 +109,7 @@ An overlapping generations model with investors having heterogeneous investment 
 ## 10. Tax distortions and bond issue pricing
 ### Date
 - May 2018
-### Authors
+### Author
 - Mattia Landoni
 ### Abstract
 Original issue premium (OIP) bonds are the norm in the US tax-exempt market but very rare in the taxable market. A tax subsidy helps explain this disparity. Unlike bonds issued at par or discount, the price of OIP bonds can fall and yet remain above par, providing secondary market buyers with more tax-exempt coupon and less taxable market discount gain. The subsidy for OIP bonds explains additional, previously undocumented empirical facts. In a calibration exercise, the subsidy’s expected cost to the U.S. Treasury is estimated at $1.7 billion per year.
@@ -119,7 +119,7 @@ Original issue premium (OIP) bonds are the norm in the US tax-exempt market but 
 ## 11. Market intraday momentum
 ### Date
 - May 2018
-### Authors
+### Author
 - Lei Gao
 - Yufeng Han
 - Sophia Zhengzi Li

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Options trading activity and firm valuation
 ### Date
 - Feb 2009
-### Authors
+### Author
 - Richard Roll
 - Eduardo Schwartz
 - Avanidhar Subrahmanyam
@@ -26,7 +26,7 @@ Options may have an effect on firm value because they help complete markets and 
 ## 3. Hidden liquidity: An analysis of order exposure strategies in electronic stock markets
 ### Date
 - Feb 2009
-### Authors
+### Author
 - Hendrik Bessembinder
 - Marios Panayides
 - Kumar Venkataraman
@@ -38,7 +38,7 @@ Many stock exchanges choose to reduce market transparency by allowing traders to
 ## 4. The role of institutional investors in seasoned equity offerings
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Thomas J. Chemmanur
 - Shan He
 - Gang Hu
@@ -50,7 +50,7 @@ Do institutional investors possess private information about seasoned equity off
 ## 5. Predatory mortgage lending
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Philip Bond
 - David K. Musto
 - Bilge Yilmaz
@@ -62,7 +62,7 @@ Regulators express growing concern over predatory loans, which we take to mean l
 ## 6. Risk sharing, finance, and institutions in international portfolios
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Marcel Fratzscher
 - Jean Imbs
 ### Abstract
@@ -73,7 +73,7 @@ We develop a standard model to show how transaction costs in international inves
 ## 7. Cashflow risk, systematic earnings revisions, and the cross-section of stock returns
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Zhi Da
 - Mitchell Craig Warachka
 ### Abstract
@@ -84,7 +84,7 @@ The returns of stocks are partially driven by changes in their expected cashflow
 ## 8. Institutional industry herding
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Nicole Choi
 - Richard W. Sias
 ### Abstract
@@ -95,7 +95,7 @@ We examine whether institutional investors follow each other into and out of the
 ## 9. Hedging and competition
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Tingjun Liu
 - Christine A. Parlour
 ### Abstract

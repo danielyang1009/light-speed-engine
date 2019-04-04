@@ -5,7 +5,7 @@
 ## 1. The adaptive mesh model: a new approach to efficient option pricing
 ### Date
 - Sep 1999
-### Authors
+### Author
 - Stephen Figlewski
 - Bin Gao
 ### Abstract
@@ -16,7 +16,7 @@ Most derivative securities must be priced by numerical techniques. These models 
 ## 2. Understanding the determinants of managerial ownership and the link between ownership and performance
 ### Date
 - Sep 1999
-### Authors
+### Author
 - Charles P. Himmelberg
 - R.Glenn Hubbard
 - Darius Palia
@@ -28,7 +28,7 @@ Both managerial ownership and performance are endogenously determined by exogeno
 ## 3. Capital gains tax rates and the cost of capital for small business: evidence from the IPO market
 ### Date
 - Sep 1999
-### Authors
+### Author
 - David A. Guenther
 - Michael Willenborg
 ### Abstract
@@ -39,7 +39,7 @@ We examine the issue prices of small initial public offerings around the 1993 ta
 ## 4. Valuing IPOs
 ### Date
 - Sep 1999
-### Authors
+### Author
 - Moonchul Kim
 - Jay R. Ritter
 ### Abstract
@@ -50,7 +50,7 @@ The use of accounting information in conjunction with comparable firm multiples 
 ## 5. Investor flows and the assessed performance of open-end mutual funds
 ### Date
 - Sep 1999
-### Authors
+### Author
 - Roger M. Edelen
 ### Abstract
 Open-end equity funds provide a diversified equity positions with little direct cost to investors for liquidity. This study documents a statistically significant indirect cost in the form of a negative relation between a fund's abnormal return and investor flows. Controlling for this indirect cost of liquidity changes the average fund's abnormal return (net of expenses) from a statistically significant −1.6% per year to a statistically insignificant −0.2% and also fully explains the negative market-timing performance found in this and other studies of mutual fund returns. Thus, the common finding of negative return performance at open-end mutual funds is attributable to the costs of liquidity-motivated trading.

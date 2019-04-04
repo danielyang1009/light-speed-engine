@@ -1,0 +1,245 @@
+{
+    "journal": "JF",
+    "volume": "57",
+    "issue": "1",
+    "date": "February 2002",
+    "page": "Pages: i-vi, 1-550, vii-xxii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00706.x"
+        },
+        {
+            "no": "2",
+            "title": "Market Timing and Capital Structure",
+            "date": "17 December 2002",
+            "author": [
+                "Malcolm Baker",
+                "Jeffrey Wurgler"
+            ],
+            "abstract": "It is well known that firms are more likely to issue equity when their market values are high, relative to book and past market values, and to repurchase equity when their market values are low. We document that the resulting effects on capital structure are very persistent. As a consequence, current capital structure is strongly related to historical market values. The results suggest the theory that capital structure is the cumulative outcome of past attempts to time the equity market.",
+            "link": "https://doi.org/10.1111/1540-6261.00414"
+        },
+        {
+            "no": "3",
+            "title": "Banks as Liquidity Providers: An Explanation for the Coexistence of Lending and Deposit\u2010taking",
+            "date": "17 December 2002",
+            "author": [
+                "Anil K. Kashyap",
+                "Raghuram Rajan",
+                "Jeremy C. Stein"
+            ],
+            "abstract": "What ties together the traditional commercial banking activities of deposit\u2010taking and lending? We argue that since banks often lend via commitments, their lending and deposit\u2010taking may be two manifestations of one primitive function: the provision of liquidity on demand. There will be synergies between the two activities to the extent that both require banks to hold large balances of liquid assets: If deposit withdrawals and commitment takedowns are imperfectly correlated, the two activities can share the costs of the liquid\u2010asset stockpile. We develop this idea with a simple model, and use a variety of data to test the model empirically.",
+            "link": "https://doi.org/10.1111/1540-6261.00415"
+        },
+        {
+            "no": "4",
+            "title": "The World Price of Insider Trading",
+            "date": "17 December 2002",
+            "author": [
+                "Utpal Bhattacharya",
+                "Hazem Daouk"
+            ],
+            "abstract": "The existence and the enforcement of insider trading laws in stock markets is a phenomenon of the 1990s. A study of the 103 countries that have stock markets reveals that insider trading laws exist in 87 of them, but enforcement\u2014as evidenced by prosecutions\u2014has taken place in only 38 of them. Before 1990, the respective numbers were 34 and 9. We find that the cost of equity in a country, after controlling for a number of other variables, does not change after the introduction of insider trading laws, but decreases significantly after the first prosecution.",
+            "link": "https://doi.org/10.1111/1540-6261.00416"
+        },
+        {
+            "no": "5",
+            "title": "Mutual Fund Advisory Contracts: An Empirical Investigation",
+            "date": "17 December 2002",
+            "author": [
+                "Daniel N. Deli"
+            ],
+            "abstract": "We investigate marginal compensation rates in mutual fund advisory contracts and find the following. Equity and foreign fund advisors receive higher marginal compensation than debt and domestic fund advisors. Advisors of funds with greater turnover receive higher marginal compensation. Also, closedend fund advisors receive higher marginal compensation than open\u2010end fund advisors. Finally, we find that marginal compensation is lower for advisors of large funds and members of large fund families. We argue that these differences in marginal compensation reflect differences in advisor marginal product, differences in the difficulty of monitoring performance, differences in control environments, and scale economies.",
+            "link": "https://doi.org/10.1111/1540-6261.00417"
+        },
+        {
+            "no": "6",
+            "title": "Economic Distress, Financial Distress, and Dynamic Liquidation",
+            "date": "17 December 2002",
+            "author": [
+                "Matthias Kahl"
+            ],
+            "abstract": "Many firms emerging from a debt restructuring remain highly leveraged, continue to invest little, perform poorly, and often reenter financial distress. The existing literature interprets these findings as inefficiencies arising from coordination problems among many creditors or an inefficient design of bankruptcy law. In contrast, this paper emphasizes that creditors lack the information that is needed to make quick and correct liquidation decisions. It can explain the long\u2010term nature of financial distress solely as the result of dynamic learning strategies of creditors and suggests that it may be an unavoidable byproduct of an efficient resolution of financial distress.",
+            "link": "https://doi.org/10.1111/1540-6261.00418"
+        },
+        {
+            "no": "7",
+            "title": "Venture Capital and the Professionalization of Start\u2010Up Firms: Empirical Evidence",
+            "date": "17 December 2002",
+            "author": [
+                "Thomas Hellmann",
+                "Manju Puri"
+            ],
+            "abstract": "This paper examines the impact venture capital can have on the development of new firms. Using a hand\u2010collected data set on Silicon Valley start\u2010ups, we find that venture capital is related to a variety of professionalization measures, such as human resource policies, the adoption of stock option plans, and the hiring of a marketing VP. Venture\u2010capital\u2010backed companies are also more likely and faster to replace the founder with an outside CEO, both in situations that appear adversarial and those mutually agreed to. The evidence suggests that venture capitalists play roles over and beyond those of traditional financial intermediaries.",
+            "link": "https://doi.org/10.1111/1540-6261.00419"
+        },
+        {
+            "no": "8",
+            "title": "Pass\u2010through and Exposure",
+            "date": "17 December 2002",
+            "author": [
+                "Gordon M. Bodnar",
+                "Bernard Dumas",
+                "Richard C. Marston"
+            ],
+            "abstract": "Firms differ in the extent to which they \u201cpass through\u201d changes in exchange rates into foreign currency prices and in their \u201cexposure\u201d to exchange rates\u2014the responsiveness of their profits to changes in exchange rates. Because pricing affects profitability, a firm's pass\u2010through and exposure should be related. This paper develops models of exporting firms under imperfect competition to study these related phenomena. From these models we derive the optimal pass\u2010through decisions and the resulting exchange rate exposure. The models are estimated on eight Japanese export industries using both the price data pass\u2010through and financial data for exposure.",
+            "link": "https://doi.org/10.1111/1540-6261.00420"
+        },
+        {
+            "no": "9",
+            "title": "What Drives Firm\u2010Level Stock Returns?",
+            "date": "17 December 2002",
+            "author": [
+                "Tuomo Vuolteenaho"
+            ],
+            "abstract": "I use a vector autoregressive model (VAR) to decompose an individual firm's stock return into two components: changes in cash\u2010flow expectations (i.e., cash\u2010flow news) and changes in discount rates (i.e., expected\u2010return news). The VAR yields three main results. First, firm\u2010level stock returns are mainly driven by cash\u2010flow news. For a typical stock, the variance of cash\u2010flow news is more than twice that of expected\u2010return news. Second, shocks to expected returns and cash flows are positively correlated for a typical small stock. Third, expected\u2010return\u2010news series are highly correlated across firms, while cash\u2010flow news can largely be diversified away in aggregate portfolios.",
+            "link": "https://doi.org/10.1111/1540-6261.00421"
+        },
+        {
+            "no": "10",
+            "title": "Government Ownership of Banks",
+            "date": "17 December 2002",
+            "author": [
+                "Rafael La Porta",
+                "Florencio Lopez\u2010De\u2010Silanes",
+                "Andrei Shleifer"
+            ],
+            "abstract": "We assemble data on government ownership of banks around the world. The data show that such ownership is large and pervasive, and higher in countries with low levels of per capita income, backward financial systems, interventionist and inefficient governments, and poor protection of property rights. Higher government ownership of banks in 1970 is associated with slower subsequent financial development and lower growth of per capita income and productivity. This evidence supports \u201cpolitical\u201d theories of the effects of government ownership of firms.",
+            "link": "https://doi.org/10.1111/1540-6261.00422"
+        },
+        {
+            "no": "11",
+            "title": "Portfolio Choice in the Presence of Personal Illiquid Projects",
+            "date": "17 December 2002",
+            "author": [
+                "Miquel Faig",
+                "Pauline Shum"
+            ],
+            "abstract": "Personal projects, such as a private business or the purchase of a home, influence individuals portfolio choice. We conduct a theoretical analysis of this influence when financial assets are required to provide liquidity to personal projects. Due to this liquidity consideration, individuals behave in a more riskaverse fashion when there is a large penalty for discontinuing or underinvesting in the final stages of the projects. In addition, using data from the 1995 Survey of Consumer Finances, we find that households that are saving to invest in their own businesses or in their own homes indeed have significantly safer financial portfolios.",
+            "link": "https://doi.org/10.1111/1540-6261.00423"
+        },
+        {
+            "no": "12",
+            "title": "The Effects of Banking Mergers on Loan Contracts",
+            "date": "17 December 2002",
+            "author": [
+                "Paola Sapienza"
+            ],
+            "abstract": "This paper studies the effects of banking mergers on individual business borrowers. Using information on individual loan contracts between banks and companies, I analyze the effect of banking consolidation on banks' credit policies. I find that inmarket mergers benefit borrowers if these mergers involve the acquisition of banks with small market shares. Interest rates charged by the consolidated banks decrease, but as the local market share of the acquired bank increases, the efficiency effect is offset by market power. Mergers have different distributional effects across borrowers. When banks become larger, they reduce the supply of loans to small borrowers.",
+            "link": "https://doi.org/10.1111/1540-6261.00424"
+        },
+        {
+            "no": "13",
+            "title": "Nonlinear Pricing Kernels, Kurtosis Preference, and Evidence from the Cross Section of Equity Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Robert F. Dittmar"
+            ],
+            "abstract": "This paper investigates nonlinear pricing kernels in which the risk factor is endogenously determined and preferences restrict the definition of the pricing kernel. These kernels potentially generate the empirical performance of nonlinear and multifactor models, while maintaining empirical power and avoiding ad hoc specifications of factors or functional form. Our test results indicate that preference\u2010restricted nonlinear pricing kernels are both admissible for the cross section of returns and are able to significantly improve upon linear single\u2010 and multifactor kernels. Further, the nonlinearities in the pricing kernel drive out the importance of the factors in the linear multi\u2010factor model.",
+            "link": "https://doi.org/10.1111/1540-6261.00425"
+        },
+        {
+            "no": "14",
+            "title": "Term Premia and Interest Rate Forecasts in Affine Models",
+            "date": "17 December 2002",
+            "author": [
+                "Gregory R. Duffee"
+            ],
+            "abstract": "The standard class of affine models produces poor forecasts of future Treasury yields. Better forecasts are generated by assuming that yields follow random walks. The failure of these models is driven by one of their key features: Compensation for risk is a multiple of the variance of the risk. Thus risk compensation cannot vary independently of interest rate volatility. I also describe a broader class of models. These aessentially affine\u2010 models retain the tractability of standard models, but allow compensation for interest rate risk to vary independently of interest rate volatility. This additional flexibility proves useful in forecasting future yields.",
+            "link": "https://doi.org/10.1111/1540-6261.00426"
+        },
+        {
+            "no": "15",
+            "title": "Ex Ante Costs of Violating Absolute Priority in Bankruptcy",
+            "date": "17 December 2002",
+            "author": [
+                "Lucian Arye Bebchuk"
+            ],
+            "abstract": "A basic question for the design of bankruptcy law concerns whether value should be divided in accordance with absolute priority. Research done in the past decade has suggested that deviations from absolute priority have beneficial ex ante effects. In contrast, this paper shows that ex post deviations from absolute priority also have negative effects on ex ante decisions taken by shareholders. Such deviations aggravate the moral hazard problem with respect to project choice\u2010increasing the equityholders incentive to favor risky projects\u2010as well as with respect to borrowing and dividend decisions.",
+            "link": "https://doi.org/10.1111/1540-6261.00427"
+        },
+        {
+            "no": "16",
+            "title": "The Cadbury Committee, Corporate Performance, and Top Management Turnover",
+            "date": "17 December 2002",
+            "author": [
+                "Jay Dahya",
+                "John J. McConnell",
+                "Nickolaos G. Travlos"
+            ],
+            "abstract": "In 1992, the Cadbury Committee issued the Code of Best Practice which recommends that boards of U.K. corporations include at least three outside directors and that the positions of chairman and CEO be held by different individuals. The underlying presumption was that these recommendations would lead to improved board oversight. We empirically analyze the relationship between CEO turnover and corporate performance. CEO turnover increased following issuance of the Code; the negative relationship between CEO turnover and performance became stronger following the Code's issuance; and the increase in sensitivity of turnover to performance was concentrated among firms that adopted the Code.",
+            "link": "https://doi.org/10.1111/1540-6261.00428"
+        },
+        {
+            "no": "17",
+            "title": "Research Dissemination and Impact: Evidence from Web Site Downloads",
+            "date": "17 December 2002",
+            "author": [
+                "Lee Pinkowitz"
+            ],
+            "abstract": "The Journal of Finance Web site disseminates research expediently to a broad audience. Papers were downloaded 284,170 times from November 1997 to November 1999. The average paper receives 85 downloads per month and is available 10 months before publication. Articles are downloaded more than shorter papers. Lead articles are downloaded more than other articles because they are of greater interest, and they receive an endorsement as the lead. Downloads are positively correlated with citations and may be a useful measure of research impact. Finally, placing forthcoming articles online does not adversely affect subscriptions and may increase the SSCI impact factor.",
+            "link": "https://doi.org/10.1111/1540-6261.00429"
+        },
+        {
+            "no": "18",
+            "title": "Bank Performance around the Introduction of a Section 20 Subsidiary",
+            "date": "17 December 2002",
+            "author": [
+                "Marcia Millon Cornett",
+                "Evren Ors",
+                "Hassan Tehranian"
+            ],
+            "abstract": "As of 1987, commercial banks in the United States were allowed to establish Section 20 subsidiaries to conduct investment\u2010banking activities. A concern of regulators was that these activities would result in a decrease in performance of commercial banks relative to the risk being undertaken. This paper examines the performance of commercial banks around the establishment of a Section 20 subsidiary. We find that Section 20 activities undertaken by banks result in increased industry\u2010adjusted operating cash flow return on assets, due mainly to revenues from noncommercial\u2010banking activities. Further, risk measures for the sample banks do not change significantly.",
+            "link": "https://doi.org/10.1111/1540-6261.00430"
+        },
+        {
+            "no": "19",
+            "title": "Continuous Trading or Call Auctions: Revealed Preferences of Investors at the Tel Aviv Stock Exchange",
+            "date": "17 December 2002",
+            "author": [
+                "Avner Kalay",
+                "Li Wei",
+                "Avi Wohl"
+            ],
+            "abstract": "We use the move of Israeli stocks from call auction trading to continuous trading to show that investors have a preference for stocks that trade continuously. When large stocks move from call auction to continuous trading, the small stocks that still trade by call auction experience a significant loss in volume relative to the overall market volume. As small stocks move to continuous trading, they experience an increase in volume and positive abnormal returns because of the associated increase in liquidity. Overall, though, a move to continuous trading increases the volume of large stocks relative to small stocks.",
+            "link": "https://doi.org/10.1111/1540-6261.00431"
+        },
+        {
+            "no": "20",
+            "title": "Miscellanea",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00432"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00707.x"
+        },
+        {
+            "no": "22",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00708.x"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00709.x"
+        }
+    ]
+}

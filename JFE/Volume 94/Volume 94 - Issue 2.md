@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Option markets and implied volatility: Past versus present
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Scott Mixon
 ### Abstract
 Traders in the nineteenth century appear to have priced options the same way that twenty-first-century traders price options. Empirical regularities relating implied volatility to realized volatility, stock prices, and other implied volatilities (including the volatility skew) are qualitatively the same in both eras. Modern pricing models and centralized exchanges have not fundamentally altered pricing behavior, but they have generated increased trading volume and a much closer conformity in the level of observed and model prices. The major change in pricing is the sharp decline in implied volatility relative to realized volatility, evident immediately upon the opening of the CBOE.
@@ -24,7 +24,7 @@ Traders in the nineteenth century appear to have priced options the same way tha
 ## 3. What drives volatility persistence in the foreign exchange market?
 ### Date
 - Oct 2008
-### Authors
+### Author
 - David Berger
 - Alain Chaboud
 - Erik Hjalmarsson
@@ -36,7 +36,7 @@ We propose a new empirical specification of volatility that links volatility to 
 ## 4. Global market integration: An alternative measure and its application
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Kuntara Pukthuanthong
 - Richard Roll
 ### Abstract
@@ -47,7 +47,7 @@ Global markets seem to be increasingly integrated but there is no well-accepted 
 ## 5. The impact of risk and uncertainty on expected returns
 ### Date
 - Nov 2008
-### Authors
+### Author
 - Evan W. Anderson
 - Eric Ghysels
 - Jennifer L. Juergens
@@ -59,7 +59,7 @@ We study asset pricing in economies featuring both risk and uncertainty. In our 
 ## 6. Technological innovations and aggregate risk premiums
 ### Date
 - Jan 2009
-### Authors
+### Author
 - Po-Hsuan Hsu
 ### Abstract
 In this paper, I propose that technological innovations increase expected stock returns and premiums at the aggregate level. I use aggregate patent data and research and development (R&D) data to measure technological innovations in the U.S., and find that patent shocks and R&D shocks have positive and distinct predictive power for U.S. market returns and premiums. Similar patterns are also found in international data including other G7 countries, China, and India. These findings are consistent with previous empirical studies based on firm-level data, and call for further theoretical explanations.
@@ -69,7 +69,7 @@ In this paper, I propose that technological innovations increase expected stock 
 ## 7. CEO pay and the Lake Wobegon Effect
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Rachel M. Hayes
 - Scott Schaefer
 ### Abstract
@@ -80,7 +80,7 @@ The “Lake Wobegon Effect,” which is widely cited as a potential cause for ri
 ## 8. Women in the boardroom and their impact on governance and performance
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Renée B. Adams
 - Daniel Ferreira
 ### Abstract
@@ -91,7 +91,7 @@ We show that female directors have a significant impact on board inputs and firm
 ## 9. Cross-section of option returns and volatility
 ### Date
 - Jan 2009
-### Authors
+### Author
 - Amit Goyal
 - Alessio Saretto
 ### Abstract
@@ -102,7 +102,7 @@ We study the cross-section of stock option returns by sorting stocks on the diff
 ## 10. Subsidiary debt, capital structure and internal capital markets
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Adam C. Kolasinski
 ### Abstract
 I study external debt issued by operating subsidiaries of diversified firms. Consistent with Kahn and Winton's [2004. Moral hazard and optimal subsidiary structure for financial institutions. Journal of Finance 59, 2537–2575] model, where subsidiary debt mitigates asset substitution, I find firms are more likely to use subsidiary debt when their divisions vary more in risk. Consistent with subsidiary debt mitigating the free cash flow problem, I find that subsidiaries are more likely to have their own external debt when they have fewer growth options and higher cash flow than the rest of the firm. Finally, I find that subsidiary debt mitigates the “corporate socialism” and “poaching” problems modeled in theories of internal capital markets.

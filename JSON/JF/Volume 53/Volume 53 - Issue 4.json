@@ -1,0 +1,183 @@
+{
+    "journal": "JF",
+    "volume": "53",
+    "issue": "4",
+    "date": "August 1998",
+    "page": "Pages: i-vii, 1213-1442, viii-xxviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00531.x"
+        },
+        {
+            "no": "2",
+            "title": "Volume Information",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00530.x"
+        },
+        {
+            "no": "3",
+            "title": "Hayne E. Leland President of the American Finance Association 1997",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00532.x"
+        },
+        {
+            "no": "4",
+            "title": "Agency Costs, Risk Management, and Capital Structure",
+            "date": "17 December 2002",
+            "author": [
+                "Hayne E. Leland"
+            ],
+            "abstract": "The joint determination of capital structure and investment risk is examined. Optimal capital structure reflects both the tax advantages of debt less default costs (Modigliani and Miller (1958, 1963)), and the agency costs resulting from asset substitution (Jensen and Meckling (1976)). Agency costs restrict leverage and debt maturity and increase yield spreads, but their importance is small for the range of environments considered.\nRisk management is also examined. Hedging permits greater leverage. Even when a firm cannot precommit to hedging, it will still do so. Surprisingly, hedging benefits often are greater when agency costs are low.",
+            "link": "https://doi.org/10.1111/0022-1082.00051"
+        },
+        {
+            "no": "5",
+            "title": "Optimal Financial Crises",
+            "date": "17 December 2002",
+            "author": [
+                "Franklin Allen",
+                "Douglas Gale"
+            ],
+            "abstract": "Empirical evidence suggests that banking panics are related to the business cycle and are not simply the result of \u201csunspots.\u201d Panics occur when depositors perceive that the returns on bank assets are going to be unusually low. We develop a simple model of this. In this setting, bank runs can be first\u2010best efficient: they allow efficient risk sharing between early and late withdrawing depositors and they allow banks to hold efficient portfolios. However, if costly runs or markets for risky assets are introduced, central bank intervention of the right kind can lead to a Pareto improvement in welfare.",
+            "link": "https://doi.org/10.1111/0022-1082.00052"
+        },
+        {
+            "no": "6",
+            "title": "An Asymptotic Theory for Estimating Beta\u2010Pricing Models Using Cross\u2010Sectional Regression",
+            "date": "17 December 2002",
+            "author": [
+                "Ravi Jagannathan",
+                "Zhenyu Wang"
+            ],
+            "abstract": "Without the assumption of conditional homoskedasticity, a general asymptotic distribution theory for the two\u2010stage cross\u2010sectional regression method shows that the standard errors produced by the Fama\u2013MacBeth procedure do not necessarily overstate the precision of the risk premium estimates. When factors are misspecified, estimators for risk premiums can be biased, and the t\u2010value of a premium may converge to infinity in probability even when the true premium is zero. However, when a beta\u2010pricing model is misspecified, the t\u2010values for firm characteristics generally converge to infinity in probability, which supports the use of firm characteristics in cross\u2010sectional regressions for detecting model misspecification.",
+            "link": "https://doi.org/10.1111/0022-1082.00053"
+        },
+        {
+            "no": "7",
+            "title": "The Dow Theory: William Peter Hamilton's Track Record Reconsidered",
+            "date": "17 December 2002",
+            "author": [
+                "Stephen J. Brown",
+                "William N. Goetzmann",
+                "Alok Kumar"
+            ],
+            "abstract": "Alfred Cowles' test of the Dow Theory apparently provides strong evidence against the ability of Wall Street's most famous chartist to forecast the stock market. Cowles (1934) analyzes editorials published by the chief exponent of the Dow Theory, William Peter Hamilton. We review Cowles' evidence and find that it supports the contrary conclusion. Hamilton's timing strategies actually yield high Sharpe ratios and positive alphas for the period 1902 to 1929. Neural net modeling to replicate Hamilton's market calls provides interesting insight into the Dow Theory and allows us to examine the properties of the theory itself out of sample.",
+            "link": "https://doi.org/10.1111/0022-1082.00054"
+        },
+        {
+            "no": "8",
+            "title": "The Influence of Institutions on Corporate Governance through Private Negotiations: Evidence from TIAA\u2010CREF",
+            "date": "17 December 2002",
+            "author": [
+                "Willard T. Carleton",
+                "James M. Nelson",
+                "Michael S. Weisbach"
+            ],
+            "abstract": "This paper analyzes the process of private negotiations between financial institutions and the companies they attempt to influence. It relies on a private database consisting of the correspondence between TIAA\u2010CREF and 45 firms it contacted about governance issues between 1992 and 1996. This correspondence indicates that TIAA\u2010CREF is able to reach agreements with targeted companies more than 95 percent of the time. In more than 70 percent of the cases, this agreement is reached without shareholders voting on the proposal. We verify independently that at least 87 percent of the targets subsequently took actions to comply with these agreements.",
+            "link": "https://doi.org/10.1111/0022-1082.00055"
+        },
+        {
+            "no": "9",
+            "title": "Credit Risk in Private Debt Portfolios",
+            "date": "17 December 2002",
+            "author": [
+                "Mark Carey"
+            ],
+            "abstract": "Default, loss severity, and average loss rates for a large sample of privately placed bonds are presented and compared with loss experience for publicly issued bonds. The chance of very large portfolio losses is estimated and some determinants of such losses are analyzed. Results show ex ante riskier classes of private debt perform better on average than public debt. Both diversification and the riskiness of individual portfolio assets influence the bad tail of the portfolio loss distribution. Private placements are similar to corporate loans in that both are monitored private debt. The results are thus relevant to management and securitization of private debt portfolios generally.",
+            "link": "https://doi.org/10.1111/0022-1082.00056"
+        },
+        {
+            "no": "10",
+            "title": "The Declining Credit Quality of U.S. Corporate Debt: Myth or Reality?",
+            "date": "17 December 2002",
+            "author": [
+                "Marshall E. Blume",
+                "Felix Lim",
+                "A. Craig Mackinlay"
+            ],
+            "abstract": "In recent years, the number of downgrades in corporate bond ratings has exceeded the number of upgrades, leading some to conclude that the credit quality of U.S. corporate debt has declined. However, an alternative explanation of this apparent decline in credit quality is that the rating agencies are now using more stringent standards in assigning ratings. An ordered probit analysis of a panel of firms from 1978 through 1995 suggests that rating standards have indeed become more stringent, implying that at least part of the downward trend in ratings is the result of changing standards.",
+            "link": "https://doi.org/10.1111/0022-1082.00057"
+        },
+        {
+            "no": "11",
+            "title": "Minutes of the Annual Membership Meeting",
+            "date": "17 December 2002",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00058"
+        },
+        {
+            "no": "12",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "17 December 2002",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00059"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of The Journal of Finance for the Year 1997",
+            "date": "17 December 2002",
+            "author": [
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00060"
+        },
+        {
+            "no": "14",
+            "title": "Report of the Representative to the National Bureau of Economic Research*",
+            "date": "17 December 2002",
+            "author": [
+                "Robert S. Hamada"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00061"
+        },
+        {
+            "no": "15",
+            "title": "Association Meetings",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00533.x"
+        },
+        {
+            "no": "16",
+            "title": "Announcements",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00534.x"
+        },
+        {
+            "no": "17",
+            "title": "From the ExSec's Notebook",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00535.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "31 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00536.x"
+        }
+    ]
+}

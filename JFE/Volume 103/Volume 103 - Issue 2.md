@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - February 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Trust and delegation
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Stephen Brown
 - William Goetzmann
 - Bing Liang
@@ -27,7 +27,7 @@ This paper studies operational risk in the hedge fund industry using due diligen
 ## 3. Litigation risk, strategic disclosure and the underpricing of initial public offerings
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Kathleen Weiss Hanley
 - Gerard Hoberg
 ### Abstract
@@ -38,7 +38,7 @@ Using word content analysis on the time-series of IPO prospectuses, we show that
 ## 4. The high volume return premium: Cross-country evidence
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Ron Kaniel
 - Arzu Ozoguz
 - Laura Starks
@@ -50,7 +50,7 @@ We examine the high volume return premium across 41 different countries and find
 ## 5. Counterparty credit risk and the credit default swap market
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Navneet Arora
 - Priyank Gandhi
 - Francis A. Longstaff
@@ -62,7 +62,7 @@ Counterparty credit risk has become one of the highest-profile risks facing part
 ## 6. Delegated trading and the speed of adjustment in security prices
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Roger M. Edelen
 - Gregory B. Kadlec
 ### Abstract
@@ -73,7 +73,7 @@ Institutional trading arrangements often involve the portfolio manager delegatin
 ## 7. Disclosure and agency conflict: Evidence from mutual fund commission bundling
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Roger M. Edelen
 - Richard B. Evans
 - Gregory B. Kadlec
@@ -85,7 +85,7 @@ This study provides empirical evidence on the role of disclosure in resolving ag
 ## 8. Board connections and M&A transactions
 ### Date
 - May 2011
-### Authors
+### Author
 - Ye Cai
 - Merih Sevilir
 ### Abstract
@@ -96,7 +96,7 @@ We examine M&A transactions between firms with current board connections and fin
 ## 9. Tournament incentives, firm risk, and corporate policies
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Omesh Kini
 - Ryan Williams
 ### Abstract
@@ -107,7 +107,7 @@ This paper tests the proposition that higher tournament incentives will result i
 ## 10. Difference in interim performance and risk taking with short-sale constraints
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Suleyman Basak
 - Dmitry Makarov
 ### Abstract
@@ -118,7 +118,7 @@ Absent much theory, empirical works often rely on the following informal reasoni
 ## 11. Investment-cash flow sensitivity cannot be a good measure of financial constraints: Evidence from the time series
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Huafeng (Jason) Chen
 - Shaojun (Jenny) Chen
 ### Abstract
@@ -129,7 +129,7 @@ Investment-cash flow sensitivity has declined and disappeared, even during the 2
 ## 12. Endogenous technological progress and the cross-section of stock returns
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Xiaoji Lin
 ### Abstract
 I study the cross-sectional variation of stock returns and technological progress using a dynamic equilibrium model with production. Technological progress is endogenously driven by research and development (R&D) investment and is composed of two parts. One part is devoted to product innovation; the other, to increasing the productivity of physical investment. The latter is embodied in new tangible capital. The model breaks the symmetry assumed in standard models between tangible and intangible capital, in which the accumulation processes of tangible and intangible capital stock do not affect each other. Qualitatively and, in many cases, quantitatively, the model explains well-documented empirical regularities.

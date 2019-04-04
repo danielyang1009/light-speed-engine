@@ -5,7 +5,7 @@
 ## 1. Predictable changes in yields and forward rates
 ### Date
 - Mar 2001
-### Authors
+### Author
 - David Backus
 - Silverio Foresi
 - Abon Mozumdar
@@ -18,7 +18,7 @@ We make two contributions to the study of interest rates. The first is to charac
 ## 2. Do investment banks compete in IPOs?: the advent of the “7% plus contract”
 ### Date
 - Mar 2001
-### Authors
+### Author
 - Robert S Hansen
 ### Abstract
 The large number of initial public offerings (IPOs) with a 7% spread suggests either that investment bankers collude to profit from 7% IPOs or that the 7% contract is an efficient innovation that better suits the IPO. My tests do not support the collusion theory. Low concentration and ease of entry characterize the IPO market. Moreover, the 7% spread is not abnormally profitable, nor has its use been diminished by public awareness of collusion allegations. In support of the efficient contract theory, banks compete in pricing 7% IPOs on the basis of reputation, placement service, and underpricing.
@@ -28,7 +28,7 @@ The large number of initial public offerings (IPOs) with a 7% spread suggests ei
 ## 3. Do the individuals closest to internet firms believe they are overvalued
 ### Date
 - Mar 2001
-### Authors
+### Author
 - Paul Schultz
 - Mir Zaman
 ### Abstract
@@ -39,7 +39,7 @@ Two explanations are commonly offered for the large number of recent IPOs by Int
 ## 4. Common factors in prices, order flows, and liquidity
 ### Date
 - Mar 2001
-### Authors
+### Author
 - Joel Hasbrouck
 - Duane J. Seppi
 ### Abstract
@@ -50,7 +50,7 @@ How important are cross-stock common factors in the price discovery/liquidity pr
 ## 5. Direct foreign ownership, institutional investors, and firm characteristics
 ### Date
 - Mar 2001
-### Authors
+### Author
 - Magnus Dahlquist
 - Göran Robertsson
 ### Abstract
@@ -61,7 +61,7 @@ In this paper, we characterize foreign ownership using a dataset of ownership an
 ## 6. Exchange rate exposure and competition: evidence from the automotive industry
 ### Date
 - Mar 2001
-### Authors
+### Author
 - Rohan Williamson
 ### Abstract
 This study examines the effect of real exchange rate changes on multinational firms and incorporates the effect of intra-industry competition on the relation between exchange rates and firm value. To test the relation more effectively, tests are conducted using a sample of automotive firms from the United States and Japan. Consistent with theoretical predictions, there is significant exposure to exchange rate shocks. Moreover, there is evidence of time-variation in exchange rate exposure, which is consistent with changes in the competitive environment within the industry. Finally, evidence is presented that is consistent with foreign sales being a major determinant of exposure and the effectiveness of operational hedging through foreign production.
@@ -71,7 +71,7 @@ This study examines the effect of real exchange rate changes on multinational fi
 ## 7. Leverage and internal capital markets: evidence from leveraged recapitalizations
 ### Date
 - Mar 2001
-### Authors
+### Author
 - Urs C. Peyer
 - Anil Shivdasani
 ### Abstract

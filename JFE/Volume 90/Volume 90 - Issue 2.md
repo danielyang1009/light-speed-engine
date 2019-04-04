@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Information, sell-side research, and market making
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Leonardo Madureira
 - Shane Underwood
 ### Abstract
@@ -25,7 +25,7 @@ The interaction between an investment bank's research and market making arms may
 ## 3. Venture capital reputation and investment performance
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Rajarishi Nahata
 ### Abstract
 I propose a new measure of venture capital (VC) firm reputation and analyze its performance implications on private companies. Controlling for portfolio company quality and other VC-specific factors including experience, connectedness, syndication, industry competition, exit conditions, and investment environment, I find companies backed by more reputable VCs by initial public offering (IPO) capitalization share (based on cumulative market capitalization of IPOs backed by the VC), are more likely to exit successfully, access public markets faster, and have higher asset productivity at IPOs. Further tests suggest VCs’ IPO Capitalization share effectively captures both VC screening and monitoring expertise. My findings have financial implications for limited partners and entrepreneurs regarding their VC-sorting activities.
@@ -35,7 +35,7 @@ I propose a new measure of venture capital (VC) firm reputation and analyze its 
 ## 4. Does the use of peer groups contribute to higher pay and less efficient compensation?
 ### Date
 - Aug 2007
-### Authors
+### Author
 - John M. Bizjak
 - Michael L. Lemmon
 - Lalitha Naveen
@@ -47,7 +47,7 @@ We provide empirical evidence on how the practice of competitive benchmarking af
 ## 5. Can hedging tell the full story? Reconciling differences in United States aggregate- and industry-level exchange rate risk premium
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Bill B. Francis
 - Iftekhar Hasan
 - Delroy M. Hunter
@@ -59,7 +59,7 @@ While the importance of currency movements to industry competitiveness is theore
 ## 6. Banks and innovation: Microeconometric evidence on Italian firms
 ### Date
 - Jan 2008
-### Authors
+### Author
 - Luigi Benfratello
 - Fabio Schiantarelli
 - Alessandro Sembenelli

@@ -1,0 +1,227 @@
+{
+    "journal": "JF",
+    "volume": "71",
+    "issue": "2",
+    "date": "April 2016",
+    "page": "Pages: 501-1017",
+    "article": [
+        {
+            "no": "1",
+            "title": "Issue Information \u2010 Ed Board",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12321"
+        },
+        {
+            "no": "2",
+            "title": "Issue Information \u2010 Help Desk",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12322"
+        },
+        {
+            "no": "3",
+            "title": "Issue Information \u2010 TOC",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12320"
+        },
+        {
+            "no": "4",
+            "title": "ANNOUNCEMENT OF 2015 AMUNDI SMITH BREEDEN AND BRATTLE GROUP PRIZES",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12394"
+        },
+        {
+            "no": "5",
+            "title": "Boarding a Sinking Ship? An Investigation of Job Applications to Distressed Firms",
+            "date": "13 October 2015",
+            "author": [
+                "JENNIFER BROWN",
+                "DAVID A. MATSA"
+            ],
+            "abstract": "We use novel data from a leading online job search platform to examine the impact of corporate distress on firms\u2019 ability to attract job applicants. Survey responses suggest that job seekers accurately perceive firms\u2019 financial condition, as measured by companies\u2019 credit default swap prices and accounting data. Analyzing responses to job postings by major financial firms during the Great Recession, we find that an increase in an employer's distress results in fewer and lower quality applicants. These effects are particularly evident when the social safety net provides workers with weak protection against unemployment and for positions requiring a college education.",
+            "link": "https://doi.org/10.1111/jofi.12367"
+        },
+        {
+            "no": "6",
+            "title": "Learning about Consumption Dynamics",
+            "date": "27 January 2015",
+            "author": [
+                "MICHAEL JOHANNES",
+                "LARS A. LOCHSTOER",
+                "YIQUN MOU"
+            ],
+            "abstract": "This paper characterizes U.S. consumption dynamics from the perspective of a Bayesian agent who does not know the underlying model structure but learns over time from macroeconomic data. Realistic, high\u2010dimensional macroeconomic learning problems, which entail parameter, model, and state learning, generate substantially different subjective beliefs about consumption dynamics compared to the standard, full\u2010information rational expectations benchmark. Beliefs about long\u2010run dynamics are volatile, with counter\u2010cyclical conditional volatility, and drift over time. Embedding these beliefs in a standard asset pricing model significantly improves the model's ability to match the stylized facts, as well as the sample path of the market price\u2010dividend ratio.",
+            "link": "https://doi.org/10.1111/jofi.12246"
+        },
+        {
+            "no": "7",
+            "title": "Information Flows in Foreign Exchange Markets: Dissecting Customer Currency Trades",
+            "date": "18 March 2016",
+            "author": [
+                "LUKAS MENKHOFF",
+                "LUCIO SARNO",
+                "MAIK SCHMELING",
+                "ANDREAS SCHRIMPF"
+            ],
+            "abstract": "We study the information in order flows in the world's largest over\u2010the\u2010counter market, the foreign exchange (FX) market. The analysis draws on a data set covering a broad cross\u2010section of currencies and different customer segments of FX end\u2010users. The results suggest that order flows are highly informative about future exchange rates and provide significant economic value. We also find that different customer groups can share risk with each other effectively through the intermediation of a large dealer, and differ markedly in their predictive ability, trading styles, and risk exposure.",
+            "link": "https://doi.org/10.1111/jofi.12378"
+        },
+        {
+            "no": "8",
+            "title": "Conglomerate Investment, Skewness, and the CEO Long\u2010Shot Bias",
+            "date": "04 January 2016",
+            "author": [
+                "CHRISTOPH SCHNEIDER",
+                "OLIVER SPALT"
+            ],
+            "abstract": "Do behavioral biases of executives matter for corporate investment decisions? Using segment\u2010level capital allocation in multisegment firms (\u201cconglomerates\u201d) as a laboratory, we show that capital expenditure is increasing in the expected skewness of segment returns. Conglomerates invest more in high\u2010skewness segments than matched stand\u2010alone firms, and trade at a discount, which indicates overinvestment that is detrimental to shareholder wealth. Using geographical variation in gambling norms, we find that the skewness\u2010investment relation is particularly pronounced when CEOs are likely to find long shots attractive. Our findings suggest that CEOs allocate capital with a long\u2010shot bias.",
+            "link": "https://doi.org/10.1111/jofi.12379"
+        },
+        {
+            "no": "9",
+            "title": "Order Flow and Expected Option Returns",
+            "date": "21 December 2015",
+            "author": [
+                "DMITRIY MURAVYEV"
+            ],
+            "abstract": "I show that the inventory risk faced by market\u2010makers has a first\u2010order effect on option prices. I introduce a simple approach that decomposes the price impact of trades into inventory risk and asymmetric information components. While both components are large for option trades, the inventory risk component is larger. Using the full panel of daily option returns, I find that option order imbalances attributable to inventory risk have five times larger impact on option prices than previously thought. Finally, I find that past order imbalances have greater predictive power than any other commonly used predictor of option returns.",
+            "link": "https://doi.org/10.1111/jofi.12380"
+        },
+        {
+            "no": "10",
+            "title": "Cream\u2010Skimming in Financial Markets",
+            "date": "05 January 2016",
+            "author": [
+                "PATRICK BOLTON",
+                "TANO SANTOS",
+                "JOSE A. SCHEINKMAN"
+            ],
+            "abstract": "We propose a model in which investors may choose to acquire costly information that identifies good assets and purchase these assets in opaque (OTC) markets. Uninformed investors access an asset pool that has been cream\u2010skimmed by informed investors. When the quality composition of assets for sale is fixed, there is too much information acquisition and the financial industry extracts excessive rents. In the presence of moral hazard in origination, the social value of information varies inversely with information acquisition. Low quality origination is associated with large rents in the financial sector. Equilibrium acquisition of information is generically inefficient.",
+            "link": "https://doi.org/10.1111/jofi.12385"
+        },
+        {
+            "no": "11",
+            "title": "Does It Pay to Bet Against Beta? On the Conditional Performance of the Beta Anomaly",
+            "date": "22 December 2015",
+            "author": [
+                "SCOTT CEDERBURG",
+                "MICHAEL S. O'DOHERTY"
+            ],
+            "abstract": "Prior studies find that a strategy that buys high\u2010beta stocks and sells low\u2010beta stocks has a significantly negative unconditional capital asset pricing model (CAPM) alpha, such that it appears to pay to \u201cbet against beta.\u201d We show, however, that the conditional beta for the high\u2010minus\u2010low beta portfolio covaries negatively with the equity premium and positively with market volatility. As a result, the unconditional alpha is a downward\u2010biased estimate of the true alpha. We model the conditional market risk for beta\u2010sorted portfolios using instrumental variables methods and find that the conditional CAPM resolves the beta anomaly.",
+            "link": "https://doi.org/10.1111/jofi.12383"
+        },
+        {
+            "no": "12",
+            "title": "The Labor Market for Directors and Externalities in Corporate Governance",
+            "date": "01 May 2015",
+            "author": [
+                "DORON LEVIT",
+                "NADYA MALENKO"
+            ],
+            "abstract": "This paper studies how directors' reputational concerns affect board structure, corporate governance, and firm value. In our setting, directors affect their firms' governance, and governance in turn affects firms' demand for new directors. Whether the labor market rewards a shareholder\u2010friendly or management\u2010friendly reputation is determined in equilibrium and depends on aggregate governance. We show that directors' desire to be invited to other boards creates strategic complementarity of corporate governance across firms. Directors' reputational concerns amplify the governance system: strong systems become stronger and weak systems become weaker. We derive implications for multiple directorships, board size, transparency, and board independence.",
+            "link": "https://doi.org/10.1111/jofi.12287"
+        },
+        {
+            "no": "13",
+            "title": "An Information\u2010Based Theory of Time\u2010Varying Liquidity",
+            "date": "18 March 2015",
+            "author": [
+                "BRENDAN DALEY",
+                "BRETT GREEN"
+            ],
+            "abstract": "We propose an information\u2010based theory to explain time variation in liquidity and link it to a variety of patterns in asset markets. In \u201cnormal times,\u201d the market is fully liquid and gains from trade are realized immediately. However, the equilibrium also involves periods during which liquidity \u201cdries up,\u201d which leads to endogenous liquidation costs. Traders correctly anticipate such costs, which reduces their willingness to pay. This foresight leads to a novel feedback effect between prices and market liquidity, which are jointly determined in equilibrium. The model also predicts that contagious sell\u2010offs can occur after sufficiently bad news.",
+            "link": "https://doi.org/10.1111/jofi.12272"
+        },
+        {
+            "no": "14",
+            "title": "Indirect Incentives of Hedge Fund Managers",
+            "date": "21 December 2015",
+            "author": [
+                "JONGHA LIM",
+                "BERK A. SENSOY",
+                "MICHAEL S. WEISBACH"
+            ],
+            "abstract": "Indirect incentives exist in the money management industry when good current performance increases future inflows of capital, leading to higher future fees. For the average hedge fund, indirect incentives are at least 1.4 times as large as direct incentives from incentive fees and managers\u2019 personal stakes in the fund. Combining direct and indirect incentives,\u00a0manager wealth increases by at least $0.39 for a $1 increase in investor wealth. Younger and more scalable hedge funds have stronger flow\u2010performance relations, leading to stronger indirect incentives. These results have a number of implications for our understanding of incentives in the asset management industry.",
+            "link": "https://doi.org/10.1111/jofi.12384"
+        },
+        {
+            "no": "15",
+            "title": "Procyclical Capital Regulation and Lending",
+            "date": "13 October 2015",
+            "author": [
+                "MARKUS BEHN",
+                "RAINER HASELMANN",
+                "PAUL WACHTEL"
+            ],
+            "abstract": "We use a quasi\u2010experimental research design to examine the effect of model\u2010based capital regulation on the procyclicality of bank lending and firms' access to funds. In response to an exogenous shock to credit risk in the German economy, capital charges for loans under model\u2010based regulation increased by 0.5\u00a0percentage points. As a consequence, banks reduced the amount of these loans by 2.1 to 3.9\u00a0percentage points more than for loans under the traditional approach with fixed capital charges. We find an even stronger effect when we examine aggregate firm borrowing, suggesting that microprudential capital regulation can have sizeable real effects.",
+            "link": "https://doi.org/10.1111/jofi.12368"
+        },
+        {
+            "no": "16",
+            "title": "Health and Mortality Delta: Assessing the Welfare Cost of Household Insurance Choice",
+            "date": "18 March 2015",
+            "author": [
+                "RALPH S.J. KOIJEN",
+                "STIJN VAN NIEUWERBURGH",
+                "MOTOHIRO YOGO"
+            ],
+            "abstract": "We develop a pair of risk measures, health and mortality delta, for the universe of life and health insurance products. A life\u2010cycle model of insurance choice simplifies to replicating the optimal health and mortality delta through a portfolio of insurance products. We estimate the model to explain the observed variation in health and mortality delta implied by the ownership of life insurance, annuities including private pensions, and long\u2010term care insurance in the Health and Retirement Study. For the median household aged 51 to 57, the lifetime welfare cost of market incompleteness and suboptimal choice is 3.2% of total wealth.",
+            "link": "https://doi.org/10.1111/jofi.12273"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12395"
+        },
+        {
+            "no": "18",
+            "title": "ANNOUNCEMENTS",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12401"
+        },
+        {
+            "no": "19",
+            "title": "To Those Seeking Permissions for Academic Classroom Use",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12326"
+        },
+        {
+            "no": "20",
+            "title": "Issue Information \u2010 Style Instuctions",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12323"
+        },
+        {
+            "no": "21",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12324"
+        },
+        {
+            "no": "22",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "18 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12325"
+        }
+    ]
+}

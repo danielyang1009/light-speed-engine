@@ -1,0 +1,124 @@
+{
+    "journal": "RFS",
+    "volume": "26",
+    "issue": "8",
+    "date": "August 2013",
+    "page": "Pages 1854\u20132137",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Price of Diversifiable Risk in Venture Capital and Private Equity",
+            "date": "20 June 2013",
+            "author": [
+                "Michael Ewens",
+                "Charles M. Jones",
+                "Matthew Rhodes-Kropf"
+            ],
+            "abstract": "This paper demonstrates how the principal-agent problem between venture capitalists and their investors (limited partners) causes limited partner returns to depend on diversifiable risk. Our theory shows why the need for investors to motivate VCs alters the negotiations between VCs and entrepreneurs and changes how new firms are priced. The three-way interaction rationalizes the use of high discount rates by VCs and predicts a correlation between total risk and net of fee investor returns. We take our theory to a unique data set and find empirical support for the effect of the principal-agent problem on equilibrium private equity asset prices.",
+            "link": "https://doi.org/10.1093/rfs/hht035"
+        },
+        {
+            "no": "2",
+            "title": "Anticipated and Repeated Shocks in Liquid Markets",
+            "date": "17 June 2013",
+            "author": [
+                "Dong Lou",
+                "Hongjun Yan",
+                "Jinfan Zhang"
+            ],
+            "abstract": "We show that Treasury security prices in the secondary market decrease significantly in the few days before Treasury auctions and recover shortly thereafter, even though the time and amount of each auction are announced in advance. These results are linked to dealers' limited risk-bearing capacity and end-investors' imperfect capital mobility, highlighting the important role of frictions even in very liquid financial markets. Our results imply a hidden issuance cost to the U.S. Department of the Treasury, estimated to be 9 to 18 bps of the auction size, or over half a billion dollars for the issuance size in 2007.",
+            "link": "https://doi.org/10.1093/rfs/hht034"
+        },
+        {
+            "no": "3",
+            "title": "Bond Market Clienteles, the Yield Curve, and the Optimal Maturity Structure of Government Debt",
+            "date": "12 April 2013",
+            "author": [
+                "St\u00e9phane Guibaud",
+                "Yves Nosbusch",
+                "Dimitri Vayanos"
+            ],
+            "abstract": "We propose a clientele-based model of the yield curve and optimal maturity structure of government debt. Clienteles are generations of agents at different lifecycle stages in an overlapping-generations economy. An optimal maturity structure exists in the absence of distortionary taxes and induces efficient intergenerational risksharing. If agents are more risk-averse than log, then an increase in the long-horizon clientele raises the price and optimal supply of long-term bonds\u2014effects that we also confirm empirically in a panel of OECD countries. Moreover, under the optimal maturity structure, catering to clienteles is limited and long-term bonds earn negative expected excess returns.",
+            "link": "https://doi.org/10.1093/rfs/hht013"
+        },
+        {
+            "no": "4",
+            "title": "Capturing Option Anomalies with a Variance-Dependent Pricing Kernel",
+            "date": "28 June 2013",
+            "author": [
+                "Peter Christoffersen",
+                "Steven Heston",
+                "Kris Jacobs"
+            ],
+            "abstract": "We develop a GARCH option model with a new pricing kernel allowing for a variance premium. While the pricing kernel is monotonic in the stock return and in variance, its projection onto the stock return is nonmonotonic. A negative variance premium makes it U shaped. We present new semiparametric evidence to confirm this U-shaped relationship between the risk-neutral and physical probability densities. The new pricing kernel substantially improves our ability to reconcile the time-series properties of stock returns with the cross-section of option prices. It provides a unified explanation for the implied volatility puzzle, the overreaction of long-term options to changes in short-term variance, and the fat tails of the risk-neutral return distribution relative to the physical distribution.",
+            "link": "https://doi.org/10.1093/rfs/hht033"
+        },
+        {
+            "no": "5",
+            "title": "How Do CEOs Matter? The Effect of Industry Expertise on Acquisition Returns",
+            "date": "21 June 2013",
+            "author": [
+                "Cl\u00e1udia Cust\u00f3dio",
+                "Daniel Metzger"
+            ],
+            "abstract": "This paper shows how chief executive officer (CEO) characteristics affect the performance of acquirers in diversifying takeovers. When the acquirer's CEO has previous experience in the target industry, the acquirer's abnormal announcement returns are between 1.2 and 2.0 percentage points larger than those generated by a CEO who is new to the target industry. This outcome is driven by the industry-expert CEO's ability to capture a larger fraction of the merger surplus. Industry-expert CEOs typically negotiate better deals and pay a lower premium for the target. This effect is stronger when information asymmetry is high and in bilateral negotiations compared to auctions. We also find that industry-expert CEOs on average select lower surplus deals. This evidence is consistent with industry-expert CEOs having superior negotiation skills.",
+            "link": "https://doi.org/10.1093/rfs/hht032"
+        },
+        {
+            "no": "6",
+            "title": "Pricing Credit Default Swaps with Observable Covariates",
+            "date": "05 April 2013",
+            "author": [
+                "Hitesh Doshi",
+                "Jan Ericsson",
+                "Kris Jacobs",
+                "Stuart M. Turnbull"
+            ],
+            "abstract": "Observable covariates are useful for predicting default, but several studies question their value for explaining credit spreads. We introduce a discrete-time no-arbitrage model with observable covariates, which allows for a closed-form solution for the value of credit default swaps (CDS). The default intensity is a quadratic function of the covariates, specified such that it is always positive. The model yields economically plausible results in terms of fit, the economic impact of the covariates, and the prices of risk. Risk premiums are large and account for a smaller percentage of spreads for firms with lower credit quality. Macroeconomic and firm-specific information can explain most of the variation in CDS spreads over time and across firms, even with a parsimonious specification. These findings resolve the existing disconnect in the literature regarding the value of observable covariates for credit risk pricing and default prediction.",
+            "link": "https://doi.org/10.1093/rfs/hht015"
+        },
+        {
+            "no": "7",
+            "title": "Hidden and Displayed Liquidity in Securities Markets with Informed Liquidity Providers",
+            "date": "04 January 2013",
+            "author": [
+                "Alex Boulatov",
+                "Thomas J. George"
+            ],
+            "abstract": "We examine the impact on the quality of a securities market of hiding versus displaying orders that provide liquidity. Display expropriates informational rents from informed agents who trade as liquidity providers. The informed then exit liquidity provision in favor of demanding liquidity where they trade less aggressively. Trading costs to uninformed liquidity demanders are higher, bid-ask spreads are wider, and midquotes are less informationally efficient when orders that provide liquidity are displayed. Our analysis suggests that market innovations, which might seem to favor the informed over the uninformed, can enhance market quality by intensifying competition among the informed.",
+            "link": "https://doi.org/10.1093/rfs/hhs123"
+        },
+        {
+            "no": "8",
+            "title": "Cover",
+            "date": "10 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhs145"
+        },
+        {
+            "no": "9",
+            "title": "Editorial Board",
+            "date": "10 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhs156"
+        },
+        {
+            "no": "10",
+            "title": "Forthcoming Articles",
+            "date": "10 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhs167"
+        },
+        {
+            "no": "11",
+            "title": "Volume 26 Number 8 August 2013\nThe Review of Financial Studies - Table of Contents",
+            "date": "10 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhs178"
+        }
+    ]
+}

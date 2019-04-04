@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Is market fragmentation harming market quality?
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Maureen O'Hara
 - Mao Ye
 ### Abstract
@@ -25,7 +25,7 @@ We examine how fragmentation is affecting market quality in US equity markets. W
 ## 3. Improving the predictability of real economic activity and asset returns with forward variances inferred from option portfolios
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Gurdip Bakshi
 - George Panayotov
 - Georgios Skoulakis
@@ -37,7 +37,7 @@ This paper presents an option positioning that allows us to infer forward varian
 ## 4. Spot and forward volatility in foreign exchange
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Pasquale Della Corte
 - Lucio Sarno
 - Ilias Tsiakas
@@ -49,7 +49,7 @@ This paper investigates the empirical relation between spot and forward implied 
 ## 5. Forecasting stock market returns: The sum of the parts is more than the whole
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Miguel A. Ferreira
 - Pedro Santa-Clara
 ### Abstract
@@ -60,7 +60,7 @@ We propose forecasting separately the three components of stock market returns�
 ## 6. Are all CEOs above average? An empirical analysis of compensation peer groups and pay design
 ### Date
 - Feb 2011
-### Authors
+### Author
 - John Bizjak
 - Michael Lemmon
 - Thanh Nguyen
@@ -72,7 +72,7 @@ Companies can potentially use compensation peer groups to inflate pay by choosin
 ## 7. Global retail lending in the aftermath of the US financial crisis: Distinguishing between supply and demand effects
 ### Date
 - Dec 2010
-### Authors
+### Author
 - Manju Puri
 - Jörg Rocholl
 - Sascha Steffen
@@ -84,7 +84,7 @@ This paper examines the broader effects of the US financial crisis on global len
 ## 8. Dividend distributions and closed-end fund discounts
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Theodore E. Day
 - George Z. Li
 - Yexiao Xu
@@ -96,7 +96,7 @@ Empirical support for the hypothesis that closed-end fund discounts are related 
 ## 9. Vertical divestitures through equity carve-outs and spin-offs: A product markets perspective
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Bharat A. Jain
 - Omesh Kini
 - Jaideep Shenoy
@@ -108,7 +108,7 @@ Using a product markets perspective to investigate the decision to vertically di
 ## 10. A theory of equity carve-outs and negative stub values under heterogeneous beliefs
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Onur Bayar
 - Thomas J. Chemmanur
 - Mark H. Liu
@@ -120,7 +120,7 @@ We develop a theory of new-project financing and equity carve-outs under heterog
 ## 11. Corporate tax avoidance and stock price crash risk: Firm-level analysis
 ### Date
 - Jul 2010
-### Authors
+### Author
 - Jeong-Bon Kim
 - Yinghua Li
 - Liandong Zhang
@@ -132,7 +132,7 @@ Using a large sample of U.S. firms for the period 1995–2008, we provide strong
 ## 12. The role of securitization in bank liquidity and funding management
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Elena Loutskina
 ### Abstract
 This paper studies the role of securitization in bank management. I propose a new index of “bank loan portfolio liquidity” which can be thought of as a weighted average of the potential to securitize loans of a given type, where the weights reflect the composition of a bank loan portfolio. I use this new index to show that by allowing banks to convert illiquid loans into liquid funds, securitization reduces banks' holdings of liquid securities and increases their lending ability. Furthermore, securitization provides banks with an additional source of funding and makes bank lending less sensitive to cost of funds shocks. By extension, the securitization weakens the ability of the monetary authority to affect banks' lending activity but makes banks more susceptible to liquidity and funding crisis when the securitization market is shut down.

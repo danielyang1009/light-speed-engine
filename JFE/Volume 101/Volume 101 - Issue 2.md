@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - August 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Recent trends in trading activity and market quality
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Tarun Chordia
 - Richard Roll
 - Avanidhar Subrahmanyam
@@ -26,7 +26,7 @@ We explore the sharp uptrend in recent trading activity and accompanying changes
 ## 3. Equilibrium prices in the presence of delegated portfolio management
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Domenico Cuoco
 - Ron Kaniel
 ### Abstract
@@ -37,7 +37,7 @@ This paper analyzes the asset pricing implications of commonly used portfolio ma
 ## 4. Liquidity risk management and credit supply in the financial crisis
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Marcia Millon Cornett
 - Jamie John McNutt
 - Philip E. Strahan
@@ -50,7 +50,7 @@ Liquidity dried up during the financial crisis of 2007–2009. Banks that relied
 ## 5. Time-varying rare disaster risk and stock returns
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Henk Berkman
 - Ben Jacobsen
 - John B. Lee
@@ -62,7 +62,7 @@ This study provides empirical support for theoretical models that allow for time
 ## 6. Labor income dynamics at business-cycle frequencies: Implications for portfolio choice
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Anthony W. Lynch
 - Sinan Tan
 ### Abstract
@@ -73,7 +73,7 @@ Young agents with low wealth-income ratios counter factually hold more stock tha
 ## 7. Friends or foes? Target selection decisions of sovereign wealth funds and their consequences
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Jason Kotter
 - Ugur Lel
 ### Abstract
@@ -84,7 +84,7 @@ This paper examines investment strategies of sovereign wealth funds (SWFs), thei
 ## 8. IPO waves, product market competition, and the going public decision: Theory and evidence
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Thomas J. Chemmanur
 - Jie He
 ### Abstract
@@ -95,7 +95,7 @@ We develop a new rationale for initial public offering (IPO) waves based on prod
 ## 9. Stock option grants to target CEOs during private merger negotiations
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Eliezer M. Fich
 - Jie Cai
 - Anh L. Tran
@@ -107,7 +107,7 @@ Unscheduled stock options to target chief executive officers (CEOs) are a nontri
 ## 10. The market reaction to corporate governance regulation
 ### Date
 - Mar 2011
-### Authors
+### Author
 - David F. Larcker
 - Gaizka Ormazabal
 - Daniel J. Taylor
@@ -119,7 +119,7 @@ This paper investigates the market reaction to recent legislative and regulatory
 ## 11. Financial literacy and stock market participation
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Maarten van Rooij
 - Annamaria Lusardi
 - Rob Alessie
@@ -131,7 +131,7 @@ We have devised two special modules for De Nederlandsche Bank (DNB) Household Su
 ## 12. The value of a flow-through entity in an integrated corporate tax system
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Alexander Edwards
 - Terry Shevlin
 ### Abstract

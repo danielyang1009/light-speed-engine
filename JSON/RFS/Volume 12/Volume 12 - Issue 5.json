@@ -1,0 +1,116 @@
+{
+    "journal": "RFS",
+    "volume": "12",
+    "issue": "5",
+    "date": "October 1999",
+    "page": "Pages 937\u20131235",
+    "article": [
+        {
+            "no": "1",
+            "title": "On Portfolio Optimization: Forecasting Covariances and Choosing the Risk Model",
+            "date": "01 June 2015",
+            "author": [
+                "Louis K. C. Chan",
+                "Jason Karceski",
+                "Josef Lakonishok"
+            ],
+            "abstract": "We evaluate the performance of models for the covariance structure of stock returns, focusing on their use for optimal portfolio selection. We compare the models' forecasts of future covariances and the optimized portfolios' out-of-sample performance. A few factors capture the general covariance structure. Portfolio optimization helps for risk control, and a three-factor model is adequate for selecting the minimum-variance portfolio. Under a tracking error volatility criterion, which is widely used in practice, larger differences emerge across the models. In general more factors are necessary when the objective is to minimize tracking error volatility.",
+            "link": "https://doi.org/10.1093/rfs/12.5.937"
+        },
+        {
+            "no": "2",
+            "title": "Stock Market Overreactions to Bad News in Good Times: A Rational Expectations Equilibrium Model",
+            "date": "01 June 2015",
+            "author": [
+                "Pietro Veronesi"
+            ],
+            "abstract": "This article presents a dynamic, rational expectations equilibrium model of asset prices where the drift of fundamentals (dividends) shifts between two unobservable states at random times. I show that in equilibrium, investors' willingness to hedge against changes in their own \u201cuncertainty\u201d on the true state makes stock prices overreact to bad news in good times and underreact to good news in bad times. I then show that this model is better able than conventional models with no regime shifts to explain features of stock returns, including volatility clustering, \u201cleverage effects,\u201d excess volatility, and time-varying expected returns.",
+            "link": "https://doi.org/10.1093/rfs/12.5.975"
+        },
+        {
+            "no": "3",
+            "title": "Volatility Timing in Mutual Funds: Evidence from Daily Returns",
+            "date": "01 June 2015",
+            "author": [
+                "Jeffrey A. Busse"
+            ],
+            "abstract": "I use daily mutual fund returns to shed new light on the question of whether or not mutual fund managers are successful market timers. Previous studies find that funds are unable to time the market return. I study the funds' ability to time market volatility. I show that volatility timing is an important factor in the returns of mutual funds and has led to higher risk-adjusted returns. The returns of surviving funds are especially sensitive to market volatility; those of nonsurvivors are not.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1009"
+        },
+        {
+            "no": "4",
+            "title": "The Determinants of Mutual Fund Starts",
+            "date": "01 June 2015",
+            "author": [
+                "Ajay Khorana",
+                "Henri Servaes"
+            ],
+            "abstract": "For a sample of 1163 mutual funds started over the period 1979\u20131992, we find that fund initiations are positively related to the level of assets invested in and the capital gains embedded in other funds with the same objective, the fund family's prior performance, the fraction of funds in the family in the low range of fees, and the decision by large families to open similar funds in the prior year. In addition, consistent with the presence of scale and scope economies in fund openings, we find that large families and families that have more experience in opening funds in the past are more likely to open new funds.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1043"
+        },
+        {
+            "no": "5",
+            "title": "The Specialist's Discretion: Stopped Orders and Price Improvement",
+            "date": "01 June 2015",
+            "author": [
+                "Mark J. Ready"
+            ],
+            "abstract": "When a market order arrives, the NYSE specialist can offer a price one tick better than the limit orders on the book and trade for his own account. Alternatively, the specialist can \u201cstop\u201d the market order, which means he guarantees execution at the current quote but provides the possibility of price improvement. My model shows that specialists can use stops to sample the future order flow before making a commitment to trade. I present empirical evidence that both stops and immediate price improvement impose adverse selection costs on limit order traders.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1075"
+        },
+        {
+            "no": "6",
+            "title": "A New Estimate of Transaction Costs",
+            "date": "01 June 2015",
+            "author": [
+                "David A. Lesmond",
+                "Joseph P. Ogden",
+                "Charles A. Trzcinka"
+            ],
+            "abstract": "Transaction costs are important for a host of empirical analyses from market efficiency to international market research. But transaction costs estimates are not always available, or where available, are cumbersome to use and expensive to purchase. We present a model that requires only the time series of daily security returns to endogenously estimate the effective transaction costs for any firm, exchange, or time period. The feature of the data that allows for the estimation of transaction costs is the incidence of zero returns. Incorporating zero returns in the return-generating process, the model provides continuous estimates of average round-trip transaction costs from 1963 to 1990 that are 1.2% and 10.3% for large and small decile firms, respectively. These estimates are highly correlated (85%), with the most commonly used transaction cost estimators.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1113"
+        },
+        {
+            "no": "7",
+            "title": "Changes of Numeraire for Pricing Futures, Forwards, and Options",
+            "date": "01 June 2015",
+            "author": [
+                "Mark Schroder"
+            ],
+            "abstract": "A change of numeraire argument is used to derive a general option parity, or equivalence, result relating American call and put prices, and to obtain new expressions for futures and forward prices. The general parity result unifies and extends a number of existing results. The new futures and forward pricing formulas are often simpler to compute in multifactor models than existing alternatives. We also extend previous work by deriving a general formula relating exchange options to ordinary call options. A number of applications to diffusion models, including stochastic volatility, stochastic interest rate, and stochastic dividend rate models, and jump-diffusion models are examined.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1143"
+        },
+        {
+            "no": "8",
+            "title": "Adaptive Learning in Financial Markets",
+            "date": "01 June 2015",
+            "author": [
+                "Bryan R. Routledge"
+            ],
+            "abstract": "We investigate adaptive or evolutionary learning in a repeated version of the Grossman and Stiglit (1980) model. We demonstrate that any process that is a monotonic selection dynamic will converge to the rational expectations asset demands if the proportion of informed traders is fixed. We also show that these learning processes have a unique asymptotically stable fixed point at the Grossman\u2013Stiglitz (GS) equilibrium. The robustness of learning to noisy experimentation is studied using Binmore and Samuelson's (1999) deterministic drift approximation. Conditions on economic and learning process parameters for adaptive learning to lead to the GS rational expectations equilibrium are presented.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1165"
+        },
+        {
+            "no": "9",
+            "title": "Stock Returns and Inflation with Supply and Demand Disturbances",
+            "date": "01 June 2015",
+            "author": [
+                "Patrick J. Hess",
+                "Bong-Soo Lee"
+            ],
+            "abstract": "We account for the relation between stock returns and inflation with two independent disturbances: supply shocks and demand shocks. Supply shocks reflect real output shocks and cause a negative relation between stock returns and inflation, while demand shocks are mainly due to monetary shocks and generate a positive relation between stock returns and inflation. We show, both theoretically and empirically, that the stock return\u2013inflation relation varies over time and across countries, depending on the relative importance of the two types of shocks. Our empirical evidence is based on pre- and postwar periods in the United States, as well as the postwar period in the United Kingdom, Japan, Germany.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1203"
+        },
+        {
+            "no": "10",
+            "title": "The Second Fundamental Theorem of Asset Pricing: A New Approach",
+            "date": "01 June 2015",
+            "author": [
+                "Robert J. Battig",
+                "Robert A. Jarrow"
+            ],
+            "abstract": "This article presents a new definition of market completeness that is independent of the notions of no arbitrage and equivalent martingale measures. Our definition has many advantages, all shown herein. First, it preserves the Second Fundamental Theorem of Asset Pricing, even in complex economies. Second, under our definition, the market can be complete yet arbitrage opportunities exist. This is important in practice, and stands in contrast to the traditional definitions. Third, under the assumptions of no arbitrage and when used in the standard models, our definition is equivalent to the traditional one.",
+            "link": "https://doi.org/10.1093/rfs/12.5.1219"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why is PIN priced?
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Jefferson Duarte
 - Lance Young
 ### Abstract
@@ -25,7 +25,7 @@ Recent empirical work suggests that a proxy for the probability of informed trad
 ## 3. The performance of reverse leveraged buyouts
 ### Date
 - Mar 2008
-### Authors
+### Author
 - Jerry Cao
 - Josh Lerner
 ### Abstract
@@ -36,7 +36,7 @@ Reverse leveraged buyouts (RLBOs) have received increased public scrutiny but at
 ## 4. Merger negotiations and the toehold puzzle
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Sandra Betton
 - B. Espen Eckbo
 - Karin S. Thorburn
@@ -48,7 +48,7 @@ The substantial control premium typically observed in corporate takeovers makes 
 ## 5. Are fairness opinions fair? The case of mergers and acquisitions
 ### Date
 - Mar 2008
-### Authors
+### Author
 - Darren J. Kisgen
 - Jun “QJ” Qian
 - Weihong Song
@@ -60,7 +60,7 @@ Over the period 1994–2003, 80% of targets and 37% of acquirers obtain a third-
 ## 6. Does investor recognition predict returns?
 ### Date
 - Jan 2008
-### Authors
+### Author
 - Andriy Bodnaruk
 - Per Ostberg
 ### Abstract
@@ -71,7 +71,7 @@ Merton [1987. A simple model of capital market equilibrium with incomplete infor
 ## 7. Convertible bond arbitrage, liquidity externalities, and stock prices
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Darwin Choi
 - Mila Getmansky
 - Heather Tookes

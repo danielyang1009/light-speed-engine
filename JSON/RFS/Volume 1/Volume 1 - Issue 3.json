@@ -1,0 +1,72 @@
+{
+    "journal": "RFS",
+    "volume": "1",
+    "issue": "3",
+    "date": "July 1988",
+    "page": "Pages 195\u2013330",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Dividend-Price Ratio and Expectations of Future Dividends and Discount Factors",
+            "date": "06 April 2015",
+            "author": [
+                "John Y. Campbell",
+                "Robert J. Shiller"
+            ],
+            "abstract": "A dividend-ratio model is introduced here that makes the log of the dividend-price ratio on a stock linear in optimally forecast future one-period real discount rates and future one-period growth rates of real dividends. If ex post discount rates are observable, this model can be tested by using vector autoregressive methods. Four versions of the linearized model, differing in the measure of discount rates, are tested for U.S. time series 1871\u20131986 and 1926\u20131986: a version that imposes constant real discount rates, and versions that measure discount rates from real interest rate data, aggregate real consumption data, and return variance data. The results yield a metric to judge the relative importance of real dividend growth, measured real discount rates, and unexplained factors in determining the dividend-price ratio.",
+            "link": "https://doi.org/10.1093/rfs/1.3.195"
+        },
+        {
+            "no": "2",
+            "title": "Optimal Security Design",
+            "date": "06 April 2015",
+            "author": [
+                "Franklin Allen",
+                "Douglas Gale"
+            ],
+            "abstract": "How should new securities be designed? Traditional theories have little to say on this: the literature on capital structure and general equilibrium theories with incomplete markets takes the securities firms issue as exogenous. This article explicitly incorporates the transaction costs of issuing securities and develops a model in which the instruments that are traded are chosen optimally and the economy's market structure is endogenous. Among other things, it is shown that the firm's income stream should be split so that in every state all payoffs are allocated to the security held by the group that values it most.",
+            "link": "https://doi.org/10.1093/rfs/1.3.229"
+        },
+        {
+            "no": "3",
+            "title": "A Theory of Negotiated Equity Financing",
+            "date": "06 April 2015",
+            "author": [
+                "Ronald M. Giammarino",
+                "Tracy Lewis"
+            ],
+            "abstract": "We examine the sale of equity within the context of a model of negotiation between a firm and a less well informed purchaser. We introduce a simple form of negotiation by allowing the firm to set the price of the issue and by assuming that the purchase is a financier-underwriter who acts strategically. This transaction is analyzed as a noncooperative game, and we identify sequential equilibria that are consistent with observed behavior: namely that negotiations occasionally fail, that market reactions to equity offers are not uniformly negative, and that equity placements are often underpriced.",
+            "link": "https://doi.org/10.1093/rfs/1.3.265"
+        },
+        {
+            "no": "4",
+            "title": "The Demise of the Rights Issue",
+            "date": "06 April 2015",
+            "author": [
+                "Robert S. Hansen"
+            ],
+            "abstract": "This article suggests that the lack of use of rights offerings in the United States, a phenomenon referred to as the equity underwriting paradox, can be explained by transaction-cost conditions. A sample of underwritten rights offerings provides support for the explanation. Firms making underwritten rights offerings paid lower underwriter fees but incurred significantly larger price drops just prior to the offering than did firms making underwritten public offerings. Further analysis reveals that the underwritten-rights-offering price concessions are a form of transaction cost that is not found in under-written public offerings.",
+            "link": "https://doi.org/10.1093/rfs/1.3.289"
+        },
+        {
+            "no": "5",
+            "title": "Spanning and Completeness with Options",
+            "date": "06 April 2015",
+            "author": [
+                "David C. Nachman"
+            ],
+            "abstract": "The role of ordinary options in facilitating the completion of securities markets is examined in the context of a model of contigent claims sufficiently general to accommodate the continuous distributions of asset pricing theory and option pricing theory. In this context, it is shown that call options written on a single security approximately span all contingent claims written on this security and that call options written on portfolios of call options on individual primitive securities approximately span all contingent claims that can be written on these primitive securities. In the case of simple options, explicit formulas are given for the approximating options and portfolios of options. These results are applied to the pricing of contingent claims by arbitrage and to irrelevance propositions in corporate finance.",
+            "link": "https://doi.org/10.1093/rfs/1.3.311"
+        },
+        {
+            "no": "6",
+            "title": "Security Markets: Stochastic Models",
+            "date": "06 April 2015",
+            "author": [
+                "Philip H. Dybvig"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/1.3.329"
+        }
+    ]
+}

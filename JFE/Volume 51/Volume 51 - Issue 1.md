@@ -5,7 +5,7 @@
 ## 1. An analysis of compensation in the U.S. venture capital partnership1
 ### Date
 - 1 January
-### Authors
+### Author
 - Paul Gompers
 - Josh Lerner
 ### Abstract
@@ -16,7 +16,7 @@ Venture capital limited partnerships are an attractive arena to study cross-sect
 ## 2. Financial contracting under extreme uncertainty:
 ### Date
 - 1 January
-### Authors
+### Author
 - Christopher W Anderson
 ### Abstract
 Economic volatility, high transaction costs, and fragile institutions hinder financial contracting in emerging markets. These conditions characterize the economy of Brazil, yet a nascent corporate bond market thrives. I analyze 50 Brazilian indenture agreements and find that sample debentures are characterized by (i) features that mitigate inflation risk for investors, (ii) contingent-maturity mechanisms that provide periodic opportunities for exit or renegotiation, (iii) a paucity of covenants that restrict the debtor's investment, financing, and dividend decisions, and (iv) self-enforcement mechanisms that avoid reliance on inefficient institutions. Analysis of these features enhances our understanding of contracting in emerging economies.
@@ -26,7 +26,7 @@ Economic volatility, high transaction costs, and fragile institutions hinder fin
 ## 3. Odd-eighth avoidance as a defense against SOES bandits1
 ### Date
 - 1 January
-### Authors
+### Author
 - Eugene Kandel
 - Leslie M. Marx
 ### Abstract
@@ -37,7 +37,7 @@ We model the behavior of Nasdaq momentum traders, also known as SOES bandits. We
 ## 4. The market reaction to international cross-listings:
 ### Date
 - 1 January
-### Authors
+### Author
 - Darius P Miller
 ### Abstract
 This paper examines the stock price impact of international dual listings. The sample consists of 181 firms from 35 countries that instituted their first Depositary Receipt program over the period 1985–1995. The market reaction to a Depositary Receipt program is larger in magnitude and more pervasive than previously reported. The stock price reaction is related to choice of exchange, geographical location (i.e., emerging or developed markets), and avenues for raising equity capital (i.e., public versus private offerings).
@@ -47,7 +47,7 @@ This paper examines the stock price impact of international dual listings. The s
 ## 5. An analysis of value destruction and recovery in the alliance and proposed merger of Volvo and Renault1
 ### Date
 - 1 January
-### Authors
+### Author
 - Robert F Bruner
 ### Abstract
 Volvo's attempt to merge with Renault in 1993 temporarily destroyed SEK 8.6 billion (US$ 1.1 billion) in Volvo shareholder wealth. This study traces the destruction to hubris, managerialism, and the escalation of commitment – elements suggested in previous research. In addition, the case suggests path dependence as a source of wealth destruction in mergers. An elaborate structure of cross-shareholdings, joint committees, and a poison pill made it difficult for the strategic allies (Volvo and Renault) to follow any strategic path other than merger if they wanted to exploit economies more fully. Activism by institutional investors was instrumental in halting the destruction of shareholder wealth and redirecting the firm. This study reveals significant positive abnormal returns associated with the institutional activism. Consistent with Shleifer and Vishny (1986), institutional `jawboning' is valuable. An analysis of the voting premium between Volvo's `A' and `B' shares suggests that the value created by institutional voice derived from the strategic change in the firm's direction rather than the power of the coalition of institutional investors to expropriate wealth.

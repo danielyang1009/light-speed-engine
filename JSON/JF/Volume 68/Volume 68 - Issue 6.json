@@ -1,0 +1,218 @@
+{
+    "journal": "JF",
+    "volume": "68",
+    "issue": "6",
+    "date": "December 2013",
+    "page": "Pages: fmi-fmvii, 2223-2772, bmi-bmiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12116"
+        },
+        {
+            "no": "2",
+            "title": "Borrow Cheap, Buy High? The Determinants of Leverage and Pricing in Buyouts",
+            "date": "26 July 2013",
+            "author": [
+                "ULF AXELSON",
+                "TIM JENKINSON",
+                "PER STR\u00d6MBERG",
+                "MICHAEL S. WEISBACH"
+            ],
+            "abstract": "Private equity funds pay particular attention to capital structure when executing leveraged buyouts, creating an interesting setting for examining capital structure theories. Using a large, international sample of buyouts from 1980 to 2008, we find that buyout leverage is unrelated to the cross\u2010sectional factors, suggested by traditional capital structure theories, that drive public firm leverage. Instead, variation in economy\u2010wide credit conditions is the main determinant of leverage in buyouts. Higher deal leverage is associated with higher transaction prices and lower buyout fund returns, suggesting that acquirers overpay when access to credit is easier.",
+            "link": "https://doi.org/10.1111/jofi.12082"
+        },
+        {
+            "no": "3",
+            "title": "Country Size, Currency Unions, and International Asset Returns",
+            "date": "26 July 2013",
+            "author": [
+                "TAREK A. HASSAN"
+            ],
+            "abstract": "Differences in real interest rates across developed economies are puzzlingly large and persistent. I propose a simple explanation: bonds issued in the currencies of larger economies are expensive because they insure against shocks that affect a larger fraction of the world economy. I show that, indeed, differences in the size of economies explain a large fraction of the cross\u2010sectional variation in currency returns. The data also support additional implications of the model: the introduction of a currency union lowers interest rates in participating countries, and stocks in the nontraded sector of larger economies pay lower expected returns.",
+            "link": "https://doi.org/10.1111/jofi.12081"
+        },
+        {
+            "no": "4",
+            "title": "Dynamic Trading with Predictable Returns and Transaction Costs",
+            "date": "26 July 2013",
+            "author": [
+                "NICOLAE G\u00c2RLEANU",
+                "LASSE HEJE PEDERSEN"
+            ],
+            "abstract": "We derive a closed\u2010form optimal dynamic portfolio policy when trading is costly and security returns are predictable by signals with different mean\u2010reversion speeds. The optimal strategy is characterized by two principles: (1) aim in front of the target, and (2) trade partially toward the current aim. Specifically, the optimal updated portfolio is a linear combination of the existing portfolio and an \u201caim portfolio,\u201d which is a weighted average of the current Markowitz portfolio (the moving target) and the expected Markowitz portfolios on all future dates (where the target is moving). Intuitively, predictors with slower mean\u2010reversion (alpha decay) get more weight in the aim portfolio. We implement the optimal strategy for commodity futures and find superior net returns relative to more naive benchmarks.",
+            "link": "https://doi.org/10.1111/jofi.12080"
+        },
+        {
+            "no": "5",
+            "title": "Noise as Information for Illiquidity",
+            "date": "26 July 2013",
+            "author": [
+                "GRACE XING HU",
+                "JUN PAN",
+                "JIANG WANG"
+            ],
+            "abstract": "We propose a market\u2010wide liquidity measure by exploiting the connection between the amount of arbitrage capital in the market and observed \u201cnoise\u201d in U.S. Treasury bonds\u2014the shortage of arbitrage capital allows yields to deviate more freely from the curve, resulting in more noise in prices. Our noise measure captures episodes of liquidity crises of different origins across the financial market, providing information beyond existing liquidity proxies. Moreover, as a priced risk factor, it helps to explain cross\u2010sectional returns on hedge funds and currency carry trades, both known to be sensitive to the general liquidity conditions of the market.",
+            "link": "https://doi.org/10.1111/jofi.12083"
+        },
+        {
+            "no": "6",
+            "title": "Do Hedge Funds Manipulate Stock Prices?",
+            "date": "13 May 2013",
+            "author": [
+                "ITZHAK BEN\u2010DAVID",
+                "FRANCESCO FRANZONI",
+                "AUGUSTIN LANDIER",
+                "RABIH MOUSSAWI"
+            ],
+            "abstract": "We provide evidence suggesting that some hedge funds manipulate stock prices on critical reporting dates. Stocks in the top quartile of hedge fund holdings exhibit abnormal returns of 0.30% on the last day of the quarter and a reversal of 0.25% on the following day. A significant part of the return is earned during the last minutes of trading. Analysis of intraday volume and order imbalance provides further evidence consistent with manipulation. These patterns are stronger for funds that have higher incentives to improve their ranking relative to their peers.",
+            "link": "https://doi.org/10.1111/jofi.12062"
+        },
+        {
+            "no": "7",
+            "title": "Structural Shifts in Credit Rating Standards",
+            "date": "27 May 2013",
+            "author": [
+                "AYSUN ALP"
+            ],
+            "abstract": "I examine the time\u2010series variation in corporate credit rating standards from 1985 to 2007. A divergent pattern exists between investment\u2010grade and speculative\u2010grade rating standards from 1985 to 2002 as investment\u2010grade standards tighten and speculative\u2010grade loosen. In 2002, a structural shift occurs toward more stringent ratings. Holding characteristics constant, firms experience a drop of 1.5 notches in ratings due to tightened standards from 2002 to 2007. Credit spread tests suggest that the variation in standards is not completely due to changes in the economic climate. Rating standards affect credit spreads. Loose ratings are associated with higher default rates.",
+            "link": "https://doi.org/10.1111/jofi.12070"
+        },
+        {
+            "no": "8",
+            "title": "Economic Nationalism in Mergers and Acquisitions",
+            "date": "12 August 2013",
+            "author": [
+                "I. SERDAR DINC",
+                "ISIL EREL"
+            ],
+            "abstract": "This paper studies government reactions to large corporate merger attempts in the European Union during 1997 to 2006 using hand\u2010collected data. We document widespread economic nationalism in which the government prefers that target companies remain domestically owned rather than foreign\u2010owned. This preference is stronger in times and countries with strong far\u2010right parties and weak governments. Nationalist government reactions have both direct and indirect economic impacts on mergers. In particular, these reactions not only affect the outcome of the mergers that they target but also deter foreign companies from bidding for other companies in that country in the future.",
+            "link": "https://doi.org/10.1111/jofi.12086"
+        },
+        {
+            "no": "9",
+            "title": "Exit as Governance: An Empirical Analysis",
+            "date": "13 June 2013",
+            "author": [
+                "SREEDHAR T. BHARATH",
+                "SUDARSHAN JAYARAMAN",
+                "VENKY NAGAR"
+            ],
+            "abstract": "Recent theory posits a new governance channel available to blockholders: threat of exit. Threat of exit, as opposed to actual exit, is difficult to measure directly. However, a crucial property is that it is weaker when stock liquidity is lower and vice versa. We use natural experiments of financial crises and decimalization as exogenous shocks to stock liquidity. Firms with larger blockholdings experience greater declines (increases) in firm value during the crises (decimalization), particularly if the manager's wealth is sensitive to the stock price and thus to exit threats. Additional tests suggest exit threats are distinct from blockholder intervention.",
+            "link": "https://doi.org/10.1111/jofi.12073"
+        },
+        {
+            "no": "10",
+            "title": "Fire Sales in a Model of Complexity",
+            "date": "12 August 2013",
+            "author": [
+                "RICARDO J. CABALLERO",
+                "ALP SIMSEK"
+            ],
+            "abstract": "We present a model of financial crises that stem from endogenous complexity. We conceptualize complexity as banks' uncertainty about the financial network of cross exposures. As conditions deteriorate, cross exposures generate the possibility of a domino effect of bankruptcies. As this happens, banks face an increasingly complex environment since they need to understand a greater fraction of the financial network to assess their own financial health. Complexity dramatically amplifies banks' perceived counterparty risk, and makes relatively healthy banks reluctant to buy risky assets. The model also features a novel complexity externality.",
+            "link": "https://doi.org/10.1111/jofi.12087"
+        },
+        {
+            "no": "11",
+            "title": "Consumption Volatility Risk",
+            "date": "13 May 2013",
+            "author": [
+                "OLIVER BOGUTH",
+                "LARS\u2010ALEXANDER KUEHN"
+            ],
+            "abstract": "We show that time variation in macroeconomic uncertainty affects asset prices. Consumption volatility is a negatively priced source of risk for a wide variety of test portfolios. At the firm level, exposure to consumption volatility risk predicts future returns, generating a spread across quintile portfolios in excess of 7% annually. This premium is explained by cross\u2010sectional differences in the sensitivity of dividend volatility to consumption volatility. Stocks with volatile cash flows in uncertain aggregate times require higher expected returns.",
+            "link": "https://doi.org/10.1111/jofi.12058"
+        },
+        {
+            "no": "12",
+            "title": "Pricing Model Performance and the Two\u2010Pass Cross\u2010Sectional Regression Methodology",
+            "date": "15 February 2013",
+            "author": [
+                "RAYMOND KAN",
+                "CESARE ROBOTTI",
+                "JAY SHANKEN"
+            ],
+            "abstract": "Over the years, many asset pricing studies have employed the sample cross\u2010sectional regression (CSR) R2 as a measure of model performance. We derive the asymptotic distribution of this statistic and develop associated model comparison tests, taking into account the impact of model misspecification on the variability of the CSR estimates. We encounter several examples of large R2 differences that are not statistically significant. A version of the intertemporal capital asset pricing model (CAPM) exhibits the best overall performance, followed by the Fama\u2013French three\u2010factor model. Interestingly, the performance of prominent consumption CAPMs is sensitive to variations in experimental design.",
+            "link": "https://doi.org/10.1111/jofi.12035"
+        },
+        {
+            "no": "13",
+            "title": "International Asset Pricing with Recursive Preferences",
+            "date": "12 August 2013",
+            "author": [
+                "RICCARDO COLACITO",
+                "MARIANO M. CROCE"
+            ],
+            "abstract": "Focusing on data from the United States and the United Kingdom, we document that both the anomaly identified by Backus and Smith, which concerns the low correlation between consumption differentials and exchange rates, and the forward premium anomaly, which concerns the tendency of high interest rate currencies to appreciate, have become more severe over time. Taking into account different capital mobility regimes, we show that these anomalies turn into general equilibrium regularities in a two\u2010country and two\u2010good economy with Epstein and Zin preferences, frictionless markets, and correlated long\u2010run growth prospects.",
+            "link": "https://doi.org/10.1111/jofi.12088"
+        },
+        {
+            "no": "14",
+            "title": "MISCELLANEA",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12112"
+        },
+        {
+            "no": "15",
+            "title": "ANNOUNCEMENTS",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12177"
+        },
+        {
+            "no": "16",
+            "title": "Call for Papers",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.FP468"
+        },
+        {
+            "no": "17",
+            "title": "INDEX TO VOLUME LXVIII",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12113"
+        },
+        {
+            "no": "18",
+            "title": "INDEX TO VOLUME LXVIII",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12114"
+        },
+        {
+            "no": "19",
+            "title": "Preliminary Program AFA 2014 PHILADELPHIA MEETINGS",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.FE470"
+        },
+        {
+            "no": "20",
+            "title": "Participant Schedule Report Participants in the AFA 2014 Philadelphia Meetings",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.FE469"
+        },
+        {
+            "no": "21",
+            "title": "BACK MATTER",
+            "date": "12 November 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12115"
+        }
+    ]
+}

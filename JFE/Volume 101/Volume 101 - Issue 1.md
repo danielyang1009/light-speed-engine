@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - July 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Information spillovers and performance persistence for hedge funds
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Vincent Glode
 - Richard C. Green
 ### Abstract
@@ -25,7 +25,7 @@ We present a simple model that rationalizes performance persistence in hedge fun
 ## 3. The effect of regulation on optimal corporate pension risk
 ### Date
 - Feb 2011
-### Authors
+### Author
 - David A. Love
 - Paul A. Smith
 - David W. Wilcox
@@ -37,7 +37,7 @@ We study firms' pension prefunding and portfolio allocation choices in a model i
 ## 4. Do hedge funds' exposures to risk factors predict their future returns?
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Turan G. Bali
 - Stephen J. Brown
 - Mustafa Onur Caglayan
@@ -49,7 +49,7 @@ This paper investigates hedge funds' exposures to various financial and macroeco
 ## 5. Accelerated share repurchases
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Leonce Bargeron
 - Manoj Kulchania
 - Shawn Thomas
@@ -61,7 +61,7 @@ Accelerated share repurchases (ASRs) are credible commitments by firms to repurc
 ## 6. The term structures of equity and interest rates
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Martin Lettau
 - Jessica A. Wachter
 ### Abstract
@@ -72,7 +72,7 @@ This paper proposes a dynamic risk-based model capable of jointly explaining the
 ## 7. Information aggregation around macroeconomic announcements: Revisions matter
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Thomas Gilbert
 ### Abstract
 I show that an empirical relation exists between stock returns on macroeconomic news announcement days and the future revisions of the released data but that this link differs across the business cycle. Using three major macroeconomic series that undergo significant revisions (nonfarm payroll, gross domestic product, and industrial production), I present evidence that daily returns on the Standard & Poor's 500 index and revisions are positively related in expansions and negatively related in recessions. The results suggest that revisions do matter, i.e., that investors care about the final revised value of a macroeconomic series, that they infer accurate information from the release of the preliminary inaccurate report, and that the more precise information is aggregated into prices on the day of the initial announcement. The results are consistent with the predictions of rational expectations trading models around public announcements combined with well-established empirical results on the asymmetric interpretation of information across the business cycle.
@@ -82,7 +82,7 @@ I show that an empirical relation exists between stock returns on macroeconomic 
 ## 8. The causes and consequences of venture capital stage financing
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Xuan Tian
 ### Abstract
 This paper examines the causes and consequences of venture capital (VC) stage financing. Using information about the physical location of an entrepreneurial firm and the geographic distance between the VC investor and the firm, I show that VC investors located farther away from an entrepreneurial firm tend to finance the firm using a larger number of financing rounds, shorter durations between successive rounds, and investing a smaller amount in each round. However, VC investors' propensity to stage is independent of whether the firm is located in a close-knit community. I also find that VC staging positively affects the entrepreneurial firm's propensity to go public, operating performance in the initial public offering (IPO) year, and post-IPO survival rate, but only if the firm is located far away from the VC investor. However, the effect of VC staging on entrepreneurial firm's performance is independent of whether it is located in a close-knit community. The findings are robust to a variety of alternative proximity measures, instrumental variables, and econometric approaches for dealing with endogeneity problems.
@@ -92,7 +92,7 @@ This paper examines the causes and consequences of venture capital (VC) stage fi
 ## 9. The costs of intense board monitoring
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Olubunmi Faleye
 - Rani Hoitash
 - Udi Hoitash
@@ -104,7 +104,7 @@ We study the effects of the intensity of board monitoring on directors' effectiv
 ## 10. Real investment and risk dynamics
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Ilan Cooper
 - Richard Priestley
 ### Abstract
@@ -115,7 +115,7 @@ We ask to what extent the negative relation between investment and average stock
 ## 11. Missing the marks? Dispersion in corporate bond valuations across mutual funds
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Gjergji Cici
 - Scott Gibson
 - John J. Merrick
@@ -127,7 +127,7 @@ We study the dispersion of month-end valuations placed on identical corporate bo
 ## 12. International diversification with frontier markets
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Dave Berger
 - Kuntara Pukthuanthong
 - J. Jimmy Yang

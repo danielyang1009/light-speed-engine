@@ -1,0 +1,276 @@
+{
+    "journal": "JF",
+    "volume": "41",
+    "issue": "1",
+    "date": "March 1986",
+    "page": "Pages: i-vi, 1-293, vii-xxxvii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb00403.x"
+        },
+        {
+            "no": "2",
+            "title": "Rights versus Underwritten Offerings: An Asymmetric Information Approach",
+            "date": "March 1986",
+            "author": [
+                "ROBERT HEINKEL",
+                "EDUARDO S. SCHWARTZ"
+            ],
+            "abstract": "By assuming asymmetric information between investors and firms seeking new equity, we derive a rational expectations, partially revealing information equilibrium in which three forms of equity financing are observed. The highest quality firms employ a standby rights offers, intermediate quality firms signal their true value in the choice of a subscription price in an uninsured rights offer, while low\u2010quality firms remain indistinguishable to investors by making fully underwritten issues. The model offers justification for many firms using apparently more costly underwritten offers, provides a reason why firms using uninsured rights offers do not set arbitrarily low subscription prices to ensure the success of the issue, and explains the simultaneous existence of the three financing vehicles.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04488.x"
+        },
+        {
+            "no": "3",
+            "title": "Asymmetric Information and Risky Debt Maturity Choice",
+            "date": "March 1986",
+            "author": [
+                "MARK J. FLANNERY"
+            ],
+            "abstract": "When capital market investors and firm insiders possess the same information about a company's prospects, its liabilities will be priced in a way that makes the firm indifferent to the composition of its financial liabilities (at least under certain, well\u2010known circumstances). However, if firm insiders are systematically better informed than outside investors, they will choose to issue those types of securities that the market appears to overvalue most. Knowing this, rational investors will try to infer the insiders' information from the firm's financial structure. This paper evaluates the extent to which a firm's choice of risky debt maturity can signal insiders' information about firm quality. If financial market transactions are costless, a firm's financial structure cannot provide a valid signal. With positive transaction costs, however, high\u2010quality firms can sometimes effectively signal their true quality to the market. The existence of a signalling equilibrium is shown to depend on the (exogenous) distribution of firms' quality and the magnitude of underwriting costs for corporate debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04489.x"
+        },
+        {
+            "no": "4",
+            "title": "Informational Efficiency and Information Subsets",
+            "date": "March 1986",
+            "author": [
+                "MARK LATHAM"
+            ],
+            "abstract": "This paper proposes a new definition of the Efficient Markets Hypothesis with respect to information, which is more formal and precise than those of Rubinstein 13, Fama 4, Jensen 6, and Beaver 1, and which fits well as a framework for interpreting the many tests of the Efficient Markets Hypothesis in the literature. Security markets are here considered \u201cefficient with respect to information set \u03d5\u201d if and only if revealing \u03d5 to all agents would change neither equilibrium prices nor portfolios. In addition to other desirable features, this definition has the \u201csubset property\u201d: efficiency with respect to \u03d5 implies efficiency with respect to any subset of \u03d5.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04490.x"
+        },
+        {
+            "no": "5",
+            "title": "The Effects of Different Taxes on Risky and Risk\u2010free Investment and on the Cost of Capital",
+            "date": "March 1986",
+            "author": [
+                "YU ZHU",
+                "IRWIN FRIEND"
+            ],
+            "abstract": "This paper analyzes the major factors which determine the effects of taxation on the value of risky assets and on the cost of capital, and shows how the magnitudes and even the signs of these effects depend on the values assumed for a few key parameters in the model. Using plausible values for these parameters, it is shown that the results obtained are frequently counter\u2010intuitive.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04491.x"
+        },
+        {
+            "no": "6",
+            "title": "A Utility\u2010Based Model of Common Stock Price Movements",
+            "date": "March 1986",
+            "author": [
+                "ROBERT H. LITZENBERGER",
+                "EHUD I. RONN"
+            ],
+            "abstract": "This paper develops and tests a nonlinear utility\u2010based econometric model of the temporal behavior of aggregate stock price movements based on a constant relative risk aversion utility function and an observable information set consisting of aggregate consumption, aggregate dividends, and past stock prices. The stochastic process derived from time\u2010series analyses of consumption and dividends measured over annual intervals is used to derive and empirically test a closed\u2010form solution for stock\u2010price movements. The endogenization of discount rate changes in the utility\u2010based model is shown to be more consistent with aggregate stock price movements over a twenty\u2010year holdout period than constant discount rate models. The model is also used to estimate the representative investor's relative risk aversion. The estimate of 4.22 is consistent with that used by Grossman and Shiller in their perfect foresight model and is significantly higher than the relative risk aversion of 1.0 implied by logarithmic utility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04492.x"
+        },
+        {
+            "no": "7",
+            "title": "Stock Price Movements in Response to Stock Issues under Asymmetric Information",
+            "date": "March 1986",
+            "author": [
+                "WILLIAM S. KRASKER"
+            ],
+            "abstract": "This paper characterizes the function relating the number of new shares issued by a firm to the resulting change in the firm's stock price, when insiders are asymmetrically informed. We show that, in equilibrium, the stock price will be a decreasing function of the issue size; moreover, the rate of decrease can be so rapid to cause \u201cequity rationing.\u201d We also show that there will be underinvestment relative to the symmetric information case.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04493.x"
+        },
+        {
+            "no": "8",
+            "title": "Earnings Announcements, Stock Price Adjustment, and the Existence of Option Markets",
+            "date": "March 1986",
+            "author": [
+                "ROBERT JENNINGS",
+                "LAURA STARKS"
+            ],
+            "abstract": "This paper employs a new approach to study the effects of option trading on the behavior of underlying stock prices. Extant research compares distributional properties of the stock price at two points in time divided by an event in the option market that might affect price behavior. As an alternative, we examine the stock price adjustment to the release of quarterly earnings using samples of firms with and without listed options. We find the two samples exhibit different adjustment processes, with the nonoption firms requiring substantially more time to adjust.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04494.x"
+        },
+        {
+            "no": "9",
+            "title": "Valuation of American Futures Options: Theory and Empirical Tests",
+            "date": "March 1986",
+            "author": [
+                "ROBERT E. WHALEY"
+            ],
+            "abstract": "This paper reviews the theory of futures option pricing and tests the valuation principles on transaction prices from the S&P 500 equity futures option market. The American futures option valuation equations are shown to generate mispricing errors which are systematically related to the degree the option is in\u2010the\u2010money and to the option's time to expiration. The models are also shown to generate abnormal risk\u2010adjusted rates of return after transaction costs. The joint hypothesis that the American futures option pricing models are correctly specified and that the S&P 500 futures option market is efficient is refuted, at least for the sample period January 28, 1983 through December 30, 1983.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04495.x"
+        },
+        {
+            "no": "10",
+            "title": "Efficiency Tests of the Foreign Currency Options Market",
+            "date": "March 1986",
+            "author": [
+                "JAMES N. BODURTHA JR.",
+                "GEORGES R. COURTADON"
+            ],
+            "abstract": "Based on a new options transactions data base from the Philadelphia Stock Exchange Foreign Currency Options Market, this paper examines the importance of the effect of nonsynchronous prices and transaction costs on the usual option market efficiency tests. The tests conducted are based on the transaction cost adjusted early exercise and put\u2010call parity pricing boundaries applicable to the American foreign currency options market. The test results show that the put\u2010call parity boundary tests are sensitive to both nonsynchronous prices and transaction costs. The early exercise boundary tests are sensitive to transaction costs but are not very sensitive to simultaneity of the option price and the underlying spot price. Under the no\u2010transaction costs scenario, a large number of early exercise boundary violations is found even when simultaneous spot and option prices are used. These violations disappear when actual transaction costs are taken into account.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04496.x"
+        },
+        {
+            "no": "11",
+            "title": "Beating the Foreign Exchange Market",
+            "date": "March 1986",
+            "author": [
+                "RICHARD J. SWEENEY"
+            ],
+            "abstract": "Filter rule profits found in foreign exchange markets in the early days of the current managed float persist in later periods, as shown by statistical tests developed and implemented here. The test is consistent with, but independent of, a wide variety of asset pricing models. The profits found cannot be explained by risk if risk premia are constant over time. Inclusion of the home\u2010foreign interest rate differential in computing profits has little effect on the comparison of filter returns to those of buy\u2010and\u2010hold.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04497.x"
+        },
+        {
+            "no": "12",
+            "title": "A Defense of Traditional Hypotheses about the Term Structure of Interest Rates",
+            "date": "March 1986",
+            "author": [
+                "JOHN Y. CAMPBELL"
+            ],
+            "abstract": "Expectations theories of asset returns may be interpreted either as stating that risk premia are zero or that they are constant through time. Under the former interpretation, different versions of the expectations theory of the term structure are inconsistent with one another, but I show that this does not necessarily carry over to the constant risk premium interpretation of the theory. I present a general equilibrium example in which different types of risk premium are constant through time and dependent only on maturity. Furthermore, I argue that differences among expectations theories are second\u2010order effects of bond yield variability. I develop an approximate linearized framework for analysis of the term structure in which these differences disappear, and I test its accuracy in practice using data from the CRSP government bond tapes.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04498.x"
+        },
+        {
+            "no": "13",
+            "title": "Valuation and Optimal Exercise of the Wild Card Option in the Treasury Bond Futures Market",
+            "date": "March 1986",
+            "author": [
+                "ALEX KANE",
+                "ALAN J. MARCUS"
+            ],
+            "abstract": "The Chicago Board of Trade Treasury Bond Futures Contract allows the short position several delivery options as to when and with which bond the contract will be settled. The timing option allows the short position to choose any business day in the delivery month to make delivery. In addition, the contract settlement price is locked in at 2:00 p.m. when the futures market closes, despite the facts that the short position need not declare an intent to settle the contract until 8:00 p.m. and that trading in Treasury bonds can occur all day in dealer markets. If bond prices change significantly between 2:00 and 8:00 p.m., the short has the option of settling the contract at a favorable 2:00 p.m. price. This phenomenon, which recurs on every trading day of the delivery month, creates a sequence of 6\u2010hour put options for the short position which has been dubbed the \u201cwild card option.\u201d This paper presents a valuation model for the wild card option and computes estimates of the value of that option, as well as rules for its optimal exercise.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04499.x"
+        },
+        {
+            "no": "14",
+            "title": "Asset Pricing and Expected Inflation",
+            "date": "March 1986",
+            "author": [
+                "REN\u00c9 M. STULZ"
+            ],
+            "abstract": "This paper provides an equilibrium model in which expected real returns on common stocks are negatively related to expected inflation and money growth. It is shown that the fall in real wealth associated with an increase in expected inflation decreases the real rate of interest and the expected real rate of return of the market portfolio. The expected real rate of return of the market portfolio falls less, for a given increase in expected inflation, when the increase in expected inflation is caused by an increase in money growth rather than by a worsening of the investment opportunity set. The model has empirical implications for the effect of a change in expected inflation on the cross\u2010sectional distribution of asset returns and can help to understand why assets whose return covaries positively with expected inflation may have lower expected returns. The model also agrees with explanations advanced by Fama [5] and Geske and Roll [10] for the negative relation between stock returns and inflation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04500.x"
+        },
+        {
+            "no": "15",
+            "title": "Excess Asset Reversions and Shareholder Wealth",
+            "date": "March 1986",
+            "author": [
+                "MICHAEL J. ALDERSON",
+                "K. C. CHEN"
+            ],
+            "abstract": "The ownership of pension assets in a defined benefit pension plan is an unresolved issue in corporate finance. The issue is important because it defines the appropriate investment policy for a pension fund. In this paper, we summarize the ownership debate in the form of two mutually exclusive theories. We then focus on a recently popular event in pension finance, excess asset reversions. Our paper demonstrates the valuation effects associated with this event in a stochastic dominance framework. Under certain conditions, a reversion constitutes an expropriation of wealth from the participants and beneficiaries of the plan to the firm. Using data provided by the Pension Benefit Guaranty Corporation and the Center for Research in Security Prices tape, we examine the returns to the shareholders of 58 companies which conducted excess asset reversions between 1980 and 1984. Our results show that large abnormal returns accrued to these shareholders around the time of the reversion. These findings have implications both for the appropriate investment policy of pension funds and for public policy with respect to plan terminations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04501.x"
+        },
+        {
+            "no": "16",
+            "title": "LaPlace Transforms as Present Value Rules: A Note",
+            "date": "March 1986",
+            "author": [
+                "STEPHEN A. BUSER"
+            ],
+            "abstract": "The present value equation in finance is shown to be equivalent to the Laplace transformation in mathematics. Based on this observation, the list of known analytic solutions for the present value problem is increased from a handful to more than one hundred. General properties of the Laplace transform are examined as well in light of the newly discovered significance for finance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04502.x"
+        },
+        {
+            "no": "17",
+            "title": "Some Aspects of Equilibrium for a Cross\u2010Section of Firms Signalling Profitability with Dividends: A Note",
+            "date": "March 1986",
+            "author": [
+                "ANIL K. MAKHIJA",
+                "HOWARD E. THOMPSON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04503.x"
+        },
+        {
+            "no": "18",
+            "title": "The Effect of Three Mile Island on Utility Bond Risk Premia: A Note",
+            "date": "March 1986",
+            "author": [
+                "W. BRIAN BARRETT",
+                "ANDREA J. HEUSON",
+                "ROBERT W. KOLB"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04504.x"
+        },
+        {
+            "no": "19",
+            "title": "A Note on the Welfare Consequences of New Option Markets",
+            "date": "March 1986",
+            "author": [
+                "BARRY SCHACHTER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04505.x"
+        },
+        {
+            "no": "20",
+            "title": "Testing Portfolio Efficiency when the Zero\u2010Beta Rate is Unknown: A Note",
+            "date": "March 1986",
+            "author": [
+                "JAY SHANKEN"
+            ],
+            "abstract": "A lower bound on the distribution function of the likelihood ratio test of portfolio efficiency is derived. An empirical application demonstrates that the bound may sometimes be used to infer rejection of the null hypothesis without appeal to asymptotic statistical approximations. A procedure for incorporating partial information about the zero\u2010beta intercept, in the multivariate framework, is also developed and applied.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04506.x"
+        },
+        {
+            "no": "21",
+            "title": "Adjusting for Beta Bias: An Assessment of Alternate Techniques: A Note",
+            "date": "March 1986",
+            "author": [
+                "THOMAS H. McINISH",
+                "ROBERT A. WOOD"
+            ],
+            "abstract": "This paper tests the effectiveness of techniques proposed by: Scholes\u2010Williams; Dimson; Fowler, Rorke, and Jog; and Cohen, Hawawini, Maier, Schwartz, and Whitcomb to control for bias in beta estimates from thin trading and price adjustment delays. Each technique produces beta estimates that reduce the amount of this bias, but the amount of reduction in the best case is only 29%.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04507.x"
+        },
+        {
+            "no": "22",
+            "title": "Book Reviews",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nRecent Advances in Corporate Finance. Edited by EDWARD ALTMAN and MARTI SUBRAHMANYAM.\nInvestments. By NANCY L. JACOB and R. RICHARDSON PETTIT.\nAn Introduction to Financial Management. By GLENN V. HENDERSON, JR., GARY L. TRENNEPOHL, and JAMES E. WERT.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04508.x"
+        },
+        {
+            "no": "23",
+            "title": "MISCELLANEA",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04509.x"
+        },
+        {
+            "no": "24",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04510.x"
+        },
+        {
+            "no": "25",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04511.x"
+        },
+        {
+            "no": "26",
+            "title": "STYLE INSTRUCTIONS",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04512.x"
+        },
+        {
+            "no": "27",
+            "title": "Back Matter",
+            "date": "March 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb00404.x"
+        }
+    ]
+}

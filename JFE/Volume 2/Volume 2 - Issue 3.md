@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Sep 1975
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Price performance of common stock new issues
 ### Date
 - Sep 1975
-### Authors
+### Author
 - Roger G. Ibbotson
 ### Abstract
 The paper studies both the initial and aftermarket performance (measured by risk-adjusted returns) on newly issued common stocks which were offered to the public during the 1960s. The results confirm that average initial performance is positive (11.4 percent), while the distribution of returns is skewed so that the subscriber of a single random new issue offering has about an equal chance for gain or loss. The results are generally consistent with aftermarket efficiency. Positive initial performance along with aftermarket efficiency indicate that new issue offerings are underpriced. The paper provides insights into this underpricing mystery, but does not solve it.
@@ -25,7 +25,7 @@ The paper studies both the initial and aftermarket performance (measured by risk
 ## 3. Motivating managers to make investment decisions
 ### Date
 - Sep 1975
-### Authors
+### Author
 - Donald G. Heckerman
 ### Abstract
 Owners of capital frequently lack knowledge about investment opportunities. One alternative is to turn to a manager for assistance. The owner's problem of contracting for the services of a manager is treated as a problem in buying information. The surprising result is that it is sometimes possible to trade information even when the owner is unable to form his own assessment of the information's value. Under some conditions it is possible to write a managerial compensation contract which will induce the manager to act in the best interests of the owner. These conditions require owner knowledge of the manager's employment and investment alternatives and risk preferences as well as some, but not all, of the characteristics of the investment opportunities.
@@ -35,7 +35,7 @@ Owners of capital frequently lack knowledge about investment opportunities. One 
 ## 4. Cash demand, liquidation costs and capital market equilibrium under uncertainty
 ### Date
 - Sep 1975
-### Authors
+### Author
 - Andrew H. Chen
 - E.Han Kim
 - Stanley J. Kon
@@ -47,7 +47,7 @@ In this paper, the portfolio and the liquidity planning problems are unified and
 ## 5. Delayed risks and risk premiums
 ### Date
 - Sep 1975
-### Authors
+### Author
 - Philippe Caperaa
 - Louis Eeckhoudt
 ### Abstract

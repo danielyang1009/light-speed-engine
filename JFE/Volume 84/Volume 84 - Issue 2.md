@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Corporate financing decisions when investors take the path of least resistance
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Malcolm Baker
 - Joshua Coval
 - Jeremy C. Stein
@@ -26,7 +26,7 @@ We argue that inertial behavior on the part of investors can have significant co
 ## 3. Private credit in 129 countries
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Simeon Djankov
 - Caralee McLiesh
 - Andrei Shleifer
@@ -38,7 +38,7 @@ We investigate cross-country determinants of private credit, using new data on l
 ## 4. Politically connected CEOs, corporate governance, and Post-IPO performance of China's newly partially privatized firms
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Joseph P.H. Fan
 - T.J. Wong
 - Tianyu Zhang
@@ -50,7 +50,7 @@ Almost 27% of the CEOs in a sample of 790 newly partially privatized firms in Ch
 ## 5. Firm-specific risk and equity market development
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Gregory Brown
 - Nishad Kapadia
 ### Abstract
@@ -61,7 +61,7 @@ We show that the increase in firm-specific risk in the US stock market is the re
 ## 6. Firm-specific attributes and the cross-section of momentum
 ### Date
 - Feb 2006
-### Authors
+### Author
 - Jacob S. Sagi
 - Mark S. Seasholes
 ### Abstract
@@ -72,7 +72,7 @@ This paper identifies observable firm-specific attributes that drive momentum. W
 ## 7. An analysis of trade-size clustering and its relation to stealth trading
 ### Date
 - Feb 2006
-### Authors
+### Author
 - Gordon J. Alexander
 - Mark A. Peterson
 ### Abstract
@@ -83,7 +83,7 @@ NYSE and Nasdaq trades increasingly cluster on multiples of 500, 1,000, and 5,00
 ## 8. Drexel Burnham Lambert's bankruptcy and the subsequent decline in underwriter fees
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Miles Livingston
 - Glenn Williams
 ### Abstract
@@ -94,7 +94,7 @@ In the 1980s, Drexel Burnham Lambert dominated the underwriting of junk bonds wi
 ## 9. Foreign entry and bank competition
 ### Date
 - Apr 2006
-### Authors
+### Author
 - Rajdeep Sengupta
 ### Abstract
 Foreign entry and bank competition are modeled as the interaction between asymmetrically informed principals: The entrant uses collateral as a screening device to contest the incumbent's informational advantage. Both better information ex ante and stronger legal protection ex post are shown to facilitate the entry of low-cost outside competitors into credit markets. The entrant's success in gaining borrowers of higher quality by offering cheaper loans increases with its efficiency (cost) advantage. This paper accounts for evidence suggesting that foreign banks tend to lend more to large firms thereby neglecting small and medium enterprises. The results also explain why this observed bias is stronger in emerging markets.
@@ -104,7 +104,7 @@ Foreign entry and bank competition are modeled as the interaction between asymme
 ## 10. Arrogance can be a virtue: Overconfidence, information acquisition, and market efficiency
 ### Date
 - Mar 2006
-### Authors
+### Author
 - K. Jeremy Ko
 - Zhijian (James) Huang
 ### Abstract
@@ -115,7 +115,7 @@ In behavioral finance, overconfidence has been established as a prevalent psycho
 ## 11. Disclosure frequency and earnings management
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Hoje Jo
 - Yongtae Kim
 ### Abstract

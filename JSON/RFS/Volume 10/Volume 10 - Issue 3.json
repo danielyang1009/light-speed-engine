@@ -1,0 +1,119 @@
+{
+    "journal": "RFS",
+    "volume": "10",
+    "issue": "3",
+    "date": "July 1997",
+    "page": "Pages 525\u2013901",
+    "article": [
+        {
+            "no": "1",
+            "title": "Short-Term Interest Rates as Subordinated Diffusions",
+            "date": "03 April 2015",
+            "author": [
+                "Timothy G. Conley",
+                "Lars Peter Hansen",
+                "Erzo G. J. Luttmer",
+                "Jos\u00e9 A. Scheinkman"
+            ],
+            "abstract": "In this article we characterize and estimate the process for short-term interest rates using federal funds interest rate data. We presume that we are observing a discrete-time sample of a stationary scalar diffusion. We concentrate on a class of models in which the local volatility elasticity is constant and the drift has a flexible specification. To accommodate missing observations and to break the link between \u201ceconomic time\u201d and calendar time, we model the sampling scheme as an increasing process that is not directly observed. We propose and implement two new methods for estimation. We find evidence for a volatility elasticity between one and one-half and two. When interest rates are high, local mean reversion is small and the mechanism for inducing stationarity is the increased volatility of the diffusion process.",
+            "link": "https://doi.org/10.1093/rfs/10.3.525"
+        },
+        {
+            "no": "2",
+            "title": "Measuring the Predictable Variation in Stock and Bond Returns",
+            "date": "03 April 2015",
+            "author": [
+                "Chris Kirby"
+            ],
+            "abstract": "Recent studies show that when a regression model is used to forecast stock and bond returns, the sample |$R^2$| increases dramatically with the length of the return horizon. These studies argue, therefore, that long-horizon returns are highly predictable. This article presents evidence that suggests otherwise. Long-horizon regressions can easily yield large values of the sample |$R^2,$| even if the populations |$R^2$| is smaller or zero. Moreover, long-horizon regressions with a small or zero population |$R^2$| can produce t-ratios that might be interpreted as evidence of strong predictability. In general, the analysis provides little support for the view that long-horizon returns are highly predictable.",
+            "link": "https://doi.org/10.1093/rfs/10.3.579"
+        },
+        {
+            "no": "3",
+            "title": "Valuation, Optimal Asset Allocation and Retirement Incentives of Pension Plans",
+            "date": "03 April 2015",
+            "author": [
+                "Suresh Sundaresan",
+                "Fernando Zapatero"
+            ],
+            "abstract": "We provide a framework in which we link the valuation and asset allocation policies of defined benefits plans with the lifetime marginal productivity schedule of the worker and the pension plan formula. In turn, we examine the retirement policies that are implied by the primitives of the model and the value of pension obligations. Our model provides an explicit valuation formula for a stylized defined benefits plan. The optimal asset allocation policies consist of the replicating portfolio independent of the pension liabilities. We show that the worker with retire when the ratio of pension benefits to current wages reaches a critical value which depends on the parameters of the pension plan and the discount rate. Using numerical techniques we analyze the feedback effect of retirement policies on the valuation of plans and on the asset allocation decisions.",
+            "link": "https://doi.org/10.1093/rfs/10.3.631"
+        },
+        {
+            "no": "4",
+            "title": "Trade Credit: Theories and Evidence",
+            "date": "03 April 2015",
+            "author": [
+                "Mitchell A. Petersen",
+                "Raghuram G. Rajan"
+            ],
+            "abstract": "Firms may be financed by their suppliers rather than by financial institutions. There are many theories of trade credit, but few comprehensive empirical tests. This article attempts to fill the gap. We focus on small firms whose access to capital markets may be limited and find evidence suggesting that firms use more trade credit when credit from financial institutions is unavailable. Suppliers lend to constrained firms because they have a comparative advantage in getting information about buyers, they can liquidate assets more efficiently, and they have an implicit equity stake in the firms. Finally, firms with better access to credit offer more trade credit.",
+            "link": "https://doi.org/10.1093/rfs/10.3.661"
+        },
+        {
+            "no": "5",
+            "title": "Financial System Architecture",
+            "date": "03 April 2015",
+            "author": [
+                "Arnoud W. A. Boot",
+                "Anjan V. Thakor"
+            ],
+            "abstract": "This article builds a theory of financial system architecture. We ask: what is a financial market, what is a bank, and what determines the economic role of each? Starting with basic assumptions about primitives\u2014the types of agents and the nature of informational asymmetries\u2014we provide a theory that explains which agents coalesce to form banks and which trade in the capital market. It is shown that borrowers of higher observable qualities access the financial market. Moreover, a financial system in its infancy will be bank-dominated, and increased financial market sophistication diminishes bank lending.",
+            "link": "https://doi.org/10.1093/rfs/10.3.693"
+        },
+        {
+            "no": "6",
+            "title": "Unconditional and Conditional Takeover Offers: Experimental Evidence",
+            "date": "03 April 2015",
+            "author": [
+                "Jayant R. Kale",
+                "Thomas H. Noe"
+            ],
+            "abstract": "This article compares the predictions of finite-shareholder models of conditional and unconditional takeover offers with the outcomes of laboratory experiments. In addition to differentiating between types of offers, the experimental designs span small and large firms as well as different levels of offer premiums. It is found that in unconditional offers to large groups of subjects (28\u201340), the symmetric Nash equilibrium predicts observed tendering frequencies quite accurately. For other experimental designs, the results are mixed. The analysis of shareholder tendering strategies from the experiment yields insights into (I) the effects of takeover offer designs, (ii) the appropriateness of finite-shareholder models for research, and (iii) the costs of free riding when shareholders are nonatomistic.",
+            "link": "https://doi.org/10.1093/rfs/10.3.735"
+        },
+        {
+            "no": "7",
+            "title": "Capital Structure and Product Market Behavior: An Examination of Plant Exit and Investment Decisions",
+            "date": "03 April 2015",
+            "author": [
+                "Dan Kovenock",
+                "Gordon M. Phillips"
+            ],
+            "abstract": "We examine whether sharp debt increases through leveraged buyouts and recapitalizations interact with market structure to influence plant closing and investment decisions of recapitalizing firms and their rivals. We take into account the fact that recapitalizations and investment decisions are both endogenous and may be simultaneously influenced by the same exogenous events. Following their recapitalizations, firms in industries with high concentration are more likely to close plants and less likely to invest. Rival firms are less likely to close plants and more likely to invest when the market share of leveraged firms is higher.",
+            "link": "https://doi.org/10.1093/rfs/10.3.767"
+        },
+        {
+            "no": "8",
+            "title": "One Day in the Life of a Very Common Stock",
+            "date": "03 April 2015",
+            "author": [
+                "David Easley",
+                "Nicholas M. Kiefer",
+                "Maureen O'Hara"
+            ],
+            "abstract": "Using the model structure of Easley and O'Hara (Journal of Finance, 47, 577\u2013604), we demonstrate how the parameters of the market-maker's beliefs can be estimated from trade data. We show how to extract information from both trade and no-trade intervals, and how intraday and interday data provide information. We derive and evaluate tests of model specification and estimate the information content of differential trade sizes. Our work provides a framework for testing extant microstructure models, shows how to extract the information contained in the trading process, and demonstrates the empirical importance of symmetric information models for asset prices.",
+            "link": "https://doi.org/10.1093/rfs/10.3.805"
+        },
+        {
+            "no": "9",
+            "title": "The Threshold Effect in Expected Volatility: A Model Based on Asymmetric Information",
+            "date": "03 April 2015",
+            "author": [
+                "Fran\u00e7ois M. Longin"
+            ],
+            "abstract": "This article develops theoretical insight into the threshold effect in expected volatility, which means that large shocks are less persistent in volatility than small shocks. The model uses the Kyle-Admati-Pfleiderer setup with liquidity traders, informed traders, and a market maker. Information is modeled as a GARCH process. It is shown that the GARCH process for information is transformed into a TARCH process (for \u201cthreshold GARCH\u201d) for the market price changes. Working with information flows allows one to derive implications for trading volume and market liquidity which provide the basis for a more complete test of the model.",
+            "link": "https://doi.org/10.1093/rfs/10.3.837"
+        },
+        {
+            "no": "10",
+            "title": "Entry, Exit, Market Makers, and the Bid-Ask Spread",
+            "date": "03 April 2015",
+            "author": [
+                "Sunil Wahal"
+            ],
+            "abstract": "The probability of entry and exit of dealers on the NASDAQ National Market (NNM) is significantly affected by trading intensity, volatility and the quoted bid-ask spread. Entry and exit of market makers is a pervasive phenomenon. Large-scale entry (exit) is associated with substantial declines (increases) in quoted end-of-day inside spreads, even after controlling for the effects of changes in volume and volatility. The spread changes are larger in magnitude for issues with few market makers; however, even for issues with a large number of market makers, substantial changes in quoted spreads take place. The results are consistent with the competitive model of dealer pricing.",
+            "link": "https://doi.org/10.1093/rfs/10.3.871"
+        }
+    ]
+}

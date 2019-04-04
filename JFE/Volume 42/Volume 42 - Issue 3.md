@@ -5,7 +5,7 @@
 ## 1. Changes in the management structure of the JFE
 ### Date
 - Nov 1996
-### Authors
+### Author
 - Michael C. Jensen
 - G. William Schwert
 ### Abstract
@@ -16,7 +16,7 @@
 ## 2. The financial performance of reverse leveraged buyouts
 ### Date
 - Nov 1996
-### Authors
+### Author
 - Robert W. Holthausen
 - David F. Larcker
 ### Abstract
@@ -27,7 +27,7 @@ We examine the accounting and market performance of reverse leveraged buyouts (i
 ## 3. Leasing and credit risk
 ### Date
 - Nov 1996
-### Authors
+### Author
 - Steven R. Grenadier
 ### Abstract
 Despite empirical evidence pointing to a strong similarity between lease contracts and junk bonds, the theoretical modeling of equilibrium lease determination has been confined primarily to default-free leases. This paper provides a unified framework for determining the equilibrium credit spread on leases subject to default risk. The model is flexible enough to be applied to a wide variety of real-world leasing structures, including security deposits, required up-front prepayments, embedded lease options, leases indexed to use, and lease credit insurance contracts.
@@ -37,7 +37,7 @@ Despite empirical evidence pointing to a strong similarity between lease contrac
 ## 4. Corporate governance and shareholder initiatives: Empirical evidence
 ### Date
 - Nov 1996
-### Authors
+### Author
 - Jonathan M. Karpoff
 - Paul H. Malatesta
 - Ralph A. Walkling
@@ -49,7 +49,7 @@ Shareholder-initiated proxy proposals on corporate governance issues became popu
 ## 5. Market timing ability and volatility implied in investment newsletters' asset allocation recommendations
 ### Date
 - Nov 1996
-### Authors
+### Author
 - John R. Graham
 - Campbell R. Harvey
 ### Abstract

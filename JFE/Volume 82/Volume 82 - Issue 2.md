@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Market transparency, liquidity externalities, and institutional trading costs in corporate bonds
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Hendrik Bessembinder
 - William Maxwell
 - Kumar Venkataraman
@@ -26,7 +26,7 @@ We develop a simple model of the effect of public transaction reporting on trade
 ## 3. The conditional CAPM does not explain asset-pricing anomalies
 ### Date
 - May 2005
-### Authors
+### Author
 - Jonathan Lewellen
 - Stefan Nagel
 ### Abstract
@@ -37,7 +37,7 @@ Recent studies suggest that the conditional CAPM holds, period by period, and th
 ## 4. The other January effect
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Michael J. Cooper
 - John J. McConnell
 - Alexei V. Ovtchinnikov
@@ -49,7 +49,7 @@ Streetlore since at least 1973 has touted the market return in January as a pred
 ## 5. Tunneling, propping, and expropriation: evidence from connected party transactions in Hong Kong
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Yan-Leung Cheung
 - P. Raghavendra Rau
 - Aris Stouraitis
@@ -61,7 +61,7 @@ We examine a sample of connected transactions between Hong Kong listed companies
 ## 6. Predicting stock returns
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Doron Avramov
 - Tarun Chordia
 ### Abstract
@@ -72,7 +72,7 @@ This paper studies whether incorporating business cycle predictors benefits a re
 ## 7. Asset pricing with unforeseen contingencies
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Alan Kraus
 - Jacob S. Sagi
 ### Abstract
@@ -83,7 +83,7 @@ We investigate an economy of heterogeneous agents that cannot specify all exogen
 ## 8. Competition and cooperation among exchanges: A theory of cross-listing and endogenous listing standards
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Thomas J. Chemmanur
 - Paolo Fulghieri
 ### Abstract

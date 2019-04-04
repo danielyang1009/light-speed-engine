@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why do private acquirers pay so little compared to public acquirers?
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Leonce L. Bargeron
 - Frederik P. Schlingemann
 - René M. Stulz
@@ -27,7 +27,7 @@ Using the longest event window, we find that public target shareholders receive 
 ## 3. Cross-ownership, returns, and voting in mergers
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Gregor Matvos
 - Michael Ostrovsky
 ### Abstract
@@ -38,7 +38,7 @@ We show that institutional shareholders of acquiring companies on average do not
 ## 4. Automatic bankruptcy auctions and fire-sales
 ### Date
 - Oct 2007
-### Authors
+### Author
 - B. Espen Eckbo
 - S. Karin Thorburn
 ### Abstract
@@ -49,7 +49,7 @@ We test for fire-sale tendencies in automatic bankruptcy auctions. We find evide
 ## 5. Investment frictions and leverage dynamics
 ### Date
 - Sep 2007
-### Authors
+### Author
 - Sergey Tsyplakov
 ### Abstract
 The paper examines the effect of investment frictions on leverage dynamics, using a model of a firm whose investment projects are (1) indivisible and lumpy, and (2) subject to time-to-build. Regressions on the model-simulated data demonstrate that investment frictions can provide alternative interpretations of the observed leverages shown in the empirical literature. Cross-sectional analysis of firms in the oil and gas extraction industries, as well as analysis across all industries, reveals the evidence that small firms have more volatile investments and longer time-to-build, which may explain the observed differences in leverage dynamics across small and large firms.
@@ -59,7 +59,7 @@ The paper examines the effect of investment frictions on leverage dynamics, usin
 ## 6. The divergence of liquidity commonality in the cross-section of stocks
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Avraham Kamara
 - Xiaoxia Lou
 - Ronnie Sadka
@@ -71,7 +71,7 @@ This paper demonstrates that the cross-sectional variation of liquidity commonal
 ## 7. Financing patterns around the world: Are small firms different?
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Thorsten Beck
 - Asli Demirgüç-Kunt
 - Vojislav Maksimovic
@@ -83,7 +83,7 @@ Using a firm-level survey database covering 48 countries, we investigate how fin
 ## 8. Who are the active investors?
 ### Date
 - Sep 2007
-### Authors
+### Author
 - Laura Bottazzi
 - Marco Da Rin
 - Thomas Hellmann
@@ -95,7 +95,7 @@ This paper examines the determinants and consequences of investor activism in ve
 ## 9. Testing limits to policy reversal: Evidence from Indian privatizations
 ### Date
 - Sep 2007
-### Authors
+### Author
 - Siddhartha G. Dastidar
 - Raymond Fisman
 - Tarun Khanna

@@ -1,0 +1,186 @@
+{
+    "journal": "JF",
+    "volume": "73",
+    "issue": "6",
+    "date": "December 2018",
+    "page": "Pages: 2467-3029",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "29 November 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12577"
+        },
+        {
+            "no": "2",
+            "title": "Do ETFs Increase Volatility?",
+            "date": "22 September 2018",
+            "author": [
+                "ITZHAK BEN\u2010DAVID",
+                "FRANCESCO FRANZONI",
+                "RABIH MOUSSAWI"
+            ],
+            "abstract": "Due to their low trading costs, exchange\u2010traded funds (ETFs) are a potential catalyst for short\u2010horizon liquidity traders. The liquidity shocks can propagate to the underlying securities through the arbitrage channel, and ETFs may increase the nonfundamental volatility of the securities in their baskets. We exploit exogenous changes in index membership and find that stocks with higher ETF ownership display significantly higher volatility. ETF ownership increases the negative autocorrelation in stock prices. The increase in volatility appears to introduce undiversifiable risk in prices because stocks with high ETF ownership earn a significant risk premium of up to 56 basis points monthly.",
+            "link": "https://doi.org/10.1111/jofi.12727"
+        },
+        {
+            "no": "3",
+            "title": "Unscheduled News and Market Dynamics",
+            "date": "09 August 2018",
+            "author": [
+                "J\u00c9R\u00d4ME DUGAST"
+            ],
+            "abstract": "When unscheduled news arrives, investors react with a stochastic delay yet still may exploit new information. In this context, I study the equilibrium dynamics of limit order markets. Continuous idiosyncratic liquidity shocks result in trades on both sides of the order book. News therefore arrives at random times. Following news, order flows become unbalanced and market depth is consumed, leading to positive covariance between price variability, trading volume, and order book unbalances. Holding the unconditional price variability constant, news frequency has a negative effect on both market depth and the variability\u2010volume covariance.",
+            "link": "https://doi.org/10.1111/jofi.12717"
+        },
+        {
+            "no": "4",
+            "title": "Arrested Development: Theory and Evidence of Supply\u2010Side Speculation in the Housing Market",
+            "date": "29 August 2018",
+            "author": [
+                "CHARLES G. NATHANSON",
+                "ERIC ZWICK"
+            ],
+            "abstract": "This paper studies the role of disagreement in amplifying housing cycles. Speculation is easier in the land market than in the housing market due to frictions that make renting less efficient than owner\u2010occupancy. As a result, undeveloped land facilitates construction and intensifies the speculation that causes booms and busts in house prices. This observation challenges the standard intuition that in cities where construction is easier, house price booms are smaller. It can also explain why the largest house price booms in the United States between 2000 and 2006 occurred in areas with elastic housing supply.",
+            "link": "https://doi.org/10.1111/jofi.12719"
+        },
+        {
+            "no": "5",
+            "title": "Influencing Control: Jawboning in Risk Arbitrage",
+            "date": "09 August 2018",
+            "author": [
+                "WEI JIANG",
+                "TAO LI",
+                "DANQING MEI"
+            ],
+            "abstract": "In an \u201cactivist risk arbitrage,\u201d a shareholder attempts to improve terms of an announced M&A through public campaigns. Activists target deals with low premiums and those susceptible to managerial conflicts of interest, including going\u2010private deals and deals in which CEOs receive outsized payments. Activist arbitrageurs are associated with a significant decrease in the probability that targets will be sold to the announced bidders, and an increase in the premium paid, both ex post among surviving deals and ex ante among all deals. Activist arbitrage serves as a governance mechanism in M&A and earns higher returns than passive arbitrage.",
+            "link": "https://doi.org/10.1111/jofi.12721"
+        },
+        {
+            "no": "6",
+            "title": "The Politics of Foreclosures",
+            "date": "22 September 2018",
+            "author": [
+                "SUMIT AGARWAL",
+                "GENE AMROMIN",
+                "ITZHAK BEN\u2010DAVID",
+                "SERDAR DINC"
+            ],
+            "abstract": "The U.S. House of Representatives Financial Services Committee considered many important banking reforms in 2009 to 2010. We show that, during this period, foreclosure starts on delinquent mortgages were delayed in the districts of committee members although there was no difference in delinquency rates between committee and noncommittee districts. In these areas, banks delayed the foreclosure starts by 0.5 months (relative to the 12\u2010month average). The estimated cost of delay to lenders is an order of magnitude greater than the campaign contributions by the political action committees of the largest mortgage servicing banks to the committee members in that period.",
+            "link": "https://doi.org/10.1111/jofi.12725"
+        },
+        {
+            "no": "7",
+            "title": "Currency Risk Factors in a Recursive Multicountry Economy",
+            "date": "09 August 2018",
+            "author": [
+                "RIC COLACITO",
+                "MARIANO M. CROCE",
+                "FEDERICO GAVAZZONI",
+                "ROBERT READY"
+            ],
+            "abstract": "Focusing on the 10 most traded currencies, we provide empirical evidence regarding a significant heterogeneous exposure to global growth news shocks. We incorporate this empirical fact in a frictionless risk\u2010sharing model with recursive preferences, multiple countries, and multiple consumption goods whose supply features both global and local short\u2010 and long\u2010run shocks. Since news shocks are priced, heterogeneous exposure to long\u2010lasting global growth shocks results in a relevant reallocation of international resources and currency adjustments. Our unified framework replicates the properties of the HML\u2010FX and HML\u2010NFA carry\u2010trade strategies studied by Lustig, Roussanov, and Verdelhan and Della Corte, Riddiough, and Sarno.",
+            "link": "https://doi.org/10.1111/jofi.12720"
+        },
+        {
+            "no": "8",
+            "title": "Collateral Constraints and the Law of One Price: An Experiment",
+            "date": "28 September 2018",
+            "author": [
+                "MARCO CIPRIANI",
+                "ANA FOSTEL",
+                "DANIEL HOUSER"
+            ],
+            "abstract": "We test the asset pricing implications of collateralized borrowing (that is, of using assets as collateral to borrow money) in the laboratory. To this purpose, we develop a general equilibrium model with collateral constraints amenable to laboratory implementation and gather experimental data. In the laboratory, assets that can be leveraged fetch higher prices than assets that cannot, even though assets' payoffs are identical in all states of the world. Collateral value, therefore, creates deviations from the Law of One Price. The spread between collateralizeable and noncollateralizeable assets is significant and quantitatively close to theoretical predictions.",
+            "link": "https://doi.org/10.1111/jofi.12722"
+        },
+        {
+            "no": "9",
+            "title": "The Impact of Bank Credit on Labor Reallocation and Aggregate Industry Productivity",
+            "date": "17 September 2018",
+            "author": [
+                "JOHN (JIANQIU) BAI",
+                "DANIEL CARVALHO",
+                "GORDON M. PHILLIPS"
+            ],
+            "abstract": "We provide evidence that the deregulation of U.S. state banking markets leads to a significant increase in the relative employment and capital growth of local firms with higher productivity, and that this effect is concentrated among young firms. Using financial data for a broad range of firms, our analysis suggests that this effect is driven by a shift in the composition of local bank credit supply toward more productive firms. We estimate that this effect translates into economically important gains in aggregate industry productivity and that changes in the allocation of labor play a central role in driving these gains.",
+            "link": "https://doi.org/10.1111/jofi.12726"
+        },
+        {
+            "no": "10",
+            "title": "Noncognitive Abilities and Financial Delinquency: The Role of Self\u2010Efficacy in Avoiding Financial Distress",
+            "date": "23 September 2018",
+            "author": [
+                "CAMELIA M. KUHNEN",
+                "BRIAN T. MELZER"
+            ],
+            "abstract": "We investigate a novel determinant of financial distress, namely, individuals' self\u2010efficacy, or belief that their actions can influence the future. Individuals with high self\u2010efficacy are more likely to take precautions that mitigate adverse financial shocks. They are subsequently less likely to default on their debt and bill payments, especially after experiencing negative shocks such as job loss or illness. Thus, noncognitive abilities are an important determinant of financial fragility and subjective expectations are an important factor in household financial decisions.",
+            "link": "https://doi.org/10.1111/jofi.12724"
+        },
+        {
+            "no": "11",
+            "title": "Sensation Seeking and Hedge Funds",
+            "date": "17 September 2018",
+            "author": [
+                "STEPHEN BROWN",
+                "YAN LU",
+                "SUGATA RAY",
+                "MELVYN TEO"
+            ],
+            "abstract": "We show that, motivated by sensation seeking, hedge fund managers who own powerful sports cars take on more investment risk but do not deliver higher returns, resulting in lower Sharpe ratios, information ratios, and alphas. Moreover, sensation\u2010seeking managers trade more frequently, actively, and unconventionally, and prefer lottery\u2010like stocks. We show further that some investors are themselves susceptible to sensation seeking and that sensation\u2010seeking investors fuel the demand for sensation\u2010seeking managers. While investors perceive sensation seekers to be less competent, they do not fully appreciate the superior investment skills of sensation\u2010avoiding fund managers.",
+            "link": "https://doi.org/10.1111/jofi.12723"
+        },
+        {
+            "no": "12",
+            "title": "MISCELLANEA",
+            "date": "29 November 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12574"
+        },
+        {
+            "no": "13",
+            "title": "ANNOUNCEMENTS",
+            "date": "29 November 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12575"
+        },
+        {
+            "no": "14",
+            "title": "AFA 2019 ATLANTA MEETINGS SEVENTY\u2010NINTH ANNUAL MEETING AMERICAN FINANCE ASSOCIATION Atlanta, Georgia",
+            "date": "29 November 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12576"
+        },
+        {
+            "no": "15",
+            "title": "Participant Schedule Report Participants in the AFA 2019 Atlanta Meetings January 4\u20136, 2019",
+            "date": "29 November 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12741"
+        },
+        {
+            "no": "16",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "29 November 2018",
+            "author": [
+                "Kenneth Singleton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12742"
+        },
+        {
+            "no": "17",
+            "title": "ISSUE INFORMATION BM",
+            "date": "29 November 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12578"
+        }
+    ]
+}

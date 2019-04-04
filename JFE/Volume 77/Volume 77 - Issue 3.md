@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Payout policy in the 21st century
 ### Date
 - Jul 2004
-### Authors
+### Author
 - Alon Brav
 - John R. Graham
 - Campbell R. Harvey
@@ -27,7 +27,7 @@ We survey 384 financial executives and conduct in-depth interviews with an addit
 ## 3. What drives merger waves?
 ### Date
 - May 2004
-### Authors
+### Author
 - Jarrad Harford
 ### Abstract
 Aggregate merger waves could be due to market timing or to clustering of industry shocks for which mergers facilitate change to the new environment. This study finds that economic, regulatory and technological shocks drive industry merger waves. Whether the shock leads to a wave of mergers, however, depends on whether there is sufficient overall capital liquidity. This macro-level liquidity component causes industry merger waves to cluster in time even if industry shocks do not. Market-timing variables have little explanatory power relative to an economic model including this liquidity component. The contemporaneous peak in divisional acquisitions for cash also suggests an economic motivation for the merger activity.
@@ -37,7 +37,7 @@ Aggregate merger waves could be due to market timing or to clustering of industr
 ## 4. Valuation waves and merger activity: The empirical evidence
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Matthew Rhodes–Kropf
 - David T. Robinson
 - S. Viswanathan
@@ -61,7 +61,7 @@ run counter to the conventional wisdom: Low long-run value to book firms buy hig
 ## 5. Determinants and implications of arbitrage holdings in acquisitions
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Jim Hsieh
 - Ralph A. Walkling
 ### Abstract
@@ -72,7 +72,7 @@ We find evidence of passive and active roles for arbitrageurs in the acquisition
 ## 6. The dynamics of mergers and acquisitions
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Erwan Morellec
 - Alexei Zhdanov
 ### Abstract
@@ -83,7 +83,7 @@ This paper presents a dynamic model of takeovers based on the stock market valua
 ## 7. Does it pay to be loyal? An empirical analysis of underwriting relationships and fees
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Timothy R. Burch
 - Vikram Nanda
 - Vincent Warther
@@ -95,7 +95,7 @@ We examine underwriting fees for repeat issuers of new securities to determine t
 ## 8. Index to volume 77
 ### Date
 - Sep 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link

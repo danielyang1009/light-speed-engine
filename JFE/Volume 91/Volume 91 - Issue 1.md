@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. High idiosyncratic volatility and low returns: International and further U.S. evidence
 ### Date
 - Dec 2007
-### Authors
+### Author
 - Andrew Ang
 - Robert J. Hodrick
 - Yuhang Xing
@@ -31,7 +31,7 @@ per month, after controlling for world market, size, and value factors. The effe
 ## 3. Idiosyncratic risk and the cross-section of expected stock returns
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Fangjian Fu
 ### Abstract
 Theories such as Merton [1987. A simple model of capital market equilibrium with incomplete information. Journal of Finance 42, 483–510] predict a positive relation between idiosyncratic risk and expected return when investors do not diversify their portfolio. Ang, Hodrick, Xing, and Zhang [2006. The cross-section of volatility and expected returns. Journal of Finance 61, 259–299], however, find that monthly stock returns are negatively related to the one-month lagged idiosyncratic volatilities. I show that idiosyncratic volatilities are time-varying and thus, their findings should not be used to imply the relation between idiosyncratic risk and expected return. Using the exponential GARCH models to estimate expected idiosyncratic volatilities, I find a significantly positive relation between the estimated conditional idiosyncratic volatilities and expected returns. Further evidence suggests that Ang et al.'s findings are largely explained by the return reversal of a subset of small stocks with high idiosyncratic volatilities.
@@ -41,7 +41,7 @@ Theories such as Merton [1987. A simple model of capital market equilibrium with
 ## 4. Redistribution by insurance market regulation: Analyzing a ban on gender-based retirement annuities
 ### Date
 - Dec 2007
-### Authors
+### Author
 - Amy Finkelstein
 - James Poterba
 - Casey Rothschild
@@ -53,7 +53,7 @@ We illustrate how equilibrium screening models can be used to evaluate the econo
 ## 5. Risk, uncertainty, and asset prices
 ### Date
 - Jan 2008
-### Authors
+### Author
 - Geert Bekaert
 - Eric Engstrom
 - Yuhang Xing
@@ -65,7 +65,7 @@ We identify the relative importance of changes in the conditional variance of fu
 ## 6. Dispersion in analysts’ earnings forecasts and credit rating
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Doron Avramov
 - Tarun Chordia
 - Gergana Jostova
@@ -78,7 +78,7 @@ This paper shows that the puzzling negative cross-sectional relation between dis
 ## 7. A market-clearing role for inefficiency on a limit order book
 ### Date
 - Dec 2007
-### Authors
+### Author
 - Jeremy Large
 ### Abstract
 Limit order markets with stationary dynamics attract equal volumes of market orders and uncanceled limit orders, equalizing the supply and demand for liquidity and immediacy. To maintain this balance, market orders must share any benefit obtained by limit order traders from more efficient trading conditions, such as better order queuing policies. Therefore an efficient market places a low price on immediacy, producing small bid–ask spreads. Furthermore, when price-discreteness leads to a mainly constant spread, cutting the price tick raises surplus. This is modeled with a stochastic sequential game, using stationarity considerations to bypass direct analysis of traders’ intricate market forecasts.

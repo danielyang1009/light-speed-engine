@@ -1,0 +1,119 @@
+{
+    "journal": "RFS",
+    "volume": "14",
+    "issue": "2",
+    "date": "April 2001",
+    "page": "Pages 313\u2013581",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Risk in Hedge Fund Strategies: Theory and Evidence from Trend Followers",
+            "date": "21 June 2015",
+            "author": [
+                "William Fung",
+                "David A. Hsieh"
+            ],
+            "abstract": "Hedge fund strategies typically generate option-like returns. Linear-factor models using benchmark asset indices have difficulty explaining them. Following the suggestions in Glosten and Jagannathan (1994), this article shows how to model hedge fund returns by focusing on the popular \u201ctrend-following\u201d strategy. We use lookback straddles to model trend-following strategies, and show that they can explain trend-following funds\u2019 returns better than standard asset indices. Though standard straddles lead to similar empirical results, lookback straddles are theoretically closer to the concept of trend following. Our model should be useful in the design of performance benchmarks for trend-following funds.",
+            "link": "https://doi.org/10.1093/rfs/14.2.313"
+        },
+        {
+            "no": "2",
+            "title": "Efficient Trading Strategies in the Presence of Market Frictions",
+            "date": "21 June 2015",
+            "author": [
+                "Ely\u00e8s Jouini",
+                "H\u00e9di Kallal"
+            ],
+            "abstract": "We provide a price characterization of efficient contingent claims\u2014that is, chosen by at least a rational agent\u2014in multiperiod economies with market frictions. Frictions include market incompleteness, transaction costs, short-selling, and borrowing costs. We characterize the inefficiency cost of a trading strategy\u2014its required investment minus the largest amount necessary to obtain the same utility level\u2014and we propose a measure of portfolio performance. We show that arbitrage bounds cannot be tightened based on efficiency without restricting preferences or endowments. We observe common investment strategies becoming inefficient with market frictions and others rationalized by them.",
+            "link": "https://doi.org/10.1093/rfs/14.2.343"
+        },
+        {
+            "no": "3",
+            "title": "Value-at-Risk-Based Risk Management: Optimal Policies and Asset Prices",
+            "date": "21 June 2015",
+            "author": [
+                "Suleyman Basak",
+                "Alexander Shapiro"
+            ],
+            "abstract": "This article analyzes optimal, dynamic portfolio and wealth/consumption policies of utility maximizing investors who must also manage market-risk exposure using Value-at-Risk (VaR). We find that VaR risk managers often optimally choose a larger exposure to risky assets than non-risk managers and consequently incur larger losses when losses occur. We suggest an alternative risk-management model, based on the expectation of a loss, to remedy the shortcomings of VaR. A general-equilibrium analysis reveals that the presence of VaR risk managers amplifies the stock-market volatility at times of down markets and attenuates the volatility at times of up markets.",
+            "link": "https://doi.org/10.1093/rfs/14.2.371"
+        },
+        {
+            "no": "4",
+            "title": "Optimal Portfolio Choice and the Valuation of Illiquid Securities",
+            "date": "21 June 2015",
+            "author": [
+                "Francis A. Longstaff"
+            ],
+            "abstract": "Traditional models of portfolio choice assume that investors can continuously trade unlimited amounts of securities. In reality, investors face liquidity constraints. I analyze a model where investors are restricted to trading strategies that are of bounded variation. An investor facing this type of illiquidity behaves very differently from an unconstrained investor. A liquidity-constrained investor endogenously acts as if facing borrowing and short-selling constraints, and one may take riskier positions than in liquid markets. I solve for the shadow cost of illiquidity and show that large price discounts can be sustained in a rational model.",
+            "link": "https://doi.org/10.1093/rfs/14.2.407"
+        },
+        {
+            "no": "5",
+            "title": "Underpricing and Entrepreneurial Wealth Losses in IPOs: Theory and Evidence",
+            "date": "21 June 2015",
+            "author": [
+                "Michel A. Habib",
+                "Alexander P. Ljungqvist"
+            ],
+            "abstract": "We model owners as solving a multidimensional problem when taking their firms public. Owners can affect the level of underpricing through the choices they make in promoting an issue, such as which underwriter to hire or on what exchange to list. The benefits of reducing underpricing in this way depend on the owners\u2019 participation in the offering and the magnitude of the dilution they suffer on retained shares. We argue that the extent to which owners trade off underpricing and promotion is determined by the minimization of their wealth losses. Evidence from a sample of U.S. initial public offering confirms our empirical predictions.",
+            "link": "https://doi.org/10.1093/rfs/14.2.433"
+        },
+        {
+            "no": "6",
+            "title": "Technological Innovation and Initial Public Offerings",
+            "date": "21 June 2015",
+            "author": [
+                "Vojislav Maksimovic",
+                "Pegaret Pichler"
+            ],
+            "abstract": "This article shows how both technological and competitive risks affect the timing of private and initial public offerings in an emerging industry. Early private financing occurs in industries that are perceived to be risky, with high development costs and low probability of being displaced by technologically superior rivals. Early public financing occurs in industries perceived to be viable, with low development costs and low probability of displacement. Due to feedback effects between financial and product markets, the value of investors\u2019 proprietary information is greater in private than in initial public offerings. This has implications for underpricing.",
+            "link": "https://doi.org/10.1093/rfs/14.2.459"
+        },
+        {
+            "no": "7",
+            "title": "The Price of a Smile: Hedging and Spanning in Option Markets",
+            "date": "21 June 2015",
+            "author": [
+                "Andrea Buraschi",
+                "Jens Jackwerth"
+            ],
+            "abstract": "The volatility smile changed drastically around the crash of 1987, and newoption pricing models have been proposed to accommodate that change. Deterministic volatility models allowfor more flexible volatility surfaces but refrain from introducing additional risk factors. Thus, options are still redundant securities. Alternatively, stochastic models introduce additional risk factors, and options are then needed for spanning of the pricing kernel. We develop a statistical test based on this difference in spanning. Using daily S&P 500 index options data from 1986\u20131995, our tests suggest that both in- and out-of-the-money options are needed for spanning. The findings are inconsistent with deterministic volatility models but are consistent with stochastic models that incorporate additional priced risk factors, such as stochastic volatility, interest rates, or jumps.",
+            "link": "https://doi.org/10.1093/rfs/14.2.495"
+        },
+        {
+            "no": "8",
+            "title": "Financial Constraints and Stock Returns",
+            "date": "21 June 2015",
+            "author": [
+                "Owen Lamont",
+                "Christopher Polk",
+                "Jes\u00fas Saa\u00e1-Requejo"
+            ],
+            "abstract": "We test whether the impact of financial constraints on firm value is observable in stock returns. We form portfolios of firms based on observable characteristics related to financial constraints and test for common variation in stock returns. Financially constrained firms\u2019 stock returns move together over time, suggesting that constrained firms are subject to common shocks. Constrained firms have low average stock returns in our 1968\u20131997 sample of growing manufacturing firms. We find no evidence that the relative performance of constrained firms reflects monetary policy, credit conditions, or business cycles.",
+            "link": "https://doi.org/10.1093/rfs/14.2.529"
+        },
+        {
+            "no": "9",
+            "title": "An Analysis of Default Correlations and Multiple Defaults",
+            "date": "21 June 2015",
+            "author": [
+                "Chunsheng Zhou"
+            ],
+            "abstract": "Evaluating default correlations or the probabilities of default by more than one firm is an important task in credit analysis, derivatives pricing, and risk management. However, default correlations cannot be measured directly, multiple-default modeling is technically difficult, and most existing credit models cannot be applied to analyze multiple defaults. This article develops a first-passage-time model, providing an analytical formula for calculating default correlations that is easily implemented and conveniently used for a variety of financial applications. The model also provides a theoretical justification for several empirical regularities in the credit risk literature.",
+            "link": "https://doi.org/10.1093/rfs/14.2.555"
+        },
+        {
+            "no": "10",
+            "title": "Book review. Comparing Financial Systems.",
+            "date": "21 June 2015",
+            "author": [
+                "Franklin Allen",
+                "Douglas Gale",
+                "Anjan V. Thakor"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/14.2.577"
+        }
+    ]
+}

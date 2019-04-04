@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Tunneling through intercorporate loans: The China experience
 ### Date
 - May 2010
-### Authors
+### Author
 - Guohua Jiang
 - Charles M.C. Lee
 - Heng Yue
@@ -26,7 +26,7 @@ This study investigates a particularly brazen form of corporate abuse, in which 
 ## 3. Short selling in initial public offerings
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Amy K. Edwards
 - Kathleen Weiss Hanley
 ### Abstract
@@ -37,7 +37,7 @@ Short sale constraints in the aftermarket of initial public offerings (IPOs) are
 ## 4. Identifying the effects of a lender of last resort on financial markets: Lessons from the founding of the fed
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Asaf Bernstein
 - Eric Hughson
 - Marc D. Weidenmier
@@ -49,7 +49,7 @@ We use the founding of the Federal Reserve to identify the effects of a lender o
 ## 5. Liquidity risk and the cross-section of hedge-fund returns
 ### Date
 - May 2010
-### Authors
+### Author
 - Ronnie Sadka
 ### Abstract
 This paper demonstrates that liquidity risk as measured by the covariation of fund returns with unexpected changes in aggregate liquidity is an important determinant in the cross-section of hedge-fund returns. The results show that funds that significantly load on liquidity risk subsequently outperform low-loading funds by about 6% annually, on average, over the period 1994–2008, while negative performance is observed during liquidity crises. The returns are independent of the liquidity a fund provides to its investors as measured by lockup and redemption notice periods, and they are also robust to commonly used hedge-fund factors, none of which carries a significant premium during the sample period. These findings highlight the importance of understanding systematic liquidity variations in the evaluation of hedge-fund performance.
@@ -59,7 +59,7 @@ This paper demonstrates that liquidity risk as measured by the covariation of fu
 ## 6. Measuring the timing ability and performance of bond mutual funds
 ### Date
 - May 2010
-### Authors
+### Author
 - Yong Chen
 - Wayne Ferson
 - Helen Peters
@@ -71,7 +71,7 @@ This paper evaluates the ability of bond funds to “market time” nine common 
 ## 7. Heterogeneity and peer effects in mutual fund proxy voting
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Gregor Matvos
 - Michael Ostrovsky
 ### Abstract
@@ -82,7 +82,7 @@ This paper studies voting in corporate director elections. We construct a compre
 ## 8. Estimating affine multifactor term structure models using closed-form likelihood expansions
 ### Date
 - May 2010
-### Authors
+### Author
 - Yacine Aït-Sahalia
 - Robert L. Kimmel
 ### Abstract
@@ -93,7 +93,7 @@ We develop and implement a technique for closed-form maximum likelihood estimati
 ## 9. Pricing American options under stochastic volatility and stochastic interest rates
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Alexey Medvedev
 - Olivier Scaillet
 ### Abstract
@@ -104,7 +104,7 @@ We introduce a new analytical approach to price American options. Using an expli
 ## 10. What drives corporate liquidity? An international survey of cash holdings and lines of credit
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Karl V. Lins
 - Henri Servaes
 - Peter Tufano

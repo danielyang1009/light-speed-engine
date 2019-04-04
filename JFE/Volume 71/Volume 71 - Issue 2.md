@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why are foreign firms listed in the U.S. worth more?
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Craig Doidge
 - G.Andrew Karolyi
 - René M Stulz
@@ -26,7 +26,7 @@ At the end of 1997, foreign companies with shares cross-listed in the U.S. had T
 ## 3. Investibility and return volatility
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Kee-Hong Bae
 - Kalok Chan
 - Angela Ng
@@ -38,7 +38,7 @@ Unlike previous studies that examine how emerging market return volatility chang
 ## 4. Corporate governance and firm value: evidence from the Korean financial crisis
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Jae-Seung Baek
 - Jun-Koo Kang
 - Kyung Suh Park
@@ -50,7 +50,7 @@ During the 1997 Korean financial crisis, firms with higher ownership concentrati
 ## 5. Bailout and conglomeration
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Se-Jik Kim
 ### Abstract
 This paper develops a model of business groups in emerging markets where banks cannot accurately distinguish between good (high productivity) and bad (low productivity) borrower firms. For stand-alone firms, banks can infer the proportion of bad firms among those that default on contracted debt repayments, and might optimally choose to liquidate all defaulting firms in order to reduce the number of bad firms. Business groups, however, obscure the productivity of individual firms. The optimal policy might then be full bailout so as not to risk eliminating good firms. Given the bank's bailout policy, risk-averse firms might form a conglomerate to reduce the risk of liquidation.
@@ -60,7 +60,7 @@ This paper develops a model of business groups in emerging markets where banks c
 ## 6. The illusory nature of momentum profits
 ### Date
 - Feb 2004
-### Authors
+### Author
 - David A. Lesmond
 - Michael J. Schill
 - Chunsheng Zhou
@@ -72,7 +72,7 @@ Our paper re-examines the profitability of relative strength or momentum trading
 ## 7. Death spiral convertibles
 ### Date
 - Feb 2004
-### Authors
+### Author
 - Pierre Hillion
 - Theo Vermaelen
 ### Abstract

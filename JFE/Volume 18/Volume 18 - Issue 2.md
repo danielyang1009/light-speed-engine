@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1987
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -19,7 +19,7 @@
 ## 2. Editorial
 ### Date
 - Jun 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -28,7 +28,7 @@
 ## 3. The distribution of earnings news over time and seasonalities in aggregate stock returns
 ### Date
 - Jun 1987
-### Authors
+### Author
 - Stephen H. Penman
 ### Abstract
 Over the past 55 years returns on stock market indexes have on average been higher during the first half-month of calendar quarters 2 through 4 than at other times. Coincidentally, aggregate corporate earnings news arriving at the market during these half-month periods tends to be good, whereas earnings reports arriving later are more likely to convey bad news. In addition firms tend to publish bad-news earnings reports on Mondays, coincident with negative Monday effects in stock returns. The coincidence of earnings news arrival and market seasonalities leads to conjectures about informational reasons for observed seasonalities.
@@ -38,7 +38,7 @@ Over the past 55 years returns on stock market indexes have on average been high
 ## 4. The market for interfirm asset sales
 ### Date
 - Jun 1987
-### Authors
+### Author
 - Gailen L. Hite
 - James E. Owers
 - Ronald C. Rogers
@@ -50,7 +50,7 @@ We investigate the valuation consequences of voluntary proposals to sell part or
 ## 5. Stock returns and inflation
 ### Date
 - Jun 1987
-### Authors
+### Author
 - Gautam Kaul
 ### Abstract
 This paper hypothesizes that the relation between stock returns and inflation is caused by the equilibrium process in the monetary sector. More importantly, these relations vary over time in a systematic manner depending on the influence of money demand and supply factors. Post-war evidence from the United States, Canada, the United Kingdom and Germany indicates that the negative stock return-inflation relations are caused by money demand and counter-cyclical money supply effects. On the other hand, pro-cyclical movements in money, inflation, and stock prices during the 1930's lead to relations which are either positive or insignificant.
@@ -60,7 +60,7 @@ This paper hypothesizes that the relation between stock returns and inflation is
 ## 6. Constraints on short-selling and asset price adjustment to private information
 ### Date
 - Jun 1987
-### Authors
+### Author
 - Douglas W. Diamond
 - Robert E. Verrecchia
 ### Abstract
@@ -71,7 +71,7 @@ This paper models effects of short-sale constraints on the speed of adjustment (
 ## 7. The creation of a class of limited voting common stock and shareholder wealth
 ### Date
 - Jun 1987
-### Authors
+### Author
 - M.Megan Partch
 ### Abstract
 Common stock with limited voting rights changes managerial incentives by allowing managers to separate ownership of equity from ownership of votes. This study compares managerial ownership before and after the creation of a class of limited voting common stock by 44 publicly traded firms between 1962 and 1984, and examines whether the event affects the wealth of current shareholders. There is no evidence that current shareholders are harmed by the creation of limited voting common stock.
@@ -81,7 +81,7 @@ Common stock with limited voting rights changes managerial incentives by allowin
 ## 8. On multivariate tests of the CAPM
 ### Date
 - Jun 1987
-### Authors
+### Author
 - A.Craig MacKinlay
 ### Abstract
 This paper evaluates the power of multivariate tests of the Capital Asset Pricing Model. The results indicate that when employing an unspecified alternative hypothesis, the ability of the tests to distinguish between the CAPM and other pricing models is poor. An upper bound is derived for the distance the alternative distribution of the test statistic can be from the null distribution when the deviations from the CAPM are due to missing factors. This upper bound explains the low power of the tests.
@@ -91,7 +91,7 @@ This paper evaluates the power of multivariate tests of the Capital Asset Pricin
 ## 9. Stock returns and the term structure
 ### Date
 - Jun 1987
-### Authors
+### Author
 - John Y. Campbell
 ### Abstract
 In monthly U.S. data for 1959–1979 and 1979–1983, the state of the term structure of interest rates predicts excess stock returns, as well as excess returns on bills and bonds. This paper documents this fact and uses it to examine some simple asset pricing models. In 1959–1979, the data strongly reject a single-latent-variable specification of predictable excess returns. There is considerable evidence that conditional variances of excess returns change through time, but the relationship between conditional mean and conditional variance is reliably positive only at the short end of the term structure.
@@ -101,7 +101,7 @@ In monthly U.S. data for 1959–1979 and 1979–1983, the state of the term stru
 ## 10. The choice of organizational form The case of franchising
 ### Date
 - Jun 1987
-### Authors
+### Author
 - James A. Brickley
 - Frederick H. Dark
 ### Abstract
@@ -112,7 +112,7 @@ We examine companies that franchise some units and centrally operate (‘own’)
 ## 11. Index
 ### Date
 - Jun 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link

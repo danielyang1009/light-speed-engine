@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Taxes and leverage at multinational corporations
 ### Date
 - May 2016
-### Authors
+### Author
 - Michael Faulkender
 - Jason M. Smith
 ### Abstract
@@ -25,7 +25,7 @@ Empirical research has struggled to show that variation in corporate capital str
 ## 3. Leverage dynamics over the business cycle
 ### Date
 - Jul 2016
-### Authors
+### Author
 - Michael Halling
 - Jin Yu
 - Josef Zechner
@@ -37,7 +37,7 @@ Surprisingly little is known about the business cycle dynamics of leverage. The 
 ## 4. Reading the tea leaves: Model uncertainty, robust forecasts, and the autocorrelation of analysts’ forecast errors
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Juhani T. Linnainmaa
 - Walter Torous
 - James Yae
@@ -49,7 +49,7 @@ We put forward a model in which analysts are uncertain about a firm’s earnings
 ## 5. Are Friday announcements special? Overcoming selection bias
 ### Date
 - May 2016
-### Authors
+### Author
 - Roni Michaely
 - Amir Rubin
 - Alexander Vedrashko
@@ -61,7 +61,7 @@ We report reduced market response to Friday announcements of dividend changes, s
 ## 6. Sovereign credit risk, liquidity, and European Central Bank intervention: Deus ex machina?
 ### Date
 - Jun 2016
-### Authors
+### Author
 - Loriana Pelizzon
 - Marti G. Subrahmanyam
 - Davide Tomio
@@ -74,7 +74,7 @@ We examine the dynamic relation between credit risk and liquidity in the Italian
 ## 7. Disaster recovery and the term structure of dividend strips
 ### Date
 - Nov 2015
-### Authors
+### Author
 - Michael Hasler
 - Roberto Marfè
 ### Abstract
@@ -85,7 +85,7 @@ Recent empirical findings document downward-sloping term structures of equity re
 ## 8. Double bank runs and liquidity risk management
 ### Date
 - Nov 2015
-### Authors
+### Author
 - Filippo Ippolito
 - José-Luis Peydró
 - Andrea Polo
@@ -98,7 +98,7 @@ By providing liquidity to depositors and credit-line borrowers, banks can be e
 ## 9. Gambling preference and individual equity option returns
 ### Date
 - Jun 2016
-### Authors
+### Author
 - Suk-Joon Byun
 - Da-Hea Kim
 ### Abstract
@@ -109,7 +109,7 @@ We investigate the relation between the option returns and the underlying stock'
 ## 10. Golden hellos: Signing bonuses for new top executives
 ### Date
 - Nov 2015
-### Authors
+### Author
 - Jin Xu
 - Jun Yang
 ### Abstract
@@ -120,7 +120,7 @@ We examine signing bonuses awarded to executives hired for or promoted to named 
 ## 11. Relative peer quality and firm performance
 ### Date
 - Jun 2016
-### Authors
+### Author
 - Bill Francis
 - Iftekhar Hasan
 - Sureshbabu Mani

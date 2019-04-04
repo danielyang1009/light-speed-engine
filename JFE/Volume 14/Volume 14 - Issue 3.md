@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -19,7 +19,7 @@
 ## 2. Multivariate tests of the zero-beta CAPM
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Jay Shanken
 ### Abstract
 A ‘cross-sectional regression test’ (CSRT) of the CAPM is developed and its connection to the Hotelling T2 test of multivariate statistical analysis is explored. Algebraic relations between the CSRT, the likehood ratio test and the Langrange multiplier test are derived and a useful small-sample bound on the distribution function of the CSRT is obtained. An application of the CSRT suggests that the CRSP equally-weighted index is inefficient, but that the inefficiency is not explained by a firm size-effect from February to December.
@@ -29,7 +29,7 @@ A ‘cross-sectional regression test’ (CSRT) of the CAPM is developed and its 
 ## 3. A note on the geometry of Shanken's CSR T2 test for mean/variance efficiency
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Richard Roll
 ### Abstract
 Shanken (1985) derives a test for the zero-beta capital asset pricing model (CAPM) which, as he points out, is equivalent to a test of the mean/variance efficiency of the market portfolio. This note illustrates the geometry of Shanken's test in the mean/variance space.
@@ -39,7 +39,7 @@ Shanken (1985) derives a test for the zero-beta capital asset pricing model (CAP
 ## 4. A Monte Carlo investigation of the accuracy of multivariate CAPM tests
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Christine E. Amsler
 - Peter Schmidt
 ### Abstract
@@ -50,7 +50,7 @@ In a multivariate regression model relating individual returns to the market ret
 ## 5. Underpricing of seasoned issues
 ### Date
 - Sep 1985
-### Authors
+### Author
 - John E. Parsons
 - Artur Raviv
 ### Abstract
@@ -61,7 +61,7 @@ In this paper we provide a model of the underwritten offerings of new shares of 
 ## 6. Corporate capital expenditure decisions and the market value of the firm
 ### Date
 - Sep 1985
-### Authors
+### Author
 - John J. McConnell
 - Chris J. Muscarella
 ### Abstract
@@ -72,7 +72,7 @@ This paper is an ‘event-time’ study of the common stock prices of a sample o
 ## 7. Predictable events and excess returns: The case of dividend announcements
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Avner Kalay
 - Uri Loewenstein
 ### Abstract
@@ -83,7 +83,7 @@ This paper hypothesizes that the risk per unit of time and the required rate of 
 ## 8. An exploratory investigation of the firm size effect
 ### Date
 - Sep 1985
-### Authors
+### Author
 - K.C. Chan
 - Nai-fu Chen
 - David A. Hsieh
@@ -95,7 +95,7 @@ We investigate the firm size effect for the period 1958 to 1977 in the framework
 ## 9. Dividend yields and stock returns: Implications of abnormal January returns
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Donald B. Keim
 ### Abstract
 This study examines the empirical relation between stock returns and (long-run) dividend yields. The findings show that much of the phenomenon is due to a nonlinear relation between dividend yields and returns in January. Regression coefficients on dividend yields, which some models predict should be non-zero due to differential taxation of dividends and capital gains, exhibit a significant January seasonal, even when controlling for size. This finding is significant since there are no provisions in the after-tax asset pricing models that predict the tax differential is more important in January than in other months.
@@ -105,7 +105,7 @@ This study examines the empirical relation between stock returns and (long-run) 
 ## 10. Derived factors in event studies
 ### Date
 - Sep 1985
-### Authors
+### Author
 - Stephen J. Brown
 - Mark I. Weinstein
 ### Abstract
@@ -116,7 +116,7 @@ We examine the utility of the statistical factor model of the process generating
 ## 11. News items
 ### Date
 - Sep 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link

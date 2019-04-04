@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2019
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Regulating a model
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Yaron Leitner
 - Bilge Yilmaz
 ### Abstract
@@ -25,7 +25,7 @@ We study a situation in which a regulator relies on risk models that banks produ
 ## 3. The CAPM strikes back? An equilibrium model with disasters
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Hang Bai
 - Kewei Hou
 - Howard Kung
@@ -39,7 +39,7 @@ Embedding disasters into a general equilibrium model with heterogeneous firms in
 ## 4. Collateralizing liquidity
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Cecilia Parlatore
 ### Abstract
 I develop a dynamic model of optimal funding to understand why financial assets are used as collateral instead of being sold to raise funds. Firms need funds to invest in risky projects with nonobservable returns. Since holding these assets allows firms to raise these funds, investing firms value the asset more than noninvesting ones. When assets are less than perfectly liquid and investment opportunities are persistent, collateralized debt minimizes asset transfers from investing to noninvesting firms and thus is optimal. Frictions in asset markets lead to an illiquidity discount and a collateral premium, which increase with the asset’s illiquidity.
@@ -49,7 +49,7 @@ I develop a dynamic model of optimal funding to understand why financial assets 
 ## 5. Inferring latent social networks from stock holdings
 ### Date
 - Aug 2017
-### Authors
+### Author
 - Harrison Hong
 - Jiangmin Xu
 ### Abstract
@@ -60,7 +60,7 @@ We infer the latent social networks of investors using data on their stock holdi
 ## 6. Who benefits in a crisis? Evidence from hedge fund stock and option holdings
 ### Date
 - Sep 2017
-### Authors
+### Author
 - George O. Aragon
 - J. Spencer Martin
 - Zhen Shi
@@ -72,7 +72,7 @@ We use a unique data set of hedge fund long equity and equity option positions t
 ## 7. The profitability and investment premium: Pre-1963 evidence
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Sunil Wahal
 ### Abstract
 I investigate the profitability and investment premium in stock returns using hand-collected data from Moody's Manuals for 1940–1963. Controlling for value, the profitability premium emerges as important in this period. In contrast, there is no reliable relation between investment and returns, regardless of whether investment is measured using growth in total assets or book equity and even after extending the data back to 1926. In spanning regressions, factors constructed from profitability and book-to-market ratios (RMW and HML, respectively) improve the mean-variance efficient tangency portfolio but the investment factor (CMA) does not.
@@ -82,7 +82,7 @@ I investigate the profitability and investment premium in stock returns using ha
 ## 8. How effective are trading pauses?
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Nikolaus Hautsch
 - Akos Horvath
 ### Abstract
@@ -93,7 +93,7 @@ Exploiting Nasdaq order book data and difference-in-differences methodology, we�
 ## 9. Mark Twain’s Cat: Investment experience, categorical thinking, and stock selection
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Xing Huang
 ### Abstract
 This paper examines the effect of prior investment experience in specific industries on subsequent investment decisions. Using households’ trading records from a large discount broker between 1991 and 1996, I find that prior success in a given industry increases the likelihood of subsequent purchases in the same industry. The effect is stronger for more recent experiences and for less sophisticated or diversified investors, and it is not wealth enhancing. The results suggest investors categorize industries at a highly resolved level, finer than the Fama–French ten-industry classification. Similar effects are also apparent for size- and value-based categories but at smaller magnitudes.
@@ -103,7 +103,7 @@ This paper examines the effect of prior investment experience in specific indust
 ## 10. The impact of jumps on carry trade returns
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Suzanne S. Lee
 - Minho Wang
 ### Abstract
@@ -114,7 +114,7 @@ This paper investigates how jump risks are priced in currency markets. We find t
 ## 11. Firms’ innovation strategy under the shadow of analyst coverage
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Bing Guo
 - David Pérez-Castrillo
 - Anna Toldrà-Simats
@@ -126,7 +126,7 @@ We study the effect of analyst coverage on firms’ innovation strategy and outc
 ## 12. Trade credit and supplier competition
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Jiri Chod
 - Evgeny Lyandres
 - S. Alex Yang

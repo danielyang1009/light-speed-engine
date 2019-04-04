@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The globalization of angel investments: Evidence across countries
 ### Date
 - May 2017
-### Authors
+### Author
 - Josh Lerner
 - Antoinette Schoar
 - Stanislav Sokolinski
@@ -27,7 +27,7 @@ This paper examines the role of investments by angel groups across a heterogeneo
 ## 3. Financial market frictions and diversification
 ### Date
 - Sep 2017
-### Authors
+### Author
 - Gregor Matvos
 - Amit Seru
 - Rui C. Silva
@@ -39,7 +39,7 @@ We find new facts that relate the evolution of firm scope to the changing fricti
 ## 4. The real effects of credit default swaps
 ### Date
 - Oct 2017
-### Authors
+### Author
 - András Danis
 - Andrea Gamba
 ### Abstract
@@ -50,7 +50,7 @@ We examine the effect of introducing credit default swaps (CDSs) on firm value. 
 ## 5. The buyers’ perspective on security design: Hedge funds and convertible bond call provisions
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Bruce D. Grundy
 - Patrick Verwijmeren
 ### Abstract
@@ -61,7 +61,7 @@ We provide evidence that security design reflects the interplay of capital suppl
 ## 6. Non-rating revenue and conflicts of interest
 ### Date
 - Oct 2017
-### Authors
+### Author
 - Ramin P. Baghai
 - Bo Becker
 ### Abstract
@@ -72,7 +72,7 @@ Rating agencies produce ratings used by investors, but obtain most of their reve
 ## 7. Capital gains lock-in and governance choices
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Stephen G. Dimmock
 - William C. Gerken
 - Zoran Ivković
@@ -85,7 +85,7 @@ Differences in accrued gains and investors’ tax-sensitivity induce variation i
 ## 8. The option to quit: The effect of employee stock options on turnover
 ### Date
 - Oct 2017
-### Authors
+### Author
 - Serdar Aldatmaz
 - Paige Ouimet
 - Edward D Van Wesep
@@ -97,7 +97,7 @@ We show that in the years following a large broad-based employee stock option (B
 ## 9. Pay me now (and later): Pension benefit manipulation before plan freezes and executive retirement
 ### Date
 - Oct 2017
-### Authors
+### Author
 - Irina Stefanescu
 - Yupeng Wang
 - Kangzhen Xie
@@ -110,7 +110,7 @@ Large US firms modify top executives’ compensation before pension-related even
 ## 10. When arm's length is too far: Relationship banking over the credit cycle
 ### Date
 - Nov 2017
-### Authors
+### Author
 - Thorsten Beck
 - Hans Degryse
 - Ralph De Haas

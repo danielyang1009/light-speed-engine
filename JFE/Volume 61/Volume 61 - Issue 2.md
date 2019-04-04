@@ -5,7 +5,7 @@
 ## 1. Asset liquidity, capital structure, and secured debt
 ### Date
 - Aug 2001
-### Authors
+### Author
 - Erwan Morellec
 ### Abstract
 This paper investigates the impact of asset liquidity on the valuation of corporate securities and the firm's financing decisions. I show that asset liquidity increases debt capacity only when bond covenants restrict the disposition of assets. By contrast, I demonstrate that, with unsecured debt, greater liquidity increases credit spreads on corporate debt and reduces optimal leverage. The model also determines the extent to which pledging assets increases firm value and relates the optimal size of the pledge to firm and industry characteristics. Finally, I show that asset liquidity and security provisions may help explain leverage ratios and credit spreads observed in practice.
@@ -15,7 +15,7 @@ This paper investigates the impact of asset liquidity on the valuation of corpor
 ## 2. An examination of executive stock option repricing
 ### Date
 - Aug 2001
-### Authors
+### Author
 - Mary Ellen Carter
 - Luann J. Lynch
 ### Abstract
@@ -26,7 +26,7 @@ Comparing a sample of firms that reprice executive stock options in 1998 to a co
 ## 3. Discretionary reductions in warrant exercise prices
 ### Date
 - Aug 2001
-### Authors
+### Author
 - John S. Howe
 - Tie Su
 ### Abstract
@@ -37,7 +37,7 @@ Managers can decide to reduce a warrant's exercise price. A reduction in exercis
 ## 4. Stock option plans for non-executive employees
 ### Date
 - Aug 2001
-### Authors
+### Author
 - John E. Core
 - Wayne R. Guay
 ### Abstract
@@ -48,7 +48,7 @@ We examine determinants of non-executive employee stock option holdings, grants,
 ## 5. Stealth-trading: Which traders’ trades move stock prices?
 ### Date
 - Aug 2001
-### Authors
+### Author
 - Sugato Chakravarty
 ### Abstract
 Using audit trail data for a sample of NYSE firms we show that medium-size trades are associated with a disproportionately large cumulative stock price change relative to their proportion of all trades and volume. This result is consistent with the predictions of Barclay and Warner's (1993) stealth-trading hypothesis. We find that the source of this disproportionately large cumulative price impact of medium-size trades is trades initiated by institutions. This result is robust to various sensitivity checks. Our findings appear to confirm street lore that institutions are informed traders.

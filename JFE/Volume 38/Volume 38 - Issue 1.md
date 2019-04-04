@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - May 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. Multifactor models do not explain deviations from the CAPM
 ### Date
 - May 1995
-### Authors
+### Author
 - A.Craig MacKinlay
 ### Abstract
 A number of studies have presented evidence rejecting the validity of the Sharpe-Lintner capital asset pricing model (CAPM). Possible alternatives include risk-based models, such as multifactor asset pricing models, or nonrisk-based models which address biases in empirical methodology, the existence of market frictions, or the presence of irrational investors. Distinguishing between the alternatives is important for applications such as cost of capital estimation. This paper develops a framework which shows that, ex ante, CAPM deviations due to missing risk factors will be very difficult to detect empirically, whereas deviations resulting from nonrisk-based sources are easily detectable. The results suggest that multifactor pricing models alone do not entirely resolve CAPM deviations.
@@ -40,7 +40,7 @@ A number of studies have presented evidence rejecting the validity of the Sharpe
 ## 4. Firm performance, corporate governance, and top executive turnover in Japan
 ### Date
 - May 1995
-### Authors
+### Author
 - Jun-Koo Kang
 - Anil Shivdasani
 ### Abstract
@@ -51,7 +51,7 @@ We examine the role of corporate governance mechanisms during top executive turn
 ## 5. The use of warrants as underwriter compensation in initial public offerings
 ### Date
 - May 1995
-### Authors
+### Author
 - Craig G Dunbar
 ### Abstract
 Previous research suggests that offering costs are higher when warrants are used to compensate underwriters. This finding potentially arises from a failure to account for self-selection in estimating offering cost relations. Using methods that account for self-selection, I find that underpricing and total offering costs are reduced for firms using warrants as underwriter compensation, consistent with the hypothesis that issuers choose compensation contracts which minimize costs.
@@ -61,7 +61,7 @@ Previous research suggests that offering costs are higher when warrants are used
 ## 6. Problems in measuring portfolio performance An application to contrarian investment strategies
 ### Date
 - May 1995
-### Authors
+### Author
 - Ray Ball
 - S.P. Kothari
 - Jay Shanken

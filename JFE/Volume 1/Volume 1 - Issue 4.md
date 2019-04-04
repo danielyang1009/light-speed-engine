@@ -5,7 +5,7 @@
 ## 1. Risk and return: The case of merging firms
 ### Date
 - Dec 1974
-### Authors
+### Author
 - Gershon Mandelker
 ### Abstract
 This study examines the market for acquisitions and the impact of mergers on the returns to the stockholders of the constituent firms. While employing the two-factor market model as recently developed and applied by Black-Jensen-Scholes and Fama-MacBeth, this study also considers changes in risk in analyzing the impact of mergers on stock prices. The results of the study are consistent with the hypothesis that the market for acquisitions is perfectly competitive and with the hypothesis that information regarding mergers is efficiently incorporated in the stock prices. Stockholders of acquiring firms seem to earn normal returns from mergers as from other investment-production activities with commensurate risk levels. Stockholders of acquired firms earn abnormal returns of approximately 14%, on the average, in the seven months preceding the merger.
@@ -15,7 +15,7 @@ This study examines the market for acquisitions and the impact of mergers on the
 ## 2. International capital market equilibrium with investment barriers
 ### Date
 - Dec 1974
-### Authors
+### Author
 - Fischer Black
 ### Abstract
 This paper outlines models of capital market equilibrium when there are explicit barriers to international investment in the form of a tax on holdings of assets in one country by residents of another country. There is a corresponding subsidy on short positions in foreign assets. Asset prices deviate from the predictions of the world capital asset pricing model. Investors do not hold a mixture of national market portfolios, but the mix of risky assets is the same for every investor in a country. Optimal portfolios tend to be heavy in domestic assets, and light in foreign assets. Tax free investors, however, tend to hold assets anywhere in the world that are taxed heavily. Estimates of the magnitude of the average tax (or the magnitude of effective barriers to international investment) can be made by comparing the average return on the minimum variance zero β portfolio, z, with the average across countries and time of the short-term interest rate. When barriers are ineffective, the expected return on portfolio z will be the average short-term interest rate, and the world capital asset pricing model will hold.
@@ -25,7 +25,7 @@ This paper outlines models of capital market equilibrium when there are explicit
 ## 3. Determinants of bid-asked spreads in the over-the-counter market
 ### Date
 - Dec 1974
-### Authors
+### Author
 - George J. Benston
 - Robert L. Hagerman
 ### Abstract
@@ -36,7 +36,7 @@ Security market regulators, among others, are concerned to know whether or not d
 ## 4. A note on diversification and the reduction of dispersion
 ### Date
 - Dec 1974
-### Authors
+### Author
 - K.H. Johnson
 - D.S. Shannon
 ### Abstract
@@ -47,7 +47,7 @@ The purpose of this paper is to note that the question of optimal diversificatio
 ## 5. Editorial collaborators
 ### Date
 - Dec 1974
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -56,7 +56,7 @@ The purpose of this paper is to note that the question of optimal diversificatio
 ## 6. Index
 ### Date
 - Dec 1974
-### Authors
+### Author
 ### Abstract
 
 ### Link

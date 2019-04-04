@@ -1,0 +1,180 @@
+{
+    "journal": "JF",
+    "volume": "60",
+    "issue": "1",
+    "date": "February 2005",
+    "page": "Pages: 1-536",
+    "article": [
+        {
+            "no": "1",
+            "title": "Do Behavioral Biases Affect Prices?",
+            "date": "20 July 2005",
+            "author": [
+                "JOSHUA D. COVAL",
+                "TYLER SHUMWAY"
+            ],
+            "abstract": "This paper documents strong evidence for behavioral biases among Chicago Board of Trade proprietary traders and investigates the effect these biases have on prices. Our traders appear highly loss\u2010averse, regularly assuming above\u2010average afternoon risk to recover from morning losses. This behavior has important short\u2010term consequences for afternoon prices, as losing traders actively purchase contracts at higher prices and sell contracts at lower prices than those that prevailed previously. However, the market appears to distinguish these risk\u2010seeking trades from informed trading. Prices set by loss\u2010averse traders are reversed significantly more quickly than those set by unbiased traders.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00723.x"
+        },
+        {
+            "no": "2",
+            "title": "Insider Trading Restrictions and Analysts' Incentives to Follow Firms",
+            "date": "20 July 2005",
+            "author": [
+                "ROBERT M. BUSHMAN",
+                "JOSEPH D. PIOTROSKI",
+                "ABBIE J. SMITH"
+            ],
+            "abstract": "Motivated by extant finance theory predicting that insider trading crowds out private information acquisition by outsiders, we use data for 100 countries for the years 1987\u20132000 to study whether analyst following in a country increases following restriction of insider trading activities. We document that analyst following increases after initial enforcement of insider trading laws. This increase is concentrated in emerging market countries, but is smaller if the country has previously liberalized its capital market. We also find that analyst following responds less intensely to initial enforcement when a country has a preexisting portfolio of strong investor protections.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00724.x"
+        },
+        {
+            "no": "3",
+            "title": "The Value Premium",
+            "date": "20 July 2005",
+            "author": [
+                "LU ZHANG"
+            ],
+            "abstract": "The value anomaly arises naturally in the neoclassical framework with rational expectations. Costly reversibility and countercyclical price of risk cause assets in place to be harder to reduce, and hence are riskier than growth options especially in bad times when the price of risk is high. By linking risk and expected returns to economic primitives, such as tastes and technology, my model generates many empirical regularities in the cross\u2010section of returns; it also yields an array of new refutable hypotheses providing fresh directions for future empirical research.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00725.x"
+        },
+        {
+            "no": "4",
+            "title": "Asset Sales, Investment Opportunities, and the Use of Proceeds",
+            "date": "20 July 2005",
+            "author": [
+                "THOMAS W. BATES"
+            ],
+            "abstract": "This study examines the allocation of cash proceeds following 400 subsidiary sales between 1990 and 1998. Retention probabilities are increasing in the divesting firm's contemporaneous growth opportunities and expected investment. Retaining firms, however, also systematically overinvest relative to an industry benchmark. Shareholder returns to retention decisions are positively correlated with growth opportunities and benchmarked investment, but negatively correlated with benchmarked investment for firms with poor growth opportunities. Shareholder returns to debt distributions are increasing in industry\u2010benchmarked leverage. Overall, the results of this study cohere with the hypothesized trade\u2010off between the investment efficiencies associated with retained proceeds and the agency costs of managerial discretion and debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00726.x"
+        },
+        {
+            "no": "5",
+            "title": "Financial and Legal Constraints to Growth: Does Firm Size Matter?",
+            "date": "20 July 2005",
+            "author": [
+                "THORSTEN BECK",
+                "ASLI DEMIRG\u00dc\u00c7\u2010KUNT",
+                "VOJISLAV MAKSIMOVIC"
+            ],
+            "abstract": "Using a unique firm\u2010level survey database covering 54 countries, we investigate the effect of financial, legal, and corruption problems on firms' growth rates. Whether these factors constrain growth depends on firm size. It is consistently the smallest firms that are most constrained. Financial and institutional development weakens the constraining effects of financial, legal, and corruption obstacles and it is again the small firms that benefit the most. There is only a weak relation between firms' perception of the quality of the courts in their country and firm growth. We also provide evidence that the corruption of bank officials constrains firm growth.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00727.x"
+        },
+        {
+            "no": "6",
+            "title": "Does the Failure of the Expectations Hypothesis Matter for Long\u2010Term Investors?",
+            "date": "20 July 2005",
+            "author": [
+                "ANTONIOS SANGVINATSOS",
+                "JESSICA A. WACHTER"
+            ],
+            "abstract": "We solve the portfolio problem of a long\u2010run investor when the term structure is Gaussian and when the investor has access to nominal bonds and stock. We apply our method to a three\u2010factor model that captures the failure of the expectations hypothesis. We extend this model to account for time\u2010varying expected inflation, and estimate the model with both inflation and term structure data. The estimates imply that the bond portfolio of a long\u2010run investor looks very different from the portfolio of a mean\u2010variance optimizer. In particular, time\u2010varying term premia generate large hedging demands for long\u2010term bonds.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00728.x"
+        },
+        {
+            "no": "7",
+            "title": "Distance, Lending Relationships, and Competition",
+            "date": "20 July 2005",
+            "author": [
+                "HANS DEGRYSE",
+                "STEVEN ONGENA"
+            ],
+            "abstract": "We study the effect on loan conditions of geographical distance between firms, the lending bank, and all other banks in the vicinity. For our study, we employ detailed contract information from more than 15,000 bank loans to small firms comprising the entire loan portfolio of a large Belgian bank. We report the first comprehensive evidence on the occurrence of spatial price discrimination in bank lending. Loan rates decrease with the distance between the firm and the lending bank and increase with the distance between the firm and competing banks. Transportation costs cause the spatial price discrimination we observe.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00729.x"
+        },
+        {
+            "no": "8",
+            "title": "Local Does as Local Is: Information Content of the Geography of Individual Investors' Common Stock Investments",
+            "date": "20 July 2005",
+            "author": [
+                "ZORAN IVKOVI\u0106",
+                "SCOTT WEISBENNER"
+            ],
+            "abstract": "Using data on the investments a large number of individual investors made through a discount broker from 1991 to 1996, we find that households exhibit a strong preference for local investments. We test whether this locality bias stems from information or from simple familiarity. The average household generates an additional annualized return of 3.2% from its local holdings relative to its nonlocal holdings, suggesting that local investors can exploit local knowledge. Excess returns to investing locally are even larger among stocks not in the S&P 500 index (firms for which information asymmetries between local and nonlocal investors may be largest).",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00730.x"
+        },
+        {
+            "no": "9",
+            "title": "Financial Analyst Characteristics and Herding Behavior in Forecasting",
+            "date": "20 July 2005",
+            "author": [
+                "MICHAEL B. CLEMENT",
+                "SENYO Y. TSE"
+            ],
+            "abstract": "This study classifies analysts' earnings forecasts as herding or bold and finds that (1) boldness likelihood increases with the analyst's prior accuracy, brokerage size, and experience and declines with the number of industries the analyst follows, consistent with theory linking boldness with career concerns and ability; (2) bold forecasts are more accurate than herding forecasts; and (3) herding forecast revisions are more strongly associated with analysts' earnings forecast errors (actual earnings\u2014forecast) than are bold forecast revisions. Thus, bold forecasts incorporate analysts' private information more completely and provide more relevant information to investors than herding forecasts.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00731.x"
+        },
+        {
+            "no": "10",
+            "title": "Monitoring and Controlling Bank Risk: Does Risky Debt Help?",
+            "date": "20 July 2005",
+            "author": [
+                "C. N. V. KRISHNAN",
+                "P. H. RITCHKEN",
+                "J. B. THOMSON"
+            ],
+            "abstract": "We examine whether mandating banks to issue subordinated debt would enhance market monitoring and control risk taking. To evaluate whether subordinated debt enhances risk monitoring, we extract the credit\u2010spread curve for each banking firm in our sample and examine whether changes in credit spreads reflect changes in bank risk variables, after controlling for changes in market and liquidity variables. We do not find strong and consistent evidence that they do. To evaluate whether subordinated debt controls risk taking, we examine whether the first issue of subordinated debt changes the risk\u2010taking behavior of a bank. We find that it does not.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00732.x"
+        },
+        {
+            "no": "11",
+            "title": "Asymmetric Price Movements and Borrowing Constraints: A Rational Expectations Equilibrium Model of Crises, Contagion, and Confusion",
+            "date": "20 July 2005",
+            "author": [
+                "KATHY YUAN"
+            ],
+            "abstract": "This study proposes a rational expectations equilibrium model of crises and contagion in an economy with information asymmetry and borrowing constraints. Consistent with empirical observations, the model finds: (1) Crises can be caused by small shocks to fundamentals; (2) market return distributions are asymmetric; and (3) correlations among asset returns tend to increase during crashes. The model also predicts: (1) Crises and contagion are likely to occur after small shocks in the intermediate price region; (2) the skewness of asset price distributions increases with information asymmetry and borrowing constraints; and (3) crises can spread through investor borrowing constraints.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00733.x"
+        },
+        {
+            "no": "12",
+            "title": "Trading Volume, Information Asymmetry, and Timing Information",
+            "date": "20 July 2005",
+            "author": [
+                "JOON CHAE"
+            ],
+            "abstract": "This paper investigates trading volume before scheduled and unscheduled corporate announcements to explore how traders respond to private information. I show that cumulative trading volume decreases inversely to information asymmetry prior to scheduled announcements, while the opposite relation holds for volume after the announcement. In contrast, trading volume before unscheduled announcements increases dramatically and shows little relation to proxies for information asymmetry. I investigate the behavior of market makers and find that they act appropriately by increasing price sensitivity before all announcements, implying that they extract timing information from their order books.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00734.x"
+        },
+        {
+            "no": "13",
+            "title": "The Role of IPO Underwriting Syndicates: Pricing, Information Production, and Underwriter Competition",
+            "date": "20 July 2005",
+            "author": [
+                "SHANE A. CORWIN",
+                "PAUL SCHULTZ"
+            ],
+            "abstract": "We examine syndicates for 1,638 IPOs from January 1997 through June 2002. We find strong evidence of information production by syndicate members. Offer prices are more likely to be revised in response to information when the syndicate has more underwriters and especially more co\u2010managers. More co\u2010managers also result in more analyst coverage and additional market makers following the IPO. Relationships between underwriters are critical in determining the composition of syndicates, perhaps because they mitigate free\u2010riding and moral hazard problems. While there appear to be benefits to larger syndicates, we discuss several factors that may limit syndicate size.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00735.x"
+        },
+        {
+            "no": "14",
+            "title": "IPO Pricing in \u201cHot\u201d Market Conditions: Who Leaves Money on the Table?",
+            "date": "20 July 2005",
+            "author": [
+                "FRAN\u04aaOIS DERRIEN"
+            ],
+            "abstract": "This paper explores the impact of investor sentiment on IPO pricing. Using a model in which the aftermarket price of IPO shares depends on the information about the intrinsic value of the company and investor sentiment, I show that IPOs can be overpriced and still exhibit positive initial return. A sample of recent French offerings with a fraction of the shares reserved for individual investors supports the predictions of the model. Individual investors' demand is positively related to market conditions. Moreover, large individual investors' demand leads to high IPO prices, large initial returns, and poor long\u2010run performance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00736.x"
+        },
+        {
+            "no": "15",
+            "title": "Do Professional Traders Exhibit Myopic Loss Aversion? An Experimental Analysis",
+            "date": "20 July 2005",
+            "author": [
+                "MICHAEL S. HAIGH",
+                "JOHN A. LIST"
+            ],
+            "abstract": "Two behavioral concepts, loss aversion and mental accounting, have been combined to provide a theoretical explanation of the equity premium puzzle. Recent experimental evidence supports the theory, as students' behavior has been found to be consistent with myopic loss aversion (MLA). Yet, much like certain anomalies in the realm of riskless decision\u2010making, these behavioral tendencies may be attenuated among professionals. Using traders recruited from the CBOT, we do indeed find behavioral differences between professionals and students, but rather than discovering that the anomaly is muted, we find that traders exhibit behavior consistent with MLA to a greater extent than students.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00737.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "20 July 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00738.x"
+        }
+    ]
+}

@@ -1,0 +1,307 @@
+{
+    "journal": "JF",
+    "volume": "40",
+    "issue": "1",
+    "date": "March 1985",
+    "page": "Pages: i-ix, 1-358",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb00333.x"
+        },
+        {
+            "no": "2",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04932.x"
+        },
+        {
+            "no": "3",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04933.x"
+        },
+        {
+            "no": "4",
+            "title": "On the Feasibility of Automated Market Making by a Programmed Specialist",
+            "date": "March 1985",
+            "author": [
+                "NILS H. HAKANSSON",
+                "AVRAHAM BEJA",
+                "JIVENDRA KALE"
+            ],
+            "abstract": "Securities trading is accomplished through the execution of orders. Admissible orders (e.g., market orders, limit orders) give rise to discontinuous aggregate demand functions, composed of many \u201csteps.\u201d Demand smoothing, or the balancing of excesses due to such discontinuities via intervention, is one of the most basic functions that could be assigned to a \u201cspecialist.\u201d When the specialist's \u201caffirmative obligation\u201d is fully specified, his or her activity can in principle be automated. This paper is an attempt to assess, via simulation, some of the ramifications of using a \u201cprogrammed specialist,\u201d whose automated market making is limited to demand smoothing. A number of alternative rules of operation are simulated. Several of the rules performed well, especially the extremely simple rule that calls for the (computerized) specialist to minimize new absolute share holdings in each security at each trading point via \u201ctotal\u201d (as opposed to \u201clocal\u201d) demand smoothing. Our results indicate that the underlying costs of demand smoothing are on the order of a fraction of a penny per share traded even in relatively thin markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04934.x"
+        },
+        {
+            "no": "5",
+            "title": "The Trading Decision and Market Clearing under Transaction Price Uncertainty",
+            "date": "March 1985",
+            "author": [
+                "THOMAS S. Y. HO",
+                "ROBERT A. SCHWARTZ",
+                "DAVID K. WHITCOMB"
+            ],
+            "abstract": "This paper models an individual's trading decision, given: (1) his/her demand function to hold shares of an asset, (2) his/her expectation on what the market clearing price will be, and (3) the design of the market which determines how orders will be translated into trades. The particular market design we consider is the batched trading (periodic call) regime. Assuming investors are distributed according to their propensities to hold shares, we model the aggregation of orders to obtain market clearing values of price and volume and to show the way in which, with trading friction, these solutions differ from Pareto efficient values. The importance of this analysis for various issues concerning market design is noted.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04935.x"
+        },
+        {
+            "no": "6",
+            "title": "Government Bond Returns, Measurement of Interest Rate Risk, and the Arbitrage Pricing Theory",
+            "date": "March 1985",
+            "author": [
+                "N. BULENT GULTEKIN",
+                "RICHARD J. ROGALSKI"
+            ],
+            "abstract": "Empirical tests are reported for Ross' arbitrage pricing theory using monthly data for U.S. Treasury securities during the 1960\u20131979 period. We find that mean returns on bond portfolios are linearly related to at least two factor loadings. Multivariate test results, however, are not consistent with the APT. Our sample data in the U.S. Treasury securities market are also not consistent with either version of the CAPM. One\u2010month\u2010ahead forecasts of excess returns using factor\u2010generating models are compared with corresponding naive predictions or predictions using the \u201cmarket model\u201d with various market portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04936.x"
+        },
+        {
+            "no": "7",
+            "title": "Rational Expectations Model of Term Premia with Some Implications for Empirical Asset Demand Equations",
+            "date": "March 1985",
+            "author": [
+                "CARL E. WALSH"
+            ],
+            "abstract": "This paper derives the equilibrium time series processes characterizing the prices of bonds which differ by maturity using the CAPM relationship between expected returns. The assumption of rational expectations requires that asset demand behavior, which determines bond prices in equilibrium, be based on the covariances among returns that are implied by the assumption of market clearing. This requirement imposes nonlinear restrictions on the parameters in the solution for bond prices. Some implications for the types of comparative static exercises for which it is legitimate to assume invariant demand functions are discussed, and some numerical solutions for bond prices are derived.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04937.x"
+        },
+        {
+            "no": "8",
+            "title": "Capital Asset Pricing Compatible with Observed Market Value Weights",
+            "date": "March 1985",
+            "author": [
+                "MICHAEL J. BEST",
+                "ROBERT R. GRAUER"
+            ],
+            "abstract": "We show that the set of expected return vectors, for which an observed portfolio is mean variance (MV) efficient, is a two\u2010parameter family. We identify ten ways to specify the time series behavior of the two parameters; the result highlights a number of inconsistencies involved in MV modelling. For each of the cases, it permits the inference of the time series of expected return vectors, as well as all the other Capital Asset Pricing Model (CAPM) variables, compatible with a known covariance matrix and the observed time series of market value weights. The empirical work shows that there are substantial case\u2010to\u2010case differences in the time series of mean vectors and many of them are quite different from the constant mean vector envisioned in tests of the CAPM.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04938.x"
+        },
+        {
+            "no": "9",
+            "title": "International Asset Pricing under Mild Segmentation: Theory and Test",
+            "date": "March 1985",
+            "author": [
+                "VIHANG ERRUNZA",
+                "ETIENNE LOSQ"
+            ],
+            "abstract": "This paper conducts a theoretical and empirical investigation of the pricing (and portfolio) implications of investment barriers in the context of international capital markets. The postulated market structure\u2014labelled \u201cmildly segmented\u201d\u2014leads to the existence of \u201csuper\u201d risk premiums for a subset of securities and to a breakdown of the standard separation result. The empirical study uses an extended data base including LDC markets and provides tentative support for the mild segmentation hypothesis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04939.x"
+        },
+        {
+            "no": "10",
+            "title": "More on Estimation Risk and Simple Rules for Optimal Portfolio Selection",
+            "date": "March 1985",
+            "author": [
+                "GORDON J. ALEXANDER",
+                "BRUCE G. RESNICK"
+            ],
+            "abstract": "For the risk\u2010averse investor, consideration of estimation risk is important in selecting an expected\u2010utility\u2010maximizing portfolio. It has previously been shown that the composition of the tangency portfolio is unaffected by the recognition of estimation risk if the Full Covariance Model is used. Alternatively, if the Market Model is used, the composition of the tangency portfolio has been shown to be affected by the recognition of estimation risk. However, as is demonstrated in this paper, the effect will generally not be as substantive as previously believed and in many situations can be safely ignored.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04940.x"
+        },
+        {
+            "no": "11",
+            "title": "Implications of the Discreteness of Observed Stock Prices",
+            "date": "March 1985",
+            "author": [
+                "GARY GOTTLIEB",
+                "AVNER KALAY"
+            ],
+            "abstract": "Stock prices on the organized exchanges are restricted to be divisible by \u215b. Therefore, the \u201ctrue\u201d price usually differs from the observed price. This paper examines the biases resulting from the discreteness of observed stock prices. It is shown that the natural estimators of the variance and all of the higher order moments of the rate of returns are biased. An approximate set of correction factors is derived and a procedure is outlined to show how the correction can be made. The natural estimators of the \u201cbeta\u201d and of the variance of the market portfolio, on the other hand, are \u201cnearly\u201d unbiased.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04941.x"
+        },
+        {
+            "no": "12",
+            "title": "On Jumps in Common Stock Prices and Their Impact on Call Option Pricing",
+            "date": "March 1985",
+            "author": [
+                "CLIFFORD A. BALL",
+                "WALTER N. TOROUS"
+            ],
+            "abstract": "The Black\u2010Scholes call option pricing model exhibits systematic empirical biases. The Merton call option pricing model, which explicitly admits jumps in the underlying security return process, may potentially eliminate these biases. We provide statistical evidence consistent with the existence of lognormally distributed jumps in a majority of the daily returns of a sample of NYSE listed common stocks. However, we find no operationally significant differences between the Black\u2010Scholes and Merton model prices of the call options written on the sampled common stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04942.x"
+        },
+        {
+            "no": "13",
+            "title": "An Investigation of Commodity Futures Prices Using the Consumption\u2010Based Intertemporal Capital Asset Pricing Model",
+            "date": "March 1985",
+            "author": [
+                "RAVI JAGANNATHAN"
+            ],
+            "abstract": "In this paper we extend the multigood futures pricing model of Grauer and Litzenberger 9 to a dynamic discrete time setting. We then test the model using data on futures prices for corn, wheat, and soybeans. The parameter estimates we obtain are similar to those obtained by other researchers using stock return data. The model itself is rejected and we offer some suggestions as to which assumption may be violated. We also give an interpretation to the Hansen\u2010Singleton nonlinear instrumental variables estimation technique used in our empirical work.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04943.x"
+        },
+        {
+            "no": "14",
+            "title": "Returns to Speculators and the Theory of Normal Backwardation",
+            "date": "March 1985",
+            "author": [
+                "ERIC C. CHANG"
+            ],
+            "abstract": "A nonparametric statistical procedure is employed to examine the returns to speculators in wheat, corn, and soybeans futures markets. We find that the theory of normal backwardation is supported. Moreover, the presence of the risk premiums to speculators tends to be more prominent in recent years than in earlier years. We also find that large wheat speculators as a whole possessed some superior forecasting ability. The evidence is inconsistent with the hypothesis that commodity futures prices are unbiased estimates of the corresponding future spot prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04944.x"
+        },
+        {
+            "no": "15",
+            "title": "The Effect of Voluntary Sell\u2010off Announcements on Shareholder Wealth",
+            "date": "March 1985",
+            "author": [
+                "PREM C. JAIN"
+            ],
+            "abstract": "Sell\u2010off activities arise when a firm sells part of its assets (e.g., a segment, a division, etc.) but continues to exist in essentially the same form. This study investigates the effect of voluntary sell\u2010offs on stock returns. From a sample of over 1000 sell\u2010off events (first public announcements), the evidence shows that both sellers and buyers earn significant positive excess returns from these transactions. The excess returns earned by buyers are smaller than those earned by sellers. There is also evidence that sell\u2010off announcements are preceded by a period of significant negative returns for the sellers which suggests that the sellers, on average, performed poorly prior to their sell\u2010off activities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04945.x"
+        },
+        {
+            "no": "16",
+            "title": "The Price Elasticity of Demand for Whole Life Insurance",
+            "date": "March 1985",
+            "author": [
+                "DAVID F. BABBEL"
+            ],
+            "abstract": "In this study a real price index is created for whole life insurance sold in the United States from 1953 to 1979. New purchases of whole life insurance are shown to be negatively related to changes in this cost index, contrary to what has been widely accepted in the insurance literature, but consistent with economic theory. The existence of strong price elasticity of demand for whole life insurance does not ensure, however, that the insurance industry manifests a high degree of price competition.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04946.x"
+        },
+        {
+            "no": "17",
+            "title": "Bank Funding Risks, Risk Aversion, and the Choice of Futures Hedging Instrument",
+            "date": "March 1985",
+            "author": [
+                "G. D. KOPPENHAVER"
+            ],
+            "abstract": "Currently, theories of financial futures hedging are based on either a portfolio\u2010choice approach or a duration approach. This article presents an alternative: a firm\u2010theoretic model of bank behavior with financial futures. Assuming the bank is uncertain about cash CD interest rates and the quantity of CDs it needs in the future, expressions for the optimal futures hedge are derived under constant absolute risk aversion and constant relative risk aversion. The performance of these two strategies is estimated from 1981\u20131983 using either the recently developed CD futures contract or the T\u2010Bill futures contract. These results are also compared with the performance of a portfolio\u2010choice strategy and a routine hedging strategy. The analysis indicates that the CD futures market can serve a hedging purpose that is not served by the previously established T\u2010Bill futures market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04947.x"
+        },
+        {
+            "no": "18",
+            "title": "Risk Aversion and Arbitrage",
+            "date": "March 1985",
+            "author": [
+                "RICHARD C. GREEN",
+                "SANJAY SRIVASTAVA"
+            ],
+            "abstract": "This paper characterizes conditions under which asset returns and consumption are consistent with risk\u2010averse preferences. It is shown that risk aversion is equivalent to \u201czero arbitrage\u201d on a transformation of the payoff space. The implicit state prices which are dual to this no\u2010arbitrage condition can be interpreted as prices of \u201cpure consumption hedges.\u201d This zero\u2010arbitrage restriction implies the usual restrictions associated with nonsatiation. The analysis holds in both complete and incomplete market settings.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04948.x"
+        },
+        {
+            "no": "19",
+            "title": "Introducing Recursive Partitioning for Financial Classification: The Case of Financial Distress",
+            "date": "March 1985",
+            "author": [
+                "HALINA FRYDMAN",
+                "EDWARD I. ALTMAN",
+                "DUEN\u2010LI KAO"
+            ],
+            "abstract": "The purpose of this study is to present a new classification procedure, Recursive Partitioning Algorithm (RPA), for financial analysis and to compare it with discriminant analysis within the context of firm financial distress. RPA is a computerized, nonparametric technique based on pattern recognition which has attributes of both the classical univariate classification approach and multivariate procedures. RPA is found to outperform discriminant analysis in most original sample and holdout comparisons. We also observe that additional information can be derived by assessing both RPA and discriminant analysis results.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04949.x"
+        },
+        {
+            "no": "20",
+            "title": "An Analysis of Mortgage Contracting: Prepayment Penalties and the Due\u2010on\u2010Sale Clause",
+            "date": "March 1985",
+            "author": [
+                "KENNETH B. DUNN",
+                "CHESTER S. SPATT"
+            ],
+            "abstract": "The due\u2010on\u2010sale clause contained in most conventional home mortgage contracts is equivalent to a prepayment penalty equal to the difference between the face value and market value of the loan. We analyze a bilateral game with asymmetric information and show that the bank demands the full penalty unless the market value of the loan is sufficiently low. In that case, the bank demands a prepayment penalty which is independent of the market value of the loan in order to induce additional prepayments. We also demonstrate, by a risk\u2010sharing argument, that the due\u2010on\u2010sale clause is optimal in some settings, even though it eliminates some beneficial home sales.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04950.x"
+        },
+        {
+            "no": "21",
+            "title": "Divergence of Opinion in Complete Markets: A Note",
+            "date": "March 1985",
+            "author": [
+                "HAL R. VARIAN"
+            ],
+            "abstract": "We consider an Arrow\u2010Debreu model with agents who have different subjective probabilities. In general, asset prices will depend only on aggregate consumption and the distribution of subjective probabilities in each state of nature. If all agents have identical preferences then an asset with \u201cmore dispersed\u201d subjective probabilities will have a lower price than an asset with less dispersed subjective probabilities if risk aversion does not decline too rapidly. It seems that this condition is likely to be met in practice, so that increased dispersion of beliefs will generally be associated with reduced asset prices in a given Arrow\u2010Debreu equilibrium.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04951.x"
+        },
+        {
+            "no": "22",
+            "title": "Interest Rate Term Structure Estimation with Exponential Splines: A Note",
+            "date": "March 1985",
+            "author": [
+                "GARY S. SHEA"
+            ],
+            "abstract": "Vasicek and Fong 11 developed exponential spline functions as models of the interest rate term structure and claim such models are superior to polynomial spline models. It is found empirically that i) exponential spline term structure estimates are no more stable than estimates from a polynomial spline model, ii) data transformations implicit in the exponential spline model frequently condition the data so that it is difficult to obtain approximations in which one can place confidence, and iii) the asymptotic properties of the exponential spline model frequently are unrealistic. Estimation with exponential splines is no more convenient than estimation with polynomial splines and gives substantially identical estimates of the interest rate term structure as well.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04952.x"
+        },
+        {
+            "no": "23",
+            "title": "Marginal Tax Rates: Evidence from Nontaxable Corporate Bonds: A Note",
+            "date": "March 1985",
+            "author": [
+                "JAMES ANG",
+                "DAVID PETERSON",
+                "PAMELA PETERSON"
+            ],
+            "abstract": "This study offers an alternative method of calculating marginal personal tax rates through the pairing of nontaxable (industrial development and pollution control) and taxable corporate bonds. This procedure is shown to produce matched bond pairs that are comparable. Two hundred pairs of bonds are examined from the second quarter of 1973 through the second quarter of 1983. Testing of the marginal tax rate relationships indicates that the marginal personal tax rate is less than the corporate statutory tax rate.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04953.x"
+        },
+        {
+            "no": "24",
+            "title": "Personal Income Taxes and the January Effect: Small Firm Stock Returns Before the War Revenue Act of 1917: A Note",
+            "date": "March 1985",
+            "author": [
+                "PAUL SCHULTZ"
+            ],
+            "abstract": "This paper tests the tax explanation of the January effect by examining small firm stock returns before the War Revenue Act of 1917. No evidence of a turn\u2010of\u2010the\u2010year effect is found. This paper also extends previous authors' work on the subject to 1918\u201329. A January effect is found during that period.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04954.x"
+        },
+        {
+            "no": "25",
+            "title": "Acknowledgement: Kinks on the Mean\u2010Variance Frontier",
+            "date": "March 1985",
+            "author": [
+                "PHILIP H. DYBVIG"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04955.x"
+        },
+        {
+            "no": "26",
+            "title": "Weekend Effects on Stock Returns: A Comment",
+            "date": "March 1985",
+            "author": [
+                "EDWARD A. DYL",
+                "STANLEY A. MARTIN Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04956.x"
+        },
+        {
+            "no": "27",
+            "title": "Weekend Effects on Stock Returns: A Reply",
+            "date": "March 1985",
+            "author": [
+                "JOSEF LAKONISHOK",
+                "MAURICE LEVI"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04957.x"
+        },
+        {
+            "no": "28",
+            "title": "Book Reviews",
+            "date": "March 1985",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nCapital Budgeting Techniques. By F.M. WILKES. New York: John Wiley & Sons, Second Edition, 1983. Pp. xii + 409.\nManagement of Financial Institutions. By BENTON GUP. Boston, Massachusetts: Houghton Mifflin Co., 1984. Pp. 530.\nThe Money Bazaars: Understanding the Banking Revolution Around Us. By MARTIN MAYER. New York: E. P. Dutton, Inc., 1984. Pp. 385. $22.50.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04958.x"
+        },
+        {
+            "no": "29",
+            "title": "MISCELLANEA",
+            "date": "March 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb04959.x"
+        }
+    ]
+}

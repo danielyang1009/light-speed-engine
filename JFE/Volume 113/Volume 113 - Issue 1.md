@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Safer ratios, riskier portfolios: Banks׳ response to government aid
 ### Date
 - Mar 2014
-### Authors
+### Author
 - Ran Duchin
 - Denis Sosyura
 ### Abstract
@@ -25,7 +25,7 @@ Using novel data on bank applications to the Troubled Asset Relief Program (TARP
 ## 3. Predatory lending and the subprime crisis
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Sumit Agarwal
 - Gene Amromin
 - Itzhak Ben-David
@@ -39,7 +39,7 @@ We measure the effect of a 2006 antipredatory pilot program in Chicago on mortga
 ## 4. Winners in the spotlight: Media coverage of fund holdings as a driver of flows
 ### Date
 - Feb 2014
-### Authors
+### Author
 - David H. Solomon
 - Eugene Soltes
 - Denis Sosyura
@@ -51,7 +51,7 @@ We show that media coverage of mutual fund holdings affects how investors alloca
 ## 5. Comovement and investment banking networks
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Gustavo Grullon
 - Shane Underwood
 - James P. Weston
@@ -63,7 +63,7 @@ We test the hypothesis that investment banking networks affect stock prices and 
 ## 6. The Idealized Electoral College voting mechanism and shareholder power
 ### Date
 - Mar 2014
-### Authors
+### Author
 - Edward D. Van Wesep
 ### Abstract
 Increasing concern over corporate governance has led to calls for more shareholder influence over corporate decisions, but allowing shareholders to vote on more issues may not affect the quality of governance. We should expect instead that, under current rules, shareholder voting will implement the preferences of the majority of large shareholders and management. This is because majority rule offers little incentive for small shareholders to vote. I offer a potential remedy in the form of a new voting rule, the Idealized Electoral College (IEC), modeled on the American Electoral College, that significantly increases the expected impact that a given shareholder has on election. The benefit of the mechanism is that it induces greater turnout, but the cost is that it sometimes assigns a winner that is not preferred by a majority of voters. Therefore, for issues on which management and small shareholders are likely to disagree, the IEC is superior to majority rule.
@@ -73,7 +73,7 @@ Increasing concern over corporate governance has led to calls for more sharehold
 ## 7. Beauty is in the eye of the beholder: The effect of corporate tax avoidance on the cost of bank loans
 ### Date
 - Mar 2014
-### Authors
+### Author
 - Iftekhar Hasan
 - Chun Keung (Stan) Hoi
 - Qiang Wu
@@ -86,7 +86,7 @@ We find that firms with greater tax avoidance incur higher spreads when obtainin
 ## 8. Performance evaluation with high moments and disaster risk
 ### Date
 - Mar 2014
-### Authors
+### Author
 - Ohad Kadan
 - Fang Liu
 ### Abstract
@@ -97,7 +97,7 @@ Traditional performance evaluation measures do not account for tail events and r
 ## 9. A dynamic limit order market with fast and slow traders
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Peter Hoffmann
 ### Abstract
 This paper considers the role of high-frequency trading in a dynamic limit order market. Fast traders׳ ability to revise their quotes quickly after news arrivals helps to reduce the inefficiency that is rooted in the risk of being picked off, which increases trade. However, their presence induces slow traders to strategically submit limit orders with a lower execution probability, thereby reducing trade. Because speed is a source of market power, it enables fast traders to extract rents from other market participants and triggers a costly arms race that reduces social welfare. The model generates a number of testable implications concerning the effects of high-frequency trading in limit order markets.

@@ -1,0 +1,209 @@
+{
+    "journal": "JF",
+    "volume": "62",
+    "issue": "5",
+    "date": "October 2007",
+    "page": "Pages: i-vii, 2061-2554, ix-xiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "04 September 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01305.x"
+        },
+        {
+            "no": "2",
+            "title": "Supply and Demand Shifts in the Shorting Market",
+            "date": "04 September 2007",
+            "author": [
+                "LAUREN COHEN",
+                "KARL B. DIETHER",
+                "CHRISTOPHER J. MALLOY"
+            ],
+            "abstract": "Using proprietary data on stock loan fees and quantities from a large institutional investor, we examine the link between the shorting market and stock prices. Employing a unique identification strategy, we isolate shifts in the supply and demand for shorting. We find that shorting demand is an important predictor of future stock returns: An increase in shorting demand leads to negative abnormal returns of 2.98% in the following month. Second, we show that our results are stronger in environments with less public information flow, suggesting that the shorting market is an important mechanism for private information revelation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01269.x"
+        },
+        {
+            "no": "3",
+            "title": "Short\u2010Sales Constraints and Price Discovery: Evidence from the Hong Kong Market",
+            "date": "04 September 2007",
+            "author": [
+                "ERIC C. CHANG",
+                "JOSEPH W. CHENG",
+                "YINGHUI YU"
+            ],
+            "abstract": "Short\u2010sales practices in the Hong Kong stock market are unique in that only stocks on a list of designated securities can be sold short. By analyzing the price effects following the addition of individual stocks to the list, we find that short\u2010sales constraints tend to cause stock overvaluation and that the overvaluation effect is more dramatic for individual stocks for which wider dispersion of investor opinions exists. These findings are consistent with Miller's (1977) intuition and other optimism models. We also document higher volatility and less positive skewness of individual stock returns when short sales are allowed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01270.x"
+        },
+        {
+            "no": "4",
+            "title": "Portfolio Choice over the Life\u2010Cycle when the Stock and Labor Markets Are Cointegrated",
+            "date": "04 September 2007",
+            "author": [
+                "LUCA BENZONI",
+                "PIERRE COLLIN\u2010DUFRESNE",
+                "ROBERT S. GOLDSTEIN"
+            ],
+            "abstract": "We study portfolio choice when labor income and dividends are cointegrated. Economically plausible calibrations suggest young investors should take substantial short positions in the stock market. Because of cointegration the young agent's human capital effectively becomes \u201cstock\u2010like.\u201d However, for older agents with shorter times\u2010to\u2010retirement, cointegration does not have sufficient time to act, and thus their human capital becomes more \u201cbond\u2010like.\u201d Together, these effects create hump\u2010shaped life\u2010cycle portfolio holdings, consistent with empirical observation. These results hold even when asset return predictability is accounted for.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01271.x"
+        },
+        {
+            "no": "5",
+            "title": "Multimarket Trading and Liquidity: Theory and Evidence",
+            "date": "04 September 2007",
+            "author": [
+                "SHMUEL BARUCH",
+                "G. ANDREW KAROLYI",
+                "MICHAEL L. LEMMON"
+            ],
+            "abstract": "We develop a new model of multimarket trading to explain the differences in the foreign share of trading volume of internationally cross\u2010listed stocks. The model predicts that the trading volume of a cross\u2010listed stock is proportionally higher on the exchange in which the cross\u2010listed asset returns have greater correlation with returns of other assets traded on that market. We find robust empirical support for this prediction using stock return and volume data on 251 non\u2010U.S. stocks cross\u2010listed on major U.S. exchanges.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01272.x"
+        },
+        {
+            "no": "6",
+            "title": "Liquidity and the Law of One Price: The Case of the Futures\u2010Cash Basis",
+            "date": "04 September 2007",
+            "author": [
+                "RICHARD ROLL",
+                "EDUARDO SCHWARTZ",
+                "AVANIDHAR SUBRAHMANYAM"
+            ],
+            "abstract": "Deviations from no\u2010arbitrage relations should be related to market liquidity, because liquidity facilitates arbitrage. At the same time, a wide futures\u2010cash basis may trigger arbitrage trades and, in turn, affect liquidity. We test these ideas by studying the dynamic relation between stock market liquidity and the index futures basis. There is evidence of two\u2010way Granger causality between the short\u2010term absolute basis and liquidity, and liquidity Granger\u2010causes longer\u2010term absolute bases. Shocks to the absolute basis predict future stock market liquidity. The evidence suggests that liquidity enhances the efficiency of the futures\u2010cash pricing system.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01273.x"
+        },
+        {
+            "no": "7",
+            "title": "Episodic Liquidity Crises: Cooperative and Predatory Trading",
+            "date": "04 September 2007",
+            "author": [
+                "BRUCE IAN CARLIN",
+                "MIGUEL SOUSA LOBO",
+                "S. VISWANATHAN"
+            ],
+            "abstract": "We describe how episodic illiquidity arises from a breakdown in cooperation between market participants. We first solve a one\u2010period trading game in continuous\u2010time, using an asset pricing equation that accounts for the price impact of trading. Then, in a multi\u2010period framework, we describe an equilibrium in which traders cooperate most of the time through repeated interaction, providing apparent liquidity to one another. Cooperation breaks down when the stakes are high, leading to predatory trading and episodic illiquidity. Equilibrium strategies that involve cooperation across markets lead to less frequent episodic illiquidity, but cause contagion when cooperation breaks down.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01274.x"
+        },
+        {
+            "no": "8",
+            "title": "Liquidity Coinsurance, Moral Hazard, and Financial Contagion",
+            "date": "04 September 2007",
+            "author": [
+                "SANDRO BRUSCO",
+                "FABIO CASTIGLIONESI"
+            ],
+            "abstract": "We study the propagation of financial crises among regions in which banks are protected by limited liability and may take excessive risk. The regions are affected by negatively correlated liquidity shocks, so liquidity coinsurance is Pareto improving. The moral hazard problem can be solved if banks are sufficiently capitalized. Under autarky a limited amount of capital is sufficient to prevent risk\u2010taking, but when financial markets are open capital becomes insufficient. Thus, bankruptcy occurs with positive probability and the crisis spreads to other regions via financial linkages. Opening financial markets is nevertheless Pareto improving; consumers benefit from liquidity coinsurance, although they pay the cost of excessive risk\u2010taking.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01275.x"
+        },
+        {
+            "no": "9",
+            "title": "Liquidity or Credit Risk? The Determinants of Very Short\u2010Term Corporate Yield Spreads",
+            "date": "04 September 2007",
+            "author": [
+                "DAN COVITZ",
+                "CHRIS DOWNING"
+            ],
+            "abstract": "Employing a comprehensive database on transactions of commercial paper issued by domestic U.S. nonfinancial corporations, we study the determinants of very short\u2010term corporate yield spreads. We find that liquidity plays a role in the determination of spreads but, somewhat surprisingly, credit quality is the more important determinant of spreads, even at horizons of less than 1 month. These results are robust across a variety of proxies for liquidity and credit risk, and have important implications for the literature on the modeling of corporate bond prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01276.x"
+        },
+        {
+            "no": "10",
+            "title": "Liquidity Premia and Transaction Costs",
+            "date": "04 September 2007",
+            "author": [
+                "BONG\u2010GYU JANG",
+                "HYENG KEUN KOO",
+                "HONG LIU",
+                "MARK LOEWENSTEIN"
+            ],
+            "abstract": "Standard literature concludes that transaction costs only have a second\u2010order effect on liquidity premia. We show that this conclusion depends crucially on the assumption of a constant investment opportunity set. In a regime\u2010switching model in which the investment opportunity set varies over time, we explicitly characterize the optimal consumption and investment strategy. In contrast to the standard literature, we find that transaction costs can have a first\u2010order effect on liquidity premia. However, with reasonably calibrated parameters, the presence of transaction costs still cannot fully explain the equity premium puzzle.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01277.x"
+        },
+        {
+            "no": "11",
+            "title": "Analyst Disagreement, Mispricing, and Liquidity*",
+            "date": "04 September 2007",
+            "author": [
+                "RONNIE SADKA",
+                "ANNA SCHERBINA"
+            ],
+            "abstract": "This paper documents a close link between mispricing and liquidity by investigating stocks with high analyst disagreement. Previous research finds that these stocks tend to be overpriced, but that prices correct downwards as uncertainty about earnings is resolved. Our analysis suggests that one reason mispricing has persisted through the years is that analyst disagreement coincides with high trading costs. We also show that in the cross\u2010section, the less liquid stocks tend to be more severely overpriced. Additionally, increases in aggregate market liquidity accelerate the convergence of prices to fundamentals. As a result, returns of the initially overpriced stocks are negatively correlated with the time series of innovations in aggregate market liquidity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01278.x"
+        },
+        {
+            "no": "12",
+            "title": "Taking a View: Corporate Speculation, Governance, and Compensation",
+            "date": "04 September 2007",
+            "author": [
+                "CHRISTOPHER C. G\u00c9CZY",
+                "BERNADETTE A. MINTON",
+                "CATHERINE M. SCHRAND"
+            ],
+            "abstract": "Using responses to a well\u2010known confidential survey, we study corporations' use of derivatives to \u201ctake a view\u201d on interest rate and currency movements. Characteristics of speculators suggest that perceived information and cost advantages lead them to take positions actively; that is, they do not speculate to increase risk by \u201cbetting the ranch.\u201d Speculating firms encourage managers to speculate through incentive\u2010aligning compensation arrangements and bonding contracts, and they use derivatives\u2010specific internal controls to manage potential abuse. Finally, we examine whether investors reading public corporate disclosures are able to identify firms that indicate speculating in the confidential survey; they are not.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01279.x"
+        },
+        {
+            "no": "13",
+            "title": "Financial Constraints, Competition, and Hedging in Industry Equilibrium",
+            "date": "04 September 2007",
+            "author": [
+                "TIM ADAM",
+                "SUDIPTO DASGUPTA",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "We analyze the hedging decisions of firms, within an equilibrium setting that allows us to examine how a firm's hedging choice depends on the hedging choices of its competitors. Within this equilibrium some firms hedge while others do not, even though all firms are ex ante identical. The fraction of firms that hedge depends on industry characteristics, such as the number of firms in the industry, the elasticity of demand, and the convexity of production costs. Consistent with prior empirical findings, the model predicts that there is more heterogeneity in the decision to hedge in the most competitive industries.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01280.x"
+        },
+        {
+            "no": "14",
+            "title": "Exchange Rates and Cash Flows in Differentiated Product Industries: A Simulation Approach",
+            "date": "04 September 2007",
+            "author": [
+                "RICHARD FRIBERG",
+                "MATTIAS GANSLANDT"
+            ],
+            "abstract": "How do exchange rate changes impact firms' cash flows? We extend a simulation method developed in industrial organization to answer this question. We use prices, quantities, and product characteristics for differentiated products, coupled with a discrete choice framework and an assumption of price competition, to estimate marginal costs for all producers. Using a Monte Carlo approach we generate counterfactual prices and profits for different levels of exchange rates. We illustrate the method using the market for bottled water. Our results stress that even in a relatively simple market such as this one, different brands face very different exchange rate risks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01281.x"
+        },
+        {
+            "no": "15",
+            "title": "Momentum and Credit Rating",
+            "date": "04 September 2007",
+            "author": [
+                "DORON AVRAMOV",
+                "TARUN CHORDIA",
+                "GERGANA JOSTOVA",
+                "ALEXANDER PHILIPOV"
+            ],
+            "abstract": "This paper establishes a robust link between momentum and credit rating. Momentum profitability is large and significant among low\u2010grade firms, but it is nonexistent among high\u2010grade firms. The momentum payoffs documented in the literature are generated by low\u2010grade firms that account for less than 4% of the overall market capitalization of rated firms. The momentum payoff differential across credit rating groups is unexplained by firm size, firm age, analyst forecast dispersion, leverage, return volatility, and cash flow volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01282.x"
+        },
+        {
+            "no": "16",
+            "title": "Price Convexity and Skewness",
+            "date": "04 September 2007",
+            "author": [
+                "JIANGUO XU"
+            ],
+            "abstract": "This paper develops a model in which investors who are prohibited from short selling agree to disagree on the precision of a publicly observed signal. The model implies that the equilibrium price is a convex function of the public signal. The model predicts that (1) the stock price reacts more to good news than to bad news; (2) the skewness of stock returns is positively correlated with contemporaneous returns, but negatively correlated with lagged returns; (3) short sale constraints increase rather than decrease skewness; and (4) disagreement about information precision increases skewness. Empirical tests conducted find supportive evidence for all these predictions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01283.x"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "04 September 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01284.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "04 September 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2007.01306.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Does financial liberalization spur growth?
 ### Date
 - May 2004
-### Authors
+### Author
 - Geert Bekaert
 - Campbell R. Harvey
 - Christian Lundblad
@@ -26,7 +26,7 @@ We show that equity market liberalizations, on average, lead to a 1% increase in
 ## 3. Law, finance, and economic growth in China
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Franklin Allen
 - Jun Qian
 - Meijun Qian
@@ -38,7 +38,7 @@ China is an important counterexample to the findings in the law, institutions, f
 ## 4. Institutions, ownership, and finance: the determinants of profit reinvestment among Chinese firms
 ### Date
 - May 2004
-### Authors
+### Author
 - Robert Cull
 - Lixin Colin Xu
 ### Abstract
@@ -49,7 +49,7 @@ Johnson et al. (2002. American Economic Review 92 (5), 1335–1356) examine the 
 ## 5. Market manipulation: A comprehensive study of stock pools
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Guolin Jiang
 - Paul G. Mahoney
 - Jianping Mei
@@ -61,7 +61,7 @@ Using a new hand collected data set, this paper examines in detail a classic acc
 ## 6. Strategic trading behavior and price distortion in a manipulated market: anatomy of a squeeze
 ### Date
 - Oct 2004
-### Authors
+### Author
 - John J. Merrick
 - Narayan Y. Naik
 - Pradeep K. Yadav
@@ -73,7 +73,7 @@ This paper investigates an attempted delivery squeeze in a bond futures contract
 ## 7. Do hedge funds have enough capital? A value-at-risk approach
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Anurag Gupta
 - Bing Liang
 ### Abstract

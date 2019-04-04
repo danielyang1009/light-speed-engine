@@ -5,7 +5,7 @@
 ## 1. Commonality in liquidity
 ### Date
 - Apr 2000
-### Authors
+### Author
 - Tarun Chordia
 - Richard Roll
 - Avanidhar Subrahmanyam
@@ -17,7 +17,7 @@ Traditionally and understandably, the microscope of market microstructure has fo
 ## 2. Just another day in the inter-bank foreign exchange market
 ### Date
 - Apr 2000
-### Authors
+### Author
 - Rajesh Chakrabarti
 ### Abstract
 In this paper, I develop a theory of bid–ask quotes provided by foreign exchange dealers in the inter-bank market based on their beliefs and their inventory positions. I then build an agent-based model of the inter-dealer market where dealers learn in a Bayesian manner from quotes from other dealers. Using simulations, I find that the resulting intra-day spreads and between-quote returns largely conform to the empirically observed intra-day U-shaped pattern – a feature that has not been satisfactorily explained in the literature. I also study the factors that determine this U-shape.
@@ -27,7 +27,7 @@ In this paper, I develop a theory of bid–ask quotes provided by foreign exchan
 ## 3. The costs and determinants of order aggressiveness
 ### Date
 - Apr 2000
-### Authors
+### Author
 - Mark D Griffiths
 - Brian F Smith
 - D.Alasdair S Turnbull
@@ -40,7 +40,7 @@ This paper examines the costs and determinants of order aggressiveness. Aggressi
 ## 4. The relative pricing of U.S. Treasury STRIPS: empirical evidence
 ### Date
 - Apr 2000
-### Authors
+### Author
 - Bradford D Jordan
 - Randy D Jorgensen
 - David R Kuipers
@@ -52,7 +52,7 @@ We investigate pricing relations and the potential for arbitrage in the U.S. Tre
 ## 5. Eighths, sixteenths, and market depth: changes in tick size and liquidity provision on the NYSE
 ### Date
 - Apr 2000
-### Authors
+### Author
 - Michael A. Goldstein
 - Kenneth A. Kavajecz
 ### Abstract

@@ -1,0 +1,192 @@
+{
+    "journal": "JF",
+    "volume": "68",
+    "issue": "4",
+    "date": "August 2013",
+    "page": "Pages: fmi-fmvii, 1307-1713, bmi",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "16 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12077"
+        },
+        {
+            "no": "2",
+            "title": "Financial Markets and Investment Externalities",
+            "date": "16 July 2013",
+            "author": [
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "This address explores the link between financial market shocks, investment choices, and various externalities that can arise from these choices. My analysis, which emphasizes differences between shocks to debt and equity markets, provides insights about some stylized facts from the macro finance literature. These insights are illustrated with a discussion of the technology boom and bust in the late 1990s and early 2000s, and the housing boom and bust in the mid\u20102000s.",
+            "link": "https://doi.org/10.1111/jofi.12072"
+        },
+        {
+            "no": "3",
+            "title": "A Model of Shadow Banking",
+            "date": "30 January 2013",
+            "author": [
+                "NICOLA GENNAIOLI",
+                "ANDREI SHLEIFER",
+                "ROBERT W. VISHNY"
+            ],
+            "abstract": "We present a model of shadow banking in which banks originate and trade loans, assemble them into diversified portfolios, and finance these portfolios externally with riskless debt. In this model: outside investor wealth drives the demand for riskless debt and indirectly for securitization, bank assets and leverage move together, banks become interconnected through markets, and banks increase their exposure to systematic risk as they reduce idiosyncratic risk through diversification. The shadow banking system is stable and welfare improving under rational expectations, but vulnerable to crises and liquidity dry\u2010ups when investors neglect tail risks.",
+            "link": "https://doi.org/10.1111/jofi.12031"
+        },
+        {
+            "no": "4",
+            "title": "Organization Capital and the Cross\u2010Section of Expected Returns",
+            "date": "15 February 2013",
+            "author": [
+                "ANDREA L. EISFELDT",
+                "DIMITRIS PAPANIKOLAOU"
+            ],
+            "abstract": "Organization capital is a production factor that is embodied in the firm's key talent and has an efficiency that is firm specific. Hence, both shareholders and key talent have a claim to its cash flows. We develop a model in which the outside option of the key talent determines the share of firm cash flows that accrue to shareholders. This outside option varies systematically and renders firms with high organization capital riskier from shareholders' perspective. We find that firms with more organization capital have average returns that are 4.6% higher than firms with less organization capital.",
+            "link": "https://doi.org/10.1111/jofi.12034"
+        },
+        {
+            "no": "5",
+            "title": "The Real Effects of Financial Shocks: Evidence from Exogenous Changes in Analyst Coverage",
+            "date": "19 March 2013",
+            "author": [
+                "FRAN\u00c7OIS DERRIEN",
+                "AMBRUS KECSK\u00c9S"
+            ],
+            "abstract": "We study the causal effects of analyst coverage on corporate investment and financing policies. We hypothesize that a decrease in analyst coverage increases information asymmetry and thus increases the cost of capital; as a result, firms decrease their investment and financing. We use broker closures and broker mergers to identify changes in analyst coverage that are exogenous to corporate policies. Using a difference\u2010in\u2010differences approach, we find that firms that lose an analyst decrease their investment and financing by 1.9% and 2.0% of total assets, respectively, compared to similar firms that do not lose an analyst.",
+            "link": "https://doi.org/10.1111/jofi.12042"
+        },
+        {
+            "no": "6",
+            "title": "Taxes, Theft, and Firm Performance",
+            "date": "30 January 2013",
+            "author": [
+                "MAXIM MIRONOV"
+            ],
+            "abstract": "This paper examines the interaction between income diversion and firm performance. Using unique Russian banking transaction data, I identify 42,483 spacemen, fly\u2010by\u2010night firms created specifically for income diversion. Next, I build a direct measure of income diversion for 45,429 companies and show that it is negatively related to firm performance. I identify the main reason for the observed effect as managerial diversion rather than tax evasion per se. I further show that stricter tax enforcement can improve firm performance: a one standard deviation increase in tax enforcement corresponds to an increase in the annual revenue growth rate of 2.6%.",
+            "link": "https://doi.org/10.1111/jofi.12026"
+        },
+        {
+            "no": "7",
+            "title": "The Determinants of Attitudes toward Strategic Default on Mortgages",
+            "date": "19 March 2013",
+            "author": [
+                "LUIGI GUISO",
+                "PAOLA SAPIENZA",
+                "LUIGI ZINGALES"
+            ],
+            "abstract": "We use survey data to measure households\u2019 propensity to default on mortgages even if they can afford to pay them (strategic default) when the value of the mortgage exceeds the value of the house. The willingness to default increases in both the absolute and the relative size of the home\u2010equity shortfall. Our evidence suggests that this willingness is affected by both pecuniary and non\u2010pecuniary factors, such as views about fairness and morality. We also find that exposure to other people who strategically defaulted increases the propensity to default strategically because it conveys information about the probability of being sued.",
+            "link": "https://doi.org/10.1111/jofi.12044"
+        },
+        {
+            "no": "8",
+            "title": "Law, Stock Markets, and Innovation",
+            "date": "19 March 2013",
+            "author": [
+                "JAMES R. BROWN",
+                "GUSTAV MARTINSSON",
+                "BRUCE C. PETERSEN"
+            ],
+            "abstract": "We study a broad sample of firms across 32 countries and find that strong shareholder protections and better access to stock market financing lead to substantially higher long\u2010run rates of R&D investment, particularly in small firms, but are unimportant for fixed capital investment. Credit market development has a modest impact on fixed investment but no impact on R&D. These findings connect law and stock markets with innovative activities key to economic growth, and show that legal rules and financial developments affecting the availability of external equity financing are particularly important for risky, intangible investments not easily financed with debt.",
+            "link": "https://doi.org/10.1111/jofi.12040"
+        },
+        {
+            "no": "9",
+            "title": "Cheap Credit, Lending Operations, and International Politics: The Case of Global Microfinance",
+            "date": "19 March 2013",
+            "author": [
+                "MARK J. GARMAISE",
+                "GABRIEL NATIVIDAD"
+            ],
+            "abstract": "The provision of subsidized credit to financial institutions is an important and frequently used policy tool of governments and central banks. To assess its effectiveness, we exploit changes in international bilateral political relationships that generate shocks to the cost of financing for microfinance institutions (MFIs). MFIs that experience politically driven reductions in total borrowing costs hire more staff and increase administrative expenses. Cheap credit leads to greater profitability for MFIs and promotes a shift toward noncommercial loans but has no effect on total overall lending. Instead, the additional resources are either directed to promoting future growth or dissipated.",
+            "link": "https://doi.org/10.1111/jofi.12045"
+        },
+        {
+            "no": "10",
+            "title": "Opening the Black Box: Internal Capital Markets and Managerial Power",
+            "date": "19 March 2013",
+            "author": [
+                "MARKUS GLASER",
+                "FLORENCIO LOPEZ\u2010DE\u2010SILANES",
+                "ZACHARIAS SAUTNER"
+            ],
+            "abstract": "We analyze the internal capital markets of a multinational conglomerate, using a unique panel data set of planned and actual allocations to business units and a survey of unit CEOs. Following cash windfalls, more powerful managers obtain larger allocations and increase investment substantially more than their less connected peers. We identify cash windfalls as a source of misallocation of capital, as more powerful managers overinvest and their units exhibit lower ex post performance and productivity. These findings contribute to our understanding of frictions in resource allocation within firms and point to an important channel through which power may lead to inefficiencies.",
+            "link": "https://doi.org/10.1111/jofi.12046"
+        },
+        {
+            "no": "11",
+            "title": "International Stock Return Predictability: What Is the Role of the United States?",
+            "date": "19 March 2013",
+            "author": [
+                "DAVID E. RAPACH",
+                "JACK K. STRAUSS",
+                "GUOFU ZHOU"
+            ],
+            "abstract": "We investigate lead\u2010lag relationships among monthly country stock returns and identify a leading role for the United States: lagged U.S. returns significantly predict returns in numerous non\u2010U.S. industrialized countries, while lagged non\u2010U.S. returns display limited predictive ability with respect to U.S. returns. We estimate a news\u2010diffusion model, and the results indicate that return shocks arising in the United States are only fully reflected in equity prices outside of the United States with a lag, consistent with a gradual information diffusion explanation of the predictive power of lagged U.S. returns.",
+            "link": "https://doi.org/10.1111/jofi.12041"
+        },
+        {
+            "no": "12",
+            "title": "Evidence on the Benefits of Alternative Mortgage Products",
+            "date": "28 March 2013",
+            "author": [
+                "JO\u00c3O F. COCCO"
+            ],
+            "abstract": "Alternative mortgage products have been identified by many as culprits in the financial crisis. However, because of their lower initial mortgage payments relative to loan amount, they may be a valuable tool for households that expect higher and more certain future labor income, and that wish to smooth consumption over the life\u2010cycle. Using U.K. household\u2010level panel data, this paper provides evidence in support of this hypothesis and highlights other important benefits of alternative mortgages, including portfolio diversification, tax benefits, and a reduction in the transaction costs incurred in housing transactions.",
+            "link": "https://doi.org/10.1111/jofi.12049"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of The Journal of Finance for the Year 2012",
+            "date": "16 July 2013",
+            "author": [
+                "KENNETH J. SINGLETON EDITOR",
+                "BRUNO BIAIS",
+                "MICHAEL ROBERTS CO\u2010EDITORS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12071"
+        },
+        {
+            "no": "14",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "16 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12074"
+        },
+        {
+            "no": "15",
+            "title": "Minutes of the 2013 Annual Membership Meeting",
+            "date": "16 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12075"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "16 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12076"
+        },
+        {
+            "no": "17",
+            "title": "ANNOUNCEMENTS",
+            "date": "16 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12079"
+        },
+        {
+            "no": "18",
+            "title": "BACK MATTER",
+            "date": "16 July 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12078"
+        }
+    ]
+}

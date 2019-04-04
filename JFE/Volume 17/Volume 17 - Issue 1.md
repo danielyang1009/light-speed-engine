@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A note from the editors
 ### Date
 - Sep 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Editorial data
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -37,7 +37,7 @@
 ## 4. Stock return variances
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Kenneth R. French
 - Richard Roll
 ### Abstract
@@ -48,7 +48,7 @@ Asset prices are much more volatile during exchange trading hours than during no
 ## 5. Modeling the term structure of interest rates under non-separable utility and durability of goods
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Kenneth B. Dunn
 - Kenneth J. Singleton
 ### Abstract
@@ -59,7 +59,7 @@ The term structure relations implied by a model in which preferences are non-sep
 ## 6. The effect of bond rating changes on common stock prices
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Robert W. Holthausen
 - Richard W. Leftwich
 ### Abstract
@@ -70,7 +70,7 @@ The evidence in this paper suggests that downgrades by both Moody's and Standard
 ## 7. The valuation of American call options and the expected ex-dividend stock price decline
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Giovanni Barone-Adesi
 - Robert E. Whaley
 ### Abstract
@@ -81,7 +81,7 @@ This study focuses on the ex-dividend stock price decline implicit within the va
 ## 8. Event study methodologies and the size effect
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Elroy Dimson
 - Paul Marsh
 ### Abstract
@@ -92,7 +92,7 @@ This study of 862 press recommendations demonstrates that the size effect can di
 ## 9. Statistical tests of contingent-claims asset-pricing models
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Andrew W. Lo
 ### Abstract
 A new methodology for statistically testing contingent-claims asset-pricing models based on asymptotic statistical theory is proposed. It is introduced in the context of the Black-Scholes option-pricing model, for which some illustrative estimation, inference, and simulation results are also presented. The proposed methodology is then extended to arbitrary contingent claims by first considering the estimation problem for general Itô processes and then deriving the asymptotic distribution of a general contingent claim which depends upon such Itô processes.
@@ -102,7 +102,7 @@ A new methodology for statistically testing contingent-claims asset-pricing mode
 ## 10. Term premiums and default premiums in money markets
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Eugene F. Fama
 ### Abstract
 There are time-varying term and default premiums in the expected returns on money market securities. Default premiums decline with maturity and tend to be higher during recessions. Term premiums tend to increase with maturity during good times, but humps and inversions in the term structure of expected returns are common during recessions. Treasury bills produce positive average term premiums for the overall sample, but average term premiums for private-issuer securities are close to 0.0. A general conclusion is that variation in forward rates is primarily variation in current epected returns rather than in forecasts of changes in interest rates.
@@ -112,7 +112,7 @@ There are time-varying term and default premiums in the expected returns on mone
 ## 11. Day-of-the-week and intraday effects in stock returns
 ### Date
 - Sep 1986
-### Authors
+### Author
 - Michael Smirlock
 - Laura Starks
 ### Abstract
@@ -123,7 +123,7 @@ This study examines day-of-the-week effects using hourly values of the Dow Jones
 ## 12. The equity premium and the concentration of aggregate shocks
 ### Date
 - Sep 1986
-### Authors
+### Author
 - N.Gregory Mankiw
 ### Abstract
 This paper examines an economy in which aggregate shocks are not dispersed equally throughout the population. Instead, while these shocks affect all individuals ex ante, they are concentrated among a few ex post. The equity premium in general depends on the concentration of these aggregate shocks; it follows that one cannot estimate the degree of risk aversion from aggregate data alone. These findings suggest that the empirical usefulness of aggregation theorems for capital asset pricing models is limited.

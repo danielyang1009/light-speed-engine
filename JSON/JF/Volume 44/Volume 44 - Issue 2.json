@@ -1,0 +1,250 @@
+{
+    "journal": "JF",
+    "volume": "44",
+    "issue": "2",
+    "date": "June 1989",
+    "page": "Pages: i-vi, 229-543, vii-xix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00503.x"
+        },
+        {
+            "no": "2",
+            "title": "EDITORIAL ANNOUNCEMENT",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05055.x"
+        },
+        {
+            "no": "3",
+            "title": "Empirical Tests of the Consumption\u2010Oriented CAPM",
+            "date": "June 1989",
+            "author": [
+                "DOUGLAS T. BREEDEN",
+                "MICHAEL R. GIBBONS",
+                "ROBERT H. LITZENBERGER"
+            ],
+            "abstract": "The empirical implications of the consumption\u2010oriented capital asset pricing model (CCAPM) are examined, and its performance is compared with a model based on the market portfolio. The CCAPM is estimated after adjusting for measurement problems associated with reported consumption data. The CCAPM is tested using betas based on both consumption and the portfolio having the maximum correlation with consumption. As predicted by the CCAPM, the market price of risk is significantly positive, and the estimate of the real interest rate is close to zero. The performances of the traditional CAPM and the CCAPM are about the same.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05056.x"
+        },
+        {
+            "no": "4",
+            "title": "The Arbitrage Pricing Theory and Supershares",
+            "date": "June 1989",
+            "author": [
+                "MARK LATHAM"
+            ],
+            "abstract": "In a single\u2010period model with options on the market portfolio, linear factor pricing holds if and only if the variance of the market conditional on the factors is zero. There is no need for factors other than nonlinear functions of the market. For accurate linear pricing of all payoff patterns the factors must be rotationally equivalent to Hakansson's \u201csupershares.\u201d In a multiperiod model, a similar set of results holds, but with consumption replacing the market payoff. The methodology of the empirical Arbitrage Pricing Theory literature is not consistent with either the single\u2010period model or the multiperiod model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05057.x"
+        },
+        {
+            "no": "5",
+            "title": "New Hope for the Expectations Hypothesis of the Term Structure of Interest Rates",
+            "date": "June 1989",
+            "author": [
+                "KENNETH A. FROOT"
+            ],
+            "abstract": "Survey data on interest rate expectations permit separate testing of the two alternative hypotheses in traditional term structure tests: that the expectations hypothesis fails, and that expected future interest rates are ex post inefficient forecasts. We find that the source of the spread's poor predictions of future interest rates varies with maturity. At short maturities the expectations hypothesis fails. At long maturities, however, changes in the yield curve reflect changes in expected future rates one\u2010for\u2010one, an implication of the expectations hypothesis. This result confirms earlier findings that long rates underreact to short rates, but now it cannot be attributed to term premia.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05058.x"
+        },
+        {
+            "no": "6",
+            "title": "The Time Variation of Risk and Return in the Foreign Exchange and Stock Markets",
+            "date": "June 1989",
+            "author": [
+                "ALBERTO GIOVANNINI",
+                "PHILIPPE JORION"
+            ],
+            "abstract": "This paper attempts to determine whether the fluctuations of conditional first and second moments\u2014which are observed for many assets\u2014are consistent with the Sharpe\u2010Lintner\u2010Mossin capital asset pricing model. We test the mean\u2010variance model under several different assumptions about the time variation of conditional second moments of returns, using weekly data from July 1974 to December 1986, that include returns on a portfolio composed of dollar, Deutsche mark, sterling, and Swiss franc assets, together with the U.S. stock market. The results indicate that estimated conditional variances cannot explain the observed time variation of risk premia.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05059.x"
+        },
+        {
+            "no": "7",
+            "title": "Tax\u2010Induced Trading: The Effect of the 1986 Tax Reform Act on Stock Market Activity",
+            "date": "June 1989",
+            "author": [
+                "PAUL J. BOLSTER",
+                "LAWRENCE B. LINDSEY",
+                "ANDREW MITRUSI"
+            ],
+            "abstract": "The end of favorable tax treatment for long\u2010term capital gains caused investors to reassess traditional tax\u2010induced trading strategies. This study compares trading behavior in December 1986 and January 1987 with previous years. Our results indicate that these tax code changes had a powerful effect on trading behavior. Relative trading volume was considerably higher in December 1986 for long\u2010term winners but not significantly lower for long\u2010term losers. Results also indicate altered trading patterns based on short\u2010term gains in December 1986 and for long\u2010term winners in January 1987.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05060.x"
+        },
+        {
+            "no": "8",
+            "title": "Valuing Commercial Mortgages: An Empirical Investigation of the Contingent\u2010Claims Approach to Pricing Risky Debt",
+            "date": "June 1989",
+            "author": [
+                "SHERIDAN TITMAN",
+                "WALTER TOROUS"
+            ],
+            "abstract": "This paper empirically investigates a contingent\u2010claims model of commercial mortgage pricing. We find that the magnitude of the observed default premia for a sample of nonprepayable fixed rate bullet mortgages can be explained by the contingent\u2010claims model. In addition, the model explains a significant proportion of the period\u2010to\u2010period changes in the default premia. However, given an assumed negative correlation between building value changes and interest rate changes, the model's risk structure tends to increase less steeply with increasing maturity than the observed risk structure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05061.x"
+        },
+        {
+            "no": "9",
+            "title": "Prepayment and the Valuation of Mortgage\u2010Backed Securities",
+            "date": "June 1989",
+            "author": [
+                "EDUARDO S. SCHWARTZ",
+                "WALTER N. TOROUS"
+            ],
+            "abstract": "This paper puts forward a valuation framework for mortgage\u2010backed securities. Rather than imposing an optimal, value\u2010minimizing call condition, we assume that at each point in time there exists a probability of prepaying; this conditional probability depends upon the prevailing state of the economy. To implement our valuation procedure, we use maximum\u2010likelihood techniques to estimate a prepayment function in light of recent aggregate GNMA prepayment experience. By integrating this empirical prepayment function into our valuation framework, we provide a complete model to value mortgage\u2010backed securities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05062.x"
+        },
+        {
+            "no": "10",
+            "title": "Signalling and the Pricing of New Issues",
+            "date": "June 1989",
+            "author": [
+                "MARK GRINBLATT",
+                "CHUAN YANG HWANG"
+            ],
+            "abstract": "This paper develops a signalling model with two signals, two attributes, and a continuum of signal levels and attribute types to explain new issue underpricing. Both the fraction of the new issue retained by the issuer and its offering price convey to investors the unobservable \u201cintrinsic\u201d value of the firm and the variance of its cash flows. Many of the model's comparative statics results are novel, empirically testable, and consistent with the existing empirical evidence on new issues. In particular, the degree of underpricing, which can be inferred from observable variables, is positively related to the firm's post\u2010issue share price.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05063.x"
+        },
+        {
+            "no": "11",
+            "title": "Seasoned Offerings, Imitation Costs, and the Underpricing of Initial Public Offerings",
+            "date": "June 1989",
+            "author": [
+                "IVO WELCH"
+            ],
+            "abstract": "This paper presents a signalling model in which high\u2010quality firms underprice at the initial public offering (IPO) in order to obtain a higher price at a seasoned offering. The main assumptions are that low\u2010quality firms must invest in imitation expenses to appear to be high\u2010quality firms, and that with some probability this imitation is discovered between offerings. Underpricing by high\u2010quality firms at the IPO can then add sufficient signalling costs to these imitation expenses to induce low\u2010quality firms to reveal their quality voluntarily. The model is consistent with several documented empirical regularities and offers new testable implications. In addition, the paper provides empirical evidence that many firms raise substantial amounts of additional equity capital in the years after their IPO.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05064.x"
+        },
+        {
+            "no": "12",
+            "title": "Information Effects Associated with Debt\u2010for\u2010Equity and Equity\u2010for\u2010Debt Exchange Offers",
+            "date": "June 1989",
+            "author": [
+                "MARCIA MILLON CORNETT",
+                "NICKOLAOS G. TRAVLOS"
+            ],
+            "abstract": "This study investigates the information effect caused by a firm's change in capital structure via debt\u2010for\u2010equity and equity\u2010for\u2010debt exchange offers. The evidence suggests that the former transactions lead to abnormal stock price increases, while the latter lead to abnormal stock price decreases. In addition, findings based on analysis of bond returns and cross\u2010sectional regressions do not lend support to the wealth\u2010transfer\u2010 and tax\u2010effect hypotheses, but they are consistent with the information\u2010effect hypothesis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05065.x"
+        },
+        {
+            "no": "13",
+            "title": "The Informational Content of Initial Public Offerings",
+            "date": "June 1989",
+            "author": [
+                "IAN GALE",
+                "JOSEPH E. STIGLITZ"
+            ],
+            "abstract": "The ability of capital markets to distinguish firms of different value by the size of their initial equity offerings is attenuated when insiders can sell equity more than once. A model is developed in which there is price risk from holding equity between periods. When the uncertainty is small, there must be pooling in the first period. When uncertainty is large, the pooling equilibria dominate the separating equilibrium.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05066.x"
+        },
+        {
+            "no": "14",
+            "title": "The Effects of Beta, Bid\u2010Ask Spread, Residual Risk, and Size on Stock Returns",
+            "date": "June 1989",
+            "author": [
+                "YAKOV AMIHUD",
+                "HAIM MENDELSON"
+            ],
+            "abstract": "Merton's [26] recent extension of the CAPM proposed that asset returns are an increasing function of their beta risk, residual risk, and size and a decreasing function of the public availability of information about them. Associating the latter with asset liquidity and following Amihud and Mendelson's [2] proposition that asset returns increase with their illiquidity (measured by the bid\u2010ask spread), we jointly estimate the effects of these four factors on stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05067.x"
+        },
+        {
+            "no": "15",
+            "title": "The Price Effect of Option Introduction",
+            "date": "June 1989",
+            "author": [
+                "JENNIFER CONRAD"
+            ],
+            "abstract": "This paper examines the price effect of option introduction from 1974 to 1980. The introduction of individual options causes a permanent price increase in the underlying security, beginning approximately three days before introduction. The price effect appears to be associated with introduction, and not announcement, throughout the sample period. Excess returns volatility declines with option introduction. Systematic risk is unchanged. There is a positive relation between the price increase and a measure of activity in the options market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05068.x"
+        },
+        {
+            "no": "16",
+            "title": "Adverse Selection in a Model of Real Estate Lending",
+            "date": "June 1989",
+            "author": [
+                "V. V. CHARI",
+                "RAVI JAGANNATHAN"
+            ],
+            "abstract": "We provide a rationale for the presence of points in mortgage loan contracts. Our analysis builds on two key features. First, insurance markets are unavailable for labor income. Second, the \u201cdue\u2010on\u2010sale\u201d clause allows banks to offer loan contracts which partially insure against fluctuations in labor income. If explicit prepayment penalties are prohibited by law, points serve effectively as prepayment penalties. We also examine environments where such penalties are not prohibited and show that points will be used if interest rates cannot depend on the size of the loan.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05069.x"
+        },
+        {
+            "no": "17",
+            "title": "Institutional Ownership and Changes in the S&P 500",
+            "date": "June 1989",
+            "author": [
+                "STEPHEN W. PRUITT",
+                "K. C. JOHN WEI"
+            ],
+            "abstract": "Several recent articles have provided new evidence for the existence of price pressures by examining the price and volume effects associated with changes in the S&P 500. The present study extends this work by examining actual changes in institutional holdings following both additions to and deletions from the S&P 500. The results show that changes in institutional holdings in response to additions or deletions from the S&P 500 are positively correlated. In addition to providing further evidence for the existence of price pressure effects, the results also provide evidence of the very large institutional elasticities of demand for stock.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05070.x"
+        },
+        {
+            "no": "18",
+            "title": "The Expected Utility of the Doubling Strategy",
+            "date": "June 1989",
+            "author": [
+                "EDWARD OMBERG"
+            ],
+            "abstract": "It has been noted that a certain continuous\u2010time trading strategy, termed the \u201cdoubling strategy\u201d, generates a positive net return on borrowed funds, with probability one and within a finite period of time. Since the doubling strategy seems to represent a \u201cfree lunch\u201d or arbitrage opportunity, a variety of constraints to render it infeasible have been proposed. In this paper, we show that the doubling strategy generates infinite disutility for a large class of utility functions, and we can think of no utility function for a risk\u2010averse agent which is a counterexample.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05071.x"
+        },
+        {
+            "no": "19",
+            "title": "Comment on Forward Markets, Stock Markets, and the Theory of the Firm",
+            "date": "June 1989",
+            "author": [
+                "VOJISLAV MAKSIMOVIC",
+                "GORDON SICK",
+                "JOSEF ZECHNER"
+            ],
+            "abstract": "In a recent article, MacMinn [5] argues that the presence of forward markets eliminates the incentives of the firm's manager to choose production levels that maximize firm value. In this comment, we show that his results do not depend on the presence of forward markets. The critical assumptions are that the manager is endowed with money rather than stock in the firm and that there is no competitive labor market for managers. In addition, his results require time\u2010inconsistent behavior on the part of the firm's manager.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05072.x"
+        },
+        {
+            "no": "20",
+            "title": "Book Reviews",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nFoundations for Financial Economics. By CHI\u2010FU HUANG and ROBERT H. LITZENBERGER.\nMean\u2010Variance Analysis in Portfolio Choice and Capital Markets. By HARRY M. MARKOWITZ.\nInternational Investments. By BRUNO SOLNIK.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05073.x"
+        },
+        {
+            "no": "21",
+            "title": "MISCELLANEA",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05074.x"
+        },
+        {
+            "no": "22",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05075.x"
+        },
+        {
+            "no": "23",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb05076.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "June 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00504.x"
+        }
+    ]
+}

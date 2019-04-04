@@ -1,0 +1,356 @@
+# JF, Volume 39, Issue 1
+- March 1984
+- Pages: i-viii, 1-321, ix-xxxiii
+
+## 1. Front Matter
+### Date
+- March 1984
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb00913.x
+
+## 2. An International Study of Tax Effects on Government Bonds
+### Date
+- March 1984
+### Author
+- ROBERT H. LITZENBERGER
+- JACQUES ROLFO
+### Abstract
+It is shown that coupon bonds alone are not sufficient to span time‐dated claims on ordinary income, capital gains, and non‐taxable wealth. In an incomplete bond market where the pure dated claims are not spanned by existing bonds, marginal rates of substitution between present consumption and pure dated claims on ordinary income, capital gains income, and non‐taxable wealth, respectively, can differ across bondholders. However, the relative pricing of coupon bonds in each of these countries is shown to be consistent with the tax status of the major (non‐tax‐exempt) holders of government debt.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03857.x
+
+## 3. Dealer Bid‐Ask Quotes and Transaction Prices: An Empirical Study of Some AMEX Options
+### Date
+- March 1984
+### Author
+- THOMAS S. Y. HO
+- RICHARD G. MACRIS
+### Abstract
+This paper, utilizing dealer's “trading book” information, presents some empirical evidence supporting the validity of a dealer pricing model. It shows that much of the transaction prices variation may be explained by the specialist's optimal determination of his bid and ask quotes. Furthermore, it demonstrates that the dealer's bid‐ask spread is an important explanatory variable in the observed transaction return. Finally, it indicates that the dealer's inventory level may affect his quotes and thus the transaction prices and order arrivals. The paper provides insights into the relationship between transaction prices and equilibrium prices, which will permit more extensive use of transaction data in empirical investigations. It also provides a better understanding of optimal dealer pricing strategies, suggesting that the proposed empirical model may be used to evaluate a dealer's trading performance.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03858.x
+
+## 4. Mean‐Variance Versus Direct Utility Maximization
+### Date
+- March 1984
+### Author
+- YORAM KROLL
+- HAIM LEVY
+- HARRY M. MARKOWITZ
+### Abstract
+Levy and Markowitz showed, for various utility functions and empirical returns distributions, that the expected utility maximizer could typically do very well if he acted knowing only the mean and variance of each distribution. Levy and Markowitz considered only situations in which the expected utility maximizer chose among a finite number of alternate probability distributions. The present paper examines the same questions for a case with an infinite number of alternate distributions, namely those available from the standard portfolio constraint set.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03859.x
+
+## 5. On the Exclusion of Assets from Tests of the Mean Variance Efficiency of the Market Portfolio
+### Date
+- March 1984
+### Author
+- SHMUEL KANDEL
+### Abstract
+This paper presents an analysis of the testability of the mean variance efficiency of a market index when the returns on some components of the index itself are not perfectly observable. The results are basically not supportive of the notion that mean variance efficiency is testable on a subset of the assets. Bounding the market share of the missing asset and its expected return is not sufficient to produce a valid test. When the variance of the missing asset is bounded, and the amount of wealth that might be missing is small, it is possible, in principle, to reject correctly the mean variance efficiency of a market index.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03860.x
+
+## 6. Consumption and Equilibrium Interest Rates in Stochastic Production Economies
+### Date
+- March 1984
+### Author
+- M. SUNDARESAN
+### Abstract
+In this paper, we analyze the behavior of equilibrium real interest rates in an identical consumer economy in which the preferences are represented by time additive logarithmic utility functions and production technologies are Cobb‐Douglas with stochastic constant returns to scale. The following main results are established.
+(i)
+When there is no relative price uncertainty, it is shown that the equilibrium interest rate exhibits a mean reverting tendency. A nontrivial steady state distribution is found to exist for the equilibrium interest rate. The properties of the equilibrium interest rate are also derived and discussed.
+(ii)
+In a multigood economy, even with additive preferences across goods, the equilibrium interest rates depend explicitly on relative prices. The substitution possibilities in production technologies induce this result. This is in contrast to the findings of Richard and Sundaresan 11 who show that the analytical general equilibrium term structure of interest rates formula of Cox, Ingersoll, and Ross 5 is unaffected by the introduction of relative price uncertainty when the technologies are linear and hence involve no substitution.
+Furthermore, we relate our results to those of Cox, Ingersoll, and Ross 5, Breeden 3, and Richard and Sundaresan 11 with special emphasis on stochastic production and realtive price uncertainty.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03861.x
+
+## 7. Capital Structure Equilibrium under Market Imperfections and Incompleteness
+### Date
+- March 1984
+### Author
+- LEMMA W. SENBET
+- ROBERT A. TAGGART JR.
+### Abstract
+This paper generalizes Miller's supply‐side equilibrium argument to other forms of capital market imperfections and incompleteness. If corporations possess a comparative advantage in dealing with these imperfections, they have an incentive to act as financial intermediaries. Corporations' attempts to profit from these intermediation activities dictate an optimal capital structure for the corporate sector as a whole, but in equilibrium the capital structure of any single firm is a matter of indifference. In addition, the positive role that corporate finance plays in completing the market restores standard perfect market results on asset pricing and the associated portfolio separation properties.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03862.x
+
+## 8. Taxes, Inflation and Corporate Financial Policy
+### Date
+- March 1984
+### Author
+- LAWRENCE D. SCHALL
+### Abstract
+This paper examines inflation‐induced distortions in personal and corporate income taxes and discusses the implications for corporate dividend and financial structure policies and for shareholder unanimity. The tax effects relating to capital gains and debt interest cause changes in aggregate corporate borrowing and lead to equilibrium tax relationships which differ from the zero‐inflation tax relationships.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03863.x
+
+## 9. Corporate Behavior in Adjusting to Capital Structure and Dividend Targets: An Econometric Study
+### Date
+- March 1984
+### Author
+- ABOLHASSAN JALILVAND
+- ROBERT S. HARRIS
+### Abstract
+This study of financing decisions by U.S. corporations examines the issuance of long term debt, issuance of short term debt, maintenance of corporate liquidity, issuance of new equity, and payment of dividends. Given costs and imperfections inherent in markets, a firm's financial behavior is characterized as partial adjustment to long run financial targets. Individual firm data are used so that speeds of adjustment are allowed to vary by company and over time. The results suggest that financial decisions are interdependent and that firm size, interest rate conditions, and stock price levels affect speeds of adjustment.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03864.x
+
+## 10. Models of Stock Returns—A Comparison
+### Date
+- March 1984
+### Author
+- STANLEY J. KON
+### Abstract
+In this paper a discrete mixture of normal distributions is proposed to explain the observed significant kurtosis (fat tails) and significant positive skewness in the distribution of daily rates of returns for a sample of common stocks and indexes. Stationarity tests on the parameter estimates of this discrete mixture of normal distributions model revealed significant differences in the mean estimates that can explain the observed skewness and significant differences in the variance estimates that can explain the observed kurtosis. An alternative explanation for the observed fat tails is the symmetric student model. The result of a comparison between the models is that the discrete mixture of normal distributions model has substantially more descriptive validity than the student model.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03865.x
+
+## 11. A Partial Theory of Takeover Bids
+### Date
+- March 1984
+### Author
+- D. J. ASHTON
+- D. R. ATKINS
+### Abstract
+There is a natural separation between production decisions affecting the firm as a whole and individual decisions by each shareholder about his portfolio of securities. The end result of these two types of decisions is normally referred to as a productive exchange equilibrium. At such an equilibrium, no individual wants to adjust his portfolio and no firm can muster majority support for a change in its production plans. This paper presents a partial theory of takeover bids in that it examines the role of a takeover bid as a mechanism by which a simultaneous change in shareholdings and production plans can be achieved. This enables a new production exchange equilibrium to be reached which is preferred by a majority of the shareholders but which is inaccessible without a contingent contract in the form of a takeover bid.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03866.x
+
+## 12. The Turn‐of‐the‐Year in Canada
+### Date
+- March 1984
+### Author
+- ANGEL BERGES
+- JOHN J. McCONNELL
+- GARY G. SCHLARBAUM
+### Abstract
+A number of investigators have reported that January stock returns in the U.S. exceed returns for other months of the year. This paper documents a similar finding for Canadian stocks over the period 1951–1980. However, Canada did not introduce a capital gains tax until 1973 and the paper reports that January returns in Canada exceed returns for other months of the year before and after this date. Thus, these data do not support the tax‐loss‐selling‐pressure hypothesis as the entire explanation for the turn‐of‐the‐year effect in stock returns, nor, by implication, do they support the tax‐loss‐selling‐pressure hypothesis as the complete explanation for the “small firm” effect in U.S. stocks returns.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03867.x
+
+## 13. Commodity Bonds and Consumption Risks
+### Date
+- March 1984
+### Author
+- MAUREEN O'HARA
+### Abstract
+This paper analyzes the economic role of commodity bonds by examining the nature of the demand for these securities. I show that while commodity bonds protect against relative price changes, they do so by introducing variability into the future real income stream. This variability limits the desirability of using commodity bonds to provide “price insurance” for future consumption. However, this variability may allow commodity bonds to hedge risks to consumption caused by stochastic changes in income. The analysis also suggests that it is this “income insurance” rather than “price insurance” that is important in hedging risks to future consumption.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03868.x
+
+## 14. The Valuation of Multivariate Contingent Claims in Discrete Time Models
+### Date
+- March 1984
+### Author
+- R. C. STAPLETON
+- M. G. SUBRAHMANYAM
+### Abstract
+There are several examples in the literature of contingent claims whose payoffs depend on the outcomes of two or more stochastic variables. Familiar cases of such claims include options on a portfolio of options, options whose exercise price is stochastic, and options to exchange one asset for another. This paper derives risk neutral valuation relationships (RNVRs) in a discrete time setting that facilitate the pricing of such complex contingent claims in two specific cases: joint lognormally distributed underlying variables and constant proportional risk aversion on the part of investors, and joint normally distributed underlying variables and constant absolute risk aversion preferences, respectively. This methodology is then applied to the valuation of several interesting complex contingent claims such as multiperiod bonds, multicurrency option bonds, and investment options.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03869.x
+
+## 15. The Valuation of Assets under Moral Hazard
+### Date
+- March 1984
+### Author
+- RAM T. S. RAMAKRISHNAN
+- ANJAN V. THAKOR
+### Abstract
+The design of managerial incentive contracts is examined in a setting in which economic agents are risk averse, and the actions of managers can affect asset returns which contain both systematic and idiosyncratic risks. It is shown that in the absence of moral hazard, owners of assets will insure managers against idiosyncratic risks, but with moral hazard, contracts will depend on both systematic and idiosyncratic risks. The traditional recommendation of asset pricing models, namely, to focus only on systematic risks, is thus proved to be valid only when there is no moral hazard. The major empirically testable predictions of the model are (1) managerial incentive contracts will generally depend on systematic as well as idiosyncratic risks, (2) idiosyncratic risks will generally be important in investment decisions, (3) the managers of firms with relatively high levels of idiosyncratic risks will have compensations that are less dependent on their firms' excess returns, and (4) the compensations of managers of larger firms will be relatively more dependent on the excess returns of their firms.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03870.x
+
+## 16. Short Sales Restrictions and Kinks on the Mean Variance Frontier
+### Date
+- March 1984
+### Author
+- PHILIP H. DYBVIG
+### Abstract
+With a short sales restriction, there may be switching points along the mean variance frontier corresponding to changes in the set of assets held. Traditional wisdom holds that each switching point corresponds to a kink, while Ross has claimed that kinks never occur. This paper shows that the truth lies between the two views, since the efficient frontier may or may not be kinked at a switching point. There is some indication that kinks are rare, since a kink corresponds to a portfolio in which all assets have the same expected return.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03871.x
+
+## 17. On the Jensen Measure and Marginal Improvements in Portfolio Performance: A Note
+### Date
+- March 1984
+### Author
+- J. D. JOBSON
+- BOB KORKIE
+### Abstract
+The marginal performance contribution made by new assets in a portfolio is identified. The maximum change in a portfolio's Sharpe performance from the addition of new assets is a simple function of a generalized Jensen index and the unexplained covariances from a multivariate market model. Deviations from a higher dimension market line may be used to rank the desirability of asset additions to an existing portfolio. Statistical tests for the equality of the performance contributions by new assets is possible.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03872.x
+
+## 18. The Value of the Tax Treatment of Original‐Issue Deep‐Discount Bonds: A Note
+### Date
+- March 1984
+### Author
+- MARCELLE ARAK
+- ANDREW SILVER
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03873.x
+
+## 19. Option Pricing When the Underlying Asset Earns a Below‐Equilibrium Rate of Return: A Note
+### Date
+- March 1984
+### Author
+- ROBERT MCDONALD
+- DANIEL SIEGEL
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03874.x
+
+## 20. Stock Market Returns and Real Activity: A Note
+### Date
+- March 1984
+### Author
+- ROGER D. HUANG
+- WILLIAM A. KRACAW
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03875.x
+
+## 21. Conglomerate Merger, Wealth Redistribution and Debt: A Note
+### Date
+- March 1984
+### Author
+- CHUN H. LAM
+- KENNETH J. BOUDREAUX
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03876.x
+
+## 22. Negative Cash Flows, Duration, and Immunization: A Note
+### Date
+- March 1984
+### Author
+- PATRICIA KNAIN LITTLE
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03877.x
+
+## 23. Flotation Cost Allowance for the Regulated Firm: A Comment
+### Date
+- March 1984
+### Author
+- KEITH M. HOWE
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03878.x
+
+## 24. Flotation Cost Allowance for the Regulated Firm: A Reply
+### Date
+- March 1984
+### Author
+- E. R. ARZAC
+- M. MARCUS
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03879.x
+
+## 25. Information Diversity and Market Behavior: A Comment
+### Date
+- March 1984
+### Author
+- DONALD P. MINASSIAN
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03880.x
+
+## 26. Information Diversity and Market Behavior: A Reply
+### Date
+- March 1984
+### Author
+- STEPHEN FIGLEWSKI
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03881.x
+
+## 27. Notes on Multiperiod Valuation and the Pricing of Options: A Comment
+### Date
+- March 1984
+### Author
+- R. C. STAPLETON
+- M. G. SUBRAHMANYAM
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03882.x
+
+## 28. Notes on Multiperiod Valuation and the Pricing of Options: A Reply
+### Date
+- March 1984
+### Author
+- SUDIPTO BHATTACHARYA
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03883.x
+
+## 29. Book Reviews
+### Date
+- March 1984
+### Author
+### Abstract
+Book reviewed in this article:
+Management of Investments. By JACK CLARK FRANCIS. New York: McGraw Hill, Inc., 1983. Pp. xvii + 669.
+Principles of Financial Management. By BURTON A. KOLB. Plano, Texas: Business Publications, Inc., 1983. Pp. xvi + 799.
+Financial Institutions, Markets, and Economic Activity. By TIM S. CAMPBELL. New York: McGraw‐Hill Book Company, 1982. Pp. xviii + 604.
+The Fed. By MAXWELL NEWTON. New York: Times Books, Inc., 1983. Pp. xiv + 336.
+Financial Markets and Institutions. By ROBERT D. AUERBACH. New York: MacMillan Publishing Co., Inc., 1983. Pp. xiv + 577.
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03884.x
+
+## 30. MISCELLANEA
+### Date
+- March 1984
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03885.x
+
+## 31. ASSOCIATION MEETINGS
+### Date
+- March 1984
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03855.x
+
+## 32. ANNOUNCEMENTS
+### Date
+- March 1984
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb03856.x
+
+## 33. Back Matter
+### Date
+- March 1984
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.1984.tb00914.x
+

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Special Issue Contents
 ### Date
 - Nov 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Breadth of ownership and stock returns
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Joseph Chen
 - Harrison Hong
 - Jeremy C. Stein
@@ -35,7 +35,7 @@ We develop a stock market model with differences of opinion and short-sales cons
 ## 4. Short-sale constraints and stock returns
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Charles M Jones
 - Owen A Lamont
 ### Abstract
@@ -46,7 +46,7 @@ Stocks can be overpriced when short-sale constraints bind. We study the costs of
 ## 5. Stocks are special too: an analysis of the equity lending market
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Christopher C. Geczy
 - David K. Musto
 - Adam V. Reed
@@ -58,7 +58,7 @@ With a year of equity loans by a major lender, we measure the effect of actual s
 ## 6. The market for borrowing stock
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Gene D’Avolio
 ### Abstract
 To short a stock, an arbitrageur must first borrow it. This paper describes the market for borrowing and lending U.S. equities, emphasizing the conditions generating and sustaining short-sale constraints. A large institutional lending intermediary provided eighteen months (4/2000–9/2001) of data on loan supply (“shortability”), loan fees (“specialness”), and loan recalls. The data suggest that while loan market specials and recalls are rare on average, the incidence of these short-sale constraints is increasing in the divergence of opinion among investors. Beyond some threshold, investor optimism itself can limit arbitrage via the loan market mechanism.
@@ -68,7 +68,7 @@ To short a stock, an arbitrageur must first borrow it. This paper describes the 
 ## 7. Securities lending, shorting, and pricing
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Darrell Duffie
 - Nicolae Gârleanu
 - Lasse Heje Pedersen
@@ -80,7 +80,7 @@ We present a model of asset valuation in which short-selling requires searching 
 ## 8. Synchronization risk and delayed arbitrage
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Dilip Abreu
 - Markus K Brunnermeier
 ### Abstract
@@ -91,7 +91,7 @@ We argue that arbitrage is limited if rational traders face uncertainty about wh
 ## 9. Equilibrium and welfare in markets with financially constrained arbitrageurs
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Denis Gromb
 - Dimitri Vayanos
 ### Abstract
@@ -102,7 +102,7 @@ We propose a multiperiod model in which competitive arbitrageurs exploit discrep
 ## 10. Who underreacts to cash-flow news? evidence from trading between individuals and institutions
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Randolph B. Cohen
 - Paul A. Gompers
 - Tuomo Vuolteenaho
@@ -114,7 +114,7 @@ A large body of literature suggests that firm-level stock prices “underreact�
 ## 11. The bond/old-bond spread
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Arvind Krishnamurthy
 ### Abstract
 I document the profits on a trade that is long the old 30-year Treasury bond and short the new 30-year Treasury bond, and is rolled over every auction cycle from June 1995 to November 1999. Despite the systematic convergence of the spread over the auction cycle, the average profits are close to zero. The difference in repo-market financing rates between the two bonds is a significant cost of carry in this trade. I show that variation in the bond/old-bond spread is driven by the Treasury supply of 30-year bonds as well as aggregate factors affecting investors’ preference for liquid assets.
@@ -124,7 +124,7 @@ I document the profits on a trade that is long the old 30-year Treasury bond and
 ## 12. Index
 ### Date
 - Nov 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link

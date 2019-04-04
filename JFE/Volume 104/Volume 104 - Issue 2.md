@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Introduction: A special issue on investor sentiment
 ### Date
 - Feb 2012
-### Authors
+### Author
 - Jeffrey Wurgler
 ### Abstract
 
@@ -24,7 +24,7 @@
 ## 3. Time series momentum
 ### Date
 - Nov 2011
-### Authors
+### Author
 - Tobias J. Moskowitz
 - Yao Hua Ooi
 - Lasse Heje Pedersen
@@ -36,7 +36,7 @@ We document significant “time series momentum” in equity index, currency, co
 ## 4. Realization utility
 ### Date
 - Oct 2011
-### Authors
+### Author
 - Nicholas Barberis
 - Wei Xiong
 ### Abstract
@@ -47,7 +47,7 @@ A number of authors have suggested that investors derive utility from realizing 
 ## 5. Global, local, and contagious investor sentiment
 ### Date
 - Nov 2011
-### Authors
+### Author
 - Malcolm Baker
 - Jeffrey Wurgler
 - Yu Yuan
@@ -59,7 +59,7 @@ We construct investor sentiment indices for six major stock markets and decompos
 ## 6. The short of it: Investor sentiment and anomalies
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Robert F. Stambaugh
 - Jianfeng Yu
 - Yu Yuan
@@ -71,7 +71,7 @@ This study explores the role of investor sentiment in a broad set of anomalies i
 ## 7. Chasing noise
 ### Date
 - Feb 2011
-### Authors
+### Author
 - Brock Mendel
 - Andrei Shleifer
 ### Abstract
@@ -82,7 +82,7 @@ We present a simple model in which rational but uninformed traders occasionally 
 ## 8. Peer performance and stock market entry
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Markku Kaustia
 - Samuli Knüpfer
 ### Abstract
@@ -93,7 +93,7 @@ Peer performance can influence the adoption of financial innovations and investm
 ## 9. IQ, trading behavior, and performance
 ### Date
 - May 2011
-### Authors
+### Author
 - Mark Grinblatt
 - Matti Keloharju
 - Juhani T. Linnainmaa
@@ -105,7 +105,7 @@ We analyze whether IQ influences trading behavior, performance, and transaction 
 ## 10. Measuring investor sentiment with mutual fund flows
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Azi Ben-Rephael
 - Shmuel Kandel
 - Avi Wohl
@@ -117,7 +117,7 @@ We investigate a proxy for monthly shifts between bond funds and equity funds in
 ## 11. Complicated firms
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Lauren Cohen
 - Dong Lou
 ### Abstract
@@ -128,7 +128,7 @@ We exploit a novel setting in which the same piece of information affects two se
 ## 12. Investor attention, psychological anchors, and stock return predictability
 ### Date
 - Apr 2011
-### Authors
+### Author
 - Jun Li
 - Jianfeng Yu
 ### Abstract

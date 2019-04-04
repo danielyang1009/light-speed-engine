@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The on-the-run liquidity phenomenon
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Paolo Pasquariello
 - Clara Vega
 ### Abstract
@@ -25,7 +25,7 @@ We test the implications of a model of multi-asset speculative trading in which 
 ## 3. Performance evaluation and self-designated benchmark indexes in the mutual fund industry
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Berk A. Sensoy
 ### Abstract
 Almost one-third of actively managed, diversified U.S. equity mutual funds specify a size and value/growth benchmark index in the fund prospectus that does not match the fund's actual style. Nevertheless, these “mismatched” benchmarks matter to fund investors. Performance relative to the specified benchmark is a significant determinant of a fund's subsequent cash inflows, even controlling for performance measures that better capture the fund's style. These incremental flows appear unlikely to be rational responses to abnormal returns. The evidence is consistent with the notion that mismatched self-designated benchmarks result from strategic fund behavior driven by the incentive to improve flows.
@@ -35,7 +35,7 @@ Almost one-third of actively managed, diversified U.S. equity mutual funds speci
 ## 4. Product market advertising and new equity issues
 ### Date
 - Feb 2008
-### Authors
+### Author
 - Thomas Chemmanur
 - An Yan
 ### Abstract
@@ -46,7 +46,7 @@ We analyze the interaction between a firm's product market advertising and its c
 ## 5. Caught on tape: Institutional trading, stock returns, and earnings announcements
 ### Date
 - Mar 2008
-### Authors
+### Author
 - John Y. Campbell
 - Tarun Ramadorai
 - Allie Schwartz
@@ -58,7 +58,7 @@ Many questions about institutional trading can only be answered if one tracks hi
 ## 6. Employment risk, compensation incentives, and managerial risk taking: Evidence from the mutual fund industry
 ### Date
 - May 2008
-### Authors
+### Author
 - Alexander Kempf
 - Stefan Ruenzi
 - Tanja Thiele
@@ -70,7 +70,7 @@ We examine the influence on managerial risk taking of incentives due to employme
 ## 7. Neighborhood matters: The impact of location on broad based stock option plans
 ### Date
 - Mar 2008
-### Authors
+### Author
 - Simi Kedia
 - Shiva Rajgopal
 ### Abstract
@@ -81,7 +81,7 @@ We find that fixed effects related to the location of firms’ headquarters expl
 ## 8. On the reversal of return and dividend growth predictability: A tale of two periods
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Long Chen
 ### Abstract
 A disconcerting, albeit generally accepted, finding is that aggregate stock returns are predictable by dividend yield but dividend growth is unpredictable. I show that part of this lack of dividend growth predictability stems from how dividend growth is constructed. I then show a dramatic reversal of predictability in the 134 years during 1872–2005: stock returns are largely unpredictable in the first seven decades, but become predictable in the postwar period; dividend growth is strongly predictable in the prewar years but this predictability disappears in the postwar years. New evidence on the predictability of long-run returns and dividend growth is also shown.

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The common factor in idiosyncratic volatility: Quantitative asset pricing implications
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Bernard Herskovic
 - Bryan Kelly
 - Hanno Lustig
@@ -27,7 +27,7 @@ We show that firms׳ idiosyncratic volatility obeys a strong factor structure an
 ## 3. The expected cost of default
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Brent Glover
 ### Abstract
 The sample of observed defaults significantly understates the average firm׳s true expected cost of default due to a sample selection bias. I use a dynamic capital structure model to estimate firm-specific expected default costs and quantify the selection bias. The average firm expects to lose 45% of firm value in default, a cost higher than existing estimates. However, the average cost among defaulted firms in the estimated model is only 25%, a value consistent with existing empirical estimates from observed defaults. This substantial selection bias helps to reconcile the levels of leverage and default costs observed in the data.
@@ -37,7 +37,7 @@ The sample of observed defaults significantly understates the average firm׳s tr
 ## 4. Investment and the weighted average cost of capital
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Murray Z. Frank
 - Tao Shen
 ### Abstract
@@ -48,7 +48,7 @@ In a standard q-theory model, corporate investment is negatively related to the 
 ## 5. The ownership and trading of debt claims in Chapter 11 restructurings
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Victoria Ivashina
 - Benjamin Iverson
 - David C. Smith
@@ -60,7 +60,7 @@ Using a novel data set that covers individual debt claims against 136 bankrupt U
 ## 6. Optimal inside debt compensation and the value of equity and debt
 ### Date
 - Sep 2015
-### Authors
+### Author
 - T. Colin Campbell
 - Neal Galpin
 - Shane A. Johnson
@@ -72,7 +72,7 @@ We use firm and chief executive officer (CEO) characteristics motivated by optim
 ## 7. The cross-sectional variation of volatility risk premia
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Ana González-Urteaga
 - Gonzalo Rubio
 ### Abstract
@@ -83,7 +83,7 @@ This paper analyzes the determinants of the cross-sectional variation of the ave
 ## 8. Can analysts pick stocks for the long-run?
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Oya Altınkılıç
 - Robert S. Hansen
 - Liyu Ye
@@ -95,7 +95,7 @@ This paper examines post-revision return drift, or PRD, following analysts’ re
 ## 9. Bridging the gap: the design of bank loan contracts and distance
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Stephan Hollander
 - Arnt Verriest
 ### Abstract
@@ -106,7 +106,7 @@ How do the distance constraints faced by lenders in acquiring borrower informati
 ## 10. The effects of takeover defenses: Evidence from closed-end funds
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Matthew E. Souther
 ### Abstract
 I use a sample of closed-end funds to examine how takeover defenses impact shareholder value and promote managerial entrenchment. These funds use the same defenses as general corporations but provide an ideal, homogeneous environment for testing their effects. Defenses are associated with lower fund market values, weaker reactions to activist 13D filings, and higher compensation levels for both fund managers and directors. This study provides greater clarity on the unresolved impact of takeover defenses on firm value, while showing for the first time that directors, who are responsible for adopting takeover defenses, financially benefit from their use.
@@ -116,7 +116,7 @@ I use a sample of closed-end funds to examine how takeover defenses impact share
 ## 11. Product market competition, R&D investment, and stock returns
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Lifeng Gu
 ### Abstract
 A standard real options model predicts a strong positive interaction effect between research and development (R&D) investment and product market competition. R&D-intensive firms tend to be riskier and earn higher expected returns than R&D-weak firms, particularly in competitive industries. Also, firms in competitive industries earn higher expected returns than firms in concentrated industries, especially among R&D-intensive firms. Intuitively, R&D projects are more likely to fail in the presence of more competition because rival firms could win the innovation race. Empirical evidence largely supports the model׳s predictions.

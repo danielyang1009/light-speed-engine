@@ -1,0 +1,190 @@
+{
+    "journal": "JF",
+    "volume": "61",
+    "issue": "2",
+    "date": "April 2006",
+    "page": "Pages: i-vi, 495-1006, vii-xi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "09 March 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00846.x"
+        },
+        {
+            "no": "2",
+            "title": "Bank Mergers and Crime: The Real and Social Effects of Credit Market Competition",
+            "date": "09 March 2006",
+            "author": [
+                "MARK J. GARMAISE",
+                "TOBIAS J. MOSKOWITZ"
+            ],
+            "abstract": "Using a unique sample of commercial loans and mergers between large banks, we provide micro\u2010level (within\u2010county) evidence linking credit conditions to economic development and find a spillover effect on crime. Neighborhoods that experience more bank mergers are subject to higher interest rates, diminished local construction, lower prices, an influx of poorer households, and higher property crime in subsequent years. The elasticity of property crime with respect to merger\u2010induced banking concentration is 0.18. We show that these results are not likely due to reverse causation, and confirm the central findings using state branching deregulation to instrument for bank competition.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00847.x"
+        },
+        {
+            "no": "3",
+            "title": "A Consumption\u2010Based Explanation of Expected Stock Returns",
+            "date": "09 March 2006",
+            "author": [
+                "MOTOHIRO YOGO"
+            ],
+            "abstract": "When utility is nonseparable in nondurable and durable consumption and the elasticity of substitution between the two consumption goods is sufficiently high, marginal utility rises when durable consumption falls. The model explains both the cross\u2010sectional variation in expected stock returns and the time variation in the equity premium. Small stocks and value stocks deliver relatively low returns during recessions, when durable consumption falls, which explains their high average returns relative to big stocks and growth stocks. Stock returns are unexpectedly low at business cycle troughs, when durable consumption falls sharply, which explains the countercyclical variation in the equity premium.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00848.x"
+        },
+        {
+            "no": "4",
+            "title": "Do the Fama\u2013French Factors Proxy for Innovations in Predictive Variables?",
+            "date": "09 March 2006",
+            "author": [
+                "RALITSA PETKOVA"
+            ],
+            "abstract": "The Fama\u2013French factors HML and SMB are correlated with innovations in variables that describe investment opportunities. A model that includes shocks to the aggregate dividend yield and term spread, default spread, and one\u2010month Treasury\u2010bill yield explains the cross section of average returns better than the Fama\u2013French model. When loadings on the innovations in the predictive variables are present in the model, loadings on HML and SMB lose their explanatory power for the cross section of returns. The results are consistent with an ICAPM explanation for the empirical success of the Fama\u2013French portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00849.x"
+        },
+        {
+            "no": "5",
+            "title": "Risk, Reputation, and IPO Price Support",
+            "date": "09 March 2006",
+            "author": [
+                "KATHARINA LEWELLEN"
+            ],
+            "abstract": "Immediately following an initial public offering, underwriters often repurchase shares of poorly performing offerings in an apparent attempt to stabilize the price. Using proprietary Nasdaq data, I study the price effects and determinants of price support. Some of the key findings are (1) Stabilization is substantial, inducing price rigidity at and below the offer price; (2) I find no evidence that stocks with larger information asymmetries are stabilized more strongly; (3) Larger underwriters stabilize more, perhaps to protect their reputations with investors; and (4) Investment banks with retail brokerage operations stabilize much more than other banks, inconsistent with the view that stabilization benefits primarily institutional investors.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00850.x"
+        },
+        {
+            "no": "6",
+            "title": "Does Weak Governance Cause Weak Stock Returns? An Examination of Firm Operating Performance and Investors' Expectations",
+            "date": "09 March 2006",
+            "author": [
+                "JOHN E. CORE",
+                "WAYNE R. GUAY",
+                "TJOMME O. RUSTICUS"
+            ],
+            "abstract": "We investigate Gompers, Ishii, and Metrick's (2003) finding that firms with weak shareholder rights exhibit significant stock market underperformance. If the relation between poor governance and poor returns is causal, we expect that the market is negatively surprised by the poor operating performance of weak governance firms. We find that firms with weak shareholder rights exhibit significant operating underperformance. However, analysts' forecast errors and earnings announcement returns show no evidence that this underperformance surprises the market. Our results are robust to controls for takeover activity. Overall, our results do not support the hypothesis that weak governance causes poor stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00851.x"
+        },
+        {
+            "no": "7",
+            "title": "Are Busy Boards Effective Monitors?",
+            "date": "09 March 2006",
+            "author": [
+                "ELIEZER M. FICH",
+                "ANIL SHIVDASANI"
+            ],
+            "abstract": "Firms with busy boards, those in which a majority of outside directors hold three or more directorships, are associated with weak corporate governance. These firms exhibit lower market\u2010to\u2010book ratios, weaker profitability, and lower sensitivity of CEO turnover to firm performance. Independent but busy boards display CEO turnover\u2010performance sensitivities indistinguishable from those of inside\u2010dominated boards. Departures of busy outside directors generate positive abnormal returns (ARs). When directors become busy as a result of acquiring an additional directorship, other companies in which they hold board seats experience negative ARs. Busy outside directors are more likely to depart boards following poor performance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00852.x"
+        },
+        {
+            "no": "8",
+            "title": "Does Investor Misvaluation Drive the Takeover Market?",
+            "date": "09 March 2006",
+            "author": [
+                "MING DONG",
+                "DAVID HIRSHLEIFER",
+                "SCOTT RICHARDSON",
+                "SIEW HONG TEOH"
+            ],
+            "abstract": "This paper uses pre\u2010offer market valuations to evaluate the misvaluation and Q theories of takeovers. Bidder and target valuations (price\u2010to\u2010book, or price\u2010to\u2010residual\u2010income\u2010model\u2010value) are related to means of payment, mode of acquisition, premia, target hostility, offer success, and bidder and target announcement\u2010period returns. The evidence is broadly consistent with both hypotheses. The evidence for the Q hypothesis is stronger in the pre\u20101990 period than in the 1990\u20132000 period, whereas the evidence for the misvaluation hypothesis is stronger in the 1990\u20132000 period than in the pre\u20101990 period.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00853.x"
+        },
+        {
+            "no": "9",
+            "title": "Offering versus Choice in 401(k) Plans: Equity Exposure and Number of Funds",
+            "date": "09 March 2006",
+            "author": [
+                "GUR HUBERMAN",
+                "WEI JIANG"
+            ],
+            "abstract": "Records of over half a million participants in more than 600 401(k) plans indicate that participants tend to allocate their contributions evenly across the funds they use, with the tendency weakening with the number of funds used. The number of funds used, typically between three and four, is not sensitive to the number of funds offered by the plans, which ranges from 4 to 59. A participant's propensity to allocate contributions to equity funds is not very sensitive to the fraction of equity funds among offered funds. The paper also comments on limitations on inferences from experiments and aggregate\u2010level data analysis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00854.x"
+        },
+        {
+            "no": "10",
+            "title": "The Entrepreneur's Choice between Private and Public Ownership",
+            "date": "09 March 2006",
+            "author": [
+                "ARNOUD W. A. BOOT",
+                "RADHAKRISHNAN GOPALAN",
+                "ANJAN V. THAKOR"
+            ],
+            "abstract": "We analyze an entrepreneur/manager's choice between private and public ownership. The manager needs decision\u2010making autonomy to optimally manage the firm and thus trades off an endogenized control preference against the higher cost of capital accompanying greater managerial autonomy. Investors need liquid ownership stakes. Public capital markets provide liquidity, but stipulate corporate governance that imposes generic exogenous controls, so the manager may not attain the desired trade\u2010off between autonomy and the cost of capital. In contrast, private ownership provides the desired trade\u2010off through precisely calibrated contracting, but creates illiquid ownership. Exploring this tension generates new predictions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00855.x"
+        },
+        {
+            "no": "11",
+            "title": "Market Valuation of Tax\u2010Timing Options: Evidence from Capital Gains Distributions",
+            "date": "09 March 2006",
+            "author": [
+                "J. B. CHAY",
+                "DOSOUNG CHOI",
+                "JEFFREY PONTIFF"
+            ],
+            "abstract": "We examine a distribution that is taxed as a capital gain rather than as a dividend. Since the distribution induces a realized capital gain while the price change is an unrealized gain, ex\u2010day return behavior provides evidence of the value of tax\u2010timing capital gains. We show that investors are compensated 7\u00a2 in unrealized gains for each dollar of realized capital gains, that is, $1 of realized capital gains is equivalent to 93\u00a2 of unrealized gains. An investor with a tax rate on realized gains of 15% has an effective tax rate on unrealized capital gains of 8.6%.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00856.x"
+        },
+        {
+            "no": "12",
+            "title": "Banks' Advantage in Hedging Liquidity Risk: Theory and Evidence from the Commercial Paper Market",
+            "date": "09 March 2006",
+            "author": [
+                "EVAN GATEV",
+                "PHILIP E. STRAHAN"
+            ],
+            "abstract": "Banks have a unique ability to hedge against market\u2010wide liquidity shocks. Deposit inflows provide funding for loan demand shocks that follow declines in market liquidity. Consequently, banks can insure firms against systematic declines in liquidity at lower cost than other institutions. We provide evidence that when liquidity dries up and commercial paper spreads widen, banks experience funding inflows. These flows allow banks to meet loan demand from borrowers drawing funds from commercial paper backup lines without running down their holdings of liquid assets. We also provide evidence that implicit government support for banks during crises explains these funding flows.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00857.x"
+        },
+        {
+            "no": "13",
+            "title": "Firm Value and Hedging: Evidence from U.S. Oil and Gas Producers",
+            "date": "09 March 2006",
+            "author": [
+                "YANBO JIN",
+                "PHILIPPE JORION"
+            ],
+            "abstract": "This paper studies the hedging activities of 119 U.S. oil and gas producers from 1998 to 2001 and evaluates their effect on firm value. Theories of hedging based on market imperfections imply that hedging should increase the firm's market value (MV). To test this hypothesis, we collect detailed information on the extent of hedging and on the valuation of oil and gas reserves. We verify that hedging reduces the firm's stock price sensitivity to oil and gas prices. Contrary to previous studies, however, we find that hedging does not seem to affect MVs for this industry.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00858.x"
+        },
+        {
+            "no": "14",
+            "title": "Pension Plan Funding and Stock Market Efficiency",
+            "date": "09 March 2006",
+            "author": [
+                "FRANCESCO FRANZONI",
+                "JOS\u00c9 M. MAR\u00cdN"
+            ],
+            "abstract": "The paper argues that the market significantly overvalues firms with severely underfunded pension plans. These companies earn lower stock returns than firms with healthier pension plans for at least 5 years after the first emergence of the underfunding. The low returns are not explained by risk, price momentum, earnings momentum, or accruals. Further, the evidence suggests that investors do not anticipate the impact of the pension liability on future earnings, and they are surprised when the negative implications of underfunding ultimately materialize. Finally, underfunded firms have poor operating performance, and they earn low returns, although they are value companies.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00859.x"
+        },
+        {
+            "no": "15",
+            "title": "How Do Crises Spread? Evidence from Accessible and Inaccessible Stock Indices",
+            "date": "09 March 2006",
+            "author": [
+                "BRIAN H. BOYER",
+                "TOMOMI KUMAGAI",
+                "KATHY YUAN"
+            ],
+            "abstract": "We provide empirical evidence that stock market crises are spread globally through asset holdings of international investors. By separating emerging market stocks into two categories, namely, those that are eligible for purchase by foreigners (accessible) and those that are not (inaccessible), we estimate and compare the degree to which accessible and inaccessible stock index returns co\u2010move with crisis country index returns. Our results show greater co\u2010movement during high volatility periods, especially for accessible stock index returns, suggesting that crises spread through the asset holdings of international investors rather than through changes in fundamentals.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00860.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "09 March 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00861.x"
+        },
+        {
+            "no": "17",
+            "title": "Back Matter",
+            "date": "09 March 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00863.x"
+        }
+    ]
+}

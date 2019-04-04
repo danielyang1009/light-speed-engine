@@ -5,7 +5,7 @@
 ## 1. Performance consequences of mandatory increases in executive stock ownership
 ### Date
 - Jun 2002
-### Authors
+### Author
 - John E. Core
 - David F. Larcker
 ### Abstract
@@ -16,7 +16,7 @@ We examine a sample of firms that adopt “target ownership plans”, under whic
 ## 2. Empirical pricing kernels
 ### Date
 - Jun 2002
-### Authors
+### Author
 - Joshua V. Rosenberg
 - Robert F. Engle
 ### Abstract
@@ -27,7 +27,7 @@ This paper investigates the empirical characteristics of investor risk aversion 
 ## 3. Firm diversification and asymmetric information: evidence from analysts’ forecasts and earnings announcements
 ### Date
 - Jun 2002
-### Authors
+### Author
 - Shawn Thomas
 ### Abstract
 Managers frequently cite the desire to mitigate asymmetric information as a motivation for increasing firm focus. The information benefits of focus appear relevant for the subset of firms that actually increase their focus; however, the relevance of focus-related information benefits for the population of diversified firms is an open question. This paper examines the relation between corporate diversification and asymmetric information proxies derived from analysts’ forecasts and abnormal returns associated with earnings announcements. I find that greater diversification is not associated with increased asymmetric information. These results call into question the notion that corporate diversification strictly exacerbates information problems.
@@ -37,7 +37,7 @@ Managers frequently cite the desire to mitigate asymmetric information as a moti
 ## 4. How does the Internet affect trading? Evidence from investor behavior in 401(k) plans
 ### Date
 - Jun 2002
-### Authors
+### Author
 - James J. Choi
 - David Laibson
 - Andrew Metrick
@@ -49,7 +49,7 @@ We analyze the impact of a Web-based trading channel on trader behavior and perf
 ## 5. Stock return predictability and model uncertainty
 ### Date
 - Jun 2002
-### Authors
+### Author
 - Doron Avramov
 ### Abstract
 We use Bayesian model averaging to analyze the sample evidence on return predictability in the presence of model uncertainty. The analysis reveals in-sample and out-of-sample predictability, and shows that the out-of-sample performance of the Bayesian approach is superior to that of model selection criteria. We find that term and market premia are robust predictors. Moreover, small-cap value stocks appear more predictable than large-cap growth stocks. We also investigate the implications of model uncertainty from investment management perspectives. We show that model uncertainty is more important than estimation risk, and investors who discard model uncertainty face large utility losses.
@@ -59,7 +59,7 @@ We use Bayesian model averaging to analyze the sample evidence on return predict
 ## 6. Index
 ### Date
 - Jun 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link

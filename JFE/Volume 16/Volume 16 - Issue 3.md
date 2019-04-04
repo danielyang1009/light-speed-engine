@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jul 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Tax-induced trading around ex-dividend days
 ### Date
 - Jul 1986
-### Authors
+### Author
 - Josef Lakonishok
 - Theo Vermaelen
 ### Abstract
@@ -25,7 +25,7 @@ This paper investigates trading volume around ex-dividend days. For taxable dist
 ## 3. Valuing debt options
 ### Date
 - Jul 1986
-### Authors
+### Author
 - Bruce Dietrich-Campbell
 - Eduardo Schwartz
 ### Abstract
@@ -36,7 +36,7 @@ A two-factor model using the instantaneous rate of interest and the return on a 
 ## 4. Access to deposit insurance, insolvency rules and the stock returns of financial institutions
 ### Date
 - Jul 1986
-### Authors
+### Author
 - James A. Brickley
 - Christopher M. James
 ### Abstract
@@ -47,7 +47,7 @@ This paper analyzes how access to deposit insurance affects the common stock ret
 ## 5. The informational content of the timing of dividend announcements
 ### Date
 - Jul 1986
-### Authors
+### Author
 - Avner Kalay
 - Uri Loewenstein
 ### Abstract
@@ -58,7 +58,7 @@ This paper contains a test of a new aspect of the informational content of divid
 ## 6. General equilibrium properties of the term structure of interest rates
 ### Date
 - Jul 1986
-### Authors
+### Author
 - Simon Benninga
 - Aris Protopapadakis
 ### Abstract
@@ -69,7 +69,7 @@ The paper examines the allocation of consumption and investment in a three-date 
 ## 7. Editorial collaborators
 ### Date
 - Jul 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -78,7 +78,7 @@ The paper examines the allocation of consumption and investment in a three-date 
 ## 8. Index
 ### Date
 - Jul 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link

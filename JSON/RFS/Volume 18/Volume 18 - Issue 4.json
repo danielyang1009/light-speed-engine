@@ -1,0 +1,123 @@
+{
+    "journal": "RFS",
+    "volume": "18",
+    "issue": "4",
+    "date": "Winter 2005",
+    "page": "Pages 1139\u20131502",
+    "article": [
+        {
+            "no": "1",
+            "title": "Fund Families as Delegated Monitors of Money Managers",
+            "date": "31 August 2005",
+            "author": [
+                "Simon Gervais",
+                "Anthony W. Lynch",
+                "David K. Musto"
+            ],
+            "abstract": "Because a money manager learns more about her skill from her management experience than outsiders can learn from her realized returns, she expects inefficiency in future contracts that condition exclusively on realized returns. A fund family that learns what the manager learns can reduce this inefficiency cost if the family is large enough. The family\u2019s incentive is to retain any given manager regardless of her skill but, when the family has enough managers, it adds value by boosting the credibility of its retentions through the firing of others. As the number of managers grows, the efficiency loss goes to zero.",
+            "link": "https://doi.org/10.1093/rfs/hhi031"
+        },
+        {
+            "no": "2",
+            "title": "Limit Order Book as a Market for Liquidity",
+            "date": "31 August 2005",
+            "author": [
+                "Thierry Foucault",
+                "Ohad Kadan",
+                "Eugene Kandel"
+            ],
+            "abstract": "We develop a dynamic model of a limit order market populated by strategic liquidity traders of varying impatience. In equilibrium, patient traders tend to submit limit orders, whereas impatient traders submit market orders. Two variables are the key determinants of the limit order book dynamics in equilibrium: the proportion of patient traders and the order arrival rate. We offer several testable implications for various market quality measures such as spread, trading frequency, market resiliency, and time to execution for limit orders. Finally, we show the effect of imposing a minimal price variation on these measures.",
+            "link": "https://doi.org/10.1093/rfs/hhi029"
+        },
+        {
+            "no": "3",
+            "title": "Model Uncertainty, Limited Market Participation, and Asset Prices",
+            "date": "31 August 2005",
+            "author": [
+                "H. Henry Cao",
+                "Tan Wang",
+                "Harold H. Zhang"
+            ],
+            "abstract": "We demonstrate that limited participation can arise endogenously in the presence of model uncertainty and heterogeneous uncertainty-averse investors. When uncertainty dispersion among investors is small, full participation prevails in equilibrium. Equity premium is related to the average uncertainty among investors and a conglomerate trades at a price equal to the sum of its single-segment components. When uncertainty dispersion is large, investors with high uncertainty choose not to participate in the stock market, resulting in limited market participation. When limited participation occurs, participation rate and equity premium can decrease in uncertainty dispersion and a conglomerate trades at a discount.",
+            "link": "https://doi.org/10.1093/rfs/hhi034"
+        },
+        {
+            "no": "4",
+            "title": "An Equilibrium Model of Asset Pricing and Moral Hazard",
+            "date": "25 May 2005",
+            "author": [
+                "Hui Ou-Yang"
+            ],
+            "abstract": "This article develops an integrated model of asset pricing and moral hazard. It is demonstrated that the expected dollar return of a stock is independent of managerial incentives and idiosyncratic risk, but the equilibrium price of the stock depends on them. Thus, the expected rate of return is affected by managerial incentives and idiosyncratic risk. It is shown, however, that managerial incentives and idiosyncratic risk affect the expected rate of return through their influence on systematic risk rather than serve as independent risk factors. It is also shown that the risk aversion of the principal in the model leads to less emphasis on relative performance evaluation than in a model with a risk-neutral principal.",
+            "link": "https://doi.org/10.1093/rfs/hhi025"
+        },
+        {
+            "no": "5",
+            "title": "The Model-Free Implied Volatility and Its Information Content",
+            "date": "25 May 2005",
+            "author": [
+                "George J. Jiang",
+                "Yisong S. Tian"
+            ],
+            "abstract": "Britten-Jones and Neuberger (2000) derived a model-free implied volatility under the diffusion assumption. In this article, we extend their model-free implied volatility to asset price processes with jumps and develop a simple method for implementing it using observed option prices. In addition, we perform a direct test of the informational efficiency of the option market using the model-free implied volatility. Our results from the Standard & Poor\u2019s 500 index (SPX) options suggest that the model-free implied volatility subsumes all information contained in the Black\u2013Scholes (B\u2013S) implied volatility and past realized volatility and is a more efficient forecast for future realized volatility.",
+            "link": "https://doi.org/10.1093/rfs/hhi027"
+        },
+        {
+            "no": "6",
+            "title": "Why Do Larger Orders Receive Discounts on the London Stock Exchange?",
+            "date": "16 August 2004",
+            "author": [
+                "Dan Bernhardt",
+                "Vladimir Dvoracek",
+                "Eric Hughson",
+                "Ingrid M. Werner"
+            ],
+            "abstract": "We argue that competition between dealers in a classic dealer market is intertemporal: A trader identifies a particular dealer and negotiates a final price with only the intertemporal threat to switch dealers imposing pricing discipline on the dealer. In this kind of market structure, we show that dealers will offer greater price improvement to more regular customers, and, in turn, these customers optimally choose to submit larger orders. Hence, price improvement and trade size should be negatively correlated in a dealer market. We confirm our model\u2019s predictions using unique data from the London Stock Exchange during 1991.",
+            "link": "https://doi.org/10.1093/rfs/hhi002"
+        },
+        {
+            "no": "7",
+            "title": "Dynamic Consumption and Portfolio Choice with Stochastic Volatility in Incomplete Markets",
+            "date": "31 August 2005",
+            "author": [
+                "George Chacko",
+                "Luis M. Viceira"
+            ],
+            "abstract": "This paper examines the optimal consumption and portfolio-choice problem of long-horizon investors who have access to a riskless asset with constant return and a risky asset (\u201cstocks\u201d) with constant expected return and time-varying precision\u2014the reciprocal of volatility. Markets are incomplete, and investors have recursive preferences defined over intermediate consumption. The paper obtains a solution to this problem which is exact for investors with unit elasticity of intertemporal substitution of consumption and approximate otherwise. The optimal portfolio demand for stocks includes an intertemporal hedging component that is negative when investors have coefficients of relative risk aversion larger than one, and the instantaneous correlation between volatility and stock returns is negative, as typically estimated from stock return data. Our estimates of the joint process for stock returns and precision (or volatility) using U.S. data confirm this finding. But we also find that stock return volatility does not appear to be variable and persistent enough to generate large intertemporal hedging demands.",
+            "link": "https://doi.org/10.1093/rfs/hhi035"
+        },
+        {
+            "no": "8",
+            "title": "Powerful CEOs and Their Impact on Corporate Performance",
+            "date": "31 August 2005",
+            "author": [
+                "Ren\u00e9e B. Adams",
+                "Heitor Almeida",
+                "Daniel Ferreira"
+            ],
+            "abstract": "Executives can only impact firm outcomes if they have influence over crucial decisions. On the basis of this idea, we develop and test the hypothesis that firms whose CEOs have more decision-making power should experience more variability in performance. Focusing primarily on the power the CEO has over the board and other top executives as a consequence of his formal position and titles, status as a founder, and status as the board\u2019s sole insider, we find that stock returns are more variable for firms run by powerful CEOs. Our findings suggest that the interaction between executive characteristics and organizational variables has important consequences for firm performance.",
+            "link": "https://doi.org/10.1093/rfs/hhi030"
+        },
+        {
+            "no": "9",
+            "title": "How Does Industry Affect Firm Financial Structure?",
+            "date": "31 August 2005",
+            "author": [
+                "Peter MacKay",
+                "Gordon M. Phillips"
+            ],
+            "abstract": "We examine the importance of industry to firm-level financial and real decisions. We find that in addition to standard industry fixed effects, financial structure also depends on a firm\u2019s position within its industry. In competitive industries, a firm\u2019s financial leverage depends on its natural hedge (its proximity to the median industry capital\u2013labor ratio), the actions of other firms in the industry, and its status as entrant, incumbent, or exiting firm. Financial leverage is higher and less dispersed in concentrated industries, where strategic debt interactions are also stronger, but a firm\u2019s natural hedge is not significant. Our results show that financial structure, technology, and risk are jointly determined within industries. These findings are consistent with recent industry equilibrium models of financial structure.",
+            "link": "https://doi.org/10.1093/rfs/hhi032"
+        },
+        {
+            "no": "10",
+            "title": "Household Portfolio Diversification: A Case for Rank-Dependent Preferences",
+            "date": "02 September 2005",
+            "author": [
+                "Valery Polkovnichenko"
+            ],
+            "abstract": "The proliferation of novel preference theories in financial economics is hampered by a lack of non-experimental evidence and by the theories\u2019 additional complexity which has not been shown to be critical in applications. In this article I present arguments in support of preferences with rank dependency. Using the Survey of Consumer Finances data, I document two widespread patterns inconsistent with expected utility: (i) many households simultaneously invest in well-deversified funds and in poorly-diversified portfolios of stocks; and (ii) some households with substantial savings do not invest anything in equities. I show that portfolio choice models with rank-dependent preferences, plausibly parameterized and under fully rational assumptions, are quantitatively consistent with the observed diversification. These results call for further efforts to integrate the models of rank-dependent preferences in portfolio theory and asset pricing.",
+            "link": "https://doi.org/10.1093/rfs/hhi033"
+        }
+    ]
+}

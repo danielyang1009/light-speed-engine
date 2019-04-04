@@ -1,0 +1,175 @@
+{
+    "journal": "JF",
+    "volume": "67",
+    "issue": "6",
+    "date": "December 2012",
+    "page": "Pages: i-vii, 1983-2385, bmi",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "19 November 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12000"
+        },
+        {
+            "no": "2",
+            "title": "On the Relative Pricing of Long\u2010Maturity Index Options and Collateralized Debt Obligations",
+            "date": "19 November 2012",
+            "author": [
+                "PIERRE COLLIN\u2010DUFRESNE",
+                "ROBERT S. GOLDSTEIN",
+                "FAN YANG"
+            ],
+            "abstract": "We investigate a structural model of market and firm\u2010level dynamics in order to jointly price long\u2010dated S&P 500 index options and CDO tranches of corporate debt. We identify market dynamics from index option prices and idiosyncratic dynamics from the term structure of credit spreads. We find that all tranches can be well priced out\u2010of\u2010sample before the crisis. During the crisis, however, our model can capture senior tranche prices only if we allow for the possibility of a catastrophic jump. Thus, senior tranches are nonredundant assets that provide a unique window into the pricing of catastrophic risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01779.x"
+        },
+        {
+            "no": "3",
+            "title": "Asset Fire Sales and Purchases and the International Transmission of Funding Shocks",
+            "date": "19 November 2012",
+            "author": [
+                "CHOTIBHAK JOTIKASTHIRA",
+                "CHRISTIAN LUNDBLAD",
+                "TARUN RAMADORAI"
+            ],
+            "abstract": "We identify a new channel for the transmission of shocks across international markets. Investor flows to funds domiciled in developed markets force significant changes in these funds' emerging market portfolio allocations. These forced trades or \u201cfire sales\u201d affect emerging market equity prices, correlations, and betas, and are related to but distinct from effects arising purely from fund holdings or from overlapping ownership of emerging markets in fund portfolios. A simple model and calibration exercise highlight the importance to these findings of \u201cpush\u201d effects from funds' domicile countries and \u201cco\u2010ownership spillover\u201d between markets with overlapping fund ownership.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01780.x"
+        },
+        {
+            "no": "4",
+            "title": "Strategic Default and Equity Risk Across Countries",
+            "date": "19 November 2012",
+            "author": [
+                "GIOVANNI FAVARA",
+                "ENRIQUE SCHROTH",
+                "PHILIP VALTA"
+            ],
+            "abstract": "We show that the prospect of a debt renegotiation favorable to shareholders reduces the firm's equity risk. Equity beta and return volatility are lower in countries where the bankruptcy code favors debt renegotiations and for firms with more shareholder bargaining power relative to debt holders. These relations weaken as the country's insolvency procedure favors liquidations over renegotiations. In the limit, when debt contracts cannot be renegotiated, equity risk is independent of shareholders' incentives to default strategically. We argue that these findings support the hypothesis that the threat of strategic default can reduce the firm's equity risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01781.x"
+        },
+        {
+            "no": "5",
+            "title": "Are All Ratings Created Equal? The Impact of Issuer Size on the Pricing of Mortgage\u2010Backed Securities",
+            "date": "19 November 2012",
+            "author": [
+                "JIE (JACK) HE",
+                "JUN (QJ) QIAN",
+                "PHILIP E. STRAHAN"
+            ],
+            "abstract": "Initial yields on both AAA\u2010rated and non\u2010AAA rated mortgage\u2010backed security (MBS) tranches sold by large issuers are higher than yields on similar tranches sold by small issuers during the market boom years of 2004 to 2006. Moreover, the prices of MBS sold by large issuers drop more than those sold by small issuers, and the differences are concentrated among tranches issued during 2004 to 2006. These results suggest that investors price the risk that large issuers received more inflated ratings than small issuers, especially during boom periods.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01782.x"
+        },
+        {
+            "no": "6",
+            "title": "This Time Is the Same: Using Bank Performance in 1998 to Explain Bank Performance during the Recent Financial Crisis",
+            "date": "19 November 2012",
+            "author": [
+                "R\u00dcDIGER FAHLENBRACH",
+                "ROBERT PRILMEIER",
+                "REN\u00c9 M. STULZ"
+            ],
+            "abstract": "Are some banks prone to perform poorly during crises? If yes, why? In this paper, we show that a bank's stock return performance during the 1998 crisis predicts its stock return performance and probability of failure during the recent financial crisis. This effect is economically large. Our findings are consistent with persistence in a bank's risk culture and/or aspects of its business model that make its performance sensitive to crises. Banks that relied more on short\u2010term funding, had more leverage, and grew more are more likely to be banks that performed poorly in both crises.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01783.x"
+        },
+        {
+            "no": "7",
+            "title": "Agency Problems in Public Firms: Evidence from Corporate Jets in Leveraged Buyouts",
+            "date": "19 November 2012",
+            "author": [
+                "JESSE EDGERTON"
+            ],
+            "abstract": "This paper uses novel data to examine the fleets of corporate jets operated by both publicly traded and privately held firms. In the cross\u2010section, firms owned by private equity funds average 40% smaller fleets than observably similar public firms. Similar fleet reductions are observed within firms that undergo leveraged buyouts. Quantile regressions indicate that these results are driven by firms in the upper 30% of the conditional jet distribution. The results thus suggest that executives in a substantial minority of public firms enjoy excessive perquisite and compensation packages.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01784.x"
+        },
+        {
+            "no": "8",
+            "title": "Does Reputation Limit Opportunistic Behavior in the VC Industry? Evidence from Litigation against VCs",
+            "date": "19 November 2012",
+            "author": [
+                "VLADIMIR ATANASOV",
+                "VLADIMIR IVANOV",
+                "KATE LITVAK"
+            ],
+            "abstract": "We examine the role of reputation in limiting opportunistic behavior by venture capitalists towards four types of counterparties: entrepreneurs, investors, other VCs, and buyers of VC\u2010backed startups. Using a hand\u2010collected database of lawsuits, we document that more reputable VCs (i.e., VCs that are older, have more deals and funds under management, and syndicate with larger networks of VCs) are less likely to be litigated. We also find that litigated VCs suffer declines in future business relative to matched peers. These declines are larger for more reputable VCs, and for VCs that are defendants to multiple lawsuits or sued by entrepreneurs.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01785.x"
+        },
+        {
+            "no": "9",
+            "title": "On the Life Cycle Dynamics of Venture\u2010Capital\u2010 and Non\u2010Venture\u2010Capital\u2010Financed Firms",
+            "date": "19 November 2012",
+            "author": [
+                "MANJU PURI",
+                "REBECCA ZARUTSKIE"
+            ],
+            "abstract": "We use data over 25\u00a0years to understand the life cycle dynamics of VC\u2010 and non\u2010VC\u2010financed firms. We find successful and failed VC\u2010financed firms achieve larger scale but are not more profitable at exit than matched non\u2010VC\u2010financed firms. Cumulative failure rates of VC\u2010financed firms are lower, with the difference driven largely by lower failure rates in the initial years after receiving VC. Our results are not driven by VCs disguising failures as acquisitions or by certain types of VCs. The performance difference between VC\u2010 and non\u2010VC\u2010financed firms narrows in the post\u2010internet bubble years, but does not disappear.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01786.x"
+        },
+        {
+            "no": "10",
+            "title": "Dynamic Agency and the q Theory of Investment",
+            "date": "19 November 2012",
+            "author": [
+                "PETER M. DEMARZO",
+                "MICHAEL J. FISHMAN",
+                "ZHIGUO HE",
+                "NENG WANG"
+            ],
+            "abstract": "We develop an analytically tractable model integrating dynamic investment theory with dynamic optimal incentive contracting, thereby endogenizing financing constraints. Incentive contracting generates a history\u2010dependent wedge between marginal and average q, and both vary over time as good (bad) performance relaxes (tightens) financing constraints. Financial slack, not cash flow, is the appropriate proxy for financing constraints. Investment decreases with idiosyncratic risk, and is positively correlated with past profits, past investment, and managerial compensation even with time\u2010invariant investment opportunities. Optimal contracting involves deferred compensation, possible termination, and compensation that depends on exogenous observable persistent profitability shocks, effectively paying managers for luck.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01787.x"
+        },
+        {
+            "no": "11",
+            "title": "Private Equity Performance and Liquidity Risk",
+            "date": "19 November 2012",
+            "author": [
+                "FRANCESCO FRANZONI",
+                "ERIC NOWAK",
+                "LUDOVIC PHALIPPOU"
+            ],
+            "abstract": "Private equity has traditionally been thought to provide diversification benefits. However, these benefits may be lower than anticipated as we find that private equity suffers from significant exposure to the same liquidity risk factor as public equity and other alternative asset classes. The unconditional liquidity risk premium is about 3% annually and, in a four\u2010factor model, the inclusion of this liquidity risk premium reduces alpha to zero. In addition, we provide evidence that the link between private equity returns and overall market liquidity occurs via a funding liquidity channel.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01788.x"
+        },
+        {
+            "no": "12",
+            "title": "MISCELLANEA",
+            "date": "19 November 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01804.x"
+        },
+        {
+            "no": "13",
+            "title": "ANNOUNCEMENTS",
+            "date": "19 November 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12002"
+        },
+        {
+            "no": "14",
+            "title": "INDEX TO VOLUME LXVII",
+            "date": "19 November 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01805.x"
+        },
+        {
+            "no": "15",
+            "title": "INDEX TO VOLUME LXVII",
+            "date": "19 November 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01806.x"
+        },
+        {
+            "no": "16",
+            "title": "BACK MATTER",
+            "date": "19 November 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12001"
+        }
+    ]
+}

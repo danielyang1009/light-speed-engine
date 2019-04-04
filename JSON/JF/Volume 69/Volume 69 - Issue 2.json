@@ -1,0 +1,187 @@
+{
+    "journal": "JF",
+    "volume": "69",
+    "issue": "2",
+    "date": "April 2014",
+    "page": "Pages: fmi-fmvii, v, 487-973, bmi-bmiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "17 March 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12158"
+        },
+        {
+            "no": "2",
+            "title": "AMUNDI SMITH BREEDEN PRIZES FOR 2013 and BRATTLE GROUP PRIZES FOR 2013",
+            "date": "17 March 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12146"
+        },
+        {
+            "no": "3",
+            "title": "Managerial Incentives and Stock Price Manipulation",
+            "date": "21 November 2013",
+            "author": [
+                "LIN PENG",
+                "AILSA R\u00d6ELL"
+            ],
+            "abstract": "We present a rational expectations model of optimal executive compensation in a setting where managers are in a position to manipulate short\u2010term stock prices and the manipulation propensity is uncertain. We analyze the tradeoffs involved in conditioning pay on long\u2010 versus short\u2010term performance and show how manipulation, and investors' uncertainty about it, affects the equilibrium pay contract and the informativeness of prices. Firm and manager characteristics determine the optimal compensation scheme: the strength of incentives, the pay horizon, and the use of options. We consider how corporate governance and disclosure regulations can help create an environment that enables better contracting.",
+            "link": "https://doi.org/10.1111/jofi.12129"
+        },
+        {
+            "no": "4",
+            "title": "The Importance of Industry Links in Merger Waves",
+            "date": "19 November 2013",
+            "author": [
+                "KENNETH R. AHERN",
+                "JARRAD HARFORD"
+            ],
+            "abstract": "We represent the economy as a network of industries connected through customer and supplier trade flows. Using this network topology, we find that stronger product market connections lead to a greater incidence of cross\u2010industry mergers. Furthermore, mergers propagate in waves across the network through customer\u2010supplier links. Merger activity transmits to close industries quickly and to distant industries with a delay. Finally, economy\u2010wide merger waves are driven by merger activity in industries that are centrally located in the product market network. Overall, we show that the network of real economic transactions helps to explain the formation and propagation of merger waves.",
+            "link": "https://doi.org/10.1111/jofi.12122"
+        },
+        {
+            "no": "5",
+            "title": "The Real Effects of Government\u2010Owned Banks: Evidence from an Emerging Market",
+            "date": "21 November 2013",
+            "author": [
+                "DANIEL CARVALHO"
+            ],
+            "abstract": "Using plant\u2010level data for Brazilian manufacturing firms, this paper provides evidence that government control over banks leads to significant political influence over the real decisions of firms. I find that firms eligible for government bank lending expand employment in politically attractive regions near elections. These expansions are associated with additional (favorable) borrowing from government banks. Further, these persistent expansions take place just before competitive elections, and are associated with lower future employment growth by firms in other regions. The analysis suggests that politicians in Brazil use bank lending to shift employment towards politically attractive regions and away from unattractive regions.",
+            "link": "https://doi.org/10.1111/jofi.12130"
+        },
+        {
+            "no": "6",
+            "title": "Sequential Learning, Predictability, and Optimal Portfolio Returns",
+            "date": "19 November 2013",
+            "author": [
+                "MICHAEL JOHANNES",
+                "ARTHUR KORTEWEG",
+                "NICHOLAS POLSON"
+            ],
+            "abstract": "This paper finds statistically and economically significant out\u2010of\u2010sample portfolio benefits for an investor who uses models of return predictability when forming optimal portfolios. Investors must account for estimation risk, and incorporate an ensemble of important features, including time\u2010varying volatility, and time\u2010varying expected returns driven by payout yield measures that include share repurchase and issuance. Prior research documents a lack of benefits to return predictability, and our results suggest that this is largely due to omitting time\u2010varying volatility and estimation risk. We also document the sequential process of investors learning about parameters, state variables, and models as new data arrive.",
+            "link": "https://doi.org/10.1111/jofi.12121"
+        },
+        {
+            "no": "7",
+            "title": "Are Analysts\u2019 Recommendations Informative? Intraday Evidence on the Impact of Time Stamp Delays",
+            "date": "30 September 2013",
+            "author": [
+                "DANIEL BRADLEY",
+                "JONATHAN CLARKE",
+                "SUZANNE LEE",
+                "CHAYAWAT ORNTHANALAI"
+            ],
+            "abstract": "We demonstrate that time stamps reported in I/B/E/S for analysts\u2019 recommendations released during trading hours are systematically delayed. Using newswire\u2010reported time stamps, we find 30\u2010minute returns of 1.83% (\u22122.10%) for upgrades (downgrades), but for this subset of recommendations we find corresponding returns of \u22120.07% (\u22120.09%) using I/B/E/S\u2010reported time stamps. We also examine the information content of recommendations relative to management guidance and earnings announcements. Our evidence suggests that analysts\u2019 recommendations are the most important information disclosure channel examined.",
+            "link": "https://doi.org/10.1111/jofi.12107"
+        },
+        {
+            "no": "8",
+            "title": "Growth Opportunities, Technology Shocks, and Asset Prices",
+            "date": "29 November 2013",
+            "author": [
+                "LEONID KOGAN",
+                "DIMITRIS PAPANIKOLAOU"
+            ],
+            "abstract": "We explore the impact of investment\u2010specific technology (IST) shocks on the cross section of stock returns. Using a structural model, we show that IST shocks have a differential effect on the value of assets in place and the value of growth opportunities. This differential sensitivity to IST shocks has two main implications. First, firm risk premia depend on the contribution of growth opportunities to firm value. Second, firms with similar levels of growth opportunities comove with each other, giving rise to the value factor in stock returns and the failure of the conditional CAPM. Our empirical tests confirm the model's predictions.",
+            "link": "https://doi.org/10.1111/jofi.12136"
+        },
+        {
+            "no": "9",
+            "title": "A Theory of Debt Maturity: The Long and Short of Debt Overhang",
+            "date": "04 November 2013",
+            "author": [
+                "DOUGLAS W. DIAMOND",
+                "ZHIGUO HE"
+            ],
+            "abstract": "Debt maturity influences debt overhang, the reduced incentive for highly levered borrowers to make real investments because some value accrues to debt. Reducing maturity can increase or decrease overhang even when shorter term debt's value depends less on firm value. Future overhang is more volatile for shorter term debt, making future investment incentives volatile and influencing immediate investment incentives. With immediate investment, shorter term debt typically imposes lower overhang; longer term debt can impose less if asset volatility is higher in bad times. For future investments, reduced correlation between assets\u2010in\u2010place and investment opportunities increases the shorter term debt overhang.",
+            "link": "https://doi.org/10.1111/jofi.12118"
+        },
+        {
+            "no": "10",
+            "title": "Why Do Firms Evade Taxes? The Role of Information Sharing and Financial Sector Outreach",
+            "date": "18 November 2013",
+            "author": [
+                "THORSTEN BECK",
+                "CHEN LIN",
+                "YUE MA"
+            ],
+            "abstract": "Tax evasion is a widespread phenomenon across the globe and even an important factor in the ongoing sovereign debt crisis. We show that firms in countries with better credit information\u2013sharing systems and higher branch penetration evade taxes to a lesser degree. This effect is stronger for smaller firms, firms in smaller cities and towns, firms in industries relying more on external financing, and firms in industries and countries with greater growth potential. This effect is robust to instrumental variable analysis, controlling for firm fixed effects in a smaller panel data set of countries, and many other robustness tests.",
+            "link": "https://doi.org/10.1111/jofi.12123"
+        },
+        {
+            "no": "11",
+            "title": "Sovereign Default, Domestic Banks, and Financial Institutions",
+            "date": "19 November 2013",
+            "author": [
+                "NICOLA GENNAIOLI",
+                "ALBERTO MARTIN",
+                "STEFANO ROSSI"
+            ],
+            "abstract": "We present a model of sovereign debt in which, contrary to conventional wisdom, government defaults are costly because they destroy the balance sheets of domestic banks. In our model, better financial institutions allow banks to be more leveraged, thereby making them more vulnerable to sovereign defaults. Our predictions: government defaults should lead to declines in private credit, and these declines should be larger in countries where financial institutions are more developed and banks hold more government bonds. In these same countries, government defaults should be less likely. Using a large panel of countries, we find evidence consistent with these predictions.",
+            "link": "https://doi.org/10.1111/jofi.12124"
+        },
+        {
+            "no": "12",
+            "title": "Twin Picks: Disentangling the Determinants of Risk\u2010Taking in Household Portfolios",
+            "date": "19 November 2013",
+            "author": [
+                "LAURENT E. CALVET",
+                "PAOLO SODINI"
+            ],
+            "abstract": "This paper investigates risk\u2010taking in the liquid portfolios held by a large panel of Swedish twins. We document that the portfolio share invested in risky assets is an increasing and concave function of financial wealth, leading to different risk sensitivities across investors. Human capital, which we estimate directly from individual labor income, also affects risk\u2010taking positively, while internal habit and expenditure commitments tend to reduce it. Our microfindings lend strong support to decreasing relative risk aversion and habit formation preferences. Furthermore, heterogeneous risk sensitivities across investors help reconcile individual preferences with representative\u2010agent models.",
+            "link": "https://doi.org/10.1111/jofi.12125"
+        },
+        {
+            "no": "13",
+            "title": "Using Neural Data to Test a Theory of Investor Behavior: An Application to Realization Utility",
+            "date": "18 November 2013",
+            "author": [
+                "CARY FRYDMAN",
+                "NICHOLAS BARBERIS",
+                "COLIN CAMERER",
+                "PETER BOSSAERTS",
+                "ANTONIO RANGEL"
+            ],
+            "abstract": "We conduct a study in which subjects trade stocks in an experimental market while we measure their brain activity using functional magnetic resonance imaging. All of the subjects trade in a suboptimal way. We use the neural data to test a \u201crealization utility\u201d explanation for their behavior. We find that activity in two areas of the brain that are important for economic decision\u2010making exhibit activity consistent with the predictions of realization utility. These results provide support for the realization utility model. More generally, they demonstrate that neural data can be helpful in testing models of investor behavior.",
+            "link": "https://doi.org/10.1111/jofi.12126"
+        },
+        {
+            "no": "14",
+            "title": "Self\u2010Fulfilling Liquidity Dry\u2010Ups",
+            "date": "15 May 2013",
+            "author": [
+                "FREDERIC MALHERBE"
+            ],
+            "abstract": "I analyze a model in which holding cash imposes a negative externality: it worsens future adverse selection in markets for long\u2010term assets, which impairs their role for liquidity provision. Adverse selection worsens when potential sellers of long\u2010term assets hold more cash because then fewer sales reflect cash needs, and proportionally more sales reflect private information. Moreover, future market illiquidity makes current cash holding more appealing. This feedback effect may result in hoarding behavior and a market breakdown, which I interpret as a self\u2010fulfilling liquidity dry\u2010up. This mechanism suggests that imposing liquidity requirements on financial institutions may backfire.",
+            "link": "https://doi.org/10.1111/jofi.12063"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "17 March 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12147"
+        },
+        {
+            "no": "16",
+            "title": "ANNOUNCEMENTS",
+            "date": "17 March 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12160"
+        },
+        {
+            "no": "17",
+            "title": "BACK MATTER",
+            "date": "17 March 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12159"
+        }
+    ]
+}

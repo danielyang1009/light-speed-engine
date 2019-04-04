@@ -1,0 +1,194 @@
+{
+    "journal": "JF",
+    "volume": "73",
+    "issue": "4",
+    "date": "August 2018",
+    "page": "Pages: 1459-1966",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "24 August 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12567"
+        },
+        {
+            "no": "2",
+            "title": "Presidential Address: Pension Policy and the Financial System",
+            "date": "24 August 2018",
+            "author": [
+                "DAVID S. SCHARFSTEIN"
+            ],
+            "abstract": "In this paper, I examine the effect of pension policy on the structure of financial systems around the world. In particular, I explore the hypothesis that policies that promote pension savings also promote the development of capital markets. I present a model that endogenizes the extent to which savings are intermediated through banks or capital markets, and derive implications for corporate finance, household finance, banking, and the size of the financial sector. I then present a number of facts that are broadly consistent with the theory and examine a variety of alternative explanations of my findings.",
+            "link": "https://doi.org/10.1111/jofi.12710"
+        },
+        {
+            "no": "3",
+            "title": "Anticompetitive Effects of Common Ownership",
+            "date": "25 May 2018",
+            "author": [
+                "JOS\u00c9 AZAR",
+                "MARTIN C. SCHMALZ",
+                "ISABEL TECU"
+            ],
+            "abstract": "Many natural competitors are jointly held by a small set of large institutional investors. In the U.S. airline industry, taking common ownership into account implies increases in market concentration that are 10 times larger than what is \u201cpresumed likely to enhance market power\u201d by antitrust authorities.1\n1 See https://www.ftc.gov/sites/default/files/attachments/merger\u2010review/100819hmg.pdf.\n\nWithin\u2010route changes in common ownership concentration robustly correlate with route\u2010level changes in ticket prices, even when we only use variation in ownership due to the combination of two large asset managers. We conclude that a hidden social cost\u2014reduced product market competition\u2014accompanies the private benefits of diversification and good governance.",
+            "link": "https://doi.org/10.1111/jofi.12698"
+        },
+        {
+            "no": "4",
+            "title": "A Tough Act to Follow: Contrast Effects in Financial Markets",
+            "date": "16 April 2018",
+            "author": [
+                "SAMUEL M. HARTZMARK",
+                "KELLY SHUE"
+            ],
+            "abstract": "A contrast effect occurs when the value of a previously observed signal inversely biases perception of the next signal. We present the first evidence that contrast effects can distort prices in sophisticated and liquid markets. Investors mistakenly perceive earnings news today as more impressive if yesterday's earnings surprise was bad and less impressive if yesterday's surprise was good. A unique advantage of our financial setting is that we can identify contrast effects as an error in perceptions rather than expectations. Finally, we show that our results cannot be explained by an alternative explanation involving information transmission from previous earnings announcements.",
+            "link": "https://doi.org/10.1111/jofi.12685"
+        },
+        {
+            "no": "5",
+            "title": "Capital Commitment and Illiquidity in Corporate Bonds",
+            "date": "14 May 2018",
+            "author": [
+                "HENDRIK BESSEMBINDER",
+                "STACEY JACOBSEN",
+                "WILLIAM MAXWELL",
+                "KUMAR VENKATARAMAN"
+            ],
+            "abstract": "We study trading costs and dealer behavior in U.S. corporate bond markets from 2006 to 2016. Despite a temporary spike during the financial crisis, average trade execution costs have not increased notably over time. However, dealer capital commitment, turnover, block trade frequency, and average trade size decreased during the financial crisis and thereafter. These declines are attributable to bank\u2010affiliated dealers, as nonbank dealers have increased their market commitment. Our evidence indicates that liquidity provision in the corporate bond markets is evolving away from the commitment of bank\u2010affiliated dealer capital to absorb customer imbalances, and that postcrisis banking regulations likely contribute.",
+            "link": "https://doi.org/10.1111/jofi.12694"
+        },
+        {
+            "no": "6",
+            "title": "Efficiently Inefficient Markets for Assets and Asset Management",
+            "date": "11 May 2018",
+            "author": [
+                "NICOLAE G\u00c2RLEANU",
+                "LASSE HEJE PEDERSEN"
+            ],
+            "abstract": "We consider a model where investors can invest directly or search for an asset manager, information about assets is costly, and managers charge an endogenous fee. The efficiency of asset prices is linked to the efficiency of the asset management market: if investors can find managers more easily, more money is allocated to active management, fees are lower, and asset prices are more efficient. Informed managers outperform after fees, uninformed managers underperform, while the average manager's performance depends on the number of \u201cnoise allocators.\u201d Small investors should remain uninformed, but large and sophisticated investors benefit from searching for informed active managers since their search cost is low relative to capital. Hence, managers with larger and more sophisticated investors are expected to outperform.",
+            "link": "https://doi.org/10.1111/jofi.12696"
+        },
+        {
+            "no": "7",
+            "title": "The Dynamics of Financially Constrained Arbitrage",
+            "date": "09 May 2018",
+            "author": [
+                "DENIS GROMB",
+                "DIMITRI VAYANOS"
+            ],
+            "abstract": "We develop a model in which financially constrained arbitrageurs exploit price discrepancies across segmented markets. We show that the dynamics of arbitrage capital are self\u2010correcting: following a shock that depletes capital, returns increase, which allows capital to be gradually replenished. Spreads increase more for trades with volatile fundamentals or more time to convergence. Arbitrageurs cut their positions more in those trades, except when volatility concerns the hedgeable component. Financial constraints yield a positive cross\u2010sectional relationship between spreads/returns and betas with respect to arbitrage capital. Diversification of arbitrageurs across markets induces contagion, but generally lowers arbitrageurs' risk and price volatility.",
+            "link": "https://doi.org/10.1111/jofi.12689"
+        },
+        {
+            "no": "8",
+            "title": "Estimating Private Equity Returns from Limited Partner Cash Flows",
+            "date": "10 May 2018",
+            "author": [
+                "ANDREW ANG",
+                "BINGXU CHEN",
+                "WILLIAM N. GOETZMANN",
+                "LUDOVIC PHALIPPOU"
+            ],
+            "abstract": "We introduce a methodology to estimate the historical time series of returns to investment in private equity funds. The approach requires only an unbalanced panel of cash contributions and distributions accruing to limited partners and is robust to sparse data. We decompose private equity returns from 1994 to 2015 into a component due to traded factors and a time\u2010varying private equity premium not spanned by publicly traded factors. We find cyclicality in private equity returns that differs according to fund type and is consistent with the conjecture that capital market segmentation contributes to private equity returns.",
+            "link": "https://doi.org/10.1111/jofi.12688"
+        },
+        {
+            "no": "9",
+            "title": "Networks in Production: Asset Pricing Implications",
+            "date": "16 April 2018",
+            "author": [
+                "BERNARD HERSKOVIC"
+            ],
+            "abstract": "In this paper, I examine asset pricing in a multisector model with sectors connected through an input\u2010output network. Changes in the network are sources of systematic risk reflected in equilibrium asset prices. Two characteristics of the network matter for asset prices: network concentration and network sparsity. These two production\u2010based asset pricing factors are determined by the structure of the network and are computed from input\u2010output data. Consistent with the model predictions, I find return spreads of 4.6% and \u22123.2% per year on sparsity and concentration beta\u2010sorted portfolios, respectively.",
+            "link": "https://doi.org/10.1111/jofi.12684"
+        },
+        {
+            "no": "10",
+            "title": "Can Taxes Shape an Industry? Evidence from the Implementation of the \u201cAmazon Tax\u201d",
+            "date": "20 April 2018",
+            "author": [
+                "BRIAN BAUGH",
+                "ITZHAK BEN\u2010DAVID",
+                "HOONSUK PARK"
+            ],
+            "abstract": "For years, online retailers have maintained a price advantage over brick\u2010and\u2010mortar retailers by not collecting sales tax at the time of sale. Recently, several states have required that online retailer Amazon collect sales tax during checkout. Using transaction\u2010level data, we document that households living in these states reduced their Amazon purchases by 9.4% following the implementation of the sales tax laws, implying elasticities of \u20131.2 to \u20131.4. The effect is stronger for large purchases, where purchases declined by 29.1%, corresponding to an elasticity of \u20133.9. Studying competitors in the electronics field, we find some evidence of substitution toward competing retailers.",
+            "link": "https://doi.org/10.1111/jofi.12687"
+        },
+        {
+            "no": "11",
+            "title": "An Experimental Study of Bond Market Pricing",
+            "date": "10 May 2018",
+            "author": [
+                "MATTHIAS WEBER",
+                "JOHN DUFFY",
+                "ARTHUR SCHRAM"
+            ],
+            "abstract": "An important feature of bond markets is the relationship between the initial public offering (IPO) price and the probability that the issuer defaults. On the one hand, the default probability affects the IPO price; on the other hand, the IPO price affects the default probability. It is a priori unclear whether agents can competitively price such assets. Our paper is the first to explore this question. To do so, we use laboratory experiments. We develop two flexible bond market models that are easily implemented in the laboratory. We find that subjects learn to price the bonds well after only a few repetitions.",
+            "link": "https://doi.org/10.1111/jofi.12695"
+        },
+        {
+            "no": "12",
+            "title": "On the Asset Allocation of a Default Pension Fund",
+            "date": "10 May 2018",
+            "author": [
+                "MAGNUS DAHLQUIST",
+                "OFER SETTY",
+                "ROINE VESTMAN"
+            ],
+            "abstract": "We characterize the optimal default fund in a defined contribution (DC) pension plan. Using detailed data on individuals' holdings inside and outside the pension system, we find substantial heterogeneity within and between passive and active investors in terms of labor income, financial wealth, and stock market participation. We build a life\u2010cycle consumption\u2010savings model, with a DC pension account and an opt\u2010out/default choice, that produces realistic investor heterogeneity. Relative to a common age\u2010based allocation, implementing the optimal default asset allocation implies a welfare gain of 1.5% during retirement. Much of the gain is attainable with a simple rule of thumb.",
+            "link": "https://doi.org/10.1111/jofi.12697"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of the Journal of Finance for the Year 2017",
+            "date": "24 August 2018",
+            "author": [
+                "STEFAN NAGEL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12708"
+        },
+        {
+            "no": "14",
+            "title": "Minutes of the 2018 Annual Membership Meeting",
+            "date": "24 August 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12707"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "24 August 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12709"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "24 August 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12566"
+        },
+        {
+            "no": "17",
+            "title": "ANNOUNCEMENTS",
+            "date": "24 August 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12565"
+        },
+        {
+            "no": "18",
+            "title": "ISSUE INFORMATION BM",
+            "date": "24 August 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12568"
+        }
+    ]
+}

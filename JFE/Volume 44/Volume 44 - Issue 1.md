@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Apr 1997
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 
@@ -24,7 +24,7 @@
 ## 3. Guaranty funds and risk-taking evidence from the insurance industry
 ### Date
 - Apr 1997
-### Authors
+### Author
 - Soon-Jae Lee
 - David Mayers
 - Clifford W. Smith
@@ -36,7 +36,7 @@ This paper examines change in property-liability insurers' risk-taking around en
 ## 4. Organizational form and risk taking in the savings and loan industry
 ### Date
 - Apr 1997
-### Authors
+### Author
 - Benjamin C. Esty
 ### Abstract
 I hypothesize that risk taking is greater in stock thrifts than in mutual thrifts because the residual and fixed claims are separable. I find that stock thrifts exhibit greater profit variability during the 1982–1988 period and that conversions from mutual to stock ownership are associated with increased investment in risky assets and increased profit variability. These findings illustrate the relation between the structure of residual claims, incentives, and firm performance as well as the unintended consequences resulting from changes in thrift regulations.
@@ -46,7 +46,7 @@ I hypothesize that risk taking is greater in stock thrifts than in mutual thrift
 ## 5. A case study of organizational form and risk shifting in the savings and loan industry
 ### Date
 - Apr 1997
-### Authors
+### Author
 - Benjamin C. Esty
 ### Abstract
 I analyze the investment and funding strategies of two thrifts, one stock owned and one mutually owned, from 1983 to 1988. Despite their similarities prior to 1983, the stock thrift implemented a riskier financial strategy and did so only after converting to stock ownership. Although this strategy ultimately led to its failure, the stock thrift still made significant payouts to its controlling shareholders. This case study illustrates in stark terms the relation between organizational form and risk shifting in the thrift industry.
@@ -56,7 +56,7 @@ I analyze the investment and funding strategies of two thrifts, one stock owned 
 ## 6. On the measurement of Tobin's q
 ### Date
 - Apr 1997
-### Authors
+### Author
 - Wilbur G. Lewellen
 - S.G. Badrinath
 ### Abstract
@@ -67,7 +67,7 @@ We examine the methods commonly employed to estimate Tobin's q ratios and find t
 ## 7. An alternative valuation model for contingent claims
 ### Date
 - Apr 1997
-### Authors
+### Author
 - Gurdip S. Bakshi
 - Zhiwu Chen
 ### Abstract

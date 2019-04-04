@@ -1,0 +1,196 @@
+{
+    "journal": "JF",
+    "volume": "69",
+    "issue": "4",
+    "date": "August 2014",
+    "page": "Pages: fmi-fmvii, 1415-1849, bmi-bmiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "18 July 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12192"
+        },
+        {
+            "no": "2",
+            "title": "Presidential Address: Investment Noise and Trends",
+            "date": "18 July 2014",
+            "author": [
+                "ROBERT F. STAMBAUGH"
+            ],
+            "abstract": "During the past few decades, the fraction of the equity market owned directly by individuals declined significantly. The same period witnessed investment trends that include the growth of indexing as well as shifts by active managers toward lower fees and more index\u2010like investing. I develop an equilibrium model linking these investment trends to the decline in individual ownership, interpreting the latter as a reduction in noise trading. Active management corrects most noise trader\u2013induced mispricing, and the fraction left uncorrected shrinks as noise traders' stake in the market declines. Less mispricing then dictates a smaller footprint for active management.",
+            "link": "https://doi.org/10.1111/jofi.12174"
+        },
+        {
+            "no": "3",
+            "title": "Time\u2010Varying Fund Manager Skill",
+            "date": "26 July 2013",
+            "author": [
+                "MARCIN KACPERCZYK",
+                "STIJN VAN NIEUWERBURGH",
+                "LAURA VELDKAMP"
+            ],
+            "abstract": "We propose a new definition of skill as general cognitive ability to pick stocks or time the market. We find evidence for stock picking in booms and market timing in recessions. Moreover, the same fund managers that pick stocks well in expansions also time the market well in recessions. These fund managers significantly outperform other funds and passive benchmarks. Our results suggest a new measure of managerial ability that weighs a fund's market timing more in recessions and stock picking more in booms. The measure displays more persistence than either market timing or stock picking alone and predicts fund performance.",
+            "link": "https://doi.org/10.1111/jofi.12084"
+        },
+        {
+            "no": "4",
+            "title": "Stock Options as Lotteries",
+            "date": "27 March 2014",
+            "author": [
+                "BRIAN H. BOYER",
+                "KEITH VORKINK"
+            ],
+            "abstract": "We investigate the relationship between ex ante total skewness and holding returns on individual equity options. Recent theoretical developments predict a negative relationship between total skewness and average returns, in contrast to the traditional view that only coskewness is priced. We find, consistent with recent theory, that total skewness exhibits a strong negative relationship with average option returns. Differences in average returns for option portfolios sorted on ex ante skewness range from 10% to 50% per week, even after controlling for risk. Our findings suggest that these large premiums compensate intermediaries for bearing unhedgeable risk when accommodating investor demand for lottery\u2010like options.",
+            "link": "https://doi.org/10.1111/jofi.12152"
+        },
+        {
+            "no": "5",
+            "title": "The Executive Turnover Risk Premium",
+            "date": "08 April 2014",
+            "author": [
+                "FLORIAN S. PETERS",
+                "ALEXANDER F. WAGNER"
+            ],
+            "abstract": "We establish that CEOs of companies experiencing volatile industry conditions are more likely to be dismissed. At the same time, accounting for various other factors, industry risk is unlikely to be associated with CEO compensation other than through dismissal risk. Using this identification strategy, we document that CEO turnover risk is significantly positively associated with compensation. This finding is important because job\u2010risk\u2010compensating wage differentials arise naturally in competitive labor markets. By contrast, the evidence rejects an entrenchment model according to which powerful CEOs have lower job risk and at the same time secure higher compensation.",
+            "link": "https://doi.org/10.1111/jofi.12166"
+        },
+        {
+            "no": "6",
+            "title": "Alpha and Performance Measurement: The Effects of Investor Disagreement and Heterogeneity",
+            "date": "27 March 2014",
+            "author": [
+                "WAYNE FERSON",
+                "JERCHERN LIN"
+            ],
+            "abstract": "The literature has not established that a positive alpha, as traditionally measured, means that an investor would want to buy a fund. When alpha is defined using the client's utility function, a positive alpha generally means the client would want to buy. When markets are incomplete, investors will disagree about the attractiveness of a fund. We provide bounds on the expected disagreement with a traditional alpha and study the cross\u2010sectional relation of disagreement and investor heterogeneity with the flow response to past fund alphas. The effects are both economically and statistically significant.",
+            "link": "https://doi.org/10.1111/jofi.12165"
+        },
+        {
+            "no": "7",
+            "title": "Skin in the Game and Moral Hazard",
+            "date": "26 March 2014",
+            "author": [
+                "GILLES CHEMLA",
+                "CHRISTOPHER A. HENNESSY"
+            ],
+            "abstract": "What determines securitization levels, and should they be regulated? To address these questions we develop a model where originators can exert unobservable effort to increase expected asset quality, subsequently having private information regarding quality when selling ABS to rational investors. Absent regulation, originators may signal positive information via junior retentions or commonly adopt low retentions if funding value and price informativeness are high. Effort incentives are below first\u2010best absent regulation. Optimal regulation promoting originator effort entails a menu of junior retentions or one junior retention with size decreasing in price informativeness. Zero retentions and opacity are optimal among regulations inducing zero effort.",
+            "link": "https://doi.org/10.1111/jofi.12161"
+        },
+        {
+            "no": "8",
+            "title": "Measuring Readability in Financial Disclosures",
+            "date": "26 March 2014",
+            "author": [
+                "TIM LOUGHRAN",
+                "BILL MCDONALD"
+            ],
+            "abstract": "Defining and measuring readability in the context of financial disclosures becomes important with the increasing use of textual analysis and the Securities and Exchange Commission's plain English initiative. We propose defining readability as the effective communication of valuation\u2010relevant information. The Fog Index\u2014the most commonly applied readability measure\u2014is shown to be poorly specified in financial applications. Of Fog's two components, one is misspecified and the other is difficult to measure. We report that 10\u2010K document file size provides a simple readability proxy that outperforms the Fog Index, does not require document parsing, facilitates replication, and is correlated with alternative readability constructs.",
+            "link": "https://doi.org/10.1111/jofi.12162"
+        },
+        {
+            "no": "9",
+            "title": "Mutual Fund Performance and the Incentive to Generate Alpha",
+            "date": "19 March 2013",
+            "author": [
+                "DIANE DEL GUERCIO",
+                "JONATHAN REUTER"
+            ],
+            "abstract": "To rationalize the well\u2010known underperformance of the average actively managed mutual fund, we exploit the fact that retail funds in different market segments compete for different types of investors. Within the segment of funds marketed directly to retail investors, we show that flows chase risk\u2010adjusted returns, and that funds respond by investing more in active management. Importantly, within this direct\u2010sold segment, we find no evidence that actively managed funds underperform index funds. In contrast, we show that actively managed funds sold through brokers face a weaker incentive to generate alpha and significantly underperform index funds.",
+            "link": "https://doi.org/10.1111/jofi.12048"
+        },
+        {
+            "no": "10",
+            "title": "Merger Negotiations with Stock Market Feedback",
+            "date": "20 February 2014",
+            "author": [
+                "SANDRA BETTON",
+                "B. ESPEN ECKBO",
+                "REX THOMPSON",
+                "KARIN S. THORBURN"
+            ],
+            "abstract": "Do preoffer target stock price runups increase bidder takeover costs? We present model\u2010based tests of this issue assuming runups are caused by signals that inform investors about potential takeover synergies. Rational deal anticipation implies a relation between target runups and markups (offer value minus runup) that is greater than minus one\u2010for\u2010one and inherently nonlinear. If merger negotiations force bidders to raise the offer with the runup\u2014a costly feedback loop where bidders pay twice for anticipated target synergies\u2014markups become strictly increasing in runups. Large\u2010sample tests support rational deal anticipation in runups while rejecting the costly feedback loop.",
+            "link": "https://doi.org/10.1111/jofi.12151"
+        },
+        {
+            "no": "11",
+            "title": "Liquidity Measurement Problems in Fast, Competitive Markets: Expensive and Cheap Solutions",
+            "date": "18 November 2013",
+            "author": [
+                "CRAIG W. HOLDEN",
+                "STACEY JACOBSEN"
+            ],
+            "abstract": "Do fast, competitive markets yield liquidity measurement problems when using the popular Monthly Trade and Quote (MTAQ) database? Yes. MTAQ yields distorted measures of spreads, trade location, and price impact compared with the expensive Daily Trade and Quote (DTAQ) database. These problems are driven by (1) withdrawn quotes, (2) second (versus millisecond) time stamps, and (3) other causes, including canceled quotes. The expensive solution, using DTAQ, is first\u2010best. For financially constrained researchers, the cheap solution\u2014using MTAQ with our new Interpolated Time technique, adjusting for withdrawn quotes, and deleting economically nonsensical states\u2014is second\u2010best. These solutions change research inferences.",
+            "link": "https://doi.org/10.1111/jofi.12127"
+        },
+        {
+            "no": "12",
+            "title": "Securitization and Capital Structure in Nonfinancial Firms: An Empirical Investigation",
+            "date": "18 November 2013",
+            "author": [
+                "MICHAEL LEMMON",
+                "LAURA XIAOLEI LIU",
+                "MIKE QINGHAO MAO",
+                "GREG NINI"
+            ],
+            "abstract": "Contrary to recent accounts of off\u2010balance\u2010sheet securitization by financial firms, we show that asset securitization by nonfinancial firms provides a valuable form of financing for shareholders without harming debtholders. Using data from firms\u2019 SEC filings, we find that securitization is attractive to firms in the middle of the credit quality distribution, which are the firms with the most to gain. Upon initiation, firms experience positive abnormal stock returns and zero abnormal bond returns, and largely use the securitization proceeds to repay existing debt. Securitization minimizes financing costs by reducing expected bankruptcy costs and providing access to segmented credit markets.",
+            "link": "https://doi.org/10.1111/jofi.12128"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of the Journal of Finance for the Year 2013",
+            "date": "18 July 2014",
+            "author": [
+                "KENNETH J. SINGLETON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12175"
+        },
+        {
+            "no": "14",
+            "title": "Minutes of the 2014 Annual Membership Meeting",
+            "date": "18 July 2014",
+            "author": [
+                "Jim Schallheim"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12178"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "18 July 2014",
+            "author": [
+                "Jim Schallheim"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12176"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "18 July 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12190"
+        },
+        {
+            "no": "17",
+            "title": "ANNOUNCEMENTS",
+            "date": "18 July 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12191"
+        },
+        {
+            "no": "18",
+            "title": "BACK MATTER",
+            "date": "18 July 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12193"
+        }
+    ]
+}

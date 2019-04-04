@@ -1,0 +1,192 @@
+{
+    "journal": "JF",
+    "volume": "72",
+    "issue": "4",
+    "date": "August 2017",
+    "page": "Pages: 1395-1885",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "14 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12527"
+        },
+        {
+            "no": "2",
+            "title": "Presidential Address: The Scientific Outlook in Financial Economics",
+            "date": "08 July 2017",
+            "author": [
+                "CAMPBELL R. HARVEY"
+            ],
+            "abstract": "ABSTRACT\nGiven the competition for top journal space, there is an incentive to produce \u201csignificant\u201d results. With the combination of unreported tests, lack of adjustment for multiple tests, and direct and indirect p\u2010hacking, many of the results being published will fail to hold up in the future. In addition, there are basic issues with the interpretation of statistical significance. Increasing thresholds may be necessary, but still may not be sufficient: if the effect being studied is rare, even t > 3 will produce a large number of false positives. Here I explore the meaning and limitations of a p\u2010value. I offer a simple alternative (the minimum Bayes factor). I present guidelines for a robust, transparent research culture in financial economics. Finally, I offer some thoughts on the importance of risk\u2010taking (from the perspective of authors and editors) to advance our field.\nSUMMARY\nEmpirical research in financial economics relies too much on p\u2010values, which are poorly understood in the first place.\nJournals want to publish papers with positive results and this incentivizes researchers to engage in data mining and \u201cp\u2010hacking.\u201d\nThe outcome will likely be an embarrassing number of false positives\u2014effects that will not be repeated in the future.\nThe minimum Bayes factor (which is a function of the p\u2010value) combined with prior odds provides a simple solution that can be reported alongside the usual p\u2010value.\nThe Bayesianized p\u2010value answers the question: What is the probability that the null is true?\nThe same technique can be used to answer: What threshold of t\u2010statistic do I need so that there is only a 5% chance that the null is true?\nThe threshold depends on the economic plausibility of the hypothesis.",
+            "link": "https://doi.org/10.1111/jofi.12530"
+        },
+        {
+            "no": "3",
+            "title": "Retail Financial Advice: Does One Size Fit All?",
+            "date": "12 April 2017",
+            "author": [
+                "STEPHEN FOERSTER",
+                "JUHANI T. LINNAINMAA",
+                "BRIAN T. MELZER",
+                "ALESSANDRO PREVITERO"
+            ],
+            "abstract": "Using unique data on Canadian households, we show that financial advisors exert substantial influence over their clients' asset allocation, but provide limited customization. Advisor fixed effects explain considerably more variation in portfolio risk and home bias than a broad set of investor attributes that includes risk tolerance, age, investment horizon, and financial sophistication. Advisor effects remain important even when controlling flexibly for unobserved heterogeneity through investor fixed effects. An advisor's own asset allocation strongly predicts the allocations chosen on clients' behalf. This one\u2010size\u2010fits\u2010all advice does not come cheap: advised portfolios cost 2.5% per year, or 1.5% more than life cycle funds.",
+            "link": "https://doi.org/10.1111/jofi.12514"
+        },
+        {
+            "no": "4",
+            "title": "Do Funds Make More When They Trade More?",
+            "date": "19 March 2017",
+            "author": [
+                "\u013dUBO\u0160 P\u00c1STOR",
+                "ROBERT F. STAMBAUGH",
+                "LUCIAN A. TAYLOR"
+            ],
+            "abstract": "We model fund turnover in the presence of time\u2010varying profit opportunities. Our model predicts a positive relation between an active fund's turnover and its subsequent benchmark\u2010adjusted return. We find such a relation for equity mutual funds. This time\u2010series relation between turnover and performance is stronger than the cross\u2010sectional relation, as the model predicts. Also as predicted, the turnover\u2010performance relation is stronger for funds trading less\u2010liquid stocks and funds likely to possess greater skill. Turnover is correlated across funds. The common component of turnover is positively correlated with proxies for stock mispricing. Turnover of similar funds helps predict a fund's performance.",
+            "link": "https://doi.org/10.1111/jofi.12509"
+        },
+        {
+            "no": "5",
+            "title": "Term Structure of Consumption Risk Premia in the Cross Section of Currency Returns",
+            "date": "03 February 2017",
+            "author": [
+                "IRINA ZVIADADZE"
+            ],
+            "abstract": "I relate the downward\u2010sloping term structure of currency carry returns to compensation for currency exposures to macroeconomic risk embedded in the joint dynamics of U.S. consumption, inflation, nominal interest rate, and their stochastic variance. The interest rate and inflation shocks play a prominent role. Higher yield currencies exhibit higher multiperiod exposures to these shocks. The prices of these risk exposures are positive and sizeable across all investment horizons. The interest rate shock is qualitatively similar to the long\u2010run risk of Bansal and Yaron.",
+            "link": "https://doi.org/10.1111/jofi.12501"
+        },
+        {
+            "no": "6",
+            "title": "Trader Leverage and Liquidity",
+            "date": "18 March 2017",
+            "author": [
+                "BIGE KAHRAMAN",
+                "HEATHER E. TOOKES"
+            ],
+            "abstract": "Does trader leverage drive equity market liquidity? We use the unique features of the margin trading system in India to identify a causal relationship between traders\u2019 ability to borrow and a stock's market liquidity. To quantify the impact of trader leverage, we employ a regression discontinuity design that exploits threshold rules that determine a stock's margin trading eligibility. We find that liquidity is higher when stocks become eligible for margin trading and that this liquidity enhancement is driven by margin traders\u2019 contrarian strategies. Consistent with downward liquidity spirals due to deleveraging, we also find that this effect reverses during crises.",
+            "link": "https://doi.org/10.1111/jofi.12507"
+        },
+        {
+            "no": "7",
+            "title": "Volatility\u2010Managed Portfolios",
+            "date": "06 April 2017",
+            "author": [
+                "ALAN MOREIRA",
+                "TYLER MUIR"
+            ],
+            "abstract": "Managed portfolios that take less risk when volatility is high produce large alphas, increase Sharpe ratios, and produce large utility gains for mean\u2010variance investors. We document this for the market, value, momentum, profitability, return on equity, investment, and betting\u2010against\u2010beta factors, as well as the currency carry trade. Volatility timing increases Sharpe ratios because changes in volatility are not offset by proportional changes in expected returns. Our strategy is contrary to conventional wisdom because it takes relatively less risk in recessions. This rules out typical risk\u2010based explanations and is a challenge to structural models of time\u2010varying expected returns.",
+            "link": "https://doi.org/10.1111/jofi.12513"
+        },
+        {
+            "no": "8",
+            "title": "Advance Refundings of Municipal Bonds",
+            "date": "18 March 2017",
+            "author": [
+                "ANDREW ANG",
+                "RICHARD C. GREEN",
+                "FRANCIS A. LONGSTAFF",
+                "YUHANG XING"
+            ],
+            "abstract": "The advance refunding of debt is a widespread practice in municipal finance. In an advance refunding, municipalities retire callable bonds early and refund them with bonds with lower coupon rates. We find that 85% of all advance refundings occur at a net present value loss, and that the aggregate losses over the past 20 years exceed $15 billion. We explore why municipalities advance refund their debt at loss. Financially constrained municipalities may face pressure to advance refund since it allows them to reduce short\u2010term cash outflows. We find strong evidence that financial constraints are a major driver of advance refunding activity.",
+            "link": "https://doi.org/10.1111/jofi.12506"
+        },
+        {
+            "no": "9",
+            "title": "Municipal Bond Liquidity and Default Risk",
+            "date": "06 April 2017",
+            "author": [
+                "MICHAEL SCHWERT"
+            ],
+            "abstract": "This paper examines the pricing of municipal bonds. I use three distinct, complementary approaches to decompose municipal bond spreads into default and liquidity components, and find that default risk accounts for 74% to 84% of the average spread after adjusting for tax\u2010exempt status. The first approach estimates the liquidity component using transaction data, the second measures the default component with credit default swap data, and the third is a quasi\u2010natural experiment that estimates changes in default risk around pre\u2010refunding events. The price of default risk is high given the rare incidence of municipal default and implies a high risk premium.",
+            "link": "https://doi.org/10.1111/jofi.12511"
+        },
+        {
+            "no": "10",
+            "title": "Selling Failed Banks",
+            "date": "06 April 2017",
+            "author": [
+                "JO\u00c3O GRANJA",
+                "GREGOR MATVOS",
+                "AMIT SERU"
+            ],
+            "abstract": "The average FDIC loss from selling a failed bank is 28% of assets. We document that failed banks are predominantly sold to bidders within the same county, with similar assets business lines, when these bidders are well capitalized. Otherwise, they are acquired by less similar banks located further away. We interpret these facts within a model of auctions with budget constraints, in which poor capitalization of some potential acquirers drives a wedge between their willingness and ability to pay for failed banks. We document that this wedge drives misallocation, and partially explains the FDIC losses from failed bank sales.",
+            "link": "https://doi.org/10.1111/jofi.12512"
+        },
+        {
+            "no": "11",
+            "title": "Social Capital, Trust, and Firm Performance: The Value of Corporate Social Responsibility during the Financial Crisis",
+            "date": "19 March 2017",
+            "author": [
+                "KARL V. LINS",
+                "HENRI SERVAES",
+                "ANE TAMAYO"
+            ],
+            "abstract": "During the 2008\u20132009 financial crisis, firms with high social capital, as measured by corporate social responsibility (CSR) intensity, had stock returns that were four to seven percentage points higher than firms with low social capital. High\u2010CSR firms also experienced higher profitability, growth, and sales per employee relative to low\u2010CSR firms, and they raised more debt. This evidence suggests that the trust between a firm and both its stakeholders and investors, built through investments in social capital, pays off when the overall level of trust in corporations and markets suffers a negative shock.",
+            "link": "https://doi.org/10.1111/jofi.12505"
+        },
+        {
+            "no": "12",
+            "title": "Capital Account Liberalization and Aggregate Productivity: The Role of Firm Capital Allocation",
+            "date": "25 January 2017",
+            "author": [
+                "MAURICIO LARRAIN",
+                "SEBASTIAN STUMPNER"
+            ],
+            "abstract": "We study the effects of capital account liberalization on firm capital allocation and aggregate productivity in 10 Eastern European countries. Using a large firm\u2010level data set, we show that capital account liberalization decreases the dispersion in the return to capital across firms, particularly in sectors more dependent on external finance. We provide evidence that capital account liberalization improves capital allocation by allowing financially constrained firms to demand more capital and produce at a more efficient level. Finally, using a model of misallocation we document that capital account liberalization increases aggregate productivity through more efficient capital allocation by 10% to 16%.",
+            "link": "https://doi.org/10.1111/jofi.12497"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of the Journal of Finance for the Year 2016",
+            "date": "14 August 2017",
+            "author": [
+                "STEFAN NAGEL EDITOR"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12531"
+        },
+        {
+            "no": "14",
+            "title": "Minutes of the 2017 Annual Membership Meeting",
+            "date": "14 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12532"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "14 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12533"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "14 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12537"
+        },
+        {
+            "no": "17",
+            "title": "ANNOUNCEMENTS",
+            "date": "14 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12538"
+        },
+        {
+            "no": "18",
+            "title": "ISSUE INFORMATION BM",
+            "date": "14 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12543"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Simulated likelihood estimation of diffusions with an application to exchange rate dynamics in incomplete markets
 ### Date
 - Feb 2002
-### Authors
+### Author
 - Michael W. Brandt
 - Pedro Santa-Clara
 ### Abstract
@@ -16,7 +16,7 @@ We present an econometric method for estimating the parameters of a diffusion mo
 ## 2. Resources, real options, and corporate strategy
 ### Date
 - Feb 2002
-### Authors
+### Author
 - Antonio E. Bernardo
 - Bhagwan Chowdhry
 ### Abstract
@@ -27,7 +27,7 @@ The types of investments a firm undertakes will depend in part on what it expect
 ## 3. When a buyback isn’t a buyback: open market repurchases and employee options
 ### Date
 - Feb 2002
-### Authors
+### Author
 - Kathleen M Kahle
 ### Abstract
 This paper examines how stock options affect the decision to repurchase shares. Firms announce repurchases when executives have large numbers of options outstanding and when employees have large numbers of options currently exercisable. Once the decision to repurchase is made, the amount repurchased is positively related to total options exercisable by all employees but independent of managerial options. These results are consistent with managers repurchasing both to maximize their own wealth and to fund employee stock option exercises. The market appears to recognize this motive, however, and reacts less positively to repurchases announced by firms with high levels of nonmanagerial options.
@@ -37,7 +37,7 @@ This paper examines how stock options affect the decision to repurchase shares. 
 ## 4. Depositor discipline and changing strategies for regulating thrift institutions
 ### Date
 - Feb 2002
-### Authors
+### Author
 - Lawrence G Goldberg
 - Sylvia C Hudgins
 ### Abstract
@@ -48,7 +48,7 @@ This paper examines the role of uninsured deposits as a source of thrift funding
 ## 5. Corporate leverage and currency crises
 ### Date
 - Feb 2002
-### Authors
+### Author
 - Arturo Bris
 - Yrjö Koskinen
 ### Abstract

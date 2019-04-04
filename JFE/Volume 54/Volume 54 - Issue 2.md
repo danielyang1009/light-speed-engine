@@ -5,7 +5,7 @@
 ## 1. Commercial banks as underwriters: implications for the going public process
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Manju Puri
 ### Abstract
 Commercial bank entry into securities underwriting can affect underwriter behavior because, unlike investment houses, banks also lend to firms. This raises several issues. Are banks better certifiers of firms’ securities than investment houses? If banks hold equity in firms rather than debt, does this make certification more credible? Would one type of underwriter drive out the other? This paper provides a model for analyzing such issues, and derives several interesting results. First, banks, as lenders to firms, can actually be better certifiers than investment houses. Second, equity holding can hinder banks’ certification ability. Finally, banks and investment houses can co-exist.
@@ -15,7 +15,7 @@ Commercial bank entry into securities underwriting can affect underwriter behavi
 ## 2. Bank entry, competition, and the market for corporate securities underwriting
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Amar Gande
 - Manju Puri
 - Anthony Saunders
@@ -27,7 +27,7 @@ This paper examines the competitive effects of commercial bank entry into the co
 ## 3. An analysis of contagion and competitive effects at commercial banks
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Myron B. Slovin
 - Marie E. Sushka
 - John A. Polonchek
@@ -39,7 +39,7 @@ We examine whether an adverse event at one bank generates externalities for the 
 ## 4. Do foreign investors destabilize stock markets? The Korean experience in 1997
 ### Date
 - Oct 1999
-### Authors
+### Author
 - Hyuk Choe
 - Bong-Chan Kho
 - René M Stulz

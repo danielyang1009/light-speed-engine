@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Asset returns and inflation
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Eugene F. Fama
 - G.William Schwert
 ### Abstract
@@ -26,7 +26,7 @@ We estimate the extent to which various assets were hedges against the expected 
 ## 3. Determinants of corporate borrowing
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Stewart C. Myers
 ### Abstract
 Many corporate assets, particularly growth opportunities, can be viewed as call options. The value of such ‘real options’ depends on discretionary future investment by the firm. Issuing risky debt reduces the present market value of a firm holding real options by inducing a suboptimal investment strategy or by forcing the firm and its creditors to bear the costs of avoiding the suboptimal strategy. The paper predicts that corporate borrowing is inversely related to the proportion of market value accounted for by real options. It also rationalizes other aspects of corporate borrowing behavior, for example the practice of matching maturities of assets and debt liabilities.
@@ -36,7 +36,7 @@ Many corporate assets, particularly growth opportunities, can be viewed as call 
 ## 4. An equilibrium characterization of the term structure
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Oldrich Vasicek
 ### Abstract
 The paper derives a general form of the term structure of interest rates. The following assumptions are made: (A.1) The instantaneous (spot) interest rate follows a diffusion process; (A.2) the price of a discount bond depends only on the spot rate over its term; and (A.3) the market is efficient. Under these assumptions, it is shown by means of an arbitrage argument that the expected rate of return on any bond in excess of the spot rate is proportional to its standard deviation. This property is then used to derive a partial differential equation for bond prices. The solution to that equation is given in the form of a stochastic integral representation. An interpretation of the bond pricing formula is provided. The model is illustrated on a specific case.
@@ -46,7 +46,7 @@ The paper derives a general form of the term structure of interest rates. The fo
 ## 5. Capital market equilibrium in a mean-lower partial moment framework
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Vijay S. Bawa
 - Eric B. Lindenberg
 ### Abstract
@@ -57,7 +57,7 @@ In this paper, we develop a Capital Asset Pricing Model (CAPM) using a mean-lowe
 ## 6. Portfolio strategies and performance
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Ted Bloomfield
 - Richard Leftwich
 - John B. Long
@@ -69,7 +69,7 @@ The relative performance of several portfolio selection strategies is assessed e
 ## 7. Capital asset prices with heterogeneous beliefs
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Joseph T. Williams
 ### Abstract
 Assuming continuous trading in continuous time with Brownian motion processes, the basic capital asset pricing model of Sharpe, Lintner, and Mossin is developed under arbitrary distributions of investors' beliefs consistent with available information. Results on the processing of information are reported, and properties of investors' portfolios are derived.
@@ -79,7 +79,7 @@ Assuming continuous trading in continuous time with Brownian motion processes, t
 ## 8. On the pricing of contingent claims and the Modigliani-Miller theorem
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Robert C. Merton
 ### Abstract
 A general formula is derived for the price of a security whose value under specified conditions is a known function of the value of another security. Although the formula can be derived using the arbitrage technique of Black and Scholes, the alternative approach of continuous-time portfolio strategies is used instead. This alternative derivation allows the resolution of some controversies surrounding the Black and Scholes methodology. Specifically, it is demonstrated that the derived pricing formula must be continuous with continuous first derivatives, and that there is not a ‘pre-selection bias’ in the choice of independent variables used in the formula. Finally, the alternative derivation provides a direct proof of the Modigliani-Miller theorem even when there is a positive probability of bankruptcy.
@@ -89,7 +89,7 @@ A general formula is derived for the price of a security whose value under speci
 ## 9. An analytic valuation formula for unprotected American call options on stocks with known dividends
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Richard Roll
 ### Abstract
 Sometimes it pays to exercise an American-type call option prematurely, just prior to a cash emission by the underlying security. Such an option can be expressed as a combination of three European-type options whose valuation formulae are known.
@@ -99,7 +99,7 @@ Sometimes it pays to exercise an American-type call option prematurely, just pri
 ## 10. A note on qualitative results for investment proportions
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Andrew Rudd
 ### Abstract
 This note corrects recent results concerning qualitative portfolio composition in Roll's ‘Critique of Asset Pricing Theory Tests’.
@@ -109,7 +109,7 @@ This note corrects recent results concerning qualitative portfolio composition i
 ## 11. Comments on qualitative results for investment proportions
 ### Date
 - Nov 1977
-### Authors
+### Author
 - Richard Roll
 - Stephen A. Ross
 ### Abstract
@@ -120,7 +120,7 @@ Some mean/variance efficient portfolios will have positive investments in all in
 ## 12. Errata
 ### Date
 - Nov 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link

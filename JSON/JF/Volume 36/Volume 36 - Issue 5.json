@@ -1,0 +1,237 @@
+{
+    "journal": "JF",
+    "volume": "36",
+    "issue": "5",
+    "date": "December 1981",
+    "page": "Pages: i-vi, 997-1230, vii-xxxviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "December 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb00737.x"
+        },
+        {
+            "no": "2",
+            "title": "Estimating the Divisional Cost of Capital: An Analysis of the Pure\u2010Play Technique",
+            "date": "December 1981",
+            "author": [
+                "RUSSELL J. FULLER",
+                "HALBERT S. KERR"
+            ],
+            "abstract": "This paper suggests that the pure\u2010play technique can be used in conjunction with the capital asset pricing model to determine the cost of equity capital for the divisions of a multidivision firm. Since the beta for a division is unobservable in the marketplace, a proxy beta derived from a publicly traded firm whose operations are as similar as possible to the division in question is used as the measure of the division's systematic risk. To provide empirical support for using the pure\u2010play technique, a sample of multidivision firms and pure\u2010play associated with each division is examined. It is shown that an appropriately weighted average of the betas of the pure\u2010play firms closely approximates the beta of the multidivision firm.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01071.x"
+        },
+        {
+            "no": "3",
+            "title": "The Meaning of Internal Rates of Return",
+            "date": "December 1981",
+            "author": [
+                "ROBERT DORFMAN"
+            ],
+            "abstract": "Nearly one hundred years after Irving Fisher' persuasive argument that net present value is the fundamental criterion for appraising investment projects, businessmen and bankers continue to consider the internal rate of return. Business practice is justified in some circumstances. It has long been recognized that a firm will grow asymptotically at a rate equal to the largest real positive root of an individual project' rate of return equation if the net cash flows are continually reinvested in projects of the same type. That same root also controls the firm' asymptotic growth rate if any fixed proportion of the cash flows is reinvested. The other roots of the equation are important also, since the stability of the firm' growth path depends on them.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01072.x"
+        },
+        {
+            "no": "4",
+            "title": "Time Dominance Efficiency Analysis",
+            "date": "December 1981",
+            "author": [
+                "STEINAR EKERN"
+            ],
+            "abstract": "Building on the stochastic dominance framework, time dominance efficiency analysis provides similar rules for a partial ordering of temporal prospects. Time dominance does not require any quantitative information about temporal preferences for screening decision alternatives according to their net present values. A binary time dominance proposition extends recent sufficient conditions and adds necessity. The paper's main contribution is the development of set time dominance. By eliminating binary undominated projects which no one would choose, set time dominance minimizes time efficient sets without imposing further preference assumptions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01073.x"
+        },
+        {
+            "no": "5",
+            "title": "Forward and Futures Prices: Evidence from the Foreign Exchange Markets",
+            "date": "December 1981",
+            "author": [
+                "BRADFORD CORNELL",
+                "MARC R. REINGANUM"
+            ],
+            "abstract": "Empirical studies of the Treasury Bill markets have revealed substantial differences between the futures price and the implied forward price. These differences have been attributed to taxes, transaction costs, and the settling up procedure employed in the futures market. This paper examines the forward and futures prices in foreign exchange in an attempt to distinguish between the competing explanations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01074.x"
+        },
+        {
+            "no": "6",
+            "title": "Estimating the Information Value of Immediate Disclosure of the FOMC Policy Directive",
+            "date": "December 1981",
+            "author": [
+                "JAMES M. O'BRIEN"
+            ],
+            "abstract": "This paper studies the information value of immediate disclosure of the FOMC policy directive. The value of disclosure is measured by its ability to reduce investors' expected uncertainty about futures interest rates where uncertainty is defined as the conditional variance of forecast errors. Analytical relationships between new information and the conditional variance of forecast errors are developed and the relation of the \u201cuncertainty\u2010reducing\u201d value of information to its social value, as defined in recent literature, is indicated. In the empirical work, forward interest rates are treated as reflecting market expectations conditioned on existing information. The empirical tests indicate that information in the undisclosed, prevailing policy directives (1974\u201379) were able to make only a very marginal improvement in the predictive accuracy of forecasts relying only on the forward rates. Thus, the hypothesis that immediate disclosure has a significant information value to market participants is not supported.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01075.x"
+        },
+        {
+            "no": "7",
+            "title": "Market Response to the Weekly Money Supply Announcements in the 1970s",
+            "date": "December 1981",
+            "author": [
+                "THOMAS URICH",
+                "PAUL WACHTEL"
+            ],
+            "abstract": "The hypothesis that the weekly announcement of the money supply affects interest rates is examined. The announcement effect is interpreted as a policy anticipation effect. That is, an unanticipated increase in the money supply leads to an increase in interest rates in anticipation of future tightening by the Federal Reserve. Estimates of this effect with proxies for the unanticipated change constructed from a survey of money supply forecasts and an ARIMA model indicate that: (a) financial markets respond very quickly to the announcement; and (b) the response was largest when policymakers emphasized the importance of the monetary aggregates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01076.x"
+        },
+        {
+            "no": "8",
+            "title": "Bank Reserves and Financial Stability",
+            "date": "December 1981",
+            "author": [
+                "JEREMY J. SIEGEL"
+            ],
+            "abstract": "A stochastic financial model is developed which derives the reserve levels on financial assets which minimize price level fluctuations. It is shown that these levels of reserves are a function of the structure of unanticipated shocks to asset demands and are, in general, quite different from the levels which minimize the fluctuations of either the nominal or real value of these assets. Application of the model to currency and demand deposits in the U.S.A. suggest that the price\u2010Stablizing reserve ratio on demand deposits is approximately one\u2010half of the 12% currently mandated by the Monetary Control Act of 1980.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01077.x"
+        },
+        {
+            "no": "9",
+            "title": "Market Interest Rates and Commercial Bank Profitability: An Empirical Investigation",
+            "date": "December 1981",
+            "author": [
+                "MARK J. FLANNERY"
+            ],
+            "abstract": "The widespread notion that commercial banks \u201cborrow short and lend long\u201d implies that sharp market interest rate increases may induce a significant number of banking failures. This paper develops a method for estimating average asset and liability maturities for a sample of large money center banks. Regression models are tested to determine if market rate fluctuations have a significant impact on bank profitability. The conclusion is negative: large banks have effectively hedged themselves against market rate risk by assembling asset and liability portfolios with similar average maturities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01078.x"
+        },
+        {
+            "no": "10",
+            "title": "The Determinants of the Treasury Security Yield Curve",
+            "date": "December 1981",
+            "author": [
+                "V. VANCE ROLEY"
+            ],
+            "abstract": "Investors' security demands and two points on the yield curve are jointly determined using a disaggregated structural model of the U.S. Treasury securities market. The empirical results indicate that the structural model is capable of accurately explaining Treasury yields and that changes in a variety of nonyield variables affect the yield curve. Among these nonyield variables are Treasury security supplies, which are found to have significant but somewhat volatile impacts depending on investors' wealth flows. The within\u2010sample predictions from the structural model are also compared to those of a naive model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01079.x"
+        },
+        {
+            "no": "11",
+            "title": "The Effect of Taxation on Immunization Rules and Duration Estimation",
+            "date": "December 1981",
+            "author": [
+                "CHRISTOPHER A. HESSEL",
+                "LUCY HUFFMAN"
+            ],
+            "abstract": "Investments in default\u2010free bonds can be insulated from financial loss due to interest rate changes (via additive shock) by a process known as immunization. The literature on this process ignores taxes. This manuscript focuses on three issues. The first is the development of the tax\u2010adjusted immunization process with a comparison to the existing literature. The second issue is the microeconomic effect of a shift in only the individual's tax rates on immunization and investment behavior. The third issue is the macroeconomic effect of an across\u2010the\u2010board shift in tax rates on immunization and investment behavior.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01080.x"
+        },
+        {
+            "no": "12",
+            "title": "On Diversification Given Asymmetry in Returns",
+            "date": "December 1981",
+            "author": [
+                "THOMAS E. CONINE Jr.",
+                "MAURRY J. TAMARKIN"
+            ],
+            "abstract": "Complete diversification is the rational investment strategy for a risk averse individual in a homogeneous securities market who considers only the first two moments of return. Observed behavior of market participants, however, demonstrates that the majority of individual investors hold imperfectly diversified portfolios.\nThe purpose of the present study is to examine one potential cause for this behavior which does not rely on imperfection in the capital market. Specifically, we show that given the existence of, and investor preference for, positive skewness, a rational investor may hold an optimal limited number of homogeneous risk assets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01081.x"
+        },
+        {
+            "no": "13",
+            "title": "The Economic Impact of the Federal Credit Union Usury Ceiling",
+            "date": "December 1981",
+            "author": [
+                "JOHN D. WOLKEN",
+                "FRANK J. NAVRATIL"
+            ],
+            "abstract": "This study measures the impact of the Federal credit union usury ceiling on consumer credit availability and loan rates. When binding, the ceiling keeps loan rates low, but it reduces credit union lending. There is also evidence that a binding loan rate ceiling affects the competitiveness of credit unions in the market for deposits. Although the Federal Credit Union Act specifically mandates federally chartered credit unions to be a source of low cost consumer credit and to promote thriftiness, it is not at all clear that the intent of the Act is served by a binding usury ceiling.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01082.x"
+        },
+        {
+            "no": "14",
+            "title": "A Note on Taxes and the Pricing of Treasury Bill Futures Contracts",
+            "date": "December 1981",
+            "author": [
+                "BRADFORD CORNELL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01083.x"
+        },
+        {
+            "no": "15",
+            "title": "One Way Arbitrage, Foreign Exchange and Securities Markets: A Note",
+            "date": "December 1981",
+            "author": [
+                "PHILIPPE CALLIER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01084.x"
+        },
+        {
+            "no": "16",
+            "title": "The Pricing of Corporate Debt: A Note",
+            "date": "December 1981",
+            "author": [
+                "C. JEVONS LEE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01085.x"
+        },
+        {
+            "no": "17",
+            "title": "Potential Corporate Takeovers and Market Efficiency: A Note",
+            "date": "December 1981",
+            "author": [
+                "GERALD P. MADDEN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01086.x"
+        },
+        {
+            "no": "18",
+            "title": "Flotation Cost Allowance in Rate of Return Regulation: A Note",
+            "date": "December 1981",
+            "author": [
+                "ENRIQUE R. ARZAC",
+                "MATITYAHU MARCUS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01087.x"
+        },
+        {
+            "no": "19",
+            "title": "An Examination of the Relationship between Pure Residual and Market Risk: A Note",
+            "date": "December 1981",
+            "author": [
+                "SON\u2010NAN CHEN",
+                "ARTHUR J. KEOWN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01088.x"
+        },
+        {
+            "no": "20",
+            "title": "Book Reviews",
+            "date": "December 1981",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nCases in Financial Management. By JERRY A. VISCIONE and GEORGE A. ARAGON. Boston: Houghton Mifflin Company, 1980.\nTransnational Mergers and Acquisitions in the United States. By SARKIS KHOURY. Lexington\nMoney and Banking in Contemporary Japan. By YOSHIO SUZUKI (translated by John Greenwood).\nDomestic and Multinational Banking. By RAE WESTON.\nFinancial Instruments Markets: Cash\u2010Futures Relationships.\nModern Real Estate. By ALVIN L. ARNOLD, CHARLES H. WURTZEBACH, and MIKE E. MILES.\nPersonal Estate Planning. By MARCOS E. KINEVAN.\nContemporary Personal Finance. By DANIEL A. McGOWAN.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01089.x"
+        },
+        {
+            "no": "21",
+            "title": "Miscellanea",
+            "date": "December 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb01090.x"
+        },
+        {
+            "no": "22",
+            "title": "INDEX TO VOLUME XXXVI",
+            "date": "December 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb00736.x"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "December 1981",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1981.tb00738.x"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "journal": "RFS",
+    "volume": "27",
+    "issue": "10",
+    "date": "October 2014",
+    "page": "Pages 2841\u20133097",
+    "article": [
+        {
+            "no": "1",
+            "title": "Tail Risk and Asset Prices",
+            "date": "16 June 2014",
+            "author": [
+                "Bryan Kelly",
+                "Hao Jiang"
+            ],
+            "abstract": "We propose a new measure of time-varying tail risk that is directly estimable from the cross-section of returns. We exploit firm-level price crashes every month to identify common fluctuations in tail risk among individual stocks. Our tail measure is significantly correlated with tail risk measures extracted from S&P 500 index options and negatively predicts real economic activity. We show that tail risk has strong predictive power for aggregate market returns. Cross-sectionally, stocks with high loadings on past tail risk earn an annual three-factor alpha 5.4% higher than stocks with low tail risk loadings. We explore potential mechanisms giving rise to these asset pricing facts.",
+            "link": "https://doi.org/10.1093/rfs/hhu039"
+        },
+        {
+            "no": "2",
+            "title": "Complex Securities and Underwriter Reputation: Do Reputable Underwriters Produce Better Securities?",
+            "date": "07 May 2014",
+            "author": [
+                "John Griffin",
+                "Richard Lowery",
+                "Alessio Saretto"
+            ],
+            "abstract": "Conventional wisdom suggests that high-reputation banks will generally produce good securities to maintain their long-run reputation. We show with a simple model that, when securities are complex a high-reputation bank may produce assets that underperform during market downturns. We examine this possibility using a unique sample of $10.1 trillion of CLO, MBS, ABS, and CDOs. Contrary to the conventional view, securities issued by more reputable banks did not outperform but, rather, had higher proportions of capital in default.",
+            "link": "https://doi.org/10.1093/rfs/hhu030"
+        },
+        {
+            "no": "3",
+            "title": "Does the Tail Wag the Dog?: The Effect of Credit Default Swaps on Credit Risk",
+            "date": "17 July 2014",
+            "author": [
+                "Marti G. Subrahmanyam",
+                "Dragon Yongjun Tang",
+                "Sarah Qian Wang"
+            ],
+            "abstract": "We use credit default swaps (CDS) trading data to demonstrate that the credit risk of reference firms, reflected in rating downgrades and bankruptcies, increases significantly upon the inception of CDS trading, a finding that is robust after controlling for the endogeneity of CDS trading. Additionally, distressed firms are more likely to file for bankruptcy if they are linked to CDS trading. Furthermore, firms with more \u201cno restructuring\u201d contracts than other types of CDS contracts (i.e., contracts that include restructuring) are more adversely affected by CDS trading, and the number of creditors increases after CDS trading begins, exacerbating creditor coordination failure in the resolution of financial distress.",
+            "link": "https://doi.org/10.1093/rfs/hhu038"
+        },
+        {
+            "no": "4",
+            "title": "Collateral-Motivated Financial Innovation",
+            "date": "28 May 2014",
+            "author": [
+                "Ji Shen",
+                "Hongjun Yan",
+                "Jinfan Zhang"
+            ],
+            "abstract": "Collateral frictions have a profound effect on our economic landscape, ranging from the design of financial securities, laws, and institutions, to various rules and regulations. We analyze a model with disagreement, where securities and collateral requirements are endogenous. It shows that the security that isolates the variable with disagreement is \u201coptimal\u201d in the sense that alternative securities cannot generate any trading. In an economy with N states, investors may introduce more than N securities, and markets are still incomplete. The model has several novel predictions on the behavior of basis\u2014the spread between the prices of an asset and its replicating portfolio.",
+            "link": "https://doi.org/10.1093/rfs/hhu036"
+        },
+        {
+            "no": "5",
+            "title": "Learning from Stock Prices and Economic Growth",
+            "date": "08 April 2014",
+            "author": [
+                "Joel Peress"
+            ],
+            "abstract": "A competitive stock market is embedded into a neoclassical growth economy to analyze the interplay between the acquisition of information about firms, its partial revelation through stock prices, capital allocation, and income. The stock market allows investors to share their costly private signals in a cost-effective incentive-compatible way. It contributes to economic growth by raising total factor productivity (TFP). A calibration indicates the effect on TFP to be large but that on income to be modest. Several predictions on the evolution of real and financial variables are derived. Finally, the growth impact of two common forms of investor irrationality, overconfidence and inattention, are analyzed.",
+            "link": "https://doi.org/10.1093/rfs/hhu021"
+        },
+        {
+            "no": "6",
+            "title": "Ambiguity Aversion and Asset Prices in Production Economies",
+            "date": "04 June 2014",
+            "author": [
+                "Mohammad R. Jahan-Parvar",
+                "Hening Liu"
+            ],
+            "abstract": "We examine a production-based asset-pricing model with an unobservable mean growth rate following a two-state Markov chain and with an ambiguity-averse representative agent. Our model requires a low coefficient of relative risk aversion to produce: (i) a high equity premium and volatile equity returns, (ii) a low and smooth risk-free rate, (iii) smooth consumption growth and volatile investment growth, (iv) countercyclical equity premium and market price of risk, (v) conditional heteroscedasticity in returns, and (vi) long-horizon predictability of excess returns.",
+            "link": "https://doi.org/10.1093/rfs/hhu037"
+        },
+        {
+            "no": "7",
+            "title": "Cover",
+            "date": "30 August 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht084"
+        },
+        {
+            "no": "8",
+            "title": "Editorial Board",
+            "date": "30 August 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht096"
+        },
+        {
+            "no": "9",
+            "title": "Forthcoming Articles",
+            "date": "30 August 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht108"
+        },
+        {
+            "no": "10",
+            "title": "Volume 27 Number 10 October 2014\nThe Review of Financial Studies - Table of Contents",
+            "date": "30 August 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht120"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Law, endowments, and finance
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Thorsten Beck
 - Asli Demirgüç-Kunt
 - Ross Levine
@@ -26,7 +26,7 @@ Using a sample of 70 former colonies, this paper assesses two theories regarding
 ## 3. China share issue privatization: the extent of its success
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Qian Sun
 - Wilson H.S Tong
 ### Abstract
@@ -37,7 +37,7 @@ We evaluate the performance changes of 634 state-owned enterprises (SOEs) listed
 ## 4. Stock price reaction to news and no-news: drift and reversal after headlines
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Wesley S. Chan
 ### Abstract
 Using a comprehensive database of headlines about individual companies, I examine monthly returns following public news. I compare them to stocks with similar returns, but no identifiable public news. There is a difference between the two sets. I find strong drift after bad news. Investors seem to react slowly to this information. I also find reversal after extreme price movements unaccompanied by public news. The separate patterns appear even after adjustments for risk exposure and other effects. They are, however, mainly seen in smaller, more illiquid stocks. These findings support some integrated theories of investor over- and underreaction.
@@ -47,7 +47,7 @@ Using a comprehensive database of headlines about individual companies, I examin
 ## 5. The maturity of debt issues and predictable variation in bond returns
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Malcolm Baker
 - Robin Greenwood
 - Jeffrey Wurgler

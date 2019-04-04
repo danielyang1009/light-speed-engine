@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Price pressures
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Terrence Hendershott
 - Albert J. Menkveld
 ### Abstract
@@ -25,7 +25,7 @@ We study price pressures, i.e., deviations from the efficient price due to risk-
 ## 3. Refinancing, profitability, and capital structure
 ### Date
 - Jul 2014
-### Authors
+### Author
 - András Danis
 - Daniel A. Rettl
 - Toni M. Whited
@@ -37,7 +37,7 @@ We revisit the well-established puzzle that leverage is negatively correlated wi
 ## 4. Preemptive bidding, target resistance, and takeover premiums
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Theodosios Dimopoulos
 - Stefano Sacchetto
 ### Abstract
@@ -48,7 +48,7 @@ We evaluate empirically two sources of large takeover premiums: preemptive biddi
 ## 5. CEO deal-making activities and compensation
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Eliezer M. Fich
 - Laura T. Starks
 - Adam S. Yore
@@ -60,7 +60,7 @@ Using transactions generally overlooked in the compensation literature—joint v
 ## 6. Fails-to-deliver, short selling, and market quality
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Veljko Fotak
 - Vikas Raman
 - Pradeep K. Yadav
@@ -72,7 +72,7 @@ We investigate the aggregate market quality impact of equity shares that fail to
 ## 7. Forecasting stock returns under economic constraints
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Davide Pettenuzzo
 - Allan Timmermann
 - Rossen Valkanov
@@ -84,7 +84,7 @@ We propose a new approach to imposing economic constraints on time series foreca
 ## 8. The euro and corporate financing before the crisis
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Arturo Bris
 - Yrjö Koskinen
 - Mattias Nilsson
@@ -96,7 +96,7 @@ We study the financing policies of European public corporations prior to the eur
 ## 9. Fact or friction: Jumps at ultra high frequency
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Kim Christensen
 - Roel C.A. Oomen
 - Mark Podolskij
@@ -108,7 +108,7 @@ This paper shows that jumps in financial asset prices are often erroneously iden
 ## 10. Advancing the universality of quadrature methods to any underlying process for option pricing
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Ding Chen
 - Hannu J. Härkönen
 - David P. Newton
@@ -120,7 +120,7 @@ Exceptional accuracy and speed for option pricing are available via quadrature (
 ## 11. The long of it: Odds that investor sentiment spuriously predicts anomaly returns
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Robert F. Stambaugh
 - Jianfeng Yu
 - Yu Yuan

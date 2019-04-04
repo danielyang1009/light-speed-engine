@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 1984
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Mar 1984
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -28,7 +28,7 @@
 ## 3. On interpreting security returns during the ex-dividend period
 ### Date
 - Mar 1984
-### Authors
+### Author
 - Kenneth M. Eades
 - Patrick J. Hess
 - E.Han Kim
@@ -40,7 +40,7 @@ In this paper we examine the ex-dividend day returns of several taxable and non-
 ## 4. Wealth redistributions or changes in firm value
 ### Date
 - Mar 1984
-### Authors
+### Author
 - George Handjinicolaou
 - Avner Kalay
 ### Abstract
@@ -51,7 +51,7 @@ Past studies indicate that stock prices are affected by announcements of unexpec
 ## 5. Optimal stock trading with personal taxes
 ### Date
 - Mar 1984
-### Authors
+### Author
 - George M. Constantinides
 ### Abstract
 The tax law confers upon the investor a timing option - to realize capital losses and defer capital gains. With the tax rate on long term gains and losses being about half the short term rate, the law provides a second timing option - to realize losses short term and gains long term, if at all. Our theory and simulation over the 1962–1977 period establish that taxable investors should realize long term gains in high variance stocks and repurchase stock in order to realize potential future losses short term. Tax trading does not explain the small-firm anomaly but predicts a seasonal pattern in trading volume which maps into a seasonal pattern in stock prices, the January anomaly, only if investors are irrational or ignorant of the price seasonality.
@@ -61,7 +61,7 @@ The tax law confers upon the investor a timing option - to realize capital losse
 ## 6. Option arbitrage and strategy with large price changes
 ### Date
 - Mar 1984
-### Authors
+### Author
 - E.Philip Jones
 ### Abstract
 Arbitrage pricing theorems are derived for options on stocks with jumps as a well as local movements. The resulting valuation formulas depend on observable variables only. Closed-form valuation expressions are obtained in the case of large positive and negative jumps. These results translate into a simple algebra for characterizing the risk of arbitrage and investment portfolios. A continuous-time formulation of the infinite variance hypothesis leads to isomorphic pricing expressions.
@@ -71,7 +71,7 @@ Arbitrage pricing theorems are derived for options on stocks with jumps as a wel
 ## 7. Investment incentives, debt, and warrants
 ### Date
 - Mar 1984
-### Authors
+### Author
 - Richard C. Green
 ### Abstract
 This paper models and characterizes investment incentive problems associated with debt financing. The decision problem of residual claimants is explicity formulated and their investment policies are characterized. The paper also analyzes the use of conversion features and warrants to control distortionary incentives. These claims reverse the convex shape of levered equity over the upper range of the firm's earnings, and this mitigates the incentive to take risk. It is shown that, under certain conditions, such claims can be constructed to restore net present value maximizing incentives and simultaneously meet the financing requirements of the firm.
@@ -81,7 +81,7 @@ This paper models and characterizes investment incentive problems associated wit
 ## 8. The effect of capital structure on a firm's liquidation decision
 ### Date
 - Mar 1984
-### Authors
+### Author
 - Sheridan Titman
 ### Abstract
 A firm's liquidation can impose costs on its customers, workers, and suppliers. An agency relationship between these individuals and the firm exists in that the liquidation decision controlled by the firm (as the agent) affects other individuals (the customers, workers, and suppliers as principals). The analysis in this paper suggests that capital structure can control the incentive/conflict problem of this relationship by serving as a pre-positioning or bonding mechanism. Appropriate selection of capital structure assures that incentives are aligned so that the firm implements the ex-ante value-maximizing liquidation policy.
@@ -91,7 +91,7 @@ A firm's liquidation can impose costs on its customers, workers, and suppliers. 
 ## 9. News item
 ### Date
 - Mar 1984
-### Authors
+### Author
 ### Abstract
 
 ### Link

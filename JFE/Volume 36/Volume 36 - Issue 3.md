@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1994
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. The collapse of First Executive Corporation junk bonds, adverse publicity, and the ‘run on the bank’ phenomenon
 ### Date
 - Dec 1994
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Stuart C Gilson
@@ -33,7 +33,7 @@ In April 1991, regulators seized the major subsidiaries of First Executive Corpo
 ## 3. What do firms do with cash windfalls?
 ### Date
 - Dec 1994
-### Authors
+### Author
 - Olivier Jean Blanchard
 - Florencio Lopez-de-Silanes
 - Andrei Shleifer
@@ -45,7 +45,7 @@ Suppose that a firm receives a cash windfall which does not change its investmen
 ## 4. Cash flow variability and firm's pension choice
 ### Date
 - Dec 1994
-### Authors
+### Author
 - Mitchell A Peterson
 ### Abstract
 When financial markets are imperfect or financial distress is costly, firms may choose to reduce their risk by lowering financial or operating leverage. This paper examinines the role of operating leverage in the firm's pension choice. Contributions to defined contribution plans are more flexible than contributions to defined benefit plans. Firms may therefore reduce their operating leverage by selecting a defined contribution plan. I find empirical support for this hypothesis which is robust to controls for labor market factors and the continuing trend toward defined contribution pension plans.
@@ -55,7 +55,7 @@ When financial markets are imperfect or financial distress is costly, firms may 
 ## 5. Editorial collaborators volumes 35 and 36
 ### Date
 - Dec 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -64,7 +64,7 @@ When financial markets are imperfect or financial distress is costly, firms may 
 ## 6. 5th international workshop on parallel applications in statistics and economics ånonlinear data analysis«
 ### Date
 - Dec 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -73,7 +73,7 @@ When financial markets are imperfect or financial distress is costly, firms may 
 ## 7. Index
 ### Date
 - Dec 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link

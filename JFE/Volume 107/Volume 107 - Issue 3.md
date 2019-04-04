@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Securitization without risk transfer
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Viral V. Acharya
 - Philipp Schnabl
 - Gustavo Suarez
@@ -26,7 +26,7 @@ We analyze asset-backed commercial paper conduits, which experienced a shadow-ba
 ## 3. The “out-of-sample” performance of long run risk models
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Wayne Ferson
 - Suresh Nallareddy
 - Biqin Xie
@@ -38,7 +38,7 @@ This paper studies the ability of long-run risk models to explain out-of-sample 
 ## 4. Inventory investment and the cost of capital
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Christopher S. Jones
 - Selale Tuzel
 ### Abstract
@@ -49,7 +49,7 @@ We examine the relation between inventory investment and the cost of capital in 
 ## 5. Probability weighting functions implied in options prices
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Valery Polkovnichenko
 - Feng Zhao
 ### Abstract
@@ -60,7 +60,7 @@ The empirical pricing kernels estimated from index options are non-monotone (Ros
 ## 6. The costs of shareholder activism: Evidence from a sequential decision model
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Nickolay Gantchev
 ### Abstract
 This paper provides benchmarks for monitoring costs and evaluates the net returns to shareholder activism. I model activism as a sequential decision process consisting of demand negotiations, board representation, and proxy contest and estimate the costs of each activism stage. A campaign ending in a proxy fight has average costs of $10.71 million. I find that the estimated monitoring costs reduce activist returns by more than two-thirds. The mean net activist return is close to zero but the top quartile of activists earns higher returns on their activist holdings than on their non-activist investments. The large-sample evidence presented in this paper aids in understanding the nature and evolution of activist engagements.
@@ -70,7 +70,7 @@ This paper provides benchmarks for monitoring costs and evaluates the net return
 ## 7. Innovative efficiency and stock returns
 ### Date
 - Sep 2012
-### Authors
+### Author
 - David Hirshleifer
 - Po-Hsuan Hsu
 - Dongmei Li
@@ -82,7 +82,7 @@ We find that innovative efficiency (IE), patents or citations scaled by research
 ## 8. Strategic alliances, venture capital, and exit decisions in early stage high-tech firms
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Umit Ozmel
 - David T. Robinson
 - Toby E. Stuart
@@ -94,7 +94,7 @@ We study the trade-offs that biotech start-ups face in the private equity market
 ## 9. Alliances and corporate governance
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Andriy Bodnaruk
 - Massimo Massa
 - Andrei Simonov
@@ -106,7 +106,7 @@ We study the link between a firm's quality of governance and its alliance activi
 ## 10. The inefficiency of refinancing: Why prepayment penalties are good for risky borrowers
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Chris Mayer
 - Tomasz Piskorski
 - Alexei Tchistyi
@@ -118,7 +118,7 @@ This paper provides a theoretical analysis of the efficiency of prepayment penal
 ## 11. Prospect theory, the disposition effect, and asset prices
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Yan Li
 - Liyan Yang
 ### Abstract
@@ -129,7 +129,7 @@ We build a general equilibrium model to examine the implications of prospect the
 ## 12. Inequality, stock market participation, and the equity premium
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Jack Favilukis
 ### Abstract
 The last 30 years saw substantial increases in wealth inequality and stock market participation, smaller increases in consumption inequality and the fraction of indebted households, a decline in interest rates and the expected equity premium, as well as a prolonged stock market boom. In an incomplete markets, overlapping generations model I jointly explain these trends by the observed rise in wage inequality, decrease in participation costs, and loosening of borrowing constraints. After accounting for these changes, I show that the stock market played a major role in increasing wealth inequality. Crucially, these phenomena must be considered jointly; studying one independently leads to counterfactual predictions about others.
@@ -139,7 +139,7 @@ The last 30 years saw substantial increases in wealth inequality and stock marke
 ## 13. Political activism, information costs, and stock market participation
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Yosef Bonaparte
 - Alok Kumar
 ### Abstract

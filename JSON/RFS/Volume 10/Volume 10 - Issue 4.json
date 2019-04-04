@@ -1,0 +1,121 @@
+{
+    "journal": "RFS",
+    "volume": "10",
+    "issue": "4",
+    "date": "October 1997",
+    "page": "Pages 903\u20131236",
+    "article": [
+        {
+            "no": "1",
+            "title": "Trade Credit and Credit Rationing",
+            "date": "04 June 2015",
+            "author": [
+                "Bruno Biais",
+                "Christian Gollier"
+            ],
+            "abstract": "Asymmetric information between banks and firms can preclude financing of valuable projects. Trade credit can alleviate this problem by incorporating in the lending relation the private information held by suppliers about their customers. Incentive compatibility conditions prevent collusion between two of the agents (e.g., the buyer and the seller) against the third (e.g., the bank). Consistent with the empirical findings of Petersen and Rajan (1995), firms without relationships with banks resort more to trade credit, and sellers with greater ability to generate cash flows provide more trade credit. Finally small firms react to monetary contractions by using trade credit, consistent with the empirical results of Nilsen (1994).",
+            "link": "https://doi.org/10.1093/rfs/10.4.903"
+        },
+        {
+            "no": "2",
+            "title": "Boom and Bust Patterns in the Adoption of Financial Innovations",
+            "date": "04 June 2015",
+            "author": [
+                "John C. Persons",
+                "Vincent A. Warther"
+            ],
+            "abstract": "We develop a dynamic model of the adoption of financial innovations. Each period, firms decide whether or not to adopt an innovation of uncertain value, and the profitability of each period\u2019s adoptions reveals information about the innovation\u2019s value. We show that characteristics of financial innovation waves cited by critics as evidence of irrational excess are, in fact, consistent with fully rational behavior. We also show that social welfare is enhanced when more firms adopt innovations of questionable value and that financial intermediaries have an incentive to encourage such adoption.",
+            "link": "https://doi.org/10.1093/rfs/10.4.939"
+        },
+        {
+            "no": "3",
+            "title": "Do Competing Specialists and Preferencing Dealers Affect Market Quality?",
+            "date": "04 June 2015",
+            "author": [
+                "Robert Battalio",
+                "Jason Greene",
+                "Robert Jennings"
+            ],
+            "abstract": "We empirically demonstrate that the opportunities the Boston Stock Exchange and the Cincinnati Stock Exchange offer members to take the other side of their customers\u2019 orders through affiliated market makers (to internalize orders) have little short-run effect on posted or effective bid-ask spreads. This is true despite substantial movement of order flow away from the New York Stock Exchange when trading under one of these regional stock exchange programs begins. These results contrast with the adverse effects of market fragmentation and internalization predicted by some theoretical market microstructure analyses and the popular financial press.",
+            "link": "https://doi.org/10.1093/rfs/10.4.969"
+        },
+        {
+            "no": "4",
+            "title": "The Components of the Bid-Ask Spread: A General Approach",
+            "date": "04 June 2015",
+            "author": [
+                "Roger D. Huang",
+                "Hans R. Stoll"
+            ],
+            "abstract": "A simple time-series market microstructure model is constructed within which existing models of spread components are reconciled. We show that existing models fail to decompose the spread into all its components. Two alternative extensions of the simple model are developed to identify all the components of the spread and to estimate the spread at which trades occur. The empirical results support the presence of a large order processing component and smaller, albeit significant, adverse selection and inventory components. The spread components differ significantly according to trade size and are also sensitive to assumptions about the relation between orders and trades.",
+            "link": "https://doi.org/10.1093/rfs/10.4.995"
+        },
+        {
+            "no": "5",
+            "title": "Why Do Security Prices Change? A Transaction-Level Analysis of NYSE Stocks",
+            "date": "04 June 2015",
+            "author": [
+                "Ananth Madhavan",
+                "Matthew Richardson",
+                "Mark Roomans"
+            ],
+            "abstract": "This article develops and tests a structural model of intraday price formation that embodies public information shocks and microstructure effects. We use the model to analyze intraday patterns in bid-ask spreads, price volatility, transaction costs, and return and quote auto-correlations, and to construct metrics for price discovery and effective trading costs. Information asymmetry and uncertainty over fundamentals decrease over the day, although transaction costs increase. The results help explain the U-shaped pattern in intraday bid-ask spreads and volatility, and are also consistent with the intra-day decline in the variance of ask price changes.",
+            "link": "https://doi.org/10.1093/rfs/10.4.1035"
+        },
+        {
+            "no": "6",
+            "title": "Communication Costs, Information Acquisition, and Voting Decisions in Proxy Contests",
+            "date": "04 June 2015",
+            "author": [
+                "Utpal Bhattacharya"
+            ],
+            "abstract": "This article synthesizes some recent progress in the theories of corporate control and political lobbying to model the proxy campaign as a political campaign. The model yields a number of testable implications, only some of which have been examined in the literature. For example, if the loss from voting for a \u201cbad\u201d dissident exceeds the gain from voting for a \u201cgood\u201d dissident, the model predicts that as communication costs fall, the number of proxy fights increases, announcement day returns decrease, and the fraction of dissident wins first increases and then decreases.",
+            "link": "https://doi.org/10.1093/rfs/10.4.1065"
+        },
+        {
+            "no": "7",
+            "title": "Banking Scope and Financial Innovation",
+            "date": "04 June 2015",
+            "author": [
+                "Arnoud W.A. Boot",
+                "Anjan V. Thakor"
+            ],
+            "abstract": "We explore the implications of financial system design for financial innovation. We begin with assumptions about the investment opportunities of firms, their observable attributes, and the roles of commercial banks, investment banks, and the financial market. We examine the borrower\u2019s choice between bank and financial market funding, the commercial bank\u2019s choice of monitoring capacity, and the investment bank\u2019s choice of whether to invest in financial innovation. Our main result is that financial innovation in a universal banking system is stochastically lower than innovation in a financial system in which commercial and investment banks are functionally separated.",
+            "link": "https://doi.org/10.1093/rfs/10.4.1099"
+        },
+        {
+            "no": "8",
+            "title": "Equilibrium Asset Prices and No-Arbitrage with Portfolio Constraints",
+            "date": "04 June 2015",
+            "author": [
+                "Jerome Detemple",
+                "Shashidhar Murthy"
+            ],
+            "abstract": "We examine intertemporal asset pricing when short sales are constrained in proportion to the value of an investor\u2019s portfolio. All assets\u2019 prices exceed every investor\u2019s marginal utility of consumption-based valuation of the associated dividends if every investor finds himself constrained in some asset in some state; we exhibit such an equilibrium. An asset\u2019s price decomposes into three (investor-specific) components: the consumption value of its dividends, a speculative value premium, and a collateral value premium. The validity of the no-arbitrage pricing approach is shown to depend critically on the difference between real securities and their synthetic counterparts.",
+            "link": "https://doi.org/10.1093/rfs/10.4.1133"
+        },
+        {
+            "no": "9",
+            "title": "Bank Underwriting of Debt Securities: Modern Evidence",
+            "date": "04 June 2015",
+            "author": [
+                "Amar Gande",
+                "Manju Puri",
+                "Anthony Saunders",
+                "Ingo Walter"
+            ],
+            "abstract": "This article examines debt securities underwritten by Section 20 subsidiaries of bank holding companies relative to those underwritten by investment houses. Consistent with a net certification effect for banks, bank underwriting of lower credit rated firms to whom the bank lends results in relatively higher prices (lower yields). We find no evidence of conflicts of interest even when an issue is used to repay bank debt. Further, banks bring a relatively larger proportion of small issues to the market. Contrary to the contention that universal banking stunts availability of finance to small firms, bank underwritings appear to benefit small firms.",
+            "link": "https://doi.org/10.1093/rfs/10.4.1175"
+        },
+        {
+            "no": "10",
+            "title": "Why Is Bank Debt Senior? A Theory of Asymmetry and Claim Priority Based on Influence Costs",
+            "date": "04 June 2015",
+            "author": [
+                "Ivo Welch"
+            ],
+            "abstract": "This theory can explain why bank debt is universally senior, consistent with the presence of conflict (lawyers) and absolute priority violations in financial distress: Better organized banks would more strongly contest priority in financial distress if they were junior. Because \u201cdeterrence\u201d can reduce creditors\u2019 total expenses in a priority contest, the ex post stronger lobbyist/litigant should be senior ex ante. For equivalent reasons, the theory can advise when public debt should be senior to trade credit and/or implicit contracts, and can even suggest one rationale for the absolute priority rule (APR). This article further shows that Chapter 11 creditor reimbursement procedures can lower overall costs.",
+            "link": "https://doi.org/10.1093/rfs/10.4.1203"
+        }
+    ]
+}

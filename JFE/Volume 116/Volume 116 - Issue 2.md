@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Liquid-claim production, risk management, and bank capital structure: Why high leverage is optimal for banks
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Harry DeAngelo
 - René M. Stulz
 ### Abstract
@@ -25,7 +25,7 @@ Liquidity production is a central function of banks. High leverage is optimal fo
 ## 3. Central clearing and collateral demand
 ### Date
 - Dec 2014
-### Authors
+### Author
 - Darrell Duffie
 - Martin Scheicher
 - Guillaume Vuillemey
@@ -37,7 +37,7 @@ We use an extensive data set of bilateral credit default swap (CDS) positions to
 ## 4. High frequency market microstructure
 ### Date
 - Jan 2015
-### Authors
+### Author
 - Maureen O’Hara
 ### Abstract
 Markets are different now, transformed by technology and high frequency trading. In this paper, I investigate the implications of these changes for high frequency market microstructure (HFT). I describe the new high frequency world, with a particular focus on how HFT affects the strategies of traders and markets. I discuss some of the gaps that arise when thinking about microstructure research issues in the high frequency world. I suggest that, like everything else in the markets, research must also change to reflect the new realities of the high frequency world. I propose some topics for this new research agenda in high frequency market microstructure.
@@ -47,7 +47,7 @@ Markets are different now, transformed by technology and high frequency trading.
 ## 5. High-frequency quoting, trading, and the efficiency of prices
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Jennifer Conrad
 - Sunil Wahal
 - Jin Xiang
@@ -59,7 +59,7 @@ We examine the relation between high frequency quotation and the behavior of sto
 ## 6. Equilibrium fast trading
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Bruno Biais
 - Thierry Foucault
 - Sophie Moinas
@@ -71,7 +71,7 @@ High speed market connections improve investors׳ ability to search for attracti
 ## 7. Extraordinary acquirers
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Andrey Golubov
 - Alfred Yawson
 - Huizhong Zhang
@@ -83,7 +83,7 @@ Firm fixed effects alone explain as much of the variation in acquirer returns as
 ## 8. How do acquirers choose between mergers and tender offers?
 ### Date
 - Feb 2015
-### Authors
+### Author
 - David Offenberg
 - Christo Pirinsky
 ### Abstract
@@ -94,7 +94,7 @@ Tender offers provide the advantage of substantially faster completion times tha
 ## 9. CEO network centrality and merger performance
 ### Date
 - Jan 2015
-### Authors
+### Author
 - Rwan El-Khatib
 - Kathy Fogel
 - Tomas Jandik
@@ -106,7 +106,7 @@ We study the effects on M&A outcomes of CEO network centrality, which measures t
 ## 10. Contractual incompleteness, limited liability and asset price bubbles
 ### Date
 - Feb 2015
-### Authors
+### Author
 - James Dow
 - Jungsuk Han
 ### Abstract
@@ -117,7 +117,7 @@ When should we expect bubbles? Can levered intermediaries bid up risky asset pri
 ## 11. Search-based peer firms: Aggregating investor perceptions through internet co-searches
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Charles M.C. Lee
 - Paul Ma
 - Charles C.Y. Wang

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do tender offers create value? New methods and evidence
 ### Date
 - May 2004
-### Authors
+### Author
 - Sanjai Bhagat
 - Ming Dong
 - David Hirshleifer
@@ -27,7 +27,7 @@ Conventional techniques of estimating takeover value improvements measure only a
 ## 3. Industry structure and horizontal takeovers: Analysis of wealth effects on rivals, suppliers, and corporate customers
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Husayn Shahrur
 ### Abstract
 We examine the wealth effects of horizontal takeovers on rivals of the merging firms, and on firms in the takeover industry's supplier and customer industries. Inconsistent with the collusion and buyer power motives, we find significant positive abnormal returns to rivals, suppliers, and corporate customers for the subsample of takeovers with positive combined wealth effect to target and bidder shareholders. Overall, our findings suggest that the average takeover in our sample is driven by efficiency considerations. However, we find evidence suggesting that horizontal takeovers increase the buyer power of the merging firms if suppliers are concentrated.
@@ -37,7 +37,7 @@ We examine the wealth effects of horizontal takeovers on rivals of the merging f
 ## 4. Why do some firms give stock options to all employees?: An empirical examination of alternative theories
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Paul Oyer
 - Scott Schaefer
 ### Abstract
@@ -48,7 +48,7 @@ Many firms issue stock options to all employees. We consider three potential eco
 ## 5. Shareholder investment horizons and the market for corporate control
 ### Date
 - Oct 2004
-### Authors
+### Author
 - José-Miguel Gaspar
 - Massimo Massa
 - Pedro Matos
@@ -60,7 +60,7 @@ This paper investigates how the investment horizon of a firm's institutional sha
 ## 6. Let's make a deal! How shareholder control impacts merger payoffs
 ### Date
 - Nov 2004
-### Authors
+### Author
 - Thomas Moeller
 ### Abstract
 Mergers and acquisitions are well-suited events for a detailed study of the valuation effects of corporate governance structures. Using a sample of 388 takeovers announced in the friendly environment of the 1990s, I empirically show that target shareholder control, proxied by low target chief executive officer share ownership, low fractions of inside directors, and the presence of large outside blockholders, is positively correlated with takeover premiums. In contrast, studies of takeovers in the hostile environment of the 1980s have shown a negative relation between target shareholder control and takeover premiums.
@@ -70,7 +70,7 @@ Mergers and acquisitions are well-suited events for a detailed study of the valu
 ## 7. How much value can blockholders tunnel? Evidence from the Bulgarian mass privatization auctions
 ### Date
 - May 2004
-### Authors
+### Author
 - Vladimir Atanasov
 ### Abstract
 This study examines the emergence of the Bulgarian stock market and the role of controlling blockholders. A new approach using mass privatization auction data measures the premium for control and demonstrates that, in the absence of legal constraints, majority owners extract more than 85% of firm value as private benefits of control. Institutional investors form portfolios of predominantly controlling positions or participate in majority coalitions. Ownership stakes cluster at 51%. After the privatized companies begin trading on the Bulgarian Stock Exchange, majority-owned firms trade at 40–60% discounts. Overall, the results support the Fama and Jensen (J. law Ecorg 26 (1983) 301) view that majority-owned firms cannot persist as publicly traded corporations if the expropriating activities of controlling blockholders are not legally restricted.

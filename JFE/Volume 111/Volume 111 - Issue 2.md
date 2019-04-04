@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Dynamic risk management
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Adriano A. Rampini
 - Amir Sufi
 - S. Viswanathan
@@ -26,7 +26,7 @@ Both financing and risk management involve promises to pay that need to be colla
 ## 3. Macroeconomic effects of corporate default crisis: A long-term perspective
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Kay Giesecke
 - Francis A. Longstaff
 - Stephen Schaefer
@@ -39,7 +39,7 @@ Using an extensive data set on corporate bond defaults in the US from 1866 to 20
 ## 4. Are hedge fund managers systematically misreporting? Or not?
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Philippe Jorion
 - Christopher Schwarz
 ### Abstract
@@ -50,7 +50,7 @@ A discontinuity, or kink, at zero in the hedge fund net return distribution has 
 ## 5. Managerial risk taking incentives and corporate pension policy
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Divya Anantharaman
 - Yong Gyu Lee
 ### Abstract
@@ -61,7 +61,7 @@ We examine whether the compensation incentives of top management affect the exte
 ## 6. Composition of wealth, conditioning information, and the cross-section of stock returns
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Nikolai Roussanov
 ### Abstract
 Value stocks covary with aggregate consumption more than growth stocks during periods when financial wealth is low relative to consumption. However, the conditional value premium does not exhibit such countercyclical behavior. Consequently, a one-factor conditional consumption-based asset pricing model can be rejected without making any arbitrary assumptions on the dynamics of the price of risk or the conditional moments. Empirical evidence is somewhat more consistent with a consumption-based model augmented with an aggregate wealth growth factor, which can be motivated by either recursive preferences or relative wealth concerns.
@@ -71,7 +71,7 @@ Value stocks covary with aggregate consumption more than growth stocks during pe
 ## 7. Firm boundaries matter: Evidence from conglomerates and R&D activity
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Amit Seru
 ### Abstract
 This paper examines the impact of the conglomerate form on the scale and novelty of corporate Research and Development (R&D) activity. I exploit a quasi-experiment involving failed mergers to generate exogenous variation in acquisition outcomes of target firms. A difference-in-differences estimation reveals that, relative to failed targets, firms acquired in diversifying mergers produce both a smaller number of innovations and also less-novel innovations, where innovations are measured using patent-based metrics. The treatment effect is amplified if the acquiring conglomerate operates a more active internal capital market and is largely driven by inventors becoming less productive after the merger rather than inventor exits. Concurrently, acquirers move R&D activity outside the boundary of the firm via the use of strategic alliances and joint ventures. There is complementary evidence that conglomerates with more novel R&D tend to operate with decentralized R&D budgets. These findings suggest that conglomerate organizational form affects the allocation and productivity of resources.
@@ -81,7 +81,7 @@ This paper examines the impact of the conglomerate form on the scale and novelty
 ## 8. Independent director incentives: Where do talented directors spend their limited time and energy?
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Ronald W. Masulis
 - Shawn Mobbs
 ### Abstract
@@ -92,7 +92,7 @@ We study reputation incentives in the director labor market and find that direct
 ## 9. Accountability of independent directors: Evidence from firms subject to securities litigation
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Francois Brochet
 - Suraj Srinivasan
 ### Abstract
@@ -103,7 +103,7 @@ We examine which independent directors are held accountable when investors sue f
 ## 10. Can investor-paid credit rating agencies improve the information quality of issuer-paid rating agencies?
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Han Xia
 ### Abstract
 This paper examines how the information quality of ratings from an issuer-paid rating agency (Standard and Poor's) responds to the entry of an investor-paid rating agency, the Egan-Jones Rating Company (EJR). By comparing S&P's ratings quality before and after EJR initiates coverage of each firm, I find a significant improvement in S&P's ratings quality following EJR's coverage initiation. S&P's ratings become more responsive to credit risk and its rating changes incorporate higher information content. These results differ from the existing literature documenting a deterioration in the incumbents' ratings quality following the entry of a third issuer-paid agency. I further show that the issuer-paid agency seems to improve the ratings quality because EJR's coverage has elevated its reputational concerns.
@@ -113,7 +113,7 @@ This paper examines how the information quality of ratings from an issuer-paid r
 ## 11. The evolution of capital structure and operating performance after leveraged buyouts: Evidence from U.S. corporate tax returns
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Jonathan B. Cohn
 - Lillian F. Mills
 - Erin M. Towery
@@ -125,7 +125,7 @@ This study uses corporate tax return data to examine the evolution of firms' fin
 ## 12. Did CDS trading improve the market for corporate bonds?
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Sanjiv Das
 - Madhu Kalimipalli
 - Subhankar Nayak

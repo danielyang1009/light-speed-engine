@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - 1989
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Rurback
@@ -20,7 +20,7 @@
 ## 2. The effects of management buyouts on operating performance and value
 ### Date
 - 1989
-### Authors
+### Author
 - Steven Kaplan
 ### Abstract
 This paper presents evidence on changes in operating results for a sample of 76 large management buyouts of public companies completed between 1980 and 1986. In the three years after the buyout, these companies experience increases in operating income (before depreciation), decreases in capital expenditures, and increases in net cash flow. Consistent with the operating changes, the mean and median increases in market value (adjusted for market returns) are 96% and 77% from two months before the buyout announcement to the post-buyout sale. The evidence suggests the operating changes are due to improved incentives rather than layoffs or managerial exploitation of shareholders through inside information.
@@ -30,7 +30,7 @@ This paper presents evidence on changes in operating results for a sample of 76 
 ## 3. The design of securities
 ### Date
 - 1989
-### Authors
+### Author
 - Milton Harris
 - Artur Raviv
 ### Abstract
@@ -41,7 +41,7 @@ This paper investigates the determinants of security design. We consider the ass
 ## 4. Time-varying conditional covariances in tests of asset pricing models
 ### Date
 - 1989
-### Authors
+### Author
 - Campbell R. Harvey
 ### Abstract
 This paper proposes tests of asset pricing models that allow for time variation in conditional covariances. The evidence indicates that the conditional covariances do change through time. Estimates of the expected excess return on the market divided by the variance of the market (reward-to-risk ratio) are presented for the Sharpe-Lintner CAPM, as well as a number of tests of the model specification. The patterns of the pricing errors through time suggest the model's inability to capture the dynamic behavior of assets returns.
@@ -51,7 +51,7 @@ This paper proposes tests of asset pricing models that allow for time variation 
 ## 5. Forward and futures prices in a general equilibrium monetary model
 ### Date
 - 1989
-### Authors
+### Author
 - Leslie Young
 - Glenn W. Boyle
 ### Abstract
@@ -62,7 +62,7 @@ Risk premiums on dollar-denominated forward and futures contracts depend on risk
 ## 6. How investment bankers determine the offer price and allocation of new issues
 ### Date
 - 1989
-### Authors
+### Author
 - Lawrence M. Benveniste
 - Paul A. Spindt
 ### Abstract
@@ -73,7 +73,7 @@ We investigate how investment bankers use indications of interest from their cli
 ## 7. Information disclosure, method of payment, and takeover premiums
 ### Date
 - 1989
-### Authors
+### Author
 - B.Espen Eckbo
 - Herwig Langohr
 ### Abstract
@@ -84,7 +84,7 @@ In 1970, France introduced disclosure rules governing public tender offers witho
 ## 8. News items
 ### Date
 - 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -93,7 +93,7 @@ In 1970, France introduced disclosure rules governing public tender offers witho
 ## 9. Index
 ### Date
 - 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link

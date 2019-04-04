@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Assessing asset pricing models using revealed preference
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Jonathan B. Berk
 - Jules H. van Binsbergen
 ### Abstract
@@ -25,7 +25,7 @@ We propose a new method of testing asset pricing models that relies on quantitie
 ## 3. How do CEOs see their roles? Management philosophies and styles in family and non-family firms
 ### Date
 - Aug 2015
-### Authors
+### Author
 - William Mullins
 - Antoinette Schoar
 ### Abstract
@@ -36,7 +36,7 @@ Using a survey of 800 Chief Executive Officers (CEOs) in 22 emerging economies, 
 ## 4. Quadratic variance swap models
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Damir Filipović
 - Elise Gourier
 - Loriano Mancini
@@ -48,7 +48,7 @@ We introduce a novel class of term structure models for variance swaps. The mult
 ## 5. The influence of political bias in state pension funds
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Daniel Bradley
 - Christos Pantzalis
 - Xiaojing Yuan
@@ -60,7 +60,7 @@ Using a sample of state pension funds’ equity holdings, we find evidence of no
 ## 6. Target revaluation after failed takeover attempts: Cash versus stock
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Ulrike Malmendier
 - Marcus M. Opp
 - Farzad Saidi
@@ -72,7 +72,7 @@ Cash- and stock-financed takeover bids induce strikingly different target revalu
 ## 7. Price and volatility co-jumps
 ### Date
 - May 2015
-### Authors
+### Author
 - F.M. Bandi
 - R. Renò
 ### Abstract
@@ -83,7 +83,7 @@ The nature of the dependence between discontinuities in prices and contemporaneo
 ## 8. Evaluating the impact of unconventional monetary policy measures: Empirical evidence from the ECB׳s Securities Markets Programme
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Fabian Eser
 - Bernd Schwaab
 ### Abstract
@@ -94,7 +94,7 @@ We assess the yield impact of asset purchases within the European Central Bank׳
 ## 9. The real effects of share repurchases
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Heitor Almeida
 - Vyacheslav Fos
 - Mathias Kronlund
@@ -106,7 +106,7 @@ We employ a regression discontinuity design to identify the real effects of shar
 ## 10. Stock repurchases and liquidity
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Alexander Hillert
 - Ernst Maug
 - Stefan Obernberger
@@ -118,7 +118,7 @@ We analyze the impact of share repurchases on liquidity based on a new comprehen
 ## 11. Disagreement, speculation, and aggregate investment
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Steven D. Baker
 - Burton Hollifield
 - Emilio Osambela
@@ -130,7 +130,7 @@ When investors disagree, speculation between them alters equilibrium prices in f
 ## 12. The product market effects of hedge fund activism
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Hadiye Aslan
 - Praveen Kumar
 ### Abstract

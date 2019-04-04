@@ -1,0 +1,260 @@
+{
+    "journal": "JF",
+    "volume": "43",
+    "issue": "3",
+    "date": "July 1988",
+    "page": "Pages: i-vi, 541-788, vii-ix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "July 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb00144.x"
+        },
+        {
+            "no": "2",
+            "title": "R2",
+            "date": "July 1988",
+            "author": [
+                "RICHARD ROLL"
+            ],
+            "abstract": "Even with hindsight, the ability to explain stock price changes is modest.\nR\n2\ns were calculated for the returns of large stocks as explained by systematic economic influences, by the returns on other stocks in the same industry, and by public firm\u2010specific news events. The average adjusted\nR\n2\nis only about .35 with monthly data and .20 with daily data. There is little relation between explanatory power and either the firm's size or its industry. There is little improvement in\nR\n2\nfrom eliminating all dates surrounding news reports in the financial press. However, the sample kurtosis is quite different when such news events are eliminated, thereby revealing a mixture of return distributions. Non\u2010news dates also indicate the presence of a distributional mixture, perhaps due to traders acting on private information.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04591.x"
+        },
+        {
+            "no": "3",
+            "title": "Corporate Finance and Corporate Governance",
+            "date": "July 1988",
+            "author": [
+                "OLIVER E. WILLIAMSON"
+            ],
+            "abstract": "A combined treatment of corporate finance and corporate governance is herein proposed. Debt and equity are treated not mainly as alternative financial instruments, but rather as alternative governance structures. Debt governance works mainly out of rules, while equity governance allows much greater discretion. A project\u2010financing approach is adopted. I argue that whether a project should be financed by debt or by equity depends principally on the characteristics of the assets. Transaction\u2010cost reasoning supports the use of debt (rules) to finance redeployable assets, while non\u2010redeployable assets are financed by equity (discretion). Experiences with leasing and leveraged buyouts are used to illustrate the argument. The article also compares and contrasts the transaction\u2010cost approach with the agency approach to the study of economic organization.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04592.x"
+        },
+        {
+            "no": "4",
+            "title": "Compensation and Incentives: Practice vs. Theory",
+            "date": "July 1988",
+            "author": [
+                "GEORGE P. BAKER",
+                "MICHAEL C. JENSEN",
+                "KEVIN J. MURPHY"
+            ],
+            "abstract": "A thorough understanding of internal incentive structures is critical to developing a viable theory of the firm, since these incentives determine to a large extent how individuals inside an organization behave. Many common features of organizational incentive systems are not easily explained by traditional economic theory\u2014including egalitarian pay systems in which compensation is largely independent of performance, the overwhelming use of promotion\u2010based incentive systems, the absence of up\u2010front fees for jobs and effective bonding contracts, and the general reluctance of employers to fire, penalize, or give poor performance evaluations to employees. Typical explanations for these practices offered by behaviorists and practitioners are distinctly uneconomic\u2014focusing on notions such as fairness, equity, morale, trust, social responsibility, and culture. The challenge to economists is to provide viable economic explanations for these practices or to integrate these alternative notions into the traditional economic model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04593.x"
+        },
+        {
+            "no": "5",
+            "title": "Liquidity and Market Structure",
+            "date": "July 1988",
+            "author": [
+                "SANFORD J. GROSSMAN",
+                "MERTON H. MILLER"
+            ],
+            "abstract": "Market liquidity is modeled as being determined by the demand and supply of immediacy. Exogenous liquidity events coupled with the risk of delayed trade create a demand for immediacy. Market makers supply immediacy by their continuous presence and willingness to bear risk during the time period between the arrival of final buyers and sellers. In the long run the number of market makers adjusts to equate the supply and demand for immediacy. This determines the equilibrium level of liquidity in the market. The lower is the autocorrelation in rates of return, the higher is the equilibrium level of liquidity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04594.x"
+        },
+        {
+            "no": "6",
+            "title": "DISCUSSION",
+            "date": "July 1988",
+            "author": [
+                "DAVID K. WHITCOMB"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04595.x"
+        },
+        {
+            "no": "7",
+            "title": "Bubbles, Fads and Stock Price Volatility Tests: A Partial Evaluation",
+            "date": "July 1988",
+            "author": [
+                "KENNETH D. WEST"
+            ],
+            "abstract": "This is a summary and interpretation of some of the literature on stock price volatility that was stimulated by Leroy and Porter 28 and Shiller 40. It appears that neither small\u2010sample bias, rational bubbles nor some standard models for expected returns adequately explain stock price volatility. This suggests a role for some nonstandard models for expected returns. One possibility is a \u201cfads\u201d model in which noise trading by naive investors is important. At present, however, there is little direct evidence that such fads play a significant role in stock price determination.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04596.x"
+        },
+        {
+            "no": "8",
+            "title": "DISCUSSION",
+            "date": "July 1988",
+            "author": [
+                "ALLAN W. KLEIDON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04597.x"
+        },
+        {
+            "no": "9",
+            "title": "Stock Prices, Earnings, and Expected Dividends",
+            "date": "July 1988",
+            "author": [
+                "JOHN Y. CAMPBELL",
+                "ROBERT J. SHILLER"
+            ],
+            "abstract": "Long historical averages of real earnings help forecast present values of future real dividends. With aggregate U.S. stock market data (1871\u20131986), a vector\u2010autoregressive forecast of the present value of future dividends is, for each year, roughly a weighted average of moving\u2010average earnings and current real price, with between two thirds and three fourths of the weight on the earnings measure. We develop the implications of this for the present\u2010value model of stock prices and for recent results that long\u2010horizon stock returns are highly forecastable.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04598.x"
+        },
+        {
+            "no": "10",
+            "title": "Predicting Contemporary Volume with Historic Volume at Differential Price Levels: Evidence Supporting the Disposition Effect",
+            "date": "July 1988",
+            "author": [
+                "STEPHEN P. FERRIS",
+                "ROBERT A. HAUGEN",
+                "ANIL K. MAKHIJA"
+            ],
+            "abstract": "This paper presents empirical evidence comparing two models of trading in equities\u2014the well\u2010known tax\u2010loss\u2010selling hypothesis and \u201cthe disposition effect.\u201d According to the disposition effect, investors are reluctant to realize losses but are eager to realize gains. This paper distinguishes between the two models with a new methodology that examines the relationship between volume at a given point in time and volume that took place in the past at different stock prices. The evidence overwhelmingly supports the disposition effect not only as a determinant of year\u2010end volume, but also as a determinant of volume levels throughout the year.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04599.x"
+        },
+        {
+            "no": "11",
+            "title": "DISCUSSION",
+            "date": "July 1988",
+            "author": [
+                "LAWRENCE HARRIS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04600.x"
+        },
+        {
+            "no": "12",
+            "title": "The Buying and Selling Behavior of Individual Investors at the Turn of the Year",
+            "date": "July 1988",
+            "author": [
+                "JAY R. RITTER"
+            ],
+            "abstract": "The average returns on low\u2010capitalization stocks are unusually high relative to those on large\u2010capitalization stocks in early January, a phenomenon known as the turn\u2010of\u2010the\u2010year effect. This paper finds that the ratio of stock purchases to sales by individual investors displays a seasonal pattern, with individuals having a below\u2010normal buy/sell ratio in late December and an above\u2010normal ratio in early January. Year\u2010to\u2010year variation in the early January buy/sell ratio explains forty\u2010six percent of the year\u2010to\u2010year variation in the turn\u2010of\u2010the\u2010year effect during 1971\u20131985.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04601.x"
+        },
+        {
+            "no": "13",
+            "title": "DISCUSSION",
+            "date": "July 1988",
+            "author": [
+                "WILLIAM T. ZIEMBA"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04602.x"
+        },
+        {
+            "no": "14",
+            "title": "Joint Estimation of Factor Sensitivities and Risk Premia for the Arbitrage Pricing Theory",
+            "date": "July 1988",
+            "author": [
+                "EDWIN BURMEISTER",
+                "MARJORIE B. McELROY"
+            ],
+            "abstract": "The APT is represented as a multivariate regression model with across\u2010equations restrictions. Both observed and unobserved (latent) macroeconomic factors are included, thus generalizing and unifying two previous strands of literature. Large portfolios representing unobserved factors are treated as endogenous, and nonlinear 3SLS estimates are shown to differ sharply from estimates that ignore this endogeneity. Using monthly stock returns and six factors, we cannot reject January effects. The following results are invariant with respect to the inclusion of January effects: we reject the CAPM in favor of the APT; however, we cannot reject the APT restrictions on the linear factor model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04603.x"
+        },
+        {
+            "no": "15",
+            "title": "DISCUSSION",
+            "date": "July 1988",
+            "author": [
+                "STEPHEN J. BROWN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04604.x"
+        },
+        {
+            "no": "16",
+            "title": "Efficient Signalling with Dividends, Investment, and Stock Repurchases",
+            "date": "July 1988",
+            "author": [
+                "JOSEPH WILLIAMS"
+            ],
+            "abstract": "The efficient mix of dissipative dividends, investments in real and financial assets, and repurchases of stock is computed for a continuum of firms with inside information about the return on risky real assets. In the efficient signalling equilibrium, the representative firm optimally distributes dividends, invests in risky real assets to maximize net present value, holds no financial securities, and sells new stock in the market. This firm finances its value\u2010maximizing investment first from internal funds and second from stock sold to new investors.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04605.x"
+        },
+        {
+            "no": "17",
+            "title": "Banking Panics, Information, and Rational Expectations Equilibrium",
+            "date": "July 1988",
+            "author": [
+                "V. V. CHARI",
+                "RAVI JAGANNATHAN"
+            ],
+            "abstract": "This paper shows that bank runs can be modeled as an equilibrium phenomenon. We demonstrate that some aspects of the intuitive \u201cstory\u201d that bank runs start with fears of insolvency of banks can be rigorously modeled. If individuals observe long \u201clines\u201d at the bank, they correctly infer that there is a possibility that the bank is about to fail and precipitate a bank run. However, bank runs occur even when no one has any adverse information. Extra market constraints such as suspension of convertibility can prevent bank runs and result in superior allocations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04606.x"
+        },
+        {
+            "no": "18",
+            "title": "DISCUSSION",
+            "date": "July 1988",
+            "author": [
+                "JOSEPH WILLIAMS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04607.x"
+        },
+        {
+            "no": "19",
+            "title": "Minutes of the Annual Membership Meeting",
+            "date": "July 1988",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04608.x"
+        },
+        {
+            "no": "20",
+            "title": "Report on the 1987 Membership Survey",
+            "date": "July 1988",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04609.x"
+        },
+        {
+            "no": "21",
+            "title": "Report of the Executive Secretary and Treasurer for the Year Ending September 30, 1987",
+            "date": "July 1988",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04610.x"
+        },
+        {
+            "no": "22",
+            "title": "Consolidated Revenues and Expenses Reports",
+            "date": "July 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04611.x"
+        },
+        {
+            "no": "23",
+            "title": "Report of the Managing Editors of the Journal of Finance for 1987",
+            "date": "July 1988",
+            "author": [
+                "EDWIN J. ELTON",
+                "MARTIN J. GRUBER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04612.x"
+        },
+        {
+            "no": "24",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "July 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04589.x"
+        },
+        {
+            "no": "25",
+            "title": "ANNOUNCEMENTS",
+            "date": "July 1988",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1988.tb04590.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Auctioned IPOs: The US evidence
 ### Date
 - May 2010
-### Authors
+### Author
 - François Degeorge
 - François Derrien
 - Kent L. Womack
@@ -26,7 +26,7 @@ Between 1999 and 2007, WR Hambrecht completed 19 initial public offerings (IPOs)
 ## 3. Have the tax benefits of debt been overestimated?
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Jennifer Blouin
 - John E. Core
 - Wayne Guay
@@ -38,7 +38,7 @@ We re-examine the claim that many corporations are underleveraged in that they f
 ## 4. Club deals in leveraged buyouts
 ### Date
 - May 2010
-### Authors
+### Author
 - Micah S. Officer
 - Oguzhan Ozbas
 - Berk A. Sensoy
@@ -50,7 +50,7 @@ We analyze the pricing and characteristics of club deal leveraged buyouts (LBOs)
 ## 5. Negotiations under the threat of an auction
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Nihat Aktas
 - Eric de Bodt
 - Richard Roll
@@ -62,7 +62,7 @@ Many takeovers occur after one-on-one negotiations, which suggests a troubling l
 ## 6. Firm values and sovereign wealth fund investments
 ### Date
 - May 2010
-### Authors
+### Author
 - Kathryn L. Dewenter
 - Xi Han
 - Paul H. Malatesta
@@ -74,7 +74,7 @@ We analyze the impact of sovereign wealth fund (SWF) investments on firm values 
 ## 7. The equity premium implied by production
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Urban J. Jermann
 ### Abstract
 This paper studies the determinants of the equity premium as implied by producers’ first-order conditions. A simple closed form expression is presented for the Sharpe ratio as a function of investment volatility and technology parameters. Calibrated to the US postwar economy, the model can match the historical first and second moments of the market return and the risk-free interest rate. The model also generates a very volatile Sharpe ratio and market price of risk.
@@ -84,7 +84,7 @@ This paper studies the determinants of the equity premium as implied by producer
 ## 8. Does q-theory with investment frictions explain anomalies in the cross section of returns?
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Dongmei Li
 - Lu Zhang
 ### Abstract
@@ -95,7 +95,7 @@ Q-theory predicts that investment frictions steepen the relation between expecte
 ## 9. Optimal exercise of executive stock options and implications for firm cost
 ### Date
 - Jun 2010
-### Authors
+### Author
 - Jennifer N. Carpenter
 - Richard Stanton
 - Nancy Wallace
@@ -107,7 +107,7 @@ This paper conducts a comprehensive study of the optimal exercise policy for an 
 ## 10. Inter-temporal variation in the illiquidity premium
 ### Date
 - May 2010
-### Authors
+### Author
 - Gerald R. Jensen
 - Theodore Moorman
 ### Abstract
@@ -118,7 +118,7 @@ We find evidence of a systematic link between monetary conditions and inter-temp
 ## 11. The value of excess cash and corporate governance: Evidence from US cross-listings
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Laurent Frésard
 - Carolina Salva
 ### Abstract
@@ -129,7 +129,7 @@ We examine whether and how a US cross-listing mitigates the risk that insiders w
 ## 12. Habit formation, the cross section of stock returns and the cash-flow risk puzzle
 ### Date
 - May 2010
-### Authors
+### Author
 - Tano Santos
 - Pietro Veronesi
 ### Abstract

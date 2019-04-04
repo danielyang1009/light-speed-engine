@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -28,7 +28,7 @@
 ## 3. Expected stock returns and volatility
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Kenneth R. French
 - G.William Schwert
 - Robert F. Stambaugh
@@ -40,7 +40,7 @@ This paper examines the relation between stock returns and stock market volatili
 ## 4. Dividends, taxes, and common stock prices
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Michael J. Barclay
 ### Abstract
 This study examines the ex-dividend day behavior of common stock prices before the enactment of the federal income tax. On ex-dividend days during the pre-tax period, stock prices fell, on average, by the full amount of the dividend. The data are consistent with the hypothesis that (i) investors in the pre-tax period value dividends and capital gains as perfect substitutes and (ii) the differential taxation of dividends and capital gains has since caused investors to discount the value of taxable cash dividends in relation to capital gains.
@@ -50,7 +50,7 @@ This study examines the ex-dividend day behavior of common stock prices before t
 ## 5. The determinants of yields on financial leasing contracts
 ### Date
 - Sep 1987
-### Authors
+### Author
 - James S. Schallheim
 - Ramon E. Johnson
 - Ronald C. Lease
@@ -63,7 +63,7 @@ This study tests hypotheses about the valuation of leasing contracts. We examine
 ## 6. Price, trade size, and information in securities markets
 ### Date
 - Sep 1987
-### Authors
+### Author
 - David Easley
 - Maureen O'Hara
 ### Abstract
@@ -74,7 +74,7 @@ This paper investigates the effect of trade size on security prices. We show tha
 ## 7. Convertible call policies
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Aharon R. Ofer
 - Ashok Natarajan
 ### Abstract
@@ -85,7 +85,7 @@ This paper tests an information-signaling hypothesis as a potential explanation 
 ## 8. Firm value and seasoned equity issues
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Avner Kalay
 - Adam Shimrat
 ### Abstract
@@ -96,7 +96,7 @@ Announcements of new equity issues have been seen to have a negative effect on s
 ## 9. Shark repellents and stock prices
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Gregg A. Jarrell
 - Annette B. Poulsen
 ### Abstract
@@ -107,7 +107,7 @@ Antitakeover amendments (shark repellents) restrict the transfer of corporate co
 ## 10. Testing for market timing ability
 ### Date
 - Sep 1987
-### Authors
+### Author
 - Robert E. Cumby
 - David M. Modest
 ### Abstract
@@ -118,7 +118,7 @@ In this paper we examine the Henriksson-Merton test of market timing and its pot
 ## 11. 1988 risk theory seminar
 ### Date
 - Sep 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -127,7 +127,7 @@ In this paper we examine the Henriksson-Merton test of market timing and its pot
 ## 12. 1988 annual meetings of the western finance association
 ### Date
 - Sep 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -136,7 +136,7 @@ In this paper we examine the Henriksson-Merton test of market timing and its pot
 ## 13. Second international conference finance
 ### Date
 - Sep 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link

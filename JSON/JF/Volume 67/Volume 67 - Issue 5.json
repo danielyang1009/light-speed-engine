@@ -1,0 +1,156 @@
+{
+    "journal": "JF",
+    "volume": "67",
+    "issue": "5",
+    "date": "October 2012",
+    "page": "Pages: i-vi, 1565-1981, bmi-bmiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "12 September 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01790.x"
+        },
+        {
+            "no": "2",
+            "title": "The Supply\u2010Side Determinants of Loan Contract Strictness",
+            "date": "12 September 2012",
+            "author": [
+                "JUSTIN MURFIN"
+            ],
+            "abstract": "Using a measure of contract strictness based on the probability of a covenant violation, I investigate how lender\u2010specific shocks impact the strictness of the loan contract that a borrower receives. Banks write tighter contracts than their peers after suffering payment defaults to their own loan portfolios, even when defaulting borrowers are in different industries and geographic regions from the current borrower. The effects persist after controlling for bank capitalization, although bank equity compression is also associated with tighter contracts. The evidence suggests that recent defaults inform the lender's perception of its own screening ability, thereby impacting its contracting behavior.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01767.x"
+        },
+        {
+            "no": "3",
+            "title": "Dynamic CEO Compensation",
+            "date": "12 September 2012",
+            "author": [
+                "ALEX EDMANS",
+                "XAVIER GABAIX",
+                "TOMASZ SADZIK",
+                "YULIY SANNIKOV"
+            ],
+            "abstract": "We study optimal compensation in a dynamic framework where the CEO consumes in multiple periods, can undo the contract by privately saving, and can temporarily inflate earnings. We obtain a simple closed\u2010form contract that yields clear predictions for how the level and performance sensitivity of pay vary over time and across firms. The contract can be implemented by escrowing the CEO's pay into a \u201cDynamic Incentive Account\u201d that comprises cash and the firm's equity. The account features state\u2010dependent rebalancing to ensure its equity proportion is always sufficient to induce effort, and time\u2010dependent vesting to deter short\u2010termism.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01768.x"
+        },
+        {
+            "no": "4",
+            "title": "Are Banks Still Special When There Is a Secondary Market for Loans?",
+            "date": "12 September 2012",
+            "author": [
+                "AMAR GANDE",
+                "ANTHONY SAUNDERS"
+            ],
+            "abstract": "Secondary market trading in loans elicits a significant positive stock price response by a borrowing firm's equity investors. We find the major reason for this response is the alleviation of borrowing firms\u2019 financial constraints. We also find that new loan announcements are associated with a positive stock price effect even when prior loans made to the same borrower already trade on the secondary market. We conclude that the special role of banks has changed due to their ability to create an active secondary loan market while simultaneously maintaining their traditional role as information producers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01769.x"
+        },
+        {
+            "no": "5",
+            "title": "Financial Flexibility, Bank Capital Flows, and Asset Prices",
+            "date": "12 September 2012",
+            "author": [
+                "CHRISTINE A. PARLOUR",
+                "RICHARD STANTON",
+                "JOHAN WALDEN"
+            ],
+            "abstract": "In our parsimonious general\u2010equilibrium model of banking and asset pricing, intermediaries have the expertise to monitor and reallocate capital. We study financial development, intraeconomy capital flows, the size of the banking sector, the value of intermediation, expected market returns, and the risk of bank crashes. Asset pricing implications include: a market's dividend yield is related to its financial flexibility, and capital flows should be important in explaining expected returns and the risk of bank crashes. Our predictions are broadly consistent with the aggregate behavior of U.S. capital markets since 1950.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01770.x"
+        },
+        {
+            "no": "6",
+            "title": "Financial Expertise as an Arms Race",
+            "date": "12 September 2012",
+            "author": [
+                "VINCENT GLODE",
+                "RICHARD C. GREEN",
+                "RICHARD LOWERY"
+            ],
+            "abstract": "We show that firms intermediating trade have incentives to overinvest in financial expertise. In our model, expertise improves firms\u2019 ability to estimate value when trading a security. Expertise creates asymmetric information, which, under normal circumstances, works to the advantage of the expert as it deters opportunistic bargaining by counterparties. This advantage is neutralized in equilibrium, however, by offsetting investments by competitors. Moreover, when volatility rises the adverse selection created by expertise triggers breakdowns in liquidity, destroying gains to trade and thus the benefits that firms hope to gain through high levels of expertise.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01771.x"
+        },
+        {
+            "no": "7",
+            "title": "A Lintner Model of Payout and Managerial Rents",
+            "date": "12 September 2012",
+            "author": [
+                "BART M. LAMBRECHT",
+                "STEWART C. MYERS"
+            ],
+            "abstract": "We develop a dynamic agency model in which payout, investment, and financing decisions are made by managers who attempt to maximize the rents they take from the firm, subject to a capital market constraint. Managers smooth payout to smooth their flow of rents. Total payout (dividends plus net repurchases) follows Lintner's (1956) target adjustment model. Payout smooths out transitory shocks to current income and adjusts gradually to changes in permanent income. Smoothing is accomplished by borrowing or lending. Payout is not cut back to finance capital investment. Risk aversion causes managers to underinvest, but habit formation mitigates the degree of underinvestment.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01772.x"
+        },
+        {
+            "no": "8",
+            "title": "Banking Globalization and Monetary Transmission",
+            "date": "12 September 2012",
+            "author": [
+                "NICOLA CETORELLI",
+                "LINDA S. GOLDBERG"
+            ],
+            "abstract": "Globalization of banking raises questions about banks\u2019 liquidity management, their response to liquidity shocks, and the potential for international shock propagation. We conjecture that global banks manage liquidity on a global scale, actively using cross\u2010border internal funding in response to local shocks. Having global operations insulates banks from changes in monetary policy, while banks without global operations are more affected by monetary policy than previously found. We provide direct evidence that internal capital markets are active in global banks and contribute to the international propagation of shocks. This feature was at play during the financial crisis of 2007\u20132009.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01773.x"
+        },
+        {
+            "no": "9",
+            "title": "Regulatory Arbitrage and International Bank Flows",
+            "date": "12 September 2012",
+            "author": [
+                "JOEL F. HOUSTON",
+                "CHEN LIN",
+                "YUE MA"
+            ],
+            "abstract": "We study whether cross\u2010country differences in regulations have affected international bank flows. We find strong evidence that banks have transferred funds to markets with fewer regulations. This form of regulatory arbitrage suggests there may be a destructive \u201crace to the bottom\u201d in global regulations, which restricts domestic regulators\u2019 ability to limit bank risk\u2010taking. However, we also find that the links between regulation differences and bank flows are significantly stronger if the recipient country is a developed country with strong property rights and creditor rights. This suggests that, while differences in regulations have important influences, without a strong institutional environment, lax regulations are not enough to encourage massive capital flows.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01774.x"
+        },
+        {
+            "no": "10",
+            "title": "Incomplete\u2010Market Equilibria Solved Recursively on an Event Tree",
+            "date": "12 September 2012",
+            "author": [
+                "BERNARD DUMAS",
+                "ANDREW LYASOFF"
+            ],
+            "abstract": "Because of non\u2010traded human capital, real\u2010world financial markets are massively incomplete, while the modeling of imperfect, dynamic financial markets remains a wide\u2010open and difficult field. Some 30 years after Cox, Ross, and Rubinstein (1979) taught us how to calculate the prices of derivative securities on an event tree by simple backward induction, we show how a similar formulation can be used in computing heterogeneous\u2010agents incomplete\u2010market equilibrium prices of primitive securities. Extant methods work forward and backward, requiring a guess of the way investors forecast the future. In our method, the future is part of the current solution of each backward time step.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01775.x"
+        },
+        {
+            "no": "11",
+            "title": "The Vote Is Cast: The Effect of Corporate Governance on Shareholder Value",
+            "date": "12 September 2012",
+            "author": [
+                "VICENTE CU\u00d1AT",
+                "MIREIA GINE",
+                "MARIA GUADALUPE"
+            ],
+            "abstract": "This paper investigates whether improvements in the firm's internal corporate governance create value for shareholders. We analyze the market reaction to governance proposals that pass or fail by a small margin of votes in annual meetings. This provides a clean causal estimate that deals with the endogeneity of internal governance rules. We find that passing a proposal leads to significant positive abnormal returns. Adopting one governance proposal increases shareholder value by 2.8%. The market reaction is larger in firms with more antitakeover provisions, higher institutional ownership, and stronger investor activism for proposals sponsored by institutions. In addition, we find that acquisitions and capital expenditures decline and long\u2010term performance improves.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01776.x"
+        },
+        {
+            "no": "12",
+            "title": "MISCELLANEA",
+            "date": "12 September 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01789.x"
+        },
+        {
+            "no": "13",
+            "title": "ANNOUNCEMENTS",
+            "date": "12 September 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01792.x"
+        },
+        {
+            "no": "14",
+            "title": "BACK MATTER",
+            "date": "12 September 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01791.x"
+        }
+    ]
+}

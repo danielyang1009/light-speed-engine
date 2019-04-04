@@ -1,0 +1,173 @@
+{
+    "journal": "RFS",
+    "volume": "15",
+    "issue": "2",
+    "date": "2 January 2002",
+    "page": "Pages 353\u2013689",
+    "article": [
+        {
+            "no": "1",
+            "title": "Introduction to Review of Financial Studies Conference on Market Frictions and Behavioral Finance",
+            "date": "16 June 2015",
+            "author": [
+                "John Heaton",
+                "Robert Korajczyk"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.353"
+        },
+        {
+            "no": "2",
+            "title": "Robustness and Pricing with Uncertain Growth",
+            "date": "16 June 2015",
+            "author": [
+                "Marco Cagetti",
+                "Lars Peter Hansen",
+                "Thomas Sargent",
+                "Noah Williams"
+            ],
+            "abstract": "We study how decision-makers\u2019 concerns about robustness affect prices and quantities in a stochastic growth model. In the model economy, growth rates in technology are altered by infrequent large shocks and continuous small shocks. An investor observes movements in the technology level but cannot perfectly distinguish their sources. Instead the investor solves a signal extraction problem. We depart from most of the macroeconomics and finance literature by presuming that the investor treats the specification of technology evolution as an approximation. To promote a decision rule that is robust to model misspecification, an investor acts as if a malevolent player threatens to perturb the actual data-generating process relative to his approximating model. We study how a concern about robustness alters asset prices. We show that the dynamic evolution of the risk-return trade-off is dominated by movements in the growth-state probabilities and that the evolution of the dividend-price ratio is driven primarily by the capital-technology ratio.",
+            "link": "https://doi.org/10.1093/rfs/15.2.363"
+        },
+        {
+            "no": "3",
+            "title": "Discussion of \u201cRobustness and Pricing with Uncertain Growth\u201d",
+            "date": "16 June 2015",
+            "author": [
+                "Pascal J. Maenhout"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.405"
+        },
+        {
+            "no": "4",
+            "title": "Why Don\u2019t Issuers Get Upset About Leaving Money on the Table in IPOs?",
+            "date": "16 June 2015",
+            "author": [
+                "Tim Loughran",
+                "Jay R. Ritter"
+            ],
+            "abstract": "One of the puzzles regarding initial public offerings (IPOs) is that issuers rarely get upset about leaving substantial amounts of money on the table, defined as the number of shares sold times the difference between the first-day closing market price and the offer price. The average IPO leaves $9.1 million on the table. This number is approximately twice as large as the fees paid to investment bankers and represents a substantial indirect cost to the issuing firm. We present a prospect theory model that focuses on the covariance of the money left on the table and wealth changes. Our reasoning also provides an explanation for a second puzzling pattern: much more money is left on the table following recent market rises than after market falls. This results in an explanation of hot issue markets. We also offer a new explanation for why IPOs are underpriced.",
+            "link": "https://doi.org/10.1093/rfs/15.2.413"
+        },
+        {
+            "no": "5",
+            "title": "Discussion of \u201cWhy Don\u2019t Issuers Get Upset About Leaving Money on the Table in IPOs?\u201d",
+            "date": "16 June 2015",
+            "author": [
+                "Kent Daniel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.445"
+        },
+        {
+            "no": "6",
+            "title": "Online Investors: Do the Slow Die First?",
+            "date": "16 June 2015",
+            "author": [
+                "Brad M. Barber",
+                "Terrance Odean"
+            ],
+            "abstract": "We analyze 1,607 investors who switched from phone-based to online trading during the 1990s. Those who switch to online trading perform well prior to going online, beating the market by more than 2% annually. After going online, they trade more actively, more speculatively, and less profitably than before\u2014lagging the market by more than 3% annually. Reductions in market frictions (lower trading costs, improved execution speed, and greater ease of access) do not explain these findings. Overconfidence\u2014augmented by self-attribution bias and the illusions of knowledge and control\u2014can explain the increase in trading and reduction in performance of online investors.",
+            "link": "https://doi.org/10.1093/rfs/15.2.455"
+        },
+        {
+            "no": "7",
+            "title": "Underreaction to Self-Selected News Events: The Case of Stock Splits",
+            "date": "16 June 2015",
+            "author": [
+                "David L. Ikenberry",
+                "Sundaresh Ramnath"
+            ],
+            "abstract": "An emerging literature looking at self-selected, corporate news events concludes that markets appear to underreact to news. Recent theoretical articles have explored why or how underreaction might occur. However, the notion of underreaction is contentious. We revisit this issue by focusing on one of the most simple of corporate transactions, the stock split. Prior studies that report abnormal return drifts subsequent to splits do not appear to be spurious, nor a consequence of misspecified benchmarks. Using recent cases, we report a drift of 9% in the year following a split announcement. We consider fundamental operating performance as a source of the underreaction and find that splitting firms have an unusually low propensity to experience a contraction in future earnings. Further, analysts\u2019 earnings forecasts are comparatively low at the time of the split announcement and revise sluggishly over time. Together these results are consistent with the notion of market underreaction to the information in corporate news events.",
+            "link": "https://doi.org/10.1093/rfs/15.2.489"
+        },
+        {
+            "no": "8",
+            "title": "Discussion of \u201cUnderreaction to Self-Selected News Events\u201d",
+            "date": "16 June 2015",
+            "author": [
+                "Sheridan Titman"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.527"
+        },
+        {
+            "no": "9",
+            "title": "Momentum and Autocorrelation in Stock Returns",
+            "date": "16 June 2015",
+            "author": [
+                "Jonathan Lewellen"
+            ],
+            "abstract": "This article studies momentum in stock returns, focusing on the role of industry, size, and book-to-market (B/M) factors. Size and B/M portfolios exhibit momentum as strong as that in individual stocks and industries. The size and B/M portfolios are well diversified, so momentum cannot be attributed to firm- or industry-specific returns. Further, industry, size, and B/M portfolios are negatively autocorrelated and cross-serially correlated over intermediate horizons. The evidence suggests that stocks covary \u201ctoo strongly\u201d with each other. I argue that excess covariance, not underreaction, explains momentum in the portfolios.",
+            "link": "https://doi.org/10.1093/rfs/15.2.533"
+        },
+        {
+            "no": "10",
+            "title": "Discussion of \u201cMomentum and Autocorrelation in Stock Returns\u201d",
+            "date": "16 June 2015",
+            "author": [
+                "Joseph Chen",
+                "Harrison Hong"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.565"
+        },
+        {
+            "no": "11",
+            "title": "Competing Theories of Financial Anomalies",
+            "date": "16 June 2015",
+            "author": [
+                "Alon Brav",
+                "J.B. Heaton"
+            ],
+            "abstract": "We compare two competing theories of financial anomalies: \u201cbehavioral\u201d theories built on investor irrationality, and \u201crational structural uncertainty\u201d theories built on incomplete information about the structure of the economic environment. We find that although the theories relax opposite assumptions of the rational expectations ideal, their mathematical and predictive similarities make them difficult to distinguish. Even if irrationality generates financial anomalies, their disappearance still may hinge on rational learning\u2014that is, on the ability of rational arbitrageurs and their investors to reject competing rational explanations for observed price patterns.",
+            "link": "https://doi.org/10.1093/rfs/15.2.575"
+        },
+        {
+            "no": "12",
+            "title": "Discussion of \u201cCompeting Theories of Financial Anomalies\u201d",
+            "date": "16 June 2015",
+            "author": [
+                "Werner De Bondt"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.607"
+        },
+        {
+            "no": "13",
+            "title": "Sidelined Investors, Trading-Generated News, and Security Returns",
+            "date": "16 June 2015",
+            "author": [
+                "H. Henry Cao",
+                "Joshua D. Coval",
+                "David Hirshleifer"
+            ],
+            "abstract": "This article studies information blockages and the asymmetric release of information in a security market with fixed setup costs of trading. In this setting, \u201csidelined\u201d investors may delay trading until price movements validate their private signals. Trading thereby internally generates the arrival of further news to the market. This leads to (1) negative skewness following price run-ups and positive skewness following price rundowns (even though the model is ex ante symmetric), (2) a lack of correspondence between large price changes and the arrival of external information, and (3) increases in volatility following large price changes.",
+            "link": "https://doi.org/10.1093/rfs/15.2.615"
+        },
+        {
+            "no": "14",
+            "title": "Discussion of \u201cSidelined Investors, Trading-Generated News, and Security Returns\u201d",
+            "date": "16 June 2015",
+            "author": [
+                "Pietro Veronesi"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/15.2.649"
+        },
+        {
+            "no": "15",
+            "title": "Partial Adjustment or Stale Prices? Implications from Stock Index and Futures Return Autocorrelations",
+            "date": "16 June 2015",
+            "author": [
+                "Dong-Hyun Ahn",
+                "Jacob Boudoukh",
+                "Matthew Richardson",
+                "Robert F. Whitelaw"
+            ],
+            "abstract": "We investigate the relation between returns on stock indices and their corresponding futures contracts to evaluate potential explanations for the pervasive yet anomalous evidence of positive, short-horizon portfolio autocorrelations. Using a simple theoretical framework, we generate empirical implications for both microstructure and partial adjustment models. The major findings are (i) return autocorrelations of indices are generally positive even though futures contracts have autocorrelations close to zero, and (ii) these autocorrelation differences are maintained under conditions favorable for spot-futures arbitrage and are most prevalent during low-volume periods. These results point toward microstructure-based explanations and away from explanations based on behavioral models.",
+            "link": "https://doi.org/10.1093/rfs/15.2.655"
+        }
+    ]
+}

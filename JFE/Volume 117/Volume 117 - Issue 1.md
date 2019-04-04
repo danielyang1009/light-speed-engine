@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The “cultural revolution” in finance
 ### Date
 - May 2015
-### Authors
+### Author
 - Luigi Zingales
 ### Abstract
 
@@ -24,7 +24,7 @@
 ## 3. Executives' “off-the-job” behavior, corporate culture, and financial reporting risk
 ### Date
 - Jul 2013
-### Authors
+### Author
 - Robert Davidson
 - Aiyesha Dey
 - Abbie Smith
@@ -36,7 +36,7 @@ We examine how executives' behavior outside the workplace, as measured by their 
 ## 4. Should one hire a corrupt CEO in a corrupt country?
 ### Date
 - Mar 2014
-### Authors
+### Author
 - Maxim Mironov
 ### Abstract
 This paper examines the interaction between the propensity to corrupt (PTC) and firm performance. Using a unique data set of Moscow traffic violations, I construct the PTC of every Muscovite with a driver׳s license. Next, I determine the PTC for the top management of 58,157 privately held firms. I find that a 1 standard deviation increase in management PTC corresponds to a 3.6% increase in income diversion and that firms with corrupt management significantly outperform their counterparts. This study contributes to the literature that characterizes corruption using objective (instead of perception-based) measures and provides evidence regarding the positive aspects of corruption at the firm level.
@@ -46,7 +46,7 @@ This paper examines the interaction between the propensity to corrupt (PTC) and 
 ## 5. Military CEOs
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Efraim Benmelech
 - Carola Frydman
 ### Abstract
@@ -57,7 +57,7 @@ There is mounting evidence of the influence of personal characteristics of chief
 ## 6. The value of corporate culture
 ### Date
 - May 2014
-### Authors
+### Author
 - Luigi Guiso
 - Paola Sapienza
 - Luigi Zingales
@@ -69,7 +69,7 @@ We study which dimensions of corporate culture are related to a firm׳s performa
 ## 7. Female leadership and gender equity: Evidence from plant closure
 ### Date
 - Jan 2014
-### Authors
+### Author
 - Geoffrey Tate
 - Liu Yang
 ### Abstract
@@ -80,7 +80,7 @@ We use unique worker-plant matched panel data to measure differences in wage cha
 ## 8. Suspect CEOs, unethical culture, and corporate misbehavior
 ### Date
 - Dec 2014
-### Authors
+### Author
 - Lee Biggerstaff
 - David C. Cicero
 - Andy Puckett
@@ -92,7 +92,7 @@ We show that firms with Chief Executive Officers (CEOs) who personally benefit f
 ## 9. Importing corruption culture from overseas: Evidence from corporate tax evasion in the United States
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Jason DeBacker
 - Bradley T. Heim
 - Anh Tran
@@ -104,7 +104,7 @@ We study how cultural norms and enforcement policies influence illicit corporate
 ## 10. Foreign corporations and the culture of transparency: Evidence from Russian administrative data
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Serguey Braguinsky
 - Sergey Mityakov
 ### Abstract
@@ -115,7 +115,7 @@ Firms from developed countries carry a culture of transparency in business trans
 ## 11. Lost in translation? The effect of cultural values on mergers around the world
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Kenneth R. Ahern
 - Daniele Daminelli
 - Cesare Fracassi
@@ -127,7 +127,7 @@ We find strong evidence that three key dimensions of national culture (trust, hi
 ## 12. When firms talk, do investors listen? The role of trust in stock market reactions to corporate earnings announcements
 ### Date
 - Aug 2013
-### Authors
+### Author
 - Mikhail Pevzner
 - Fei Xie
 - Xiangang Xin

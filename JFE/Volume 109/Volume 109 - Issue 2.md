@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A production-based model for the term structure
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Urban J. Jermann
 ### Abstract
 This paper considers the term structure of interest rates implied by a production-based asset pricing model in which the fundamental drivers are investment in equipment and structures as well as inflation. The model matches the average yield curve up to five-year maturity almost perfectly. Longer term yields are roughly as volatile as in the data. The model also generates time-varying bond risk premiums. In particular, when running Fama-Bliss regressions of excess returns on forward premiums, the model produces slope coefficients of roughly half the size of the empirical counterparts. Closed-form expressions highlight the importance of the capital depreciation rates for interest rate dynamics.
@@ -24,7 +24,7 @@ This paper considers the term structure of interest rates implied by a productio
 ## 3. IPO first-day returns, offer price revisions, volatility, and form S-1 language
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Tim Loughran
 - Bill McDonald
 ### Abstract
@@ -35,7 +35,7 @@ Form S-1 is the first SEC filing in the initial public offering (IPO) process. T
 ## 4. The relation between equity incentives and misreporting: The role of risk-taking incentives
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Christopher S. Armstrong
 - David F. Larcker
 - Gaizka Ormazabal
@@ -48,7 +48,7 @@ Prior research argues that a manager whose wealth is more sensitive to changes i
 ## 5. CEO turnover in a competitive assignment framework
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Andrea L. Eisfeldt
 - Camelia M. Kuhnen
 ### Abstract
@@ -59,7 +59,7 @@ There is widespread concern about whether Chief Executive Officers (CEOs) are ap
 ## 6. The timing of pay
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Christopher A. Parsons
 - Edward D. Van Wesep
 ### Abstract
@@ -70,7 +70,7 @@ There exists large and persistent variation in not only how, but when employees 
 ## 7. Monitoring and corporate disclosure: Evidence from a natural experiment
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Rustom M. Irani
 - David Oesch
 ### Abstract
@@ -81,7 +81,7 @@ Using an experimental design that exploits exogenous reductions in coverage resu
 ## 8. Does risk management matter? Evidence from the U.S. agricultural industry
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Jess Cornaggia
 ### Abstract
 This article constructs triple-difference tests around shifts in the supply of risk management instruments available to agricultural producers to reveal a positive relation between risk management and productivity. This relation is more robust when producers adopt instruments with payoffs linked to group performance and weaker when payoffs are linked to individual performance. Additionally, productivity is particularly high among risk-managing producers in counties containing high levels of bank deposits, a proxy for access to finance. Overall, this article illuminates the relation between hedging and real firm outcomes as well as the interaction between access to finance and firms' risk management choices.
@@ -91,7 +91,7 @@ This article constructs triple-difference tests around shifts in the supply of r
 ## 9. Limits to arbitrage and hedging: Evidence from commodity markets
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Viral V. Acharya
 - Lars A. Lochstoer
 - Tarun Ramadorai
@@ -103,7 +103,7 @@ We build an equilibrium model of commodity markets in which speculators are capi
 ## 10. Collateral and capital structure
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Adriano A. Rampini
 - S. Viswanathan
 ### Abstract
@@ -114,7 +114,7 @@ We develop a dynamic model of investment, capital structure, leasing, and risk m
 ## 11. Can hedge funds time market liquidity?
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Charles Cao
 - Yong Chen
 - Bing Liang
@@ -127,7 +127,7 @@ We explore a new dimension of fund managers' timing ability by examining whether
 ## 12. Corporate ownership structure and the choice between bank debt and public debt
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Chen Lin
 - Yue Ma
 - Paul Malatesta
@@ -140,7 +140,7 @@ This article examines the relation between a borrowing firm's ownership structur
 ## 13. Feedback effects of credit ratings
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Gustavo Manso
 ### Abstract
 Rating agencies are often criticized for being biased in favor of borrowers, for being too slow to downgrade following credit quality deterioration, and for being oligopolists. Based on a model that takes into account the feedback effects of credit ratings, I show that: (i) rating agencies should focus not only on the accuracy of their ratings but also on the effects of their ratings on the probability of survival of the borrower; (ii) even when rating agencies pursue an accurate rating policy, multi-notch downgrades or immediate default may occur in response to small shocks to fundamentals; (iii) increased competition between rating agencies can lead to rating downgrades, increasing default frequency and reducing welfare.
@@ -150,7 +150,7 @@ Rating agencies are often criticized for being biased in favor of borrowers, for
 ## 14. Do personal taxes affect capital structure? Evidence from the 2003 tax cut
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Leming Lin
 - Mark J. Flannery
 ### Abstract
@@ -161,7 +161,7 @@ Because the personal tax treatments of interest and dividend income likely affec
 ## 15. Trading frenzies and their impact on real investment
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Itay Goldstein
 - Emre Ozdenoren
 - Kathy Yuan

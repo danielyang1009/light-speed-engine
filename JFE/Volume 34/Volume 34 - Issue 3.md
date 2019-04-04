@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1993
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Stealth trading and volatility
 ### Date
 - Dec 1993
-### Authors
+### Author
 - Michael J. Barclay
 - Jerold B. Warner
 ### Abstract
@@ -32,7 +32,7 @@ We examine the proportion of a stock's cumulative price change that occurs in ea
 ## 3. Portfolio return autocorrelation
 ### Date
 - Dec 1993
-### Authors
+### Author
 - Timothy S. Mech
 ### Abstract
 This paper investigates whether portfolio return autocorrelation can be explained by time-varying expected returns, nontrading, state limit orders, market maker inventory policy, or transaction costs. Evidence is consistent with the hypothesis that transaction costs cause portfolio autocorrelation by slowing price adjustment. I develop a transaction-cost model which predicts that prices adjust faster when changes in valuation are large in relation to the bid-ask spread. Cross-sectional tests support this prediction, but time-series tests do not.
@@ -42,7 +42,7 @@ This paper investigates whether portfolio return autocorrelation can be explaine
 ## 4. The international market for corporate control
 ### Date
 - Dec 1993
-### Authors
+### Author
 - Jun-Koo Kang
 ### Abstract
 Japanese mergers and acquisitions in the U.S. create statistically significant wealth gains for both Japanese bidders and U.S. targets. Consistent with the literature on foreign direct investment and the market for corporate control, bidder-specific characteristics and exchange-rate movements are useful in explaining the cross-sectional variation in bidder returns: returns to Japanese bidders and to the portfolio of Japanese bidders and U.S. targets increase with the bidder's leverage, the bidder's ties to financial institutions through borrowings, and the depreciation of the dollar in relation to the Japanese yen.
@@ -52,7 +52,7 @@ Japanese mergers and acquisitions in the U.S. create statistically significant w
 ## 5. The seasonal behavior of the liquidity premium in asset pricing
 ### Date
 - Dec 1993
-### Authors
+### Author
 - Venkat R. Eleswarapu
 - Marc R. Reinganum
 ### Abstract
@@ -63,7 +63,7 @@ This paper empirically investigates the seasonal behavior of the liquidity premi
 ## 6. Is the ex ante risk premium always positive?
 ### Date
 - Dec 1993
-### Authors
+### Author
 - Jacob Boudoukh
 - Matthew Richardson
 - Tom Smith
@@ -75,7 +75,7 @@ This paper develops tests of inequality restrictions implied by conditional asse
 ## 7. Editorial collaborators
 ### Date
 - Dec 1993
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -84,7 +84,7 @@ This paper develops tests of inequality restrictions implied by conditional asse
 ## 8. Index
 ### Date
 - Dec 1993
-### Authors
+### Author
 ### Abstract
 
 ### Link

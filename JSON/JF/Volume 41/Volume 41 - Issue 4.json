@@ -1,0 +1,224 @@
+{
+    "journal": "JF",
+    "volume": "41",
+    "issue": "4",
+    "date": "September 1986",
+    "page": "Pages: i-vi, 779-995, vii-xlii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb00562.x"
+        },
+        {
+            "no": "2",
+            "title": "Sample\u2010Dependent Results Using Accounting and Market Data: Some Evidence",
+            "date": "September 1986",
+            "author": [
+                "ROLF W. BANZ",
+                "WILLIAM J. BREEN"
+            ],
+            "abstract": "Studies relating accounting and price data often use the COMPUSTAT or related PDE data base as the source for the accounting data. This practice may introduce a look\u2010ahead bias and an ex\u2010post\u2010selection bias into the study. We examine this problem by comparing results from the standard COMPUSTAT data base with those from a data base which suffers from neither bias. We find that rates of return from portfolios chosen on the basis of accounting data from the two data bases differ significantly. Further, we find that these differences imply different conclusions when we test a specific hypothesis relating accounting and price data. Finally, we propose a number of remedies which may reduce the bias when the standard COMPUSTAT data base is used.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04548.x"
+        },
+        {
+            "no": "3",
+            "title": "The Impact of Preferred\u2010for\u2010Common Exchange Offers on Firm Value",
+            "date": "September 1986",
+            "author": [
+                "J. MICHAEL PINEGAR",
+                "RONALD C. LEASE"
+            ],
+            "abstract": "This paper examines the impact of capital structure changes which have no corporate tax consequences. Specifically, exchange offers involving preferred and common stock are analyzed. We find that systematic changes in firm value occur when companies announce preferred\u2010for\u2010common exchange offers. Consequently, we interpret our results to be consistent with a signalling hypothesis. We also find weaker evidence suggesting the existence of agency cost effects or wealth redistributions across security classes. Our findings imply that capital structure changes need not alter the tax status of the issuing firm to affect firm value.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04549.x"
+        },
+        {
+            "no": "4",
+            "title": "Price and Volume Effects Associated with Changes in the S&P 500 List: New Evidence for the Existence of Price Pressures",
+            "date": "September 1986",
+            "author": [
+                "LAWRENCE HARRIS",
+                "EITAN GUREL"
+            ],
+            "abstract": "Attempts to identify price pressures caused by large transactions may be inconclusive if the transactions convey new information to the market. This problem is addressed in an examination of prices and volume surrounding changes in the composition of the S&P 500. Since these changes cause some investors to adjust their holdings of the affected securities and since it is unlikely that the changes convey information about the future prospects of these securities, they provide an excellent opportunity to study price pressures. The results are consistent with the price\u2010pressure hypothesis: immediately after an addition is announced, prices increase by more than 3 percent. This increase is nearly fully reversed after 2 weeks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04550.x"
+        },
+        {
+            "no": "5",
+            "title": "Asset Price Volatility, Bubbles, and Process Switching",
+            "date": "September 1986",
+            "author": [
+                "ROBERT P. FLOOD",
+                "ROBERT J. HODRICK"
+            ],
+            "abstract": "Evidence of excess volatilities of asset prices compared with those of market fundamentals is often attributed to speculative bubbles. This study demonstrates that bubbles could in theory lead to excess volatility, but it shows that certain variance bounds tests preclude bubbles as an explanation. The evidence ought to be attributed to model misspecification or inappropriate statistical tests. One important misspecification occurs if a researcher incorrectly specifies the time series properties of market fundamentals. A bubble\u2010free example economy characterized by a potential switch in government policies produces asset prices that would appear, to an unwary researcher, to contain bubbles.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04551.x"
+        },
+        {
+            "no": "6",
+            "title": "The Pricing of Futures and Options Contracts on the Value Line Index",
+            "date": "September 1986",
+            "author": [
+                "T. HANAN EYTAN",
+                "GIORA HARPAZ"
+            ],
+            "abstract": "This paper considers the problems peculiar to the Value Line Index, because of its use of geometric averaging, as regards the pricing of options and futures on that index. The Value Line Composite Index (VLCI) is an equally weighted geometric average index of nearly 1700 stocks. The VLCI futures market has existed since 1982 while the VLCI options market was established in 1985. This paper provides valuation formulas and analyzes the economic properties of these contracts. Because of the geometric averaging in the VLCI, its contingent claims have special properties. For example, the futures price may fall short of the spot price and the value of a VLCI call option may decline when the volatility of the index is increased. VLCI futures are shown to provide a direct means for duplicating an equally weighted portfolio of the underlying stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04552.x"
+        },
+        {
+            "no": "7",
+            "title": "Futures Options and the Volatility of Futures Prices",
+            "date": "September 1986",
+            "author": [
+                "CLIFFORD A. BALL",
+                "WALTER N. TOROUS"
+            ],
+            "abstract": "Assuming nonstochastic interest rates, European futures options are shown to be European options written on a particular asset referred to as a futures bond. Consequently, standard option pricing results may be invoked and standard option pricing techniques may be employed in the case of European futures options. Additional arbitrage restrictions on American futures options are derived. The efficiency of a number of futures option markets is examined. Assuming that at\u2010the\u2010money American futures options are priced accurately by Black's European futures option pricing model, the relationship between market participants' ex ante assessment of futures price volatility and the term to maturity of the underlying futures contract is also investigated empirically.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04553.x"
+        },
+        {
+            "no": "8",
+            "title": "Pricing Risk\u2010Adjusted Deposit Insurance: An Option\u2010Based Model",
+            "date": "September 1986",
+            "author": [
+                "EHUD I. RONN",
+                "AVINASH K. VERMA"
+            ],
+            "abstract": "This paper presents a methodology for arriving at empirical estimates of deposit insurance premiums from market data by using isomorphic relationships between equity and a call option, and insurance and a put option. The data utilizes the market value of equity to solve for the asset value and its volatility. Market perceptions of FDIC bailout policies are explicitly modeled so as to eliminate the bias in inverted values of assets and their volatility. Sensitivity analyses are performed to show that rank orderings based on premiums are robust to changes in specification, thus facilitating allocation of aggregate premium across banks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04554.x"
+        },
+        {
+            "no": "9",
+            "title": "A Model of International Asset Pricing with a Constraint on the Foreign Equity Ownership",
+            "date": "September 1986",
+            "author": [
+                "CHEOL S. EUN",
+                "S. JANAKIRAMANAN"
+            ],
+            "abstract": "This paper derives a closed\u2010form valuation model in a two\u2010country world in which the domestic investors are constrained to own at most a fraction, \u03b4, of the number of shares outstanding of the foreign firms. When the \u201c\u03b4 constraint\u201d is binding, two different prices rule in the foreign securities market, reflecting the premium offered by the domestic investors over the price under no constraints and the discount demanded by the foreign investors. The premium is shown to be a multiple of the discount, the multiple being the ratio of the aggregate risk aversion of the domestic and foreign investors. Given the aggregate risk\u2010aversion parameters, the equilibrium premium and discount are determined by the severity of the \u03b4 constraint and the \u201cpure\u201d foreign market risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04555.x"
+        },
+        {
+            "no": "10",
+            "title": "The Relationship between Arbitrage and First Order Stochastic Dominance",
+            "date": "September 1986",
+            "author": [
+                "ROBERT JARROW"
+            ],
+            "abstract": "This paper joins together two fields of research in financial economics. The first field studies stochastic dominance, while the second field studies arbitrage pricing. The two fields are linked together through the derivation and the proof of a characterization theorem. The characterization theorem gives necessary and sufficient conditions for the existence of arbitrage opportunities in terms of the existence of two assets, one of which first order stochastically dominates the other and the price of a particular contingent claim. Examples are provided to demonstrate the theorem's content.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04556.x"
+        },
+        {
+            "no": "11",
+            "title": "The Duration of an Adjustable\u2010Rate Mortgage and the Impact of the Index",
+            "date": "September 1986",
+            "author": [
+                "ROBERT A. OTT JR."
+            ],
+            "abstract": "With the increasing use of adjustable\u2010rate mortgages for asset/liability management, there exists the need to properly evaluate their price sensitivity to interest rate changes. This paper provides a foundation by deriving the duration of an adjustable\u2010rate mortgage. The properties of this duration are unique and have some important differences from those of fixed\u2010rate securities. One important characteristic of an adjustable\u2010rate mortgage concerns the index used to adjust the mortgage rate. It was found that the index tended to be more important than the adjustment frequency in determining the duration of an adjustable\u2010rate mortgage.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04557.x"
+        },
+        {
+            "no": "12",
+            "title": "Callable Bonds: A Risk\u2010Reducing Signalling Mechanism",
+            "date": "September 1986",
+            "author": [
+                "EDWARD HENRY ROBBINS",
+                "JOHN D. SCHATZBERG"
+            ],
+            "abstract": "The theory of financial economics has failed to distinguish advantages of callable bonds from those of short\u2010term debt. This paper shows that either type of borrowing can signal a firm's better prospects but that short\u2010term debt does so at the cost of weakened risk\u2010sharing with capital markets. By issuing either equity or long\u2010term, non\u2010callable debt, a firm with poor investment opportunities will not pool its prospects with those of a better firm. But equity produces superior risk\u2010sharing. Perhaps this explains the almost complete absence of long\u2010term, non\u2010callable bonds from observed corporate capital structures.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04558.x"
+        },
+        {
+            "no": "13",
+            "title": "Volume for Winners and Losers: Taxation and Other Motives for Stock Trading",
+            "date": "September 1986",
+            "author": [
+                "JOSEF LAKONISHOK",
+                "SEYMOUR SMIDT"
+            ],
+            "abstract": "Capital gains taxes create incentives to trade. Our major finding is that turnover is higher for winners (stocks, the prices of which have increased) than for losers, which is not consistent with the tax prediction. However, the turnover in December and January is evidence of tax\u2010motivated trading; there is a relatively high turnover for losers in December and for winners in January. We conclude that taxes influence turnover, but other motives for trading are more important. We were unable to find evidence that changing the length of the holding period required to qualify for long\u2010term capital gains treatment affected turnover.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04559.x"
+        },
+        {
+            "no": "14",
+            "title": "A Note on the Local Expectations Hypothesis: A Discrete\u2010Time Exposition",
+            "date": "September 1986",
+            "author": [
+                "CHRISTIAN GILLES",
+                "STEPHEN F. LEROY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04560.x"
+        },
+        {
+            "no": "15",
+            "title": "A Note on Unanticipated Money Growth and Interest Rate Surprises: Mishkin and Makin Revisited",
+            "date": "September 1986",
+            "author": [
+                "KEVIN B. GRIER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04561.x"
+        },
+        {
+            "no": "16",
+            "title": "ERRATUM",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "The following three tables were inadvertently omitted from the Journal of Finance Editors' Report in the July 1986 issue:\nReport of the Editors for the Journal of Finance for 1985\nTable III. Comparative Statistics on Manuscripts Submitted, 1976\u20131985\nManuscripts\n1976\n1977\n1978\n1979\n1980\n1981\n1982\n1983\n1984\n1985\nOn Hand at Start of Year\n158\n242\n66\n56\n83\n125\n108\n122\n201\n100\nSubmitted During Year\n609\n499\n590\n575\n659\n593\n575\n801\n742\n781\nTotal Available for Evaluation\n767\n741\n656\n631\n742\n718\n683\n929\n943\n881\nNumber of Which Evaluation Completed\n525\n675\n600\n548\n617\n610\n561\n728\n843\n725\nStill in Process at End Of Year\n242\n66\n56\n83\n125\n108\n122\n201\n100\n156\nTable IV. Disposition of Manuscripts, 1976\u20131985\nManuscripts\n1976\n1977\n1978\n1979\n1980\n1981\n1982\n1983\n1984\n1985\nNumber Evaluated\n525\n675\n600\n548\n617\n610\n561\n728\n843\n725\nNumber Returned\n429\n576\n529\n468\n545\n544\n494\n649\n762\n652\nNumber Accepted\n96\n99\n71\n80\n72\n66\n67\n79\n81\n73\nAcceptance Rate\n18.3%\n11.6%\n11.8%\n14.6%\n11.7%\n10.8%\n11.9%\n10.9%\n9.6%\n10.1%\nTable V. Distribution of Published Material, 1976\u20131985*\n1976\n1977\n1978\n1979\n1980\n1981\n1982\n1983\n1984\n1985\n(by number of pages)\nArticles and Notes\n534\n1194\n1012\n876\n743\n754\n841\n1222\n1168\n1060\nComments and Communications\n81\n118\n65\n68\n42\n41\n9\n32\n56\n6\nBook Reviews\n61\n66\n78\n55\n61\n56\n56\n45\n30\n28\nTotal\n676\n1378\n1155\n999\n846\n851\n906\n1299\n1254\n1094\n(by number of items)\nArticles and Notes\n60\n97\n77\n70\n59\n57\n61\n86\n79\n70\nComments and Communications\n23\n34\n11\n15\n10\n10\n3\n9\n12\n5\nBook Reviews\n43\n39\n41\n35\n35\n31\n26\n24\n18\n16\nTotal\n126\n170\n129\n120\n104\n98\n90\n119\n109\n91\n* The publication of Dissertation Abstracts was discontinued at the beginning of 1976.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04562.x"
+        },
+        {
+            "no": "17",
+            "title": "Book Reviews",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nModern Investment Theory. By ROBERT A. HAUGEN.\nFinancial Analysis and Planning. By CHENG\u2010FEW LEE.\nMoney, Banking and Financial Markets. By FREDERIC S. MISHKIN.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04563.x"
+        },
+        {
+            "no": "18",
+            "title": "MISCELLANEA",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04564.x"
+        },
+        {
+            "no": "19",
+            "title": "FORTY\u2010FIFTH ANNUAL MEETING AMERICAN FINANCE ASSOCIATION",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04545.x"
+        },
+        {
+            "no": "20",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04546.x"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb04547.x"
+        },
+        {
+            "no": "22",
+            "title": "Back Matter",
+            "date": "September 1986",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1986.tb00563.x"
+        }
+    ]
+}

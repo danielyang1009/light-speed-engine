@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1992
-### Authors
+### Author
 - MichaelC. Jensen
 - JohnB. Long
 - WayneH. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. The investment opportunity set and corporate financing, dividend, and compensation policies
 ### Date
 - Dec 1992
-### Authors
+### Author
 - Clifford W. Smith
 - Ross L. Watts
 ### Abstract
@@ -32,7 +32,7 @@ We examine explanations for corporate financing-, dividend-, and compensation-po
 ## 3. Adverse selection and the rights offer paradox
 ### Date
 - Dec 1992
-### Authors
+### Author
 - B.Espen Eckbo
 - Ronald W. Masulis
 ### Abstract
@@ -43,7 +43,7 @@ We develop an analytical framework to explain firm's choice of equity flotation 
 ## 4. Multiple equilibria and term structure models
 ### Date
 - Dec 1992
-### Authors
+### Author
 - Francis A. Longstaff
 ### Abstract
 We show the Cox, Ingersoll, and Ross term structure framework can allow a variety of alternative equilibrium solutions for discount bond prices. This is important since it allows us additional flexibility in developing models that capture the properties of the term structure. As an example, we solve for the value of a discount bond when the short-term rate is absorbed at zero. We compare the yields implied by this model to those implied by the original Cox, Ingersoll, and Ross model. We also show that alternative equilibria can occur in other term structure models.
@@ -53,7 +53,7 @@ We show the Cox, Ingersoll, and Ross term structure framework can allow a variet
 ## 5. Corrections and additions to ‘a nonlinear equilibrium model of the term structure of interest rates’
 ### Date
 - Dec 1992
-### Authors
+### Author
 - David Beaglehole
 - Mark Tenney
 ### Abstract
@@ -64,7 +64,7 @@ Longstaff (1989) introduces a new process for the short rate of interest. He cla
 ## 6. Research design issues in grouping-based tests
 ### Date
 - Dec 1992
-### Authors
+### Author
 - Thomas Lys
 - Jowell S. Sabino
 ### Abstract
@@ -75,7 +75,7 @@ With grouping, a sample is sorted by an observable variable and the mean values 
 ## 7. Editorial collaborators
 ### Date
 - Dec 1992
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -84,7 +84,7 @@ With grouping, a sample is sorted by an observable variable and the mean values 
 ## 8. Index
 ### Date
 - Dec 1992
-### Authors
+### Author
 ### Abstract
 
 ### Link

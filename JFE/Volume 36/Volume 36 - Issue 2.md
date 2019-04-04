@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Oct 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Financial policy, internal control, and performance Sealed Air Corporation's leveraged special dividend
 ### Date
 - Oct 1994
-### Authors
+### Author
 - Karen Hopper Wruck
 ### Abstract
 This paper examines the role of financial policy as a catalyst for organizational change. The subject is Sealed Air Corporation, a company with substantial free cash flow that undertakes a leveraged special dividend. While the stock price response to announcement is typical, Sealed Air exhibits dramatic, sustained, post-dividend performance improvement. Evidence indicates this performance results from managers' conscious and successful use of financial leverage as a tool to disrupt the status quo and promote internal change, including establishing a new objective, changing compensation systems, and reorganizing manufacturing and capital budgeting processes.
@@ -24,7 +24,7 @@ This paper examines the role of financial policy as a catalyst for organizationa
 ## 3. Organizational form and the consequences of highly leveraged transactions: Kroger's recapitalization and Safeway's LBO
 ### Date
 - Oct 1994
-### Authors
+### Author
 - David J. Denis
 ### Abstract
 This paper compares the leveraged recapitalization of Kroger Co. with the leveraged buyout of Safeway Stores. While both transactions dramatically increased leverage, Safeway's also altered managerial ownership, board composition, and executive compensation, while Kroger's did not. My analysis suggests that these differences in organizational form lead to large differences in post-HLT restructuring actions and value creation. I conclude that the improved incentive structure and increased monitoring provided by the LBO specialist at Safeway lead managers to generate cash in a more productive manner than the organizational structure employed by Kroger.
@@ -34,7 +34,7 @@ This paper compares the leveraged recapitalization of Kroger Co. with the levera
 ## 4. Appointments of outsiders to Japanese boards: Determinants and implications for managers
 ### Date
 - Oct 1994
-### Authors
+### Author
 - Steven N. Kaplan
 - Bernadette A. Minton
 ### Abstract
@@ -45,7 +45,7 @@ This paper investigates the determinants of appointments of outsiders — direct
 ## 5. The governance structure of the Japanese financial keiretsu
 ### Date
 - Oct 1994
-### Authors
+### Author
 - Erik Berglöf
 - Enrico Perotti
 ### Abstract

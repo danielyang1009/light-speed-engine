@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The illiquidity puzzle: theory and evidence from private equity
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Josh Lerner
 - Antoinette Schoar
 ### Abstract
@@ -25,7 +25,7 @@ This paper presents the theory that managers can use the liquidity of securities
 ## 3. The timing and terms of mergers motivated by economies of scale
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Bart M Lambrecht
 ### Abstract
 This paper analyzes the timing of mergers motivated by economies of scale. We show that firms have an incentive to merge in periods of economic expansion. Relaxing the assumption that firms are price takers, we find that market power strengthens the firms’ incentive to merge and speeds up merger activity. Finally, comparing mergers with hostile takeovers we show that the way merger synergies are divided not only influences the acquirer's and the acquiree's returns from merging, but also the timing of the restructuring.
@@ -35,7 +35,7 @@ This paper analyzes the timing of mergers motivated by economies of scale. We sh
 ## 4. Management turnover in subsidiaries of conglomerates versus stand-alone firms
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Chris McNeil
 - Greg Niehaus
 - Eric Powers
@@ -47,7 +47,7 @@ We compare turnover of subsidiary managers inside conglomerate firms to turnover
 ## 5. Modeling the bid/ask spread: measuring the inventory-holding premium
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Nicolas P.B. Bollen
 - Tom Smith
 - Robert E. Whaley
@@ -59,7 +59,7 @@ The need to understand and measure the determinants of market maker bid/ask spre
 ## 6. Modeling the term structure of interest rates: A new approach
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Robert L. Kimmel
 ### Abstract
 The term structure of interest rates is modeled as a random field with conditional volatility. Random field models allow consistency with the current shape of the term structure without the need for recalibration. However, most such models are Gaussian, with no conditional volatility. State-dependent volatility is introduced while a key property of Gaussian random field models is retained. Each forward rate is part of a low-dimensional diffusion process, simplifying estimation and derivatives pricing. The modeling approach also implies that, in general, the set of zero coupon bonds does not complete the market, and term structure derivatives cannot always be priced by arbitrage.
@@ -69,7 +69,7 @@ The term structure of interest rates is modeled as a random field with condition
 ## 7. Information and bank credit allocation
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Giovanni Dell'Ariccia
 - Robert Marquez
 ### Abstract

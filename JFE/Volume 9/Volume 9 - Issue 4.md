@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1981
-### Authors
+### Author
 - Michael C. Jensen
 - G.William Schwert
 ### Abstract
@@ -16,7 +16,7 @@
 ## 2. The relation between forward prices and futures prices
 ### Date
 - Dec 1981
-### Authors
+### Author
 - John C. Cox
 - Jonathan E. Ingersoll
 - Stephen A. Ross
@@ -28,7 +28,7 @@ This paper consolidates the results of some recent work on the relation between 
 ## 3. A continuous time equilibrium model of forward prices and futures prices in a multigood economy
 ### Date
 - Dec 1981
-### Authors
+### Author
 - Scott F. Richard
 - M. Sundaresan
 ### Abstract
@@ -39,7 +39,7 @@ This paper is a theoretical investigation of equilibrium forward and futures pri
 ## 4. Forward contracts and futures contracts
 ### Date
 - Dec 1981
-### Authors
+### Author
 - Robert A. Jarrow
 - George S. Oldfield
 ### Abstract
@@ -50,7 +50,7 @@ This paper provides a detailed discussion of the similarities and differences be
 ## 5. A model of international asset pricing
 ### Date
 - Dec 1981
-### Authors
+### Author
 - RenéM. Stulz
 ### Abstract
 In this paper an intertemporal model of international asset pricing is constructed which admits differences in consumption opportunity sets across countries. It is shown that the real expected excess return on a risky asset is proportional to the covariance of the return of that asset with changes in the world real consumption rate. (World real consumption does not, in general, correspond to a basket of commodities consumed by all investors.) The model has no barriers to international investment, but it is compatible with empirical facts which contradict the predictions of earlier models and which seem to imply that asset markets are internationally segmented.
@@ -60,7 +60,7 @@ In this paper an intertemporal model of international asset pricing is construct
 ## 6. Editorial collaborators
 ### Date
 - Dec 1981
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -69,7 +69,7 @@ In this paper an intertemporal model of international asset pricing is construct
 ## 7. News items
 ### Date
 - Dec 1981
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -78,7 +78,7 @@ In this paper an intertemporal model of international asset pricing is construct
 ## 8. Index
 ### Date
 - Dec 1981
-### Authors
+### Author
 ### Abstract
 
 ### Link

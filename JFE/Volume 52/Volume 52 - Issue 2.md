@@ -5,7 +5,7 @@
 ## 1. Effects of bankruptcy court protection on asset sales
 ### Date
 - May 1999
-### Authors
+### Author
 - Todd C. Pulvino
 ### Abstract
 This paper uses commercial aircraft transactions to determine whether prices obtained from asset sales are greater under Chapter 11 reorganization than under Chapter 7 liquidation. Results indicate that prices obtained under both bankruptcy regimes are substantially lower than prices obtained by non-distressed airlines. Furthermore, there is no evidence that prices obtained by firms reorganizing under Chapter 11 are greater than those obtained by firms liquidating under Chapter 7. An analysis of aircraft sales indicates that Chapter 11 is also ineffective in limiting the number of aircraft sold at discounted prices.
@@ -15,7 +15,7 @@ This paper uses commercial aircraft transactions to determine whether prices obt
 ## 2. Ownership and board structures in publicly traded corporations
 ### Date
 - May 1999
-### Authors
+### Author
 - David J Denis
 - Atulya Sarin
 ### Abstract
@@ -26,7 +26,7 @@ We examine the equity ownership structure and board composition of a sample of 5
 ## 3. Does stock price elasticity affect corporate financial decisions?
 ### Date
 - May 1999
-### Authors
+### Author
 - Laurie Simon Hodrick
 ### Abstract
 This paper considers whether stock price elasticity affects corporate financial decisions. Basic economic principles and the existing theoretical literature predict that firms choosing the Dutch auction instead of the fixed price tender offer should be those firms expecting to face greater stock price elasticity. Econometric analysis suggests that firms choosing the Dutch auction instead of the fixed price tender offer between 1984 and 1989 are indeed those firms expecting to face greater stock elasticity, even though the average realized elasticities of the firms conducting the various tender offers fail to be significantly different. The expected elasticity remains an important determinant of the tender offer choice even when allowing for firm characteristics associated with the choice of repurchase method. Firms facing greater elasticity are also characterized. The findings suggest that expected stock price elasticity may be an important determinant of corporate financial decisions that affect the supply of, or demand for, stock.
@@ -36,7 +36,7 @@ This paper considers whether stock price elasticity affects corporate financial 
 ## 4. The rise and fall of the Amex Emerging Company Marketplace
 ### Date
 - May 1999
-### Authors
+### Author
 - Reena Aggarwal
 - James J. Angel
 ### Abstract

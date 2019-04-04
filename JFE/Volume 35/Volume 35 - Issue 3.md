@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1994
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Posted versus effective spreads
 ### Date
 - Jun 1994
-### Authors
+### Author
 - Mitchell A. Petersen
 - David Fialkowski
 ### Abstract
@@ -32,7 +32,7 @@ When trades are executed inside the posted bid-ask spread, the posted spread is 
 ## 3. Venture capitalists and the decision to go public
 ### Date
 - Jun 1994
-### Authors
+### Author
 - Joshua Lerner
 ### Abstract
 This paper examines the timing of initial public offerings and private financings by venture capitalists. Using a sample of 350 privately held venture-backed biotechnology firms between 1978 and 1992, I show that these companies go public when equity valuations are high and employ private financings when values are lower. Seasoned venture capitalists appear to be particularly proficient at taking companies public near market peaks. The results are robust to a variety of controls and alternative explanations.
@@ -42,7 +42,7 @@ This paper examines the timing of initial public offerings and private financing
 ## 4. Bid-ask spreads in the interbank foreign exchange markets
 ### Date
 - Jun 1994
-### Authors
+### Author
 - Hendrik Bessembinder
 ### Abstract
 This study provides evidence on quotations and bid-ask spreads in the wholesale foreign exchange market, and introduces a method to document variation in the placement of quotes relative to asset value. I find that spreads widen with proxies for inventory-carrying costs, including forecasts of price risk and a measure of liquidity costs. Increases in spreads before nontrading periods can also be attributed to inventory costs. The location of currency quotes in relation to value is not constant, and the outcome of hypothesis tests regarding changes in currency value can be sensitive to allowances for variation in quote location.
@@ -52,7 +52,7 @@ This study provides evidence on quotations and bid-ask spreads in the wholesale 
 ## 5. A comparison of financial recontracting in distressed exchanges and chapter 11 reorganizations
 ### Date
 - Jun 1994
-### Authors
+### Author
 - Julian R Franks
 - Walter N Torous
 ### Abstract
@@ -63,7 +63,7 @@ We investigate the financial recontracting of firms completing distressed exchan
 ## 6. Outside directors and the adoption of poison pills
 ### Date
 - Jun 1994
-### Authors
+### Author
 - James A. Brickley
 - Jeffrey L. Coles
 - Rory L. Terry
@@ -75,7 +75,7 @@ We find that the average stock-market reaction to announcements of poison pills 
 ## 7. News items
 ### Date
 - Jun 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -84,7 +84,7 @@ We find that the average stock-market reaction to announcements of poison pills 
 ## 8. Index
 ### Date
 - Jun 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link

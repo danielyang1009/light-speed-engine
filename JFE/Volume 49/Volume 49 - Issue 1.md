@@ -5,7 +5,7 @@
 ## 1. Open-end mutual funds and capital-gains taxes1
 ### Date
 - 1 July
-### Authors
+### Author
 - Michael J. Barclay
 - Neil D. Pearson
 - Michael S. Weisbach
@@ -17,7 +17,7 @@ Despite the fact that taxable investors would prefer to defer the realization of
 ## 2. IPO-mechanisms, monitoring and ownership structure1
 ### Date
 - 1 July
-### Authors
+### Author
 - Neal M Stoughton
 - Josef Zechner
 ### Abstract
@@ -28,7 +28,7 @@ This paper analyzes the effect of different IPO mechanisms on the structure of s
 ## 3. Going public and the ownership structure of the firm
 ### Date
 - 1 July
-### Authors
+### Author
 - Antonio S. Mello
 - John E. Parsons
 ### Abstract
@@ -39,7 +39,7 @@ Going public is a complex process with distinct markets for dispersed shares and
 ## 4. Information and volatility linkages in the stock, bond, and money markets1
 ### Date
 - 1 July
-### Authors
+### Author
 - Jeff Fleming
 - Chris Kirby
 - Barbara Ostdiek

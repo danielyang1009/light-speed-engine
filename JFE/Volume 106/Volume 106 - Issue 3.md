@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Dynamic jump intensities and risk premiums: Evidence from S&P500 returns and options
 ### Date
 - May 2012
-### Authors
+### Author
 - Peter Christoffersen
 - Kris Jacobs
 - Chayawat Ornthanalai
@@ -26,7 +26,7 @@ We build a new class of discrete-time models that are relatively easy to estimat
 ## 3. Technical trading revisited: False discoveries, persistence tests, and transaction costs
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Pierre Bajgrowicz
 - Olivier Scaillet
 ### Abstract
@@ -37,7 +37,7 @@ We revisit the apparent historical success of technical trading rules on daily p
 ## 4. The market for new issues of municipal bonds: The roles of transparency and limited access to retail investors
 ### Date
 - Jul 2012
-### Authors
+### Author
 - Paul Schultz
 ### Abstract
 I examine how transparency and interdealer trading affects prices investors pay in municipal bond offerings. Real-time trade reporting for municipal bonds started January 31, 2005. The dispersion of purchase prices fell sharply at that time. There was little impact on average markups for most trades, but they increased for purchases of more than $100,000. Bonds often pass through a series of dealers before being placed with a buy-and-hold investor. As the interdealer trades progress, trade sizes decline and trade prices rise. Markups on investor purchases increase with the amount of interdealer trading before the trade.
@@ -47,7 +47,7 @@ I examine how transparency and interdealer trading affects prices investors pay 
 ## 5. Stock option vesting conditions, CEO turnover, and myopic investment
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Volker Laux
 ### Abstract
 Corporations have been criticized for providing executives with excessive incentives to focus on short-term performance. This paper shows that investment in short-term projects has beneficial effects in that it provides early feedback about Chief Executive Officer (CEO) talent, which leads to more efficient replacement decisions. Due to the threat of CEO turnover, the optimal design of stock option vesting conditions in executive compensation is more subtle than conventional views suggest. For example, I show that long vesting periods can backfire and induce excessive short-term investments. The study generates new empirical predictions regarding the determinants and impacts of stock option vesting terms in optimal contracting.
@@ -57,7 +57,7 @@ Corporations have been criticized for providing executives with excessive incent
 ## 6. ‘Déjà vol’: Predictive regressions for aggregate stock market volatility using macroeconomic variables
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Bradley S. Paye
 ### Abstract
 Aggregate stock return volatility is both persistent and countercyclical. This paper tests whether it is possible to improve volatility forecasts at monthly and quarterly horizons by conditioning on additional macroeconomic variables. I find that several variables related to macroeconomic uncertainty, time-varying expected stock returns, and credit conditions Granger cause volatility. It is more difficult to find evidence that forecasts exploiting macroeconomic variables outperform a univariate benchmark out-of-sample. The most successful approaches involve simple combinations of individual forecasts. Predictive power associated with macroeconomic variables appears to concentrate around the onset of recessions.
@@ -67,7 +67,7 @@ Aggregate stock return volatility is both persistent and countercyclical. This p
 ## 7. Geographic dispersion and stock returns
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Diego García
 - Øyvind Norli
 ### Abstract
@@ -78,7 +78,7 @@ This paper shows that stocks of truly local firms have returns that exceed the r
 ## 8. Pinning in the S&P 500 futures
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Benjamin Golez
 - Jens Carsten Jackwerth
 ### Abstract
@@ -89,7 +89,7 @@ We show that Standard & Poor's (S&P) 500 futures are pulled toward the at-the-mo
 ## 9. Multifactor models and their consistency with the ICAPM
 ### Date
 - Jul 2012
-### Authors
+### Author
 - Paulo Maio
 - Pedro Santa-Clara
 ### Abstract
@@ -100,7 +100,7 @@ Can any multifactor model be interpreted as a variant of the Intertemporal CAPM 
 ## 10. Bank valuation and accounting discretion during a financial crisis
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Harry Huizinga
 - Luc Laeven
 ### Abstract
@@ -111,7 +111,7 @@ This paper shows that banks overstate the value of distressed assets and their r
 ## 11. Stock returns after major price shocks: The impact of information
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Pavel G. Savor
 ### Abstract
 This paper focuses on stocks that experience major price changes. Using analyst reports as a proxy, I find that price events accompanied by information are followed by drift, while no-information ones result in reversals. One interpretation of these results is that investors underreact to news about fundamentals and overreact to other shocks that move stock prices. Consistent with this hypothesis, information-based price changes are more strongly correlated with future earnings surprises than no-information ones. Furthermore, drift exists only when the direction of the price move and of the change in analyst recommendations have the same sign. Finally, the ratio of no-information to information-based price shocks is strongly correlated with aggregate implied volatility and also forecasts momentum returns.
@@ -121,7 +121,7 @@ This paper focuses on stocks that experience major price changes. Using analyst 
 ## 12. Currency momentum strategies
 ### Date
 - Jun 2012
-### Authors
+### Author
 - Lukas Menkhoff
 - Lucio Sarno
 - Maik Schmeling

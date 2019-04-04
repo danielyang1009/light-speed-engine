@@ -1,0 +1,176 @@
+{
+    "journal": "RFS",
+    "volume": "21",
+    "issue": "1",
+    "date": "January 2008",
+    "page": "Pages 1\u2013482",
+    "article": [
+        {
+            "no": "1",
+            "title": "A Note from the Editor",
+            "date": "01 January 2008",
+            "author": [
+                "Matthew Spiegel Spiegel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhn007"
+        },
+        {
+            "no": "2",
+            "title": "The Causes and Consequences of Recent Financial Market Bubbles: An Introduction",
+            "date": "01 January 2008",
+            "author": [
+                "Utpal Bhattacharya",
+                "Xiaoyun Yu"
+            ],
+            "abstract": "On August 12\u201313, 2005, the department of finance at the Kelley School of Business, Indiana University, collaborated with the Review of Financial Studies to host a conference titled \u201cThe Causes and Consequences of Recent Financial Market Bubbles.\u201d This article begins with our overview of the themes and findings of the conference, and it ends with the questions that the literature has yet to answer.",
+            "link": "https://doi.org/10.1093/rfs/hhn008"
+        },
+        {
+            "no": "3",
+            "title": "Bubbles: Some Perspectives (and Loose Talk) from History",
+            "date": "01 January 2008",
+            "author": [
+                "Maureen O'Hara"
+            ],
+            "abstract": "Bubbles are a topic of great importance and great controversy. This paper discusses alternative perspectives on the economic meaning and origin of bubbles. Drawing on historical approaches to bubbles, this article sets out a taxonomy of approaches used to explain the nature of bubbles. The paper also considers issues connected with the scientific thinking surrounding bubbles.",
+            "link": "https://doi.org/10.1093/rfs/hhn001"
+        },
+        {
+            "no": "4",
+            "title": "Relative Wealth Concerns and Financial Bubbles",
+            "date": "01 January 2008",
+            "author": [
+                "Peter M. DeMarzo",
+                "Ron Kaniel",
+                "Ilan Kremer"
+            ],
+            "abstract": "We present a rational general equilibrium model that highlights the fact that relative wealth concerns can play a role in explaining financial bubbles. We consider a finite-horizon overlapping generations model in which agents care only about their consumption. Though the horizon is finite, competition over future investment opportunities makes agents' utilities dependent on the wealth of their cohort and induces relative wealth concerns. Agents herd into risky securities and drive down their expected return. Even though the bubble is likely to burst and lead to a substantial loss, agents' relative wealth concerns make them afraid to trade against the crowd.",
+            "link": "https://doi.org/10.1093/rfs/hhm032"
+        },
+        {
+            "no": "5",
+            "title": "Mutual Funds and Bubbles: The Surprising Role of Contractual Incentives",
+            "date": "01 January 2008",
+            "author": [
+                "Nishant Dass",
+                "Massimo Massa",
+                "Rajdeep Patgiri"
+            ],
+            "abstract": "This article studies one of the potential causes of the financial market bubble of the late 1990s: the herding behavior of mutual funds. We show that the incentives contained in the mutual funds' advisory contracts induce managers to overcome their tendency to herd. We argue that investing in bubble stocks amounts to herding and contracts with high incentives induce managers to diverge from the herd, thus reducing their holding of bubble stocks. The differential exposure to bubble stocks significantly impacted the funds' performance both in the period prior to March 2000, as well as afterwards.",
+            "link": "https://doi.org/10.1093/rfs/hhm033"
+        },
+        {
+            "no": "6",
+            "title": "Analyst Behavior Following IPOs: The \u201cBubble Period\u201d Evidence",
+            "date": "27 July 2006",
+            "author": [
+                "Daniel J. Bradley",
+                "Bradford D. Jordan",
+                "Jay R. Ritter"
+            ],
+            "abstract": "We examine over 7400 analyst recommendations made in the year after going public for IPOs from 1999 to 2000. Initiations of coverage at the end of the quiet period come almost exclusively from affiliated analysts, whereas initiations afterward are predominantly from unaffiliated analysts. Contrary to previous findings, we find no evidence that the market discounts recommendations from affiliated analysts once we control for recommendation characteristics and timing. Moreover, analyst coverage in the first year is not affected by underpricing, and after the flurry of initiations at the end of the quiet period, the number of analysts covering a firm during the following 11 months is unrelated to the number of managing underwriters. (JEL G12, G14, G24)",
+            "link": "https://doi.org/10.1093/rfs/hhl028"
+        },
+        {
+            "no": "7",
+            "title": "Money Illusion and Housing Frenzies",
+            "date": "01 January 2008",
+            "author": [
+                "Markus K. Brunnermeier",
+                "Christian Julliard"
+            ],
+            "abstract": "A reduction in inflation can fuel run-ups in housing prices if people suffer from money illusion. For example, investors who decide whether to rent or buy a house by simply comparing monthly rent and mortgage payments do not take into account the fact that inflation lowers future real mortgage costs. We decompose the price\u2013rent ratio into a rational component\u2014meant to capture the \u201cproxy effect\u201d and risk premia\u2014and an implied mispricing. We find that inflation and nominal interest rates explain a large share of the time series variation of the mispricing, and that the tilt effect is very unlikely to rationalize this finding.",
+            "link": "https://doi.org/10.1093/rfs/hhm043"
+        },
+        {
+            "no": "8",
+            "title": "Conditioning Information and Variance Bounds on Pricing Kernels with Higher- Order Moments: Theory and Evidence",
+            "date": "20 November 2007",
+            "author": [
+                "Fousseni Chabi-Yo"
+            ],
+            "abstract": "We develop a strategy for utilizing higher moments, variance risk premia, and conditioning information efficiently, and hence improve on the variance bounds computed by Hansen and Jagannathan (1991); Gallant, Hansen, and Tauchen (1990); and Bekaert and Liu (2004). Our bounds reach existing bounds when nonlinearities in returns are not priced. We also use higher moments, variance risk premia, and conditioning information to provide distance measures that improve on the Hansen and Jagannathan (1997) distance measure. Empirical results indicate that when accounting for the impact of higher moments and variance risk premia, the existing pricing kernels have difficulty in explaining returns on the assets and derivatives.",
+            "link": "https://doi.org/10.1093/rfs/hhm053"
+        },
+        {
+            "no": "9",
+            "title": "Estimating the Dynamics of Mutual Fund Alphas and Betas",
+            "date": "01 January 2008",
+            "author": [
+                "Harry Mamaysky",
+                "Matthew Spiegel",
+                "Hong Zhang"
+            ],
+            "abstract": "This article develops a Kalman filter model to track dynamic mutual fund factor loadings. It then uses the estimates to analyze whether managers with market-timing ability can be identified ex ante. The primary findings are as follows: (i) Ordinary least squares (OLS) timing models produce false positives (nonzero alphas) at too high a rate with either daily or monthly data. In contrast, the Kalman filter model produces them at approximately the correct rate with monthly data; (ii) In monthly data, though the OLS models fail to detect any timing among fund managers, the Kalman filter does; (iii) The alpha and beta forecasts from the Kalman model are more accurate than those from the OLS timing models; (iv) The Kalman filter model tracks most fund alphas and betas better than OLS models that employ macroeconomic variables in addition to fund returns.",
+            "link": "https://doi.org/10.1093/rfs/hhm049"
+        },
+        {
+            "no": "10",
+            "title": "A Dynamic Model for the Forward Curve",
+            "date": "01 January 2008",
+            "author": [
+                "Choong Tze Chua",
+                "Dean Foster",
+                "Krishna Ramaswamy",
+                "Robert Stine"
+            ],
+            "abstract": "This article develops and estimates a dynamic arbitrage-free model of the current forward curve as the sum of (i) an unconditional component, (ii) a maturity-specific component and (iii) a date-specific component. The model combines features of the Preferred Habitat model, the Expectations Hypothesis (ET) and affine yield curve models; it permits a class of low-parameter, multiple state variable dynamic models for the forward curve. We show how to construct alternative parametric examples of the three components from a sum of exponential functions, verify that the resulting forward curves satisfy the Heath-Jarrow-Morton (HJM) conditions, and derive the risk-neutral dynamics for the purpose of pricing interest rate derivatives. We select a model from alternative affine examples that are fitted to the Fama-Bliss Treasury data over an initial training period and use it to generate out-of-sample forecasts for forward rates and yields. For forecast horizons of 6 months or longer, the forecasts of this model significantly outperform those from common benchmark models.",
+            "link": "https://doi.org/10.1093/rfs/hhm039"
+        },
+        {
+            "no": "11",
+            "title": "Is Nonlinear Drift Implied by the Short End of the Term Structure?",
+            "date": "10 December 2007",
+            "author": [
+                "Hideyuki Takamizawa"
+            ],
+            "abstract": "Nonlinear drift models of the short rate are estimated using data on the short end of the term structure, where the cross-sectional relation is obtained by an analytical approximation. The findings reveal that (i) nonlinear physical drift is not implied unless it is strongly affected by cross-sectional dimensions of the data; (ii) nonlinear risk-neutral drift that allows for fast mean reversion for high rates is desirable to explain and predict observed patterns of yield spreads; and (iii) for higher frequency data from which transitory shocks are removed, (ii) still remains valid although the nonlinearity is somewhat reduced.",
+            "link": "https://doi.org/10.1093/rfs/hhm072"
+        },
+        {
+            "no": "12",
+            "title": "Two Trees",
+            "date": "20 November 2007",
+            "author": [
+                "John H. Cochrane",
+                "Francis A. Longstaff",
+                "Pedro Santa-Clara"
+            ],
+            "abstract": "We solve a model with two i.i.d. Lucas trees. Although the corresponding one-tree model produces a constant price-dividend ratio and i.i.d. returns, the two-tree model produces interesting asset-pricing dynamics. Investors want to rebalance their portfolios after any change in value. Because the size of the trees is fixed, prices must adjust to offset this desire. As a result, expected returns, excess returns, and return volatility all vary through time. Returns display serial correlation and are predictable from price-dividend ratios. Return volatility differs from cash-flow volatility, and return shocks can occur without news about cash flows.",
+            "link": "https://doi.org/10.1093/rfs/hhm059"
+        },
+        {
+            "no": "13",
+            "title": "Investor Sentiment and Option Prices",
+            "date": "20 November 2007",
+            "author": [
+                "Bing Han"
+            ],
+            "abstract": "This paper examines whether investor sentiment about the stock market affects prices of the S&P 500 options. The findings reveal that the index option volatility smile is steeper (flatter) and the risk-neutral skewness of monthly index return is more (less) negative when market sentiment becomes more bearish (bullish). These significant relations are robust and become stronger when there are more impediments to arbitrage in index options. They cannot be explained by rational perfect-market-based option pricing models. Changes in investor sentiment help explain time variation in the slope of index option smile and risk-neutral skewness beyond factors suggested by the current models.",
+            "link": "https://doi.org/10.1093/rfs/hhm071"
+        },
+        {
+            "no": "14",
+            "title": "Asset Pricing with Limited Risk Sharing and Heterogeneous Agents",
+            "date": "13 November 2007",
+            "author": [
+                "Francisco Gomes",
+                "Alexander Michaelides"
+            ],
+            "abstract": "We develop a model with incomplete markets and heterogeneous agents that generates a large equity premium, while simultaneously matching stock market participation and individual asset holdings. The high risk-premium is driven by incomplete risk sharing among stockholders, which results from the combination of aggregate uncertainty, borrowing constraints, and a (realistically) calibrated life-cycle earnings profile subject to idiosyncratic shocks. We show that it is challenging to simultaneously match asset pricing moments and individual portfolio decisions, while limited participation has a negligible impact on the risk-premium, contrary to the results of models where it is imposed exogenously.",
+            "link": "https://doi.org/10.1093/rfs/hhm063"
+        },
+        {
+            "no": "15",
+            "title": "Stocks or Options? Moral Hazard, Firm Viability, and the Design of Compensation Contracts",
+            "date": "20 November 2007",
+            "author": [
+                "Ohad Kadan",
+                "Jeroen M. Swinkels"
+            ],
+            "abstract": "We consider the choice between stocks and options to provide effort incentives to a risk-averse manager. We show that stocks can dominate options as a means of motivation only if nonviability risk is substantial, as in financially distressed firms or start-ups. Options dominate stocks for other firms. These results hold regardless of the existing portfolio of the manager. We provide empirical evidence that higher bankruptcy risk is indeed correlated with more use of stock.",
+            "link": "https://doi.org/10.1093/rfs/hhm077"
+        }
+    ]
+}

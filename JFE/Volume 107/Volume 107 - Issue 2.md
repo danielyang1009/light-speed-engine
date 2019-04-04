@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Delegated asset management, investment mandates, and capital immobility
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Zhiguo He
 - Wei Xiong
 ### Abstract
@@ -25,7 +25,7 @@ This paper develops a model to explain the widely used investment mandates in th
 ## 3. Is there price discovery in equity options?
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Dmitriy Muravyev
 - Neil D. Pearson
 - John Paul Broussard
@@ -37,7 +37,7 @@ We use tick-by-tick quote data for 39 liquid US stocks and options on them, and 
 ## 4. Realizing smiles: Options pricing with realized volatility
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Fulvio Corsi
 - Nicola Fusari
 - Davide La Vecchia
@@ -49,7 +49,7 @@ We develop a discrete-time stochastic volatility option pricing model exploiting
 ## 5. Government spending, political cycles, and the cross section of stock returns
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Frederico Belo
 - Vito D. Gala
 - Jun Li
@@ -61,7 +61,7 @@ Using a novel measure of industry exposure to government spending, we show predi
 ## 6. Growth to value: Option exercise and the cross section of equity returns
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Hengjie Ai
 - Dana Kiku
 ### Abstract
@@ -72,7 +72,7 @@ We propose a general equilibrium model to study the link between the cross secti
 ## 7. Growth options, macroeconomic conditions, and the cross section of credit risk
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Marc Arnold
 - Alexander F. Wagner
 - Ramona Westermann
@@ -84,7 +84,7 @@ This paper develops a structural equilibrium model with intertemporal macroecono
 ## 8. Contagion of a liquidity crisis between two firms
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Frederick Dongchuhl Oh
 ### Abstract
 This paper presents a model in which the contagion of a liquidity crisis between two nonfinancial institutions occurs because of learning activity within a common creditor pool. After creditors observe what occurs in a rollover game for a firm, they conjecture one another's “type” or attitude toward the risk associated with the firm's investment project. Creditors' inference about one another's type then influences their decision to lend to the next firm. By providing an analysis of the “incidence of failure” (the threshold for a liquidity crisis) for each firm, this paper demonstrates that the risk of contagion increases sharply if it originates ex ante from a firm facing a low probability of failure. In addition, the paper proposes some policy measures for mitigating the severity of contagion during a liquidity crisis.
@@ -94,7 +94,7 @@ This paper presents a model in which the contagion of a liquidity crisis between
 ## 9. Capacity constraints, investor information, and hedge fund returns
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Tarun Ramadorai
 ### Abstract
 To identify capacity constraints in hedge funds and simultaneously gauge how well-informed hedge fund investors are, we need measures of investor demand that do not affect deployed hedge fund assets. Using new data on investor interest from a secondary market for hedge funds, this paper verifies the existence of capacity constraints in hedge funds. There is more mixed evidence on the information available to hedge fund investors. Buy and sell indications arrive following fund outperformance. While buy indications have little incremental power to predict hedge fund performance over and above well-known forecasting variables, sell indications do somewhat better.
@@ -104,7 +104,7 @@ To identify capacity constraints in hedge funds and simultaneously gauge how wel
 ## 10. The impact of investor protection law on corporate policy and performance: Evidence from the blue sky laws
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Ashwini K. Agrawal
 ### Abstract
 Recent studies have debated the impact of investor protection law on corporate behavior and value. I exploit the staggered passage of state securities fraud statutes (“blue sky laws”) in the United States to estimate the causal effects of investor protection law on firm financing decisions and investment activity. The statutes induce firms to increase dividends, issue equity, and grow in size. The laws also facilitate improvements in operating performance and market valuations. Overall, the evidence is strongly supportive of theoretical models that predict investor protection law has a significant impact on corporate policy and performance.
@@ -114,7 +114,7 @@ Recent studies have debated the impact of investor protection law on corporate b
 ## 11. Nonlinear incentives and mortgage officers’ decisions
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Konstantinos Tzioumis
 - Matthew Gee
 ### Abstract
@@ -125,7 +125,7 @@ In the aftermath of the recent financial crisis, banks should ensure that their 
 ## 12. The impact of securitization on the expansion of subprime credit
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Taylor D. Nadauld
 - Shane M. Sherlund
 ### Abstract
@@ -136,7 +136,7 @@ This paper investigates the relationship between securitization activity and the
 ## 13. CEO compensation contagion: Evidence from an exogenous shock
 ### Date
 - Sep 2012
-### Authors
+### Author
 - Frederick L. Bereskin
 - David C. Cicero
 ### Abstract
@@ -147,7 +147,7 @@ We examine how Chief Executive Officer (CEO) compensation increased at a subset 
 ## 14. Changes to the ownership and control of East Asian corporations between 1996 and 2008: The primacy of politics
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Richard W. Carney
 - Travers Barclay Child
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Stock market driven acquisitions
 ### Date
 - Dec 2003
-### Authors
+### Author
 - Andrei Shleifer
 - Robert W. Vishny
 ### Abstract
@@ -25,7 +25,7 @@ We present a model of mergers and acquisitions based on stock market misvaluatio
 ## 3. Culture, openness, and finance
 ### Date
 - Dec 2003
-### Authors
+### Author
 - René M. Stulz
 - Rohan Williamson
 ### Abstract
@@ -36,7 +36,7 @@ Differences in culture, proxied by differences in religion and language, cannot 
 ## 4. Boundaries of the firm: evidence from the banking industry
 ### Date
 - Dec 2003
-### Authors
+### Author
 - James A Brickley
 - James S Linck
 - Clifford W Smith
@@ -48,7 +48,7 @@ Agency theory implies that asset ownership and decision authority are complement
 ## 5. Quote-based competition and trade execution costs in NYSE-listed stocks
 ### Date
 - Dec 2003
-### Authors
+### Author
 - Hendrik Bessembinder
 ### Abstract
 This study examines quotations, order routing, and trade execution costs for seven markets that compete for orders in large-capitalization NYSE-listed stocks. The competitiveness of quote updates from each market varies with measures of the profitability of attracting additional order and with volatility and inventory measures. The probability of a trade executing on each market increases when the market posts competitive quotes. Execution costs for non-NYSE trades when the local market posts competitive (non-competitive) quotes are virtually the same (substantially exceed) costs for matched NYSE trades. Collectively, these results imply a significant degree of quote-based competition for order flow and are consistent with off-NYSE liquidity providers using competitive quotations to signal when they are prepared to give better-than-normal trade executions.
@@ -58,7 +58,7 @@ This study examines quotations, order routing, and trade execution costs for sev
 ## 6. How much do firms hedge with derivatives?
 ### Date
 - Dec 2003
-### Authors
+### Author
 - Wayne Guay
 - S.P Kothari
 ### Abstract
@@ -69,7 +69,7 @@ For 234 large non-financial corporations using derivatives, we report the magnit
 ## 7. Likelihood-based specification analysis of continuous-time models of the short-term interest rate
 ### Date
 - Dec 2003
-### Authors
+### Author
 - Garland B. Durham
 ### Abstract
 An extensive collection of continuous-time models of the short-term interest rate is evaluated over data sets that have appeared previously in the literature. The analysis, which uses the simulated maximum likelihood procedure proposed by Durham and Gallant (2002), provides new insights regarding several previously unresolved questions. For single factor models, I find that the volatility, not the drift, is the critical component in model specification. Allowing for additional flexibility beyond a constant term in the drift provides negligible benefit. While constant drift would appear to imply that the short rate is nonstationary, in fact, stationarity is volatility-induced. The simple constant elasticity of volatility model fits weekly observations of the three-month Treasury bill rate remarkably well but is easily rejected when compared with more flexible volatility specifications over daily data. The methodology of Durham and Gallant can also be used to estimate stochastic volatility models. While adding the latent volatility component provides a large improvement in the likelihood for the physical process, it does little to improve bond-pricing performance.
@@ -79,7 +79,7 @@ An extensive collection of continuous-time models of the short-term interest rat
 ## 8. Index
 ### Date
 - Dec 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link

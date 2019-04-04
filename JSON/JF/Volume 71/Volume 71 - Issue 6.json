@@ -1,0 +1,264 @@
+{
+    "journal": "JF",
+    "volume": "71",
+    "issue": "6",
+    "date": "December 2016",
+    "page": "Pages: 2489-3125",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION \u2010 ED BOARD",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12349"
+        },
+        {
+            "no": "2",
+            "title": "ISSUE INFORMATION \u2010 HELP DESK",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12350"
+        },
+        {
+            "no": "3",
+            "title": "ISSUE INFORMATION \u2010 TOC",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12348"
+        },
+        {
+            "no": "4",
+            "title": "Misspecified Recovery",
+            "date": "29 February 2016",
+            "author": [
+                "JAROSLAV BOROVI\u010cKA",
+                "LARS PETER HANSEN",
+                "JOS\u00c9 A. SCHEINKMAN"
+            ],
+            "abstract": "Asset prices contain information about the probability distribution of future states and the stochastic discounting of those states as used by investors. To better understand the challenge in distinguishing investors' beliefs from risk\u2010adjusted discounting, we use Perron\u2013Frobenius Theory to isolate a positive martingale component of the stochastic discount factor process. This component recovers a probability measure that absorbs long\u2010term risk adjustments. When the martingale is not degenerate, surmising that this recovered probability captures investors' beliefs distorts inference about risk\u2010return tradeoffs. Stochastic discount factors in many structural models of asset prices have empirically relevant martingale components.",
+            "link": "https://doi.org/10.1111/jofi.12404"
+        },
+        {
+            "no": "5",
+            "title": "Do Creditor Rights Increase Employment Risk? Evidence from Loan Covenants",
+            "date": "04 August 2016",
+            "author": [
+                "ANTONIO FALATO",
+                "NELLIE LIANG"
+            ],
+            "abstract": "Using a regression discontinuity design, we provide evidence that there are sharp and substantial employment cuts following loan covenant violations, when creditors gain rights to accelerate, restructure, or terminate a loan. The cuts are larger at firms with higher financing frictions and with weaker employee bargaining power, and during industry and macroeconomic downturns, when employees have fewer job opportunities. Union elections that create new labor bargaining units lead to higher loan spreads, consistent with creditors requiring compensation when employees gain bargaining power. Overall, binding financial contracts have a large impact on employees and are an amplification mechanism of economic downturns.",
+            "link": "https://doi.org/10.1111/jofi.12435"
+        },
+        {
+            "no": "6",
+            "title": "Corporate Scandals and Household Stock Market Participation",
+            "date": "19 February 2016",
+            "author": [
+                "MARIASSUNTA GIANNETTI",
+                "TRACY YUE WANG"
+            ],
+            "abstract": "We show that, after the revelation of corporate fraud in a state, household stock market participation in that state decreases. Households decrease holdings in fraudulent as well as nonfraudulent firms, even if they do not hold stocks in fraudulent firms. Within a state, households with more lifetime experience of corporate fraud hold less equity. Following the exogenous increase in fraud revelation due to Arthur Andersen's demise, states with more Arthur Andersen clients experience a larger decrease in stock market participation. We provide evidence that the documented effect is likely to reflect a loss of trust in the stock market.",
+            "link": "https://doi.org/10.1111/jofi.12399"
+        },
+        {
+            "no": "7",
+            "title": "Credit Rationing, Income Exaggeration, and Adverse Selection in the Mortgage Market",
+            "date": "23 May 2016",
+            "author": [
+                "BRENT W. AMBROSE",
+                "JAMES CONKLIN",
+                "JIRO YOSHIDA"
+            ],
+            "abstract": "We examine the role of borrower concerns about future credit availability in mitigating the effects of adverse selection and income misrepresentation in the mortgage market. We show that the majority of additional risk associated with \u201clow\u2010doc\u201d mortgages originated prior to the Great Recession was due to adverse selection on the part of borrowers who could verify income but chose not to. We provide novel evidence that these borrowers were more likely to inflate or exaggerate their income. Our analysis suggests that recent regulatory changes that have essentially eliminated the low\u2010doc loan product would result in credit rationing against self\u2010employed borrowers.",
+            "link": "https://doi.org/10.1111/jofi.12426"
+        },
+        {
+            "no": "8",
+            "title": "A Tale of Two Runs: Depositor Responses to Bank Solvency Risk",
+            "date": "20 May 2016",
+            "author": [
+                "RAJKAMAL IYER",
+                "MANJU PURI",
+                "NICHOLAS RYAN"
+            ],
+            "abstract": "We examine heterogeneity in depositor responses to solvency risk using depositor\u2010level data for a bank that faced two different runs. We find that depositors with loans and bank staff are less likely to run than others during a low\u2010solvency\u2010risk shock, but are more likely to run during a high\u2010solvency\u2010risk shock. Uninsured depositors are also sensitive to bank solvency. In contrast, depositors with older accounts run less, and those with frequent past transactions run more, irrespective of the underlying risk. Our results show that the fragility of a bank depends on the composition of its deposit base.",
+            "link": "https://doi.org/10.1111/jofi.12424"
+        },
+        {
+            "no": "9",
+            "title": "\u201cLucas\u201d in the Laboratory",
+            "date": "03 February 2016",
+            "author": [
+                "ELENA ASPAROUHOVA",
+                "PETER BOSSAERTS",
+                "NILANJAN ROY",
+                "WILLIAM ZAME"
+            ],
+            "abstract": "We study the Lucas asset pricing model in a controlled setting. Participants trade two long\u2010lived securities in a continuous open\u2010book system. The experimental design emulates the stationary, infinite\u2010horizon setting of the model and incentivizes participants to smooth consumption across periods. Consistent with the model, prices align with consumption betas and comove with aggregate dividends, particularly so when risk premia are higher. Trading significantly increases consumption smoothing compared to autarky. Nevertheless, as in field markets, prices are excessively volatile. The noise corrupts traditional generalized method of moment tests. Choices display substantial heterogeneity, with no subject representative for pricing.",
+            "link": "https://doi.org/10.1111/jofi.12392"
+        },
+        {
+            "no": "10",
+            "title": "Compensating Financial Experts",
+            "date": "13 October 2015",
+            "author": [
+                "VINCENT GLODE",
+                "RICHARD LOWERY"
+            ],
+            "abstract": "We propose a labor market model in which financial firms compete for a scarce supply of workers who can be employed as either bankers or traders. While hiring bankers helps create a surplus that can be split between a firm and its trading counterparties, hiring traders helps the firm appropriate a greater share of that surplus away from its counterparties. Firms bid defensively for workers bound to become traders, who then earn more than bankers. As counterparties employ more traders, the benefit of employing bankers decreases. The model sheds light on the historical evolution of compensation in finance.",
+            "link": "https://doi.org/10.1111/jofi.12372"
+        },
+        {
+            "no": "11",
+            "title": "Learning about Mutual Fund Managers",
+            "date": "29 February 2016",
+            "author": [
+                "DARWIN CHOI",
+                "BIGE KAHRAMAN",
+                "ABHIROOP MUKHERJEE"
+            ],
+            "abstract": "We study capital allocations to managers with two mutual funds, and show that investors learn about managers from their performance records. Flows into a fund are predicted by the manager's performance in his other fund, especially when he outperforms and when signals from the other fund are more useful. In equilibrium, capital should be allocated such that there is no cross\u2010fund predictability. However, we find positive predictability, particularly among underperforming funds. Our results are consistent with incomplete learning: while investors move capital in the right direction, they do not withdraw enough capital when the manager underperforms in his other fund.",
+            "link": "https://doi.org/10.1111/jofi.12405"
+        },
+        {
+            "no": "12",
+            "title": "Valuation Risk and Asset Pricing",
+            "date": "04 August 2016",
+            "author": [
+                "RUI ALBUQUERQUE",
+                "MARTIN EICHENBAUM",
+                "VICTOR XI LUO",
+                "SERGIO REBELO"
+            ],
+            "abstract": "Standard representative\u2010agent models fail to account for the weak correlation between stock returns and measurable fundamentals, such as consumption and output growth. This failing, which underlies virtually all modern asset pricing puzzles, arises because these models load all uncertainty onto the supply side of the economy. We propose a simple theory of asset pricing in which demand shocks play a central role. These shocks give rise to valuation risk that allows the model to account for key asset pricing moments, such as the equity premium, the bond term premium, and the weak correlation between stock returns and fundamentals.",
+            "link": "https://doi.org/10.1111/jofi.12437"
+        },
+        {
+            "no": "13",
+            "title": "Behind the Scenes: The Corporate Governance Preferences of Institutional Investors",
+            "date": "03 February 2016",
+            "author": [
+                "JOSEPH A. McCAHERY",
+                "ZACHARIAS SAUTNER",
+                "LAURA T. STARKS"
+            ],
+            "abstract": "We survey institutional investors to better understand their role in the corporate governance of firms. Consistent with a number of theories, we document widespread behind\u2010the\u2010scenes intervention as well as governance\u2010motivated exit. These governance mechanisms are viewed as complementary devices, with intervention typically occurring prior to a potential exit. We further find that long\u2010term investors and investors that are less concerned about stock liquidity intervene more intensively. Finally, we find that most investors use proxy advisors and believe that the information provided by such advisors improves their own voting decisions.",
+            "link": "https://doi.org/10.1111/jofi.12393"
+        },
+        {
+            "no": "14",
+            "title": "Ties That Bind: How Business Connections Affect Mutual Fund Activism",
+            "date": "23 May 2016",
+            "author": [
+                "DRAGANA CVIJANOVI\u0106",
+                "AMIL DASGUPTA",
+                "KONSTANTINOS E. ZACHARIADIS"
+            ],
+            "abstract": "We investigate whether business ties with portfolio firms influence mutual funds' proxy voting using a comprehensive data set spanning 2003 to 2011. In contrast to prior literature, we find that business ties significantly influence promanagement voting at the level of individual pairs of fund families and firms after controlling for Institutional Shareholder Services (ISS) recommendations and holdings. The association is significant only for shareholder\u2010sponsored proposals and stronger for those that pass or fail by relatively narrow margins. Our findings are consistent with a demand\u2010driven model of biased voting in which company managers use existing business ties with funds to influence how they vote.",
+            "link": "https://doi.org/10.1111/jofi.12425"
+        },
+        {
+            "no": "15",
+            "title": "Infrequent Rebalancing, Return Autocorrelation, and Seasonality",
+            "date": "04 August 2016",
+            "author": [
+                "VINCENT BOGOUSSLAVSKY"
+            ],
+            "abstract": "A model of infrequent rebalancing can explain specific predictability patterns in the time series and cross\u2010section of stock returns. First, infrequent rebalancing produces return autocorrelations that are consistent with empirical evidence from intraday returns and new evidence from daily returns. Autocorrelations can switch sign and become positive at the rebalancing horizon. Second, the cross\u2010sectional variance in expected returns is larger when more traders rebalance. This effect generates seasonality in the cross\u2010section of stock returns, which can help explain available empirical evidence.",
+            "link": "https://doi.org/10.1111/jofi.12436"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12474"
+        },
+        {
+            "no": "17",
+            "title": "ANNOUNCEMENTS",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12478"
+        },
+        {
+            "no": "18",
+            "title": "INDEX TO VOLUME LXXI",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12480"
+        },
+        {
+            "no": "19",
+            "title": "INDEX TO VOLUME LXXI",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12481"
+        },
+        {
+            "no": "20",
+            "title": "Preliminary ProgramAFA 2017 CHICAGO MEETINGS SEVENTY SEVENTH ANNUAL MEETINGAMERICAN FINANCE ASSOCIATION Chicago, Illinois",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12476"
+        },
+        {
+            "no": "21",
+            "title": "Participant Schedule Report articipants in the AFA 2017 Chicago Meetings January 6\u20138, 2017",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12479"
+        },
+        {
+            "no": "22",
+            "title": "American Finance Association",
+            "date": "10 November 2016",
+            "author": [
+                "Peter DeMarzo"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12477"
+        },
+        {
+            "no": "23",
+            "title": "Issue Information \u2010 Seeking Permission",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12354"
+        },
+        {
+            "no": "24",
+            "title": "Issue Information \u2010 Style Instuctions",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12351"
+        },
+        {
+            "no": "25",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12352"
+        },
+        {
+            "no": "26",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "10 November 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12353"
+        }
+    ]
+}

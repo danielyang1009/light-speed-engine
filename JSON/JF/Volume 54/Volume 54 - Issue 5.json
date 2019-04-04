@@ -1,0 +1,202 @@
+{
+    "journal": "JF",
+    "volume": "54",
+    "issue": "5",
+    "date": "October 1999",
+    "page": "Pages: i-vii, 1553-1938, viii-lxxiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "16 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1999.tb00605.x"
+        },
+        {
+            "no": "2",
+            "title": "Optimal Investment, Growth Options, and Security Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Jonathan B. Berk",
+                "Richard C. Green",
+                "Vasant Naik"
+            ],
+            "abstract": "As a consequence of optimal investment choices, a firm's assets and growth options change in predictable ways. Using a dynamic model, we show that this imparts predictability to changes in a firm's systematic risk, and its expected return. Simulations show that the model simultaneously reproduces: (i) the time\u2010series relation between the book\u2010to\u2010market ratio and asset returns; (ii) the cross\u2010sectional relation between book\u2010to\u2010market, market value, and return; (iii) contrarian effects at short horizons; (iv) momentum effects at longer horizons; and (v) the inverse relation between interest rates and the market risk premium.",
+            "link": "https://doi.org/10.1111/0022-1082.00161"
+        },
+        {
+            "no": "3",
+            "title": "Estimating Portfolio and Consumption Choice: A Conditional Euler Equations Approach",
+            "date": "17 December 2002",
+            "author": [
+                "Michael W. Brandt"
+            ],
+            "abstract": "This paper develops a nonparametric approach to examine how portfolio and consumption choice depends on variables that forecast time\u2010varying investment opportunities. I estimate single\u2010period and multiperiod portfolio and consumption rules of an investor with constant relative risk aversion and a one\u2010month to 20\u2010year horizon. The investor allocates wealth to the NYSE index and a 30\u2010day Treasury bill. I find that the portfolio choice varies significantly with the dividend yield, default premium, term premium, and lagged excess return. Furthermore, the optimal decisions depend on the investor's horizon and rebalancing frequency.",
+            "link": "https://doi.org/10.1111/0022-1082.00162"
+        },
+        {
+            "no": "4",
+            "title": "Data\u2010Snooping, Technical Trading Rule Performance, and the Bootstrap",
+            "date": "17 December 2002",
+            "author": [
+                "Ryan Sullivan",
+                "Allan Timmermann",
+                "Halbert White"
+            ],
+            "abstract": "In this paper we utilize White's Reality Check bootstrap methodology (White (1999)) to evaluate simple technical trading rules while quantifying the data\u2010snooping bias and fully adjusting for its effect in the context of the full universe from which the trading rules were drawn. Hence, for the first time, the paper presents a comprehensive test of performance across all technical trading rules examined. We consider the study of Brock, Lakonishok, and LeBaron (1992), expand their universe of 26 trading rules, apply the rules to 100 years of daily data on the Dow Jones Industrial Average, and determine the effects of data\u2010snooping.",
+            "link": "https://doi.org/10.1111/0022-1082.00163"
+        },
+        {
+            "no": "5",
+            "title": "What is the Intrinsic Value of the Dow?",
+            "date": "17 December 2002",
+            "author": [
+                "Charles M. C. Lee",
+                "James Myers",
+                "Bhaskaran Swaminathan"
+            ],
+            "abstract": "We model the time\u2010series relation between price and intrinsic value as a cointegrated system, so that price and value are long\u2010term convergent. In this framework, we compare the performance of alternative estimates of intrinsic value for the Dow 30 stocks. During 1963\u20131996, traditional market multiples (e.g., B/P, E/P, and D/P ratios) have little predictive power. However, a V/P ratio, where V is based on a residual income valuation model, has statistically reliable predictive power. Further analysis shows time\u2010varying interest rates and analyst forecasts are important to the success of V. Alternative forecast horizons and risk premia are less important.",
+            "link": "https://doi.org/10.1111/0022-1082.00164"
+        },
+        {
+            "no": "6",
+            "title": "Performance Evaluation with Transactions Data: The Stock Selection of Investment Newsletters",
+            "date": "17 December 2002",
+            "author": [
+                "Andrew Metrick"
+            ],
+            "abstract": "This paper analyzes the equity\u2010portfolio recommendations made by investment newsletters. Overall, there is no significant evidence of superior stock\u2010picking ability for this sample of 153 newsletters. Moreover, there is no evidence of abnormal short\u2010run performance persistence (\u201chot hands\u201d). The comprehensive and bias\u2010free transactions database also allows for insights into the precision of performance evaluation. Using a measure of precision defined in the paper, a transactions\u2010based approach yields a median improvement of 10 percent over a corresponding factor model. This compares favorably with the precision gained by adding factors to the CAPM.",
+            "link": "https://doi.org/10.1111/0022-1082.00165"
+        },
+        {
+            "no": "7",
+            "title": "Inefficiency in Analysts' Earnings Forecasts: Systematic Misreaction or Systematic Optimism?",
+            "date": "17 December 2002",
+            "author": [
+                "John C. Easterwood",
+                "Stacey R. Nutt"
+            ],
+            "abstract": "A rational analysis of analyst behavior predicts that analysts immediately and without bias incorporate information into their forecasts. Several studies document analysts' tendency to systematically underreact to information. Underreaction is inconsistent with rationality. Other studies indicate that analysts systematically overreact to new information or that they are systematically optimistic. This study discriminates between these three hypotheses by examining the interaction between the nature of information and the type of reaction by analysts. The evidence indicates that analysts underreact to negative information, but overreact to positive information. These results are consistent with systematic optimism in response to information.",
+            "link": "https://doi.org/10.1111/0022-1082.00166"
+        },
+        {
+            "no": "8",
+            "title": "Preferencing, Internalization, Best Execution, and Dealer Profits",
+            "date": "17 December 2002",
+            "author": [
+                "Oliver Hansch",
+                "Narayan Y. Naik",
+                "S. Viswanathan"
+            ],
+            "abstract": "The practices of preferencing and internalization have been alleged to support collusion, cause worse execution, and lead to wider spreads in dealership style markets relative to auction style markets. For a sample of London Stock Exchange stocks, we find that preferenced trades pay higher spreads, however they do not generate higher dealer profits. Internalized trades pay lower, not higher, spreads. We do not find a relation between the extent of preferencing or internalization and spreads across stocks. These results do not lend support to the \u201ccollusion\u201d hypothesis but are consistent with a \u201ccostly search and trading relationships\u201d hypothesis.",
+            "link": "https://doi.org/10.1111/0022-1082.00167"
+        },
+        {
+            "no": "9",
+            "title": "CEO Involvement in the Selection of New Board Members: An Empirical Analysis",
+            "date": "17 December 2002",
+            "author": [
+                "Anil Shivdasani",
+                "David Yermack"
+            ],
+            "abstract": "We study whether CEO involvement in the selection of new directors influences the nature of appointments to the board. When the CEO serves on the nominating committee or no nominating committee exists, firms appoint fewer independent outside directors and more gray outsiders with conflicts of interest. Stock price reactions to independent director appointments are significantly lower when the CEO is involved in director selection. Our evidence may illuminate a mechanism used by CEOs to reduce pressure from active monitoring, and we find a recent trend of companies removing CEOs from involvement in director selection.",
+            "link": "https://doi.org/10.1111/0022-1082.00168"
+        },
+        {
+            "no": "10",
+            "title": "The Equity Performance of Firms Emerging from Bankruptcy",
+            "date": "17 December 2002",
+            "author": [
+                "Allan C. Eberhart",
+                "Edward I. Altman",
+                "Reena Aggarwal"
+            ],
+            "abstract": "This study assesses the stock return performance of 131 firms emerging from Chapter 11. Using differing estimates of expected returns, we consistently find evidence of large, positive excess returns in 200 days of returns following emergence. We also examine the reaction of our sample firms' equity returns to their earnings announcements after emergence from Chapter 11. The positive and significant reactions suggest that our results are driven by the market's expectational errors, not mismeasurement of risk. The results provide an interesting contrast, but not a contradiction, to previous work that has documented poor operating performance for firms emerging from Chapter 11.",
+            "link": "https://doi.org/10.1111/0022-1082.00169"
+        },
+        {
+            "no": "11",
+            "title": "The Slope of the Credit Yield Curve for Speculative\u2010Grade Issuers",
+            "date": "17 December 2002",
+            "author": [
+                "Jean Helwege",
+                "Christopher M. Turner"
+            ],
+            "abstract": "Many theoretical bond pricing models predict that the credit yield curve facing risky bond issuers is downward\u2010sloping. Previous empirical research (Sarig and Warga (1989), Fons (1994)) supports these models. Our study examines sets of bonds issued by the same firm with equal priority in the liability structure, but with different maturities, thus holding credit quality constant. We find, counter to prior research, that risky bonds typically have upward\u2010sloping credit yield curves. Moreover, when we combine our matched sets of bonds (no longer controlling credit quality), the estimated slope is negative, indicating a sample selection bias problem associated with maturity.",
+            "link": "https://doi.org/10.1111/0022-1082.00170"
+        },
+        {
+            "no": "12",
+            "title": "Liquidity Provision and Noise Trading: Evidence from the \u201cInvestment Dartboard\u201d Column",
+            "date": "17 December 2002",
+            "author": [
+                "Jason Greene",
+                "Scott Smart"
+            ],
+            "abstract": "How does increased noise trading affect market liquidity and trading costs? We use The Wall Street Journal's \u201cInvestment Dartboard\u201d column, which stimulates noise trading, as a natural experiment to evaluate models of the bid\u2010ask spread. We find that substantial increases in trading volume and significant but temporary abnormal returns occur when analysts recommend stocks in this column, especially when recommendations come from analysts with successful contest track records. We also find an increase in liquidity and a decrease in the adverse selection component of the bid\u2010ask spread.",
+            "link": "https://doi.org/10.1111/0022-1082.00171"
+        },
+        {
+            "no": "13",
+            "title": "Price Formation and Liquidity in the U.S. Treasury Market: The Response to Public Information",
+            "date": "17 December 2002",
+            "author": [
+                "Michael J. Fleming",
+                "Eli M. Remolona"
+            ],
+            "abstract": "The arrival of public information in the U.S. Treasury market sets off a two\u2010stage adjustment process for prices, trading volume, and bid\u2010ask spreads. In a brief first stage, the release of a major macroeconomic announcement induces a sharp and nearly instantaneous price change with a reduction in trading volume, demonstrating that price reactions to public information do not require trading. The spread widens dramatically at announcement, evidently driven by inventory control concerns. In a prolonged second stage, trading volume surges, price volatility persists, and spreads remain moderately wide as investors trade to reconcile residual differences in their private views.",
+            "link": "https://doi.org/10.1111/0022-1082.00172"
+        },
+        {
+            "no": "14",
+            "title": "Book Reviews",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "Books reviewed:\nMarcia Millon Cornett and Anthony Saunders, Fundamentals of Financial Institution Management\nGeorge Soros, The Crisis of Global Capitalism",
+            "link": "https://doi.org/10.1111/1540-6261.00173"
+        },
+        {
+            "no": "15",
+            "title": "Erratum from the Editor",
+            "date": "17 December 2002",
+            "author": [
+                "Ren\u00e9 M. Stulz"
+            ],
+            "abstract": "To avoid a Y2K problem, we upgraded the software that tracks the work of referees early this year. Unfortunately, as a result of this switch in software, our list of referees in the annual report is incomplete. I apologize to the following individuals who refereed for the Journal in 1998 but were omitted from the list of referees in the annual report:\nAdler, Michael\nAit\u2010Sahalia, Yacine\nBarclay, Michael\nBerger, Allen\nBergman, Yaacov\nBessembinder, Hendrik\nBiais, Bruno\nBlack, Harold\nBloomfield, Robert\nBradley, Michael\nChan, Kalok\nChen, Nai\u2010fu\nCooper, Ian\nCoval, Joshua\nCrack, Timothy\nCuny, Charles\nDammon, Robert\nEaston, peter\nFleming, Jeff\nGeorge, Thomas\nGorton, Gary\nHadlock, Charles\nHelwege, Jean\nHeston, Steven\nHirshleifer, David\nHolden, Craig\nHuang, Ming\nHughes, Patricia\nHumphrey, David\nJagannathan, Ravi\nKarolyi, Andrew\nKimball, Miles\nKothari, S.P.\nLee Inmoo\nLiu, Hong\nLivingston, Miles\nMaksimovic, Vojislav\nMalatesta, Paul\nMark, Nelson\nMester, Loretta\nMetrick, Andrew\nMulherin, J.\nNimalendran, M.\nPerrakis, Stylianos\nPinegar, J.\nPulvino, Todd\nRosen, Richard\nSchnitzlein, Charles\nScruggs, John\nSerrat, Angel\nShanken, Jay\nShin, Han\nShroff, Pervin\nStambaugh, Robert\nTehranian, Hassan\nVu, Joseph\nWalkling, Ralph\nWeinstein, Mark\nWest, Kenneth\nWood, Robert\nZapatero, Fernando\nZhou, Chunsheng\nZhou, Zhongquan\nZingales, Luigi",
+            "link": "https://doi.org/10.1111/0022-1082.00174"
+        },
+        {
+            "no": "16",
+            "title": "Miscellanea",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00175"
+        },
+        {
+            "no": "17",
+            "title": "Announcements",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00176"
+        },
+        {
+            "no": "18",
+            "title": "Association Meetings",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00177"
+        },
+        {
+            "no": "19",
+            "title": "Back Matter",
+            "date": "16 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1999.tb00606.x"
+        }
+    ]
+}

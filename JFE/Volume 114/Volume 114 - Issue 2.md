@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Conditional risk premia in currency markets and other asset classes
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Martin Lettau
 - Matteo Maggiori
 - Michael Weber
@@ -26,7 +26,7 @@ The downside risk capital asset pricing model (DR-CAPM) can price the cross sect
 ## 3. Disagreement and asset prices
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Bruce I. Carlin
 - Francis A. Longstaff
 - Kyle Matoba
@@ -38,7 +38,7 @@ How do differences of opinion affect asset prices? Do investors earn a risk prem
 ## 4. Access to management and the informativeness of analyst research
 ### Date
 - Jul 2014
-### Authors
+### Author
 - T. Clifton Green
 - Russell Jame
 - Stanimir Markov
@@ -51,7 +51,7 @@ We examine whether access to management at broker-hosted investor conferences le
 ## 5. Corporate distress and lobbying: Evidence from the Stimulus Act
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Manuel Adelino
 - I. Serdar Dinc
 ### Abstract
@@ -62,7 +62,7 @@ The literature on distressed firms has focused on these firms’ investment, cap
 ## 6. Did bank distress stifle innovation during the Great Depression?
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Ramana Nanda
 - Tom Nicholas
 ### Abstract
@@ -73,7 +73,7 @@ We find a negative relationship between bank distress and the level, quality and
 ## 7. Did going public impair Moody׳s credit ratings?
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Simi Kedia
 - Shivaram Rajgopal
 - Xing Zhou
@@ -85,7 +85,7 @@ We investigate a prominent allegation in congressional hearings that Moody׳s lo
 ## 8. Shareholder democracy in play: Career consequences of proxy contests
 ### Date
 - Jul 2014
-### Authors
+### Author
 - Vyacheslav Fos
 - Margarita Tsoutsoura
 ### Abstract
@@ -96,7 +96,7 @@ This paper shows that proxy contests have a significant adverse effect on career
 ## 9. Dispersion in beliefs among active mutual funds and the cross-section of stock returns
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Hao Jiang
 - Zheng Sun
 ### Abstract
@@ -107,7 +107,7 @@ We propose a measure of dispersion in fund managers׳ beliefs about future stock
 ## 10. CEO optimism and incentive compensation
 ### Date
 - Jun 2014
-### Authors
+### Author
 - Clemens A. Otto
 ### Abstract
 I study the effect of chief executive officer (CEO) optimism on CEO compensation. Using data on compensation in US firms, I provide evidence that CEOs whose option exercise behavior and earnings forecasts are indicative of optimistic beliefs receive smaller stock option grants, fewer bonus payments, and less total compensation than their peers. These findings add to our understanding of the interplay between managerial biases and remuneration and show how sophisticated principals can take advantage of optimistic agents by appropriately adjusting their compensation contracts.

@@ -5,7 +5,7 @@
 ## 1. The value and incentive effects of nontraditional executive stock option plans
 ### Date
 - Jul 2000
-### Authors
+### Author
 - Shane A. Johnson
 - Yisong S. Tian
 ### Abstract
@@ -16,7 +16,7 @@ We examine the value and incentive effects of six nontraditional executive stock
 ## 2. Indexed executive stock options
 ### Date
 - Jul 2000
-### Authors
+### Author
 - Shane A Johnson
 - Yisong S Tian
 ### Abstract
@@ -27,7 +27,7 @@ We design and derive a pricing model for an executive stock option with a strike
 ## 3. On the optimality of resetting executive stock options
 ### Date
 - Jul 2000
-### Authors
+### Author
 - Viral V. Acharya
 - Kose John
 - Rangarajan K. Sundaram
@@ -39,7 +39,7 @@ The practice of resetting strike prices on underwater executive stock options ha
 ## 4. Altering the terms of executive stock options
 ### Date
 - Jul 2000
-### Authors
+### Author
 - Menachem Brenner
 - Rangarajan K Sundaram
 - David Yermack
@@ -51,7 +51,7 @@ We examine the practice of resetting the terms of previously-issued executive st
 ## 5. The `repricing’ of executive stock options
 ### Date
 - Jul 2000
-### Authors
+### Author
 - Don M Chance
 - Raman Kumar
 - Rebecca B Todd

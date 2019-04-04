@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -28,7 +28,7 @@
 ## 3. Using daily stock returns
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Stephen J. Brown
 - Jerold B. Warner
 ### Abstract
@@ -39,7 +39,7 @@ This paper examines properties of daily stock returns and how the particular cha
 ## 4. Managerial ownership of voting rights
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 ### Abstract
@@ -50,7 +50,7 @@ Managers of firms with dual classes of common stock can choose different quantit
 ## 5. Bid, ask and transaction prices in a specialist market with heterogeneously informed traders
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Lawrence R. Glosten
 - Paul R. Milgrom
 ### Abstract
@@ -61,7 +61,7 @@ The presence of traders with superior information leads to a positive bid-ask sp
 ## 6. Organizational forms and investment decisions
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Eugene F. Fama
 - Michael C. Jensen
 ### Abstract
@@ -72,7 +72,7 @@ This paper analyzes investment rules for various organizational forms that are d
 ## 7. The effect of value line investment survey rank changes on common stock prices
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Scott E. Stickel
 ### Abstract
 The information content of Value Line Investment Survey rank changes is investigated. The results suggest rank changes affect common stock prices, but the effect varies by the type of rank change. Changes from rank 2 to rank 1 have the most dramatic impact on prices. A cross-sectional analysis finds small firms have a greater reaction to a rank change than larger firms, which supports theories on the frequency of report arrival and precision of information. A speed of adjustment test concludes the prices of individual securities adjust to the information in a rank change over a multiple-day period.
@@ -82,7 +82,7 @@ The information content of Value Line Investment Survey rank changes is investig
 ## 8. Time preference and capital asset pricing models
 ### Date
 - Mar 1985
-### Authors
+### Author
 - Yaacov Z. Bergman
 ### Abstract
 Results of the theory of individual optimal consumption-investment choice under uncertainty are extended to a class of intertemporally dependent preferences for consumption streams. These results are then used to show that with intertemporally dependent preferences, which are more realistic than the separable time-additive preference structure, Merton's (1973) multi-beta intertemporal capital asset pricing model is still valid, but it can no longer be collapsed to Breeden's (1979) single consumption-beta model.
@@ -92,7 +92,7 @@ Results of the theory of individual optimal consumption-investment choice under 
 ## 9. News items
 ### Date
 - Mar 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link

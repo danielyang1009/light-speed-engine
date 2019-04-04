@@ -1,0 +1,230 @@
+{
+    "journal": "JF",
+    "volume": "53",
+    "issue": "6",
+    "date": "December 1998",
+    "page": "Pages: i-vii, 1839-2273, viii-xxxviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "11 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00540.x"
+        },
+        {
+            "no": "2",
+            "title": "Volume Information",
+            "date": "11 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00539.x"
+        },
+        {
+            "no": "3",
+            "title": "Investor Psychology and Security Market Under\u2010 and Overreactions",
+            "date": "17 December 2002",
+            "author": [
+                "Kent Daniel",
+                "David Hirshleifer",
+                "Avanidhar Subrahmanyam"
+            ],
+            "abstract": "We propose a theory of securities market under\u2010 and overreactions based on two well\u2010known psychological biases: investor overconfidence about the precision of private information; and biased self\u2010attribution, which causes asymmetric shifts in investors' confidence as a function of their investment outcomes. We show that overconfidence implies negative long\u2010lag autocorrelations, excess volatility, and, when managerial actions are correlated with stock mispricing, public\u2010event\u2010based return predictability. Biased self\u2010attribution adds positive short\u2010lag autocorrelations (\u201cmomentum\u201d), short\u2010run earnings \u201cdrift,\u201d but negative correlation between future returns and long\u2010term past stock market and accounting performance. The theory also offers several untested implications and implications for corporate financial policy.",
+            "link": "https://doi.org/10.1111/0022-1082.00077"
+        },
+        {
+            "no": "4",
+            "title": "Volume, Volatility, Price, and Profit When All Traders Are Above Average",
+            "date": "17 December 2002",
+            "author": [
+                "Terrance Odean"
+            ],
+            "abstract": "People are overconfident. Overconfidence affects financial markets. How depends on who in the market is overconfident and on how information is distributed. This paper examines markets in which price\u2010taking traders, a strategic\u2010trading insider, and risk\u2010averse marketmakers are overconfident. Overconfidence increases expected trading volume, increases market depth, and decreases the expected utility of overconfident traders. Its effect on volatility and price quality depend on who is overconfident. Overconfident traders can cause markets to underreact to the information of rational traders. Markets also underreact to abstract, statistical, and highly relevant information, and they overreact to salient, anecdotal, and less relevant information.",
+            "link": "https://doi.org/10.1111/0022-1082.00078"
+        },
+        {
+            "no": "5",
+            "title": "Earnings Management and the Long\u2010Run Market Performance of Initial Public Offerings",
+            "date": "17 December 2002",
+            "author": [
+                "Siew Hong Teoh",
+                "Ivo Welch",
+                "T.J. Wong"
+            ],
+            "abstract": "Issuers of initial public offerings (IPOs) can report earnings in excess of cash flows by taking positive accruals. This paper provides evidence that issuers with unusually high accruals in the IPO year experience poor stock return performance in the three years thereafter. IPO issuers in the most \u201caggressive\u201d quartile of earnings managers have a three\u2010year aftermarket stock return of approximately 20 percent less than IPO issuers in the most \u201cconservative\u201d quartile. They also issue about 20 percent fewer seasoned equity offerings. These differences are statistically and economically significant in a variety of specifications.",
+            "link": "https://doi.org/10.1111/0022-1082.00079"
+        },
+        {
+            "no": "6",
+            "title": "Value versus Growth: The International Evidence",
+            "date": "17 December 2002",
+            "author": [
+                "Eugene F. Fama",
+                "Kenneth R. French"
+            ],
+            "abstract": "Value stocks have higher returns than growth stocks in markets around the world. For the period 1975 through 1995, the difference between the average returns on global portfolios of high and low book\u2010to\u2010market stocks is 7.68 percent per year, and value stocks outperform growth stocks in twelve of thirteen major markets. An international capital asset pricing model cannot explain the value premium, but a two\u2010factor model that includes a risk factor for relative distress captures the value premium in international returns.",
+            "link": "https://doi.org/10.1111/0022-1082.00080"
+        },
+        {
+            "no": "7",
+            "title": "International Cross\u2010Listing and Order Flow Migration: Evidence from an Emerging Market",
+            "date": "17 December 2002",
+            "author": [
+                "Ian Domowitz",
+                "Jack Glen",
+                "Ananth Madhavan"
+            ],
+            "abstract": "Policymakers in emerging markets are increasingly concerned about the consequences for the domestic equity market when companies list stock abroad. We show that the effects of cross\u2010listing depend on the quality of intermarket information linkages. We investigate these issues with unique data from the Mexican equity market. The impact of cross\u2010listing is complex\u2014balancing the costs of order flow migration against the benefits of increased intermarket competition. These effects are exacerbated by equity investment barriers that induce segmentation of the domestic equity market. Consequently, the benefits and costs of cross\u2010listing are not evenly spread over all classes of shareholders.",
+            "link": "https://doi.org/10.1111/0022-1082.00081"
+        },
+        {
+            "no": "8",
+            "title": "Stock Returns, Dividend Yields, and Taxes",
+            "date": "17 December 2002",
+            "author": [
+                "Andy Naranjo",
+                "M. Nimalendran",
+                "Mike Ryngaert"
+            ],
+            "abstract": "Using an improved measure of a common stock's annualized dividend yield, we document that risk\u2010adjusted NYSE stock returns increase in dividend yield during the period from 1963 to 1994. This relation between return and yield is robust to various specifications of multifactor asset pricing models that incorporate the Fama\u2013French factors. The magnitude of the yield effect is too large to be explained by a \u201ctax penalty\u201d on dividend income and is not explained by previously documented anomalies. Interestingly, the effect is primarily driven by smaller market capitalization stocks and zero\u2010yield stocks.",
+            "link": "https://doi.org/10.1111/0022-1082.00082"
+        },
+        {
+            "no": "9",
+            "title": "Implied Volatility Functions: Empirical Tests",
+            "date": "17 December 2002",
+            "author": [
+                "Bernard Dumas",
+                "Jeff Fleming",
+                "Robert E. Whaley"
+            ],
+            "abstract": "Derman and Kani (1994), Dupire (1994), and Rubinstein (1994) hypothesize that asset return volatility is a deterministic function of asset price and time, and develop a deterministic volatility function (DVF) option valuation model that has the potential of fitting the observed cross section of option prices exactly. Using S&P 500 options from June 1988 through December 1993, we examine the predictive and hedging performance of the DVF option valuation model and find it is no better than an ad hoc procedure that merely smooths Black\u2013Scholes (1973) implied volatilities across exercise prices and times to expiration.",
+            "link": "https://doi.org/10.1111/0022-1082.00083"
+        },
+        {
+            "no": "10",
+            "title": "Law, Finance, and Firm Growth",
+            "date": "17 December 2002",
+            "author": [
+                "Asli Demirg\u00fc\u00e7-Kunt",
+                "Vojislav Maksimovic"
+            ],
+            "abstract": "We investigate how differences in legal and financial systems affect firms' use of external financing to fund growth. We show that in countries whose legal systems score high on an efficiency index, a greater proportion of firms use long\u2010term external financing. An active, though not necessarily large, stock market and a large banking sector are also associated with externally financed firm growth. The increased reliance on external financing occurs in part because established firms in countries with well\u2010functioning institutions have lower profit rates. Government subsidies to industry do not increase the proportion of firms relying on external financing.",
+            "link": "https://doi.org/10.1111/0022-1082.00084"
+        },
+        {
+            "no": "11",
+            "title": "Are Financial Markets Overly Optimistic about the Prospects of Firms That Issue Equity? Evidence from Voluntary versus Involuntary Equity Issuances by Banks",
+            "date": "17 December 2002",
+            "author": [
+                "Marcia Millon Cornett",
+                "Hamid Mehran",
+                "Hassan Tehranian"
+            ],
+            "abstract": "This paper examines firm performance around announcements of common stock issues. We study the banking industry in which some stock issues are made voluntarily by managers, and other issues are involuntary. We find that banks that voluntarily issue common stock experience a significant drop in the matched adjusted operating performance following the issue, a significant drop in benchmark firms' adjusted stock prices following the issue, and systematically negative market reactions to post\u2010issue quarterly earnings announcements. Banks that issue common stock involuntarily experience values for these measures that are not significantly different from those of the benchmark firm(s).",
+            "link": "https://doi.org/10.1111/0022-1082.00085"
+        },
+        {
+            "no": "12",
+            "title": "Venture Capital Distributions: Short\u2010Run and Long\u2010Run Reactions",
+            "date": "17 December 2002",
+            "author": [
+                "Paul Gompers",
+                "Josh Lerner"
+            ],
+            "abstract": "Venture capital distributions, a legal form of insider trading, provides an ideal arena for examining the share price impact of transactions by informed parties. These sales, which occur after substantial run\u2010ups in share value, generate a substantial price reaction immediately around the event. In the months after distribution, returns apparently continue to be negative. When the short\u2010 and long\u2010run reactions are decomposed, they are consistent with the view that venture capitalists use inside information to time stock distributions: Distributions of firms brought public by lower quality underwriters and of less seasoned firms have more negative price reactions.",
+            "link": "https://doi.org/10.1111/0022-1082.00086"
+        },
+        {
+            "no": "13",
+            "title": "The Gains from Takeover Deregulation: Evidence from the End of Interstate Banking Restrictions",
+            "date": "17 December 2002",
+            "author": [
+                "Yaron Brook",
+                "Robert Hendershott",
+                "Darrell Lee"
+            ],
+            "abstract": "This paper uses interstate banking deregulation to explore the benefits of takeover deregulation and how these benefits are distributed across different firms. We find large and significant abnormal returns around the Interstate Banking and Branching Efficiency Act of 1994 which imply it created $85 billion of value in the banking industry. Consistent with an active market for corporate control allowing beneficial consolidation and providing needed discipline, there is a strong negative relationship between banks' abnormal returns and their prior performance. Consistent with managerial entrenchment limiting takeover discipline, banks with higher insider ownership, lower outside block ownership, and/or less independent boards have lower abnormal returns.",
+            "link": "https://doi.org/10.1111/0022-1082.00087"
+        },
+        {
+            "no": "14",
+            "title": "Short Sales Are Almost Instantaneously Bad News: Evidence from the Australian Stock Exchange",
+            "date": "17 December 2002",
+            "author": [
+                "Michael J. Aitken",
+                "Alex Frino",
+                "Michael S. McCorry",
+                "Peter L. Swan"
+            ],
+            "abstract": "This paper investigates the market reaction to short sales on an intraday basis in a market setting where short sales are transparent immediately following execution. We find a mean reassessment of stock value following short sales of up to \u22120.20 percent with adverse information impounded within fifteen minutes or twenty trades. Short sales executed near the end of the financial year and those related to arbitrage and hedging activities are associated with a smaller price reaction; trades near information events precipitate larger price reactions. The evidence is generally weaker for short sales executed using limit orders relative to market orders.",
+            "link": "https://doi.org/10.1111/0022-1082.00088"
+        },
+        {
+            "no": "15",
+            "title": "The Relation Between Treasury Yields and Corporate Bond Yield Spreads",
+            "date": "17 December 2002",
+            "author": [
+                "Gregory R. Duffee"
+            ],
+            "abstract": "Because the option to call a corporate bond should rise in value when bond yields fall, the relation between noncallable Treasury yields and spreads of corporate bond yields over Treasury yields should depend on the callability of the corporate bond. I confirm this hypothesis for investment\u2010grade corporate bonds. Although yield spreads on both callable and noncallable corporate bonds fall when Treasury yields rise, this relation is much stronger for callable bonds. This result has important implications for interpreting the behavior of yields on commonly used corporate bond indexes, which are composed primarily of callable bonds.",
+            "link": "https://doi.org/10.1111/0022-1082.00089"
+        },
+        {
+            "no": "16",
+            "title": "Output, Stock Volatility, and Political Uncertainty in a Natural Experiment: Germany, 1880\u20131940",
+            "date": "17 December 2002",
+            "author": [
+                "George Bittlingmayer"
+            ],
+            "abstract": "Why does stock volatility increase when output declines? The theory of investment under uncertainty implies that political uncertainty may simultaneously increase volatility and reduce output. Though cause and effect are typically hard to separate, the transition from Imperial to Weimar Germany offers a natural experiment because major political events left clear traces on stock prices. Current and past increases in volatility are associated with output declines, consistent with U.S. experience. However, political events are more clearly the source of volatility, and the results support the view that the relationship between volatility and output reflects the joint effects of political factors.",
+            "link": "https://doi.org/10.1111/0022-1082.00090"
+        },
+        {
+            "no": "17",
+            "title": "Book Reviews",
+            "date": "31 March 2007",
+            "author": [
+                "David L. Ikenberry",
+                "Brad M. Barber"
+            ],
+            "abstract": "Zvi Bodie and Robert C. Merton, Finance.\nDavid G. Luenberger, Investment Science",
+            "link": "https://doi.org/10.1111/1540-6261.00091"
+        },
+        {
+            "no": "18",
+            "title": "Miscellanea",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00092"
+        },
+        {
+            "no": "19",
+            "title": "Association Meetings",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00093"
+        },
+        {
+            "no": "20",
+            "title": "From the ExSec's Notebook",
+            "date": "17 December 2002",
+            "author": [
+                "Michael Keenan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00094"
+        },
+        {
+            "no": "21",
+            "title": "Back Matter",
+            "date": "11 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00541.x"
+        }
+    ]
+}

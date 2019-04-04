@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -28,7 +28,7 @@
 ## 3. Equity ownership concentration and firm value
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Karen Hopper Wruck
 ### Abstract
 In contrast to the negative average abnormal returns accompanying the announcement of a public offering of securities, the announcement of a private sale of equity is accompanied by a 4.5% average abnormal return. Cross-sectional analysis indicates that the change in firm value at the announcement of a private sale is strongly correlated with the resulting change in ownership concentration. This relation depends on the level ownership concentration after the sale and the purchaser's current or anticipated future relationship with the firm.
@@ -38,7 +38,7 @@ In contrast to the negative average abnormal returns accompanying the announceme
 ## 4. Proxy contests and the governance of publicly held corporations
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 ### Abstract
@@ -49,7 +49,7 @@ Analysis of 60 proxy contests for seats on the boards of exchange-listed firms d
 ## 5. Options markets and stock return volatility
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Douglas J. Skinner
 ### Abstract
 This study examines the variance of returns on common stocks around the time exchange-traded options are listed on these stocks. The evidence indicates that stock return variance declines after options listing, and that this phenomenon is not fully explained by contemporaneous shifts in market volatility. In addition, stock market trading volume increases, on average, after options are listed on firms' stocks. I examine the hypothesis that the variance changes are related to changes in ‘trading noise” in the stock, but find little direct support for this explanation.
@@ -59,7 +59,7 @@ This study examines the variance of returns on common stocks around the time exc
 ## 6. The relation between the return interval and betas
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Puneet Handa
 - S.P Kothari
 - Charles Wasley
@@ -71,7 +71,7 @@ The size effect is sensitive to the length of the return interval used in estima
 ## 7. The rise in takeover premiums
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Kevin S Nathan
 - Terrence B O'Keefe
 ### Abstract
@@ -82,7 +82,7 @@ Cash tender, cash merger, and stock merger takeover premiums for 1974–1985 are
 ## 8. Tax attributes as determinants of shareholder gains in corporate acquisitions
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Carla Hayn
 ### Abstract
 The paper provides evidence that tax attributes of target firms are significant in explaining the abnormal returns to shareholders of both target and acquiring firms following acquisition announcements. The most prominent tax attribute in tax-free acquisitions is the amount of net operating loss carryforwards and tax credits due to expire. The most important tax attribute in taxable acquisitions is the step-up in the acquired assets' basis. The findings also suggest that tax considerations motivate acquisitions. Specifically, obtaining tax-free status for the proposed acquisition increases its likelihood of completion.
@@ -92,7 +92,7 @@ The paper provides evidence that tax attributes of target firms are significant 
 ## 9. Wealth effects of going private for senior securities
 ### Date
 - Jun 1989
-### Authors
+### Author
 - Laurentius Marais
 - Katherine Schipper
 - Abbie Smith

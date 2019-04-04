@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Financing investment spikes in the years surrounding World War I⁎
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Leonce Bargeron
 - David Denis
 - Kenneth Lehn
@@ -26,7 +26,7 @@ In the period surrounding World War I, US firms sharply increased investment in 
 ## 3. How does hedge fund activism reshape corporate innovation?
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Alon Brav
 - Wei Jiang
 - Song Ma
@@ -39,7 +39,7 @@ This paper studies how hedge fund activism impacts corporate innovation. Firms t
 ## 4. Inefficiencies and externalities from opportunistic acquirers
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Di Li
 - Lucian A. Taylor
 - Wenyu Wang
@@ -51,7 +51,7 @@ If opportunistic acquirers can buy targets using overvalued shares, then there i
 ## 5. Does improved information improve incentives?
 ### Date
 - May 2018
-### Authors
+### Author
 - Pierre Chaigneau
 - Alex Edmans
 - Daniel Gottlieb
@@ -63,7 +63,7 @@ This paper studies the value of more precise signals on agent performance in an 
 ## 6. The execution quality of corporate bonds
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Maureen O’ Hara
 - Yihui Wang
 - Xing (Alex) Zhou
@@ -75,7 +75,7 @@ This paper investigates execution quality issues in corporate bond trading. Usin
 ## 7. Corporate governance of banks and financial stability
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Deniz Anginer
 - Asli Demirguc-Kunt
 - Harry Huizinga
@@ -88,7 +88,7 @@ We find that shareholder-friendly corporate governance is associated with higher
 ## 8. Regulating dark trading: Order flow segmentation and market quality
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Carole Comerton-Forde
 - Katya Malinova
 - Andreas Park
@@ -100,7 +100,7 @@ We examine the impact of a rule in the Canadian equities market that requires da
 ## 9. Data abundance and asset price informativeness
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Jérôme Dugast
 - Thierry Foucault
 ### Abstract
@@ -111,7 +111,7 @@ Information processing filters out the noise in data but it takes time. Hence, l
 ## 10. Are CEOs born leaders? Lessons from traits of a million individuals
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Renée Adams
 - Matti Keloharju
 - Samuli Knüpfer
@@ -123,7 +123,7 @@ What makes a successful CEO? We combine a near-exhaustive sample of male CEOs fr
 ## 11. Do elections delay regulatory action?
 ### Date
 - Jun 2018
-### Authors
+### Author
 - J. Tyler Leverty
 - Martin F. Grace
 ### Abstract
@@ -134,7 +134,7 @@ This paper investigates whether elections delay regulatory action against failin
 ## 12. Company stock price reactions to the 2016 election shock: Trump, taxes, and trade
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Alexander F. Wagner
 - Richard J. Zeckhauser
 - Alexandre Ziegler

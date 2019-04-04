@@ -1,0 +1,200 @@
+{
+    "journal": "JF",
+    "volume": "61",
+    "issue": "3",
+    "date": "June 2006",
+    "page": "Pages: i-vii, 1009-1550, viii-xii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "16 May 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00864.x"
+        },
+        {
+            "no": "2",
+            "title": "Corporate Investment and Asset Price Dynamics: Implications for SEO Event Studies and Long\u2010Run Performance",
+            "date": "16 May 2006",
+            "author": [
+                "MURRAY CARLSON",
+                "ADLAI FISHER",
+                "RON GIAMMARINO"
+            ],
+            "abstract": "We present a rational theory of SEOs that explains a pre\u2010issuance price run\u2010up, a negative announcement effect, and long\u2010run post\u2010issuance underperformance. When SEOs finance investment in a real options framework, expected returns decrease endogenously because growth options are converted into assets in place. Regardless of their risk, the new assets are less risky than the options they replace. Although both size and book\u2010to\u2010market effects are present, standard matching procedures fail to fully capture the dynamics of risk and expected return. We calibrate the model and show that it closely matches the primary features of SEO return dynamics.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00865.x"
+        },
+        {
+            "no": "3",
+            "title": "Credit Ratings and Capital Structure",
+            "date": "16 May 2006",
+            "author": [
+                "DARREN J. KISGEN"
+            ],
+            "abstract": "This paper examines to what extent credit ratings directly affect capital structure decisions. The paper outlines discrete costs (benefits) associated with firm credit rating level differences and tests whether concerns for these costs (benefits) directly affect debt and equity financing decisions. Firms near a credit rating upgrade or downgrade issue less debt relative to equity than firms not near a change in rating. This behavior is consistent with discrete costs (benefits) of rating changes but is not explained by traditional capital structure theories. The results persist within previous empirical tests of the pecking order and tradeoff capital structure theories.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00866.x"
+        },
+        {
+            "no": "4",
+            "title": "Asset Float and Speculative Bubbles",
+            "date": "16 May 2006",
+            "author": [
+                "HARRISON HONG",
+                "JOS\u00c9 SCHEINKMAN",
+                "WEI XIONG"
+            ],
+            "abstract": "We model the relationship between asset float (tradeable shares) and speculative bubbles. Investors with heterogeneous beliefs and short\u2010sales constraints trade a stock with limited float because of insider lockups. A bubble arises as price overweighs optimists' beliefs and investors anticipate the option to resell to those with even higher valuations. The bubble's size depends on float as investors anticipate an increase in float with lockup expirations and speculate over the degree of insider selling. Consistent with the internet experience, the bubble, turnover, and volatility decrease with float and prices drop on the lockup expiration date.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00867.x"
+        },
+        {
+            "no": "5",
+            "title": "The Effect of Short Selling on Bubbles and Crashes in Experimental Spot Asset Markets",
+            "date": "16 May 2006",
+            "author": [
+                "ERNAN HARUVY",
+                "CHARLES N. NOUSSAIR"
+            ],
+            "abstract": "A series of experiments illustrate that relaxing short\u2010selling constraints lowers prices in experimental asset markets, but does not induce prices to track fundamentals. We argue that prices in experimental asset markets are influenced by restrictions on short\u2010selling capacity and limits on the cash available for purchases. Restrictions on short sales in the form of cash reserve requirements and quantity limits on short positions behave in a similar manner. A simulation model, based on DeLong et al. (1990), generates average price patterns that are similar to the observed data.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00868.x"
+        },
+        {
+            "no": "6",
+            "title": "Analysts' Selective Coverage and Subsequent Performance of Newly Public Firms",
+            "date": "16 May 2006",
+            "author": [
+                "SOMNATH DAS",
+                "RE\u2010JIN GUO",
+                "HUAI ZHANG"
+            ],
+            "abstract": "This study examines the ability of analysts to forecast future firm performance, based on the selective coverage of newly public firms. We hypothesize that the decision to provide coverage contains information about an analyst's underlying expectation of a firm's future prospects. We extract this expectation by obtaining residual analyst coverage from a model of initial analyst following. We document that in the three subsequent years, initial public offerings with high residual coverage have significantly better returns and operating performance than those with low residual coverage. This evidence indicates analysts have superior predictive abilities and selectively provide coverage for firms about which their true expectations are favorable.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00869.x"
+        },
+        {
+            "no": "7",
+            "title": "Investor Sentiment and Pre\u2010IPO Markets",
+            "date": "16 May 2006",
+            "author": [
+                "FRANCESCA CORNELLI",
+                "DAVID GOLDREICH",
+                "ALEXANDER LJUNGQVIST"
+            ],
+            "abstract": "We examine whether irrational behavior among small (retail) investors drives post\u2010IPO prices. We use prices from the grey market (the when\u2010issued market that precedes European IPOs) to proxy for small investors' valuations. High grey market prices (indicating overoptimism) are a very good predictor of first\u2010day aftermarket prices, while low grey market prices (indicating excessive pessimism) are not. Moreover, we find long\u2010run price reversal only following high grey market prices. This asymmetry occurs because larger (institutional) investors can choose between keeping the shares they are allocated in the IPO, and reselling them when small investors are overoptimistic.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00870.x"
+        },
+        {
+            "no": "8",
+            "title": "Corporate Equity Ownership and the Governance of Product Market Relationships",
+            "date": "16 May 2006",
+            "author": [
+                "C. EDWARD FEE",
+                "CHARLES J. HADLOCK",
+                "SHAWN THOMAS"
+            ],
+            "abstract": "We assemble a sample of over 10,000 customer\u2013supplier relationships and determine whether the customer owns equity in the supplier. We find that factors related to both contractual incompleteness and financial market frictions are important in the decision of a customer firm to take an equity stake in their supplier. Evidence on the variation in the size of observed equity positions suggests that there are limits to the size of optimal ownership stakes in many relationships. Finally, we find that relationships accompanied by equity ownership last significantly longer than other relationships, suggesting that ownership aids in bonding trading parties together.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00871.x"
+        },
+        {
+            "no": "9",
+            "title": "The Costs of Bankruptcy: Chapter 7 Liquidation versus Chapter 11 Reorganization",
+            "date": "16 May 2006",
+            "author": [
+                "ARTURO BRIS",
+                "IVO WELCH",
+                "NING ZHU"
+            ],
+            "abstract": "Our paper explores a comprehensive sample of small and large corporate bankruptcies in Arizona and New York from 1995 to 2001. Bankruptcy costs are very heterogeneous and sensitive to the measurement method used. We find that Chapter 7 liquidations appear to be no faster or cheaper (in terms of direct expense) than Chapter 11 reorganizations. However, Chapter 11 seems to preserve assets better, thereby allowing creditors to recover relatively more. Our paper also provides a large number of further empirical regularities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00872.x"
+        },
+        {
+            "no": "10",
+            "title": "Do Dividend Clienteles Exist? Evidence on Dividend Preferences of Retail Investors",
+            "date": "16 May 2006",
+            "author": [
+                "JOHN R. GRAHAM",
+                "ALOK KUMAR"
+            ],
+            "abstract": "We study stock holdings and trading behavior of more than 60,000 households and find evidence consistent with dividend clienteles. Retail investor stock holdings indicate a preference for dividend yield that increases with age and decreases with income, consistent with age and tax clienteles, respectively. Trading patterns reinforce this evidence: Older, low\u2010income investors disproportionally purchase stocks before the ex\u2010dividend day. Furthermore, among small stocks, the ex\u2010day price drop decreases with age and increases with income, consistent with clientele effects. Finally, consistent with the behavioral \u201cattention\u201d hypothesis, we document that older and low\u2010income investors purchase stocks following dividend announcements.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00873.x"
+        },
+        {
+            "no": "11",
+            "title": "Does a Parent\u2013Subsidiary Structure Enhance Financing Flexibility?",
+            "date": "16 May 2006",
+            "author": [
+                "ANAND M. VIJH"
+            ],
+            "abstract": "I examine whether firms exploit a publicly traded parent\u2013subsidiary structure to issue equity of the overvalued firm regardless of which firm needs funds, and whether this conveys opposite information about firm values. Using 90 subsidiary and 37 parent seasoned equity offering (SEO) announcements during 1981\u20132002, I document negative returns to issuers but insignificant returns to nonissuers in both samples, and insignificant changes in combined firm value and parent's nonsubsidiary equity value in subsidiary SEOs. Firms issue equity to meet their own financing needs. My evidence contrasts with previous studies and suggests that parent\u2013subsidiary structures do not enhance financing flexibility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00874.x"
+        },
+        {
+            "no": "12",
+            "title": "Secondary Trading Costs in the Municipal Bond Market",
+            "date": "16 May 2006",
+            "author": [
+                "LAWRENCE E. HARRIS",
+                "MICHAEL S. PIWOWAR"
+            ],
+            "abstract": "Using new econometric methods, we separately estimate average transaction costs for over 167,000 bonds from a 1\u2010year sample of all U.S. municipal bond trades. Municipal bond transaction costs decrease with trade size and do not depend significantly on trade frequency. Also, municipal bond trades are substantially more expensive than similar\u2010sized equity trades. We attribute these results to the lack of bond market price transparency. Additional cross\u2010sectional analyses show that bond trading costs increase with credit risk, instrument complexity, time to maturity, and time since issuance. Investors, and perhaps ultimately issuers, might benefit if issuers issued simpler bonds.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00875.x"
+        },
+        {
+            "no": "13",
+            "title": "Capital Gains Tax Overhang and Price Pressure",
+            "date": "16 May 2006",
+            "author": [
+                "LI JIN"
+            ],
+            "abstract": "I study whether the capital gains tax is an impediment to selling by some investors and if so, to what degree associated delayed selling affects stock prices. I find that selling decisions by institutions serving tax\u2010sensitive clients are sensitive to cumulative capital gains, a pattern not observed for institutions with predominantly tax\u2010exempt clients. Moreover, tax\u2010related underselling impacts stock prices during large earnings surprises for stocks held primarily by tax\u2010sensitive investors. The corresponding price reactions are less negative (more positive) with higher cumulative capital gains. This price pressure pattern is more severe when arbitrage is more costly.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00876.x"
+        },
+        {
+            "no": "14",
+            "title": "Uncovering the Risk\u2013Return Relation in the Stock Market",
+            "date": "16 May 2006",
+            "author": [
+                "HUI GUO",
+                "ROBERT F. WHITELAW"
+            ],
+            "abstract": "There is ongoing debate about the apparent weak or negative relation between risk (conditional variance) and expected returns in the aggregate stock market. We develop and estimate an empirical model based on the intertemporal capital asset pricing model (ICAPM) that separately identifies the two components of expected returns, namely, the risk component and the component due to the desire to hedge changes in investment opportunities. The estimated coefficient of relative risk aversion is positive, statistically significant, and reasonable in magnitude. However, expected returns are driven primarily by the hedge component. The omission of this component is partly responsible for the existing contradictory results.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00877.x"
+        },
+        {
+            "no": "15",
+            "title": "Distance Constraints: The Limits of Foreign Lending in Poor Economies",
+            "date": "16 May 2006",
+            "author": [
+                "ATIF MIAN"
+            ],
+            "abstract": "How far does mobility of multinational banks solve problems of financial development? Using a panel of 80,000 loans over 7 years, I show that greater cultural and geographical distance between a foreign bank's headquarters and local branches leads it to further avoid lending to \u201cinformationally difficult\u201d yet fundamentally sound firms requiring relational contracting. Greater distance also makes them less likely to bilaterally renegotiate, and less successful at recovering defaults. Differences in bank size, legal institutions, risk preferences, or unobserved borrower heterogeneity cannot explain these results. These distance constraints can be large enough to permanently exclude certain sectors of the economy from financing by foreign banks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00878.x"
+        },
+        {
+            "no": "16",
+            "title": "Which Investors Fear Expropriation? Evidence from Investors' Portfolio Choices",
+            "date": "16 May 2006",
+            "author": [
+                "MARIASSUNTA GIANNETTI",
+                "ANDREI SIMONOV"
+            ],
+            "abstract": "Using a data set that provides unprecedented detail on investors' stockholdings, we analyze whether investors take the quality of corporate governance into account when selecting stocks. We find that all categories of investors (domestic and foreign, institutional and small individual) who generally enjoy only security benefits are reluctant to invest in companies with weak corporate governance. In contrast, individuals connected with company insiders are more likely to invest in weak corporate governance companies. These findings suggest that it is important to distinguish between investors who enjoy private benefits or access private information, and investors who enjoy only security benefits.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00879.x"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "05 July 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00880.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "05 July 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00881.x"
+        }
+    ]
+}

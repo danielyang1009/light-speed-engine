@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1980
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Merger proposals, management discretion and stockholder wealth
 ### Date
 - Jun 1980
-### Authors
+### Author
 - Peter Dodd
 ### Abstract
 This paper provides evidence on the daily market reaction to the announcement and subsequent acceptance or rejection of merger proposals. There is a swift and large positive market reaction to the first public announcement of the merger proposal. Subsequently, there is a positive reaction to the approval of completed proposals and a negative reaction to cancelled proposals. Where proposals are vetoed by incumbent target management, there is a negative market reaction to the veto, but this does not eliminate the earlier positive reaction to the first announcement. In these proposals there is a permanent revaluation of the target shares. This is in contrast to cancelled proposals that incumbent managements do not veto, where the target stock price falls back, on average, to the preproposal level.
@@ -25,7 +25,7 @@ This paper provides evidence on the daily market reaction to the announcement an
 ## 3. The effects of capital structure change on security prices
 ### Date
 - Jun 1980
-### Authors
+### Author
 - Ronald W. Masulis
 ### Abstract
 This study considers the impact of capital structure change announcements on security prices. Statistically significant price adjustments in firms' common stock, preferred stock and debt related to these announcements are documented and alternative causes for these price changes are examined. The evidence is consistent with both corporate tax and wealth redistribution effects. There is also evidence that firms make decisions which do not maximize stockholder wealth. In addition, a new approach to testing the significance of public announcements on security returns is presented.
@@ -35,7 +35,7 @@ This study considers the impact of capital structure change announcements on sec
 ## 4. Trading costs for listed options
 ### Date
 - Jun 1980
-### Authors
+### Author
 - Susan M. Phillips
 - Clifford W. Smith
 ### Abstract

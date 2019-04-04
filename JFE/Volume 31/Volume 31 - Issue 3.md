@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1992
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -20,7 +20,7 @@
 ## 2. No news is good news
 ### Date
 - Jun 1992
-### Authors
+### Author
 - John Y. Campbell
 - Ludger Hentschel
 ### Abstract
@@ -31,7 +31,7 @@ It seems plausible that an increase in stock market volatility raises required s
 ## 3. An ordered probit analysis of transaction stock prices
 ### Date
 - Jun 1992
-### Authors
+### Author
 - Jerry A. Hausman
 - Andrew W. Lo
 - A.Craig MacKinlay
@@ -43,7 +43,7 @@ We estimate the conditional distribution of trade-to-trade price changes using o
 ## 4. Initial public offerings of equity securities
 ### Date
 - Jun 1992
-### Authors
+### Author
 - Ko Wang
 - Su Han Chan
 - George W. Gau
@@ -55,7 +55,7 @@ In contrast with numerous studies that find significant underpricing for initial
 ## 5. Index
 ### Date
 - Jun 1992
-### Authors
+### Author
 ### Abstract
 
 ### Link

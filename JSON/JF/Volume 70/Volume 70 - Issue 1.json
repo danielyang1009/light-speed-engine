@@ -1,0 +1,177 @@
+{
+    "journal": "JF",
+    "volume": "70",
+    "issue": "1",
+    "date": "February 2015",
+    "page": "Pages: fmi-fmvii, 1-487, bmi-bmiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "19 January 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12237"
+        },
+        {
+            "no": "2",
+            "title": "A Crisis of Banks as Liquidity Providers",
+            "date": "02 June 2014",
+            "author": [
+                "VIRAL V. ACHARYA",
+                "NADA MORA"
+            ],
+            "abstract": "Can banks maintain their advantage as liquidity providers when exposed to a financial crisis? While banks honored credit lines drawn by firms during the 2007 to 2009 crisis, this liquidity provision was only possible because of explicit, large support from the government and government\u2010sponsored agencies. At the onset of the crisis, aggregate deposit inflows into banks weakened and their loan\u2010to\u2010deposit shortfalls widened. These patterns were pronounced at banks with greater undrawn commitments. Such banks sought to attract deposits by offering higher rates, but the resulting private funding was insufficient to cover shortfalls and they reduced new credit.",
+            "link": "https://doi.org/10.1111/jofi.12182"
+        },
+        {
+            "no": "3",
+            "title": "Taxes and Corporate Policies: Evidence from a Quasi Natural Experiment",
+            "date": "17 September 2013",
+            "author": [
+                "CRAIG DOIDGE",
+                "ALEXANDER DYCK"
+            ],
+            "abstract": "We document important interactions between tax incentives and corporate policies using a \u201cquasi natural experiment\u201d provided by a surprise announcement that imposed corporate taxes on a group of Canadian publicly traded firms. The announcement caused a dramatic decrease in value. Prospective tax shields partially offset the losses, adding 4.6% to firm value on average, and vary with the tax status of the marginal investor. Further, firms adjust leverage, payout, cash holdings, and investment in response to changing tax incentives. Overall, the event study and time series evidence supports the view that taxes are important for corporate decision making.",
+            "link": "https://doi.org/10.1111/jofi.12101"
+        },
+        {
+            "no": "4",
+            "title": "Money Doctors",
+            "date": "03 July 2014",
+            "author": [
+                "NICOLA GENNAIOLI",
+                "ANDREI SHLEIFER",
+                "ROBERT VISHNY"
+            ],
+            "abstract": "We present a new model of investors delegating portfolio management to professionals based on trust. Trust in the manager reduces an investor's perception of the riskiness of a given investment, and allows managers to charge fees. Money managers compete for investor funds by setting fees, but because of trust, fees do not fall to costs. In equilibrium, fees are higher for assets with higher expected return, managers on average underperform the market net of fees, but investors nevertheless prefer to hire managers to investing on their own. When investors hold biased expectations, trust causes managers to pander to investor beliefs.",
+            "link": "https://doi.org/10.1111/jofi.12188"
+        },
+        {
+            "no": "5",
+            "title": "Inflation Risk in Corporate Bonds",
+            "date": "06 August 2014",
+            "author": [
+                "JOHNNY KANG",
+                "CAROLIN E. PFLUEGER"
+            ],
+            "abstract": "We argue that corporate bond yields reflect fears of debt deflation. When debt is nominal, unexpectedly low inflation increases real liabilities and default risk. In a real business cycle model with optimal but infrequent capital structure choice, more uncertain or procyclical inflation leads to quantitatively important increases in corporate log yields in excess of default\u2010free log yields. A panel of credit spread indexes from six developed countries shows that credit spreads rise by 14 basis points if inflation volatility or the inflation\u2010stock correlation increases by one standard deviation.",
+            "link": "https://doi.org/10.1111/jofi.12195"
+        },
+        {
+            "no": "6",
+            "title": "Urban Vibrancy and Corporate Growth",
+            "date": "17 September 2014",
+            "author": [
+                "CASEY DOUGAL",
+                "CHRISTOPHER A. PARSONS",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "We find that a firm's investment is highly sensitive to the investments of other firms headquartered nearby, even those in very different industries. A firm's investment also responds to fluctuations in the cash flows and stock prices (q) of local firms outside its sector. These patterns do not appear to reflect exogenous area shocks such as local shocks to labor or real estate values, but rather suggest that local agglomeration economies are important determinants of firm investment and growth.",
+            "link": "https://doi.org/10.1111/jofi.12215"
+        },
+        {
+            "no": "7",
+            "title": "Short\u2010Term Debt as Bridge Financing: Evidence from the Commercial Paper Market",
+            "date": "17 September 2014",
+            "author": [
+                "MATTHIAS KAHL",
+                "ANIL SHIVDASANI",
+                "YIHUI WANG"
+            ],
+            "abstract": "We analyze why firms use nonintermediated short\u2010term debt by studying the commercial paper (CP) market. Using a comprehensive database of CP issuers and issuance activity, we show that firms use CP to provide start\u2010up financing for capital investment. Firms\u2019 CP issuance is driven by a desire to minimize transaction costs associated with raising capital for new investment. We show that firms with high rollover risk are less likely to enter the CP market, borrow less CP, and borrow more from bank credit lines. Further, CP is often refinanced with long\u2010term bond issuance to reduce rollover risk.",
+            "link": "https://doi.org/10.1111/jofi.12216"
+        },
+        {
+            "no": "8",
+            "title": "Taking the Long Way Home: U.S. Tax Evasion and Offshore Investments in U.S. Equity and Debt Markets",
+            "date": "04 November 2013",
+            "author": [
+                "MICHELLE HANLON",
+                "EDWARD L. MAYDEW",
+                "JACOB R. THORNOCK"
+            ],
+            "abstract": "We empirically investigate one form of illegal investor\u2010level tax evasion and its effect on foreign portfolio investment. In particular, we examine a form of round\u2010tripping tax evasion in which U.S. individuals hide funds in entities located in offshore tax havens and then invest those funds in U.S. securities markets. Employing Becker's (1968) economic theory of crime, we identify the tax evasion component by examining how foreign portfolio investment varies with changes in the incentives to evade and the risks of detection. To our knowledge, this is the first empirical evidence of investor\u2010level tax evasion affecting cross\u2010border equity and debt investment.",
+            "link": "https://doi.org/10.1111/jofi.12120"
+        },
+        {
+            "no": "9",
+            "title": "Do Acquisitions Relieve Target Firms\u2019 Financial Constraints?",
+            "date": "27 March 2014",
+            "author": [
+                "ISIL EREL",
+                "YEEJIN JANG",
+                "MICHAEL S. WEISBACH"
+            ],
+            "abstract": "Managers often claim that target firms are financially constrained prior to being acquired and that these constraints are eased following the acquisition. Using a large sample of European acquisitions, we document that the level of cash that target firms hold, the sensitivity of cash to cash flow, and the sensitivity of investment to cash flow all decline, while investment increases following the acquisition. These effects are stronger in deals that are more likely to be associated with financing improvements. Our findings suggest that acquisitions relieve financial frictions in target firms, especially when the target firm is relatively small.",
+            "link": "https://doi.org/10.1111/jofi.12155"
+        },
+        {
+            "no": "10",
+            "title": "The Pre\u2010FOMC Announcement Drift",
+            "date": "06 August 2014",
+            "author": [
+                "DAVID O. LUCCA",
+                "EMANUEL MOENCH"
+            ],
+            "abstract": "We document large average excess returns on U.S. equities in anticipation of monetary policy decisions made at scheduled meetings of the Federal Open Market Committee (FOMC) in the past few decades. These pre\u2010FOMC returns have increased over time and account for sizable fractions of total annual realized stock returns. While other major international equity indices experienced similar pre\u2010FOMC returns, we find no such effect in U.S. Treasury securities and money market futures. Other major U.S. macroeconomic news announcements also do not give rise to preannouncement excess equity returns. We discuss challenges in explaining these returns with standard asset pricing theory.",
+            "link": "https://doi.org/10.1111/jofi.12196"
+        },
+        {
+            "no": "11",
+            "title": "How Stable Are Corporate Capital Structures?",
+            "date": "26 March 2014",
+            "author": [
+                "HARRY DeANGELO",
+                "RICHARD ROLL"
+            ],
+            "abstract": "Leverage cross\u2010sections more than a few years apart differ markedly, with similarities evaporating as the time between them lengthens. Many firms have high and low leverage at different times, but few keep debt\u2010to\u2010assets ratios consistently above 0.500. Capital structure stability is the exception, not the rule, occurs primarily at low leverage, and is virtually always temporary, with many firms abandoning low leverage during the post\u2010war boom. Industry\u2010median leverage varies widely over time. Target\u2010leverage models that place little or no weight on maintaining a particular ratio do a good job replicating the substantial instability of the actual leverage cross\u2010section.",
+            "link": "https://doi.org/10.1111/jofi.12163"
+        },
+        {
+            "no": "12",
+            "title": "Click or Call? Auction versus Search in the Over\u2010the\u2010Counter Market",
+            "date": "26 March 2014",
+            "author": [
+                "TERRENCE HENDERSHOTT",
+                "ANANTH MADHAVAN"
+            ],
+            "abstract": "Over\u2010the\u2010counter (OTC) markets dominate trading in many asset classes. Will electronic trading displace traditional OTC \u201cvoice\u201d trading? Can electronic and voice systems coexist? What types of securities and trades are best suited for electronic trading? We study these questions by focusing on an innovation in electronic trading technology that enables investors to simultaneously search many bond dealers. We show that periodic one\u2010sided electronic auctions are a viable and important source of liquidity even in inactively traded instruments. These mechanisms are a natural compromise between bilateral search in OTC markets and continuous double auctions in electronic limit order books.",
+            "link": "https://doi.org/10.1111/jofi.12164"
+        },
+        {
+            "no": "13",
+            "title": "Borrower Misreporting and Loan Performance",
+            "date": "27 March 2014",
+            "author": [
+                "MARK J. GARMAISE"
+            ],
+            "abstract": "Borrower misreporting is associated with seriously adverse loan outcomes. Significantly more residential mortgage borrowers reported personal assets just above round number thresholds than just below. Borrowers who reported above\u2010threshold assets were almost 25 percentage points more likely to become delinquent (mean delinquency was 20%). For applicants with unverified assets, the increase in delinquency was greater than 40 percentage points. Misreporting was most frequent in areas with low financial literacy or social capital. Incorporating behavioral cues such as threshold effects into a risk assessment model improves its ability to uncover delinquencies, though at a cost of mischaracterizing some safe loans.",
+            "link": "https://doi.org/10.1111/jofi.12156"
+        },
+        {
+            "no": "14",
+            "title": "MISCELLANEA",
+            "date": "19 January 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12236"
+        },
+        {
+            "no": "15",
+            "title": "ANNOUNCEMENTS",
+            "date": "19 January 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12239"
+        },
+        {
+            "no": "16",
+            "title": "BACK MATTER",
+            "date": "19 January 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12238"
+        }
+    ]
+}

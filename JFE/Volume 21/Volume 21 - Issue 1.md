@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - May 1988
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -27,7 +27,7 @@
 ## 3. Synergistic gains from corporate acquisitions and their division between the stockholders of target and acquiring firms
 ### Date
 - May 1988
-### Authors
+### Author
 - Michael Bradley
 - Anand Desai
 - E.Han Kim
@@ -39,7 +39,7 @@ This paper documents that a successful tender offer increases the combined value
 ## 4. The information in forward rates
 ### Date
 - May 1988
-### Authors
+### Author
 - Robert F. Stambaugh
 ### Abstract
 Term-structure models from Cox, Ingersoll, and Ross (1985) imply that conditional expected discrete-period returns on discount instruments are linear functions of forward rates. Tests reject a single-latent-variable model of expected returns on U.S. Treasury bills, but two or three latent variables appear to describe expected returns on bills of all maturities. Expected returns estimated using two-latent-variables exhibit variation with business cycles similar to what Fama (1986) observes for forward rates. Inverted term structures precede recessions and upward-sloping structures precede recoveries.
@@ -49,7 +49,7 @@ Term-structure models from Cox, Ingersoll, and Ross (1985) imply that conditiona
 ## 5. Announcement effects of new equity issues and the use of intraday price data
 ### Date
 - May 1988
-### Authors
+### Author
 - Michael J Barclay
 - Robert H Litzenberger
 ### Abstract
@@ -60,7 +60,7 @@ This paper examines the intraday market response to announcements of new equity 
 ## 6. Seasonalities in security returns
 ### Date
 - May 1988
-### Authors
+### Author
 - V.V Chari
 - Ravi Jagannathan
 - Aharon R Ofer
@@ -72,7 +72,7 @@ We document a seasonal pattern in stock returns around quarterly earnings announ
 ## 7. Estimating the components of the bid/ask spread
 ### Date
 - May 1988
-### Authors
+### Author
 - Lawrence R Glosten
 - Lawrence E Harris
 ### Abstract
@@ -83,7 +83,7 @@ This paper develops and implements a technique for estimating a model of the bid
 ## 8. News items
 ### Date
 - May 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -29,7 +29,7 @@
 ## 3. Union negotiations and corporate policy
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 ### Abstract
@@ -40,7 +40,7 @@ This paper studies managerial compensation, financial reporting, and dividend po
 ## 4. A case study in the design of an optimal production sharing rule for a petroleum exploration venture
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Philip Hampson
 - John Parsons
 - Charles Blitzer
@@ -52,7 +52,7 @@ To improve on the design of the production-sharing rule in a contract for explor
 ## 5. Choosing the method of sale
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Carliss Y. Baldwin
 - Sugato Bhattacharyya
 ### Abstract
@@ -63,7 +63,7 @@ This paper analyzes the sale of Conrail (Consolidated Rail Corporation) and find
 ## 6. A Bayesian model of intraday specialist pricing
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Ananth Madhavan
 - Seymour Smidt
 ### Abstract
@@ -74,7 +74,7 @@ This paper develops and tests a model of intraday security price movements which
 ## 7. Tax options and the pricing of treasury bond triplets
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Bradford D. Jordan
 - Susan D. Jordan
 ### Abstract
@@ -85,7 +85,7 @@ This study uses Treasury bond triplets, which consist of three different Treasur
 ## 8. Small sample tests of portfolio efficiency
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Guofu Zhou
 ### Abstract
 This paper presents an eigenvalue test of the efficiency of a portfolio when there is no riskless asset, complementing the test of Gibbons, Ross, and Shanken (1989). Besides optimal upper and lower bounds, an easily-implented numerical method is provided for computing the exact P-value. Our approach makes it possible to draw statistical inferences on the efficiency of a given portfolio both in the context of the zero-beta CAPM and with respect to other linear pricing models. As an application, using monthly data for every consecutive five-year period from 1926 to 1986, we reject the efficiency of the CRSP value-weighted index for most periods.
@@ -95,7 +95,7 @@ This paper presents an eigenvalue test of the efficiency of a portfolio when the
 ## 9. Voting power in the proxy process
 ### Date
 - Nov 1991
-### Authors
+### Author
 - Sanjai Bhagat
 - Richard H. Jefferis
 ### Abstract
@@ -106,7 +106,7 @@ The likelihood that a firm will enact a management-sponsored antitakeover charte
 ## 10. News items
 ### Date
 - Nov 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link

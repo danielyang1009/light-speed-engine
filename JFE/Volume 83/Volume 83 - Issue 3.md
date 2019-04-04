@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Housing, consumption and asset pricing
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Monika Piazzesi
 - Martin Schneider
 - Selale Tuzel
@@ -26,7 +26,7 @@ This paper considers a consumption-based asset pricing model where housing is ex
 ## 3. The price of corporate liquidity: Acquisition discounts for unlisted targets
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Micah S. Officer
 ### Abstract
 This paper documents average acquisition discounts for stand-alone private firms and subsidiaries of other firms (unlisted targets) of 15% to 30% relative to acquisition multiples for comparable publicly traded targets. My results are strongly consistent with the notion that sale prices for unlisted targets are affected by both the need for, and availability of, the liquidity provided by the buyer. Corporate parents are significantly liquidity-constrained prior to the sale of a subsidiary, particularly when the subsidiary is being sold for cash. Furthermore, acquisition discounts are significantly greater when debt capital is relatively more expensive to obtain, and when the parent firm has below-market stock returns in the 12 months prior to the sale.
@@ -36,7 +36,7 @@ This paper documents average acquisition discounts for stand-alone private firms
 ## 4. Corporate governance and the value of cash holdings
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Amy Dittmar
 - Jan Mahrt-Smith
 ### Abstract
@@ -47,7 +47,7 @@ We investigate how corporate governance impacts firm value by comparing the valu
 ## 5. Multi-period corporate default prediction with stochastic covariates
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Darrell Duffie
 - Leandro Saita
 - Ke Wang
@@ -59,7 +59,7 @@ We provide maximum likelihood estimators of term structures of conditional proba
 ## 6. Disagreement, tastes, and asset prices
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -70,7 +70,7 @@ Standard asset pricing models assume that: (i) there is complete agreement among
 ## 7. Testing Q theory with financing frictions
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Christopher A. Hennessy
 - Amnon Levy
 - Toni M. Whited
@@ -82,7 +82,7 @@ We develop a Q theory of investment under financing constraints. The firm invest
 ## 8. Heterogeneous preferences and equilibrium trading volume
 ### Date
 - Feb 2006
-### Authors
+### Author
 - Tony Berrada
 - Julien Hugonnier
 - Marcel Rindisbacher
@@ -94,7 +94,7 @@ The representative-agent Lucas model stresses aggregate risk and hence does not 
 ## 9. Local ownership as private information: Evidence on the monitoring-liquidity trade-off
 ### Date
 - Oct 2005
-### Authors
+### Author
 - Jose-Miguel Gaspar
 - Massimo Massa
 ### Abstract

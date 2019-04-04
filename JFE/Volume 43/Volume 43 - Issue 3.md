@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Mar 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Measuring long-horizon security price performance
 ### Date
 - Mar 1997
-### Authors
+### Author
 - S.P. Kothari
 - Jerold B. Warner
 ### Abstract
@@ -26,7 +26,7 @@ Our simulation results show that tests for long-horizon (i.e.. multi-year) abnor
 ## 3. Detecting long-run abnormal stock returns: The empirical power and specification of test statistics
 ### Date
 - Mar 1997
-### Authors
+### Author
 - Brad M. Barber
 - John D. Lyon
 ### Abstract
@@ -37,7 +37,7 @@ We analyze the empirical power and specification of test statistics in event stu
 ## 4. Mutual fund styles
 ### Date
 - Mar 1997
-### Authors
+### Author
 - Stephen J. Brown
 - William N. Goetzmann
 ### Abstract
@@ -48,7 +48,7 @@ Mutual funds are typically grouped by their investment objectives or the ‘styl
 ## 5. Vulture investors and the market for control of distressed firms
 ### Date
 - Mar 1997
-### Authors
+### Author
 - Edith S. Hotchkiss
 - Robert M. Mooradian
 ### Abstract
@@ -59,7 +59,7 @@ This paper investigates the role of vulture investors in the governance and reor
 ## 6. Valuation uncertainty, institutional involvement, and the underpricing of IPOs: The case of REITs
 ### Date
 - Mar 1997
-### Authors
+### Author
 - David C. Ling
 - Michael Ryngaert
 ### Abstract
@@ -70,7 +70,7 @@ Unlike operating company IPOs, Real Estate Investment Trust (REIT) IPOs in the 1
 ## 7. Index
 ### Date
 - Mar 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link

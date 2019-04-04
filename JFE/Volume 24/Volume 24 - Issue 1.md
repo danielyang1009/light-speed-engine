@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Sep 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Clinical papers and their role in the development of financial economics
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Michael C. Jensen
 - Eugene F. Fama
 - John B. Long
@@ -39,7 +39,7 @@
 ## 4. Decentralized investment banking
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Myron S. Scholes
 - Mark A. Wolfson
 ### Abstract
@@ -50,7 +50,7 @@ Discount dividend-reinvestment and stock-purchase plans allow shareholders to ca
 ## 5. Triggering the 1987 stock market crash
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Mark L. Mitchell
 - Jeffry M. Netter
 ### Abstract
@@ -61,7 +61,7 @@ We present evidence that a tax bill containing antitakeover provisions proposed 
 ## 6. Organizational form, share transferability, and firm performance
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Jonathan M. Karpoff
 - Edward M. Rice
 ### Abstract
@@ -72,7 +72,7 @@ The Alaska Native Claims Settlement Act of 1971 (ANCSA) established thirteen dif
 ## 7. Equity valuation effects of forming master limited partnerships
 ### Date
 - Sep 1989
-### Authors
+### Author
 - William T. Moore
 - Donald G. Christensen
 - Rodney L. Roenfeldt
@@ -84,7 +84,7 @@ Equity valuation effects of decisions by corporations to shift assets to master 
 ## 8. A simple test of Baron's model of IPO underpricing
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Chris J. Muscarella
 - Michael R. Vetsuypens
 ### Abstract
@@ -95,7 +95,7 @@ This paper tests Baron's (1982) model of initial public offering (IPO) underpric
 ## 9. Managerial performance, Tobin's Q, and the gains from successful tender offers
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Larry H.P. Lang
 - RenéM. Stulz
 - Ralph A. Walkling
@@ -107,7 +107,7 @@ For a sample of successful tender offers, we find that the shareholders of high 
 ## 10. Consumption volatility, production volatility, spot-rate volatility, and the returns on treasury bills and bonds
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Beni Lauterbach
 ### Abstract
 The study documents a relation between the expected holding-period premiums on Treasury bills and the ex ante conditional volatilities of consumption, spot (one-month) interest rate, and industrial production. A model portraying the relation as a risk and return phenomenon is presented and tested. Consistent with the model, the coefficients of the relation appear to depend on the sensitivity of the realized premium to the ex post shocks in consumption, industrial production, and the spot rate. The model fits the data better than the traditional term premium models.
@@ -117,7 +117,7 @@ The study documents a relation between the expected holding-period premiums on T
 ## 11. Dividend announcements
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Larry H.P. Lang
 - Robert H. Litzenberger
 ### Abstract
@@ -128,7 +128,7 @@ We test the cash flow signalling and free cash flow/overinvestment explanations 
 ## 12. Stock-price volatility, mean-reverting diffusion, and noise
 ### Date
 - Sep 1989
-### Authors
+### Author
 - Larry J. Merville
 - Dan R. Pieptea
 ### Abstract

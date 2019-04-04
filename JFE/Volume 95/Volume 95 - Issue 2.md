@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Escape from New York: The market impact of loosening disclosure requirements
 ### Date
 - Dec 2008
-### Authors
+### Author
 - Nuno Fernandes
 - Ugur Lel
 - Darius P. Miller
@@ -26,7 +26,7 @@ We examine the first significant deregulation of U.S. disclosure requirements si
 ## 3. Resolving the exposure puzzle: The many facets of exchange rate exposure
 ### Date
 - Sep 2009
-### Authors
+### Author
 - Söhnke M. Bartram
 - Gregory W. Brown
 - Bernadette A. Minton
@@ -38,7 +38,7 @@ Theory predicts sizeable exchange rate (FX) exposure for many firms. However, em
 ## 4. Sentiment and stock prices: The case of aviation disasters
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Guy Kaplanski
 - Haim Levy
 ### Abstract
@@ -49,7 +49,7 @@ Behavioral economic studies reveal that negative sentiment driven by bad mood an
 ## 5. Political rights and the cost of debt
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Yaxuan Qi
 - Lukas Roth
 - John K. Wald
@@ -61,7 +61,7 @@ We examine the impact of country-level political rights on the cost of debt for 
 ## 6. Reduced-form valuation of callable corporate bonds: Theory and evidence
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Robert Jarrow
 - Haitao Li
 - Sheen Liu
@@ -74,7 +74,7 @@ We develop a reduced-form approach for valuing callable corporate bonds by chara
 ## 7. Capital structure decisions: Evidence from deregulated industries
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Alexei V. Ovtchinnikov
 ### Abstract
 Deregulation significantly affects the firms’ operating environment and leverage decisions. Firms experience a significant decline in profitability, asset tangibility and a significant increase in growth opportunities following deregulation. Firms respond by reducing leverage. Deregulation also significantly affects the cross-sectional relation between leverage and its determinants. Leverage is much less negatively correlated with profitability and market-to-book and much more positively (negatively) correlated with firm size (earnings volatility) following deregulation. These results are consistent with the dynamic tradeoff theory of capital structure. Also consistent with the dynamic tradeoff theory, those firms that are more likely to be above their target capital structure issue significantly more equity in the first few years following deregulation.

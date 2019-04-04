@@ -1,0 +1,323 @@
+{
+    "journal": "JF",
+    "volume": "32",
+    "issue": "1",
+    "date": "March 1977",
+    "page": "Pages: i-vii, 1-258, viii-xxiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb00856.x"
+        },
+        {
+            "no": "2",
+            "title": "BANKRUPTCY, SECURED DEBT, AND OPTIMAL CAPITAL STRUCTURE",
+            "date": "March 1977",
+            "author": [
+                "James H. Scott Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03237.x"
+        },
+        {
+            "no": "3",
+            "title": "BOND REFUNDING: A CLARIFYING ANALYSIS",
+            "date": "March 1977",
+            "author": [
+                "Aharon R. Ofer",
+                "Robert A. Taggart Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03238.x"
+        },
+        {
+            "no": "4",
+            "title": "THE IMPACT OF COMPENSATING BALANCE REQUIREMENTS ON THE CASH BALANCES OF MANUFACTURING CORPORATIONS: AN EMPIRICAL STUDY*",
+            "date": "March 1977",
+            "author": [
+                "Tim Campbell",
+                "Leland Brendsel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03239.x"
+        },
+        {
+            "no": "5",
+            "title": "THE TIME\u2010VARIANCE RELATIONSHIP: EVIDENCE ON AUTOCORRELATION IN COMMON STOCK RETURNS",
+            "date": "March 1977",
+            "author": [
+                "Robert A. Schwartz",
+                "David K. Whitcomb"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03240.x"
+        },
+        {
+            "no": "6",
+            "title": "THE EFFECT OF MODEL MISSPECIFICATION ON TESTS OF THE EFFICIENT MARKET HYPOTHESIS",
+            "date": "March 1977",
+            "author": [
+                "Menachem Brenner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03241.x"
+        },
+        {
+            "no": "7",
+            "title": "A MULTIDIMENSIONAL ANALYSIS OF INSTITUTIONAL INVESTOR PERCEPTION OF RISK*",
+            "date": "March 1977",
+            "author": [
+                "Philip L. Cooley"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03242.x"
+        },
+        {
+            "no": "8",
+            "title": "THE IMPACT AND EFFICIENCY OF INSTITUTIONAL NET TRADING IMBALANCES",
+            "date": "March 1977",
+            "author": [
+                "Robert C. Klemkosky"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03243.x"
+        },
+        {
+            "no": "9",
+            "title": "TRADING IN WARRANTS BY MECHANICAL SYSTEMS",
+            "date": "March 1977",
+            "author": [
+                "Richard J. Rogalski"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03244.x"
+        },
+        {
+            "no": "10",
+            "title": "THE COUPON EFFECT ON YIELD TO MATURITY",
+            "date": "March 1977",
+            "author": [
+                "John Caks"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03245.x"
+        },
+        {
+            "no": "11",
+            "title": "THE MACROECONOMIC IMPACT OF CHANGES IN THE CEILINGS ON DEPOSIT RATES",
+            "date": "March 1977",
+            "author": [
+                "Marie Elizabeth Sushka",
+                "Myron B. Slovin"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03246.x"
+        },
+        {
+            "no": "12",
+            "title": "MARKET CHARACTERISTICS AND MULTIBANK HOLDING COMPANY ACQUISITIONS",
+            "date": "March 1977",
+            "author": [
+                "Gregory E. Boczar"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03247.x"
+        },
+        {
+            "no": "13",
+            "title": "A COMPARATIVE STUDY OF BANK HOLDING COMPANY AFFILIATES AND INDEPENDENT BANKS, 1969\u20131972",
+            "date": "March 1977",
+            "author": [
+                "Lucille S. Mayne"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03248.x"
+        },
+        {
+            "no": "14",
+            "title": "BID\u2010ASKED SPREADS ON THE AMEX AND THE BIG BOARD",
+            "date": "March 1977",
+            "author": [
+                "Ben Branch",
+                "Walter Freed"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03249.x"
+        },
+        {
+            "no": "15",
+            "title": "CAPITAL GAINS TAXATION AND YEAR\u2010END STOCK MARKET BEHAVIOR",
+            "date": "March 1977",
+            "author": [
+                "Edward A. Dyl"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03250.x"
+        },
+        {
+            "no": "16",
+            "title": "THE CAPITAL ASSET PRICING MODEL (CAPM), SHORT\u2010SALE RESTRICTIONS AND RELATED ISSUES",
+            "date": "March 1977",
+            "author": [
+                "Stephen A. Ross"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03251.x"
+        },
+        {
+            "no": "17",
+            "title": "A \u201cDURATION\u201d FALLACY",
+            "date": "March 1977",
+            "author": [
+                "Miles Livingston",
+                "John Caks"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03252.x"
+        },
+        {
+            "no": "18",
+            "title": "COMPETITIVE EQUILIBRIUM CONTINGENT COMMODITIES AND INFORMATION*",
+            "date": "March 1977",
+            "author": [
+                "Martin Shubik"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03253.x"
+        },
+        {
+            "no": "19",
+            "title": "AN ANALYSIS OF THE EFFECTS OF THE REMOVAL OF THE YIELD CEILING ON FEDERALLY INSURED MORTGAGES IN CANADA",
+            "date": "March 1977",
+            "author": [
+                "Lawrence B. Smith"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03254.x"
+        },
+        {
+            "no": "20",
+            "title": "AN EXAMINATION OF THE YIELDS OF CORPORATE BONDS AND STOCKS: COMMENT",
+            "date": "March 1977",
+            "author": [
+                "John S. McCallum"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03255.x"
+        },
+        {
+            "no": "21",
+            "title": "REPLY",
+            "date": "March 1977",
+            "author": [
+                "Richard L. Norgaard"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03256.x"
+        },
+        {
+            "no": "22",
+            "title": "A SIMPLE MODEL OF INFORMATION AND LENDING BEHAVIOR: COMMENT",
+            "date": "March 1977",
+            "author": [
+                "Stephen M. Miller"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03257.x"
+        },
+        {
+            "no": "23",
+            "title": "INTERACTIONS OF CORPORATE FINANCING AND INVESTMENT DECISIONS\u2014IMPLICATIONS FOR CAPITAL BUDGETING: COMMENT",
+            "date": "March 1977",
+            "author": [
+                "Sasson Bar\u2010Yosef"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03258.x"
+        },
+        {
+            "no": "24",
+            "title": "REPLY",
+            "date": "March 1977",
+            "author": [
+                "Stewar T. C. Myers"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03259.x"
+        },
+        {
+            "no": "25",
+            "title": "DISCOUNTING THE COMPONENTS OF AN INCOME STREAM: COMMENT",
+            "date": "March 1977",
+            "author": [
+                "Stuart M. Turnbull"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03260.x"
+        },
+        {
+            "no": "26",
+            "title": "DISCOUNTING THE COMPONENTS OF AN INCOME STREAM: REPLY",
+            "date": "March 1977",
+            "author": [
+                "Fred D. Arditti"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03261.x"
+        },
+        {
+            "no": "27",
+            "title": "THE USELESSNESS OF TRANSACTION DEMAND MODELS: COMMENT",
+            "date": "March 1977",
+            "author": [
+                "Case M. Sprenkle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03262.x"
+        },
+        {
+            "no": "28",
+            "title": "BOOK REVIEWS",
+            "date": "March 1977",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nCommercial Banking. By Edward W. Reed, Richard V. Cotter, Edward K. Gill, and Richard K. Smith.\nSolvency and Regulation of Banks. By Jack Revell.\nFundamentals of Investing. By Ben Branch.\nFinancial Decision Making: Concepts, Problems and Cases. By John J. Hampton.\nFinancial Administration. By Clifton H. Kreps, Jr. and Richard F. Wacht.\nMoney: Whence It Came, Where It Went. By John Kenneth Galbraith.\nMoney, Banking, and Economic Analysis. By Thomas D. Simpson.\nMoney and Banking, An Introduction To The Financial System. By Thomas E. Van Dahm.\nFinancing the New Federalism (Revenue Sharing, Conditional Grants and Taxation). Edited by Wallace E. Oates.\nLocal Government Finance. By Alan Walter Steiss.\nStudies in Selective Credit Policies. Edited by Ira Kaminow and James M. O'Brien.\nA Theory of Profits. By Adrian Wood.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03263.x"
+        },
+        {
+            "no": "29",
+            "title": "MISCELLANEA SECTION",
+            "date": "March 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03264.x"
+        },
+        {
+            "no": "30",
+            "title": "1977 WESTERN FINANCE ASSOCIATION ANNUAL MEETINGS",
+            "date": "March 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03265.x"
+        },
+        {
+            "no": "31",
+            "title": "SOUTHERN FINANCE ASSOCIATION (in conjunction with the Southern Economic Association)",
+            "date": "March 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03266.x"
+        },
+        {
+            "no": "32",
+            "title": "Back Matter",
+            "date": "March 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb00857.x"
+        }
+    ]
+}

@@ -1,0 +1,129 @@
+{
+    "journal": "RFS",
+    "volume": "28",
+    "issue": "7",
+    "date": "July 2015",
+    "page": "Pages 1849\u20132166",
+    "article": [
+        {
+            "no": "1",
+            "title": "Confusion of Confusions: A Test of the Disposition Effect and Momentum",
+            "date": "24 January 2015",
+            "author": [
+                "Justin Birru"
+            ],
+            "abstract": "Using investor-level data, I document that the disposition effect is absent following a stock split; inattentive investors may fail to split-adjust their reference point, confusing the winner versus loser status of their holdings. Consistent with the disposition effect impeding the incorporation of news, ex-date returns are significantly higher for split stocks with higher gains. However, the magnitude is small relative to momentum, and momentum remains robustly present among this sample of stocks void of the disposition effect. The results suggest that the disposition effect may slow the incorporation of news, but not to the extent that it alone explains momentum.",
+            "link": "https://doi.org/10.1093/rfs/hhv007"
+        },
+        {
+            "no": "2",
+            "title": "Learning About Unstable, Publicly Unobservable Payoffs",
+            "date": "03 October 2014",
+            "author": [
+                "Elise Payzan-LeNestour",
+                "Peter Bossaerts"
+            ],
+            "abstract": "Neoclassical finance assumes that investors are Bayesian. In many realistic situations, Bayesian learning is challenging. Here, we consider investment opportunities that change randomly, while payoffs are observable only when invested. In a stylized version of the task, we wondered whether performance would be affected if one were to follow reinforcement learning principles instead. The answer is a definite yes. When asked to perform our task, participants overwhelmingly learned in a Bayesian way. They stopped being Bayesians, though, when not nudged into paying attention to contingency shifts. This raises an issue for financial markets: who has the incentive to nudge investors?",
+            "link": "https://doi.org/10.1093/rfs/hhu069"
+        },
+        {
+            "no": "3",
+            "title": "Differences of Opinion, Endogenous Liquidity, and Asset Prices",
+            "date": "07 January 2015",
+            "author": [
+                "Emilio Osambela"
+            ],
+            "abstract": "This paper studies how investors' differences of opinion affect liquidity and asset prices. In our economy, excessively optimistic investors are subject to an endogenous funding constraint that prevents default due to ex-ante-limited commitment. When the funding constraint binds, optimists use their savings to increase their consumption share, deterring default. This allows them to place speculative trades, increasing market liquidity. Their losses on these trades make them prone to default, leading to a renewed binding of the funding constraint. This feedback between funding illiquidity, disagreement, and market liquidity is consistent with several empirical features of liquidity and financial asset prices.",
+            "link": "https://doi.org/10.1093/rfs/hhv001"
+        },
+        {
+            "no": "4",
+            "title": "Modeling Credit Contagion via the Updating of Fragile Beliefs",
+            "date": "09 March 2015",
+            "author": [
+                "Luca Benzoni",
+                "Pierre Collin-Dufresne",
+                "Robert S. Goldstein",
+                "Jean Helwege"
+            ],
+            "abstract": "We propose an equilibrium model for defaultable bonds that are subject to contagion risk. Contagion arises because agents with \u201cfragile beliefs\u201d are uncertain about the underlying economic state and its probability. Estimation on sovereign European credit default swaps (CDS) data shows that agents require a time-varying risk premium for bearing state uncertainty. The model outperforms affine specifications with the same number of state variables, suggesting that there are important nonlinearities in credit spreads that are captured by our model. Contagion drives most of the variation in CDS spreads, especially before the crisis. However, economic fundamentals account for a significant fraction during the crisis.",
+            "link": "https://doi.org/10.1093/rfs/hhv018"
+        },
+        {
+            "no": "5",
+            "title": "Home away from Home: Geography of Information and Local Investors",
+            "date": "19 January 2015",
+            "author": [
+                "Gennaro Bernile",
+                "Alok Kumar",
+                "Johan Sulaeman"
+            ],
+            "abstract": "We develop a 10-K-based multidimensional measure of firm locations. Using this measure, we show that firm-level information is geographically distributed and institutional investors are able to exploit the resulting information asymmetry. Specifically, institutional investors overweigh firms whose 10-K frequently mentions the investors' state even when those firms are not headquartered locally and earn superior returns on those stocks. These ownership and performance patterns are stronger among hard-to-value firms. Local investor performance increases with the degree of local bias and with the local economic exposure of portfolio firms. Overall, geographical variation in firm-level information generates economically significant location-based information asymmetry.",
+            "link": "https://doi.org/10.1093/rfs/hhv004"
+        },
+        {
+            "no": "6",
+            "title": "Rumor Has It: Sensationalism in Financial Media",
+            "date": "24 January 2015",
+            "author": [
+                "Kenneth R. Ahern",
+                "Denis Sosyura"
+            ],
+            "abstract": "The media has an incentive to publish sensational news. We study how this incentive affects the accuracy of media coverage in the context of merger rumors. Using a novel dataset, we find that accuracy is predicted by a journalist's experience, specialized education, and industry expertise. Conversely, less accurate stories use ambiguous language and feature well-known firms with broad readership appeal. Investors do not fully account for the predictive power of these characteristics, leading to an initial target price overreaction and a subsequent reversal, consistent with limited attention. Overall, we provide novel evidence on the determinants of media accuracy and its effect on asset prices.",
+            "link": "https://doi.org/10.1093/rfs/hhv006"
+        },
+        {
+            "no": "7",
+            "title": "Competition for Order Flow with Fast and Slow Traders",
+            "date": "13 March 2015",
+            "author": [
+                "Vincent van Kervel"
+            ],
+            "abstract": "The rise of computerized trading strategies in equity markets has spurred competition between trading venues. This paper shows that cross-venue strategies create highly interlinked markets: trades on one venue are followed by sizeable cancellations of limit orders on competing venues. These cancellations are explained in a simple model of competition between two limit order markets with fast and slow traders. Only the fast traders can access the liquidity of both venues simultaneously. Empirically, we confirm the predictions that the fraction of fast traders (1) reduces the equilibrium liquidity supply and (2) reduces the magnitude of the cancellations following a trade.",
+            "link": "https://doi.org/10.1093/rfs/hhv023"
+        },
+        {
+            "no": "8",
+            "title": "Do Individual Investors Treat Trading as a Fun and Exciting Gambling Activity? Evidence from Repeated Natural Experiments",
+            "date": "29 October 2014",
+            "author": [
+                "Xiaohui Gao",
+                "Tse-Chun Lin"
+            ],
+            "abstract": "We hypothesize that individual investors treat trading as a fun and exciting gambling activity, implying substitution between this activity and alternative gambling opportunities. To examine this hypothesis, we study the lottery jackpots and the trading of individual investors in Taiwan. When the jackpots exceed 500 million Taiwan dollars, the trading volume decreases between 5.2% and 9.1% among stocks preferred by individual investors and between 6.8% and 8.6% among lottery-like stocks. The decline in individual buy volume is statistically indistinct from the decline in sell volume. Large jackpots are associated with less trading in options with high sensitivity to volatility.",
+            "link": "https://doi.org/10.1093/rfs/hhu075"
+        },
+        {
+            "no": "9",
+            "title": "Cover",
+            "date": "03 June 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu127"
+        },
+        {
+            "no": "10",
+            "title": "Editorial Board",
+            "date": "03 June 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu128"
+        },
+        {
+            "no": "11",
+            "title": "Forthcoming Articles",
+            "date": "03 June 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu129"
+        },
+        {
+            "no": "12",
+            "title": "Volume 28 Number 7 July 2015\nThe Review of Financial Studies - Table of Contents",
+            "date": "03 June 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu130"
+        }
+    ]
+}

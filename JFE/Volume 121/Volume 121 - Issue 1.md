@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The value of creditor control in corporate bonds
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Peter Feldhütter
 - Edith Hotchkiss
 - Oğuzhan Karakaş
@@ -26,7 +26,7 @@ This paper introduces a measure that captures the premium in bond prices that is
 ## 3. Accruals, cash flows, and operating profitability in the cross section of stock returns
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Ray Ball
 - Joseph Gerakos
 - Juhani T. Linnainmaa
@@ -39,7 +39,7 @@ Accruals are the non-cash component of earnings. They represent adjustments made
 ## 4. Short interest and aggregate stock returns
 ### Date
 - Mar 2016
-### Authors
+### Author
 - David E. Rapach
 - Matthew C. Ringgenberg
 - Guofu Zhou
@@ -51,7 +51,7 @@ We show that short interest is arguably the strongest known predictor of aggrega
 ## 5. Under new management: Equity issues and the attribution of past returns
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Malcolm Baker
 - Yuhai Xuan
 ### Abstract
@@ -62,7 +62,7 @@ There is a strong link between measures of stock market performance and subseque
 ## 6. Does variance risk have two prices? Evidence from the equity and option markets
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Laurent Barras
 - Aytek Malkhozov
 ### Abstract
@@ -73,7 +73,7 @@ We formally compare two versions of the market variance risk premium (VRP) measu
 ## 7. Performance measurement with selectivity, market and volatility timing
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Wayne Ferson
 - Haitao Mo
 ### Abstract
@@ -84,7 +84,7 @@ The performance of portfolio managers depends on market timing, volatility timin
 ## 8. Passive investors, not passive owners
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Ian R. Appel
 - Todd A. Gormley
 - Donald B. Keim
@@ -96,7 +96,7 @@ Passive institutional investors are an increasingly important component of U.S. 
 ## 9. Liquidity, resiliency and market quality around predictable trades: Theory and evidence
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Hendrik Bessembinder
 - Allen Carrion
 - Laura Tuttle
@@ -109,7 +109,7 @@ We extend the theory of strategic trading around a predictable liquidation by co
 ## 10. Have we solved the idiosyncratic volatility puzzle?
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Kewei Hou
 - Roger K. Loh
 ### Abstract
@@ -120,7 +120,7 @@ We propose a simple methodology to evaluate a large number of potential explanat
 ## 11. Borrower protection and the supply of credit: Evidence from foreclosure laws
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Jihad Dagher
 - Yangfan Sun
 ### Abstract
@@ -131,7 +131,7 @@ Laws governing the foreclosure process can have direct consequences for the cost
 ## 12. How costly is corporate bankruptcy for the CEO?
 ### Date
 - Mar 2016
-### Authors
+### Author
 - B. Espen Eckbo
 - Karin S. Thorburn
 - Wei Wang

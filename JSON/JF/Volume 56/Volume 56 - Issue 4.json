@@ -1,0 +1,285 @@
+{
+    "journal": "JF",
+    "volume": "56",
+    "issue": "4",
+    "date": "August 2001",
+    "page": "Pages: i-vii, 1165-1628, viii-xxiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2001.tb00689.x"
+        },
+        {
+            "no": "2",
+            "title": "Do Financial Institutions Matter?",
+            "date": "17 December 2002",
+            "author": [
+                "Franklin Allen"
+            ],
+            "abstract": "In standard asset pricing theory, investors are assumed to invest directly in financial markets. The role of financial institutions is ignored. The focus in corporate finance is on agency problems. How do you ensure that managers act in shareholders' interests? There is an inconsistency in assuming that when you give your money to a financial institution there is no agency problem, but when you give it to a firm there is. It is argued that both areas need to take proper account of the role of financial institutions and markets. Appropriate concepts for analyzing particular situations should be used.",
+            "link": "https://doi.org/10.1111/0022-1082.00361"
+        },
+        {
+            "no": "3",
+            "title": "Merton H. Miller",
+            "date": "17 December 2002",
+            "author": [
+                "George M. Constantinides"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00362"
+        },
+        {
+            "no": "4",
+            "title": "Merton H. Miller: Memories of a Great Mentor and Leader",
+            "date": "17 December 2002",
+            "author": [
+                "Myron S. Scholes"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00363"
+        },
+        {
+            "no": "5",
+            "title": "Merton H. Miller: His Contribution to Financial Economics",
+            "date": "17 December 2002",
+            "author": [
+                "Bruce D. Grundy"
+            ],
+            "abstract": "Merton Miller's status as a father of finance reflects the academic depth, breadth, and rigor of his writings and two important facets of his character. Merton was a man of great warmth and humor. He communicated his often challenging views via memorable phrases and anecdotes that have become part of the everyday language of the profession. Merton was also a man of great dedication. The whole profession has benefited from his devotion to his doctoral students, to his colleagues, and to his coauthors. This essay demonstrates how Merton's admiration for markets provided the foundation for all his research.",
+            "link": "https://doi.org/10.1111/0022-1082.00364"
+        },
+        {
+            "no": "6",
+            "title": "The Equity Premium and Structural Breaks",
+            "date": "17 December 2002",
+            "author": [
+                "\u013dlubo\u0161 P\u00e1stor",
+                "Robert F. Stambaugh"
+            ],
+            "abstract": "A long return history is useful in estimating the current equity premium even if the historical distribution has experienced structural breaks. The long series helps not only if the timing of breaks is uncertain but also if one believes that large shifts in the premium are unlikely or that the premium is associated, in part, with volatility. Our framework incorporates these features along with a belief that prices are likely to move opposite to contemporaneous shifts in the premium. The estimated premium since 1834 fluctuates between 4 and 6 percent and exhibits its sharpest drop in the last decade.",
+            "link": "https://doi.org/10.1111/0022-1082.00365"
+        },
+        {
+            "no": "7",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Zhenyu Wang"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00366"
+        },
+        {
+            "no": "8",
+            "title": "Mental Accounting, Loss Aversion, and Individual Stock Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Nicholas Barberis",
+                "Ming Huang"
+            ],
+            "abstract": "We study equilibrium firm\u2010level stock returns in two economies: one in which investors are loss averse over the fluctuations of their stock portfolio, and another in which they are loss averse over the fluctuations of individual stocks that they own. Both approaches can shed light on empirical phenomena, but we find the second approach to be more successful: In that economy, the typical individual stock return has a high mean and excess volatility, and there is a large value premium in the cross section which can, to some extent, be captured by a commonly used multifactor model.",
+            "link": "https://doi.org/10.1111/0022-1082.00367"
+        },
+        {
+            "no": "9",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "M.J. Brennan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00368"
+        },
+        {
+            "no": "10",
+            "title": "Variable Selection for Portfolio Choice",
+            "date": "17 December 2002",
+            "author": [
+                "Yacine A\u00cfT\u2010SAHALI",
+                "Michael W. Brandt"
+            ],
+            "abstract": "We study asset allocation when the conditional moments of returns are partly predictable. Rather than first model the return distribution and subsequently characterize the portfolio choice, we determine directly the dependence of the optimal portfolio weights on the predictive variables. We combine the predictors into a single index that best captures time variations in investment opportunities. This index helps investors determine which economic variables they should track and, more importantly, in what combination. We consider investors with both expected utility (mean variance and CRRA) and nonexpected utility (ambiguity aversion and prospect theory) objectives and characterize their market timing, horizon effects, and hedging demands.",
+            "link": "https://doi.org/10.1111/0022-1082.00369"
+        },
+        {
+            "no": "11",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Jessica A. Wachter"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00370"
+        },
+        {
+            "no": "12",
+            "title": "Expectations Hypotheses Tests",
+            "date": "17 December 2002",
+            "author": [
+                "Geert Bekaert",
+                "Robert J. Hodrick"
+            ],
+            "abstract": "We investigate the expectations hypotheses of the term structure of interest rates and of the foreign exchange market using vector autoregressive methods for U.S. dollar, Deutsche mark, and British pound interest rates and exchange rates. We examine Wald, Lagrange multiplier, and distance metric tests by iterating on approximate solutions that require only matrix inversions. Bias\u2010corrected, constrained VARs provide Monte Carlo simulations. Wald tests grossly overreject the null, Lagrange multiplier tests slightly underreject, and distance metric tests overreject. A common interpretation emerges from the small sample statistics. The evidence against the expectations hypotheses is much less strong than under asymptotic inference.",
+            "link": "https://doi.org/10.1111/0022-1082.00371"
+        },
+        {
+            "no": "13",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Matthew Richardson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00372"
+        },
+        {
+            "no": "14",
+            "title": "Contagion as a Wealth Effect",
+            "date": "17 December 2002",
+            "author": [
+                "Albert S. Kyle",
+                "Wei Xiong"
+            ],
+            "abstract": "Financial contagion is described as a wealth effect in a continuous\u2010time model with two risky assets and three types of traders. Noise traders trade randomly in one market. Long\u2010term investors provide liquidity using a linear rule based on fundamentals. Convergence traders with logarithmic utility trade optimally in both markets. Asset price dynamics are endogenously determined (numerically) as functions of endogenous wealth and exogenous noise. When convergence traders lose money, they liquidate positions in both markets. This creates contagion, in that returns become more volatile and more correlated. Contagion reduces benefits from portfolio diversification and raises issues for risk management.",
+            "link": "https://doi.org/10.1111/0022-1082.00373"
+        },
+        {
+            "no": "15",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Stephen A. Ross"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00374"
+        },
+        {
+            "no": "16",
+            "title": "Automated Versus Floor Trading: An Analysis of Execution Costs on the Paris and New York Exchanges",
+            "date": "17 December 2002",
+            "author": [
+                "Kumar Venkataraman"
+            ],
+            "abstract": "A global trend towards automated trading systems raises the important question of whether execution costs are, in fact, lower than on trading floors. This paper compares the trade execution costs of similar stocks in an automated trading structure (Paris Bourse) and a floor\u2010based trading structure (NYSE). Results indicate that execution costs are higher in Paris than in New York after controlling for differences in adverse selection, relative tick size, and economic attributes across samples. These results suggest that the present form of the automated trading system may not be able to fully replicate the benefits of human intermediation on a trading floor.",
+            "link": "https://doi.org/10.1111/0022-1082.00375"
+        },
+        {
+            "no": "17",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Ananth Madhavan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00376"
+        },
+        {
+            "no": "18",
+            "title": "The Bright Side of Internal Capital Markets",
+            "date": "17 December 2002",
+            "author": [
+                "Naveen Khanna",
+                "Sheri Tice"
+            ],
+            "abstract": "We examine capital expenditure decisions of discount firms in response to WalMart's entry into their markets. Before WalMart's entry, focused incumbents and discount divisions of diversified incumbents are similar in size, geographic dispersion, and firm debt levels. However, discount divisions of diversified firms are significantly more productive. After WalMart's entry, diversified firms are quicker to either exit the discount business or stay and fight. Also, their capital expenditures are more sensitive to the productivity of their discount business. Internal capital markets function well, as transfers are away from the worsening discount divisions. It appears diversified firms make better investment decisions.",
+            "link": "https://doi.org/10.1111/0022-1082.00377"
+        },
+        {
+            "no": "19",
+            "title": "Discussion",
+            "date": "17 December 2002",
+            "author": [
+                "Paola Sapienza"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00378"
+        },
+        {
+            "no": "20",
+            "title": "Investor Psychology and Asset Pricing",
+            "date": "17 December 2002",
+            "author": [
+                "David Hirshleifer"
+            ],
+            "abstract": "The basic paradigm of asset pricing is in vibrant flux. The purely rational approach is being subsumed by a broader approach based upon the psychology of investors. In this approach, security expected returns are determined by both risk and misvaluation. This survey sketches a framework for understanding decision biases, evaluates the a priori arguments and the capital market evidence bearing on the importance of investor psychology for security prices, and reviews recent models.",
+            "link": "https://doi.org/10.1111/0022-1082.00379"
+        },
+        {
+            "no": "21",
+            "title": "Minutes of the Annual Membership Meeting",
+            "date": "17 December 2002",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00380"
+        },
+        {
+            "no": "22",
+            "title": "Addendum to the 2001 Minutes",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "The American Finance Association will grant 20 travel awards of $1,000 each to doctoral students to help defray the costs of attending the ASSA meetings in Atlanta in January 2001. Department chairs (or the equivalent) at each U.S. college or university with an accredited doctoral program are invited to nominate one student per year to be considered for this award. The student must be beyond the first year in her or his doctoral studies and must not be on the job market during the academic year in which the grant is made. The nominated student's resume should be sent with a nominating letter to the Association's Past President:\nProfessor Franklin Allen\nFinance Department\nWharton School\nUniversity of Pennsylvania\nPhiladelphia, PA 19104\nE\u2010mail: allenf@wharton.upenn.edu\nThe deadline for submissions is October 1, 2001. The students to receive grants will be selected by the Past President on the basis of merit. Those awarded grants will be notified before the end of October. In future years, in addition to basing the evaluations on merit, the Past President is expected to give due consideration to the distribution of past awards among the accredited programs. Award checks will be mailed to the selected students following their attendance at the ASSA meetings and the completion of a tax form. If you have any questions please contact Franklin Allen.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2001.tb00693.x"
+        },
+        {
+            "no": "23",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "17 December 2002",
+            "author": [
+                "David H. Pyle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00381"
+        },
+        {
+            "no": "24",
+            "title": "Report of the Editor of The Journal of Finance for the year 2000",
+            "date": "17 December 2002",
+            "author": [
+                "Richard C. Green"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00382"
+        },
+        {
+            "no": "25",
+            "title": "Report of the Representative to the National Bureal of Economic Research",
+            "date": "17 December 2002",
+            "author": [
+                "Robert S. Hamada"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00383"
+        },
+        {
+            "no": "26",
+            "title": "ANNOUNCEMENTS",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2001.tb00690.x"
+        },
+        {
+            "no": "27",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2001.tb00691.x"
+        },
+        {
+            "no": "28",
+            "title": "Back Matter",
+            "date": "29 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2001.tb00692.x"
+        }
+    ]
+}

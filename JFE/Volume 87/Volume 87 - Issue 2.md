@@ -5,7 +5,7 @@
 ## 1. Liquidity and market efficiency
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Tarun Chordia
 - Richard Roll
 - Avanidhar Subrahmanyam
@@ -17,7 +17,7 @@ Short-horizon return predictability from order flows is an inverse indicator of 
 ## 2. The expected value premium
 ### Date
 - Apr 2007
-### Authors
+### Author
 - Long Chen
 - Ralitsa Petkova
 - Lu Zhang
@@ -29,7 +29,7 @@ Fama and French [2002. The equity premium. Journal of Finance 57, 637–659] est
 ## 3. Motivations for public equity offers: An international perspective
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Woojin Kim
 - Michael S. Weisbach
 ### Abstract
@@ -40,7 +40,7 @@ This paper examines the motivations for public equity offers, using a sample of 
 ## 4. The determinants of board structure
 ### Date
 - Mar 2007
-### Authors
+### Author
 - James S. Linck
 - Jeffry M. Netter
 - Tina Yang
@@ -52,7 +52,7 @@ Using a comprehensive sample of nearly 7,000 firms from 1990 to 2004, we examine
 ## 5. Boards: Does one size fit all?
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Jeffrey L. Coles
 - Naveen D. Daniel
 - Lalitha Naveen
@@ -64,7 +64,7 @@ This paper reexamines the relation between firm value and board structure. We fi
 ## 6. Corporate governance and pay-for-performance: The impact of earnings management
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Marcia Millon Cornett
 - Alan J. Marcus
 - Hassan Tehranian
@@ -76,7 +76,7 @@ We ask whether the apparent impact of governance structure and incentive-based c
 ## 7. Inter-firm linkages and the wealth effects of financial distress along the supply chain
 ### Date
 - Jan 2007
-### Authors
+### Author
 - Michael G. Hertzel
 - Zhi Li
 - Micah S. Officer
@@ -89,7 +89,7 @@ Extant research examines the extent to which bankruptcy has intra-industry valua
 ## 8. Volume, liquidity, and liquidity risk
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Timothy C. Johnson
 ### Abstract
 Many classes of microstructure models, as well as intuition, suggest that it should be easier to trade when markets are more active. In the data, however, volume and liquidity seem unrelated over time. This paper offers an explanation for this fact based on a simple frictionless model in which liquidity reflects the average risk-bearing capacity of the economy and volume reflects the changing contribution of individuals to that average. Volume and liquidity are unrelated in the model, but volume is positively related to the variance of liquidity, or liquidity risk. Empirical evidence from the U.S. government bond and stock markets supports this new prediction.
@@ -99,7 +99,7 @@ Many classes of microstructure models, as well as intuition, suggest that it sho
 ## 9. Seasonality in the cross-section of stock returns
 ### Date
 - Feb 2007
-### Authors
+### Author
 - Steven L. Heston
 - Ronnie Sadka
 ### Abstract
@@ -110,7 +110,7 @@ This paper presents a new pattern in the cross-section of expected stock returns
 ## 10. How and why do small firms manage interest rate risk?
 ### Date
 - Sep 2006
-### Authors
+### Author
 - James Vickery
 ### Abstract
 Although small firms are particularly sensitive to interest rates and other shocks, empirical work on corporate risk management has focused instead on large public companies. This paper studies fixed-rate and adjustable-rate loans to see how small firms manage their exposure to interest rate risk. Credit-constrained firms are found to match significantly more often with fixed-rate loans, consistent with prior research that shows the supply of credit shrinks during periods of rising interest rates. Banks originate a higher share of adjustable-rate loans than other lenders, ameliorating maturity mismatch and exposure to the lending channel of monetary policy. Time-series patterns in the fixed-rate share are consistent with recent evidence on debt market timing.
@@ -120,7 +120,7 @@ Although small firms are particularly sensitive to interest rates and other shoc
 ## 11. Corporate asset purchases and sales: Theory and evidence
 ### Date
 - Feb 2007
-### Authors
+### Author
 - Missaka Warusawitharana
 ### Abstract
 Purchases and sales of operating assets by firms generated $162 billion for shareholders over the past 20 years. This contrasts sharply with the evidence on mergers. This paper characterizes the behavior of value-maximizing firms, which could grow organically, purchase existing assets, or sell assets. The approach yields an endogenous selection model that links asset purchases and sales to fundamental properties of the firm. Empirical tests confirm the predictions of the model. In particular, return on assets and size strongly predict when firms purchase or sell assets, and the transaction size covaries with the value of capital employed by the firm. These findings indicate that corporate asset purchases and sales are consistent with efficient investment decisions.
@@ -130,7 +130,7 @@ Purchases and sales of operating assets by firms generated $162 billion for shar
 ## 12. Export incentives, financial constraints, and the (mis)allocation of credit: Micro-level evidence from subsidized export loans
 ### Date
 - Dec 2006
-### Authors
+### Author
 - Bilal H. Zia
 ### Abstract
 This paper combines an exogenous shock to the supply of subsidized credit with unique loan-level data from the export sector in Pakistan to identify the impact and allocation of such financial incentives. The removal of subsidized credit causes a significant decline in the exports of privately owned firms, while the exports of large, publicly listed, and group network firms are unaffected. Publicly listed firms make no significant adjustments to their balance sheets, and only their profits are reduced, indicating that they are financially unconstrained. Nearly half of all subsidized loans are assigned to such firms, implying a substantial misallocation of credit and an output loss to privately owned firms of 0.75% of GDP. Productivity differences do not explain the heterogeneous effects across firms.
@@ -140,7 +140,7 @@ This paper combines an exogenous shock to the supply of subsidized credit with u
 ## 13. Dividend policy: Reconciling DD with MM
 ### Date
 - Feb 2007
-### Authors
+### Author
 - John C. Handley
 ### Abstract
 Miller and Modigliani [1961. Dividend policy, growth and the valuation of shares. Journal of Business 34, 411–433] establish the irrelevance of dividend policy in a perfect capital market. DeAngelo and DeAngelo [2006. The irrelevance of the MM dividend irrelevance theorem. Journal of Financial Economics 79, 293–315.] suggest the Miller-Modigliani analysis is flawed and consequently their central conclusion is incorrect. The purpose of this paper is to show the vital role played by stock repurchases and agency costs in reconciling the two opposing views.
@@ -150,7 +150,7 @@ Miller and Modigliani [1961. Dividend policy, growth and the valuation of shares
 ## 14. Reply to: Dividend policy: Reconciling DD with MM
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Dividend policy and the earned/contributed capital mix: a test of the life-cycle theory
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - René M. Stulz
@@ -26,7 +26,7 @@ Consistent with a life-cycle theory of dividends, the fraction of publicly trade
 ## 3. Determinants of collateral
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Gabriel Jiménez
 - Vicente Salas
 - Jesús Saurina
@@ -38,7 +38,7 @@ We estimate a comprehensive model of the determinants of collateral in loans ext
 ## 4. Hedging, speculation, and shareholder value
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Tim R. Adam
 - Chitru S. Fernando
 ### Abstract
@@ -49,7 +49,7 @@ We document that gold mining firms have consistently realized economically signi
 ## 5. Feedback and the success of irrational investors
 ### Date
 - May 2005
-### Authors
+### Author
 - David Hirshleifer
 - Avanidhar Subrahmanyam
 - Sheridan Titman
@@ -61,7 +61,7 @@ We provide a model in which irrational investors trade based upon considerations
 ## 6. Investing in mutual funds when returns are predictable
 ### Date
 - May 2005
-### Authors
+### Author
 - Doron Avramov
 - Russ Wermers
 ### Abstract
@@ -72,7 +72,7 @@ This paper forms investment strategies in US domestic equity mutual funds, incor
 ## 7. Own company stock in defined contribution pension plans: A takeover defense?
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Joshua D. Rauh
 ### Abstract
 If managers induce employees to hold company stock in defined contribution pension plans as a form of takeover defense, then changes in state laws that enhance managerial protection should lead to a reduction in employer stock in 401(k) plans. Delaware's mid-1990s validation of the poison pill in conjunction with a staggered board was followed by a significant decline in employee ownership within defined contribution plans for firms incorporated in Delaware. Evidence using governance data suggests that this is due to responses of firms with staggered boards. Binary choice models confirm that employee ownership in defined contribution plans lowers takeover probabilities.
@@ -82,7 +82,7 @@ If managers induce employees to hold company stock in defined contribution pensi
 ## 8. Political relationships, global financing, and corporate transparency: Evidence from Indonesia
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Christian Leuz
 - Felix Oberholzer-Gee
 ### Abstract
@@ -93,7 +93,7 @@ This study examines the role of political connections in firms’ financing stra
 ## 9. The strategy of professional forecasting
 ### Date
 - Aug 2005
-### Authors
+### Author
 - Marco Ottaviani
 - Peter Norman Sørensen
 ### Abstract

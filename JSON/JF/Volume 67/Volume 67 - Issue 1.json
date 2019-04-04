@@ -1,0 +1,149 @@
+{
+    "journal": "JF",
+    "volume": "67",
+    "issue": "1",
+    "date": "February 2012",
+    "page": "Pages: i-iv, 1-389",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "09 October 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01716.x"
+        },
+        {
+            "no": "2",
+            "title": "The Power of Voice: Managerial Affective States and Future Firm Performance",
+            "date": "17 January 2012",
+            "author": [
+                "WILLIAM J. MAYEW",
+                "MOHAN VENKATACHALAM"
+            ],
+            "abstract": "We measure managerial affective states during earnings conference calls by analyzing conference call audio files using vocal emotion analysis software. We hypothesize and find that, when managers are scrutinized by analysts during conference calls, positive and negative affects displayed by managers are informative about the firm's financial future. Analysts do not incorporate this information when forecasting near\u2010term earnings. When making stock recommendation changes, however, analysts incorporate positive but not negative affect. This study presents new evidence that managerial vocal cues contain useful information about a firm's fundamentals, incremental to both quantitative earnings information and qualitative \u201csoft\u201d information conveyed by linguistic content.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01705.x"
+        },
+        {
+            "no": "3",
+            "title": "Political Uncertainty and Corporate Investment Cycles",
+            "date": "17 January 2012",
+            "author": [
+                "BRANDON JULIO",
+                "YOUNGSUK YOOK"
+            ],
+            "abstract": "We document cycles in corporate investment corresponding with the timing of national elections around the world. During election years, firms reduce investment expenditures by an average of 4.8% relative to nonelection years, controlling for growth opportunities and economic conditions. The magnitude of the investment cycles varies with different country and election characteristics. We investigate several potential explanations and find evidence supporting the hypothesis that political uncertainty leads firms to reduce investment expenditures until the electoral uncertainty is resolved. These findings suggest that political uncertainty is an important channel through which the political process affects real economic outcomes.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01707.x"
+        },
+        {
+            "no": "4",
+            "title": "The Credit Ratings Game",
+            "date": "17 January 2012",
+            "author": [
+                "PATRICK BOLTON",
+                "XAVIER FREIXAS",
+                "JOEL SHAPIRO"
+            ],
+            "abstract": "The collapse of AAA\u2010rated structured finance products in 2007 to 2008 has brought renewed attention to conflicts of interest in credit rating agencies (CRAs). We model competition among CRAs with three sources of conflicts: (1) CRAs conflict of understating risk to attract business, (2) issuers' ability to purchase only the most favorable ratings, and (3) the trusting nature of some investor clienteles. These conflicts create two distortions. First, competition can reduce efficiency, as it facilitates ratings shopping. Second, ratings are more likely to be inflated during booms and when investors are more trusting. We also discuss efficiency\u2010enhancing regulatory interventions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01708.x"
+        },
+        {
+            "no": "5",
+            "title": "Tiebreaker: Certification and Multiple Credit Ratings",
+            "date": "17 January 2012",
+            "author": [
+                "DION BONGAERTS",
+                "K. J. MARTIJN CREMERS",
+                "WILLIAM N. GOETZMANN"
+            ],
+            "abstract": "This paper explores the economic role credit rating agencies play in the corporate bond market. We consider three existing theories about multiple ratings: information production, rating shopping, and regulatory certification. Using differences in rating composition, default prediction, and credit spread changes, our evidence only supports regulatory certification. Marginal, additional credit ratings are more likely to occur because of, and seem to matter primarily for, regulatory purposes. They do not seem to provide significant additional information related to credit quality.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01709.x"
+        },
+        {
+            "no": "6",
+            "title": "External Networking and Internal Firm Governance",
+            "date": "17 January 2012",
+            "author": [
+                "CESARE FRACASSI",
+                "GEOFFREY TATE"
+            ],
+            "abstract": "We use panel data on S&P 1500 companies to identify external network connections between directors and CEOs. We find that firms with more powerful CEOs are more likely to appoint directors with ties to the CEO. Using changes in board composition due to director death and retirement for identification, we find that CEO\u2010director ties reduce firm value, particularly in the absence of other governance mechanisms to substitute for board oversight. Moreover, firms with more CEO\u2010director ties engage in more value\u2010destroying acquisitions. Overall, our results suggest that network ties with the CEO weaken the intensity of board monitoring.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01706.x"
+        },
+        {
+            "no": "7",
+            "title": "Information Disclosure and Corporate Governance",
+            "date": "17 January 2012",
+            "author": [
+                "BENJAMIN E. HERMALIN",
+                "MICHAEL S. WEISBACH"
+            ],
+            "abstract": "Public policy discussions typically favor greater corporate disclosure as a way to reduce firms' agency problems. This argument is incomplete because it overlooks that better disclosure regimes can also aggravate agency problems and related costs, including executive compensation. Consequently, a point can exist beyond which additional disclosure decreases firm value. Holding all else equal, we further show that larger firms will adopt stricter disclosure rules than smaller firms and firms with better disclosure will employ more able management. We show that mandated increases in disclosure could, in part, explain recent increases in both CEO compensation and CEO turnover rates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01710.x"
+        },
+        {
+            "no": "8",
+            "title": "The Value of Investment Banking Relationships: Evidence from the Collapse of Lehman Brothers",
+            "date": "17 January 2012",
+            "author": [
+                "CHITRU S. FERNANDO",
+                "ANTHONY D. MAY",
+                "WILLIAM L. MEGGINSON"
+            ],
+            "abstract": "We examine the long\u2010standing question of whether firms derive value from investment bank relationships by studying how the Lehman collapse affected industrial firms that received underwriting, advisory, analyst, and market\u2010making services from Lehman. Equity underwriting clients experienced an abnormal return of around \u22125%, on average, in the 7 days surrounding Lehman's bankruptcy, amounting to $23 billion in aggregate risk\u2010adjusted losses. Losses were especially severe for companies that had stronger and broader security underwriting relationships with Lehman or were smaller, younger, and more financially constrained. Other client groups were not adversely affected.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01711.x"
+        },
+        {
+            "no": "9",
+            "title": "When It Pays to Pay Your Investment Banker: New Evidence on the Role of Financial Advisors in M&As",
+            "date": "17 January 2012",
+            "author": [
+                "ANDREY GOLUBOV",
+                "DIMITRIS PETMEZAS",
+                "NICKOLAOS G. TRAVLOS"
+            ],
+            "abstract": "We provide new evidence on the role of financial advisors in M&As. Contrary to prior studies, top\u2010tier advisors deliver higher bidder returns than their non\u2010top\u2010tier counterparts but in public acquisitions only, where the advisor reputational exposure and required skills set are relatively larger. This translates into a $65.83 million shareholder gain for an average bidder. The improvement comes from top\u2010tier advisors' ability to identify more synergistic combinations and to get a larger share of synergies to accrue to bidders. Consistent with the premium price\u2013premium quality equilibrium, top\u2010tier advisors charge premium fees in these transactions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01712.x"
+        },
+        {
+            "no": "10",
+            "title": "Why Does the Law Matter? Investor Protection and Its Effects on Investment, Finance, and Growth",
+            "date": "17 January 2012",
+            "author": [
+                "R. DAVID MCLEAN",
+                "TIANYU ZHANG",
+                "MENGXIN ZHAO"
+            ],
+            "abstract": "Investor protection is associated with greater investment sensitivity to q and lower investment sensitivity to cash flow. Finance plays a role in causing these effects; in countries with strong investor protection, external finance increases more strongly with q, and declines more strongly with cash flow. We further find that q and cash flow sensitivities are associated with ex post investment efficiency; investment predicts growth and profits more strongly in countries with greater q sensitivities and lower cash flow sensitivities. The paper's findings are broadly consistent with investor protection promoting accurate share prices, reducing financial constraints, and encouraging efficient investment.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01713.x"
+        },
+        {
+            "no": "11",
+            "title": "Family\u2010Controlled Firms and Informed Trading: Evidence from Short Sales",
+            "date": "17 January 2012",
+            "author": [
+                "RONALD C. ANDERSON",
+                "DAVID M. REEB",
+                "WANLI ZHAO"
+            ],
+            "abstract": "We investigate the relation between organization structure and the information content of short sales, focusing on founder\u2010 and heir\u2010controlled firms. Our analysis indicates that family\u2010controlled firms experience substantially higher abnormal short sales prior to negative earnings shocks than nonfamily firms. Supplementary testing indicates that family control characteristics intensify informed short selling. Further analysis suggests that daily short\u2010sale interest in family firms contains useful information in forecasting stock returns; however, we find no discernable effect for nonfamily firms. This analysis provides compelling evidence that informed trading via short sales occurs more readily in family firms than in nonfamily firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01714.x"
+        },
+        {
+            "no": "12",
+            "title": "MISCELLANEA",
+            "date": "17 January 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2011.01715.x"
+        },
+        {
+            "no": "13",
+            "title": "BACK MATTER",
+            "date": "09 October 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2012.01717.x"
+        }
+    ]
+}

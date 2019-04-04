@@ -1,0 +1,249 @@
+{
+    "journal": "JF",
+    "volume": "57",
+    "issue": "5",
+    "date": "October 2002",
+    "page": "Pages: i-vi, 1857-2374, vii-cii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "10 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00860.x"
+        },
+        {
+            "no": "2",
+            "title": "Takeover Defenses of IPO Firms",
+            "date": "17 December 2002",
+            "author": [
+                "Laura Casares Field",
+                "Jonathan M. Karpoff"
+            ],
+            "abstract": "Many firms deploy takeover defenses when they go public. IPO managers tend to deploy defenses when their compensation is high, shareholdings are small, and oversight from nonmanagerial shareholders is weak. The presence of a defense is negatively related to subsequent acquisition likelihood, yet has no impact on takeover premiums for firms that are acquired. These results do not support arguments that takeover defenses facilitate the eventual sale of IPO firms at high takeover premiums. Rather, they suggest that managers shift the cost of takeover protection onto nonmanagerial shareholders. Thus, agency problems are important even for firms at the IPO stage.",
+            "link": "https://doi.org/10.1111/0022-1082.00482"
+        },
+        {
+            "no": "3",
+            "title": "Information Production and Capital Allocation: Decentralized versus Hierarchical Firms",
+            "date": "17 December 2002",
+            "author": [
+                "Jeremy C. Stein"
+            ],
+            "abstract": "This paper asks how well different organizational structures perform in terms of generating information about investment projects and allocating capital to these projects. A decentralized approach\u2010with small, single\u2010manager firms\u2010is most likely to be attractive when information about projects is \u201csoft\u201d and cannot be credibly transmitted. In contrast, large hierarchies perform better when information can be costlessly \u201chardened\u201d and passed along inside the firm. The model can be used to think about the consequences of consolidation in the banking industry, particularly the documented tendency for mergers to lead to declines in small\u2010business lending.",
+            "link": "https://doi.org/10.1111/0022-1082.00483"
+        },
+        {
+            "no": "4",
+            "title": "Who Blinks in Volatile Markets, Individuals or Institutions?",
+            "date": "17 December 2002",
+            "author": [
+                "Patrick J. Dennis",
+                "Deon Strickland"
+            ],
+            "abstract": "We investigate the relationship between the ownership structure and returns of firms on days when the absolute value of the market's return is two percent or more. We find that a firm's abnormal return on these days is related to the percentage of institutional ownership, that there is abnormally high turnover in the firm's shares on these days, and that this abnormal turnover is significantly related to the percentage of institutional ownership in the firm. Taken together, these results are consistent with positive feedback herding behavior on the part of some institutions, particularly mutual and pension funds.",
+            "link": "https://doi.org/10.1111/0022-1082.00484"
+        },
+        {
+            "no": "5",
+            "title": "Global Diversification, Industrial Diversification, and Firm Value",
+            "date": "17 December 2002",
+            "author": [
+                "David J. Denis",
+                "Diane K. Denis",
+                "Keven Yost"
+            ],
+            "abstract": "Using a sample of 44,288 firm\u2010ears between 1984 and 1997, we document an increase in the extent of global diversification over time. This trend does not reflect a substitution of global for industrial diversification. We also find that global diversification results in average valuation discounts of approximately the same magnitude as those for industrial diversification. Analysis of the changes in excess value associated with changes in diversification reveals that increases in global diversification reduce excess value, while reductions in global diversification increase excess value. These findings support the view that the costs of global diversification outweigh the benefits.",
+            "link": "https://doi.org/10.1111/0022-1082.00485"
+        },
+        {
+            "no": "6",
+            "title": "Survival Bias and the Equity Premium Puzzle",
+            "date": "17 December 2002",
+            "author": [
+                "Haitao Li",
+                "Yuewu Xu"
+            ],
+            "abstract": "Previous authors have raised the concern that there could be serious survival bias in the observed U.S. equity premium. Contrary to conventional wisdom, we argue that the survival bias in the U.S. data is unlikely to be significant. To reach this conclusion, we introduce a general framework for modeling survival and derive a mathematical relationship between the ex ante survival probability and the average survival bias. This relationship reveals the fundamental difficulty facing the survival argument: High survival bias requires an ex ante probability of market failure, which seems unrealistically high given the history of world financial markets.",
+            "link": "https://doi.org/10.1111/0022-1082.00486"
+        },
+        {
+            "no": "7",
+            "title": "Term Structure of Interest Rates with Regime Shifts",
+            "date": "17 December 2002",
+            "author": [
+                "Ravi Bansal",
+                "Hao Zhou"
+            ],
+            "abstract": "We develop a term structure model where the short interest rate and the market price of risks are subject to discrete regime shifts. Empirical evidence from efficient method of moments estimation provides considerable support for the regime shifts model. Standard models, which include affine specifications with up to three factors, are sharply rejected in the data. Our diagnostics show that only the regime shifts model can account for the well\u2010documented violations of the expectations hypothesis, the observed conditional volatility, and the conditional correlation across yields. We find that regimes are intimately related to business cycles.",
+            "link": "https://doi.org/10.1111/0022-1082.00487"
+        },
+        {
+            "no": "8",
+            "title": "Valuation of the Debt Tax Shield",
+            "date": "17 December 2002",
+            "author": [
+                "Deen Kemsley",
+                "Doron Nissim"
+            ],
+            "abstract": "In this study, we use cross\u2010sectional regressions to estimate the value of the debt tax shield. Recognizing that debt is correlated with the value of operations along nontax dimensions, we estimate reverse regressions in which we regress future profitability on firm value and debt rather than regressing firm value on debt and profitability. Reversing the regressions mitigates bias and facilitates the use of market information to control for differences in risk and expected growth. Our estimated value for the debt tax shield is approximately 40 percent (10 percent) of debt balances (firm value), net of the personal tax disadvantage of debt.",
+            "link": "https://doi.org/10.1111/0022-1082.00488"
+        },
+        {
+            "no": "9",
+            "title": "Telling from Discrete Data Whether the Underlying Continuous\u2010Time Model Is a Diffusion",
+            "date": "17 December 2002",
+            "author": [
+                "Yacine A\u00eft\u2010Sahalia"
+            ],
+            "abstract": "Can discretely sampled financial data help us decide which continuous\u2010time models are sensible? Diffusion processes are characterized by the continuity of their sample paths. This cannot be verified from the discrete sample path: Even if the underlying path were continuous, data sampled at discrete times will always appear as a succession of jumps. Instead, I rely on the transition density to determine whether the discontinuities observed are the result of the discreteness of sampling, or rather evidence of genuine jump dynamics for the underlying continuous\u2010time process. I then focus on the implications of this approach for option pricing models.",
+            "link": "https://doi.org/10.1111/1540-6261.00489"
+        },
+        {
+            "no": "10",
+            "title": "Differences of Opinion and the Cross Section of Stock Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Karl B. Diether",
+                "Christopher J. Malloy",
+                "Anna Scherbina"
+            ],
+            "abstract": "We provide evidence that stocks with higher dispersion in analysts' earnings forecasts earn lower future returns than otherwise similar stocks. This effect is most pronounced in small stocks and stocks that have performed poorly over the past year. Interpreting dispersion in analysts forecasts as a proxy for differences in opinion about a stock, we show that this evidence is consistent with the hypothesis that prices will reflect the optimistic view whenever investors with the lowest valuations do not trade. By contrast, our evidence is inconsistent with a view that dispersion in analysts' forecasts proxies for risk.",
+            "link": "https://doi.org/10.1111/0022-1082.00490"
+        },
+        {
+            "no": "11",
+            "title": "A Test of the Errors\u2010in\u2010Expectations Explanation of the Value/Glamour Stock Returns Performance: Evidence from Analysts' Forecasts",
+            "date": "17 December 2002",
+            "author": [
+                "John A. Doukas",
+                "Chansog (Francis) Kim",
+                "Christos Pantzalis"
+            ],
+            "abstract": "Several empirical studies show that investment strategies that favor the purchase of stocks with low prices relative to conventional measures of value yield higher returns. Some of these studies imply that investors are too optimistic about (glamour) stocks that have had good performance in the recent past and too pessimistic about (value) stocks that have performed poorly. We examine whether investors systematically overestimate (underestimate) the future earnings performance of glamour (value) stocks over the 1976 to 1997 period. Our results fail to support the extrapolation hypothesis that posits that the superior performance of value stocks is because investors make systematic errors in predicting future growth in earnings of out\u2010of\u2010favor stocks.",
+            "link": "https://doi.org/10.1111/1540-6261.00491"
+        },
+        {
+            "no": "12",
+            "title": "Corporate Diversification: What Gets Discounted?",
+            "date": "17 December 2002",
+            "author": [
+                "Sattar A. Mansi",
+                "David M. Reeb"
+            ],
+            "abstract": "Prior literature finds that diversified firms sell at a discount relative to the sum of the imputed values of their business segments. We explore this documented discount and argue that it stems from risk\u2010reducing effects of corporate diversification. Consistent with this risk\u2010reduction hypothesis, we find that (a) shareholder losses in diversification are a function of firm leverage, (b) all equity firms do not exhibit a diversification discount, and (c) using book values of debt to compute excess value creates a downward bias for diversified firms. Overall, the results indicate that diversification is insignificantly related to excess firm value.",
+            "link": "https://doi.org/10.1111/0022-1082.00492"
+        },
+        {
+            "no": "13",
+            "title": "Is Information Risk a Determinant of Asset Returns?",
+            "date": "17 December 2002",
+            "author": [
+                "David Easley",
+                "Soeren Hvidkjaer",
+                "Maureen O'Hara"
+            ],
+            "abstract": "We investigate the role of information\u2010based trading in affecting asset returns. We show in a rational expectation example how private information affects equilibrium asset returns. Using a market microstructure model, we derive a measure of the probability of information\u2010based trading, and we estimate this measure using data for individual NYSE\u2010listed stocks for 1983 to 1998. We then incorporate our estimates into a Fama and French (1992) asset\u2010pricing framework. Our main result is that information does affect asset prices. A difference of 10 percentage points in the probability of information\u2010based trading between two stocks leads to a difference in their expected returns of 2.5 percent per year.",
+            "link": "https://doi.org/10.1111/1540-6261.00493"
+        },
+        {
+            "no": "14",
+            "title": "No Contagion, Only Interdependence: Measuring Stock Market Comovements",
+            "date": "17 December 2002",
+            "author": [
+                "Kristin J. Forbes",
+                "Roberto Rigobon"
+            ],
+            "abstract": "Heteroskedasticity biases tests for contagion based on correlation coefficients. When contagion is defined as a significant increase in market comovement after a shock to one country, previous work suggests contagion occurred during recent crises. This paper shows that correlation coefficients are conditional on market volatility. Under certain assumptions, it is possible to adjust for this bias. Using this adjustment, there was virtually no increase in unconditional correlation coefficients (i.e., no contagion) during the 1997 Asian crisis, 1994 Mexican devaluation, and 1987 U.S. market crash. There is a high level of market comovement in all periods, however, which we call interdependence.",
+            "link": "https://doi.org/10.1111/0022-1082.00494"
+        },
+        {
+            "no": "15",
+            "title": "An Investigation of the Informational Role of Short Interest in the Nasdaq Market",
+            "date": "17 December 2002",
+            "author": [
+                "Hemang Desai",
+                "K. Ramesh",
+                "S. Ramu Thiagarajan",
+                "Bala V. Balachandran"
+            ],
+            "abstract": "This paper examines the relationship between the level of short interest and stock returns in the Nasdaq market from June 1988 through December 1994. We find that heavily shorted firms experience significant negative abnormal returns ranging from \u22120.76 to \u22121.13 percent per month after controlling for the market, size, book\u2010to\u2010market, and momentum factors. These negative returns increase with the level of short interest, indicating that a higher level of short interest is a stronger bearish signal. We find that heavily shorted firms are more likely to be delisted compared to their size, book\u2010to\u2010market, and momentum matched control firms.",
+            "link": "https://doi.org/10.1111/0022-1082.00495"
+        },
+        {
+            "no": "16",
+            "title": "The Making of a Dealer Market: From Entry to Equilibrium in the Trading of Nasdaq Stocks",
+            "date": "17 December 2002",
+            "author": [
+                "Katrina Ellis",
+                "Roni Michaely",
+                "Maureen O'Hara"
+            ],
+            "abstract": "This paper provides an analysis of the nature and evolution of a dealer market for Nasdaq stocks. Despite size differences in sample stocks, there is a surprising consistency to their trading. One dealer tends to dominate trading in a stock. Markets are concentrated and spreads are increasing in the volume and market share of the dominant dealer. Entry and exit are ubiquitous. Exiting dealers are those with very low profits and trading volume. Entering market makers fail to capture a meaningful share of trading or profits. Thus, free entry does little to improve the competitive nature of the market as entering dealers have little impact. We find, however, that for small stocks, the Nasdaq dealer market is being more competitive than the specialist market.",
+            "link": "https://doi.org/10.1111/1540-6261.00496"
+        },
+        {
+            "no": "17",
+            "title": "Book\u2010to\u2010Market Equity, Distress Risk, and Stock Returns",
+            "date": "17 December 2002",
+            "author": [
+                "John M. Griffin",
+                "Michael L. Lemmon"
+            ],
+            "abstract": "This paper examines the relationship between book\u2010to\u2010market equity, distress risk, and stock returns. Among firms with the highest distress risk as proxied by Ohlson's (1980) O\u2010score, the difference in returns between high and low book\u2010to market securities is more than twice as large as that in other firms. This large return differential cannot be explained by the three\u2010factor model or by differences in economic fundamentals. Consistent with mispricing arguments, firms with high distress risk exhibit the largest return reversals around earnings announcements, and the book\u2010to\u2010market effect is largest in small firms with low analyst coverage.",
+            "link": "https://doi.org/10.1111/1540-6261.00497"
+        },
+        {
+            "no": "18",
+            "title": "Empirical Evaluation of Asset\u2010Pricing Models: A Comparison of the SDF and Beta Methods",
+            "date": "17 December 2002",
+            "author": [
+                "Ravi Jagannathan",
+                "Zhenyu Wang"
+            ],
+            "abstract": "The stochastic discount factor (SDF) method provides a unified general framework for econometric analysis of asset\u2010pricing models. There have been concerns that, compared to the classical beta method, the generality of the SDF method comes at the cost of efficiency in parameter estimation and power in specification tests. We establish the correct framework for comparing the two methods and show that the SDF method is as efficient as the beta method for estimating risk premiums. Also, the specification test based on the SDF method is as powerful as the one based on the beta method.",
+            "link": "https://doi.org/10.1111/1540-6261.00498"
+        },
+        {
+            "no": "19",
+            "title": "Miscellanea",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00499"
+        },
+        {
+            "no": "20",
+            "title": "ANNOUNCEMENTS",
+            "date": "10 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00862.x"
+        },
+        {
+            "no": "21",
+            "title": "Association Meetings",
+            "date": "10 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00861.x"
+        },
+        {
+            "no": "22",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "10 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00864.x"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "10 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2002.tb00863.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - December 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Stock price fragility
 ### Date
 - Jun 2011
-### Authors
+### Author
 - Robin Greenwood
 - David Thesmar
 ### Abstract
@@ -25,7 +25,7 @@ We study the relation between the ownership structure of financial assets and no
 ## 3. The fragile capital structure of hedge funds and the limits to arbitrage
 ### Date
 - Jun 2011
-### Authors
+### Author
 - Xuewen Liu
 - Antonio S. Mello
 ### Abstract
@@ -36,7 +36,7 @@ During a financial crisis, when investors are most in need of liquidity and accu
 ## 4. Directors' and officers' liability insurance and acquisition outcomes
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Chen Lin
 - Micah S. Officer
 - Hong Zou
@@ -48,7 +48,7 @@ We examine the effect of directors' and officers' liability insurance (D&O insur
 ## 5. Liquidity mergers
 ### Date
 - Aug 2011
-### Authors
+### Author
 - Heitor Almeida
 - Murillo Campello
 - Dirk Hackbarth
@@ -60,7 +60,7 @@ We study the interplay between corporate liquidity and asset reallocation. Our m
 ## 6. The role of securitization in mortgage renegotiation
 ### Date
 - Jul 2011
-### Authors
+### Author
 - Sumit Agarwal
 - Gene Amromin
 - Itzhak Ben-David
@@ -74,7 +74,7 @@ We study the effects of securitization on renegotiation of distressed residentia
 ## 7. Local underwriter oligopolies and IPO underpricing
 ### Date
 - Jan 2011
-### Authors
+### Author
 - Xiaoding Liu
 - Jay R. Ritter
 ### Abstract
@@ -85,7 +85,7 @@ We develop a theory of initial public offering (IPO) underpricing based on diffe
 ## 8. Deviation from the target capital structure and acquisition choices
 ### Date
 - Nov 2010
-### Authors
+### Author
 - Vahap B. Uysal
 ### Abstract
 This study finds that managers take deviations from their target capital structures into account when planning and structuring acquisitions. Specifically, firms that are overleveraged relative to their target debt ratios are less likely to make acquisitions and are less likely to use cash in their offers. Furthermore, they acquire smaller targets and pay lower premiums. Managers of overleveraged firms also actively rebalance their capital structures when they anticipate a high likelihood of making an acquisition. Finally, they pursue the most value-enhancing acquisitions. Collectively, these findings improve understanding of how firms choose their capital structures and shed light on the interdependence of capital structure and investment decisions in the presence of financial frictions.
@@ -95,7 +95,7 @@ This study finds that managers take deviations from their target capital structu
 ## 9. Egalitarianism and international investment
 ### Date
 - May 2011
-### Authors
+### Author
 - Jordan I. Siegel
 - Amir N. Licht
 - Shalom H. Schwartz
@@ -107,7 +107,7 @@ This study identifies how country differences on a key cultural dimension—egal
 ## 10. The influence of governance on investment: Evidence from a hazard model
 ### Date
 - Jul 2011
-### Authors
+### Author
 - Matthew T. Billett
 - Jon A. Garfinkel
 - Yi Jiang
@@ -119,7 +119,7 @@ Does corporate governance affect the timing of large investment projects? Hazard
 ## 11. Religious beliefs, gambling attitudes, and financial market outcomes
 ### Date
 - Jul 2011
-### Authors
+### Author
 - Alok Kumar
 - Jeremy K. Page
 - Oliver G. Spalt

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The role of shorting, firm size, and time on market anomalies
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Ronen Israel
 - Tobias J. Moskowitz
 ### Abstract
@@ -25,7 +25,7 @@ We examine the role of shorting, firm size, and time on the profitability of siz
 ## 3. Connecting two markets: An equilibrium framework for shorts, longs, and stock loans
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Jesse Blocher
 - Adam V. Reed
 - Edward D. Van Wesep
@@ -37,7 +37,7 @@ We analyze a reduced-form framework for understanding the equity loan market's i
 ## 4. Learning and the disappearing association between governance and returns
 ### Date
 - Oct 2012
-### Authors
+### Author
 - Lucian A. Bebchuk
 - Alma Cohen
 - Charles C.Y. Wang
@@ -49,7 +49,7 @@ The correlation between governance indices and abnormal returns documented for 1
 ## 5. What do boards really do? Evidence from minutes of board meetings☆
 ### Date
 - Apr 2012
-### Authors
+### Author
 - Miriam Schwartz-Ziv
 - Michael S. Weisbach
 ### Abstract
@@ -60,7 +60,7 @@ We analyze a unique database from a sample of real-world boardrooms — minutes 
 ## 6. Valuation of VIX derivatives
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Javier Mencía
 - Enrique Sentana
 ### Abstract
@@ -71,7 +71,7 @@ We conduct an extensive empirical analysis of VIX derivative valuation models be
 ## 7. Real effects of stock underpricing
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Harald Hau
 - Sandy Lai
 ### Abstract
@@ -82,7 +82,7 @@ This paper provides evidence for a causal effect of equity prices on corporate i
 ## 8. Risk and return: Long-run relations, fractional cointegration, and return predictability
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Tim Bollerslev
 - Daniela Osterrieder
 - Natalia Sizova
@@ -95,7 +95,7 @@ Univariate dependencies in market volatility, both objective and risk neutral, a
 ## 9. Flow and stock effects of large-scale treasury purchases: Evidence on the importance of local supply
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Stefania D’Amico
 - Thomas B. King
 ### Abstract
@@ -106,7 +106,7 @@ The Federal Reserve’s 2009 program to purchase $300 billion of US Treasury sec
 ## 10. Labor unemployment risk and corporate financing decisions
 ### Date
 - Nov 2012
-### Authors
+### Author
 - Ashwini K. Agrawal
 - David A. Matsa
 ### Abstract
@@ -117,7 +117,7 @@ This paper presents evidence that firms choose conservative financial policies p
 ## 11. Generalists versus specialists: Lifetime work experience and chief executive officer pay
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Cláudia Custódio
 - Miguel A. Ferreira
 - Pedro Matos
@@ -129,7 +129,7 @@ We show that pay is higher for chief executive officers (CEOs) with general mana
 ## 12. The economics of club bidding and value creation
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Robert Marquez
 - Rajdeep Singh
 ### Abstract
@@ -140,7 +140,7 @@ Many acquisitions are conducted by clubs, i.e., coalitions of acquirers that sub
 ## 13. Mutual fund risk and market share-adjusted fund flows
 ### Date
 - May 2012
-### Authors
+### Author
 - Matthew Spiegel
 - Hong Zhang
 ### Abstract
@@ -151,7 +151,7 @@ Several papers use a fractional specification (net inflow/ assets under manageme
 ## 14. The asset growth effect: Insights from international equity markets
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Akiko Watanabe
 - Yan Xu
 - Tong Yao

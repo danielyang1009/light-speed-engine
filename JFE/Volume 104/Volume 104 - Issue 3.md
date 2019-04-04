@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Market institutions, financial market risks, and the financial crisis
 ### Date
 - Feb 2012
-### Authors
+### Author
 - Mark Carey
 - Anil K Kashyap
 - Raghuram Rajan
@@ -27,7 +27,7 @@
 ## 3. Securitized banking and the run on repo
 ### Date
 - Mar 2011
-### Authors
+### Author
 - Gary Gorton
 - Andrew Metrick
 ### Abstract
@@ -38,7 +38,7 @@ The panic of 2007–2008 was a run on the sale and repurchase market (the repo m
 ## 4. Neglected risks, financial innovation, and financial fragility
 ### Date
 - May 2011
-### Authors
+### Author
 - Nicola Gennaioli
 - Andrei Shleifer
 - Robert Vishny
@@ -50,7 +50,7 @@ We present a standard model of financial innovation, in which intermediaries eng
 ## 5. Arbitrage crashes and the speed of capital
 ### Date
 - Sep 2011
-### Authors
+### Author
 - Mark Mitchell
 - Todd Pulvino
 ### Abstract
@@ -61,7 +61,7 @@ The imminent failure of prime brokers during the 2008 financial crisis caused a 
 ## 6. The role of institutional investors in propagating the crisis of 2007–2008
 ### Date
 - May 2011
-### Authors
+### Author
 - Alberto Manconi
 - Massimo Massa
 - Ayako Yasuda
@@ -73,7 +73,7 @@ Using novel data on investors' bond portfolios, we study the contagion of the cr
 ## 7. Asset commonality, debt maturity and systemic risk
 ### Date
 - Jul 2011
-### Authors
+### Author
 - Franklin Allen
 - Ana Babus
 - Elena Carletti
@@ -85,7 +85,7 @@ We develop a model in which asset commonality and short-term debt of banks inter
 ## 8. Econometric measures of connectedness and systemic risk in the finance and insurance sectors
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Monica Billio
 - Mila Getmansky
 - Andrew W. Lo

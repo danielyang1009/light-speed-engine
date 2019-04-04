@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Activist arbitrage: A study of open-ending attempts of closed-end funds
 ### Date
 - Jan 2009
-### Authors
+### Author
 - Michael Bradley
 - Alon Brav
 - Itay Goldstein
@@ -27,7 +27,7 @@ This paper documents frequent attempts by activist arbitrageurs to open-end disc
 ## 3. First-passage probability, jump models, and intra-horizon risk
 ### Date
 - Jan 2009
-### Authors
+### Author
 - Gurdip Bakshi
 - George Panayotov
 ### Abstract
@@ -38,7 +38,7 @@ This paper proposes a risk measure, based on first-passage probability, which re
 ## 4. Are family firms more tax aggressive than non-family firms?
 ### Date
 - Feb 2009
-### Authors
+### Author
 - Shuping Chen
 - Xia Chen
 - Qiang Cheng
@@ -51,7 +51,7 @@ Taxes represent a significant cost to the firm and shareholders, and it is gener
 ## 5. Asset liquidity and financial contracts: Evidence from aircraft leases
 ### Date
 - Jan 2009
-### Authors
+### Author
 - Alessandro Gavazza
 ### Abstract
 Financial contracting theories agree that more-liquid assets decrease the expected cost of external financing, thus making leasing more attractive and reducing lessors’ equilibrium return. However, the literature has ambiguous predictions about the effect of liquidity on the maturity of leases. These predictions are further complicated by the existence of two types of lease contracts—operating and capital—that differ in whether asset ownership transfers to the lessee at the end of the contract. Using data from commercial aircraft, I find that more-liquid assets (1) make leasing, operating leasing in particular, more likely; (2) have shorter operating leases; (3) have longer capital leases; and (4) command lower markups of operating lease rates.
@@ -61,7 +61,7 @@ Financial contracting theories agree that more-liquid assets decrease the expect
 ## 6. Informed trading before analyst downgrades: Evidence from short sellers
 ### Date
 - Feb 2009
-### Authors
+### Author
 - Stephen E. Christophe
 - Michael G. Ferri
 - Jim Hsieh
@@ -73,7 +73,7 @@ This paper studies short-selling prior to the release of analyst downgrades in a
 ## 7. Market liquidity, asset prices, and welfare
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Jennifer Huang
 - Jiang Wang
 ### Abstract

@@ -1,0 +1,231 @@
+{
+    "journal": "JF",
+    "volume": "71",
+    "issue": "4",
+    "date": "August 2016",
+    "page": "Pages: 1479-1921",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION \u2010 ED BOARD",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12335"
+        },
+        {
+            "no": "2",
+            "title": "ISSUE INFORMATION \u2010 HELP DESK",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12336"
+        },
+        {
+            "no": "3",
+            "title": "ISSUE INFORMATION \u2010 TOC",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12334"
+        },
+        {
+            "no": "4",
+            "title": "Presidential Address: Debt and Money: Financial Constraints and Sovereign Finance",
+            "date": "13 May 2016",
+            "author": [
+                "PATRICK BOLTON"
+            ],
+            "abstract": "Economic analyses of corporate finance, money, and sovereign debt are largely considered separately. I introduce a novel corporate finance framing of sovereign finance based on the analogy between fiat liabilities for sovereigns and equity for corporations. The analysis focuses on financial constraints at the country level, making explicit the trade\u2010offs involved in relying on domestic versus foreign\u2010currency debt to finance investments or government expenditures. This framing provides new insights into issues ranging from the costs and benefits of inflation, optimal foreign exchange reserves, and sovereign debt restructuring.",
+            "link": "https://doi.org/10.1111/jofi.12418"
+        },
+        {
+            "no": "5",
+            "title": "A Model of Financialization of Commodities",
+            "date": "13 July 2016",
+            "author": [
+                "SULEYMAN BASAK",
+                "ANNA PAVLOVA"
+            ],
+            "abstract": "We analyze how institutional investors entering commodity futures markets, referred to as the financialization of commodities, affect commodity prices. Institutional investors care about their performance relative to a commodity index. We find that all commodity futures prices, volatilities, and correlations go up with financialization, but more so for index futures than for nonindex futures. The equity\u2010commodity correlations also increase. We demonstrate how financial markets transmit shocks not only to futures prices but also to commodity spot prices and inventories. Spot prices go up with financialization, and shocks to any index commodity spill over to all storable commodity prices.",
+            "link": "https://doi.org/10.1111/jofi.12408"
+        },
+        {
+            "no": "6",
+            "title": "Return Seasonalities",
+            "date": "22 February 2016",
+            "author": [
+                "MATTI KELOHARJU",
+                "JUHANI T. LINNAINMAA",
+                "PETER NYBERG"
+            ],
+            "abstract": "A strategy that selects stocks based on their historical same\u2010calendar\u2010month returns earns an average return of 13% per year. We document similar return seasonalities in anomalies, commodities, and international stock market indices, as well as at the daily frequency. The seasonalities overwhelm unconditional differences in expected returns. The correlations between different seasonality strategies are modest, suggesting that they emanate from different systematic factors. Our results suggest that seasonalities are not a distinct class of anomalies that requires an explanation of its own, but rather that they are intertwined with other return anomalies through shared systematic factors.",
+            "link": "https://doi.org/10.1111/jofi.12398"
+        },
+        {
+            "no": "7",
+            "title": "The Impact of Venture Capital Monitoring",
+            "date": "13 October 2015",
+            "author": [
+                "SHAI BERNSTEIN",
+                "XAVIER GIROUD",
+                "RICHARD R. TOWNSEND"
+            ],
+            "abstract": "We show that venture capitalists' (VCs) on\u2010site involvement with their portfolio companies leads to an increase in both innovation and the likelihood of a successful exit. We rule out selection effects by exploiting an exogenous source of variation in VC involvement: the introduction of new airline routes that reduce VCs' travel times to their existing portfolio companies. We confirm the importance of this channel by conducting a large\u2010scale survey of VCs, of whom almost 90% indicate that direct flights increase their interaction with their portfolio companies and management, and help them better understand companies' activities.",
+            "link": "https://doi.org/10.1111/jofi.12370"
+        },
+        {
+            "no": "8",
+            "title": "On Enhancing Shareholder Control: A (Dodd\u2010) Frank Assessment of Proxy Access",
+            "date": "01 March 2016",
+            "author": [
+                "JONATHAN B. COHN",
+                "STUART L. GILLAN",
+                "JAY C. HARTZELL"
+            ],
+            "abstract": "We use events related to a proxy access rule passed by the Securities and Exchange Commission in 2010 as natural experiments to study the valuation effects of changes in shareholder control. We find that valuations increase (decrease) following increases (decreases) in perceived control, especially for firms that are poorly performing, have shareholders likely to exercise control, and where acquiring a stake is relatively inexpensive. These results suggest that an increase in shareholder control from its current level would generally benefit shareholders. However, we find that the benefits of increased control are muted for firms with shareholders whose interests may deviate from value maximization.",
+            "link": "https://doi.org/10.1111/jofi.12402"
+        },
+        {
+            "no": "9",
+            "title": "Risk\u2010Sharing or Risk\u2010Taking? Counterparty Risk, Incentives, and Margins",
+            "date": "19 February 2016",
+            "author": [
+                "BRUNO BIAIS",
+                "FLORIAN HEIDER",
+                "MARIE HOEROVA"
+            ],
+            "abstract": "Derivatives activity, motivated by risk\u2010sharing, can breed risk\u2010taking. Bad news about the risk of an asset underlying a derivative increases protection sellers' expected liability and undermines their risk\u2010prevention incentives. This limits risk\u2010sharing, creates endogenous counterparty risk, and can lead to contagion from news about the hedged risk to the balance sheet of protection sellers. Margin calls after bad news can improve protection sellers' incentives and in turn enhance risk\u2010sharing. Central clearing can provide insurance against counterparty risk but must be designed to preserve risk\u2010prevention incentives.",
+            "link": "https://doi.org/10.1111/jofi.12396"
+        },
+        {
+            "no": "10",
+            "title": "Good\u2010Specific Habit Formation and the Cross\u2010Section of Expected Returns",
+            "date": "22 February 2016",
+            "author": [
+                "JULES H. VAN BINSBERGEN"
+            ],
+            "abstract": "I study asset prices in a general equilibrium framework in which agents form habits over individual varieties of goods rather than over an aggregate consumption bundle. Goods are produced by monopolistically competitive firms whose elasticities of demand depend on consumers' habit formation. Firms that produce goods with a high habit level relative to consumption have low demand elasticities, set high prices for their product, have low expected returns on their stock, and have low asset pricing betas and stock return volatilities. I find supportive evidence for these predictions in the data.",
+            "link": "https://doi.org/10.1111/jofi.12397"
+        },
+        {
+            "no": "11",
+            "title": "Do Private Firms Invest Differently than Public Firms? Taking Cues from the Natural Gas Industry",
+            "date": "30 April 2016",
+            "author": [
+                "ERIK P. GILJE",
+                "JEROME P. TAILLARD"
+            ],
+            "abstract": "We study how listing status affects investment behavior. Theory offers competing hypotheses on how listing\u2010related frictions affect investment decisions. We use detailed data on 74,670 individual projects in the U.S. natural gas industry to show that private firms respond less than public firms to changes in investment opportunities. Private firms adjust drilling activity for low capital\u2010intensity investments. However, they do not increase drilling in response to new capital\u2010intensive growth opportunities. Instead, they sell these projects to public firms. Our evidence suggests that differences in access to external capital are important in explaining the investment behavior of public and private firms.",
+            "link": "https://doi.org/10.1111/jofi.12417"
+        },
+        {
+            "no": "12",
+            "title": "It Pays to Set the Menu: Mutual Fund Investment Options in 401(k) Plans",
+            "date": "15 April 2016",
+            "author": [
+                "VERONIKA K. POOL",
+                "CLEMENS SIALM",
+                "IRINA STEFANESCU"
+            ],
+            "abstract": "This paper investigates whether mutual fund families acting as service providers in 401(k) plans display favoritism toward their own affiliated funds. Using a hand\u2010collected data set on the menu of investment options offered to plan participants, we show that fund deletions and additions are less sensitive to prior performance for affiliated than unaffiliated funds. We find no evidence that plan participants undo this affiliation bias through their investment choices. Finally, we find that the subsequent performance of poorly performing affiliated funds indicates that this favoritism is not information driven.",
+            "link": "https://doi.org/10.1111/jofi.12411"
+        },
+        {
+            "no": "13",
+            "title": "Exodus from Sovereign Risk: Global Asset and Information Networks in the Pricing of Corporate Credit Risk",
+            "date": "19 April 2016",
+            "author": [
+                "JONGSUB LEE",
+                "ANDY NARANJO",
+                "STACE SIRMANS"
+            ],
+            "abstract": "Using five\u2010year credit default swap (CDS) spreads on 2,364 companies in 54 countries from 2004 to 2011, we find that firms exposed to stronger property rights through their foreign asset positions (institutional channel) and firms cross\u2010listed on exchanges with stricter disclosure requirements (informational channel) reduce their CDS spreads by 40 bps for a one\u2010standard\u2010deviation increase in their exposure to the two channels. These channels capture effects beyond those associated with firm\u2010 and country\u2010level fundamentals. Overall, we find that firm\u2010level global asset and information connections are important mechanisms to delink firms from their sovereign and country risks.",
+            "link": "https://doi.org/10.1111/jofi.12412"
+        },
+        {
+            "no": "14",
+            "title": "The Optimal Size of Hedge Funds: Conflict between Investors and Fund Managers",
+            "date": "15 April 2016",
+            "author": [
+                "CHENGDONG YIN"
+            ],
+            "abstract": "This study examines whether the standard compensation contract in the hedge fund industry aligns managers\u2019 incentives with investors\u2019 interests. I show empirically that managers\u2019 compensation increases when fund assets grow, even when diseconomies of scale in fund performance exist. Thus, managers\u2019 compensation is maximized at a much larger fund size than is optimal for fund performance. However, to avoid capital outflows, managers are also motivated to restrict fund growth to maintain style\u2010average performance. Similarly, fund management firms have incentives to collect more capital for all funds under management, including their flagship funds, even at the expense of fund performance.",
+            "link": "https://doi.org/10.1111/jofi.12413"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Editor of the Journal of Finance for the Year 2015",
+            "date": "13 July 2016",
+            "author": [
+                "KENNETH J. SINGLETON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12414"
+        },
+        {
+            "no": "16",
+            "title": "Minutes of the 2016 Annual Membership Meeting",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12428"
+        },
+        {
+            "no": "17",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12429"
+        },
+        {
+            "no": "18",
+            "title": "MISCELLANEA",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12433"
+        },
+        {
+            "no": "19",
+            "title": "ANNOUNCEMENTS",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12427"
+        },
+        {
+            "no": "20",
+            "title": "To Those Seeking Permissions for Academic Classroom Use",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12340"
+        },
+        {
+            "no": "21",
+            "title": "Issue Information \u2010 Style Instuctions",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12337"
+        },
+        {
+            "no": "22",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12338"
+        },
+        {
+            "no": "23",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "13 July 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12339"
+        }
+    ]
+}

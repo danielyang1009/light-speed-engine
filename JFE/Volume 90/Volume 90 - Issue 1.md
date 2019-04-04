@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Structural models of credit risk are useful: Evidence from hedge ratios on corporate bonds
 ### Date
 - Oct 2007
-### Authors
+### Author
 - Stephen M. Schaefer
 - Ilya A. Strebulaev
 ### Abstract
@@ -25,7 +25,7 @@ Structural models of credit risk provide poor predictions of bond prices. We sho
 ## 3. The only game in town: Stock-price consequences of local bias
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Harrison Hong
 - Jeffrey D. Kubik
 - Jeremy C. Stein
@@ -37,7 +37,7 @@ Theory suggests that, in the presence of local bias, the price of a stock should
 ## 4. The importance of IRS monitoring to debt pricing in private firms
 ### Date
 - Dec 2007
-### Authors
+### Author
 - Omrane Guedhami
 - Jeffrey Pittman
 ### Abstract
@@ -48,7 +48,7 @@ We examine the link between Internal Revenue Service (IRS) monitoring and yield 
 ## 5. The timing of financing decisions: An examination of the correlation in financing waves
 ### Date
 - Nov 2007
-### Authors
+### Author
 - Amy K. Dittmar
 - Robert F. Dittmar
 ### Abstract
@@ -59,7 +59,7 @@ Why do corporate financing events occur in waves? We challenge recent evidence o
 ## 6. Do boards pay attention when institutional investor activists “just vote no”?
 ### Date
 - Jan 2008
-### Authors
+### Author
 - Diane Del Guercio
 - Laura Seery
 - Tracie Woidtke

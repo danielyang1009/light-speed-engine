@@ -5,7 +5,7 @@
 ## 1. Debt and the terms of employment1
 ### Date
 - 1 June
-### Authors
+### Author
 - Gordon Hanka
 ### Abstract
 For the last two decades, firms with higher debt have reduced their employment more often, used more part time and seasonal employees, paid lower wages, and funded pension plans less generously. These effects are economically significant and cannot be explained by variation in performance. Thus debt seems to discipline the employment relationship. However, this result reflects a clear historical reversal, during the years 1967–73, of the opposite effect that prevailed in the 1950s. Apparently some of the disciplinary effects of debt are driven by forces that emerged during the period now colloquially referred to as the Sixties.
@@ -15,7 +15,7 @@ For the last two decades, firms with higher debt have reduced their employment m
 ## 2. Employee buyouts: causes, structure, and consequences1
 ### Date
 - 1 June
-### Authors
+### Author
 - Susan Chaplinsky
 - Greg Niehaus
 - Linda Van de Gucht
@@ -27,7 +27,7 @@ This paper investigates the motivations for and consequences of including a broa
 ## 3. The cost of market versus regulatory discipline in banking1
 ### Date
 - 1 June
-### Authors
+### Author
 - Matthew T. Billett
 - Jon A. Garfinkel
 - Edward S. O'Neal
@@ -39,7 +39,7 @@ We present evidence that insured deposit financing shields banks from the full c
 ## 4. Efficiency loss and constraints on portfolio holdings1
 ### Date
 - 1 June
-### Authors
+### Author
 - Zhenyu Wang
 ### Abstract
 This paper examines the degree of portfolio inefficiency subject to various constraints on portfolio weights. When portfolio weights are unconstrained, the posterior loss in expected return on the NYSE-AMEX market portfolio is over 20% (annualized). In contrast, when portfolio weights are constrained to be nonnegative, the posterior loss in expected return is only about 4% (annualized). In addition, short-sale constraints greatly reduce uncertainty in inferences about portfolio efficiency.
@@ -49,7 +49,7 @@ This paper examines the degree of portfolio inefficiency subject to various cons
 ## 5. Index
 ### Date
 - 1 June
-### Authors
+### Author
 ### Abstract
 
 ### Link

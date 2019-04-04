@@ -5,7 +5,7 @@
 ## 1. Bankers on boards:
 ### Date
 - Dec 2001
-### Authors
+### Author
 - Randall S Kroszner
 - Philip E Strahan
 ### Abstract
@@ -16,7 +16,7 @@ We investigate the trade-off between the benefits from bank monitoring when a ba
 ## 2. Pay for performance? Government regulation and the structure of compensation contracts
 ### Date
 - Dec 2001
-### Authors
+### Author
 - Tod Perry
 - Marc Zenner
 ### Abstract
@@ -27,7 +27,7 @@ In 1992–1993, the SEC required enhanced disclosure on executive compensation a
 ## 3. Linking pay to performance—compensation proposals in the S&P 500
 ### Date
 - Dec 2001
-### Authors
+### Author
 - Angela G Morgan
 - Annette B Poulsen
 ### Abstract
@@ -38,7 +38,7 @@ We study the proposal of manager-sponsored compensation plans linking pay to per
 ## 4. Does Delaware law improve firm value?
 ### Date
 - Dec 2001
-### Authors
+### Author
 - Robert Daines
 ### Abstract
 I present evidence consistent with the theory that Delaware corporate law improves firm value and facilitates the sale of public firms. Using Tobin's Q as an estimate of firm value, I find that Delaware firms are worth significantly more than similar firms incorporated elsewhere. The result is robust to controls for firm size, diversification, profitability, investment opportunity, industry, managerial ownership, and unobservable firm heterogeneity. Delaware firms are also significantly more likely to receive takeover bids and be acquired. Results are robust to controls for endogeneity.
@@ -48,7 +48,7 @@ I present evidence consistent with the theory that Delaware corporate law improv
 ## 5. Understanding the determinants of managerial ownership and the link between ownership and performance: comment
 ### Date
 - Dec 2001
-### Authors
+### Author
 - Xianming Zhou
 ### Abstract
 Himmelberg et al. (J. Financial Econom. 53 (1999) 353–384) argue that fixed effects estimators should be used in examination of the relationship between managerial ownership and firm performance. I show that managerial ownership, while substantially different across firms, typically changes slowly from year to year within a company. With rational managers maximising long-term utility, small, one-year changes in ownership are not likely to reflect notable changes in incentives that would lead to substantive within-year changes in performance. By relying on within variation, fixed effects estimators may not detect an effect of ownership on performance even if one exists.
@@ -58,7 +58,7 @@ Himmelberg et al. (J. Financial Econom. 53 (1999) 353–384) argue that fixed ef
 ## 6. Index
 ### Date
 - Dec 2001
-### Authors
+### Author
 ### Abstract
 
 ### Link

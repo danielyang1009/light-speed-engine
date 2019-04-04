@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Systemic risk and the macroeconomy: An empirical evaluation
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Stefano Giglio
 - Bryan Kelly
 - Seth Pruitt
@@ -26,7 +26,7 @@ This article studies how systemic risk and financial market distress affect the 
 ## 3. Institutional investors and stock return anomalies
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Roger M. Edelen
 - Ozgur S. Ince
 - Gregory B. Kadlec
@@ -38,7 +38,7 @@ We examine institutional demand prior to well-known stock return anomalies and f
 ## 4. State variables, macroeconomic activity, and the cross section of individual stocks
 ### Date
 - May 2015
-### Authors
+### Author
 - Martijn Boons
 ### Abstract
 I study whether risk premiums for exposure to state variables in the cross-section of individual stocks are consistent with how these variables forecast macroeconomic activity in the time series. I find such time series and cross-sectional consistency. This finding suggests that investors are ultimately concerned about business cycle risk and therefore require a premium for exposure to variables that contain systematic economic news. This finding challenges recent portfolio-level evidence showing that state variable risk premiums are inconsistent with hedging incentives in the Intertemporal CAPM. Moreover, state variable risk premiums are not fully captured by the factors and characteristics of Fama and French (1992, 1993).
@@ -48,7 +48,7 @@ I study whether risk premiums for exposure to state variables in the cross-secti
 ## 5. Corporate governance and risk management at unprotected banks: National banks in the 1890s
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Charles W. Calomiris
 - Mark Carlson
 ### Abstract
@@ -59,7 +59,7 @@ We examine bank governance and risk choices from the 1890s, a period without dis
 ## 6. Executive overconfidence and compensation structure
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Mark Humphery-Jenner
 - Ling Lei Lisic
 - Vikram Nanda
@@ -72,7 +72,7 @@ We examine the impact of overconfidence on compensation structure. Our findings 
 ## 7. Ambiguity aversion and household portfolio choice puzzles: Empirical evidence
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Stephen G. Dimmock
 - Roy Kouwenberg
 - Olivia S. Mitchell
@@ -85,7 +85,7 @@ We test the relation between ambiguity aversion and five household portfolio cho
 ## 8. Nominal price illusion
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Justin Birru
 - Baolian Wang
 ### Abstract
@@ -96,7 +96,7 @@ We explore the psychology of stock price levels and provide evidence that invest
 ## 9. Debt-equity choices, R&D investment and market timing
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Craig M. Lewis
 - Yongxian Tan
 ### Abstract
@@ -107,7 +107,7 @@ In this paper, we examine whether managers time their debt-equity choices to exp
 ## 10. Heuristic portfolio trading rules with capital gain taxes
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Marcel Fischer
 - Michael F. Gallmeyer
 ### Abstract
@@ -118,7 +118,7 @@ We study the out-of-sample performance of portfolio trading strategies used when
 ## 11. The cost of friendship
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Paul A. Gompers
 - Vladimir Mukharlyamov
 - Yuhai Xuan
@@ -130,7 +130,7 @@ We investigate how personal characteristics affect people's desire to collaborat
 ## 12. Does Dodd-Frank affect OTC transaction costs and liquidity? Evidence from real-time CDS trade reports
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Yee Cheng Loon
 - Zhaodong (Ken) Zhong
 ### Abstract

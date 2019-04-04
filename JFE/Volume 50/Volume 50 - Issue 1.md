@@ -5,7 +5,7 @@
 ## 1. Does order preferencing matter?1
 ### Date
 - 1 October
-### Authors
+### Author
 - Robert Bloomfield
 - Maureen O'Hara
 ### Abstract
@@ -16,7 +16,7 @@ This study examines how order preferencing affects the competitiveness and effic
 ## 2. The trading profits of SOES bandits1
 ### Date
 - 1 October
-### Authors
+### Author
 - Jeffrey H. Harris
 - Paul H. Schultz
 ### Abstract
@@ -27,7 +27,7 @@ SOES bandits are individual investors who use Nasdaq's Small Order Execution Sys
 ## 3. Earnings management and the underperformance of seasoned equity offerings1
 ### Date
 - 1 October
-### Authors
+### Author
 - Siew Hong Teoh
 - Ivo Welch
 - T.J. Wong
@@ -39,7 +39,7 @@ Seasoned equity issuers can raise reported earnings by altering discretionary ac
 ## 4. Earnings management and the performance of seasoned equity offerings1
 ### Date
 - 1 October
-### Authors
+### Author
 - Srinivasan Rangan
 ### Abstract
 Recent studies document that firms conducting seasoned equity offerings experience poor stock price and earnings performance in the post-offering period. I investigate whether earnings management around the time of the offering can explain a portion of the poor performance. Consistent with this explanation, I show that earnings management during the year around the offering predicts both earnings changes and market-adjusted stock returns in the following year. These findings suggest that the stock market temporarily overvalues issuing firms and is subsequently disappointed by predictable declines in earnings caused by earnings management.

@@ -1,0 +1,150 @@
+{
+    "journal": "RFS",
+    "volume": "24",
+    "issue": "9",
+    "date": "September 2011",
+    "page": "Pages 2865\u20133195",
+    "article": [
+        {
+            "no": "1",
+            "title": "Tractability in Incentive Contracting",
+            "date": "14 July 2011",
+            "author": [
+                "Alex Edmans",
+                "Xavier Gabaix"
+            ],
+            "abstract": "This article develops a framework that delivers tractable (i.e., closed-form) optimal contracts, with few restrictions on the utility function, cost of effort, or noise distribution. By modeling the noise before the action in each period, we force the contract to provide correct incentives state-by-state, rather than merely on average. This tightly constrains the set of admissible contracts and allows for a simple solution to the contracting problem. Our results continue to hold in continuous time, where noise and actions are simultaneous. We illustrate the potential usefulness of our setup by a series of examples related to CEO incentives. In particular, the model derives predictions for the optimal measure of incentives and whether the contract should be convex, concave, or linear.",
+            "link": "https://doi.org/10.1093/rfs/hhr044"
+        },
+        {
+            "no": "2",
+            "title": "Information in (and not in) the Term Structure",
+            "date": "21 May 2011",
+            "author": [
+                "Gregory R. Duffee"
+            ],
+            "abstract": "Standard approaches to building and estimating dynamic term structure models rely on the assumption that yields can serve as the factors. However, the assumption is neither theoretically necessary nor empirically supported. This article documents that almost half of the variation in bond risk premia cannot be detected using the cross-section of yields. Fluctuations in this hidden component have strong forecast power for both future short-term interest rates and excess bond returns. They are also negatively correlated with aggregate economic activity, but macroeconomic variables explain only a small fraction of variation in the hidden factor.",
+            "link": "https://doi.org/10.1093/rfs/hhr033"
+        },
+        {
+            "no": "3",
+            "title": "Dividend Policies in an Unregulated Market: The London Stock Exchange, 1895\u20131905",
+            "date": "12 May 2011",
+            "author": [
+                "Fabio Braggion",
+                "Lyndon Moore"
+            ],
+            "abstract": "Miller and Modigliani (1961) show that in perfect and complete financial markets a firm's value is unaffected by its dividend policy. Much of the more recent research has demonstrated that dividend policy becomes important in the presence of taxation, asymmetric information, incomplete contracts, institutional constraints, and transaction costs. By examining the effects of dividend policies on 475 British firms existing between 1895 and 1905, and consequently operating in an environment of very low taxation with an absence of institutional constraints, we find strong support for asymmetric information theories of dividend policy, and little support for agency models.",
+            "link": "https://doi.org/10.1093/rfs/hhr026"
+        },
+        {
+            "no": "4",
+            "title": "Financial Constraints, R&D Investment, and Stock Returns",
+            "date": "03 June 2011",
+            "author": [
+                "Dongmei Li"
+            ],
+            "abstract": "Through the interaction between financial constraints and R&D, I study two asset-pricing puzzles: mixed evidence on the financial constraints\u2013return relation and the positive R&D-return relation. Unlike capital investment, R&D is more inflexible. A financially constrained R&D-intensive firm is more likely to suspend/discontinue R&D projects. Therefore, R&D-intensive firms' risk increases with their financial constraints. Conversely, constrained firms' risk increases with their R&D intensity. I find a robust empirical relation between financial constraints and stock returns, primarily among R&D-intensive firms. Moreover, R&D predicts returns only among financially constrained firms. This evidence suggests that financial constraints potentially drive the positive R&D-return relation.",
+            "link": "https://doi.org/10.1093/rfs/hhr043"
+        },
+        {
+            "no": "5",
+            "title": "The Good or the Bad? Which Mutual Fund Managers Join Hedge Funds?",
+            "date": "21 June 2011",
+            "author": [
+                "Prachi Deuskar",
+                "Joshua M. Pollet",
+                "Z. Jay Wang",
+                "Lu Zheng"
+            ],
+            "abstract": "Does the mutual fund industry lose its best managers to hedge funds? We find that mutual funds are able to retain managers with good performance in the face of competition from a growing hedge fund industry. On the other hand, poor performers are more likely to leave the mutual fund industry. A small fraction of these poor performers find jobs with smaller and younger hedge fund companies, especially when the hedge fund industry is growing rapidly. Analogously, a small fraction of the better-performing mutual fund managers are retained by allowing them to manage a hedge fund side-by-side.",
+            "link": "https://doi.org/10.1093/rfs/hhr057"
+        },
+        {
+            "no": "6",
+            "title": "Learning from Prices and the Dispersion in Beliefs",
+            "date": "28 July 2011",
+            "author": [
+                "Snehal Banerjee"
+            ],
+            "abstract": "The article develops a dynamic model that nests the rational expectations (RE) and differences of opinion (DO) approaches to study how investors use prices to update their valuations. When investors condition on prices (RE), investor disagreement is related positively to expected returns, return volatility, and market beta, but negatively to return autocorrelation. When investors do not use prices (DO), these relations are reversed. Tests of these predictions on the cross-section of stocks using analyst forecast dispersion and volume as proxies for disagreement provide empirical evidence that is consistent with investors using prices on average.",
+            "link": "https://doi.org/10.1093/rfs/hhr050"
+        },
+        {
+            "no": "7",
+            "title": "Information Sales and Strategic Trading",
+            "date": "21 May 2011",
+            "author": [
+                "Diego Garc\u00eda",
+                "Francesco Sangiorgi"
+            ],
+            "abstract": "We study information sales in financial markets with strategic risk-averse traders. The optimal selling mechanism is one of the following two: (i) sell to as many agents as possible very imprecise information; (ii) sell to a small number of agents information as precise as possible. As risk-sharing considerations prevail over the negative effects of competition, the newsletters or rumors associated with (i) dominate the exclusivity contract in (ii). These allocations of information have implications for price informativeness and trading volume, and thus we suggest a direct link between properties of asset prices and financial intermediation. Moreover, as more information is sold when the externality in its valuation is relatively less intense, we find a ranking reversal of the informational content of prices between (a) market structures (market-orders vs. limit-orders); and (b) models of traders' behavior (imperfect vs. perfect competition).",
+            "link": "https://doi.org/10.1093/rfs/hhr041"
+        },
+        {
+            "no": "8",
+            "title": "Can VCs Time the Market? An Analysis of Exit Choice for Venture-backed Firms",
+            "date": "25 July 2011",
+            "author": [
+                "Eric Ball",
+                "Hsin Hui Chiu",
+                "Richard Smith"
+            ],
+            "abstract": "We use a sample of 8,163 venture-backed companies over three decades to test the competing hypotheses that levels and relative shares of IPO (initial public offering) and M&A (mergers and acquisitions) exits are affected by market timing, versus pseudo-market timing that reflects market conditions. We find evidence of pseudo-market timing. Venture-backed issuers react to market or sector runups but do not predict downturns. We find no evidence that firm-specific market timing contributes to IPO or M&A waves. We also find that acquirers turn to acquisition when other opportunities are unattractive, and that the market may be slow to recognize that such opportunities are declining.",
+            "link": "https://doi.org/10.1093/rfs/hhr042"
+        },
+        {
+            "no": "9",
+            "title": "Recourse and Residential Mortgage Default: Evidence from US States",
+            "date": "29 June 2011",
+            "author": [
+                "Andra C. Ghent",
+                "Marianna Kudlyak"
+            ],
+            "abstract": "We quantify the effect of recourse on default and find that recourse affects default by lowering the borrower's sensitivity to negative equity. At the mean value of the default option for defaulted loans, borrowers are 30% more likely to default in non-recourse states. Furthermore, for homes appraised at $500,000 to $750,000, borrowers are twice as likely to default in non-recourse states. We also find that defaults are more likely to occur through a lender-friendly procedure, such as a deed in lieu, in states that allow deficiency judgments. We find no evidence that mortgage interest rates are lower in recourse states.",
+            "link": "https://doi.org/10.1093/rfs/hhr055"
+        },
+        {
+            "no": "10",
+            "title": "Erratum: Wealth, Information Acquisition and Portfolio Choice A Correction",
+            "date": "01 September 2011",
+            "author": [
+                "Joel Peress"
+            ],
+            "abstract": "There is an error in my 2004 paper \u201cWealth, Information Acquisition and Portfolio Choice\u201d. This note shows how to correct it by adjusting the hypotheses of the model. Specifically, it assumes that agents learn about the stock's mean payoff rather than about its realization. All the conclusions of the paper remain valid.",
+            "link": "https://doi.org/10.1093/rfs/hhr070"
+        },
+        {
+            "no": "11",
+            "title": "Forthcoming Articles",
+            "date": "01 September 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhr089"
+        },
+        {
+            "no": "12",
+            "title": "Cover",
+            "date": "01 September 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhr087"
+        },
+        {
+            "no": "13",
+            "title": "Editorial Board",
+            "date": "01 September 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhr088"
+        },
+        {
+            "no": "14",
+            "title": "Table of Contents",
+            "date": "01 September 2011",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhr090"
+        }
+    ]
+}

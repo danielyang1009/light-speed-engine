@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Jan 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. Asset sales, firm performance, and the agency costs of managerial discretion
 ### Date
 - Jan 1995
-### Authors
+### Author
 - Larry Lang
 - Annette Poulsen
 - René Stulz
@@ -42,7 +42,7 @@ We argue that management sells assets when doing so provides the cheapest funds 
 ## 4. Diversification's effect on firm value
 ### Date
 - Jan 1995
-### Authors
+### Author
 - Philip G. Berger
 - Eli Ofek
 ### Abstract
@@ -53,7 +53,7 @@ We estimate diversification's effect on firm value by imputing stand-alone value
 ## 5. Corporate focus and stock returns
 ### Date
 - Jan 1995
-### Authors
+### Author
 - Robert Comment
 - Gregg A. Jarrell
 ### Abstract
@@ -64,7 +64,7 @@ Greater corporate focus is consistent with shareholder wealth maximization. Dise
 ## 6. A comparison of the information conveyed by equity carve-outs, spin-offs, and asset sell-offs
 ### Date
 - Jan 1995
-### Authors
+### Author
 - Myron B. Slovin
 - Marie E. Sushka
 - Steven R. Ferraro
@@ -76,7 +76,7 @@ We examine valuation effects on firms in the same industry as entities that are 
 ## 7. Asset sales and increase in focus
 ### Date
 - Jan 1995
-### Authors
+### Author
 - Kose John
 - Eli Ofek
 ### Abstract

@@ -1,0 +1,426 @@
+{
+    "journal": "JF",
+    "volume": "32",
+    "issue": "2",
+    "date": "May 1977",
+    "page": "Pages: i-vii, 261-648, viii-xii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "May 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb00723.x"
+        },
+        {
+            "no": "2",
+            "title": "DEBT AND TAXES*",
+            "date": "May 1977",
+            "author": [
+                "Merton H. Miller"
+            ],
+            "abstract": "The somewhat heterodox views about debt and taxes that will be presented here have evolved over the last few years in the course of countless discussions with several of my present and former colleagues in the Finance group at Chicago\u2014Fischer Black, Robert Hamada, Roger Ibbotson, Myron Scholes and especially Eugene Fama. Charles Upton and Joseph Williams have also been particularly helpful to me recently in clarifying the main issues.1\n1 More than perfunctory thanks are also due to the many others who commented, sometimes with considerable heat, on the earlier versions of this talk: Ray Ball, Marshall Blume, George Foster, Nicholas Gonedes, David Green, E. Han Kim, Robert Krainer, Katherine Miller, Charles Nelson, Hans Stoll, Jerold Warner, William Wecker, Roman Weil, and J. Fred Weston. I am especially indebted (no pun intended) to Fischer Black.\n\nMy long\u2010time friend and collaborator, Franco Modigliani, is absolved from any blame for the views to follow not because I think he would reject them, but because he has been absorbed in preparing his Presidential Address to the American Economic Association at this same Convention.\nThis coincidence neatly symbolizes the contribution we tried to make in our first joint paper of nearly twenty years ago; namely to bring to bear on problems of corporate finance some of the standard tools of economics, especially the analysis of competitive market equilibrium. Prior to that time, the academic discussion in finance was focused primarily on the empirical issue of what the market really capitalized.2\n2 To avoid reopening old wounds, no names will be mentioned here. References can be supplied on request, however.\n\nDid the market capitalize a firm's dividends or its earnings or some weighted combination of the two? Did it capitalize net earnings or net operating earnings or something in between? The answers to these questions and to related questions about the behavior of interest rates were supposed to provide a basis for choosing an optimal capital structure for the firm in a framework analogous to the economist's model of discriminating monopsony.\nWe came at the problem from the other direction by first trying to establish the propositions about valuation implied by the economist's basic working assumptions of rational behavior and perfect markets. And we were able to prove that when the full range of opportunities available to firms and investors under such conditions are taken into account, the following simple principle would apply: in equilibrium, the market value of any firm must be independent of its capital structure.\nThe arbitrage proof of this proposition can now be found in virtually every textbook in finance, followed almost invariably, however, by a warning to the student against taking it seriously. Some dismiss it with the statement that firms and investors can't or don't behave that way. I'll return to that complaint later in this talk. Others object that the invariance proposition was derived for a world with no taxes, and that world, alas, is not ours. In our world, they point out, the value of the firm can be increased by the use of debt since interest payments can be deducted from taxable corporate income. To reap more of these gains, however, the stockholders must incur increasing risks of bankruptcy and the costs, direct and indirect, of falling into that unhappy state. They conclude that the balancing of these bankruptcy costs against the tax gains of debt finance gives rise to an optimal capital structure, just as the traditional view has always maintained, though for somewhat different reasons.\nIt is this new and currently fashionable version of the optimal capital structure that I propose to challenge here. I will argue that even in a world in which interest payments are fully deductible in computing corporate income taxes, the value of the firm, in equilibrium will still be independent of its capital structure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03267.x"
+        },
+        {
+            "no": "3",
+            "title": "TERM STRUCTURE WITH UNCERTAIN INFLATION",
+            "date": "May 1977",
+            "author": [
+                "Stewart C. Myers",
+                "Richard Brealey",
+                "Stephen Schaefer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03268.x"
+        },
+        {
+            "no": "4",
+            "title": "DYNAMIC MARKET PROCESSES AND THE REWARDS TO UP\u2010TO\u2010DATE INFORMATION",
+            "date": "May 1977",
+            "author": [
+                "Avraham Beja",
+                "Nils H. Hakansson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03269.x"
+        },
+        {
+            "no": "5",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Alan Kraus",
+                "Irwin Tepper"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03270.x"
+        },
+        {
+            "no": "6",
+            "title": "MARKET IMPERFECTIONS, CAPITAL MARKET EQUILIBRIUM AND CORPORATION FINANCE",
+            "date": "May 1977",
+            "author": [
+                "Michael Brennan",
+                "R. C. Stapleton",
+                "M. G. Subrahmanyam"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03271.x"
+        },
+        {
+            "no": "7",
+            "title": "CAPITAL BUDGETING AND THE CAPITAL ASSET PRICING MODEL: GOOD NEWS AND BAD NEWS",
+            "date": "May 1977",
+            "author": [
+                "Stewart C. Myers",
+                "Stuart M. Turnbull"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03272.x"
+        },
+        {
+            "no": "8",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Robert S. Hamada"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03273.x"
+        },
+        {
+            "no": "9",
+            "title": "BANKRUPTCY COSTS: SOME EVIDENCE",
+            "date": "May 1977",
+            "author": [
+                "Martin J. Gruber",
+                "Jerold B. Warner"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03274.x"
+        },
+        {
+            "no": "10",
+            "title": "CORPORATE MERGERS AND THE CO\u2010INSURANCE OF CORPORATE DEBT",
+            "date": "May 1977",
+            "author": [
+                "E. Han Kim",
+                "John J. McConnell"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03275.x"
+        },
+        {
+            "no": "11",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Bernell K. Stone",
+                "James C. Van Horne"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03276.x"
+        },
+        {
+            "no": "12",
+            "title": "INFORMATIONAL ASYMMETRIES, FINANCIAL STRUCTURE, AND FINANCIAL INTERMEDIATION",
+            "date": "May 1977",
+            "author": [
+                "Richard Brealey",
+                "Hayne E. Leland",
+                "David H. Pyle"
+            ],
+            "abstract": "Introduction and Summary\nNumerous markets are characterized by informational differences between buyers and sellers. In financial markets, informational asymmetries are particularly pronounced. Borrowers typically know their collateral, industriousness, and moral rectitude better than do lenders; entrepreneurs possess \u201cinside\u201d information about their own projects for which they seek financing.\nLenders would benefit from knowing the true characteristics of borrowers. But moral hazard hampers the direct transfer of information between market participants. Borrowers cannot be expected to be entirely straightforward about their characteristics, nor entrepreneurs about their projects, since there may be substantial rewards for exaggerating positive qualities. And verification of true characteristics by outside parties may be costly or impossible.\nWithout information transfer, markets may perform poorly. Consider the financing of projects whose quality is highly variable. While entrepreneurs know the quality of their own projects, lenders cannot distinguish among them. Market value, therefore, must reflect average project quality. If the market were to place an average value greater than average cost on projects, the potential supply of low quality projects may be very large, since entrepreneurs could foist these upon an uninformed market (retaining little or no equity) and make a sure profit. But this argues that the average quality is likely to be low, with the consequence that even projects which are known (by the entrepreneur) to merit financing cannot be undertaken because of the high cost of capital resulting from low average project quality. Thus, where substantial information asymmetries exist and where the supply of poor projects is large relative to the supply of good projects, venture capital markets may fail to exist.\nFor projects of good quality to be financed, information transfer must occur. We have argued that moral hazard prevents direct information transfer. Nonetheless, information on project quality may be transferred if the actions of entrepreneurs (\u201cwhich speak louder than words\u201d) can be observed. One such action, observable because of disclosure rules, is the willingness of the person(s) with inside information to invest in the project or firm. This willingness to invest may serve as a signal to the lending market of the true quality of the project; lenders will place a value on the project that reflects the information transferred by the signal.\nAs shown by the seminal work of Akerlof [1970] and Spence [1973], and by the subsequent contributions of Rothschild and Stiglitz [1975] and Riley [1975], [1976], equilibrium in markets with asymmetric information and signalling may have quite different properties from equilibrium either with no information transfer, or with direct and costless information transfer. Signalling equilibria may not exist, may not be sustainable, and may not be economically efficient.\nIn subsequent sections, we develop a simple model of capital structure and financial equilibrium in which entrepreneurs seek financing of projects whose true qualities are known only to them. We show that the entrepreneur's willingness to invest in his own project can serve as a signal of project quality. The resulting equilibrium differs importantly from models which ignore informational asymmetries. The value of the firm increases with the share of the firm held by the entrepreneur. In contrast with Modigliani and Miller [1958], the financial structure of the firm typically will be related to project or firm value even when there are no taxes.1\n1 A recent study by Jensen and Meckling [1975] emphasizing management costs without consideration of informational asymmetries, and a study by Ross [1976] emphasizing managerial incentives in the presence of informational asymmetries, provide examples of alternative approaches to some of the financial structure questions addressed in this paper.\n\nAnd firms with riskier returns will have lower debt levels even when there are no bankruptcy costs. Signaling incurs welfare costs by inducing entrepreneurs to take larger equity positions in their own firms than they would if information could be directly transferred; we show, however, that the set of investment projects which are undertaken will coincide with the set which would be undertaken if direct information transfer were possible. Finally, we suggest that financial intermediation, which is difficult to explain in traditional models of financial equilibrium, can be viewed as a natural response to asymmetric information.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03277.x"
+        },
+        {
+            "no": "13",
+            "title": "ON VALUE MAXIMIZATION AND ALTERNATIVE OBJECTIVES OF THE FIRM",
+            "date": "May 1977",
+            "author": [
+                "S. J. Grossman",
+                "J. E. Stiglitz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03278.x"
+        },
+        {
+            "no": "14",
+            "title": "VALUE AND YIELD RISK ON OUTSTANDING INSURED RESIDENTIAL MORTGAGES",
+            "date": "May 1977",
+            "author": [
+                "Anthony J. Curley",
+                "Jack M. Guttentag"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03279.x"
+        },
+        {
+            "no": "15",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Stephen A. Ross"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03280.x"
+        },
+        {
+            "no": "16",
+            "title": "Determinants of Common Stock Prices: A Time Series Analysis",
+            "date": "May 1977",
+            "author": [
+                "Marshall R. Blume",
+                "John Kraft",
+                "Arthur Kraft"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03281.x"
+        },
+        {
+            "no": "17",
+            "title": "FORECASTING STOCK MARKET PRICES",
+            "date": "May 1977",
+            "author": [
+                "David A. Umstead"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03282.x"
+        },
+        {
+            "no": "18",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "David K. Whitcomb",
+                "Enrique R. Arzac"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03283.x"
+        },
+        {
+            "no": "19",
+            "title": "THE VALUATION OF AMERICAN PUT OPTIONS",
+            "date": "May 1977",
+            "author": [
+                "Robert C. Merton",
+                "Michael J. Brennan",
+                "Eduardo S. Schwartz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03284.x"
+        },
+        {
+            "no": "20",
+            "title": "AN EXAMINATION OF CORPORATE CALL POLICIES ON CONVERTIBLE SECURITIES",
+            "date": "May 1977",
+            "author": [
+                "Jonathan Ingersoll"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03285.x"
+        },
+        {
+            "no": "21",
+            "title": "THE ROLE OF THE MULTINATIONAL FIRM IN THE INTEGRATION OF SEGMENTED CAPITAL MARKETS",
+            "date": "May 1977",
+            "author": [
+                "Michael Adler",
+                "Wayne Y. Lee",
+                "Kanwal S. Sachdeva"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03286.x"
+        },
+        {
+            "no": "22",
+            "title": "AN EMPIRICAL TEST OF THE ALTERNATIVE HYPOTHESES OF NATIONAL AND INTERNATIONAL PRICING OF RISKY ASSETS",
+            "date": "May 1977",
+            "author": [
+                "Richard Stehle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03287.x"
+        },
+        {
+            "no": "23",
+            "title": "TESTING INTERNATIONAL ASSET PRICING: SOME PESSIMISTIC VIEWS",
+            "date": "May 1977",
+            "author": [
+                "Bruno H. Solnik"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03288.x"
+        },
+        {
+            "no": "24",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Bernard Dumas",
+                "James H. Scott Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03289.x"
+        },
+        {
+            "no": "25",
+            "title": "TESTS OF THEORIES OF EXCHANGE RATE DETERMINATION",
+            "date": "May 1977",
+            "author": [
+                "Robert Z. Aliber",
+                "Bruce Brittain"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03290.x"
+        },
+        {
+            "no": "26",
+            "title": "EXCHANGE RATE FLEXIBILITY AND DEMAND FOR MONEY",
+            "date": "May 1977",
+            "author": [
+                "Nicholas P. Sargen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03291.x"
+        },
+        {
+            "no": "27",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "W. Bradford Cornell",
+                "Duncan M. Ripley",
+                "Aris Protopapadakis"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03292.x"
+        },
+        {
+            "no": "28",
+            "title": "FACTORS AFFECTING THE GROWTH OF BANK CREDIT CARD AND CHECK CREDIT",
+            "date": "May 1977",
+            "author": [
+                "George Benston",
+                "Richard L. Peterson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03293.x"
+        },
+        {
+            "no": "29",
+            "title": "THE COMPARATIVE OPERATING EFFICIENCY OF BLACK SAVINGS AND LOAN ASSOCIATIONS",
+            "date": "May 1977",
+            "author": [
+                "Lewis J. Spellman",
+                "Alfred E. Osborne Jr.",
+                "William D. Bradford"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03294.x"
+        },
+        {
+            "no": "30",
+            "title": "FINANCIAL ANALYSIS IN AN INFLATIONARY ENVIRONMENT",
+            "date": "May 1977",
+            "author": [
+                "George M. von Furstenberg",
+                "Burton G. Malkiel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03295.x"
+        },
+        {
+            "no": "31",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Lewis Mandell",
+                "Harold Black",
+                "Richard C. Aspinwall"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03296.x"
+        },
+        {
+            "no": "32",
+            "title": "RISK ON CONSUMER FINANCE COMPANY PERSONAL LOANS",
+            "date": "May 1977",
+            "author": [
+                "Robert W. Johnson",
+                "George J. Benston"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03297.x"
+        },
+        {
+            "no": "33",
+            "title": "THE EQUAL CREDIT OPPORTUNITY ACT OF 1974: A COST/BENEFIT ANALYSIS",
+            "date": "May 1977",
+            "author": [
+                "James F. Smith"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03298.x"
+        },
+        {
+            "no": "34",
+            "title": "DISCUSSION",
+            "date": "May 1977",
+            "author": [
+                "Robert P. Shay"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03299.x"
+        },
+        {
+            "no": "35",
+            "title": "THE PRINCIPLES OF CORPORATE PENSION FINANCE",
+            "date": "May 1977",
+            "author": [
+                "William F. Sharpe",
+                "Jack L. Treynor"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03300.x"
+        },
+        {
+            "no": "36",
+            "title": "Minutes of the Annual Membership Meeting September 17, 1976",
+            "date": "May 1977",
+            "author": [
+                "Robert A. Kavesh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03301.x"
+        },
+        {
+            "no": "37",
+            "title": "Report of the Executive Secretary and Treasurer, December 29, 1976",
+            "date": "May 1977",
+            "author": [
+                "Robert A. Kavesh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03302.x"
+        },
+        {
+            "no": "38",
+            "title": "Report of the Managing Editor of the Journal of Finance Covering 1976",
+            "date": "May 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb03303.x"
+        },
+        {
+            "no": "39",
+            "title": "Back Matter",
+            "date": "May 1977",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1977.tb00724.x"
+        }
+    ]
+}

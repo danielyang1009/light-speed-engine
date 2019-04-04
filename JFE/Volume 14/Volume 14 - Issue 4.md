@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1985
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -19,7 +19,7 @@
 ## 2. An analysis of secured debt
 ### Date
 - Dec 1985
-### Authors
+### Author
 - RenéM. Stulz
 - Herb Johnson
 ### Abstract
@@ -30,7 +30,7 @@ This paper analyzes the pricing of two types of secured debt and shows that secu
 ## 3. An empirical analysis of the interfirm equity investment process
 ### Date
 - Dec 1985
-### Authors
+### Author
 - Wayne H. Mikkelson
 - Richard S. Ruback
 ### Abstract
@@ -41,7 +41,7 @@ This paper measures the effects on stock proces of corporate investments in 5% o
 ## 4. Raiders or saviors? The evidence on six controversial investors
 ### Date
 - Dec 1985
-### Authors
+### Author
 - Clifford G. Holderness
 - Dennis P. Sheehan
 ### Abstract
@@ -52,7 +52,7 @@ Carl Icahn, Irwin Jacobs, Carl Lindner, David Murdock, Victor Posner, and the la
 ## 5. Market rationality and dividend announcements
 ### Date
 - Dec 1985
-### Authors
+### Author
 - Kenneth M. Eades
 - Patrick J. Hess
 - E.Han Kim
@@ -64,7 +64,7 @@ We investigate stock market rationality by examining the timeliness and unbiased
 ## 6. Editorial collaborators
 ### Date
 - Dec 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -73,7 +73,7 @@ We investigate stock market rationality by examining the timeliness and unbiased
 ## 7. Fourth annual meeting of the Association of Managerial Economists (AME)
 ### Date
 - Dec 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -82,7 +82,7 @@ We investigate stock market rationality by examining the timeliness and unbiased
 ## 8. Index
 ### Date
 - Dec 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link

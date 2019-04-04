@@ -3,22 +3,27 @@
 - Supporting sites:
   - [x] [MS](https://pubsonline.informs.org/journal/mnsc)
   - [x] [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
+  - [x] [JF](https://onlinelibrary.wiley.com/loi/15406261)
+  - [RFS](https://academic.oup.com/rfs/issue)
 
 ## TODO
 
 - JFE Issue 20 problem [link](https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/20/suppl/C)
 - Add support to more sites
-  - [Journal of Finance](https://onlinelibrary.wiley.com/loi/15406261)
-  - [RFS]
-  - [JFQA]
+  - [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/all-issues)
+    - click view all
+    - save source code only html
+    - PROBLEM! cloudflare protection
 
 ### Future Function(s):
 
 - CLI support with `argparse`
+- Check if all issue is in the folder
 - Asynchronous HTTP requests (`asyncio`, `aiohttp`)
 
 ### JSON format
 
+#### Issue content format
 ```json
 {
     "journal": "",
@@ -39,7 +44,30 @@
 }
 ```
 
+#### Issue link format
+```json
+{
+    "vol_num": {
+        "1": {
+            "date":"",
+            "page":"",
+            "link":"http://1"
+        }
+    }
+}
+```
+
+```python
+issuelink['vol_num']['iss_num']
+```
+
+
 ## Version:
+
+### v0.5
+
+- Support JF, RFS
+- Convert single journal json to markdown files as whole
 
 ### v0.4
 

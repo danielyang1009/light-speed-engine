@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2019
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Should Long-Term Investors Time Volatility?
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Alan Moreira
 - Tyler Muir
 ### Abstract
@@ -25,7 +25,7 @@ A long-term investor who ignores variation in volatility gives up the equivalent
 ## 3. Minimum payments and debt paydown in consumer credit cards
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Benjamin J. Keys
 - Jialan Wang
 ### Abstract
@@ -36,7 +36,7 @@ Using a data set covering one quarter of the U.S. general-purpose credit card ma
 ## 4. Dividend payments as a response to peer influence
 ### Date
 - Jan 2018
-### Authors
+### Author
 - Jillian Grennan
 ### Abstract
 I show dividend policies have peer effects. My estimates indicate that firms speed up the time taken to make a dividend change by about 1.5 quarters and increase payments by 16% in response to peer changes. The peer effects matter in increases but not decreases. In contrast to dividends, repurchases show no peer effects. In addition, announcement returns indicate that investors partially anticipate the consequences of peer effects. Overall, peer interdependencies account for 12% of total dividend payments.
@@ -46,7 +46,7 @@ I show dividend policies have peer effects. My estimates indicate that firms spe
 ## 5. Securitized markets, international capital flows, and global welfare
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Gregory Phelan
 - Alexis Akira Toda
 ### Abstract
@@ -57,7 +57,7 @@ We study the effect of collateralized lending and securitization on internationa
 ## 6. Inferring volatility dynamics and risk premia from the S&P 500 and VIX markets
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Chris Bardgett
 - Elise Gourier
 - Markus Leippold
@@ -69,7 +69,7 @@ We estimate a flexible affine model using an unbalanced panel containing S&P 500
 ## 7. Common risk factors in the cross-section of corporate bond returns
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Jennie Bai
 - Turan G. Bali
 - Quan Wen
@@ -81,7 +81,7 @@ We investigate the cross-sectional determinants of corporate bond returns and fi
 ## 8. Private information in currency markets
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Alexander Michaelides
 - Andreas Milidonis
 - George P. Nishiotis
@@ -93,7 +93,7 @@ Using daily abnormal currency returns for the universe of countries with flexibl
 ## 9. Do idiosyncratic jumps matter?
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Nishad Kapadia
 - Morad Zekhnini
 ### Abstract
@@ -104,7 +104,7 @@ We show that idiosyncratic jumps are a key determinant of mean stock returns fro
 ## 10. Do institutional investors drive corporate social responsibility? International evidence
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Alexander Dyck
 - Karl V. Lins
 - Lukas Roth
@@ -117,7 +117,7 @@ This paper assesses whether shareholders drive the environmental and social (E&S
 ## 11. A trade-off theory of ownership and capital structure
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Giovanna Nicodano
 - Luca Regis
 ### Abstract
@@ -128,7 +128,7 @@ This paper determines the optimal ownership share held by a unit into a second u
 ## 12. Bear beta
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Zhongjin Lu
 - Scott Murray
 ### Abstract

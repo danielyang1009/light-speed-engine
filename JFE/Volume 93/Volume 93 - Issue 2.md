@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Renegotiation of financial contracts: Evidence from private credit agreements
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Michael R. Roberts
 - Amir Sufi
 ### Abstract
@@ -25,7 +25,7 @@ Using a large sample of private credit agreements between U.S. publicly traded f
 ## 3. Do banks price their informational monopoly?
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Galina Hale
 - João A.C. Santos
 ### Abstract
@@ -36,7 +36,7 @@ Theory suggests that banks’ private information lets them hold up borrowers fo
 ## 4. Public and private enforcement of securities laws: Resource-based evidence
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Howell E. Jackson
 - Mark J. Roe
 ### Abstract
@@ -47,7 +47,7 @@ Ascertaining which enforcement mechanisms work to protect investors has been bot
 ## 5. Inexperienced investors and bubbles
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Robin Greenwood
 - Stefan Nagel
 ### Abstract
@@ -58,7 +58,7 @@ We use mutual fund manager data from the technology bubble to examine the hypoth
 ## 6. Bank governance, regulation and risk taking
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Luc Laeven
 - Ross Levine
 ### Abstract
@@ -69,7 +69,7 @@ This paper conducts the first empirical assessment of theories concerning risk t
 ## 7. Early-stage financing and firm growth in new industries
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Roman Inderst
 - Holger M. Mueller
 ### Abstract
@@ -80,7 +80,7 @@ This paper shows that active investors, such as venture capitalists, can affect 
 ## 8. Mortgage timing
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Ralph S.J. Koijen
 - Otto Van Hemert
 - Stijn Van Nieuwerburgh
@@ -92,7 +92,7 @@ We study how the term structure of interest rates relates to mortgage choice at 
 ## 9. Information asymmetry and firms’ credit market access: Evidence from Moody's credit rating format refinement
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Tony T. Tang
 ### Abstract
 I exploit Moody's 1982 credit rating refinement to examine its effects on firms’ credit market access, financing decisions, and investment policies. While firms’ ex ante yield spread can partially predict the direction of refinement changes, firms with refinement upgrades experience an additional decrease in their ex post borrowing cost compared with firms with downgrades. The former subsequently also issue more debt and rely more on debt financing over equity than the latter. Lastly, upgraded firms have more capital investments, less cash accumulation, and faster asset growth than downgraded firms. These findings show that credit market information asymmetry significantly affects firms’ real outcomes.

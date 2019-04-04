@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 1989
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -28,7 +28,7 @@
 ## 3. A Markov model of heteroskedasticity, risk, and learning in the stock market
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Christopher M. Turner
 - Richard Startz
 - Charles R. Nelson
@@ -40,7 +40,7 @@ We examine a variety of models in which the variance of a portfolio's excess ret
 ## 4. Business conditions and expected returns on stocks and bonds
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -51,7 +51,7 @@ Expected returns on common stocks and long-term bonds contain a term or maturity
 ## 5. Nonstationary expected returns
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Ray Ball
 - S.P. Kothari
 ### Abstract
@@ -62,7 +62,7 @@ Recent evidence reveals significant negative serial correlation in aggregate (ma
 ## 6. Trading patterns, bid-ask spreads, and estimated security returns
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Donald B. Keim
 ### Abstract
 Returns computed with closing bid or ask prices that may not represent ‘true’ prices introduce measurement error into portfolio returns if investor buying and selling display systematic patterns. This paper finds systematic tendencies for closing prices to be recorded at the bid in December and at the ask in early January. After changing bid and ask prices are controlled for. this pattern results in large portfolio returns on the two trading days surrounding the end of the year, especially for low-price stocks. Other temporal return patterns (e.g. weekend and holiday effects) are also related to systematic trading patterns.
@@ -72,7 +72,7 @@ Returns computed with closing bid or ask prices that may not represent ‘true�
 ## 7. Further evidence on the bank lending process and the capital-market response to bank loan agreements
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Scott L. Lummer
 - John J. McConnell
 ### Abstract
@@ -83,7 +83,7 @@ This paper investigates the hypothesis that bank loans convey information to the
 ## 8. Management entrenchment
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Andrei Shleifer
 - Robert W. Vishny
 ### Abstract
@@ -94,7 +94,7 @@ We describe how managers can entrench themselves by making manager-specific inve
 ## 9. Share repurchase through transferable put rights
 ### Date
 - Nov 1989
-### Authors
+### Author
 - Jayant R. Kale
 - Thomas H. Noe
 - Gerald D. Gay

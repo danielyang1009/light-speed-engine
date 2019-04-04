@@ -5,7 +5,7 @@
 ## 1. The motivation and impact of pension fund activism
 ### Date
 - Jun 1999
-### Authors
+### Author
 - Diane Del Guercio
 - Jennifer Hawkins
 ### Abstract
@@ -16,7 +16,7 @@ Pension funds have pursued an active role in corporate governance, although some
 ## 2. What happens to CEOs after they retire? New evidence on career concerns, horizon problems, and CEO incentives
 ### Date
 - Jun 1999
-### Authors
+### Author
 - James A. Brickley
 - James S. Linck
 - Jeffrey L. Coles
@@ -28,7 +28,7 @@ This paper provides evidence on a previously unidentified source of managerial i
 ## 3. Managerial performance and the cross-sectional pricing of closed-end funds
 ### Date
 - Jun 1999
-### Authors
+### Author
 - J.B. Chay
 - Charles A. Trzcinka
 ### Abstract
@@ -39,7 +39,7 @@ This paper finds that discounts and premiums of closed-end funds reflect the mar
 ## 4. The initiation and withdrawal of odd-eighth quotes among Nasdaq stocks: an empirical analysis
 ### Date
 - Jun 1999
-### Authors
+### Author
 - William G. Christie
 - Paul H. Schultz
 ### Abstract

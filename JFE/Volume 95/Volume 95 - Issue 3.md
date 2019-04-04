@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Seasoned equity offerings, market timing, and the corporate lifecycle
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - René M. Stulz
@@ -26,7 +26,7 @@ Both a firm's market-timing opportunities and its corporate lifecycle stage exer
 ## 3. Bailouts, the incentive to manage risk, and financial crises
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Stavros Panageas
 ### Abstract
 A firm's termination leads to bankruptcy costs. This may create an incentive for outside stakeholders or the firm's debtholders to bail out the firm as bankruptcy looms. Because of this implicit guarantee, firm shareholders have an incentive to increase volatility in order to exploit the implicit protection. However, if they increase volatility too much they may induce the guarantee-extending parties to “walk away.” I derive the optimal risk management rule in such a framework and show that it allows high volatility choices, while net worth is high. However, risk limits tighten abruptly when the firm's net worth declines below an endogenously determined threshold. Hence, the model reproduces the qualitative features of existing risk management rules, and can account for phenomena such as “flight to quality.”
@@ -36,7 +36,7 @@ A firm's termination leads to bankruptcy costs. This may create an incentive for
 ## 4. Does corporate governance matter in competitive industries?
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Xavier Giroud
 - Holger M. Mueller
 ### Abstract
@@ -47,7 +47,7 @@ By reducing the threat of a hostile takeover, business combination (BC) laws wea
 ## 5. The pecking order, debt capacity, and information asymmetry
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Mark T. Leary
 - Michael R. Roberts
 ### Abstract
@@ -58,7 +58,7 @@ We quantify the empirical relevance of the pecking order hypothesis using a nove
 ## 6. Institutional monitoring through shareholder litigation
 ### Date
 - Nov 2009
-### Authors
+### Author
 - C.S. Agnes Cheng
 - Henry He Huang
 - Yinghua Li
@@ -71,7 +71,7 @@ This paper investigates the effectiveness of using securities class action lawsu
 ## 7. Renegotiation of cash flow rights in the sale of VC-backed firms
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Brian Broughman
 - Jesse Fried
 ### Abstract
@@ -82,7 +82,7 @@ Incomplete contracting theory suggests that venture capitalist (VC) cash flow ri
 ## 8. When should firms share credit with employees? Evidence from anonymously managed mutual funds
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Massimo Massa
 - Jonathan Reuter
 - Eric Zitzewitz
@@ -94,7 +94,7 @@ We study the choice between named and anonymous mutual fund managers. We argue t
 ## 9. Ownership concentration, foreign shareholding, audit quality, and stock price synchronicity: Evidence from China
 ### Date
 - Nov 2009
-### Authors
+### Author
 - Ferdinand A. Gul
 - Jeong-Bon Kim
 - Annie A. Qiu

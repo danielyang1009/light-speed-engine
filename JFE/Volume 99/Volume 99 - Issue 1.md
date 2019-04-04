@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Simple formulas for standard errors that cluster by both firm and time
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Samuel B. Thompson
 ### Abstract
 When estimating finance panel regressions, it is common practice to adjust standard errors for correlation either across firms or across time. These procedures are valid only if the residuals are correlated either across time or across firms, but not across both. This paper shows that it is very easy to calculate standard errors that are robust to simultaneous correlation along two dimensions, such as firms and time. The covariance estimator is equal to the estimator that clusters by firm, plus the estimator that clusters by time, minus the usual heteroskedasticity-robust ordinary least squares (OLS) covariance matrix. Any statistical package with a clustering command can be used to easily calculate these standard errors.
@@ -24,7 +24,7 @@ When estimating finance panel regressions, it is common practice to adjust stand
 ## 3. Bank CEO incentives and the credit crisis
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Rüdiger Fahlenbrach
 - René M. Stulz
 ### Abstract
@@ -35,7 +35,7 @@ We investigate whether bank performance during the recent credit crisis is relat
 ## 4. Institutional cross-holdings and their effect on acquisition decisions
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Jarrad Harford
 - Dirk Jenter
 - Kai Li
@@ -47,7 +47,7 @@ Cross-holdings are created when a shareholder of one firm holds shares in other 
 ## 5. Competition among mutual funds
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Sunil Wahal
 - Albert (Yan) Wang
 ### Abstract
@@ -58,7 +58,7 @@ We examine the impact of the entry of new mutual funds on incumbents using the o
 ## 6. Speculative capital and currency carry trades
 ### Date
 - Jul 2010
-### Authors
+### Author
 - Petri Jylhä
 - Matti Suominen
 ### Abstract
@@ -69,7 +69,7 @@ In this paper, we study a two-country general equilibrium model with partially s
 ## 7. The impact of governance reform on performance and transparency
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Richard Price
 - Francisco J. Román
 - Brian Rountree
@@ -81,7 +81,7 @@ This study examines the influence of Mexico’s efforts to improve corporate gov
 ## 8. Horizontal acquisitions and buying power: A product market analysis
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Sugato Bhattacharyya
 - Amrita Nain
 ### Abstract
@@ -92,7 +92,7 @@ Horizontal mergers exert price pressure on dependent suppliers and adversely aff
 ## 9. The effect of banking crisis on bank-dependent borrowers
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Sudheer Chava
 - Amiyatosh Purnanandam
 ### Abstract
@@ -103,7 +103,7 @@ We provide causal evidence that adverse capital shocks to banks affect their bor
 ## 10. The world price of liquidity risk
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Kuan-Hui Lee
 ### Abstract
 This paper empirically tests the liquidity-adjusted capital asset pricing model of Acharya and Pedersen (2005) on a global level. Consistent with the model, I find evidence that liquidity risks are priced independently of market risk in international financial markets. That is, a security’s required rate of return depends on the covariance of its own liquidity with aggregate local market liquidity, as well as the covariance of its own liquidity with local and global market returns. I also show that the US market is an important driving force of global liquidity risk. Furthermore, I find that the pricing of liquidity risk varies across countries according to geographic, economic, and political environments. The findings show that the systematic dimension of liquidity provides implications for international portfolio diversification.
@@ -113,7 +113,7 @@ This paper empirically tests the liquidity-adjusted capital asset pricing model 
 ## 11. Disagreement and return predictability of stock portfolios
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Jialin Yu
 ### Abstract
 This paper provides evidence that portfolio disagreement measured bottom-up from individual-stock analyst forecast dispersions has a number of asset pricing implications. For the market portfolio, market disagreement mean-reverts and is negatively related to ex post expected market return. Contemporaneously, an increase in market disagreement manifests as a drop in discount rate. For book-to-market sorted portfolios, the value premium is stronger among high disagreement stocks. The underperformance by high disagreement stocks is stronger among growth stocks. Growth stocks are more sensitive to variations in disagreement relative to value stocks. These findings are consistent with asset pricing theory incorporating belief dispersion.
@@ -123,7 +123,7 @@ This paper provides evidence that portfolio disagreement measured bottom-up from
 ## 12. Does access to external finance improve productivity? Evidence from a natural experiment
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Alexander W. Butler
 - Jess Cornaggia
 ### Abstract
@@ -134,7 +134,7 @@ We study the relation between access to finance and productivity. Our contributi
 ## 13. Markowitz meets Talmud: A combination of sophisticated and naive diversification strategies
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Jun Tu
 - Guofu Zhou
 ### Abstract
@@ -145,7 +145,7 @@ The modern portfolio theory pioneered by Markowitz (1952) is widely used in prac
 ## 14. Jump risk, stock returns, and slope of implied volatility smile
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Shu Yan
 ### Abstract
 In the presence of jump risk, expected stock return is a function of the average jump size, which can be proxied by the slope of option implied volatility smile. This implies a negative predictive relation between the slope of implied volatility smile and stock return. For more than four thousand stocks ranked by slope during 1996–2005, the difference between the risk-adjusted average returns of the lowest and highest quintile portfolios is 1.9% per month. Although both the systematic and idiosyncratic components of slope are priced, the idiosyncratic component dominates the systematic component in explaining the return predictability of slope. The findings are robust after controlling for stock characteristics such as size, book-to-market, leverage, volatility, skewness, and volume. Furthermore, the results cannot be explained by alternative measures of steepness of implied volatility smile in previous studies.

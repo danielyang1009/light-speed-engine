@@ -1,0 +1,136 @@
+{
+    "journal": "RFS",
+    "volume": "30",
+    "issue": "4",
+    "date": "April 2017",
+    "page": "Pages 1053\u20131426",
+    "article": [
+        {
+            "no": "1",
+            "title": "Toxic Arbitrage",
+            "date": "30 December 2016",
+            "author": [
+                "Thierry Foucault",
+                "Roman Kozhan",
+                "Wing Wah Tham"
+            ],
+            "abstract": "Short-lived arbitrage opportunities arise when prices adjust with a lag to new information. They are toxic because they expose dealers to the risk of trading at stale quotes. Hence, theory implies that more frequent toxic arbitrage opportunities and faster responses to these opportunities should impair liquidity. We provide supporting evidence using data on triangular arbitrage. As predicted, illiquidity is higher on days when the fraction of toxic arbitrage opportunities and arbitrageurs\u2019 relative speed are higher. Overall, our findings suggest that the price efficiency gain of high-frequency arbitrage comes at the cost of increased adverse selection risk.",
+            "link": "https://doi.org/10.1093/rfs/hhw103"
+        },
+        {
+            "no": "2",
+            "title": "Size Discovery",
+            "date": "31 January 2017",
+            "author": [
+                "Darrell Duffie",
+                "Haoxiang Zhu"
+            ],
+            "abstract": "Size-discovery mechanisms allow large quantities of an asset to be exchanged at a price that does not respond to price pressure. Primary examples include \u201cworkup\u201d in Treasury markets, \u201cmatching sessions\u201d in corporate bond and CDS markets, and block-trading \u201cdark pools\u201d in equity markets. By freezing the execution price and giving up on market-clearing, size-discovery mechanisms overcome concerns by large investors over their price impacts. Price-discovery mechanisms clear the market, but cause investors to internalize their price impacts, inducing costly delays in the reduction of position imbalances. We show how augmenting a price-discovery mechanism with a size-discovery mechanism improves allocative efficiency.",
+            "link": "https://doi.org/10.1093/rfs/hhw112"
+        },
+        {
+            "no": "3",
+            "title": "The Dynamics of Market Efficiency",
+            "date": "20 October 2016",
+            "author": [
+                "Dominik M. R\u00f6sch",
+                "Avanidhar Subrahmanyam",
+                "Mathijs A. van Dijk"
+            ],
+            "abstract": "We study the dynamics of high-frequency market efficiency measures. We provide evidence that these measures comove across stocks and with each other, suggesting the existence of a systematic market efficiency component. In vector autoregressions, we show that shocks to funding liquidity (the TED spread), hedge fund assets under management, and a proxy for algorithmic trading are significantly associated with systematic market efficiency. Thus, stock market efficiency is prone to systematic fluctuations, and, consistent with recent theories, events and policies that impact funding liquidity can affect the aggregate degree of price efficiency.",
+            "link": "https://doi.org/10.1093/rfs/hhw085"
+        },
+        {
+            "no": "4",
+            "title": "Need for Speed? Exchange Latency and Liquidity",
+            "date": "11 March 2017",
+            "author": [
+                "Albert J. Menkveld",
+                "Marius A. Zoican"
+            ],
+            "abstract": "A faster exchange does not necessarily improve liquidity. On the one hand, speed enables a high-frequency market maker (HFM) to update quotes faster on incoming news. This reduces payoff risk and thus lowers the competitive bid-ask spread. On the other hand, HFM price quotes are more likely to meet speculative high-frequency bandits, and thus are less likely to meet liquidity traders. This raises the spread. The net effect of exchange speed depends on a security\u2019s news-to-liquidity-trader ratio.",
+            "link": "https://doi.org/10.1093/rfs/hhx006"
+        },
+        {
+            "no": "5",
+            "title": "An Asset Pricing Approach to Liquidity Effects in Corporate Bond Markets",
+            "date": "11 March 2017",
+            "author": [
+                "Dion Bongaerts",
+                "Frank de Jong",
+                "Joost Driessen"
+            ],
+            "abstract": "We use an asset pricing approach to compare the effects of the liquidity level and liquidity risk on expected U.S. corporate bond returns. Using signed transaction data, we estimate effective transaction costs for bond portfolios by a repeat-sales method. We find that the liquidity level and exposure to equity market liquidity risk affect expected bond returns. In contrast, exposure to corporate bond liquidity shocks carries an economically negligible risk premium. A simulation study shows that it is unlikely that our results are driven by measurement error in betas or multicollinearity. We present a simple theoretical model that explains these findings.",
+            "link": "https://doi.org/10.1093/rfs/hhx005"
+        },
+        {
+            "no": "6",
+            "title": "Mispricing Factors",
+            "date": "31 December 2016",
+            "author": [
+                "Robert F. Stambaugh",
+                "Yu Yuan"
+            ],
+            "abstract": "A four-factor model with two \u201cmispricing\u201d factors, in addition to market and size factors, accommodates a large set of anomalies better than notable four- and five-factor alternative models. Moreover, our size factor reveals a small-firm premium nearly twice usual estimates. The mispricing factors aggregate information across 11 prominent anomalies by averaging rankings within two clusters exhibiting the greatest return co-movement. Investor sentiment predicts the mispricing factors, especially their short legs, consistent with a mispricing interpretation and the asymmetry in ease of buying versus shorting. A three-factor model with a single mispricing factor also performs well, especially in Bayesian model comparisons.",
+            "link": "https://doi.org/10.1093/rfs/hhw107"
+        },
+        {
+            "no": "7",
+            "title": "Which Alpha?",
+            "date": "30 December 2016",
+            "author": [
+                "Francisco Barillas",
+                "Jay Shanken"
+            ],
+            "abstract": "A common approach to comparing asset pricing models involves a competition in pricing test-asset returns. In contrast, we show that for models with traded factors, when the comparison is framed appropriately in terms of success in pricing both the test-asset and factor returns, the extent to which each model is able to price the factors in the other model is what matters for model comparison. Test assets are irrelevant based on several prominent criteria. For models with nontraded factors, test assets are relevant for model comparison insofar as they are needed to identify factor-mimicking portfolio returns.",
+            "link": "https://doi.org/10.1093/rfs/hhw101"
+        },
+        {
+            "no": "8",
+            "title": "Aggregation of Information About the Cross Section of Stock Returns: A Latent Variable Approach",
+            "date": "06 February 2017",
+            "author": [
+                "Nathaniel Light",
+                "Denys Maslov",
+                "Oleg Rytchkov"
+            ],
+            "abstract": "We propose a new approach for estimating expected returns on individual stocks from a large number of firm characteristics. We treat expected returns as latent variables and apply the partial least squares (PLS) estimator that filters them out from the characteristics under an assumption that the characteristics are linked to expected returns through one or few common latent factors. The estimates of expected returns constructed by our approach from 26 firm characteristics generate a wide cross-sectional dispersion of realized returns and outperform estimates obtained by alternative techniques. Our results also provide evidence of commonality in asset pricing anomalies.",
+            "link": "https://doi.org/10.1093/rfs/hhw102"
+        },
+        {
+            "no": "9",
+            "title": "Fundamental Analysis and the Cross-Section of Stock Returns: A Data-Mining Approach",
+            "date": "06 March 2017",
+            "author": [
+                "Xuemin (Sterling) Yan",
+                "Lingling Zheng"
+            ],
+            "abstract": "We construct a \u201cuniverse\u201d of over 18,000 fundamental signals from financial statements and use a bootstrap approach to evaluate the impact of data mining on fundamental-based anomalies. We find that many fundamental signals are significant predictors of cross-sectional stock returns even after accounting for data mining. This predictive ability is more pronounced following high-sentiment periods and among stocks with greater limits to arbitrage. Our evidence suggests that fundamental-based anomalies, including those newly discovered in this study, cannot be attributed to random chance, and they are better explained by mispricing. Our approach is general and we also apply it to past return\u2013based anomalies.",
+            "link": "https://doi.org/10.1093/rfs/hhx001"
+        },
+        {
+            "no": "10",
+            "title": "Errata",
+            "date": "22 March 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhx017"
+        },
+        {
+            "no": "11",
+            "title": "Errata",
+            "date": "22 March 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhx014"
+        },
+        {
+            "no": "12",
+            "title": "Errata",
+            "date": "22 March 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhx013"
+        }
+    ]
+}

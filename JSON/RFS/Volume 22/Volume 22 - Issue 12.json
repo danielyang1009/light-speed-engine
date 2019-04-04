@@ -1,0 +1,169 @@
+{
+    "journal": "RFS",
+    "volume": "22",
+    "issue": "12",
+    "date": "December 2009",
+    "page": "Pages 4849\u20135294",
+    "article": [
+        {
+            "no": "1",
+            "title": "Tunnel-Proofing the Executive Suite: Transparency, Temptation, and the Design of Executive Compensation",
+            "date": "04 March 2009",
+            "author": [
+                "Thomas H. Noe"
+            ],
+            "abstract": "This paper considers optimal compensation for a CEO who is entrusted with administering corporate assets honestly. Optimal compensation designs maximize integrity at minimum cost. These designs are very \u201clow powered,\u201d i.e., while specifying a lower bound for performance and increasing pay with performance, they increase compensation at a rapidly decreasing rate. Thus, integrity considerations engender optimal compensation packages that closely resemble the very pervasive 80/120 bonus plans, exactly the sort of compensation that Jensen (2003) argues should compromise integrity. Under optimal designs, expected compensation increases linearly with firm size, and increases in the market/book ratio. Moreover, given optimal compensation, CEO asset diversion is limited to high market-to-book firms that have received negative productivity shocks.",
+            "link": "https://doi.org/10.1093/rfs/hhp002"
+        },
+        {
+            "no": "2",
+            "title": "A Multiplicative Model of Optimal CEO Incentives in Market Equilibrium",
+            "date": "24 December 2008",
+            "author": [
+                "Alex Edmans",
+                "Xavier Gabaix",
+                "Augustin Landier"
+            ],
+            "abstract": "This paper presents a unified theory of both the level and sensitivity of pay in competitive market equilibrium, by embedding a moral hazard problem into a talent assignment model. By considering multiplicative specifications for the CEO's utility and production functions, we generate a number of different results from traditional additive models. First, both the CEO's low fractional ownership (the Jensen\u2013Murphy incentives measure) and its negative relationship with firm size can be quantitatively reconciled with optimal contracting, and thus need not reflect rent extraction. Second, the dollar change in wealth for a percentage change in firm value, divided by annual pay, is independent of firm size, and therefore a desirable empirical measure of incentives. Third, incentive pay is effective at solving agency problems with multiplicative impacts on firm value, such as strategy choice. However, additive issues such as perk consumption are best addressed through direct monitoring.",
+            "link": "https://doi.org/10.1093/rfs/hhn117"
+        },
+        {
+            "no": "3",
+            "title": "Empire-Building or Bridge-Building? Evidence from New CEOs\u2019 Internal Capital Allocation Decisions",
+            "date": "01 May 2009",
+            "author": [
+                "Yuhai Xuan"
+            ],
+            "abstract": "This article investigates how the job histories of CEOs influence their capital allocation decisions when they preside over multidivisional firms. I find that, after CEO turnover, divisions not previously affiliated with the new CEO receive significantly more capital expenditures than divisions through which the new CEO has advanced. The pattern of reverse-favoritism in capital allocation is more pronounced if the new CEO has less authority or if the unaffiliated divisions have more bargaining power. I find evidence that having a specialist CEO negatively affects segment investment efficiency. The results suggest that new specialist CEOs use the capital budget as a bridge-building tool to elicit cooperation from powerful divisional managers in previously unaffiliated divisions.",
+            "link": "https://doi.org/10.1093/rfs/hhp030"
+        },
+        {
+            "no": "4",
+            "title": "Bankruptcy Codes and Innovation",
+            "date": "09 April 2009",
+            "author": [
+                "Viral V. Acharya",
+                "Krishnamurthy V. Subramanian"
+            ],
+            "abstract": "We argue that when bankruptcy code is creditor friendly, excessive liquidations cause levered firms to shun innovation, whereas by promoting continuation upon failure, a debtor-friendly code induces greater innovation. We provide empirical support for this claim by employing patents as a proxy for innovation. Using time-series changes within a country and cross-country variation in creditor rights, we confirm that a creditor-friendly code leads to a lower absolute level of innovation by firms, as well as relatively lower innovation by firms in technologically innovative industries. When creditor rights are stronger, technologically innovative industries employ relatively less leverage and grow disproportionately slower.",
+            "link": "https://doi.org/10.1093/rfs/hhp019"
+        },
+        {
+            "no": "5",
+            "title": "Investment Banks as Insiders and the Market for Corporate Control",
+            "date": "08 June 2009",
+            "author": [
+                "Andriy Bodnaruk",
+                "Massimo Massa",
+                "Andrei Simonov"
+            ],
+            "abstract": "We study holdings in merger and acquisition (M&A) targets by financial conglomerates in which affiliated investment banks advise the bidders. We show that advisors take positions in the targets before M&A announcements. These stakes are positively related to the probability of observing the bid and to the target premium. We argue that this can be explained in terms of advisors who are privy to important information about the deal, investing in the target in the expectation of its price increasing. We document the high profits of this strategy. The advisory stake is positively related to the likelihood of deal completion and to the termination fees. However, these deals are not wealth creating: there is a negative relation between the advisory stake and the viability of the deal.",
+            "link": "https://doi.org/10.1093/rfs/hhp043"
+        },
+        {
+            "no": "6",
+            "title": "Macro Factors in Bond Risk Premia",
+            "date": "20 October 2009",
+            "author": [
+                "Sydney C. Ludvigson",
+                "Serena Ng"
+            ],
+            "abstract": "Are there important cyclical fluctuations in bond market premiums and, if so, with what macroeconomic aggregates do these premiums vary? We use the methodology of dynamic factor analysis for large datasets to investigate possible empirical linkages between forecastable variation in excess bond returns and macroeconomic fundamentals. We find that \u201creal\u201d and \u201cinflation\u201d factors have important forecasting power for future excess returns on U.S. government bonds, above and beyond the predictive power contained in forward rates and yield spreads. This behavior is ruled out by commonly employed affine term structure models where the forecastability of bond returns and bond yields is completely summarized by the cross-section of yields or forward rates. An important implication of these findings is that the cyclical behavior of estimated risk premia in both returns and long-term yields depends importantly on whether the information in macroeconomic factors is included in forecasts of excess bond returns. Without the macro factors, risk premia appear virtually acyclical, whereas with the estimated factors risk premia have a marked countercyclical component, consistent with theories that imply investors must be compensated for risks associated with macroeconomic activity.",
+            "link": "https://doi.org/10.1093/rfs/hhp081"
+        },
+        {
+            "no": "7",
+            "title": "Empirical Analysis of Corporate Credit Lines",
+            "date": "18 August 2009",
+            "author": [
+                "Gabriel Jim\u00e9nez",
+                "Jose A. Lopez",
+                "Jes\u00fas Saurina"
+            ],
+            "abstract": "Since bank credit lines are a major source of corporate funding, we examine the determinants of their usage with a comprehensive database of Spanish corporate credit lines. A line's default status is a key factor driving its usage, which increases as firm financial conditions worsen. Firms with prior defaults access their credit lines less, suggesting that bank monitoring influences firms\u2019 usage decisions. Line usage has an aging effect that causes it to decrease by roughly 10% per year of its life. Lender characteristics, such as the length of a firm's banking relationships, as well as macroeconomic conditions, affect usage decisions.",
+            "link": "https://doi.org/10.1093/rfs/hhp061"
+        },
+        {
+            "no": "8",
+            "title": "Explaining Credit Default Swap Spreads with the Equity Volatility and Jump Risks of Individual Firms",
+            "date": "19 March 2009",
+            "author": [
+                "Benjamin Yibin Zhang",
+                "Hao Zhou",
+                "Haibin Zhu"
+            ],
+            "abstract": "This paper attempts to explain the credit default swap (CDS) premium, using a novel approach to identify the volatility and jump risks of individual firms from high-frequency equity prices. Our empirical results suggest that the volatility risk alone predicts 48% of the variation in CDS spread levels, whereas the jump risk alone forecasts 19%. After controlling for credit ratings, macroeconomic conditions, and firms' balance sheet information, we can explain 73% of the total variation. We calibrate a Merton-type structural model with stochastic volatility and jumps, which can help to match credit spreads after controlling for the historical default rates. Simulation evidence suggests that the high-frequency-based volatility measures can help to explain the credit spreads, above and beyond what is already captured by the true leverage ratio.",
+            "link": "https://doi.org/10.1093/rfs/hhp004"
+        },
+        {
+            "no": "9",
+            "title": "Basis Assets",
+            "date": "20 October 2009",
+            "author": [
+                "Dong-Hyun Ahn",
+                "Jennifer Conrad",
+                "Robert F. Dittmar"
+            ],
+            "abstract": "This paper proposes a new method of forming basis assets. We use return correlations to sort securities into portfolios and compare the inferences drawn from this set of basis assets with those drawn from other benchmark portfolios. The proposed set of portfolios appears capable of generating measures of risk\u2013return trade-off that are estimated with a lower error. In tests of asset pricing models, we find that the returns of these portfolios are significantly and positively related to both CAPM and Consumption CAPM risk measures, and there are significant components of these returns that are not captured by the three-factor model.",
+            "link": "https://doi.org/10.1093/rfs/hhp065"
+        },
+        {
+            "no": "10",
+            "title": "Brokerage Commissions and Institutional Trading Patterns",
+            "date": "24 October 2009",
+            "author": [
+                "Michael A. Goldstein",
+                "Paul Irvine",
+                "Eugene Kandel",
+                "Zvi Wiener"
+            ],
+            "abstract": "The institutional brokerage industry faces an ever-increasing pressure to lower trading costs, which has already driven down average commissions and shifted volume toward low-cost execution venues. However, traditional full-service brokers that bundle execution with services remain a force and their commissions are still considerably higher than the marginal cost of trade execution. We hypothesize that commissions constitute a convenient way of charging a prearranged fixed fee for long-term access to a broker\u2019s premium services. We derive testable predictions based on this hypothesis and test them on a large sample of institutional trades from 1999 to 2003. We find that institutions negotiate commissions infrequently, and thus commissions vary little with trade characteristics. Institutions also concentrate their order flow with a relatively small set of brokers, with smaller institutions concentrating their trading more than large institutions and paying higher per-share commissions. These results are stable over time, are consistent with our predictions, and cannot be explained by cost-minimization alone. Finally, we discuss the evolution of the institutional brokerage market within the proposed framework and make informal predictions about future developments in the industry.",
+            "link": "https://doi.org/10.1093/rfs/hhp083"
+        },
+        {
+            "no": "11",
+            "title": "Return Decomposition",
+            "date": "02 April 2009",
+            "author": [
+                "Long Chen",
+                "Xinlei Zhao"
+            ],
+            "abstract": "A crucial issue in asset pricing is to understand the relative importance of discount rate (DR) news and cash flow (CF) news in driving the time-series and cross-sectional variations of stock returns. Many studies directly estimate the DR news but back out the CF news as the residual. We argue that this approach has a serious limitation because the DR news cannot be accurately measured due to the small predictive power, and the CF news, as the residual, inherits the large misspecification error of the DR news. We apply this residual-based decomposition approach to Treasury bonds and equities and find results that are either counterintuitive or unrobust. Potential solutions, including modeling both DR news and CF news directly, the Bayesian model averaging approach, and the principal component analysis, are explored.",
+            "link": "https://doi.org/10.1093/rfs/hhp017"
+        },
+        {
+            "no": "12",
+            "title": "Expected Returns and the Business Cycle: Heterogeneous Goods and Time-Varying Risk Aversion",
+            "date": "30 June 2009",
+            "author": [
+                "Lars A. Lochstoer"
+            ],
+            "abstract": "This paper proposes a representative agent habit-formation model where preferences are defined for both luxury goods and basic goods. The model matches the equity risk premium, risk-free rate, and volatilities. From the intratemporal first-order condition, one can substitute out basic good consumption and the habit level, yielding a stochastic discount factor driven by two observable risk factors: luxury good consumption and the relative price of the two goods. I estimate these processes and find them to be heteroskedastic, implying time variation in the conditional volatility of the stochastic discount factor. These dynamics occur both at the business cycle frequency and at a lower, \u201cgenerational\u201d frequency. The findings reveal that the time variation in aggregate stock market and Treasury bond risk premiums are consistent with the predictions of the model.",
+            "link": "https://doi.org/10.1093/rfs/hhp045"
+        },
+        {
+            "no": "13",
+            "title": "Editorial Board",
+            "date": "01 December 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhp109"
+        },
+        {
+            "no": "14",
+            "title": "Forthcoming Articles",
+            "date": "01 December 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhp110"
+        },
+        {
+            "no": "15",
+            "title": "Contents",
+            "date": "01 December 2009",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhp111"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The price of variance risk
 ### Date
 - Apr 2016
-### Authors
+### Author
 - Ian Dew-Becker
 - Stefano Giglio
 - Anh Le
@@ -27,7 +27,7 @@ Between 1996 and 2014, it was costless on average to hedge news about future var
 ## 3. Intangible capital and the investment-q relation
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Ryan H. Peters
 - Lucian A. Taylor
 ### Abstract
@@ -38,7 +38,7 @@ The neoclassical theory of investment has mainly been tested with physical inves
 ## 4. How persistent is private equity performance? Evidence from deal-level data
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Reiner Braun
 - Tim Jenkinson
 - Ingo Stoff
@@ -50,7 +50,7 @@ The persistence of returns is a critical issue for investors in their choice of 
 ## 5. Leverage and strategic preemption: Lessons from entry plans and incumbent investments
 ### Date
 - Nov 2016
-### Authors
+### Author
 - J. Anthony Cookson
 ### Abstract
 This paper empirically investigates the effect of leverage on strategic preemption. Using new data on entry plans and incumbent investments from the American casino industry, I find that high leverage prevents incumbents from responding to entry threats. Facing the same set of entry plans, low-leverage incumbents expand physical capacity (by 30%), whereas high-leverage incumbents do not. This difference in investment matters because capacity installations preempt eventual entry. Stock market reactions to withdrawn plans imply that effective preemption increases incumbent firm value by 5%. My findings suggest that leverage matters for industry composition, not just firm-level investment.
@@ -60,7 +60,7 @@ This paper empirically investigates the effect of leverage on strategic preempti
 ## 6. The impact of firm prestige on executive compensation
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Florens Focke
 - Ernst Maug
 - Alexandra Niessen-Ruenzi
@@ -72,7 +72,7 @@ We show that chief executive officers (CEOs) of prestigious firms earn less. Tot
 ## 7. WSJ Category Kings – The impact of media attention on consumer and mutual fund investment decisions
 ### Date
 - Nov 2016
-### Authors
+### Author
 - Ron Kaniel
 - Robert Parham
 ### Abstract
@@ -83,7 +83,7 @@ We exploit a novel natural experiment to establish a causal relation between med
 ## 8. The effect of asymmetric information on product market outcomes
 ### Date
 - Nov 2016
-### Authors
+### Author
 - Matthew T. Billett
 - Jon A. Garfinkel
 - Miaomiao Yu
@@ -95,7 +95,7 @@ We explore how asymmetric information in financial markets affects outcomes in p
 ## 9. Customer–supplier relationships and corporate tax avoidance
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Ling Cen
 - Edward L. Maydew
 - Liandong Zhang
@@ -108,7 +108,7 @@ We investigate whether firms in close customer–supplier relationships are bett
 ## 10. Reference-dependent preferences and the risk–return trade-off
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Huijun Wang
 - Jinghua Yan
 - Jianfeng Yu
@@ -120,7 +120,7 @@ This paper studies the cross-sectional risk–return trade-off in the stock mark
 ## 11. Information disclosure, firm growth, and the cost of capital
 ### Date
 - Apr 2016
-### Authors
+### Author
 - Sunil Dutta
 - Alexander Nezlobin
 ### Abstract
@@ -131,7 +131,7 @@ We study how information disclosure affects the cost of equity capital and inves
 ## 12. Do staggered boards harm shareholders?
 ### Date
 - Apr 2016
-### Authors
+### Author
 - Yakov Amihud
 - Stoyan Stoyanov
 ### Abstract

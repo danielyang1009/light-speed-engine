@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. International tests of a five-factor asset pricing model
 ### Date
 - Nov 2016
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -25,7 +25,7 @@ Average stock returns for North America, Europe, and Asia Pacific increase with 
 ## 3. The U.S. listing gap
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Craig Doidge
 - G. Andrew Karolyi
 - René M. Stulz
@@ -37,7 +37,7 @@ Relative to other countries, the U.S. now has abnormally few listed firms. This 
 ## 4. The effect of director experience on acquisition performance
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Laura Casares Field
 - Anahit Mkrtchyan
 ### Abstract
@@ -48,7 +48,7 @@ Prior research finds that firms hire directors for their acquisition experience,
 ## 5. Explaining CEO retention in misreporting firms
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Messod D. Beneish
 - Cassandra D. Marshall
 - Jun Yang
@@ -60,7 +60,7 @@ We propose a framework that advances our understanding of Chief Executive Office
 ## 6. Independent boards and innovation
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Benjamin Balsmeier
 - Lee Fleming
 - Gustavo Manso
@@ -72,7 +72,7 @@ Much research has suggested that independent boards of directors are more effect
 ## 7. Why do loans contain covenants? Evidence from lending relationships
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Robert Prilmeier
 ### Abstract
 Despite the importance of banks’ role as delegated monitors, little is known about how non-price terms of loan contracts are structured to optimize information production in a lending relationship. Using a large sample of corporate loans, this paper examines the effect of relationship lending on covenant choice. Consistent with information asymmetry theories, covenant tightness is relaxed over the duration of a relationship, especially for opaque borrowers. In contrast, the effect of lending relationship intensity on the number of covenants included in a loan follows an inverted U shape. I discuss potential explanations for this finding.
@@ -82,7 +82,7 @@ Despite the importance of banks’ role as delegated monitors, little is known a
 ## 8. Diversification and cash dynamics
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Tor-Erik Bakke
 - Tiantian Gu
 ### Abstract
@@ -93,7 +93,7 @@ Why do diversified firms hold significantly less cash than focused firms? We stu
 ## 9. Limited disclosure and hidden orders in asset markets
 ### Date
 - Apr 2016
-### Authors
+### Author
 - Cyril Monnet
 - Erwan Quintin
 ### Abstract
@@ -104,7 +104,7 @@ Opacity assumes at least two prominent forms in asset markets. Dark exchanges an
 ## 10. Information percolation, momentum and reversal
 ### Date
 - May 2016
-### Authors
+### Author
 - Daniel Andrei
 - Julien Cujean
 ### Abstract
@@ -115,7 +115,7 @@ We propose a joint theory of time-series momentum and reversal based on a ration
 ## 11. Well-connected short-sellers pay lower loan fees: A market-wide analysis
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Fernando Chague
 - Rodrigo De-Losso
 - Alan De Genaro

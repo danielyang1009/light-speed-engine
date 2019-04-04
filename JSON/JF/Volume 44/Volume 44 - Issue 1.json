@@ -1,0 +1,204 @@
+{
+    "journal": "JF",
+    "volume": "44",
+    "issue": "1",
+    "date": "March 1989",
+    "page": "Pages: i-vi, 1-228, vii-xxvi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00365.x"
+        },
+        {
+            "no": "2",
+            "title": "Information and Volatility: The No\u2010Arbitrage Martingale Approach to Timing and Resolution Irrelevancy",
+            "date": "March 1989",
+            "author": [
+                "STEPHEN A. ROSS"
+            ],
+            "abstract": "The no\u2010arbitrage martingale analysis is used to study the effect on asset prices of changes in the rate of information flow. The analysis is first used to develop some simple tools for asset pricing in a continuous\u2010time setting. These tools are then applied to determine the effect of information on prices and price volatility, to extend Samuelson's theorem on prices fluctuating randomly, and to study the impact on prices of the resolution of uncertainty. The conditions under which uncertainty resolution is irrelevant for asset pricing are shown to be similar to those which support the MM irrelevance theorems.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02401.x"
+        },
+        {
+            "no": "3",
+            "title": "Dynamic Capital Structure Choice: Theory and Tests",
+            "date": "March 1989",
+            "author": [
+                "EDWIN O. FISCHER",
+                "ROBERT HEINKEL",
+                "JOSEF ZECHNER"
+            ],
+            "abstract": "This paper develops a model of dynamic capital structure choice in the presence of recapitalization costs. The theory provides the optimal dynamic recapitalization policy as a function of firm\u2010specific characteristics. We find that even small recapitalization costs lead to wide swings in a firm's debt ratio over time. Rather than static leverage measures, we use the observed debt ratio range of a firm as an empirical measure of capital structure relevance. The results of empirical tests relating firms' debt ratio ranges to firm\u2010specific features strongly support the theoretical model of relevant capital structure choice in a dynamic setting.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02402.x"
+        },
+        {
+            "no": "4",
+            "title": "Preemptive Bidding and the Role of the Medium of Exchange in Acquisitions",
+            "date": "March 1989",
+            "author": [
+                "MICHAEL J. FISHMAN"
+            ],
+            "abstract": "The medium of exchange in acquisitions is studied in a model where (i) bidders' offers bring forth potential competition and (ii) targets and bidders are asymmetrically informed. In equilibrium, both securities and cash offers are observed. Securities have the advantage of inducing target management to make an efficient accept/reject decision. Cash has the advantage of serving, in equilibrium, to \u201cpreempt\u201d competition by signaling a high valuation for the target. Implications concerning the medium of exchange of an offer, the probability of acceptance, the probability of competing bids, expected profits, and the costs of bidders are derived.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02403.x"
+        },
+        {
+            "no": "5",
+            "title": "The Winner's Curse and Bidder Competition in Acquisitions: Evidence from Failed Bank Auctions",
+            "date": "March 1989",
+            "author": [
+                "S. MICHAEL GILIBERTO",
+                "NIKHIL P. VARAIYA"
+            ],
+            "abstract": "This study examines the effect of bidder competition in acquisitions. We use predictions from auction theory to test whether acquirers of failed banks overpay (the \u201cwinner's curse\u201d) when bidding in FDIC sealed\u2010bid purchase and assumption (P&A) transactions (auctions). The empirical results indicate that winning bids tend to increase as the number of competitors increases, as predicted by theory. We also find that bid levels of all bidders increase with increased competition, which is consistent with bidders' failing to adjust for the winner's curse in a common value auction setting. However, additional tests using winning bids only are consistent with both a common value and a private values model, so this result should be interpreted with caution.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02404.x"
+        },
+        {
+            "no": "6",
+            "title": "The October 1987 S&P 500 Stock\u2010Futures Basis",
+            "date": "March 1989",
+            "author": [
+                "LAWRENCE HARRIS"
+            ],
+            "abstract": "Five\u2010minute changes in the S&P 500 index and futures contract are examined over a ten\u2010day period surrounding the October 1987 stock market crash. Since nonsynchronous trading problems are severe in these data, new index estimators are derived and used. The estimators use the complete transaction history of all 500 stocks. Nonsynchronous trading explains part of the large absolute futures\u2010cash basis observed during the crash. The remainder may be due to disintegration of the two markets. Even after adjustment for nonsynchronous trading, the index displays more autocorrelation than does the futures and the futures leads the index.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02405.x"
+        },
+        {
+            "no": "7",
+            "title": "The Quality Option and Timing Option in Futures Contracts",
+            "date": "March 1989",
+            "author": [
+                "PHELIM P. BOYLE"
+            ],
+            "abstract": "Often futures contracts contain quality options whereby the short position has the choice of delivering one of an acceptable set of assets. We explore the implications of the quality option on the futures price. We develop a method for pricing the quality option for the general case of n deliverable assets and provide numerical illustrations of its significance. Even when the asset prices are very highly correlated, this option can have nontrivial value, especially when there is a large number of deliverable assets. We analyze the impact of the timing option and its interaction with the quality option. A procedure is developed for valuing the timing option in the presence of the quality option, and some numerical estimates are obtained.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02406.x"
+        },
+        {
+            "no": "8",
+            "title": "Inferring the Components of the Bid\u2010Ask Spread: Theory and Empirical Tests",
+            "date": "March 1989",
+            "author": [
+                "HANS R. STOLL"
+            ],
+            "abstract": "The relation between the square of the quoted bid\u2010ask spread and two serial covariances\u2014the serial covariance of transaction returns and the serial covariance of quoted returns\u2014is modeled as a function of the probability of a price reversal, \u03c0, and the magnitude of a price change, \u2202, where \u2202 is stated as a fraction of the quoted spread. Different models of the spread are contrasted in terms of the parameters, \u03c0 and \u2202. Using data on the transaction prices and price quotations for NASDAQ/NMS stocks, \u03c0 and \u2202 are estimated and the relative importance of the components of the quoted spread\u2014adverse information costs, order processing costs, and inventory holding costs\u2014is determined.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02407.x"
+        },
+        {
+            "no": "9",
+            "title": "Earnings Yields, Market Values, and Stock Returns",
+            "date": "March 1989",
+            "author": [
+                "JEFFREY JAFFE",
+                "DONALD B. KEIM",
+                "RANDOLPH WESTERFIELD"
+            ],
+            "abstract": "Earlier evidence concerning the relation between stock returns and the effects of size and earnings to price ratio (E/P) is not clear\u2010cut. This paper re\u2010examines these two effects with (a) a substantially longer sample period, 1951\u20131986, (b) data that are reasonably free of survivor biases, (c) both portfolio and seemingly unrelated regression tests, and (d) an emphasis on the important differences between January and other months. Over the entire period, the earnings yield effect is significant in both January and the other eleven months. Conversely, the size effect is significantly negative only in January. We also find evidence of consistently high returns for firms of all sizes with negative earnings.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02408.x"
+        },
+        {
+            "no": "10",
+            "title": "Portfolio Rebalancing and the Turn\u2010of\u2010the\u2010Year Effect",
+            "date": "March 1989",
+            "author": [
+                "JAY R. RITTER",
+                "NAVIN CHOPRA"
+            ],
+            "abstract": "This paper finds that, for the 1935\u20131986 period, the market's risk\u2010return relation does not have a January seasonal. The findings differ from those of other studies due to the use of value\u2010weighted, rather than equally weighted, portfolios. Inferences are sensitive to the weighting procedure because of the small\u2010firm return patterns in January. In particular, even in those Januaries for which the market return is negative, small\u2010firm returns are positive, and they are more positive the higher is beta. This is consistent with the portfolio rebalancing explanation of the turn\u2010of\u2010the\u2010year effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02409.x"
+        },
+        {
+            "no": "11",
+            "title": "Common Stochastic Trends in a System of Exchange Rates",
+            "date": "March 1989",
+            "author": [
+                "RICHARD T. BAILLIE",
+                "TIM BOLLERSLEV"
+            ],
+            "abstract": "Univariate tests reveal strong evidence for the presence of a unit root in the univariate time\u2010series representation for seven daily spot and forward exchange rate series. Furthermore, all seven spot and forward rates appear to be cointegrated; that is, the forward premiums are stationary, and one common unit root, or stochastic trend, is detectable in the multivariate time\u2010series models for the seven spot and forward rates, respectively. This is consistent with the hypothesis that the seven exchange rates possess one long\u2010run relationship and that the disequilibrium error around that relationship partly accounts for subsequent movements in the exchange rates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02410.x"
+        },
+        {
+            "no": "12",
+            "title": "An Analysis of Intertemporal Pricing for Forward Foreign Exchange Contracts",
+            "date": "March 1989",
+            "author": [
+                "ROGER D. HUANG"
+            ],
+            "abstract": "An asset\u2010pricing model with an unobservable time\u2010varying risk premium is used to price forward foreign exchange contracts. Specifically, the term spectrum of forward foreign exchange contracts is examined in order to focus on country\u2010specific and maturity\u2010specific information. The testable restrictions imposed by the model are consistent with both cross\u2010country and cross\u2010maturity forward contracts except at the short end of the maturity spectrum for cross\u2010country forward exchange rates. This indicates that the intertemporal model is relatively robust in valuing forward contracts of different maturities and for different exchange rates but that it may fail when there are significant short\u2010term country\u2010specific shocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02411.x"
+        },
+        {
+            "no": "13",
+            "title": "Syndicate Size, Spreads, and Market Power during the Introduction of Shelf Registration",
+            "date": "March 1989",
+            "author": [
+                "F. DOUGLAS FOSTER"
+            ],
+            "abstract": "The introduction of shelf registration in 1982 is used to examine the extent of price\u2010taking behavior among investment banks. Changes in underwriting syndicates are compared with the concomitant adjustment in underwriting spreads and management fees. The evidence is consistent with higher organizing costs and/or market power in the underwriting syndicate. Evidence on the components of the spreads and syndicate composition during the introduction of shelf registration is also presented.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02412.x"
+        },
+        {
+            "no": "14",
+            "title": "An Exact Bond Option Formula",
+            "date": "March 1989",
+            "author": [
+                "FARSHID JAMSHIDIAN"
+            ],
+            "abstract": "This paper derives a closed\u2010form solution for European options on pure discount bonds, assuming a mean\u2010reverting Gaussian interest rate model as in Vasicek [8]. The formula is extended to European options on discount bond portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02413.x"
+        },
+        {
+            "no": "15",
+            "title": "Computing the Constant Elasticity of Variance Option Pricing Formula",
+            "date": "March 1989",
+            "author": [
+                "MARK SCHRODER"
+            ],
+            "abstract": "This paper expresses the constant elasticity of variance option pricing formula in terms of the noncentral chi\u2010square distribution. This allows the application of well\u2010known approximation formulas and the derivation of a whole class of closed\u2010form solutions. In addition, a simple and efficient algorithm for computing this distribution is presented.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02414.x"
+        },
+        {
+            "no": "16",
+            "title": "Book Reviews",
+            "date": "March 1989",
+            "author": [],
+            "abstract": "Security Markets: Stochastic Models. By DARRELL DUFFIE. San Diego: Academic Press, 1988. Pp. xx + 358.\nOptions: Theory, Strategy, and Applications. By PETER RITCHKEN. Glenview, IL: Scott, Foresman and Company, 1987. Pp. xiii + 414.\nOption Valuation. By STUART M. TURNBULL. Toronto: Holt, Rinehart and Winston of Canada, 1987, Pp. xv + 183.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02415.x"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "March 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02416.x"
+        },
+        {
+            "no": "18",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00366.x"
+        },
+        {
+            "no": "19",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02417.x"
+        },
+        {
+            "no": "20",
+            "title": "Back Matter",
+            "date": "March 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00367.x"
+        }
+    ]
+}

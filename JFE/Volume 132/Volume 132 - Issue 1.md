@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2019
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Are lemons sold first? Dynamic signaling in the mortgage market
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Manuel Adelino
 - Kristopher Gerardi
 - Barney Hartman-Glaser
@@ -26,7 +26,7 @@ A central result in the theory of adverse selection in asset markets is that inf
 ## 3. Indexing and stock market serial dependence around the world
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Guido Baltussen
 - Sjoerd van Bekkum
 - Zhi Da
@@ -38,7 +38,7 @@ We show a striking change in index return serial dependence across 20 major mark
 ## 4. Industry familiarity and trading: Evidence from the personal portfolios of industry insiders
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Itzhak Ben-David
 - Justin Birru
 - Andrea Rossi
@@ -50,7 +50,7 @@ We study whether industry familiarity is an advantage in stock trading by explor
 ## 5. Dynamic corporate liquidity
 ### Date
 - Jun 2017
-### Authors
+### Author
 - Boris Nikolov
 - Lukas Schmid
 - Roberto Steri
@@ -62,7 +62,7 @@ In contrast to cash holdings, credit lines give firms financial flexibility by p
 ## 6. Preference for dividends and return comovement
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Allaudeen Hameed
 - Jing Xie
 ### Abstract
@@ -73,7 +73,7 @@ Stocks that initiate dividends tend to comove more with other dividend-paying st
 ## 7. Manager sentiment and stock returns
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Fuwei Jiang
 - Joshua Lee
 - Xiumin Martin
@@ -86,7 +86,7 @@ This paper constructs a manager sentiment index based on the aggregated textual 
 ## 8. Variance risk in aggregate stock returns and time-varying return predictability
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Sungjune Pyun
 ### Abstract
 This paper introduces a new out-of-sample forecasting methodology for monthly market returns using the variance risk premium (VRP) that is both statistically and economically significant. This methodology is motivated by the ‘beta representation,’ which implies that the market risk premium is related to the price of variance risk by the variance risk exposure. Hence, when the slope of the contemporaneous regression of market returns on variance innovation is larger, future returns are more sharply related to the current VRP. Also, predictions are more accurate when market returns are highly correlated to variance shocks.
@@ -96,7 +96,7 @@ This paper introduces a new out-of-sample forecasting methodology for monthly ma
 ## 9. Acquirer reference prices and acquisition performance
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Qingzhong Ma
 - David A. Whidbee
 - Wei Zhang
@@ -108,7 +108,7 @@ In a comprehensive sample of mergers and acquisitions, we find a reference price
 ## 10. What a difference a (birth) month makes: The relative age effect and fund manager performance
 ### Date
 - Oct 2018
-### Authors
+### Author
 - John (Jianqiu) Bai
 - Linlin Ma
 - Kevin A. Mullally
@@ -121,7 +121,7 @@ Many US states have a single cutoff date for school entry, meaning that some chi
 ## 11. Probability of price crashes, rational speculative bubbles, and the cross-section of stock returns
 ### Date
 - Oct 2018
-### Authors
+### Author
 - Jeewon Jang
 - Jangkoo Kang
 ### Abstract
@@ -132,7 +132,7 @@ We estimate an ex ante probability of extreme negative returns (crashes) of indi
 ## 12. The present value relation over six centuries: The case of the Bazacle company
 ### Date
 - Mar 2017
-### Authors
+### Author
 - David le Bris
 - William N. Goetzmann
 - Sébastien Pouget

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Corporate earnings and the equity premium
 ### Date
 - Dec 2003
-### Authors
+### Author
 - Francis A. Longstaff
 - Monika Piazzesi
 ### Abstract
@@ -25,7 +25,7 @@ Corporate cash flows are highly volatile and strongly procyclical. We examine th
 ## 3. Sources of gains in horizontal mergers: evidence from customer, supplier, and rival firms
 ### Date
 - Oct 2003
-### Authors
+### Author
 - C.Edward Fee
 - Shawn Thomas
 ### Abstract
@@ -36,7 +36,7 @@ We investigate the upstream and downstream product-market effects of a large sam
 ## 4. Measuring stock illiquidity: An investigation of the demand and supply schedules at the TASE
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Avner Kalay
 - Orly Sade
 - Avi Wohl
@@ -48,7 +48,7 @@ We show that estimating demand and supply elasticities at the opening stage of t
 ## 5. Disentangling diffusion from jumps
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Yacine Aı̈t-Sahalia
 ### Abstract
 Realistic models for financial asset prices used in portfolio choice, option pricing or risk management include both a continuous Brownian and a jump components. This paper studies our ability to distinguish one from the other. I find that, surprisingly, it is possible to perfectly disentangle Brownian noise from jumps. This is true even if, unlike the usual Poisson jumps, the jump process exhibits an infinite number of small jumps in any finite time interval, which ought to be harder to distinguish from Brownian noise, itself made up of many small moves.
@@ -58,7 +58,7 @@ Realistic models for financial asset prices used in portfolio choice, option pri
 ## 6. An econometric model of serial correlation and illiquidity in hedge fund returns
 ### Date
 - Apr 2004
-### Authors
+### Author
 - Mila Getmansky
 - Andrew W. Lo
 - Igor Makarov
@@ -70,7 +70,7 @@ The returns to hedge funds and other alternative investments are often highly se
 ## 7. Index
 ### Date
 - Dec 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link

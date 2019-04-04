@@ -1,0 +1,107 @@
+{
+    "journal": "RFS",
+    "volume": "3",
+    "issue": "4",
+    "date": "October 1990",
+    "page": "Pages 493\u2013708",
+    "article": [
+        {
+            "no": "1",
+            "title": "General Equilibrium Pricing of Options on the Market Portfolio with Discontinuous Returns",
+            "date": "30 April 2015",
+            "author": [
+                "Vasanttilak Naik",
+                "Moon Lee"
+            ],
+            "abstract": "When the price process for a long-lived asset is of a mixed jump\u2013diffusion type, pricing of options on that asset by arbitrage is not possible if trading is allowed only in the underlying asset and a riskless bond. Using a general equilibrium framework, we derive and analyze option prices when the underlying asset is the market portfolio with discontinuous returns. The premium for the risk of jumps and the diffusion risk forms a significant part of the prices of the options. In this economy, an attempted replication of call and put options by the Black\u2013Scholes type of trading strategies may require substantial infusion of funds when jumps occur. We study the cost and risk implications of such dynamic hedging plans.",
+            "link": "https://doi.org/10.1093/rfs/3.4.493"
+        },
+        {
+            "no": "2",
+            "title": "Convergence from Discrete- to Continuous-Time Contingent Claims Prices",
+            "date": "30 April 2015",
+            "author": [
+                "Hua He"
+            ],
+            "abstract": "This article generalizes the Cox, Ross, and Rubinstein (1979) binomial option-pricing model, and establishes a convergence from discrete-time multivariate multinomial models to continuous-time multidimensional diffusion models for contingent claims prices. The key to the approach is to approximate the |$N$|-dimensional diffusion price process by a sequence of |$N$|-variate, |$(N+1)$|-nomial processes. It is shown that contingent claims prices and dynamic replicating portfolio strategies derived from the discrete time models converge to their corresponding continuous-time limits.",
+            "link": "https://doi.org/10.1093/rfs/3.4.523"
+        },
+        {
+            "no": "3",
+            "title": "The Analytic Valuation of American Options",
+            "date": "30 April 2015",
+            "author": [
+                "In Joon Kim"
+            ],
+            "abstract": "No analytic solution exists for the valuation of American options written on futures contracts and foreign currencies for which early exercise may be optimal. This article formulates the American option valuation problem in economically and mathematically meaningful ways. This enables us to derive valuation formulas for American options. The properties associated with the optimal exercise boundary are examined, and a numerical technique to implement the valuation formulas is presented.",
+            "link": "https://doi.org/10.1093/rfs/3.4.547"
+        },
+        {
+            "no": "4",
+            "title": "Pricing Interest-Rate-Derivative Securities",
+            "date": "30 April 2015",
+            "author": [
+                "John Hull",
+                "Alan White"
+            ],
+            "abstract": "This article shows that the one-state-variable interest-rate models of Vasicek (1977) and Cox, Ingersoll, and Ross (1985b) can be extended so that they are consistent with both the current term structure of interest rates and either the current volatilities of all spot interest rates or the current volatilities of all forward interest rates. The extended Vasicek model is shown to be very tractable analytically. The article compares option prices obtained using the extended Vasicek model with those obtained using a number of other models.",
+            "link": "https://doi.org/10.1093/rfs/3.4.573"
+        },
+        {
+            "no": "5",
+            "title": "A Theory of the Interday Variations in Volume, Variance, and Trading Costs in Securities Markets",
+            "date": "30 April 2015",
+            "author": [
+                "F. Douglas Foster",
+                "S. Viswanathan"
+            ],
+            "abstract": "In an adverse selection model of a securities market with one informed trader and several liquidity traders, we study the implications of the assumption that the informed trader has more information on Monday than on other days. We examine the interday variations in volume, variance, and adverse selection costs, and find that on monday the trading costs and the variance of price changes are highest, and the volume is lower than on Tuesday. These effects are stronger for firms with better public reporting and for firms with more discretionary liquidity trading.",
+            "link": "https://doi.org/10.1093/rfs/3.4.593"
+        },
+        {
+            "no": "6",
+            "title": "Tax Planning, Regulatory Capital Planning, and Financial Reporting Strategy for Commercial Banks",
+            "date": "30 April 2015",
+            "author": [
+                "Myron S. Scholes",
+                "G. Peter Wilson",
+                "Mark A. Wolfson"
+            ],
+            "abstract": "We test whether banks\u2019 investment and financing policies can be explained by tax status. We document changes in bank holdings of municipal bonds in response to changes in tax rules relating to deductibility of interest expense. We also document an association between banks\u2019 marginal tax rates and their investment and financing decisions, which is consistent with the existence of tax clienteles. However, banks do not sort themselves perfectly into investment and financing clienteles because of adjustment costs. We posit specific types of transaction-cost impediments to tax planning, and document that banks apparently trade off these costs against tax-planning benefits.",
+            "link": "https://doi.org/10.1093/rfs/3.4.625"
+        },
+        {
+            "no": "7",
+            "title": "Asymmetric Information and the Medium of Exchange in Takeovers: Theory and Tests",
+            "date": "30 April 2015",
+            "author": [
+                "B. Espen Eckbo",
+                "Ronald M. Giammarino",
+                "Robert L. Heinkel"
+            ],
+            "abstract": "In a model of takeovers under asymmetric information, we identify a separating equilibrium in which the value of the bidder firm is revealed by the mix of cash and securities used as payment for the target. The model predicts that the revealed bidder value is monotonically increasing and convex in the fraction of the total offer that consists of cash. We examine the model restrictions using data from Canada, where mixed offers are both relatively frequent and free of the confounding tax-related options characterizing mixed offers in the United States. We find that the average announcement-month bidder abnormal return in mixed offers is large and significant. However, maximum likelihood estimates of parameters in both linear and nonlinear cross-sectional regressions fail to support the model predictions.",
+            "link": "https://doi.org/10.1093/rfs/3.4.651"
+        },
+        {
+            "no": "8",
+            "title": "Risk Aversion and the Intertemporal Behavior of Asset Prices",
+            "date": "30 April 2015",
+            "author": [
+                "R. C. Stapleton",
+                "M. G. Subrahmanyam"
+            ],
+            "abstract": "In this article, we characterize economies in which both cash flows and forward prices follow random walks. We show in the case of geometric random walks that the preferences of the representative investor are of the constant proportional risk-aversion type. We also show the conditions under which spot prices follow random walks and under which the equivalent martingale measure is non-state-dependent.",
+            "link": "https://doi.org/10.1093/rfs/3.4.677"
+        },
+        {
+            "no": "9",
+            "title": "Returns on Initial Public Offerings of Closed-End Funds",
+            "date": "30 April 2015",
+            "author": [
+                "John W. Peavy, III"
+            ],
+            "abstract": "Examination of 41 closed-end fund initial public offerings (IPOs) during the period from January 1986 to June 1987 reveals that the mean initial day\u2019s return is not significantly different from zero in contrast to previous findings for nonfund IPOs. New funds also show significant negative after-market returns unlike other new issues. Despite the disparity between our findings and previous results, our results are consistent with existing models.",
+            "link": "https://doi.org/10.1093/rfs/3.4.695"
+        }
+    ]
+}

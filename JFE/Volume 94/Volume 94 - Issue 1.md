@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Share issuance and cross-sectional returns: International evidence
 ### Date
 - Sep 2008
-### Authors
+### Author
 - R. David McLean
 - Jeffrey Pontiff
 - Akiko Watanabe
@@ -26,7 +26,7 @@ Share issuance predicts cross-sectional returns in a non-U.S. sample of stocks f
 ## 3. Global private information in international equity markets
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Rui Albuquerque
 - Gregory H. Bauer
 - Martin Schneider
@@ -38,7 +38,7 @@ This paper studies international equity markets when some investors have private
 ## 4. Can interest rate volatility be extracted from the cross section of bond yields?
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Pierre Collin-Dufresne
 - Robert S. Goldstein
 - Christopher S. Jones
@@ -50,7 +50,7 @@ Most affine models of the term structure with stochastic volatility predict that
 ## 5. Opaque financial reports, R2, and crash risk
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Amy P. Hutton
 - Alan J. Marcus
 - Hassan Tehranian
@@ -62,7 +62,7 @@ We investigate the relation between the transparency of financial statements and
 ## 6. Predictability and the earnings–returns relation
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Gil Sadka
 - Ronnie Sadka
 ### Abstract
@@ -73,7 +73,7 @@ This paper studies the effects of predictability on the earnings–returns relat
 ## 7. Deductio’ ad absurdum: CEOs donating their own stock to their own family foundations
 ### Date
 - Dec 2008
-### Authors
+### Author
 - David Yermack
 ### Abstract
 I study large charitable stock gifts by Chairmen and Chief Executive Officers (CEOs) of public companies. These gifts, which are not subject to insider trading law, often occur just before sharp declines in their companies’ share prices. This timing is more pronounced when executives donate their own shares to their own family foundations. Evidence related to reporting delays and seasonal patterns suggests that some CEOs fraudulently backdate stock gifts to increase personal income tax benefits. CEOs’ family foundations hold donated stock for long periods rather than diversifying, permitting CEOs to continue voting the shares.
@@ -83,7 +83,7 @@ I study large charitable stock gifts by Chairmen and Chief Executive Officers (C
 ## 8. Democratizing entry: Banking deregulations, financing constraints, and entrepreneurship
 ### Date
 - Dec 2008
-### Authors
+### Author
 - William R. Kerr
 - Ramana Nanda
 ### Abstract
@@ -94,7 +94,7 @@ We examine entrepreneurship and creative destruction following US banking deregu
 ## 9. Stock market liquidity and firm value
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Vivian W. Fang
 - Thomas H. Noe
 - Sheri Tice

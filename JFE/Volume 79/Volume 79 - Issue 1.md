@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Are perks purely managerial excess?
 ### Date
 - Jan 2005
-### Authors
+### Author
 - Raghuram G. Rajan
 - Julie Wulf
 ### Abstract
@@ -25,7 +25,7 @@ A widespread view is that executive perks exemplify agency problems—they are a
 ## 3. The impact of performance-based compensation on misreporting
 ### Date
 - Dec 2004
-### Authors
+### Author
 - Natasha Burns
 - Simi Kedia
 ### Abstract
@@ -36,7 +36,7 @@ This paper examines the effect of CEO compensation contracts on misreporting. We
 ## 4. Should corporate debt include a rating trigger?
 ### Date
 - Jan 2005
-### Authors
+### Author
 - Karan Bhanot
 - Antonio S. Mello
 ### Abstract
@@ -47,7 +47,7 @@ Recent corporate debt offerings have included a covenant specifying a pre-determ
 ## 5. Should business groups be dismantled? The equilibrium costs of efficient internal capital markets
 ### Date
 - Feb 2005
-### Authors
+### Author
 - Heitor Almeida
 - Daniel Wolfenzon
 ### Abstract
@@ -58,7 +58,7 @@ We analyze the relationship between conglomerates’ internal capital markets an
 ## 6. Corporate tax avoidance and high-powered incentives
 ### Date
 - Feb 2005
-### Authors
+### Author
 - Mihir A. Desai
 - Dhammika Dharmapala
 ### Abstract
@@ -69,7 +69,7 @@ This paper analyzes the links between corporate tax avoidance and the growth of 
 ## 7. Crushed by a rational stampede: Strategic share dumping and shareholder insurrections
 ### Date
 - Sep 2004
-### Authors
+### Author
 - Mukarram Attari
 - Suman Banerjee
 - Thomas H. Noe

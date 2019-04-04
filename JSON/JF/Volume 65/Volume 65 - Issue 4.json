@@ -1,0 +1,179 @@
+{
+    "journal": "JF",
+    "volume": "65",
+    "issue": "4",
+    "date": "August 2010",
+    "page": "Pages: i-iii, 1237-1640",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "15 July 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01585.x"
+        },
+        {
+            "no": "2",
+            "title": "Presidential Address: Asset Price Dynamics with Slow\u2010Moving Capital",
+            "date": "15 July 2010",
+            "author": [
+                "DARRELL DUFFIE"
+            ],
+            "abstract": "I describe asset price dynamics caused by the slow movement of investment capital to trading opportunities. The pattern of price responses to supply or demand shocks typically involves a sharp reaction to the shock and a subsequent and more extended reversal. The amplitude of the immediate price impact and the pattern of the subsequent recovery can reflect institutional impediments to immediate trade, such as search costs for trading counterparties or time to raise capital by intermediaries. I discuss special impediments to capital formation during the recent financial crisis that caused asset price distortions, which subsided afterward. After presenting examples of price reactions to supply shocks in normal market settings, I offer a simple illustrative model of price dynamics associated with slow\u2010moving capital due to the presence of inattentive investors.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01569.x"
+        },
+        {
+            "no": "3",
+            "title": "Disagreement and Learning: Dynamic Patterns of Trade",
+            "date": "15 July 2010",
+            "author": [
+                "SNEHAL BANERJEE",
+                "ILAN KREMER"
+            ],
+            "abstract": "The empirical evidence on investor disagreement and trading volume is difficult to reconcile in standard rational expectations models. We develop a dynamic model in which investors disagree about the interpretation of public information. We obtain a closed\u2010form linear equilibrium that allows us to study which restrictions on the disagreement process yield empirically observed volume and return dynamics. We show that when investors have infrequent but major disagreements, there is positive autocorrelation in volume and positive correlation between volume and volatility. We also derive novel empirical predictions that relate the degree and frequency of disagreement to volume and volatility dynamics.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01570.x"
+        },
+        {
+            "no": "4",
+            "title": "Generalized Disappointment Aversion and Asset Prices",
+            "date": "15 July 2010",
+            "author": [
+                "BRYAN R. ROUTLEDGE",
+                "STANLEY E. ZIN"
+            ],
+            "abstract": "We characterize generalized disappointment aversion (GDA) risk preferences that can overweight lower\u2010tail outcomes relative to expected utility. We show in an endowment economy that recursive utility with GDA risk preferences generates effective risk aversion that is countercyclical. This feature comes from endogenous variation in the probability of disappointment in the representative agent's intertemporal consumption\u2010saving problem that underlies the asset pricing model. The variation in effective risk aversion produces a large equity premium and a risk\u2010free rate that is procyclical and has low volatility in an economy with a simple autoregressive endowment\u2010growth process.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01571.x"
+        },
+        {
+            "no": "5",
+            "title": "Information Quality and Long\u2010Run Risk: Asset Pricing Implications",
+            "date": "15 July 2010",
+            "author": [
+                "HENGJIE AI"
+            ],
+            "abstract": "I study the asset pricing implications of the quality of public information about persistent productivity shocks in a general equilibrium model with Kreps\u2013Porteus preferences. Low information quality is associated with a high equity premium, a low volatility of consumption growth, and a low volatility of the risk\u2010free interest rate. The relationship between information quality and the equity premium differs from that in endowment economies. My calibration improves substantially upon the Bansal\u2013Yaron model in terms of the moments of the wealth\u2013consumption ratio and the return on aggregate wealth.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01572.x"
+        },
+        {
+            "no": "6",
+            "title": "Intraday Patterns in the Cross\u2010section of Stock Returns",
+            "date": "15 July 2010",
+            "author": [
+                "STEVEN L. HESTON",
+                "ROBERT A. KORAJCZYK",
+                "RONNIE SADKA"
+            ],
+            "abstract": "Motivated by the literature on investment flows and optimal trading, we examine intraday predictability in the cross\u2010section of stock returns. We find a striking pattern of return continuation at half\u2010hour intervals that are exact multiples of a trading day, and this effect lasts for at least 40 trading days. Volume, order imbalance, volatility, and bid\u2010ask spreads exhibit similar patterns, but do not explain the return patterns. We also show that short\u2010term return reversal is driven by temporary liquidity imbalances lasting less than an hour and bid\u2010ask bounce. Timing trades can reduce execution costs by the equivalent of the effective spread.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01573.x"
+        },
+        {
+            "no": "7",
+            "title": "Sell\u2010Side School Ties",
+            "date": "15 July 2010",
+            "author": [
+                "LAUREN COHEN",
+                "ANDREA FRAZZINI",
+                "CHRISTOPHER MALLOY"
+            ],
+            "abstract": "We study the impact of social networks on agents\u2019 ability to gather superior information about firms. Exploiting novel data on the educational background of sell\u2010side analysts and senior corporate officers, we find that analysts outperform by up to 6.60% per year on their stock recommendations when they have an educational link to the company. Pre\u2010Reg FD, this school\u2010tie return premium is 9.36% per year, while post\u2010Reg FD it is nearly zero. In contrast, in an environment that did not change selective disclosure regulation (the U.K.), the school\u2010tie premium is large and significant over the entire sample period.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01574.x"
+        },
+        {
+            "no": "8",
+            "title": "Predictive Regressions: A Present\u2010Value Approach",
+            "date": "15 July 2010",
+            "author": [
+                "JULES H. Van BINSBERGEN",
+                "RALPH S. J. KOIJEN"
+            ],
+            "abstract": "We propose a latent variables approach within a present\u2010value model to estimate the expected returns and expected dividend growth rates of the aggregate stock market. This approach aggregates information contained in the history of price\u2010dividend ratios and dividend growth rates to predict future returns and dividend growth rates. We find that returns and dividend growth rates are predictable with\nR\n2\nvalues ranging from 8.2% to 8.9% for returns and 13.9% to 31.6% for dividend growth rates. Both expected returns and expected dividend growth rates have a persistent component, but expected returns are more persistent than expected dividend growth rates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01575.x"
+        },
+        {
+            "no": "9",
+            "title": "Do Limit Orders Alter Inferences about Investor Performance and Behavior?",
+            "date": "15 July 2010",
+            "author": [
+                "JUHANI T. LINNAINMAA"
+            ],
+            "abstract": "Individual investors lose money around earnings announcements, experience poor posttrade returns, exhibit the disposition effect, and make contrarian trades. Using simulations and trading records of all individual investors in Finland, I find that these trading patterns can be explained in large part by investors' use of limit orders. These patterns arise mechanically because limit orders are price\u2010contingent and suffer from adverse selection. Reverse causality from behavioral biases to order choices does not appear to explain my findings. I propose a simple method for measuring a data set's susceptibility to this limit order effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01576.x"
+        },
+        {
+            "no": "10",
+            "title": "Why Do Foreign Firms Leave U.S. Equity Markets?",
+            "date": "15 July 2010",
+            "author": [
+                "CRAIG DOIDGE",
+                "G. ANDREW KAROLYI",
+                "REN\u00c9 M. STULZ"
+            ],
+            "abstract": "Foreign firms terminate their Securities and Exchange Commission registration in the aftermath of the Sarbanes\u2013Oxley Act (SOX) because they no longer require outside funds to finance growth opportunities. Deregistering firms\u2019 insiders benefit from greater discretion to consume private benefits without having to raise higher cost funds. Foreign firms with more agency problems have worse stock\u2010price reactions to the adoption of Rule 12h\u20106 in 2007, which made deregistration easier, than those firms more adversely affected by the compliance costs of SOX. Stock\u2010price reactions to deregistration announcements are negative, but less so under Rule 12h\u20106, and more so for firms that raise fewer funds externally.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01577.x"
+        },
+        {
+            "no": "11",
+            "title": "Market Segmentation and Cross\u2010predictability of Returns",
+            "date": "15 July 2010",
+            "author": [
+                "LIOR MENZLY",
+                "OGUZHAN OZBAS"
+            ],
+            "abstract": "We present evidence supporting the hypothesis that due to investor specialization and market segmentation, value\u2010relevant information diffuses gradually in financial markets. Using the stock market as our setting, we find that (i) stocks that are in economically related supplier and customer industries cross\u2010predict each other's returns, (ii) the magnitude of return cross\u2010predictability declines with the number of informed investors in the market as proxied by the level of analyst coverage and institutional ownership, and (iii) changes in the stock holdings of institutional investors mirror the model trading behavior of informed investors.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01578.x"
+        },
+        {
+            "no": "12",
+            "title": "Mutual Fund Incubation",
+            "date": "15 July 2010",
+            "author": [
+                "RICHARD B. EVANS"
+            ],
+            "abstract": "Incubation is a strategy for initiating new funds, where multiple funds are started privately, and, at the end of an evaluation period, some are opened to the public. Consistent with incubation being used by fund families to increase performance and attract flows, funds in incubation outperform nonincubated funds by 3.5% risk\u2010adjusted, and when they are opened to the public they attract higher flows. Postincubation, however, this outperformance disappears. This performance reversal imparts an upward bias to returns that is not removed by a fund size filter. Fund age and ticker creation date filters, however, eliminate the bias.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01579.x"
+        },
+        {
+            "no": "13",
+            "title": "Report of the Editor of The Journal of Finance for the Year 2009",
+            "date": "15 July 2010",
+            "author": [
+                "CAMPBELL R. HARVEY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01580.x"
+        },
+        {
+            "no": "14",
+            "title": "Minutes of the Annual Membership Meeting",
+            "date": "15 July 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01581.x"
+        },
+        {
+            "no": "15",
+            "title": "Report of the Executive Secretary and Treasurer",
+            "date": "15 July 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01582.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "15 July 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01583.x"
+        },
+        {
+            "no": "17",
+            "title": "Back Matter",
+            "date": "15 July 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01584.x"
+        }
+    ]
+}

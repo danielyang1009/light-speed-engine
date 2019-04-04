@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Sep 1981
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Information aggregation in a noisy rational expectations economy
 ### Date
 - Sep 1981
-### Authors
+### Author
 - Douglas W. Diamond
 - Robert E. Verrecchia
 ### Abstract
@@ -25,7 +25,7 @@ This paper analyzes a general equilibrium model of a competitive security market
 ## 3. Convertible calls and security returns
 ### Date
 - Sep 1981
-### Authors
+### Author
 - Wayne H. Mikkelson
 ### Abstract
 The study examines the impact of convertible security calls on securityholder's wealth. On average common stock values fall by approximately two percent at the announcements of convertible debt calls, but common stockholder's wealth is unaffected by convertible preferred stock calls. These findings are consistent with a corporate tax effect. A small average decrease in firm value is also found at the announcements of convertible debt calls. The study raises, but leaves unanswered, the interesting question of what motivates managers to make capital structure decisions that reduce stockholder wealth and firm value.
@@ -35,7 +35,7 @@ The study examines the impact of convertible security calls on securityholder's 
 ## 4. Does the investment interest limitation explain the existence of dividends?
 ### Date
 - Sep 1981
-### Authors
+### Author
 - Daniel Feenberg
 ### Abstract
 Miller and Scholes have shown that under certain conditions the Federal Income Tax taxes dividend income at a rate no higher than the rate on capital gains. Tabulations of actual 1977 tax returns show that the special circumstances under which this can occur apply to recipients of two and one half percent of dividend income and that no dominant role may therefore be ascribed to their hypothesis in the determination of corporate dividend policy.
@@ -45,7 +45,7 @@ Miller and Scholes have shown that under certain conditions the Federal Income T
 ## 5. Valuation of risky assets in arbitrage-free economies with transactions costs
 ### Date
 - Sep 1981
-### Authors
+### Author
 - Mark B. Garman
 - James A. Ohlson
 ### Abstract
@@ -56,7 +56,7 @@ This paper analyzes the equilibrium valuation of risky assets in the case where 
 ## 6. Risky debt, jump processes, and safety covenants
 ### Date
 - Sep 1981
-### Authors
+### Author
 - Scott P. Mason
 - Sudipto Bhattacharya
 ### Abstract
@@ -67,7 +67,7 @@ The usual assumptions in the continuous-time contingent claims pricing of risky 
 ## 7. Assimilating earnings and split information
 ### Date
 - Sep 1981
-### Authors
+### Author
 - William D. Nichols
 - Stewart L. Brown
 ### Abstract
@@ -78,7 +78,7 @@ Recent studies have implied that the capital market has become more efficient wi
 ## 8. News item
 ### Date
 - Sep 1981
-### Authors
+### Author
 ### Abstract
 
 ### Link

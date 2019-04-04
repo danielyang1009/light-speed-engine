@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. An Increase in Submission Fees, a New Two-Stage Review Process, and Electronic Submissions
 ### Date
 - Jul 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Does an electronic stock exchange need an upstairs market?
 ### Date
 - May 2003
-### Authors
+### Author
 - Hendrik Bessembinder
 - Kumar Venkataraman
 ### Abstract
@@ -34,7 +34,7 @@ We examine the Paris Bourse, whose electronic limit order market closely resembl
 ## 4. Common market makers and commonality in liquidity
 ### Date
 - May 2003
-### Authors
+### Author
 - Jay F. Coughenour
 - Mohsen M. Saad
 ### Abstract
@@ -45,7 +45,7 @@ Each NYSE specialist firm provides liquidity for more than one common stock. As 
 ## 5. Leverage decision and manager compensation with choice of effort and volatility
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Abel Cadenillas
 - Jakša Cvitanić
 - Fernando Zapatero
@@ -57,7 +57,7 @@ We study the incentive effects of granting levered or unlevered stock to a risk-
 ## 6. Performance fee contract change and mutual fund risk
 ### Date
 - May 2002
-### Authors
+### Author
 - Joseph Golec
 - Laura Starks
 ### Abstract
@@ -68,7 +68,7 @@ We examine the effect that an exogenously, specifically governmentally required 
 ## 7. CEO compensation and incentives: Evidence from M&A bonuses
 ### Date
 - Jun 2003
-### Authors
+### Author
 - Yaniv Grinstein
 - Paul Hribar
 ### Abstract
@@ -79,7 +79,7 @@ We investigate CEO compensation for completing M&A deals. We find that CEOs who 
 ## 8. The value of tax shields is NOT equal to the present value of tax shields
 ### Date
 - Oct 2002
-### Authors
+### Author
 - Pablo Fernandez
 ### Abstract
 The value of tax shields is the difference between the present values of two different cash flows, each with their own risk: the present value of taxes for the unlevered company and the present value of taxes for the levered company. For constant growth companies, the value of tax shields in a world with no leverage cost is the present value of the debt, times the tax rate, times the unlevered cost of equity, discounted at the unlevered cost of equity. This result arises as the difference of two present values and does not mean that the appropriate discount for tax shields is the unlevered cost of equity.
@@ -89,7 +89,7 @@ The value of tax shields is the difference between the present values of two dif
 ## 9. The value of dividend imputation tax credits in Australia
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Damien Cannavan
 - Frank Finn
 - Stephen Gray

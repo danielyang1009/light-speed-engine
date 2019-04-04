@@ -1,0 +1,85 @@
+{
+    "journal": "RFS",
+    "volume": "10",
+    "issue": "1",
+    "date": "January 1997",
+    "page": "Pages 1\u2013236",
+    "article": [
+        {
+            "no": "1",
+            "title": "Conditional Methods in Event Studies and an Equilibrium Justification for Standard Event-Study Procedures",
+            "date": "04 June 2015",
+            "author": [
+                "N.R. Prabhala"
+            ],
+            "abstract": "The literature on conditional event-study methods criticizes standard event-study procedures as being misspecified if events are voluntary and investors are rational. We argue, however, that standard procedures (1) lead to statistically valid inferences, under conditions described in this article; and (2) are often a superior means of inference, even when event-study data are generated exactly as per a class of rational expectations specifications introduced by the conditional methods literature. Our results provide an equilibrium justification for traditional event-study methods, and we suggest how these simple procedures may be combined with conditional methods to improve statistical power in event studies.",
+            "link": "https://doi.org/10.1093/rfs/10.1.1"
+        },
+        {
+            "no": "2",
+            "title": "Debt in Industry Equilibrium",
+            "date": "04 June 2015",
+            "author": [
+                "Steven Fries",
+                "Marcus Miller",
+                "William Perraudin"
+            ],
+            "abstract": "This article shows (1) how entry and exit of firms in a competitive industry affect the valuation of securities and optimal capital structure, and (2) how, given a trade-off between tax advantages and agency costs, a firm will optimally adjust its leverage level after it is set up. We derive simple pricing expressions for corporate debt in which the price elasticity of demand for industry output plays a crucial role. When a firm optimally adjusts its leverage over time, we show that total firm value comprises the value of discounted cash flows assuming fixed capital structure, plus a continuum of options for marginal increases in debt.",
+            "link": "https://doi.org/10.1093/rfs/10.1.39"
+        },
+        {
+            "no": "3",
+            "title": "Splitting Orders",
+            "date": "04 June 2015",
+            "author": [
+                "Dan Bernhardt",
+                "Eric Hughson"
+            ],
+            "abstract": "A standard presumption of market microstructure models is that competition between risk-neutral market makers inevitably leads to price schedules that leave market makers zero expected profits conditional on the order flow. This article documents an important lack of robustness of this zero-profit result. In particular, we show that if traders can split orders between market makers, then market makers set less-competitive price schedules that earn them strictly positive profits and hence raise trading costs. Thus, this article can explain why somebody might willingly make a market for a stock when there are fixed costs to doing so. The analysis extends to a limit order book, which by its nature is split against incoming market orders: equilibrium limit order schedules necessarily yield those agents positive expected profits.",
+            "link": "https://doi.org/10.1093/rfs/10.1.69"
+        },
+        {
+            "no": "4",
+            "title": "Liquidity Provision with Limit Orders and a Strategic Specialist",
+            "date": "04 June 2015",
+            "author": [
+                "Duane J. Seppi"
+            ],
+            "abstract": "This article presents a microstructure model of liquidity provision in which a specialist with market power competes against a competitive limit order book. General solutions, comparative statics and examples are provided first with uninformative orders and then when order flows are informative. The model is also used to address two optimal market design issues. The first is the effect of \u201ctick\u201d size \u2014 for example, eighths versus decimal pricing \u2014 on market liquidity. Institutions trading large blocks have a larger optimal tick size than small retail investors, but both prefer a tick size strictly greater than zero. Second, a hybrid specialist/limit order market (like the NYSE) provides better liquidity to small retail and institutional trades, but a pure limit order market (like the Paris Bourse) may offer better liquidity on mid-size orders.",
+            "link": "https://doi.org/10.1093/rfs/10.1.103"
+        },
+        {
+            "no": "5",
+            "title": "Recovery of Preferences from Observed Wealth in a Single Realization",
+            "date": "04 June 2015",
+            "author": [
+                "Philip H. Dybvig",
+                "L.C.G. Rogers"
+            ],
+            "abstract": "Von Neumann-Morgenstern preferences over terminal consumption can be inferred from wealth on a single sample path when markets are complete and returns follow a known law in a neo-classical investment problem in either a discrete-time i.i.d. binomial model or a continuous-time diffusion model with a Gaussian state variable. Numerical results suggest that useful information about preferences can be obtained from even a single noisy sample of monthly observations of a portfolio over 5 years.",
+            "link": "https://doi.org/10.1093/rfs/10.1.151"
+        },
+        {
+            "no": "6",
+            "title": "In Search of Liquidity: Block Trades in the Upstairs and Downstairs Markets",
+            "date": "04 June 2015",
+            "author": [
+                "Ananth Madhavan",
+                "Minder Cheng"
+            ],
+            "abstract": "We analyze the ability of various market mechanisms to provide liquidity for large equity trades. Using data on 21,077 block transactions in Dow Jones stocks, we find that the \u201cdownstairs\u201d NYSE floor market is a significant source of liquidity. Although negotiation in the informal \u201cupstairs\u201d market provides better execution than the downstairs market for large trades, these differences are economically small. We find, however, that upstairs markets are used by traders who can credibly signal that their trades are liquidity motivated. Thus, upstairs markets allow trades that may not otherwise occur.",
+            "link": "https://doi.org/10.1093/rfs/10.1.175"
+        },
+        {
+            "no": "7",
+            "title": "Endogenous Communication Among Lenders and Entrepreneurial Incentives",
+            "date": "04 June 2015",
+            "author": [
+                "A. Jorge Padilla",
+                "Marco Pagano"
+            ],
+            "abstract": "If banks have an informational monopoly about their clients, borrowers may curtail their effort level for fear of being exploited via high interest rates in the future. Banks can correct this incentive problem by committing to share private information with other lenders. The fiercer competition triggered by information sharing lowers future interest rates and future profits of banks. But, provided banks retain an initial informational advantage, their current profits are raised by the borrowers\u2019 higher effort. This trade-off determines the banks\u2019 willingness to share information. Their decision affects credit market competition, interest rates, volume of lending, and social welfare.",
+            "link": "https://doi.org/10.1093/rfs/10.1.205"
+        }
+    ]
+}

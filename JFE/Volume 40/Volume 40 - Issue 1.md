@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 1996
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Announcement
 ### Date
 - Jan 1996
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Editorial data
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -39,7 +39,7 @@
 ## 4. Leverage, investment, and firm growth
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Larry Lang
 - Eli Ofek
 - RenéM. Stulz
@@ -51,7 +51,7 @@ We show that there is a negative relation between leverage and future growth at 
 ## 5. The distorting effect of the prudent-man laws on institutional equity investments
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Diane Del Guercio
 ### Abstract
 I examine the effect of prudent-man laws on the behavior of institutional investors. Variation in exposure to legal liability across types of investment managers allows me to disentangle the effect of the prudent-man laws from other potential influences on manager behavior. Bank managers significantly tilt the composition of their portfolios toward stocks that are viewed by the courts as prudent, while mutual fund managers choose not. I show that differences in the direction that bank and mutual fund managers choose to tilt may explain their portfolio performance differences over time.
@@ -61,7 +61,7 @@ I examine the effect of prudent-man laws on the behavior of institutional invest
 ## 6. Firm-specific information and the correlation between individual stocks and bonds
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Simon H. Kwan
 ### Abstract
 This paper examines the correlation between the returns on individual stocks and the yield changes of individual bonds issued by the same firm, and finds that they are negatively and contemporaneously correlated. This suggests that individual stocks and bonds are driven by firm-specific information that is predominantly related to the mean, rather than the variance, of the firm's underlying assets. Furthermore, I find that lagged stock returns have explanatory power for current bond yield changes, while current stock returns are unrelated to lagged bond yield changes. This shows that stocks lead bonds in reflecting firm-specific information.
@@ -71,7 +71,7 @@ This paper examines the correlation between the returns on individual stocks and
 ## 7. Factors affecting the number of outside directorships held by CEOs
 ### Date
 - Jan 1996
-### Authors
+### Author
 - James R. Booth
 - Daniel N. Deli
 ### Abstract
@@ -82,7 +82,7 @@ We investigate factors affecting the number of outside directorships held by CEO
 ## 8. An empirical examination of information, differences of opinion, and trading activity
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Hendrik Bessembinder
 - Kalok Chan
 - Paul J. Seguin
@@ -94,7 +94,7 @@ We investigate the relations between trading volumes and our proxies for informa
 ## 9. An empirical analysis of prepackaged bankruptcies
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Elizabeth Tashjian
 - Ronald C. Lease
 - John J. McConnell
@@ -106,7 +106,7 @@ We provide comprehensive data on the attributes and outcomes of the restructurin
 ## 10. Hostile takeovers and the correction of managerial failure
 ### Date
 - Jan 1996
-### Authors
+### Author
 - Julian Franks
 - Colin Mayer
 ### Abstract

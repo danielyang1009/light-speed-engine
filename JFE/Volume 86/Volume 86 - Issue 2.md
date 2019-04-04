@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial
 ### Date
 - Nov 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Monitoring: Which institutions matter?
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Xia Chen
 - Jarrad Harford
 - Kai Li
@@ -35,7 +35,7 @@ Within a cost–benefit framework, we hypothesize that independent institutions 
 ## 4. Financial fraud, director reputation, and shareholder wealth
 ### Date
 - May 2006
-### Authors
+### Author
 - Eliezer M. Fich
 - Anil Shivdasani
 ### Abstract
@@ -46,7 +46,7 @@ We investigate the reputational impact of financial fraud for outside directors 
 ## 5. Affiliated mutual funds and the allocation of initial public offerings
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Jay R. Ritter
 - Donghang Zhang
 ### Abstract
@@ -57,7 +57,7 @@ We examine how investment banks use initial public offerings (IPOs) in relation 
 ## 6. Bank relationships and underwriter competition: Evidence from Japan
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Ayako Yasuda
 ### Abstract
 I examine the effects of bank relationships on underwriter choice in the Japanese corporate bond market following the 1993 deregulation. Bank relationships have significant positive effects on a firm's underwriter choice. Relationship firms receive a small but significant fee discount and, consistent with the mitigating effect of competition on hold-up costs, multiple-relationship firms receive a significantly deeper discount than single-relationship firms. Bank shareholding alone negatively affects underwriter choice, whereas shareholding together with loans has significantly more positive effects than loans alone. Finally, existing relationships reduce a Japanese firm's switching probability by 32%, in contrast to only 6% for U.S. firms.
@@ -67,7 +67,7 @@ I examine the effects of bank relationships on underwriter choice in the Japanes
 ## 7. Productivity-based asset pricing: Theory and evidence
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Ronald J. Balvers
 - Dayong Huang
 ### Abstract
@@ -78,7 +78,7 @@ In a general real business cycle model, we derive a pricing kernel that involves
 ## 8. Asymmetric stock market volatility and the cyclical behavior of expected returns
 ### Date
 - Oct 2006
-### Authors
+### Author
 - Antonio Mele
 ### Abstract
 Recent explanations of aggregate stock market fluctuations suggest that countercyclical stock market volatility is consistent with rational asset evaluations. In this paper, I develop a framework to study the causes of countercyclical stock market volatility. I find that countercyclical risk premia do not imply countercyclical return volatility. Instead, countercyclical stock volatility occurs if risk premia increase more in bad times than they decrease in good times, thereby inducing price–dividend ratios to fluctuate more in bad times than in good. The business cycle asymmetry in the investors’ attitude toward discounting future cash flows plays a novel and critical role in many rational explanations of asset price fluctuations.
@@ -88,7 +88,7 @@ Recent explanations of aggregate stock market fluctuations suggest that counterc
 ## 9. Asset fire sales (and purchases) in equity markets
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Joshua Coval
 - Erik Stafford
 ### Abstract
@@ -99,7 +99,7 @@ This paper examines institutional price pressure in equity markets by studying m
 ## 10. Affirmative obligations and market making with inventory
 ### Date
 - Nov 2006
-### Authors
+### Author
 - Marios A. Panayides
 ### Abstract
 Existing empirical studies provide little support for the theoretical prediction that market makers rebalance their inventory through revisions of quoted prices. This study provides evidence that the NYSE's specialist does engage in significant inventory rebalancing, but only when not constrained by the affirmative obligation to provide liquidity imposed by the Price Continuity rule. The evidence also suggests that such obligations are associated with better market quality, but impose significant costs on the specialist. The specialist mitigates these costs through discretionary trading when the rule is not binding. These findings shed light on how exchange rules affect market makers’ behavior and market quality.
@@ -109,7 +109,7 @@ Existing empirical studies provide little support for the theoretical prediction
 ## 11. International asset pricing under segmentation and PPP deviations
 ### Date
 - Jun 2006
-### Authors
+### Author
 - Ines Chaieb
 - Vihang Errunza
 ### Abstract

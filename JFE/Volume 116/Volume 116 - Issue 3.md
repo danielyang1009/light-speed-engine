@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Juicing the dividend yield: Mutual funds and the demand for dividends
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Lawrence E. Harris
 - Samuel M. Hartzmark
 - David H. Solomon
@@ -26,7 +26,7 @@ Some mutual funds purchase stocks before dividend payments to artificially incre
 ## 3. Investment and CEO compensation under limited commitment
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Hengjie Ai
 - Rui Li
 ### Abstract
@@ -37,7 +37,7 @@ We extend the neoclassical investment model (Hayashi, 1982) to allow for limited
 ## 4. Empirical determinants of intertemporal choice
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Jeffrey R. Brown
 - Zoran Ivković
 - Scott Weisbenner
@@ -49,7 +49,7 @@ We provide new evidence on the empirical determinants of intertemporal financial
 ## 5. Generalized risk premia
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Paul Schneider
 ### Abstract
 This paper develops an optimal trading strategy explicitly linked to an agent׳s preferences and assessment of the distribution of asset returns. The price of this strategy is a portfolio of implied moments, and its expected excess returns naturally accommodate compensation for higher-order moment risk. Variance risk and the equity premium approximate it to first order and it nests cross-sectional asset pricing models such as the linear Capital Asset Pricing Model (CAPM). An empirical study in the US index market compares the investment behavior of an agent with recursive long-run risk preferences to one who merely uses an identically independently distributed time series model and takes market prices as given. The two agents exhibit very similar behavior during crises and can be distinguished mostly during calm periods.
@@ -59,7 +59,7 @@ This paper develops an optimal trading strategy explicitly linked to an agent׳s
 ## 6. The cross section of expected holding period returns and their dynamics: A present value approach
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Matthew R. Lyle
 - Charles C.Y. Wang
 ### Abstract
@@ -70,7 +70,7 @@ We provide a tractable model of firm-level expected holding period returns using
 ## 7. The adverse effects of systematic leakage ahead of official sovereign debt rating announcements
 ### Date
 - Dec 2014
-### Authors
+### Author
 - Alexander Michaelides
 - Andreas Milidonis
 - George P. Nishiotis
@@ -83,7 +83,7 @@ Rating agencies consult with local government officials several days prior to of
 ## 8. Market-wide attention, trading, and stock returns
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Yu Yuan
 ### Abstract
 Market-wide attention-grabbing events — record levels for the Dow and front-page articles about the stock market — predict the trading behavior of investors and, in turn, market returns. Both aggregate and household-level data reveal that high market-wide attention events lead investors to sell their stock holdings dramatically when the level of the stock market is high. Such aggressive selling has a negative impact on market prices, reducing market returns by 19 basis points on days following attention-grabbing events.
@@ -93,7 +93,7 @@ Market-wide attention-grabbing events — record levels for the Dow and front-pa
 ## 9. Banks׳ liability structure and mortgage lending during the financial crisis
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Jihad Dagher
 - Kazim Kazimov
 ### Abstract
@@ -104,7 +104,7 @@ We examine the impact of banks׳ exposure to market liquidity shocks through who
 ## 10. Do property rights matter? Evidence from a property law enactment
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Daniel Berkowitz
 - Chen Lin
 - Yue Ma

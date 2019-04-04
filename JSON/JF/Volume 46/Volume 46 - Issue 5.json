@@ -1,0 +1,239 @@
+{
+    "journal": "JF",
+    "volume": "46",
+    "issue": "5",
+    "date": "December 1991",
+    "page": "Pages: i-vi, 1575-1956, vii-lii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00657.x"
+        },
+        {
+            "no": "2",
+            "title": "Efficient Capital Markets: II",
+            "date": "December 1991",
+            "author": [
+                "EUGENE F. FAMA"
+            ],
+            "abstract": "Sequels are rarely as good as the originals, so I approach this review of the market efficiency literature with trepidation. The task is thornier than it was 20 years ago, when work on efficiency was rather new. The literature is now so large that a full review is impossible, and is not attempted here. Instead, I discuss the work that I find most interesting, and I offer my views on what we have learned from the research on market efficiency.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04636.x"
+        },
+        {
+            "no": "3",
+            "title": "Debt, Agency Costs, and Industry Equilibrium",
+            "date": "December 1991",
+            "author": [
+                "VOJISLAV MAKSIMOVIC",
+                "JOSEF ZECHNER"
+            ],
+            "abstract": "We show that risk characteristics of projects' cash flows are endogenously determined by the investment decisions of all firms in an industry. As a result, in reasonable settings, financial structures which create incentives to expropriate debtholders by increasing risk are shown not to reduce value in an industry equilibrium. Without taxes, capital structure is irrelevant for individual firms despite its effect on the equityholders' incentives, but the maximum total amount of debt in the industry is determinate. Allowing for a corporate tax advantage of debt, capital structure becomes relevant but firms are indifferent between distinct alternative debt levels.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04637.x"
+        },
+        {
+            "no": "4",
+            "title": "Optimal Financial Instruments",
+            "date": "December 1991",
+            "author": [
+                "JAIME F. ZENDER"
+            ],
+            "abstract": "Debt and equity are developed as optimal financial instruments in a model where cash flows and control rights are allocated to investors endogenously. When investment decisions must be made by a single party, the debtholder's cash flows are fixed in order to provide the equityholder with efficient incentives for investment. Ownership of control may be transferred to the debtholder to attenuate the impact of asymmetric information, concerning the investment opportunity, on the efficiency of the decision making.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04638.x"
+        },
+        {
+            "no": "5",
+            "title": "Stock Prices and the Supply of Information",
+            "date": "December 1991",
+            "author": [
+                "MICHAEL J. BRENNAN",
+                "PATRICIA J. HUGHES"
+            ],
+            "abstract": "We develop a model in which the dependence of the brokerage commission rate on share price provides an incentive for brokers to produce research reports on firms with low share prices. Stock splits therefore affect the attention paid to a firm by investment analysts. Managers with favorable private information about their firms have an incentive to split their firm's shares in order to reveal the information to investors. We find empirical evidence that is consistent with the major new prediction of the model, that the number of analysts following a firm is inversely related to its share price.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04639.x"
+        },
+        {
+            "no": "6",
+            "title": "The Effect of Business Risk on Corporate Capital Structure: Theory and Evidence",
+            "date": "December 1991",
+            "author": [
+                "JAYANT R. KALE",
+                "THOMAS H. NOE",
+                "GABRIEL G. RAM\u00ccREZ"
+            ],
+            "abstract": "Under corporate and personal taxation, we demonstrate that the relation between optimal debt level and business risk is roughly U\u2010shaped. This result follows from the fact that the tax liability is an option portfolio that is long in the corporate tax option and short in the personal tax option. Therefore, the net effect of a change in business risk on the optimal debt level depends upon the relative magnitudes of the resultant marginal changes in the values of these two options. Results of empirical tests offer support for the predicted U\u2010shaped relationship.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04640.x"
+        },
+        {
+            "no": "7",
+            "title": "On the Good News in Equity Carve\u2010Outs",
+            "date": "December 1991",
+            "author": [
+                "VIKRAM NANDA"
+            ],
+            "abstract": "The announcement of the sale of equity in a wholly owned subsidiary of a corporation is received by the market as good news about the value of the existing equity in the parent corporation. This is in stark contrast to announcements of other forms of public equity financing. We show that the apparent inconsistency between the market response to equity carve\u2010out announcements and other forms of equity financing can be easily understood in the Myers and Majluf (1984) framework. It is shown that firms that resort to an equity carve\u2010out will be firms that, on average, are being undervalued by the market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04641.x"
+        },
+        {
+            "no": "8",
+            "title": "Fundamentals and Stock Returns in Japan",
+            "date": "December 1991",
+            "author": [
+                "LOUIS K. C. CHAN",
+                "YASUSHI HAMAO",
+                "JOSEF LAKONISHOK"
+            ],
+            "abstract": "This paper relates cross\u2010sectional differences in returns on Japanese stocks to the underlying behavior of four variables: earnings yield, size, book to market ratio, and cash flow yield. Alternative statistical specifications and various estimation methods are applied to a comprehensive, high\u2010quality data set that extends from 1971 to 1988. The sample includes both manufacturing and nonmanufacturing firms, companies from both sections of the Tokyo Stock Exchange, and also delisted securities. Our findings reveal a significant relationship between these variables and expected returns in the Japanese market. Of the four variables considered, the book to market ratio and cash flow yield have the most significant positive impact on expected returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04642.x"
+        },
+        {
+            "no": "9",
+            "title": "Volatility, Efficiency, and Trading: Evidence from the Japanese Stock Market",
+            "date": "December 1991",
+            "author": [
+                "YAKOV AMIHUD",
+                "HAIM MENDELSON"
+            ],
+            "abstract": "We study the joint effect of the trading mechanism and the time at which transactions take place on the behavior of stock returns using data from Japan. The Tokyo Stock Exchange employs a periodic clearing procedure twice a day, at the opening of both the morning and the afternoon sessions. This enables us to discern the effect of the clearing mechanism from the effect of the overnight trading halt. While the periodic clearing at the beginning of the trading day is noisy and inefficient, the midday clearing transaction appears to be no worse than the two closing transactions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04643.x"
+        },
+        {
+            "no": "10",
+            "title": "A Transactions Data Test of Stock Index Futures Market Efficiency and Index Arbitrage Profitability",
+            "date": "December 1991",
+            "author": [
+                "Y. PETER CHUNG"
+            ],
+            "abstract": "This paper investigates the efficiency of the market for stock index futures and the profitability of index arbitrage for The Chicago Board of Trade's Major Market Index contracts. The spot value of the index is computed with transactions prices for the component shares of the index obtained from the Fitch database. The tests account for transaction costs, execution lags, and the uptick rule for short sales of stocks. Results indicate that the size and frequency of boundary violations are substantially smaller than those reported by earlier studies and have declined sharply with time.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04644.x"
+        },
+        {
+            "no": "11",
+            "title": "Dynamic Stock Markets with Multiple Assets: An Experimental Analysis",
+            "date": "December 1991",
+            "author": [
+                "JOHN O'BRIEN",
+                "SANJAY SRIVASTAVA"
+            ],
+            "abstract": "We study the performance of the rational expectations hypothesis in multiperiod experimental markets with multiple assets. We find that the markets are generally inefficient from the point of view of full information aggregation. However, arbitrage relationships hold, and it is not possible to detect the informational inefficiency by using some standard tests of market efficiency. These findings suggest that the lack of arbitrage opportunities and the failure of common tests to reject inefficiency are not sufficient to conclude that a market is informationally efficient.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04645.x"
+        },
+        {
+            "no": "12",
+            "title": "Chaos and Nonlinear Dynamics: Application to Financial Markets",
+            "date": "December 1991",
+            "author": [
+                "DAVID A. HSIEH"
+            ],
+            "abstract": "After the stock market crash of October 19, 1987, interest in nonlinear dynamics, especially deterministic chaotic dynamics, has increased in both the financial press and the academic literature. This has come about because the frequency of large moves in stock markets is greater than would be expected under a normal distribution. There are a number of possible explanations. A popular one is that the stock market is governed by chaotic dynamics. What exactly is chaos and how is it related to nonlinear dynamics? How does one detect chaos? Is there chaos in financial markets? Are there other explanations of the movements of financial prices other than chaos? The purpose of this paper is to explore these issues.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04646.x"
+        },
+        {
+            "no": "13",
+            "title": "The Pricing of Default\u2010free Interest Rate Cap, Floor, and Collar Agreements",
+            "date": "December 1991",
+            "author": [
+                "ERIC BRIYS",
+                "MICHEL CROUHY",
+                "RAINER SCH\u00d6BEL"
+            ],
+            "abstract": "The paper focuses on the valuation of caps, floors, and collars in a contingent claim framework under continuous time. These instruments are interpreted as options on traded zero coupon bonds. The bond prices themselves are used as the underlying stochastic variables. This has the advantage that we end up with closed form solutions which are easy to compute. Special attention is devoted to the choice of the stochastic process appropriate for the price dynamics of the underlying zero coupon bonds.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04647.x"
+        },
+        {
+            "no": "14",
+            "title": "Path Dependent Options: The Case of Lookback Options",
+            "date": "December 1991",
+            "author": [
+                "ANTOINE CONZE",
+                "VISWANATHAN"
+            ],
+            "abstract": "Lookback options are path dependent contingent claims whose payoffs depend on the extrema of a given security's price over a certain period of time. Using probabilistic tools, we derive explicit formulas for various European lookback options, and provide some results about their American counterparts.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04648.x"
+        },
+        {
+            "no": "15",
+            "title": "New Evidence on The January Effect Before Personal Income Taxes",
+            "date": "December 1991",
+            "author": [
+                "STEVEN L. JONES",
+                "WINSON LEE",
+                "RUDOLF APENBRINK"
+            ],
+            "abstract": "We examine the returns of stocks in Cowles Industrial Index before and after the introduction of personal income taxes in 1917. This is distinct from earlier studies because we cross\u2010sectionally analyze the relationship between the returns of the individual stocks and measures of tax\u2010loss selling potential and size. We find that excess returns at the turn\u2010of\u2010the\u2010year and for the month of January were not significant until after 1917. These results provide strong support for the tax\u2010loss selling hypothesis as an explanation for the January seasonal in the returns of small firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04649.x"
+        },
+        {
+            "no": "16",
+            "title": "The Valuation Effects of Private Placements of Convertible Debt",
+            "date": "December 1991",
+            "author": [
+                "L. PAIGE FIELDS",
+                "ERIC L. MAIS"
+            ],
+            "abstract": "Share price reactions to announcements of 61 private placements of convertible debt securities are investigated and a significant positive average abnormal return of 1.80% is documented. This unique result contrasts with the negative average abnormal return associated with public sales of convertible debt securities. The positive effect on common shareholders' wealth appears to be related to the relative size of the private issue and unrelated to the degree to which the convertible bond is \u201cout\u2010of\u2010the\u2010money\u201d at issuance.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04650.x"
+        },
+        {
+            "no": "17",
+            "title": "A Tax\u2010Tax Clientele for Inde\u2010linked Bonds: A Comment",
+            "date": "December 1991",
+            "author": [
+                "MICHAEL S. KNOLL"
+            ],
+            "abstract": "This comment describes the U.S. federal income tax treatment of corporate bonds that are indexed for inflation and argues that these bonds do not have a tax\u2010tax clientele in the United States.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04651.x"
+        },
+        {
+            "no": "18",
+            "title": "Book Reviews",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nAsymmetric Information, Corporate Finance, and Investment. By R. GLENN HUBBARD. Chicago: The University of Chicago Press, 1990. Pp. ix + 343.\nJapanese Takeovers: The Global Contest for Corporate Control. By W. CARL KESTER. Boston: Harvard Business School Press, 1991. Pp. xxii + 298.\nBreaking Financial Boundaries: Global Capital, National Deregulation, and Financial Services Firms. By DAVID M. MEERSCHWAM. Boston, MA: Harvard Business School Press, 1991. Pp. ix + 306.\nThe S&L Debacle: Public Policy Lessons for Bank and Thrift Regulation. by LAWRENCE J. WHITE. New York, Oxford: Oxford University Press, 1991. Pp. xiv + 308.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04652.x"
+        },
+        {
+            "no": "19",
+            "title": "MISCELLANEA",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04653.x"
+        },
+        {
+            "no": "20",
+            "title": "INDEX TO VOLUME XLVI",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00658.x"
+        },
+        {
+            "no": "21",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04634.x"
+        },
+        {
+            "no": "22",
+            "title": "ANNOUNCEMENTS",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb04635.x"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "December 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00659.x"
+        }
+    ]
+}

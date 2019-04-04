@@ -1,0 +1,223 @@
+{
+    "journal": "JF",
+    "volume": "19",
+    "issue": "3",
+    "date": "September 1964",
+    "page": "Pages: i-viii, 425-606, ix-xxiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb00353.x"
+        },
+        {
+            "no": "2",
+            "title": "[Photograph]: Benjamin Haggott Beckhart, Seventh President of the American Finance Association, 1948",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb00354.x"
+        },
+        {
+            "no": "3",
+            "title": "CAPITAL ASSET PRICES: A THEORY OF MARKET EQUILIBRIUM UNDER CONDITIONS OF RISK*",
+            "date": "September 1964",
+            "author": [
+                "William F. Sharpe"
+            ],
+            "abstract": "I. Introduction\nOne of the problems which has plagued those attempting to predict the behavior of capital markets is the absence of a body of positive microeconomic theory dealing with conditions of risk. Although many useful insights can be obtained from the traditional models of investment under conditions of certainty, the pervasive influence of risk in financial transactions has forced those working in this area to adopt models of price behavior which are little more than assertions. A typical classroom explanation of the determination of capital asset prices, for example, usually begins with a careful and relatively rigorous description of the process through which individual preferences and physical relationships interact to determine an equilibrium pure interest rate. This is generally followed by the assertion that somehow a market risk\u2010premium is also determined, with the prices of assets adjusting accordingly to account for differences in their risk.\nA useful representation of the view of the capital market implied in such discussions is illustrated in Figure 1. In equilibrium, capital asset prices have adjusted so that the investor, if he follows rational procedures (primarily diversification), is able to attain any desired point along a capital market line.1\n1 Although some discussions are also consistent with a non\u2010linear (but monotonic) curve.\n\nHe may obtain a higher expected rate of return on his holdings only by incurring additional risk. In effect, the market presents him with two prices: the price of time, or the pure interest rate (shown by the intersection of the line with the horizontal axis) and the price of risk, the additional expected return per unit of risk borne (the reciprocal of the slope of the line).\nAt present there is no theory describing the manner in which the price of risk results from the basic influences of investor preferences, the physical attributes of capital assets, etc. Moreover, lacking such a theory, it is difficult to give any real meaning to the relationship between the price of a single asset and its risk. Through diversification, some of the risk inherent in an asset can be avoided so that its total risk is obviously not the relevant influence on its price; unfortunately little has been said concerning the particular risk component which is relevant.\nFigure 1\nOpen in figure viewerPowerPoint\nIn the last ten years a number of economists have developed normative models dealing with asset choice under conditions of risk. Markowltz,2\n2 Harry M. Markowitz, Portfolio Selection, Efficient Diversification of Investments (New York: John Wiley and Sons, Inc., 1959). The major elements of the theory first appeared in his article \u201cPortfolio Selection,\u201d The Journal of Finance, XII (March 1952), 77\u201391.\n\nfollowing Von Neumann and Morgenstern, developed an analysis based on the expected utility maxim and proposed a general solution for the portfolio selection problem. Tobin3\n3 James Tobin, \u201cLiquidity Preference as Behavior Towards Risk,\u201d The Review of Economic Studies, XXV (February, 1958), 65\u201386.\n\nshowed that under certain conditions Markowitz's model implies that the process of investment choice can be broken down into two phases: first, the choice of a unique optimum combination of risky assets; and second, a separate choice concerning the allocation of funds between such a combination and a single riskless asset. Recently, Hicks4\n4 John R. Hicks, \u201cLiquidity,\u201d The Economic Journal, LXXII (December, 1962), 787\u2013802.\n\nhas used a model similar to that proposed by Tobin to derive corresponding conclusions about individual investor behavior, dealing somewhat more explicitly with the nature of the conditions under which the process of investment choice can be dichotomized. An even more detailed discussion of this process, including a rigorous proof in the context of a choice among lotteries has been presented by Gordon and Gangolli.5\n5 M. J. Gordon and Ramesh Gangolli, \u201cChoice Among and Scale of Play on Lottery Type Alternatives,\u201d College of Business Administration, University of Rochester, 1962. For another discussion of this relationship see W. F. Sharpe, \u201cA Simplified Model for Portfolio Analysis,\u201d Management Science, Vol. 9, No. 2 (January 1963), 277\u2013293. A related discussion can be found in F. Modigliani and M. H. Miller, \u201cThe Cost of Capital, Corporation Finance, and the Theory of Investment,\u201d The American Economic Review, XLVIII (June 1958), 261\u2013297.\n\nAlthough all the authors cited use virtually the same model of investor behavior,6\n6 Recently Hirshleifer has suggested that the mean\u2010variance approach used in the articles cited is best regarded as a special case of a more general formulation due to Arrow. See Hirshleifer's \u201cInvestment Decision Under Uncertainty,\u201d Papers and Proceedings of the Seventy\u2010Sixth Annual Meeting of the American Economic Association, Dec. 1963, or Arrow's \u201cLe Role des Valeurs Boursieres pour la Repartition la Meilleure des Risques,\u201d International Colloquium on Econometrics, 1952.\n\nnone has yet attempted to extend it to construct a market equilibrium theory of asset prices under conditions of risk.7\n7 After preparing this paper the author learned that Mr. Jack L. Treynor, of Arthur D. Little, Inc., had independently developed a model similar in many respects to the one described here. Unfortunately Mr. Treynor's excellent work on this subject is, at present, unpublished.\n\nWe will show that such an extension provides a theory with implications consistent with the assertions of traditional financial theory described above. Moreover, it sheds considerable light on the relationship between the price of an asset and the various components of its overall risk. For these reasons it warrants consideration as a model of the determination of capital asset prices.\nPart II provides the model of individual investor behavior under conditions of risk. In Part III the equilibrium conditions for the capital market are considered and the capital market line derived. The implications for the relationship between the prices of individual capital assets and the various components of risk are described in Part IV.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02865.x"
+        },
+        {
+            "no": "4",
+            "title": "SOME RECENT CHANGES IN THE EURO\u2010DOLLAR SYST",
+            "date": "September 1964",
+            "author": [
+                "Paul Einzig"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02866.x"
+        },
+        {
+            "no": "5",
+            "title": "TRENDS IN THE VOLUME AND COMPOSITION OF EQUITY FINANCE*",
+            "date": "September 1964",
+            "author": [
+                "Arnold W. Sametz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02867.x"
+        },
+        {
+            "no": "6",
+            "title": "THE AUCTION OF LONG\u2010TERM GOVERNMENT SECURITIES",
+            "date": "September 1964",
+            "author": [
+                "Robert E. Berney"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02868.x"
+        },
+        {
+            "no": "7",
+            "title": "COMPENSATING\u2010BALANCE REQUIREMENTS: THE RESULTS OF A SURVEY*",
+            "date": "September 1964",
+            "author": [
+                "Nevins D. Baxter",
+                "Harold T. Shapiro"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02869.x"
+        },
+        {
+            "no": "8",
+            "title": "THE COMMISSION ON MONEY AND CREDIT'S RESEARCH STUDIES: A COLLECTIVE REVIEW ARTICLE",
+            "date": "September 1964",
+            "author": [
+                "David A. Alhadeff",
+                "Peter L. Bernstein",
+                "Colin D. Campbell",
+                "Lester V. Chandler",
+                "Edward C. Ettin",
+                "Victor R. Farhi",
+                "Jack M. Guttentag",
+                "Henry A. Latan\u00e9",
+                "Kenyon E. Poole"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02870.x"
+        },
+        {
+            "no": "9",
+            "title": "OPEN MARKET OPERATIONS AND RESERVE SETTLEMENT PERIODS: A PROPOSED EXPERIMENT*",
+            "date": "September 1964",
+            "author": [
+                "Albert H. Cox Jr.",
+                "Ralph F. Leach"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02871.x"
+        },
+        {
+            "no": "10",
+            "title": "MEMBER BANK RESERVE SETTLEMENT PERIODS: A FURTHER COMMENT",
+            "date": "September 1964",
+            "author": [
+                "Peter D. Sternlight"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02872.x"
+        },
+        {
+            "no": "11",
+            "title": "THE IMPLICATIONS OF TRIANGULAR ARBITRAGE FOR FORWARD EXCHANGE POLICY*",
+            "date": "September 1964",
+            "author": [
+                "Henry N. Goldstein"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02873.x"
+        },
+        {
+            "no": "12",
+            "title": "TRIANGULAR ARBITRAGE AND FORWARD EXCHANGE POLICY: REPLY",
+            "date": "September 1964",
+            "author": [
+                "Herbert G. Grubel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02874.x"
+        },
+        {
+            "no": "13",
+            "title": "THE IMPACT ON THE STRENGTH OF MONETARY CONTROLS OF ASSET SHIFTS INVOLVING INTERMEDIARY CLAIMS*",
+            "date": "September 1964",
+            "author": [
+                "Arthur Benavie"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02875.x"
+        },
+        {
+            "no": "14",
+            "title": "MONETARY CONTROL AND THE DISTRIBUTION OF MONEY*",
+            "date": "September 1964",
+            "author": [
+                "William G. Dewald"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02876.x"
+        },
+        {
+            "no": "15",
+            "title": "AN EXAMINATION OF THE INFLUENCE OF DEPOSIT BEHAVIOR ON THE PERFORMANCE OF COMMERCIAL BANKS' ASSETS*",
+            "date": "September 1964",
+            "author": [
+                "Clair Neil McRostie"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02877.x"
+        },
+        {
+            "no": "16",
+            "title": "THE INTEREST ELASTICITY OF THE RATIO OF FIXED INVESTMENT TO NATIONAL INCOME AS ESTIMATED FROM ENGINEERING PAYOUT STUDIES*",
+            "date": "September 1964",
+            "author": [
+                "Mark Liddell Wehle"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02878.x"
+        },
+        {
+            "no": "17",
+            "title": "BOOK REVIEWS",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nBusiness Finance and Investments: The Effect of Capital Structure on the Cost of Capital. By Alexander Barges.\nCapital Sources. By William C. Hanson.\nWorking Capital. By Colin Park and John W. Gladson.\nWealth, Income and Intangibles. By J. E. Sands.\nCapital and Rates of Return in Manufacturing Industries. By George J. Stigler.\nInternational Finance: The Euro\u2010Dollar System. By Paul Einzig.\nThe Dollar Crisis. By Nasrollah S. Fatemi\nWorld Monetary Reform: Plans and Issues. Edited by Herbert G. Grubel.\nMoney and Banking and Financial Institutions: Federal Reserve Policy Reappraised, 1951\u201359. By Daniel S. Ahearn.\nBanking and Monetary Studies. Edited by Deane Carson.\nMoney. By M. L. Burstein.\nCentral Banking and Economic Development. By Lester V. Chandler.\nThe Economics of the Credit Union. By John T. Croteau.\nThe Economics of Banking Operations: A Canadian Study. By John Alexander Galbraith.\nCommercial Bank Loan and Investment Policy. By Donald R. Hodgman.\nCommercial Bank Management. By Edward W. Reed.\nMoney and Capital Markets. By Roland I. Robinson.\nPublic Finance: Taxation and Economic Development in Tropical Africa. By John F. Due.\nGovernment Finance: An Economic Analysis. By John F. Due.\nThe Shifting of the Corporation Income Tax\u2014An Empirical Study of Its Short\u2010Run Effect on the Rate of Return. By Marian Krzyzaniak and Richard A. Musgrave.\nPublic Finance. By Ansel M. Sharp and Bernard F. Sliger.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02879.x"
+        },
+        {
+            "no": "18",
+            "title": "BOOKS RECEIVED",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02880.x"
+        },
+        {
+            "no": "19",
+            "title": "STYLE INSTRUCTIONS",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02881.x"
+        },
+        {
+            "no": "20",
+            "title": "ANNUAL MEETING OF THE AMERICAN FINANCE ASSOCIATION",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02882.x"
+        },
+        {
+            "no": "21",
+            "title": "STUDENT CHAPTERS OF THE AMERICAN FINANCE ASSOCIATION",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb02883.x"
+        },
+        {
+            "no": "22",
+            "title": "Back Matter",
+            "date": "September 1964",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1964.tb00355.x"
+        }
+    ]
+}

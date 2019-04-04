@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Asset pricing and the bid-ask spread
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Yakov Amihud
 - Haim Mendelson
 ### Abstract
@@ -25,7 +25,7 @@ This paper studies the effect of the bid-ask spread on asset pricing. We analyze
 ## 3. The valuation of floating-rate instruments
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Krishna Ramaswamy
 - Suresh M. Sundaresan
 ### Abstract
@@ -36,7 +36,7 @@ A framework for valuing floating-rate notes is developed to examine the effects 
 ## 4. Compensation and wealth transfers in the French nationalizations 1981–1982
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Herwig M. Langohr
 - Claude J. Viallet
 ### Abstract
@@ -47,7 +47,7 @@ This paper studies the price reaction of French common stocks to the recent nati
 ## 5. A test of dividend irrelevance using volume reactions to a change in dividend policy
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Gordon Richardson
 - Stephan E. Sefcik
 - Rex Thompson
@@ -59,7 +59,7 @@ We investigate the implication of clientele theories that changes in dividend po
 ## 6. Empirical determinants of the relative yields on taxable and tax-exempt securities
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Stephen A. Buser
 - Patrick J. Hess
 ### Abstract
@@ -70,7 +70,7 @@ Yields on short-term prime-grade municipals vary through time in relation to aft
 ## 7. Predicting returns in the stock and bond markets
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Donald B. Keim
 - Robert F. Stambaugh
 ### Abstract
@@ -81,7 +81,7 @@ Several predetermined variables that reflect levels of bond and stock prices app
 ## 8. Return seasonality and tax-loss selling in the market for long-term government and corporate bonds
 ### Date
 - Dec 1986
-### Authors
+### Author
 - Eric C. Chang
 - J.Michael Pinegar
 ### Abstract
@@ -92,7 +92,7 @@ We document a January seasonal in the U.S. market for long-term corporate bonds 
 ## 9. News items
 ### Date
 - Dec 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -101,7 +101,7 @@ We document a January seasonal in the U.S. market for long-term corporate bonds 
 ## 10. Index
 ### Date
 - Dec 1986
-### Authors
+### Author
 ### Abstract
 
 ### Link

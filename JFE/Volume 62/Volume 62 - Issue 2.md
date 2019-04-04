@@ -5,7 +5,7 @@
 ## 1. An equilibrium model of irreversible investment
 ### Date
 - Nov 2001
-### Authors
+### Author
 - Leonid Kogan
 ### Abstract
 This paper presents a general equilibrium model of a two-sector production economy with irreversible real investment. Irreversibility of investment is the most prominent feature of the productive sector. It restricts capital accumulation, affecting firms’ investment decisions, which in turn determine properties of asset prices. Thus, this model provides a framework for connecting stock returns to firm characteristics that proxy for real economic activity. The primary focus of this paper is on the analysis of the equilibrium and the effects of irreversibility of investment.
@@ -15,7 +15,7 @@ This paper presents a general equilibrium model of a two-sector production econo
 ## 2. Convergence trading with wealth effects: an amplification mechanism in financial markets
 ### Date
 - Nov 2001
-### Authors
+### Author
 - Wei Xiong
 ### Abstract
 I study convergence traders with logarithmic utility in a continuous-time equilibrium model. In general, convergence traders reduce asset price volatility and provide liquidity by taking risky positions against noise trading. However, when an unfavorable shock causes them to suffer capital losses, thus eroding their risk-bearing capacity, they liquidate their positions, thereby amplifying the original shock. In extreme circumstances, this wealth effect causes convergence traders to be destabilizing in that they trade in exactly the same direction as noise traders. This situation is consistent with the near-collapse of Long-Term Capital Management in 1998.
@@ -25,7 +25,7 @@ I study convergence traders with logarithmic utility in a continuous-time equili
 ## 3. Extracting factors from heteroskedastic asset returns
 ### Date
 - Nov 2001
-### Authors
+### Author
 - Christopher S Jones
 ### Abstract
 This paper proposes an alternative to the asymptotic principal components procedure of Connor and Korajczyk (J. Financial Econom. 15 (1986) 373) that is robust to time series heteroskedasticity in the factor model residuals. The new method is simple to use and requires no assumptions stronger than those made by Connor and Korajczyk. It is demonstrated through simulations and analysis of actual stock market data that allowing heteroskedasticity sometimes improves the quality of the extracted factors quite dramatically. Over the period from 1989 to 1993, for example, a single factor extracted using the Connor and Korajczyk method explains only 8.2% of the variation of the CRSP value-weighted index, while the factor extracted allowing heteroskedasticity explains 57.3%. Accounting for heteroskedasticity is also important for tests of the APT, with p-values sometimes depending strongly on the factor extraction method used.
@@ -35,7 +35,7 @@ This paper proposes an alternative to the asymptotic principal components proced
 ## 4. Evaluating the specification errors of asset pricing models
 ### Date
 - Nov 2001
-### Authors
+### Author
 - Robert J. Hodrick
 - Xiaoyan Zhang
 ### Abstract
@@ -46,7 +46,7 @@ This paper evaluates the specification errors of several empirical asset pricing
 ## 5. The performance of professional market timers: daily evidence from executed strategies
 ### Date
 - Nov 2001
-### Authors
+### Author
 - Don M Chance
 - Michael L Hemler
 ### Abstract

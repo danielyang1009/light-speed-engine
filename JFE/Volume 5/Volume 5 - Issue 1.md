@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Aug 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Risk-adjusted discount rates and capital budgeting under uncertainty
 ### Date
 - Aug 1977
-### Authors
+### Author
 - Eugene F. Fama
 ### Abstract
 This paper is concerned with the valuation of multiperiod cash flows in a world where prices are determined according to the Sharpe-Lintner-Black model of capital market equilibrium. We find that the current market value of any future net cash flow is the current expected value of the flow discounted at risk-adjusted discount rates for each of the periods until the flow is realized. The discount rates are known and non-stochastic, but the rates for the different periods preceding the realization of a cash flow need not to be the same, and the rates relevant for a given period can differ across cash flows. The risk adjustments in the discount rates arise because of uncertainties about reassessments through time of the expected value of a flow and the relationships between these reassessments and the corresponding reassessments of the expected cash flows of all firms.
@@ -33,7 +33,7 @@ This paper is concerned with the valuation of multiperiod cash flows in a world 
 ## 4. Efficient portfolio choice with differential taxation of dividends and capital gains
 ### Date
 - Aug 1977
-### Authors
+### Author
 - John B. Long
 ### Abstract
 A simple, necessary and sufficient condition is derived under which portfolios that are mean-variance efficient on a before-tax basis are also efficient on an after-tax basis and vice-versa. Under this condition and the hypothesis that investors demand after-tax efficient portfolios, the ‘no-tax’ form of the Capital Asset Pricing Model provides an accurate description of equilibrium asset returns even though investors in the economy may be subject to a wide variety of tax rates on dividends and capital gains. Evidence reported by Black and Scholes (1974), however, makes the condition for equivalence of before and after-tax efficiency empirically implausible. The paper thus concludes with a characterization of some essential differences between before and after-tax efficient portfolios and of the after-tax efficiency losses associated with before-tax efficient portfolios. The relation of these results to the issue of corporate dividend policy choices is also discussed.
@@ -43,7 +43,7 @@ A simple, necessary and sufficient condition is derived under which portfolios t
 ## 5. Spot rates, forward rates and exchange market efficiency
 ### Date
 - Aug 1977
-### Authors
+### Author
 - Bradford Cornell
 ### Abstract
 This paper examines the relationship between forward exchange rates and subsequently observed spot rates. No evidence is found for a liquidity premium on forward exchange, indicating that the forward rate can be used as a proxy of the market's expectations and that open exchange positions involve little systematic risk. It is also shown that forward exhange is priced as if the exchange rate could be characterized by a diffusion process with a trend, although there is some evidence such a process does not adequately characterize the exchange rate in all cases.
@@ -53,7 +53,7 @@ This paper examines the relationship between forward exchange rates and subseque
 ## 6. Savings bonds, retractable bonds and callable bonds
 ### Date
 - Aug 1977
-### Authors
+### Author
 - Michael J. Brennan
 - Eduardo S. Schwartz
 ### Abstract
@@ -64,7 +64,7 @@ Savings bonds, retractable bonds and callable bonds are each equivalent to a str
 ## 7. The effect of limited information and estimation risk on optimal portfolio diversification
 ### Date
 - Aug 1977
-### Authors
+### Author
 - Roger W. Klein
 - Vijay S. Bawa
 ### Abstract

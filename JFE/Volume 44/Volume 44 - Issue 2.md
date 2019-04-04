@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - May 1997
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Book-to-market, dividend yield, and expected market returns: A time-series analysis
 ### Date
 - May 1997
-### Authors
+### Author
 - S.P. Kothari
 - Jay Shanken
 ### Abstract
@@ -26,7 +26,7 @@ We find reliable evidence that both book-to-market (B M) and dividend yield trac
 ## 3. The decline of takeovers and disciplinary managerial turnover
 ### Date
 - May 1997
-### Authors
+### Author
 - Wayne H. Mikkelson
 - M.Megan Partch
 ### Abstract
@@ -37,7 +37,7 @@ We compare top management turnover in unacquired U.S. industrial companies durin
 ## 4. Inside directors, board effectiveness, and shareholder wealth
 ### Date
 - May 1997
-### Authors
+### Author
 - Stuart Rosenstein
 - Jeffrey G. Wyatt
 ### Abstract
@@ -48,7 +48,7 @@ We investigate whether inside managers are added to corporate boards for efficie
 ## 5. An empirical examination of basic valuation models for plain vanilla U.S. interest rate swaps
 ### Date
 - May 1997
-### Authors
+### Author
 - Bernadette A. Minton
 ### Abstract
 This paper examines empirical implications of recently developed models for pricing contracts that swap fixed- for variable-rate interest payment streams. Valuation models based on replicating portfolios of consecutive three-month Eurodollar futures contracts that span the life of the swap perform relatively well, as do pricing models based on replicating portfolios of noncallable corporate par bonds. Neither set of models, however, is completely empirically consistent with the implications of differential counterparty risks. These anomalous results call into question the appropriateness of either the simplifying assumptions of the arbitrage-based models or the proxies used for counter-party default risk.

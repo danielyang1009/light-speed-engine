@@ -1,0 +1,279 @@
+{
+    "journal": "JF",
+    "volume": "45",
+    "issue": "2",
+    "date": "June 1990",
+    "page": "Pages: i-vi, 321-708, vii-xxvi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb00381.x"
+        },
+        {
+            "no": "2",
+            "title": "Capital Structure and the Informational Role of Debt",
+            "date": "June 1990",
+            "author": [
+                "MILTON HARRIS",
+                "ARTUR RAVIV"
+            ],
+            "abstract": "This paper provides a theory of capital structure based on the effect of debt on investors' information about the firm and on their ability to oversee management. We postulate that managers are reluctant to relinquish control and unwilling to provide information that could result in such an outcome. Debt is a disciplining device because default allows creditors the option to force the firm into liquidation and generates information useful to investors. We characterize the time path of the debt level and obtain comparative statics results on the debt level, bond yield, probability of default, probability of reorganization, etc.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03693.x"
+        },
+        {
+            "no": "3",
+            "title": "Corporate Financial Policy and the Theory of Financial Intermediation",
+            "date": "June 1990",
+            "author": [
+                "JAMES K. SEWARD"
+            ],
+            "abstract": "This paper examines the optimal structure of financial contracts in an economy subject to two forms of moral hazard. Multiple information problems are shown to generate a role for multiple classes of financial claimants. We then show that economic efficiency is enhanced if the financial structure of the economy consists of both direct and intermediated financial contract markets. Consequently, our results demonstrate a motivation for the complementarity between capital markets and depository financial institutions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03694.x"
+        },
+        {
+            "no": "4",
+            "title": "Positive Feedback Investment Strategies and Destabilizing Rational Speculation",
+            "date": "June 1990",
+            "author": [
+                "J. BRADFORD DE LONG",
+                "ANDREI SHLEIFER",
+                "LAWRENCE H. SUMMERS",
+                "ROBERT J. WALDMANN"
+            ],
+            "abstract": "Analyses of rational speculation usually presume that it dampens fluctuations caused by \u201cnoise\u201d traders. This is not necessarily the case if noise traders follow positive\u2010feedback strategies\u2014buy when prices rise and sell when prices fall. It may pay to jump on the bandwagon and purchase ahead of noise demand. If rational speculators' early buying triggers positive\u2010feedback trading, then an increase in the number of forward\u2010looking speculators can increase volatility about fundamentals. This model is consistent with a number of empirical observations about the correlation of asset returns, the overreaction of prices to news, price bubbles, and expectations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03695.x"
+        },
+        {
+            "no": "5",
+            "title": "Are the Latent Variables in Time\u2010Varying Expected Returns Compensation for Consumption Risk?",
+            "date": "June 1990",
+            "author": [
+                "WAYNE E. FERSON"
+            ],
+            "abstract": "Multibeta asset pricing models are examined using proxies for economic state variables in a framework which exploits time\u2010varying expected returns to estimate conditional betas. Examples include multiple consumption\u2010beta models and models where asset returns proxy for the state variables. When the state variables are not specified, the tests indicate two or three time\u2010varying expected risk premiums in the sample of quarterly asset returns. Conditional betas relative to consumption generate less striking evidence against the model than betas relative to asset returns, but both the consumption and the market variables fail to proxy for the state variables.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03696.x"
+        },
+        {
+            "no": "6",
+            "title": "Empirical Estimates of Beta When Investors Face Estimation Risk",
+            "date": "June 1990",
+            "author": [
+                "PETER M. CLARKSON",
+                "REX THOMPSON"
+            ],
+            "abstract": "We examine empirical implications of models of differential information that formalize the following intuition: securities for which there is relatively little information are perceived as relatively more risky because of the greater uncertainty surrounding the exact parameters of their return distributions. The implication that beta risk for low information firms should decline as information increases is confirmed with several data sets. We find such a decline over the first several periods subsequent to initial public offerings and initial listings. There is also an abrupt risk decline at the first annual earnings announcement.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03697.x"
+        },
+        {
+            "no": "7",
+            "title": "Anomalous Price Behavior Around Repurchase Tender Offers",
+            "date": "June 1990",
+            "author": [
+                "JOSEF LAKONISHOK",
+                "THEO VERMAELEN"
+            ],
+            "abstract": "This paper reports anomalous price behavior around repurchase tender offers. Buying shares before the expiration date of a repurchase tender offer and tendering to the firm produces, on average, abnormal returns of more than 9 percent over a period shorter than one week. In addition, we find that repurchasing companies experience economically and statistically significant abnormal returns in the two years after the repurchase. The upward price drift is mainly caused by the behavior of the small firms in the sample.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03698.x"
+        },
+        {
+            "no": "8",
+            "title": "Relative Price Variability, Real Shocks, and the Stock Market",
+            "date": "June 1990",
+            "author": [
+                "GAUTAM KAUL",
+                "H. NEJAT SEYHUN"
+            ],
+            "abstract": "In this paper, we investigate the effects of relative price variability on output and the stock market and gauge the extent to which inflation proxies for relative price variability in stock return\u2010inflation regressions. The evidence shows that the negative stock return\u2010inflation relations proxy for the adverse effects of relative price variability on economic activity, particularly during the seventies, when the U.S. experienced oil supply shocks. Hence, it appears that inflation spuriously affects the stock market in two ways: the aggregate output link of Fama (1981) and the supply shocks reflected in relative price variability.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03699.x"
+        },
+        {
+            "no": "9",
+            "title": "Evaluating the Performance of International Mutual Funds",
+            "date": "June 1990",
+            "author": [
+                "ROBERT E. CUMBY",
+                "JACK D. GLEN"
+            ],
+            "abstract": "In this paper, we examine the performance of a sample of fifteen U.S.\u2010based internationally diversified mutual funds between 1982 and 1988. Two performance measures are used, the Jensen measure and the positive period weighting measure proposed by Grinblatt and Titman. We find no evidence that the funds, either individually or as a whole, provide investors with performance that surpasses that of a broad, international equity index over this sample period.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03700.x"
+        },
+        {
+            "no": "10",
+            "title": "International Investment Restrictions and Closed\u2010End Country Fund Prices",
+            "date": "June 1990",
+            "author": [
+                "CATHERINE BONSER-NEAL",
+                "GREGGORY BRAUER",
+                "ROBERT NEAL",
+                "SIMON WHEATLEY"
+            ],
+            "abstract": "Some closed\u2010end country funds trade at large premiums relative to their net asset values. This paper examines whether international investment restrictions raise country fund price\u2010net asset value ratios by segmenting international capital markets. We test whether a relation exists between announcements of changes in investment restrictions and changes in these ratios using weekly data from May 1981 to January 1989. The results provide evidence that some foreign markets are at least partially segmented from the U.S. capital market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03701.x"
+        },
+        {
+            "no": "11",
+            "title": "Valuing Flexibility as a Complex Option",
+            "date": "June 1990",
+            "author": [
+                "ALEXANDER J. TRIANTIS",
+                "JAMES E. HODDER"
+            ],
+            "abstract": "This paper develops an approach for valuing flexible production systems using contingent claims pricing. Demand curves for our model's underlying assets (output products) may be downward sloping, in contrast with the standard option pricing assumption. Also, our marginal production(exercise) costs may be increasing. In addition, we allow for multiple products and a production capacity constraint. These elements of the model result in complex exercise decisions for the contingent claims which comprise the production system's value. We illustrate our approach by valuing a flexible system that produces two products which have profit margin functions with stochastic parameters.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03702.x"
+        },
+        {
+            "no": "12",
+            "title": "Expectations and the Treasury Bill\u2010Federal Funds Rate Spread over Recent Monetary Policy Regimes",
+            "date": "June 1990",
+            "author": [
+                "DAVID P. SIMON"
+            ],
+            "abstract": "This paper shows that the spread between the 3\u2013month Treasury bill and the federal funds rate has significant predictive power for the future change in the federal funds rate during the volatile nonborrowed reserves operating regime, but it has less and no predictive power during the borrowed reserves regime and the federal funds targeting regime, respectively. These findings suggest that Treasury bill rates forecast future federal funds rates most accurately when the Federal Reserve follows a well\u2010defined rule that does not smooth the impact of shocks on the federal funds rate.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03703.x"
+        },
+        {
+            "no": "13",
+            "title": "Statistical Properties of the Roll Serial Covariance Bid/Ask Spread Estimator",
+            "date": "June 1990",
+            "author": [
+                "LAWRENCE HARRIS"
+            ],
+            "abstract": "Exact small sample population moments of the standard serial covariance and variance estimators are derived under the assumptions of the Roll bid/ask spread model. Noise explains why serial covariance estimates are often positive in annual samples of daily and weekly returns. Small sample estimator bias partially explains why weekly estimates are more negative than daily estimates. Noise causes the Roll spread estimator to be severely biased by Jensen's inequality. The French\u2010Roll adjusted variance estimator is unbiased but noisy. Empirical tests confirm the major implications.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03704.x"
+        },
+        {
+            "no": "14",
+            "title": "An Examination of Stock Market Return Volatility During Overnight and Intraday Periods, 1964\u20131989",
+            "date": "June 1990",
+            "author": [
+                "LARRY J. LOCKWOOD",
+                "SCOTT C. LINN"
+            ],
+            "abstract": "This paper examines the variance of hourly market returns during 1964\u20131989. Results indicate that return volatility falls from the opening hour until early afternoon and rises thereafter and is significantly greater for intraday versus overnight periods. Market variance is also shown to change significantly over time, rising after NASDAQ began in 1971, rising after trading in stock options began in 1973, falling after fixed commissions were eliminated in 1975, rising after trading in stock index futures was introduced in 1982, and falling after margin requirements for stock index futures became larger in 1988.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03705.x"
+        },
+        {
+            "no": "15",
+            "title": "Corporate Control and the Choice of Investment Financing: The Case of Corporate Acquisitions",
+            "date": "June 1990",
+            "author": [
+                "YAKOV AMIHUD",
+                "BARUCH LEV",
+                "NICKOLAOS G. TRAVLOS"
+            ],
+            "abstract": "We test the proposition that corporate control considerations motivate the means of investment financing\u2014cash (and debt) or stock. Corporate insiders who value control will prefer financing investments by cash or debt rather than by issuing new stock which dilutes their holdings and increases the risk of losing control. Our empirical results support this hypothesis: in corporate acquisitions, the larger the managerial ownership fraction of the acquiring firm the more likely the use of cash financing. Also, the previously observed negative bidders' abnormal returns associated with stock financing are mainly in acquisitions made by firms with low managerial ownership.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03706.x"
+        },
+        {
+            "no": "16",
+            "title": "The Effect of Executive Stock Option Plans on Stockholders and Bondholders",
+            "date": "June 1990",
+            "author": [
+                "RICHARD A. DeFUSCO",
+                "ROBERT R. JOHNSON",
+                "THOMAS S. ZORN"
+            ],
+            "abstract": "Executive stock option plans have asymmetric payoffs that could induce managers to take on more risk. Evidence from traded call options and stock return data supports this notion. Implicit share price variance, computed from the Black\u2010Scholes option pricing model, and stock return variance increase after the approval of an executive stock option plan. The event is accompanied by a significant positive stock and a negative bond market reaction. This evidence is consistent with the notion that executive stock options may induce a wealth transfer from bondholders to stockholders.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03707.x"
+        },
+        {
+            "no": "17",
+            "title": "The Structure of Spot Rates and Immunization",
+            "date": "June 1990",
+            "author": [
+                "EDWIN J. ELTON",
+                "MARTIN J. GRUBER",
+                "RONI MICHAELY"
+            ],
+            "abstract": "Empirical studies of the modern theories of bond pricing typically choose proxies for the state variables in a rather arbitrary fashion. This paper empirically analyzes the question of the optimal spot rates to use as state variables. Our findings indicate that the four\u2010year spot rate serves as the best proxy in the one\u2010state\u2010variable model. In the case of the two\u2010state\u2010variables model, the six\u2010year rate and eight\u2010month rate are identified as best. Tests of the out\u2010of\u2010sample prediction ability indicate that our model is superior to Macaulay's duration model and alternative proxies for state variables.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03708.x"
+        },
+        {
+            "no": "18",
+            "title": "Ownership Structure, Deregulation, and Bank Risk Taking",
+            "date": "June 1990",
+            "author": [
+                "ANTHONY SAUNDERS",
+                "ELIZABETH STROCK",
+                "NICKOLAOS G. TRAVLOS"
+            ],
+            "abstract": "This paper investigates the relationship between bank ownership structure and risk taking. It is hypothesized that stockholder controlled banks have incentives to take higher risk than managerially controlled banks and that these differences in risk become more pronounced in periods of deregulation. In support of this hypothesis, we show that stockholder controlled banks exhibit significantly higher risk taking behavior than managerially controlled banks during the 1979\u20131982 period of relative deregulation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03709.x"
+        },
+        {
+            "no": "19",
+            "title": "International Interest Rates, Exchange Rates, and the Stochastic Structure of Supply",
+            "date": "June 1990",
+            "author": [
+                "GLENN W. BOYLE"
+            ],
+            "abstract": "In a dual\u2010currency, flexible exchange rate model, both nominal and real foreign exchange premia depend on investor risk attitudes, consumption parameters, and the stochastic structure of currency and commodity supplies. When supplies are random, their joint correlation structure determines the sign of the premia. If the money supplies are identically distributed, then all foreign exchange premia, regardless of the currency of denomination, are zero. A positive correlation between the value of a country's currency and its nominal interest rate need not indicate real interest rate movements. Relative bond prices can be negatively correlated with the terms of trade.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03710.x"
+        },
+        {
+            "no": "20",
+            "title": "On Viable Diffusion Price Processes of the Market Portfolio",
+            "date": "June 1990",
+            "author": [
+                "AVI BICK"
+            ],
+            "abstract": "The assumption that the market portfolio follows a specified diffusion process implies, in a simple equilibrium framework, that the representative individual must have a certain utility function which is identified in the paper. Not every diffusion process is viable, i.e., can be \u201cendogenized\u201d to be the market portfolio's price process in such an equilibrium model. The paper provides necessary and sufficient conditions for viability which imply that viable diffusion processes constitute a rather restricted family.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03711.x"
+        },
+        {
+            "no": "21",
+            "title": "An Examination of the Super Bowl Stock Market Predictor",
+            "date": "June 1990",
+            "author": [
+                "THOMAS M. KRUEGER",
+                "WILLIAM F. KENNEDY"
+            ],
+            "abstract": "Few prediction schemes have been more accurate, and at the same time more perplexing, than the Super Bowl Stock Market Predictor, which asserts that the league affiliation of the Super Bowl winner predicts stock market direction. In this study, we examine the record and statistical significance of this anomaly and demonstrate that an investor would have clearly outperformed the market by reacting to Super Bowl game outcomes.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03712.x"
+        },
+        {
+            "no": "22",
+            "title": "Book Reviews",
+            "date": "June 1990",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nShare Markets and Portfolio Theory (2nd ed). Edited by R. BALL, P. BROWN, F. J. FINN, and R. R. OFFICER.\nAn Introduction to Options and Futures. By DON M. CHANCE.\nMoney, Banking, and Credit. By DWIGHT M. JAFFEE.\nThe Economics of Uncertainty and Information. By JEAN\u2010JACQUES LAF\u2010FONT.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03713.x"
+        },
+        {
+            "no": "23",
+            "title": "MISCELLANEA",
+            "date": "June 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03714.x"
+        },
+        {
+            "no": "24",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03715.x"
+        },
+        {
+            "no": "25",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb03716.x"
+        },
+        {
+            "no": "26",
+            "title": "Back Matter",
+            "date": "June 1990",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1990.tb00382.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The effect of capital structure when expected agency costs are extreme
 ### Date
 - Jul 2003
-### Authors
+### Author
 - Campbell R. Harvey
 - Karl V. Lins
 - Andrew H. Roper
@@ -26,7 +26,7 @@ This paper conducts powerful new tests of whether debt can mitigate the effects 
 ## 3. Conditional estimation of diffusion processes
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Minqiang Li
 - Neil D. Pearson
 - Allen M. Poteshman
@@ -38,7 +38,7 @@ There are a number of circumstances in finance in which it is useful to estimate
 ## 4. Do security analysts exhibit persistent differences in stock picking ability?
 ### Date
 - Nov 2003
-### Authors
+### Author
 - Michael B. Mikhail
 - Beverly R. Walther
 - Richard H. Willis
@@ -50,7 +50,7 @@ We investigate whether security analysts exhibit persistence in their stock pick
 ## 5. The choice of equity-selling mechanisms
 ### Date
 - Aug 2003
-### Authors
+### Author
 - YiLin Wu
 ### Abstract
 This paper examines the impact of information asymmetry and monitoring of managers on the choice between public offerings and private placements. Three key findings emerge. First, private placement firms have higher information asymmetry than public offering firms. Second, private placement investors do not engage in more monitoring than public offering investors. Finally, discounts for private placements sold to managers are higher than discounts for private placements in which managers do not participate. The final two findings cast doubts on the widely held view that private placements are motivated by a demand for enhanced monitoring.
@@ -60,7 +60,7 @@ This paper examines the impact of information asymmetry and monitoring of manage
 ## 6. Earnings management and the market performance of acquiring firms
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Henock Louis
 ### Abstract
 I examine the market's efficiency in processing manipulated accounting reports and provide an explanation for the post-merger underperformance anomaly. I find strong evidence suggesting that acquiring firms overstate their earnings in the quarter preceding a stock swap announcement. I also find evidence of a reversal of the stock price effects of the earnings management in the days leading to the merger announcement. However, the pre-merger reversal is only partial. I find evidence of a post-merger reversal of the stock price effects of the pre-merger earnings management. The results suggest that the extant evidence of post-merger underperformance by acquiring firms is partly attributable to the reversal of the price effects of earnings management. The study also suggests that the post-merger reversal is not fully anticipated by financial analysts in the month immediately following the merger announcement. However, consistent with suggestions in the financial press that managers guide analysts’ forecasts to “beatable” levels, the effect of the earnings management reversal seems to be reflected in the consensus analysts’ forecasts by the time of the subsequent quarterly earnings releases.
@@ -70,7 +70,7 @@ I examine the market's efficiency in processing manipulated accounting reports a
 ## 7. Gains in bank mergers: Evidence from the bond markets
 ### Date
 - May 2003
-### Authors
+### Author
 - Marı́a Fabiana Penas
 - Haluk Unal
 ### Abstract
@@ -81,7 +81,7 @@ We present evidence that the adjusted returns of merging banks’ bonds are posi
 ## 8. A revealed preference approach to understanding corporate governance problems: Evidence from Canada
 ### Date
 - Nov 2002
-### Authors
+### Author
 - Robert S. Chirinko
 - Huntley Schaller
 ### Abstract

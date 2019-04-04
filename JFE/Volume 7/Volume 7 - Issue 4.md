@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1979
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. The market speed of adjustment to new information
 ### Date
 - Dec 1979
-### Authors
+### Author
 - S.C. Hillmer
 - P.L. Yu
 ### Abstract
@@ -26,7 +26,7 @@ A definition of market adjustment is proposed in terms of the time it takes mark
 ## 3. Liquidity preference under uncertainty: A model of dynamic investment in illiquid opportunities
 ### Date
 - Dec 1979
-### Authors
+### Author
 - Carliss Y. Baldwin
 - Richard F. Meyer
 ### Abstract
@@ -37,7 +37,7 @@ Whereas frictionless exchange markets provide a high degree of liquidity for fin
 ## 4. A note on an analytical valuation formula for unprotected American call options on stocks with known dividends
 ### Date
 - Dec 1979
-### Authors
+### Author
 - Robert Geske
 ### Abstract
 This note provides simple analytic formulas for the value of an American call option on a stock with known dividends.
@@ -47,7 +47,7 @@ This note provides simple analytic formulas for the value of an American call op
 ## 5. Asymmetric information and portfolio performance measurement
 ### Date
 - Dec 1979
-### Authors
+### Author
 - Bradford Cornell
 ### Abstract
 This note argues that though Dave Mayers and Edward Rice were able to show that the CAPM could be used to detect superior investors in a world of asymmetric information, their demonstration does not resurrect the CAPM as a practical tool for performance measurement. To employ the Mayers-Rice model, an investment advisor would first have to determine that the CAPM holds for uninformed investors. As a means of avoiding the problem of testing the CAPM, a performance measure based only on returns is outlined. The measure is robust in that it would correctly designate superior investors in context of the CAPM, the arbitrage pricing model and many other equilibrium models of security pricing.
@@ -57,7 +57,7 @@ This note argues that though Dave Mayers and Edward Rice were able to show that 
 ## 6. A reply to Mayers and Rice (1979)
 ### Date
 - Dec 1979
-### Authors
+### Author
 - Richard Roll
 ### Abstract
 Mayers and Rice do not resolve the basic problem in portfolio performance evaluation with the securities market line, the ambiguity introduced by being obliged to choose a market index. Other performance evaluation techniques exist and possess some superior qualities. The Mayers-Rice discussion of my critique of the capital asset pricing model (CAPM) fails to recognize the CAPM's unusual testing implications and ignores the existence of alternative asset pricing theories. Residual analysis should give approximately correct estimates of the abnormal returns caused by specific events if it is conducted with the market model.
@@ -67,7 +67,7 @@ Mayers and Rice do not resolve the basic problem in portfolio performance evalua
 ## 7. Editorial collaborators
 ### Date
 - Dec 1979
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -76,7 +76,7 @@ Mayers and Rice do not resolve the basic problem in portfolio performance evalua
 ## 8. News item
 ### Date
 - Dec 1979
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -85,7 +85,7 @@ Mayers and Rice do not resolve the basic problem in portfolio performance evalua
 ## 9. Index
 ### Date
 - Dec 1979
-### Authors
+### Author
 ### Abstract
 
 ### Link

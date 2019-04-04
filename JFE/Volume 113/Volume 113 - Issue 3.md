@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Crash-neutral currency carry trades
 ### Date
 - May 2014
-### Authors
+### Author
 - Jakub W. Jurek
 ### Abstract
 Currency carry trades exploiting violations of uncovered interest rate parity in G10 currencies deliver significant excess returns with annualized Sharpe ratios equal to or greater than those of equity market factors (1990–2012). Using data on out-of-the-money foreign exchange options, I compute returns to crash-hedged portfolios and demonstrate that the high returns to carry trades are not due to peso problems. A comparison of the returns to hedged and unhedged trades indicates crash risk premia account for at most one-third of the excess return to currency carry trades.
@@ -24,7 +24,7 @@ Currency carry trades exploiting violations of uncovered interest rate parity in
 ## 3. Debt covenant renegotiations and creditor control rights
 ### Date
 - Apr 2014
-### Authors
+### Author
 - David J. Denis
 - Jing Wang
 ### Abstract
@@ -35,7 +35,7 @@ Using a large sample of private debt renegotiations from 1996 to 2011, we report
 ## 4. The international transmission of bank capital requirements: Evidence from the UK
 ### Date
 - May 2014
-### Authors
+### Author
 - Shekhar Aiyar
 - Charles W. Calomiris
 - John Hooley
@@ -49,7 +49,7 @@ We use data on UK banks׳ minimum capital requirements to study the impact of ch
 ## 5. Do independent directors cause improvements in firm transparency?
 ### Date
 - May 2014
-### Authors
+### Author
 - Christopher S. Armstrong
 - John E. Core
 - Wayne R. Guay
@@ -61,7 +61,7 @@ Although recent research documents a positive relation between corporate transpa
 ## 6. Distracted directors: Does board busyness hurt shareholder value?
 ### Date
 - May 2014
-### Authors
+### Author
 - Antonio Falato
 - Dalida Kadyrzhanova
 - Ugur Lel
@@ -73,7 +73,7 @@ We use the deaths of directors and chief executive officers as a natural experim
 ## 7. Monetary policy regimes: Implications for the yield curve and bond pricing
 ### Date
 - May 2014
-### Authors
+### Author
 - Kameliya Filipova
 - Francesco Audrino
 - Enrico De Giorgi
@@ -85,7 +85,7 @@ We develop a multivariate dynamic term structure model, which takes into account
 ## 8. Death and jackpot: Why do individual investors hold overpriced stocks?
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Jennifer Conrad
 - Nishad Kapadia
 - Yuhang Xing
@@ -97,7 +97,7 @@ Campbell, Hilscher, and Szilagyi (2008) show that firms with a high probability 
 ## 9. Uncertainty, market structure, and liquidity
 ### Date
 - May 2014
-### Authors
+### Author
 - Kee H. Chung
 - Chairat Chuwonganant
 ### Abstract
@@ -108,7 +108,7 @@ In this study we show that market uncertainty [measured by the Chicago Board Opt
 ## 10. China׳s secondary privatization: Perspectives from the Split-Share Structure Reform
 ### Date
 - May 2014
-### Authors
+### Author
 - Li Liao
 - Bibo Liu
 - Hao Wang

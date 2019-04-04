@@ -1,0 +1,203 @@
+{
+    "journal": "JF",
+    "volume": "65",
+    "issue": "5",
+    "date": "October 2010",
+    "page": "Pages: i-v, 1637-2013, iv-lxv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01603.x"
+        },
+        {
+            "no": "2",
+            "title": "FELLOW OF THE AMERICAN FINANCE ASSOCIATION FOR 2010",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01605.x"
+        },
+        {
+            "no": "3",
+            "title": "Big Bad Banks? The Winners and Losers from Bank Deregulation in the United States",
+            "date": "21 September 2010",
+            "author": [
+                "THORSTEN BECK",
+                "ROSS LEVINE",
+                "ALEXEY LEVKOV"
+            ],
+            "abstract": "We assess the impact of bank deregulation on the distribution of income in the United States. From the 1970s through the 1990s, most states removed restrictions on intrastate branching, which intensified bank competition and improved bank performance. Exploiting the cross\u2010state, cross\u2010time variation in the timing of branch deregulation, we find that deregulation materially tightened the distribution of income by boosting incomes in the lower part of the income distribution while having little impact on incomes above the median. Bank deregulation tightened the distribution of income by increasing the relative wage rates and working hours of unskilled workers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01589.x"
+        },
+        {
+            "no": "4",
+            "title": "Price Discovery in Illiquid Markets: Do Financial Asset Prices Rise Faster Than They Fall?",
+            "date": "21 September 2010",
+            "author": [
+                "RICHARD C. GREEN",
+                "DAN LI",
+                "NORMAN SCH\u00dcRHOFF"
+            ],
+            "abstract": "We study price discovery in municipal bonds, an important OTC market. As in markets for consumer goods, prices \u201crise faster than they fall.\u201d Round\u2010trip profits to dealers on retail trades increase in rising markets but do not decrease in falling markets. Further, effective half\u2010spreads increase or decrease more when movements in fundamentals favor dealers. Yield spreads relative to Treasuries also adjust with asymmetric speed in rising and falling markets. Finally, intraday price dispersion is asymmetric in rising and falling markets, as consumer search theory would predict.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01590.x"
+        },
+        {
+            "no": "5",
+            "title": "Exploring the Nature of \u201cTrader Intuition\u201d",
+            "date": "21 September 2010",
+            "author": [
+                "ANTOINE J. BRUGUIER",
+                "STEVEN R. QUARTZ",
+                "PETER BOSSAERTS"
+            ],
+            "abstract": "Experimental evidence has consistently confirmed the ability of uninformed traders, even novices, to infer information from the trading process. After contrasting brain activation in subjects watching markets with and without insiders, we hypothesize that Theory of Mind (ToM) helps explain this pattern, where ToM refers to the human capacity to discern malicious or benevolent intent. We find that skill in predicting price changes in markets with insiders correlates with scores on two ToM tests. We document GARCH\u2010like persistence in transaction price changes that may help investors read markets when there are insiders.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01591.x"
+        },
+        {
+            "no": "6",
+            "title": "Genetic Variation in Financial Decision\u2010Making",
+            "date": "21 September 2010",
+            "author": [
+                "DAVID CESARINI",
+                "MAGNUS JOHANNESSON",
+                "PAUL LICHTENSTEIN",
+                "\u00d6RJAN SANDEWALL",
+                "BJ\u00d6RN WALLACE"
+            ],
+            "abstract": "Individuals differ in how they construct their investment portfolios, yet empirical models of portfolio risk typically account only for a small portion of the cross\u2010sectional variance. This paper asks whether genetic variation can explain some of these individual differences. Following a major pension reform Swedish adults had to form a portfolio from a large menu of funds. We match data on these investment decisions with the Swedish Twin Registry and find that approximately 25% of individual variation in portfolio risk is due to genetic variation. We also find that these results extend to several other aspects of financial decision\u2010making.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01592.x"
+        },
+        {
+            "no": "7",
+            "title": "Diversification and Its Discontents: Idiosyncratic and Entrepreneurial Risk in the Quest for Social Status",
+            "date": "21 September 2010",
+            "author": [
+                "NIKOLAI ROUSSANOV"
+            ],
+            "abstract": "Social status concerns influence investors' decisions by driving a wedge in attitudes toward aggregate and idiosyncratic risks. I model such concerns by emphasizing the desire to \u201cget ahead of the Joneses,\u201d which implies that aversion to idiosyncratic risk is lower than aversion to aggregate risk. The model predicts that investors hold concentrated portfolios in equilibrium, which helps rationalize the small premium for undiversified entrepreneurial risk. In the model, status concerns are more important for wealthier households. Consequently, these households own a disproportionate share of risky assets, particularly private equity, and experience greater volatility of consumption, consistent with empirical evidence.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01593.x"
+        },
+        {
+            "no": "8",
+            "title": "Hedge Fund Contagion and Liquidity Shocks",
+            "date": "21 September 2010",
+            "author": [
+                "NICOLE M. BOYSON",
+                "CHRISTOF W. STAHEL",
+                "REN\u00c9 M. STULZ"
+            ],
+            "abstract": "Defining contagion as correlation over and above that expected from economic fundamentals, we find strong evidence of worst return contagion across hedge fund styles for 1990 to 2008. Large adverse shocks to asset and hedge fund liquidity strongly increase the probability of contagion. Specifically, large adverse shocks to credit spreads, the TED spread, prime broker and bank stock prices, stock market liquidity, and hedge fund flows are associated with a significant increase in the probability of hedge fund contagion. While shocks to liquidity are important determinants of performance, these shocks are not captured by commonly used models of hedge fund returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01594.x"
+        },
+        {
+            "no": "9",
+            "title": "Microstructure and Ambiguity",
+            "date": "21 September 2010",
+            "author": [
+                "DAVID EASLEY",
+                "MAUREEN O'HARA"
+            ],
+            "abstract": "A goal for stock exchanges is to increase participation by firms and investors. We show how specific features of the microstructure can reduce perceived ambiguity, and induce participation by both investors and issuers. We develop a model with sophisticated traders, who we view as expected utility maximizers with rational expectations, and unsophisticated traders, who we view as rational traders facing ambiguity about the payoffs to participating in the market. We show how designing markets to reduce ambiguity can benefit investors through greater liquidity, exchanges through greater volume, and issuing firms through a lower cost of capital.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01595.x"
+        },
+        {
+            "no": "10",
+            "title": "\u201cTime for a Change\u201d: Loan Conditions and Bank Behavior when Firms Switch Banks",
+            "date": "21 September 2010",
+            "author": [
+                "VASSO IOANNIDOU",
+                "STEVEN ONGENA"
+            ],
+            "abstract": "This paper studies loan conditions when firms switch banks. Recent theoretical work on bank\u2013firm relationships motivates our matching models. The dynamic cycle of the loan rate that we uncover is as follows: a loan granted by a new (outside) bank carries a loan rate that is significantly lower than the rates on comparable new loans from the firm's current (inside) banks. The new bank initially decreases the loan rate further but eventually ratchets it up sharply. Other loan conditions follow a similar economically relevant pattern. This bank strategy is consistent with the existence of hold\u2010up costs in bank\u2013firm relationships.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01596.x"
+        },
+        {
+            "no": "11",
+            "title": "Short Sellers and Financial Misconduct",
+            "date": "21 September 2010",
+            "author": [
+                "JONATHAN M. KARPOFF",
+                "XIAOXIA LOU"
+            ],
+            "abstract": "We examine whether short sellers detect firms that misrepresent their financial statements, and whether their trading conveys external costs or benefits to other investors. Abnormal short interest increases steadily in the 19 months before the misrepresentation is publicly revealed, particularly when the misconduct is severe. Short selling is associated with a faster time\u2010to\u2010discovery, and it dampens the share price inflation that occurs when firms misstate their earnings. These results indicate that short sellers anticipate the eventual discovery and severity of financial misconduct. They also convey external benefits, helping to uncover misconduct and keeping prices closer to fundamental values.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01597.x"
+        },
+        {
+            "no": "12",
+            "title": "Luck versus Skill in the Cross\u2010Section of Mutual Fund Returns",
+            "date": "21 September 2010",
+            "author": [
+                "EUGENE F. FAMA",
+                "KENNETH R. FRENCH"
+            ],
+            "abstract": "The aggregate portfolio of actively managed U.S. equity mutual funds is close to the market portfolio, but the high costs of active management show up intact as lower returns to investors. Bootstrap simulations suggest that few funds produce benchmark\u2010adjusted expected returns sufficient to cover their costs. If we add back the costs in fund expense ratios, there is evidence of inferior and superior performance (nonzero true \u03b1) in the extreme tails of the cross\u2010section of mutual fund \u03b1 estimates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01598.x"
+        },
+        {
+            "no": "13",
+            "title": "A Bayesian Approach to Real Options: The Case of Distinguishing between Temporary and Permanent Shocks",
+            "date": "21 September 2010",
+            "author": [
+                "STEVEN R. GRENADIER",
+                "ANDREY MALENKO"
+            ],
+            "abstract": "Traditional real options models demonstrate the importance of the \u201coption to wait\u201d due to uncertainty over future shocks to project cash flows. However, there is often another important source of uncertainty: uncertainty over the permanence of past shocks. Adding Bayesian uncertainty over the permanence of past shocks augments the traditional option to wait with an additional \u201coption to learn.\u201d The implied investment behavior differs significantly from that in standard models. For example, investment may occur at a time of stable or decreasing cash flows, respond sluggishly to cash flow shocks, and depend on the timing of project cash flows.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01599.x"
+        },
+        {
+            "no": "14",
+            "title": "Individual Investors and Local Bias",
+            "date": "21 September 2010",
+            "author": [
+                "MARK S. SEASHOLES",
+                "NING ZHU"
+            ],
+            "abstract": "The paper tests whether individuals have value\u2010relevant information about local stocks (where \u201clocal\u201d is defined as being headquartered near where an investor lives). Our methodology uses two types of calendar\u2010time portfolios\u2014one based on holdings and one based on transactions. Portfolios of local holdings do not generate abnormal performance (alphas are zero). When studying transactions, purchases of local stocks significantly underperform sales of local stocks. The underperformance remains when focusing on stocks with potentially high levels of information asymmetries. We conclude that individuals do not help incorporate information into stock prices. Our conclusions directly contradict existing studies.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01600.x"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01601.x"
+        },
+        {
+            "no": "16",
+            "title": "Back Matter",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01602.x"
+        },
+        {
+            "no": "17",
+            "title": "Outline of the Program",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01608.x"
+        },
+        {
+            "no": "18",
+            "title": "AFA 2011 DENVER MEETINGS",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01607.x"
+        },
+        {
+            "no": "19",
+            "title": "Participant Schedule Report",
+            "date": "21 September 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2010.01606.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. HBS-JFE conference volume: complementary research methods
 ### Date
 - May 2001
-### Authors
+### Author
 - Peter Tufano
 ### Abstract
 The purpose of the Harvard Business School-Journal of Financial Economics conference was to reexamine the role of clinical work in our profession. Clinical research–empirical work that examines a relatively small number of events intensively–accounts for a very small fraction of published work in the field. The pieces in this conference volume are case studies of different “clinical” research techniques that are used to develop, test, apply and communicate theory.
@@ -15,7 +15,7 @@ The purpose of the Harvard Business School-Journal of Financial Economics confer
 ## 2. The theory and practice of corporate finance: evidence from the field
 ### Date
 - May 2001
-### Authors
+### Author
 - John R Graham
 - Campbell R Harvey
 ### Abstract
@@ -26,7 +26,7 @@ We survey 392 CFOs about the cost of capital, capital budgeting, and capital str
 ## 3. Why do firms switch underwriters?
 ### Date
 - May 2001
-### Authors
+### Author
 - Laurie Krigman
 - Wayne H Shaw
 - Kent L Womack
@@ -38,7 +38,7 @@ In the mid-1990s, 30% of firms completing an SEO within three years of their IPO
 ## 4. Where do merger gains come from? Bank mergers from the perspective of insiders and outsiders
 ### Date
 - May 2001
-### Authors
+### Author
 - Joel F Houston
 - Christopher M James
 - Michael D Ryngaert
@@ -50,7 +50,7 @@ Traditional studies fail to find conclusive evidence that bank mergers create va
 ## 5. Market reaction to public information: The atypical case of the Boston Celtics
 ### Date
 - May 2001
-### Authors
+### Author
 - Gregory W Brown
 - Jay C Hartzell
 ### Abstract
@@ -61,7 +61,7 @@ The publicly traded Boston Celtics Limited Partnership shares provide a unique m
 ## 6. The information content of litigation participation securities: the case of CalFed Bancorp
 ### Date
 - May 2001
-### Authors
+### Author
 - Benjamin C. Esty
 ### Abstract
 CalFed Bancorp is one of 126 S&Ls suing the U.S. government for breach of contract related to supervisory goodwill, a form of goodwill created by the acquisition of insolvent thrifts during the early 1980s. Before a determination of damages in its lawsuit, CalFed announced and issued a litigation participation security giving shareholders a proportional claim on recovered damages, if any. This announcement generated a positive excess return in part because it made CalFed a more likely acquisition target. Trading in the security also reveals important, yet previously unavailable, information about CalFed's lawsuit: its price reveals a market-based estimate of damages while its beta reveals information regarding expected returns and trial duration. In a broader context, this paper identifies acquisition facilitation as a benefit of issuing targeted stock and highlights a series of lawsuits that will set important precedents regarding the determination of liability and the estimation of damages in breach of contract cases.
@@ -71,7 +71,7 @@ CalFed Bancorp is one of 126 S&Ls suing the U.S. government for breach of contra
 ## 7. Managing foreign exchange risk with derivatives
 ### Date
 - May 2001
-### Authors
+### Author
 - Gregory W Brown
 ### Abstract
 This study investigates the foreign exchange risk management program of HDG Inc. (pseudonym), a US-based manufacturer of durable equipment. Precise examination of factors affecting why and how the firm manages its foreign exchange exposure are explored through the use of internal firm documents, discussions with managers, and data on3,110 foreign-exchange derivative transactions. Informational asymmetries, facilitation of internal contracting, and competitive pricing concerns appear to motivate why the firm hedges. How HDG hedges depends on accounting treatment, derivative market liquidity, exchange rate volatility, exposure volatility, and recent hedging outcomes.
@@ -81,7 +81,7 @@ This study investigates the foreign exchange risk management program of HDG Inc.
 ## 8. Cephalon, Inc. Taking risk management theory seriously
 ### Date
 - May 2001
-### Authors
+### Author
 - George Chacko
 - Peter Tufano
 - Geoffrey Verter
@@ -93,7 +93,7 @@ Cephalon Inc., a biotech firm, bought call options on its own stock to meet its 
 ## 9. Credit enhancement through financial engineering: Freeport McMoRan's gold-denominated depositary shares
 ### Date
 - May 2001
-### Authors
+### Author
 - N.K Chidambaran
 - Chitru S Fernando
 - Paul A Spindt
@@ -105,7 +105,7 @@ In 1993 and 1994, FreeportMcMoRan Copper and Gold issued two series of gold-deno
 ## 10. The market for catastrophe risk: a clinical examination
 ### Date
 - May 2001
-### Authors
+### Author
 - Kenneth A. Froot
 ### Abstract
 This paper examines the market for catastrophe event risk – i.e., financial claims that are linked to losses associated with natural hazards, such as hurricanes and earthquakes. Risk management theory suggests protection by insurers and other corporations against the largest cat events is most valuable. However, most insurers purchase relatively little cat reinsurance against large events, and premiums are high relative to expected losses. To understand why the theory fails, we examine transactions that look to capital markets, rather than traditional reinsurance markets, for risk-bearing capacity. We develop eight theoretical explanations and find the most compelling to be supply restrictions associated with capital market imperfections and market power exerted by traditional reinsurers.
@@ -115,7 +115,7 @@ This paper examines the market for catastrophe event risk – i.e., financial cl
 ## 11. Bond calls, credible commitment, and equity dilution: a theoretical and clinical analysis of simultaneous tender and call (STAC) offers
 ### Date
 - May 2001
-### Authors
+### Author
 - Upinder S. Dhillon
 - Thomas H. Noe
 - Gabriel G. Ramı́rez

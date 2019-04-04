@@ -5,7 +5,7 @@
 ## 1. The relation between implied and realized volatility1
 ### Date
 - 1 November
-### Authors
+### Author
 - B.J. Christensen
 - N.R. Prabhala
 ### Abstract
@@ -16,7 +16,7 @@ Previous research finds the volatility implied by S&P 100 index option prices to
 ## 2. The indirect economic penalties in SEC investigations of underwriters1
 ### Date
 - 1 November
-### Authors
+### Author
 - Randolph P Beatty
 - Howard Bunsis
 - John R.M Hand
@@ -28,7 +28,7 @@ We document that an SEC investigation of an underwriter imposes indirect penalti
 ## 3. The effects of bank mergers and acquisitions on small business lending1
 ### Date
 - 1 November
-### Authors
+### Author
 - Allen N Berger
 - Anthony Saunders
 - Joseph M Scalise
@@ -41,7 +41,7 @@ We examine the effects of bank M&As on small business lending using data on over
 ## 4. Post-trade transparency on Nasdaq's national market system1
 ### Date
 - 1 November
-### Authors
+### Author
 - David C Porter
 - Daniel G Weaver
 ### Abstract

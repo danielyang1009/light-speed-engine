@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why do countries matter so much for corporate governance?
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Craig Doidge
 - G. Andrew Karolyi
 - René M. Stulz
@@ -26,7 +26,7 @@ This paper develops and tests a model of how country characteristics, such as le
 ## 3. Banks and bubbles: How good are bankers at spotting winners?
 ### Date
 - Jul 2006
-### Authors
+### Author
 - Laura Gonzalez
 - Christopher James
 ### Abstract
@@ -37,7 +37,7 @@ This paper examines the bank lending relations of a large sample of technology a
 ## 4. Optimism and economic choice
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Manju Puri
 - David T. Robinson
 ### Abstract
@@ -48,7 +48,7 @@ We create a novel measure of optimism using the Survey of Consumer Finance by co
 ## 5. Was there too little entry during the Dot Com Era?
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Brent Goldfarb
 - David Kirsch
 - David A. Miller
@@ -60,7 +60,7 @@ We present four stylized facts about the Dot Com Era: (1) there was a widespread
 ## 6. Foreign currency-denominated borrowing in the absence of operating incentives
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Matthew R. McBrady
 - Michael J. Schill
 ### Abstract
@@ -71,7 +71,7 @@ It is well known that corporations issue foreign currency-denominated debt to he
 ## 7. Multifrequency news and stock returns
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Laurent E. Calvet
 - Adlai J. Fisher
 ### Abstract
@@ -82,7 +82,7 @@ Equity prices are driven by shocks with persistence levels ranging from intraday
 ## 8. Stochastic skew in currency options
 ### Date
 - Mar 2006
-### Authors
+### Author
 - Peter Carr
 - Liuren Wu
 ### Abstract
@@ -93,7 +93,7 @@ We analyze the behavior of over-the-counter currency option prices across moneyn
 ## 9. Credit-spread determinants and interlocking contracts: A study of the Ras Gas project
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Mansoor Dailami
 - Robert Hauswald
 ### Abstract

@@ -1,0 +1,87 @@
+{
+    "journal": "RFS",
+    "volume": "3",
+    "issue": "2",
+    "date": "April 1990",
+    "page": "Pages 153\u2013313",
+    "article": [
+        {
+            "no": "1",
+            "title": "Competition and the Medium of Exchange in Takeovers",
+            "date": "30 April 2015",
+            "author": [
+                "Elazar Berkovitch",
+                "M. P. Narayanan"
+            ],
+            "abstract": "The role of the medium of exchange in competition among bidders and its effect on returns to stockholders in corporate takeovers are investigated. Consistent with recent empirical evidence, our model shows that stockholders of both acquiring and target firms obtain higher returns when a takeover is financed with cash rather than equity, and that returns to target shareholders increase with competition. The model predicts that the fraction of synergy captured by the target decreases with the level of synergy. Finally, it is shown that, as competition increases, the cash component of the offer as well as the proportion of cash offered increases.",
+            "link": "https://doi.org/10.1093/rfs/3.2.153"
+        },
+        {
+            "no": "2",
+            "title": "When Are Contrarian Profits Due to Stock Market Overreaction?",
+            "date": "30 April 2015",
+            "author": [
+                "Andrew W. Lo",
+                "A. Craig MacKinlay"
+            ],
+            "abstract": "If returns on some stocks systematically lead or lag those of others, a portfolio strategy that sells \u201cwinners\u201d and buys \u201closers\u201d can produce positive expected returns, even if no stock\u2019s returns are negatively autocorrelated as virtually all models of overreaction imply. Using a particular contrarian strategy we show that, despite negative autocorrelation in individual stock returns, weekly portfolio returns are strongly positively autocorrelated and are the result of important cross-autocorrelations. We find that the returns of large stocks lead those of smaller stocks, and we present evidence against overreaction as the only source of contrarian profits.",
+            "link": "https://doi.org/10.1093/rfs/3.2.175"
+        },
+        {
+            "no": "3",
+            "title": "Expectations and Volatility of Consumption and Asset Returns",
+            "date": "30 April 2015",
+            "author": [
+                "Shmuel Kandel",
+                "Robert F. Stambaugh"
+            ],
+            "abstract": "We find that conditional means and variances of consumption growth vary through time, and this variation appears to be associated with the business cycle. A pricing model with fluctuating means and variances of consumption growth provides implications about conditional moments of returns for both short and long investment horizons, and these implications are explored empirically. The U-shaped pattern of first-order autocorrelations of returns, as well as business cycle patterns in the price of risk, appears to be consistent with the model, but our exploration suggests that other implications about conditional return moments are at odds with the data.",
+            "link": "https://doi.org/10.1093/rfs/3.2.207"
+        },
+        {
+            "no": "4",
+            "title": "Private Information, Trading Volume, and Stock-Return Variances",
+            "date": "30 April 2015",
+            "author": [
+                "Michael J. Barclay",
+                "Robert H. Litzenberger",
+                "Jerold B. Warner"
+            ],
+            "abstract": "New evidence is provided on the determinants of stock-return variances. First, when the Tokyo Stock Exchange is open on Saturday, the weekend variance increases; weekly variance is unaffected, however, despite an increase in weekly volume. Second, the listing of U.S. stocks in Tokyo substantially increases the number of trading hours, but Tokyo volume is negligible for these U.S. stocks and their 24-hour variance is unaffected. The overall results are consistent with the predictions of private-information-based rational trading models, but inconsistent with both the irrational trading noise and public-information hypotheses.",
+            "link": "https://doi.org/10.1093/rfs/3.2.233"
+        },
+        {
+            "no": "5",
+            "title": "Return Seasonality in Stocks and Their Underlying Assets: Tax-Loss Selling Versus Information Explanations",
+            "date": "30 April 2015",
+            "author": [
+                "Greggory A Brauer",
+                "Eric C Chang"
+            ],
+            "abstract": "Results of tests contrasting tax-loss selling with intertemporal information variation as explanations of the January seasonal in stock returns are reported. Closed-end fund shares display the typical size-related January seasonal while their net asset values do not. Interpreting the net asset value return as a proxy for information about underlying assets, this result indicates information variation is not a necessary condition for the January effect in stocks. The share returns at the turn of the year are negatively related to their mean preceding year returns and positively related to the standard deviations of their preceding year returns. These results are consistent with tax-loss selling.",
+            "link": "https://doi.org/10.1093/rfs/3.2.255"
+        },
+        {
+            "no": "6",
+            "title": "Correlations in Price Changes and Volatility across International Stock Markets",
+            "date": "30 April 2015",
+            "author": [
+                "Yasushi Hamao",
+                "Ronald W. Masulis",
+                "Victor Ng"
+            ],
+            "abstract": "The short-run interdependence of prices and price volatility across three major international stock markets is studied. Daily opening and closing prices of major stock indexes for the Tokyo, London, and New York stock markets are examined. The analysis utilizes the autoregressive conditionally heteroskedastic (ARCH) family of statistical models to explore these pricing relationships. Evidence of price volatility spillovers from New York to Tokyo, London to Tokyo, and New York to London is observed, but no price volatility spillover effects in other directions are found for the pre-October 1987 period.",
+            "link": "https://doi.org/10.1093/rfs/3.2.281"
+        },
+        {
+            "no": "7",
+            "title": "Financial Markets and Incomplete Information: Frontiers of Modern Financial Theory, Volume 2, Sudipto Bhattacharya and George M. Constantinides, eds. Totowa, N.J.: Rowman and Littlefield, 1989. 361 pp., ISBN 0-8476-7597-1",
+            "date": "30 April 2015",
+            "author": [
+                "Franklin Allen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/3.2.309"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Payout taxes and the allocation of investment
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Bo Becker
 - Marcus Jacob
 - Martin Jacob
@@ -26,7 +26,7 @@ When corporate payout is taxed, internal equity (retained earnings) is cheaper t
 ## 3. Laying off credit risk: Loan sales versus credit default swaps
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Christine A. Parlour
 - Andrew Winton
 ### Abstract
@@ -37,7 +37,7 @@ How do markets for debt cash flow rights, with and without accompanying control 
 ## 4. Market skewness risk and the cross section of stock returns
 ### Date
 - Jul 2012
-### Authors
+### Author
 - Bo Young Chang
 - Peter Christoffersen
 - Kris Jacobs
@@ -49,7 +49,7 @@ The cross section of stock returns has substantial exposure to risk captured by 
 ## 5. Riding the merger wave: Uncertainty, reduced monitoring, and bad acquisitions
 ### Date
 - Jul 2012
-### Authors
+### Author
 - Ran Duchin
 - Breno Schmidt
 ### Abstract
@@ -60,7 +60,7 @@ We show that acquisitions initiated during periods of high merger activity (“m
 ## 6. Do stock prices influence corporate decisions? Evidence from the technology bubble
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Murillo Campello
 - John R. Graham
 ### Abstract
@@ -71,7 +71,7 @@ We study the capital investment, stock issuance, and cash savings behavior of no
 ## 7. Optimal incentives and securitization of defaultable assets
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Semyon Malamud
 - Huaxia Rui
 - Andrew Whinston
@@ -83,7 +83,7 @@ We study optimal securitization in the presence of an initial moral hazard. A fi
 ## 8. Style investing, comovement and return predictability
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Sunil Wahal
 - M. Deniz Yavuz
 ### Abstract
@@ -94,7 +94,7 @@ Barberis and Shleifer (2003) argue that style investing generates momentum and r
 ## 9. The market for borrowing corporate bonds
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Paul Asquith
 - Andrea S. Au
 - Thomas Covert
@@ -107,7 +107,7 @@ This paper describes the market for borrowing corporate bonds using a comprehens
 ## 10. A nonlinear wealth transfer from shareholders to creditors around Chapter 11 filing
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Yuanzhi Li
 ### Abstract
 Past literature has assumed that negative stock returns around Chapter 11 filing are solely due to new adverse information about firm value. This paper argues that there is also a nonlinear wealth transfer from shareholders to creditors causing shareholder loss. The magnitude of the wealth transfer can be quantified in a setting where equity is a call option on firm assets as in the Merton (1974) model. The wealth transfer originates from maturity shortening of the call option as a result of Chapter 11 filing. I present a parsimonious model to explain why Chapter 11 can be voluntarily filed by managers acting in the interest of shareholders with the existence of the wealth transfer. The model-predicted stock return has comparable magnitude as observed stock returns around filing, and explains the cross-sectional variation of the latter.
@@ -117,7 +117,7 @@ Past literature has assumed that negative stock returns around Chapter 11 filing
 ## 11. Diagnosing affine models of options pricing: Evidence from VIX
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Gang Li
 - Chu Zhang
 ### Abstract
@@ -128,7 +128,7 @@ Affine jump-diffusion models have been the mainstream in options pricing because
 ## 12. Are mutual funds sitting ducks?
 ### Date
 - Aug 2012
-### Authors
+### Author
 - Sophie Shive
 - Hayong Yun
 ### Abstract

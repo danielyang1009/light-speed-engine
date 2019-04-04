@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Does function follow organizational form? Evidence from the lending practices of large and small banks
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Allen N. Berger
 - Nathan H. Miller
 - Mitchell A. Petersen
@@ -28,7 +28,7 @@ Theories based on incomplete contracting suggest that small organizations have a
 ## 3. Evidence on the speed of convergence to market efficiency
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Tarun Chordia
 - Richard Roll
 - Avanidhar Subrahmanyam
@@ -40,7 +40,7 @@ Daily returns for stocks listed on the New York Exchange (NYSE) are not serially
 ## 4. The economics of interest rates
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Oldrich Alfons Vasicek
 ### Abstract
 The paper looks at the behavior of investors in an economy consisting of a production process controlled by a state variable representing the state of technology. The participants in the economy maximize their individual utilities of consumption. Each participant has a constant relative risk aversion. The degrees of risk aversion, as well as the time preference functions, differ across participants. The participants may lend and borrow among themselves, either at a floating short rate, or by issuing or buying term bonds. We derive conditions under which such an economy is in equilibrium, and obtain equations determining interest rates.
@@ -50,7 +50,7 @@ The paper looks at the behavior of investors in an economy consisting of a produ
 ## 5. Informational effects of regulation FD: evidence from rating agencies
 ### Date
 - May 2004
-### Authors
+### Author
 - Philippe Jorion
 - Zhu Liu
 - Charles Shi
@@ -62,7 +62,7 @@ Regulation Fair Disclosure, implemented on October 23, 2000, prohibits U.S. publ
 ## 6. Management quality, certification, and initial public offerings
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Thomas J. Chemmanur
 - Imants Paeglis
 ### Abstract
@@ -73,7 +73,7 @@ We empirically examine the relationship between the quality and reputation of a 
 ## 7. Postprivatization corporate governance: The role of ownership structure and investor protection
 ### Date
 - May 2004
-### Authors
+### Author
 - Narjess Boubakri
 - Jean-Claude Cosset
 - Omrane Guedhami
@@ -85,7 +85,7 @@ We investigate the role of ownership structure and investor protection in postpr
 ## 8. Professional trader discipline and trade disposition
 ### Date
 - Jan 2004
-### Authors
+### Author
 - Peter R. Locke
 - Steven C. Mann
 ### Abstract
@@ -96,7 +96,7 @@ Recent evidence indicates irrational behavior among retail investors. They hold 
 ## 9. Exercise behavior, valuation, and the incentive effects of employee stock options
 ### Date
 - May 2004
-### Authors
+### Author
 - J. Carr Bettis
 - John M. Bizjak
 - Michael L. Lemmon

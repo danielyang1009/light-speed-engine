@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do a firm's equity returns reflect the risk of its pension plan?
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Li Jin
 - Robert C. Merton
 - Zvi Bodie
@@ -26,7 +26,7 @@ This paper examines the empirical question of whether systematic equity risk of 
 ## 3. Efficient tests of stock return predictability
 ### Date
 - May 2005
-### Authors
+### Author
 - John Y. Campbell
 - Motohiro Yogo
 ### Abstract
@@ -37,7 +37,7 @@ Conventional tests of the predictability of stock returns could be invalid, that
 ## 4. Was there a Nasdaq bubble in the late 1990s?
 ### Date
 - May 2005
-### Authors
+### Author
 - Ľuboš Pástor
 - Pietro Veronesi
 ### Abstract
@@ -48,7 +48,7 @@ Not necessarily: a firm's fundamental value increases with uncertainty about ave
 ## 5. Cross-sectional forecasts of the equity premium
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Christopher Polk
 - Samuel Thompson
 - Tuomo Vuolteenaho
@@ -60,7 +60,7 @@ If investors are myopic mean-variance optimizers, a stock's expected return is l
 ## 6. On the role of arbitrageurs in rational markets
 ### Date
 - Nov 2004
-### Authors
+### Author
 - Suleyman Basak
 - Benjamin Croitoru
 ### Abstract
@@ -71,7 +71,7 @@ We investigate the role of “arbitrageurs,” who exploit price discrepancies b
 ## 7. The economic consequences of increased disclosure: Evidence from international cross-listings
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Warren Bailey
 - G. Andrew Karolyi
 - Carolina Salva
@@ -83,7 +83,7 @@ We examine market behavior around earnings announcements to understand the conse
 ## 8. The value of tax shields IS equal to the present value of tax shields
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Ian A. Cooper
 - Kjell G. Nyborg
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1975
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Bank funds management in an efficient market
 ### Date
 - Dec 1975
-### Authors
+### Author
 - Fischer Black
 ### Abstract
 This paper discusses general principles for choosing bank assets and liabilities, for deciding on when to make a loan and what interest rate to charge, for pricing funds transfer services such as the handling of checks, for establishing compensating balance requirements, and for dealing with government regulation. The discussion assumes markets are efficient and deals first with an unregulated environment and then with policies in the face of regulatory constraints. Most of the policies which would be optimal in an unregulated environment will be optimal in the regulated environment such as in the U.S. today, because it is relatively easy to get around most of the regulations that are applied to banks by the use of non-deposit liabilities, compensating balances and negative checking accounts.
@@ -24,7 +24,7 @@ This paper discusses general principles for choosing bank assets and liabilities
 ## 3. Capital asset prices versus time series models as predictors of inflation
 ### Date
 - Dec 1975
-### Authors
+### Author
 - Patrick J. Hess
 - James L. Bicksler
 ### Abstract
@@ -35,7 +35,7 @@ This paper examines the robustness of one month treasury bills as predictors of 
 ## 4. Prediction of return with the minimum variance zero-beta portfolio
 ### Date
 - Dec 1975
-### Authors
+### Author
 - I.G. Morgan
 ### Abstract
 This paper tests prediction of returns on stocks using a direct estimate of the minimum variance zero beta portfolio z. The composition of this portfolio is implicit in Black's paper on capital market equilibrium in the absence of riskless borrowing or lending. Portfolios of stocks drawn from the same industries are used to estimate z. The predictions of Black's equilibrium return equation are compared with those of cross-sectional regressions of return on risk.
@@ -45,7 +45,7 @@ This paper tests prediction of returns on stocks using a direct estimate of the 
 ## 5. A note on default risk, leverage and the MM theorem
 ### Date
 - Dec 1975
-### Authors
+### Author
 - R.C. Stapleton
 ### Abstract
 
@@ -55,7 +55,7 @@ This paper tests prediction of returns on stocks using a direct estimate of the 
 ## 6. Editorial collaborators
 ### Date
 - Dec 1975
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -64,7 +64,7 @@ This paper tests prediction of returns on stocks using a direct estimate of the 
 ## 7. Index
 ### Date
 - Dec 1975
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -1,0 +1,183 @@
+# JF, Volume 64, Issue 2
+- April 2009
+- Pages: i-v, 549-1069
+
+## 1. Front Matter
+### Date
+- 13 March 2009
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01442.x
+
+## 2. ANNOUNCEMENT OF 2008 SMITH BREEDEN AND BRATTLE GROUP PRIZES
+### Date
+- 13 March 2009
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01457.x
+
+## 3. Sensation Seeking, Overconfidence, and Trading Activity
+### Date
+- 13 March 2009
+### Author
+- MARK GRINBLATT
+- MATTI KELOHARJU
+### Abstract
+This study analyzes the role that two psychological attributes—sensation seeking and overconfidence—play in the tendency of investors to trade stocks. Equity trading data from Finland are combined with data from investor tax filings, driving records, and mandatory psychological profiles. We use these data, obtained from a large population, to construct measures of overconfidence and sensation seeking tendencies. Controlling for a host of variables, including wealth, income, age, number of stocks owned, marital status, and occupation, we find that overconfident investors and those investors most prone to sensation seeking trade more frequently.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01443.x
+
+## 4. Equilibrium Portfolio Strategies in the Presence of Sentiment Risk and Excess Volatility
+### Date
+- 13 March 2009
+### Author
+- BERNARD DUMAS
+- ALEXANDER KURSHEV
+- RAMAN UPPAL
+### Abstract
+Our objective is to identify the trading strategy that would allow an investor to take advantage of “excessive” stock price volatility and “sentiment” fluctuations. We construct a general equilibrium “difference‐of‐opinion” model of sentiment in which there are two classes of agents, one of which is overconfident about a public signal, while still optimizing intertemporally. Overconfident investors overreact to the signal and introduce an additional risk factor causing stock prices to be excessively volatile. Consequently, rational investors choose a conservative portfolio; moreover, this portfolio depends not just on the current price divergence but also on their prediction about future sentiment and the speed of price convergence.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01444.x
+
+## 5. Risk in Dynamic Arbitrage: The Price Effects of Convergence Trading
+### Date
+- 13 March 2009
+### Author
+- PÉTER KONDOR
+### Abstract
+I develop an equilibrium model of convergence trading and its impact on asset prices. Arbitrageurs optimally decide how to allocate their limited capital over time. Their activity reduces price discrepancies, but their activity also generates losses with positive probability, even if the trading opportunity is fundamentally riskless. Moreover, prices of identical assets can diverge even if the constraints faced by arbitrageurs are not binding. Occasionally, total losses are large, making arbitrageurs' returns negatively skewed, consistent with the empirical evidence. The model also predicts comovement of arbitrageurs' expected returns and market liquidity.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01445.x
+
+## 6. Catastrophic Risk and Credit Markets
+### Date
+- 13 March 2009
+### Author
+- MARK J. GARMAISE
+- TOBIAS J. MOSKOWITZ
+### Abstract
+We provide a model of the effects of catastrophic risk on real estate financing and prices and demonstrate that insurance market imperfections can restrict the supply of credit for catastrophe‐susceptible properties. Using unique micro‐level data, we find that earthquake risk decreased commercial real estate bank loan provision by 22% in California properties in the 1990s, with more severe effects in African–American neighborhoods. We show that the 1994 Northridge earthquake had only a short‐term disruptive effect. Our basic findings are confirmed for hurricane risk, and our model and empirical work have implications for terrorism and political perils.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01446.x
+
+## 7. Investor Inattention and Friday Earnings Announcements
+### Date
+- 13 March 2009
+### Author
+- STEFANO DELLAVIGNA
+- JOSHUA M. POLLET
+### Abstract
+Does limited attention among investors affect stock returns? We compare the response to earnings announcements on Friday, when investor inattention is more likely, to the response on other weekdays. If inattention influences stock prices, we should observe less immediate response and more drift for Friday announcements. Indeed, Friday announcements have a 15% lower immediate response and a 70% higher delayed response. A portfolio investing in differential Friday drift earns substantial abnormal returns. In addition, trading volume is 8% lower around Friday announcements. These findings support explanations of post‐earnings announcement drift based on underreaction to information caused by limited attention.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01447.x
+
+## 8. What Drives the Disposition Effect? An Analysis of a Long‐Standing Preference‐Based Explanation
+### Date
+- 13 March 2009
+### Author
+- NICHOLAS BARBERIS
+- WEI XIONG
+### Abstract
+We investigate whether prospect theory preferences can predict a disposition effect. We consider two implementations of prospect theory: in one case, preferences are defined over annual gains and losses; in the other, they are defined over realized gains and losses. Surprisingly, the annual gain/loss model often fails to predict a disposition effect. The realized gain/loss model, however, predicts a disposition effect more reliably. Utility from realized gains and losses may therefore be a useful way of thinking about certain aspects of individual investor trading.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01448.x
+
+## 9. Work Ethic, Employment Contracts, and Firm Value
+### Date
+- 13 March 2009
+### Author
+- BRUCE IAN CARLIN
+- SIMON GERVAIS
+### Abstract
+We analyze how the work ethic of managers impacts a firm's employment contracts, riskiness, growth potential, and organizational structure. Flat contracts are optimal for diligent managers because they reduce risk‐sharing costs, but they attract egoistic agents who shirk and unskilled agents who add no value. Stable, bureaucratic firms with low growth potential are more likely to gain value from managerial diligence. Firms that hire from a virtuous pool of agents are more conservative in their investments and have a horizontal corporate structure. Our theory also yields several testable implications that distinguish it from standard agency models.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01449.x
+
+## 10. Creditor Rights, Enforcement, and Bank Loans
+### Date
+- 13 March 2009
+### Author
+- KEE‐HONG BAE
+- VIDHAN K. GOYAL
+### Abstract
+We examine whether differences in legal protection affect the size, maturity, and interest rate spread on loans to borrowers in 48 countries. Results show that banks respond to poor enforceability of contracts by reducing loan amounts, shortening loan maturities, and increasing loan spreads. These effects are both statistically significant and economically large. While stronger creditor rights reduce spreads, they do not seem to matter for loan size and maturity. Overall, we show that variation in enforceability of contracts matters a great deal more to how loans are structured and how they are priced.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01450.x
+
+## 11. Securitization and the Declining Impact of Bank Finance on Loan Supply: Evidence from Mortgage Originations
+### Date
+- 13 March 2009
+### Author
+- ELENA LOUTSKINA
+- PHILIP E. STRAHAN
+### Abstract
+Low‐cost deposits and increased balance sheet liquidity raise banks' supply of illiquid loans more than loans easily sold or securitized. We exploit the inability of Fannie Mae and Freddie Mac to purchase jumbo mortgages to identify an exogenous change in liquidity. The volume of jumbo mortgage originations relative to nonjumbo originations increases with bank holdings of liquid assets and decreases with bank deposit costs. This result suggests that the increasing depth of the mortgage secondary market fostered by securitization has reduced the effect of lender's financial condition on credit supply.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01451.x
+
+## 12. Financial Constraints, Debt Capacity, and the Cross‐section of Stock Returns
+### Date
+- 13 March 2009
+### Author
+- JAEHOON HAHN
+- HANGYONG LEE
+### Abstract
+Building on a model of corporate investment under collateral constraints, we develop and test a hypothesis on the differential effect of debt capacity on stock returns across financially constrained and unconstrained firms. Consistent with the hypothesis, we find that debt capacity is a significant determinant of stock returns only in the cross‐section of financially constrained firms, after controlling for beta, size, book‐to‐market, leverage, and momentum. The findings suggest that cross‐sectional differences in corporate investment behavior arising from financial constraints, predicted by theories of imperfect capital markets and supported by empirical evidence, are reflected in the stock returns of manufacturing firms.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01452.x
+
+## 13. Cash Flow, Consumption Risk, and the Cross‐section of Stock Returns
+### Date
+- 13 March 2009
+### Author
+- ZHI DA
+### Abstract
+I link an asset's risk premium to two characteristics of its underlying cash flow: covariance and duration. Using empirically novel estimates of both cash flow characteristics based exclusively on accounting earnings and aggregate consumption data, I examine their dynamic interaction in a two‐factor cash flow model and find that they are able to explain up to 82% of the cross‐sectional variation in the average returns on size, book‐to‐market, and long‐term reversal‐sorted portfolios for the period 1964 to 2002. This finding highlights the importance of fundamental cash flow characteristics in determining the risk exposure of an asset.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01453.x
+
+## 14. Real Options, Product Market Competition, and Asset Returns
+### Date
+- 13 March 2009
+### Author
+- FELIPE L. AGUERREVERE
+### Abstract
+We study how competition in the product market affects the link between firms' real investment decisions and their asset return dynamics. In our model, assets in place and growth options have different sensitivities to market wide uncertainty. The strategic behavior of market participants influences the relative importance of these components of firm value. We show that the relationship between the degree of competition and assets' expected rates of return varies with product market demand. When demand is low, firms in more competitive industries earn higher returns, whereas when demand is high firms in more concentrated industries earn higher returns.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01454.x
+
+## 15. Hedge Fund Risk Dynamics: Implications for Performance Appraisal
+### Date
+- 13 March 2009
+### Author
+- NICOLAS P.B. BOLLEN
+- ROBERT E. WHALEY
+### Abstract
+Accurate appraisal of hedge fund performance must recognize the freedom with which managers shift asset classes, strategies, and leverage in response to changing market conditions and arbitrage opportunities. The standard measure of performance is the abnormal return defined by a hedge fund's exposure to risk factors. If exposures are assumed constant when, in fact, they vary through time, estimated abnormal returns may be incorrect. We employ an optimal changepoint regression that allows risk exposures to shift, and illustrate the impact on performance appraisal using a sample of live and dead funds during the period January 1994 through December 2005.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01455.x
+
+## 16. Income Risk and Portfolio Choice: An Empirical Study
+### Date
+- 13 March 2009
+### Author
+- XIAOHONG ANGERER
+- POK‐SANG LAM
+### Abstract
+This paper investigates the relationship between portfolio choice and labor income risk in the National Longitudinal Survey of Youth 1979 Cohort. Permanent income risk (variability of shocks to income that have permanent effect) significantly reduces the share of risky assets in the household's portfolio, while transitory income risk (variability of shocks with no lasting effect) does not. This result provides strong evidence that households' portfolio choices respond to labor income risks in a manner consistent with economic theory.
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01456.x
+
+## 17. Back Matter
+### Date
+- 13 March 2009
+### Author
+### Abstract
+
+### Link
+- https://doi.org/10.1111/j.1540-6261.2009.01458.x
+

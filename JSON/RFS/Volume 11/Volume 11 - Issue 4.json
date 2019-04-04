@@ -1,0 +1,82 @@
+{
+    "journal": "RFS",
+    "volume": "11",
+    "issue": "4",
+    "date": "October 1998",
+    "page": "Pages 679\u2013870",
+    "article": [
+        {
+            "no": "1",
+            "title": "Takeover Bidding with Toeholds: The Case of the Owner's Curse",
+            "date": "03 June 2015",
+            "author": [
+                "Rajdeep Singh"
+            ],
+            "abstract": "This article demonstrates that a potential acquirer with a toehold bids aggressively and possibly overpays in equilibrium. The aggressiveness of a bidder with a toehold increases further if he is able to renege on his winning bid. A bidder without a toehold, however, responds by shading his bids. The target firm can increase competition and the expected sale price if it only entertains nonretractable bids. This article provides testable implications on the probability of bidder success, stock price reactions on bid revisions and on resolution of the contest, and expected gains to bidders and the target firm.",
+            "link": "https://doi.org/10.1093/rfs/11.4.679"
+        },
+        {
+            "no": "2",
+            "title": "Pricing Strategy and Financial Policy",
+            "date": "03 June 2015",
+            "author": [
+                "Sudipto Dasgupta",
+                "Sheridan Titman"
+            ],
+            "abstract": "Recent empirical evidence indicates that capital structure changes affect pricing strategies. In most cases, prices increase following the implementation of a leveraged buyout of a major firm in an industry, with the more leveraged firm in the industry charging higher prices on average. Notable exceptions exist, however, when the leverage increasing firm's rival is relatively unlevered. The first observation is consistent with a model where firms compete for market share on the basis of price. The second observation can be explained within the context of a Stackelberg model where the relatively unlevered rival acts as the Stackelberg price leader.",
+            "link": "https://doi.org/10.1093/rfs/11.4.705"
+        },
+        {
+            "no": "3",
+            "title": "Arbitrage, Hedging, and Financial Innovation",
+            "date": "03 June 2015",
+            "author": [
+                "James Dow"
+            ],
+            "abstract": "I consider the costs and benefits of introducing a new security in a standard framework where uninformed traders with hedging needs interact with risk-averse informed traders. Opening a new market may make everybody worse off, even when the new security is traded in equilibrium. This article emphasizes cross-market links between hedging and speculative demands: risk-averse arbitrageurs can use the new market to hedge their positions in the preexisting security, which can affect liquidity in the old market. More generally, the availability of such hedging opportunities will influence the strategies to which traders will direct resources.",
+            "link": "https://doi.org/10.1093/rfs/11.4.739"
+        },
+        {
+            "no": "4",
+            "title": "Competitive Entry and Endogenous Risk in the Foreign Exchange Market",
+            "date": "03 June 2015",
+            "author": [
+                "Harald Hau"
+            ],
+            "abstract": "Recent evidence shows that higher trader participation increases exchange rate volatility. To explore this linkage, we develop a dynamic model of endogenous entry of traders subject to heterogenous expectational errors. Entry of a marginal trader into the market has two effects: it increases the capacity of the market to absorb exogenous supply risk, and at the same time it adds noise and endogenous trading risk. The competitive entry equilibrium is characterized by excessive market entry and excessively volatile prices. A positive tax on entrants can decrease trader participation and volatility while increasing market efficiency.",
+            "link": "https://doi.org/10.1093/rfs/11.4.757"
+        },
+        {
+            "no": "5",
+            "title": "Price Dynamics in Limit Order Markets",
+            "date": "03 June 2015",
+            "author": [
+                "Christine A. Parlour"
+            ],
+            "abstract": "This article presents a one-tick dynamic model of a limit order market. Agents choose to submit a limit order or a market order depending on the state of the limit order book. Each trader knows that her order will affect the order placement strategies of those who follow and the execution probability of her limit order is endogenous. All traders take this into account which, in equilibrium, generates systematic patterns in transaction prices and order placement strategies even with no asymmetric information.",
+            "link": "https://doi.org/10.1093/rfs/11.4.789"
+        },
+        {
+            "no": "6",
+            "title": "Modeling Asymmetric Comovements of Asset Returns",
+            "date": "03 June 2015",
+            "author": [
+                "Kenneth F. Kroner",
+                "Victor K. Ng"
+            ],
+            "abstract": "Existing time-varying covariance models usually impose strong restrictions on how past shocks affect the forecasted covariance matrix. In this article we compare the restrictions imposed by the four most popular multivariate GARCH models, and introduce a set of robust conditional moment tests to detect misspecification. We demonstrate that the choice of a multivariate volatility model can lead to substantially different conclusions in any application that involves forecasting dynamic covariance matrices (like estimating the optimal hedge ratio or deriving the risk minimizing portfolio). We therefore introduce a general model which nests these four models and their natural \u201casymmetric\u201d extensions. The new model is applied to study the dynamic relation between large and small firm returns.",
+            "link": "https://doi.org/10.1093/rfs/11.4.817"
+        },
+        {
+            "no": "7",
+            "title": "Payment System Settlement and Bank Incentives",
+            "date": "03 June 2015",
+            "author": [
+                "Charles M. Kahn",
+                "William Roberds"
+            ],
+            "abstract": "In this article, we consider the relative merits of net versus gross settlement of interbank payments. Net settlement economizes on the costs of holding non-interest-bearing reserves, but increases moral hazard problems. The \u201cput option\u201d value of default under net settlement can also distort banks' investment incentives. Absent these distortions, net settlement dominates gross, although the optimal net settlement scheme may involve a positive probability of default.",
+            "link": "https://doi.org/10.1093/rfs/11.4.845"
+        }
+    ]
+}

@@ -1,0 +1,261 @@
+{
+    "journal": "JF",
+    "volume": "39",
+    "issue": "2",
+    "date": "June 1984",
+    "page": "Pages: i-vii, 323-573, viii-xix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1984",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb00872.x"
+        },
+        {
+            "no": "2",
+            "title": "A Critical Reexamination of the Empirical Evidence on the Arbitrage Pricing Theory",
+            "date": "June 1984",
+            "author": [
+                "PHOEBUS J. DHRYMES",
+                "IRWIN FRIEND",
+                "N. BULENT GULTEKIN"
+            ],
+            "abstract": "This paper demonstrates that the Roll and Ross (RR) and other previously published tests of the APT are subject to several basic limitations. There is a general nonequivalence of factor analyzing small groups of securities and factor analyzing a group of securities sufficiently large for the APT model to hold. It is found that as one increases the number of securities, the number of \u201cfactors\u201d determined increases. This increase in the number of \u201cfactors\u201d with larger groups of securities cannot readily be explained by a distinction between \u201cpriced\u201d and \u201cnonpriced\u201d risk factors as it is impermissible to carry out tests on whether a given \u201crisk factor is priced\u201d using factor analytic procedures.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02312.x"
+        },
+        {
+            "no": "3",
+            "title": "A Critical Reexamination of the Empirical Evidence on the Arbitrage Pricing Theory: A Reply",
+            "date": "June 1984",
+            "author": [
+                "RICHARD ROLL",
+                "STEPHEN A. ROSS"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02313.x"
+        },
+        {
+            "no": "4",
+            "title": "Intertemporal Commodity Futures Hedging and the Production Decision",
+            "date": "June 1984",
+            "author": [
+                "THOMAS S. Y. HO"
+            ],
+            "abstract": "This paper deals with the producer's optimal use of commodity futures in hedging. The framework for analysis is an intertemporal consumption and investment model. The producer makes his production decisions at the beginning of the period and realizes his return at the end of the time interval. During the period, he faces both price and output uncertainties. In applying stochastic dynamic programming methods, this paper shows the effect of these risks on his consumption behavior. Further, the paper investigates his optimal hedging positions in the futures market over time and his optimal production decisions. Finally, implications of these results on the futures markets are discussed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02314.x"
+        },
+        {
+            "no": "5",
+            "title": "Seasonality Estimation in Thin Markets",
+            "date": "June 1984",
+            "author": [
+                "MICHAEL THEOBALD",
+                "VERA PRICE"
+            ],
+            "abstract": "The greater availability of daily data in the U.S. has led to a number of studies of the seasonality of daily stock (index) returns. While the studies recognized the potential impacts of nontrading and price\u2010adjustment delays in general, no formal analyses of such impacts were presented; in this paper analytic results are presented for the articulation between these phenomena. The implications of the analysis are discussed and shown to be consistent with a sample of U.K. index data. A modified form of the negative weekend effect is found to be present in the U.K. data analyzed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02315.x"
+        },
+        {
+            "no": "6",
+            "title": "Tax Effects in Term Structure Estimation",
+            "date": "June 1984",
+            "author": [
+                "JAMES V. JORDAN"
+            ],
+            "abstract": "This study is a refinement and an extension of an earlier study by McCulloch of tax effects in the regression equation for term structure estimation. This study includes tests for tax effects and heteroskedasticity, a reconsideration of the need for an instrumental variable, and a search for the capital gains tax rate in addition to the ordinary\u2010income tax rate. There are two major findings: (1) statistically significant tax\u2010induced bias in the non\u2010tax\u2010adjusted equation and (2) evidence that the capital gains tax is misspecified in the tax\u2010adjusted equation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02316.x"
+        },
+        {
+            "no": "7",
+            "title": "The Demand for Borrowed Reserves: A Switching Regression Model",
+            "date": "June 1984",
+            "author": [
+                "DONALD DUTKOWSKY"
+            ],
+            "abstract": "A microeconomic model of bank demand for borrowed reserves from the Federal Reserve is developed based upon constrained cost minimization. The derived demand function was found to correspond to behavior appropriate to the unknown switchpoint switching regression problem. When estimated, parameters generally conformed to theoretical expectations. The model was also tested for existence of switching regression behavior against a model similar to Goldfeld and Kane [12]. Significance exceeded 99% in all cases. With the advent of reserve intermediate targeting, it appears especially necessary to reinvestigate the behavior determining this important source of reserves.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02317.x"
+        },
+        {
+            "no": "8",
+            "title": "Conditions for Myopic Valuation and Serial Independence of the Market Excess Return in Discrete Time Models",
+            "date": "June 1984",
+            "author": [
+                "GUNTER FRANKE"
+            ],
+            "abstract": "In a multiperiod pure exchange world with investors displaying HARA\u2010preferences, conditions for period\u2010by\u2010period application of one\u2010period asset pricing models are derived first. The future investment opportunity set may be uncertain, provided that in every period a specific market portfolio variable depending on preferences is known as of the preceding date. This variable need not be completely deterministic.\nSecond, conditions for a serially independent market excess return are derived. These conditions render serial independence very unlikely. Hence estimation methods assuming serial independence are likely to yield biased results.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02318.x"
+        },
+        {
+            "no": "9",
+            "title": "On Valuing American Call Options with the Black\u2010Scholes European Formula",
+            "date": "June 1984",
+            "author": [
+                "ROBERT GESKE",
+                "RICHARD ROLL"
+            ],
+            "abstract": "Empirical papers on option pricing have uncovered systematic differences between market prices and values produced by the Black\u2010Scholes European formula. Such \u201cbiases\u201d have been found related to the exercise price, the time to maturity, and the variance. We argue here that the American option variant of the Black\u2010Scholes formula has the potential to explain the first two biases and may partly explain the third. It can also be used to understand the empirical finding that the striking price bias reverses itself in different sample periods. The expected form of the striking price bias is explained in detail and is shown to be closely related to past empirical findings.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02319.x"
+        },
+        {
+            "no": "10",
+            "title": "The Ex\u2010Dividend Day Behavior of Canadian Stock Prices: Tax Changes and Clientele Effects",
+            "date": "June 1984",
+            "author": [
+                "L. D. BOOTH",
+                "D. J. JOHNSTON"
+            ],
+            "abstract": "With some simple assumptions the ex\u2010dividend day price drop and the associated dividend can be used to measure the market's marginal tax rate. Previous research has estimated the implied tax rate for the U.S. This paper extends the analysis to Canada, where the tax treatment of dividends and capital gains is completely different from that in the U.S. The paper also presents estimates from 1970\u201380 to include four distinct periods when the tax treatment was different. Hence, we include an implied test of market efficiency as well as those for the \u201crelevance\u201d of taxes and the existence of tax based dividend clienteles.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02320.x"
+        },
+        {
+            "no": "11",
+            "title": "Investment Management and Risk Sharing with Multiple Managers",
+            "date": "June 1984",
+            "author": [
+                "CHRISTOPHER B. BARRY",
+                "LAURA T. STARKS"
+            ],
+            "abstract": "This paper addresses the investor's decision to employ multiple managers for the management of investment funds. Under conditions such that specialization of managers and diversification among managers are not motives for the use of multiple managers, the paper shows that risk sharing considerations may be sufficient. A model is developed in which the decision to use multiple managers is explicitly treated, and conditions are studied such that an increase or decrease in the number of managers would be desirable. Under some conditions, a multiple manager solution is preferred over a single manager solution.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02321.x"
+        },
+        {
+            "no": "12",
+            "title": "Real Stock Returns and Inflation",
+            "date": "June 1984",
+            "author": [
+                "THEODORE E. DAY"
+            ],
+            "abstract": "This paper develops the relation between the real rate of return on the stock market and changes in the price level using a multiperiod economy with production. The observed relation between real ex post stock returns and inflation is shown to be consistent with equilibrium in an economy with rational investors. The relation between expected real returns and expected inflation is shown to depend on the form of the economy's production function and on the form of investor preferences. When the production function exhibits stochastic constant returns to scale, the model explains the negative relation between expected real returns and expected inflation which has frequently been observed in empirical studies.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02322.x"
+        },
+        {
+            "no": "13",
+            "title": "Investigating the Valuation Effects of Announcements of Voluntary Corporate Selloffs",
+            "date": "June 1984",
+            "author": [
+                "GORDON J. ALEXANDER",
+                "P. GEORGE BENSON",
+                "JOAN M. KAMPMEYER"
+            ],
+            "abstract": "While there has been an abundance of empirical research on the subject of mergers and acquisitions, little research exists on a closely related topic\u2014voluntary corporate selloffs. This study examines the effect on shareholder wealth of the announcement by management of an investment decision to voluntarily sell part of its operations to another firm. Positive abnormal returns are found to occur on the announcement date. However, it is found that such selloffs generally occur after a period of abnormally negative returns, suggesting the announcement is preceded by the release of negative information about the firm.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02323.x"
+        },
+        {
+            "no": "14",
+            "title": "Option Pricing Bounds in Discrete Time",
+            "date": "June 1984",
+            "author": [
+                "STYLIANOS PERRAKIS",
+                "PETER J. RYAN"
+            ],
+            "abstract": "Upper and lower bounds are derived for call options traded at discrete intervals. These bounds are independent of assumptions on the stock price distribution other than a restriction satisfied by the stock being \u201cnon\u2010negative beta.\u201d The development of the bounds relies on the single\u2010price law and arbitrage arguments. Both single\u2010period and multiperiod results are produced, and put option bounds follow by extension. The bounds exist as equilibrium values given a consensus on stock price distribution; they are also valid for empirical studies, being adjustable for dividends and commissions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02324.x"
+        },
+        {
+            "no": "15",
+            "title": "The Harmonic Mean and Other Necessary Conditions for Stochastic Dominance",
+            "date": "June 1984",
+            "author": [
+                "WILLIAM H. JEAN"
+            ],
+            "abstract": "In this paper a systematic procedure is developed to determine necessary conditions for all degrees of stochastic dominance. The previously known necessary conditions are specified as to which degrees of dominance they belong, and two new necessary conditions, a ranking of harmonic means and a ranking of algebraic combinations of the first three moments, are derived.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02325.x"
+        },
+        {
+            "no": "16",
+            "title": "Municipal Bond Demand Premiums and Bond Price Volatility: A Note",
+            "date": "June 1984",
+            "author": [
+                "DUANE STOCK",
+                "EDWARD L. SCHREMS"
+            ],
+            "abstract": "The behavior of different components of municipal bond yields may have a significant impact upon bond price behavior. Specifically, demand premiums created by banks may stabilize bond yields in some maturity ranges but not in others; for example, short\u2010term municipals may be stabilized but not long\u2010term. This research implies that bank demand behavior may create demand premiums that stabilize prices of short\u2010term municipal bonds relative to those of Treasury bonds of like maturity. While this implication is inconsistent with the residual theory of bank demand, it is consistent with the tax\u2010shield theory attributed to Hendershott and Koch [3, 4].",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02326.x"
+        },
+        {
+            "no": "17",
+            "title": "A General Diversification Theorem: A Note",
+            "date": "June 1984",
+            "author": [
+                "RICHARD D. MacMINN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02327.x"
+        },
+        {
+            "no": "18",
+            "title": "The Ex\u2010Dividend Day Behavior of Stock Prices; A Re\u2010Examination of the Clientele Effect: A Comment",
+            "date": "June 1984",
+            "author": [
+                "EDWIN J. ELTON",
+                "MARTIN J. GRUBER",
+                "JOEL RENTZLER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02328.x"
+        },
+        {
+            "no": "19",
+            "title": "The Ex\u2010Dividend Day Behavior of Stock Prices; A Re\u2010Examination of the Clientele Effect: A Reply",
+            "date": "June 1984",
+            "author": [
+                "AVNER KALAY"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02329.x"
+        },
+        {
+            "no": "20",
+            "title": "Erratum: Flotation Cost Adjustment in Rate of Return Regulation: A Reply",
+            "date": "June 1984",
+            "author": [
+                "ENRIQUE R. ARZAC",
+                "MATITYAHU MARCUS"
+            ],
+            "abstract": "The following is A correction to a reply published in The Journal of Finance, Vol. 38, No. 4, September 1983, p. 1340.\nExpression (3) is incorrect. The correct expression should be:\nV\n=\n\u2211\nt\n=\n1\n\u221e\n(\n1\n\u2212\nb\n)\n(\nK\n0\n+\nN\n0\n)\n(\n1\n+\nb\nr\n\u2032\n)\nt\n\u2212\n1\nr\n\u2032\n(\n1\n+\nk\n)\nt\n\u2212\n(\nK\n0\n+\nN\n0\n)\n=\nf\nP\n0\n+\n[\n(\n1\n\u2212\nb\n)\nr\n\u2032\nk\n\u2212\nb\nr\n\u2032\n\u2212\n1\n]\nK\n0\nThis correction does not alter the original conclusion that\nV\n>\nfP\n0\n.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02330.x"
+        },
+        {
+            "no": "21",
+            "title": "Book Reviews",
+            "date": "June 1984",
+            "author": [],
+            "abstract": "Book Reviews in this Article:\nFinancial Futures. By DESMOND M. FITZGERALD.\nOption Pricing: Theory and Applications. Edited by MENACHEM BRENNER.\nModern Portfolio Theory and the Capital Asset Pricing Model: A User's Guide. By DIANA R. HARRINGTON.\nFinance: A Theoretical Introduction. By DAVID E. ALLEN.\nInternational Trade & Finance: Theory and Policy. By HOLLEY ULBRICH.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02331.x"
+        },
+        {
+            "no": "22",
+            "title": "MISCELLANEA",
+            "date": "June 1984",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02332.x"
+        },
+        {
+            "no": "23",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1984",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02310.x"
+        },
+        {
+            "no": "24",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1984",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb02311.x"
+        },
+        {
+            "no": "25",
+            "title": "Back Matter",
+            "date": "June 1984",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1984.tb00873.x"
+        }
+    ]
+}

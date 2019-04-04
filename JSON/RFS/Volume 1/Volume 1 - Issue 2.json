@@ -1,0 +1,50 @@
+{
+    "journal": "RFS",
+    "volume": "1",
+    "issue": "2",
+    "date": "April 1988",
+    "page": "Pages 111\u2013193",
+    "article": [
+        {
+            "no": "1",
+            "title": "Shareholder-Manager Conflict and the Information Content of Dividends",
+            "date": "07 March 2015",
+            "author": [
+                "Praveen Kumar"
+            ],
+            "abstract": "In a model of the firm in which insiders are privately informed of the firm's prospects and investment is endogenous, this article shows the existence of coarse dividend-signaling equilibria: Dividends partition the space of possible prospects of the firm, and changes in dividends reflect \u201cbroad\u201d, or nonincremental, changes in these prospects. These equilibria are shown to exist under general preference and technology structures, and it is argued that they closely match the following \u201canomalous\u201d empirical features of corporate dividend payouts: Dividend changes have nontrivial information effects, yet dividends are smoothed (in a world with cyclic prospects), and dividends are poor predictors of future earnings. Furthermore, in performing comparative statics, this article derives cross-sectional and time-series restrictions on the relation of dividend smoothing to observable firm attributes.",
+            "link": "https://doi.org/10.1093/rfs/1.2.111"
+        },
+        {
+            "no": "2",
+            "title": "Index-Futures Arbitrage and the Behavior of Stock Index Futures Prices",
+            "date": "07 March 2015",
+            "author": [
+                "A. Craig MacKinlay",
+                "Krishna Ramaswamy"
+            ],
+            "abstract": "This article examines intraday transaction data for S&P 500 stock index futures prices and the intraday quotes for the underlying index. The data indicate that the futures price changes are uncorrelated and that the variability of these price changes exceeds the variability of price changes in the S&P 500 index. This excess variability of the futures over the index remains even after controlling for the nonsynchronous prices in the index quotes, which induces auto-correlation in the index changes. We advance and examine empirically two hypotheses regarding the difference between the futures price and its theoretical value: that this \u2018mispricing\u2019 increases on average with maturity, and that it is path-dependent. Evidence supporting these hypotheses is presented.",
+            "link": "https://doi.org/10.1093/rfs/1.2.137"
+        },
+        {
+            "no": "3",
+            "title": "Preferences, Continuity, and the Arbitrage Pricing Theory",
+            "date": "07 March 2015",
+            "author": [
+                "Robert A. Jarrow"
+            ],
+            "abstract": "This article investigates the structure on preferences required to derive Ross's arbitrage pricing theory (APT). It is shown that only ordinal preferences are required. In particular, the APT does not require that agents possess preferences representable as risk-averse expected utility functions. This characteristic of the APT is not shared by the standard equilibrium-based capital asset pricing models.",
+            "link": "https://doi.org/10.1093/rfs/1.2.159"
+        },
+        {
+            "no": "4",
+            "title": "Residual Risk, Trading Costs, and Commodity Futures Risk Premia",
+            "date": "07 March 2015",
+            "author": [
+                "David Hirshleifer"
+            ],
+            "abstract": "Trading costs, in the form either of explicit charges or of the costs of becoming informed, limit the participation of some classes of traders in commodity future markets. When speculators face a fixed cost of participating in a futures market that is used by commodity producers to hedge their stochastic revenues, the futures risk premium deviates from the perfect market prediction. The deviation rises in absolute value with the square root of the trading cost and with the standard deviation of residual returns, and it is unrelated to the covariance of the futures price with producers' nonmarketable wealths. The residual-risk premium depends not on the total magnitude of the risk that producers hedge (i.e., aggregate revenue variance), but on the variability of their revenue relative to its mean (i.e., the coefficient of variation). Hence, even a commodity that constitutes a minor fraction of aggregate consumption may have a large premium for residual risk if the revenue derived from it has a large coefficient of variation.",
+            "link": "https://doi.org/10.1093/rfs/1.2.173"
+        }
+    ]
+}

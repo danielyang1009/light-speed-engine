@@ -1,0 +1,182 @@
+{
+    "journal": "JF",
+    "volume": "68",
+    "issue": "3",
+    "date": "June 2013",
+    "page": "Pages: fmi-bmi, 789-1305",
+    "article": [
+        {
+            "no": "1",
+            "title": "FRONT MATTER",
+            "date": "20 May 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12064"
+        },
+        {
+            "no": "2",
+            "title": "BACK MATTER",
+            "date": "20 May 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12065"
+        },
+        {
+            "no": "3",
+            "title": "Reverse Survivorship Bias",
+            "date": "07 February 2013",
+            "author": [
+                "JUHANI T. LINNAINMAA"
+            ],
+            "abstract": "Mutual funds often disappear following poor performance. When this poor performance is partly attributable to negative idiosyncratic shocks, funds' estimated alphas understate their true alphas. This paper estimates a structural model to correct for this bias. Although most funds still have negative alphas, they are not nearly as low as those suggested by the fund\u2010by\u2010fund regressions. Approximately 12% of funds have net four\u2010factor model alphas greater than 2% per year. All studies that run fund\u2010by\u2010fund regressions to draw inferences about the prevalence of skill among mutual fund managers are subject to reverse survivorship bias.",
+            "link": "https://doi.org/10.1111/jofi.12030"
+        },
+        {
+            "no": "4",
+            "title": "The Evolution of a Financial Crisis: Collapse of the Asset\u2010Backed Commercial Paper Market",
+            "date": "30 January 2013",
+            "author": [
+                "DANIEL COVITZ",
+                "NELLIE LIANG",
+                "GUSTAVO A. SUAREZ"
+            ],
+            "abstract": "This paper documents \u201cruns\u201d on asset\u2010backed commercial paper (ABCP) programs in 2007. We find that one\u2010third of programs experienced a run within weeks of the onset of the ABCP crisis and that runs, as well as yields and maturities for new issues, were related to program\u2010level and macro\u2010financial risks. These findings are consistent with the asymmetric information framework used to explain banking panics, have implications for commercial paper investors\u2019 degree of risk intolerance, and inform empirical predictions of recent papers on dynamic coordination failures.",
+            "link": "https://doi.org/10.1111/jofi.12023"
+        },
+        {
+            "no": "5",
+            "title": "Equilibrium Subprime Lending",
+            "date": "30 January 2013",
+            "author": [
+                "IGOR MAKAROV",
+                "GUILLAUME PLANTIN"
+            ],
+            "abstract": "This paper develops an equilibrium model of a subprime mortgage market. Our goal is to offer a benchmark with which the recent subprime boom and bust can be compared. The model is tractable and delivers plausible orders of magnitude for borrowing capacities, as well as default and trading intensities. We offer simple explanations for several phenomena in the subprime market, such as the prevalence of teaser rates and the clustering of defaults. In our model, both nondiversifiable and diversifiable income risks reduce debt capacities. Thus, debt capacities need not be higher when a larger fraction of income risk is diversifiable.",
+            "link": "https://doi.org/10.1111/jofi.12022"
+        },
+        {
+            "no": "6",
+            "title": "Access to Collateral and Corporate Debt Structure: Evidence from a Natural Experiment",
+            "date": "30 January 2013",
+            "author": [
+                "VIKRANT VIG"
+            ],
+            "abstract": "We investigate how firms respond to strengthening of creditor rights by examining their financial decisions following a securitization reform in India. We find that the reform led to a reduction in secured debt, total debt, debt maturity, and asset growth, and an increase in liquidity hoarding by firms. Moreover, the effects are more pronounced for firms that have a higher proportion of tangible assets because these firms are more affected by the secured transactions law. These results suggest that strengthening of creditor rights introduces a liquidation bias and documents how firms alter their debt structures to contract around it.",
+            "link": "https://doi.org/10.1111/jofi.12020"
+        },
+        {
+            "no": "7",
+            "title": "Value and Momentum Everywhere",
+            "date": "30 January 2013",
+            "author": [
+                "CLIFFORD S. ASNESS",
+                "TOBIAS J. MOSKOWITZ",
+                "LASSE HEJE PEDERSEN"
+            ],
+            "abstract": "We find consistent value and momentum return premia across eight diverse markets and asset classes, and a strong common factor structure among their returns. Value and momentum returns correlate more strongly across asset classes than passive exposures to the asset classes, but value and momentum are negatively correlated with each other, both within and across asset classes. Our results indicate the presence of common global risks that we characterize with a three\u2010factor model. Global funding liquidity risk is a partial source of these patterns, which are identifiable only when examining value and momentum jointly across markets. Our findings present a challenge to existing behavioral, institutional, and rational asset pricing theories that largely focus on U.S. equities.",
+            "link": "https://doi.org/10.1111/jofi.12021"
+        },
+        {
+            "no": "8",
+            "title": "Can Time\u2010Varying Risk of Rare Disasters Explain Aggregate Stock Market Volatility?",
+            "date": "30 January 2013",
+            "author": [
+                "JESSICA A. WACHTER"
+            ],
+            "abstract": "Why is the equity premium so high, and why are stocks so volatile? Why are stock returns in excess of government bill rates predictable? This paper proposes an answer to these questions based on a time\u2010varying probability of a consumption disaster. In the model, aggregate consumption follows a normal distribution with low volatility most of the time, but with some probability of a consumption realization far out in the left tail. The possibility of this poor outcome substantially increases the equity premium, while time\u2010variation in the probability of this outcome drives high stock market volatility and excess return predictability.",
+            "link": "https://doi.org/10.1111/jofi.12018"
+        },
+        {
+            "no": "9",
+            "title": "State\u2010Level Business Cycles and Local Return Predictability",
+            "date": "30 January 2013",
+            "author": [
+                "GEORGE M. KORNIOTIS",
+                "ALOK KUMAR"
+            ],
+            "abstract": "This study examines whether local stock returns vary with local business cycles in a predictable manner. We find that U.S. state portfolios earn higher future returns when state\u2010level unemployment rates are higher and housing collateral ratios are lower. During the 1978 to 2009 period, geography\u2010based trading strategies earn annualized risk\u2010adjusted returns of 5%. This abnormal performance reflects time\u2010varying systematic risks and local\u2010trading induced mispricing. Consistent with the mispricing explanation, the evidence of predictability is stronger among firms with low visibility and high local ownership. Nonlocal domestic and foreign investors arbitrage away the predictable patterns in local returns in 1 year.",
+            "link": "https://doi.org/10.1111/jofi.12017"
+        },
+        {
+            "no": "10",
+            "title": "Do Hostile Takeovers Stifle Innovation? Evidence from Antitakeover Legislation and Corporate Patenting",
+            "date": "30 January 2013",
+            "author": [
+                "JULIAN ATANASSOV"
+            ],
+            "abstract": "I examine how strong corporate governance proxied by the threat of hostile takeovers affects innovation and firm value. I find a significant decline in the number of patents and citations per patent for firms incorporated in states that pass antitakeover laws relative to firms incorporated in states that do not. Most of the impact of antitakeover laws on innovation occurs 2 or more years after they are passed, indicating a causal effect. The negative effect of antitakeover laws is mitigated by the presence of alternative governance mechanisms such as large shareholders, pension fund ownership, leverage, and product market competition.",
+            "link": "https://doi.org/10.1111/jofi.12019"
+        },
+        {
+            "no": "11",
+            "title": "Decentralized Investment Management: Evidence from the Pension Fund Industry",
+            "date": "30 January 2013",
+            "author": [
+                "DAVID BLAKE",
+                "ALBERTO G. ROSSI",
+                "ALLAN TIMMERMANN",
+                "IAN TONKS",
+                "RUSS WERMERS"
+            ],
+            "abstract": "Using a unique data set, we document two secular trends in the shift from centralized to decentralized pension fund management over the past few decades. First, across asset classes, sponsors replace generalist balanced managers with better\u2010performing specialists. Second, within asset classes, funds replace single managers with multiple competing managers following diverse strategies to reduce scale diseconomies as funds grow larger relative to capital markets. Consistent with a model of decentralized management, sponsors implement risk controls that trade off higher anticipated alphas of multiple specialists against the increased difficulty in coordinating their risk\u2010taking and the greater uncertainty concerning their true skills.",
+            "link": "https://doi.org/10.1111/jofi.12024"
+        },
+        {
+            "no": "12",
+            "title": "Financial Regulation, Financial Globalization, and the Synchronization of Economic Activity",
+            "date": "30 January 2013",
+            "author": [
+                "SEBNEM KALEMLI\u2010OZCAN",
+                "ELIAS PAPAIOANNOU",
+                "JOS\u00c9\u2010LUIS PEYDR\u00d3"
+            ],
+            "abstract": "We analyze the impact of financial globalization on business cycle synchronization using a proprietary database on banks\u2019 international exposure for industrialized countries during 1978 to 2006. Theory makes ambiguous predictions and identification has been elusive due to lack of bilateral time\u2010varying financial linkages data. In contrast to conventional wisdom and previous empirical studies, we identify a strong negative effect of banking integration on output synchronization, conditional on global shocks and country\u2010pair heterogeneity. Similarly, we show divergent economic activity due to higher integration using an exogenous de\u2010jure measure of integration based on financial regulations that harmonized EU markets.",
+            "link": "https://doi.org/10.1111/jofi.12025"
+        },
+        {
+            "no": "13",
+            "title": "How Wise Are Crowds? Insights from Retail Orders and Stock Returns",
+            "date": "07 February 2013",
+            "author": [
+                "ERIC K. KELLEY",
+                "PAUL C. TETLOCK"
+            ],
+            "abstract": "We analyze the role of retail investors in stock pricing using a database uniquely suited for this purpose. The data allow us to address selection bias concerns and to separately examine aggressive (market) and passive (limit) orders. Both aggressive and passive net buying positively predict firms\u2019 monthly stock returns with no evidence of return reversal. Only aggressive orders correctly predict firm news, including earnings surprises, suggesting they convey novel cash flow information. Only passive net buying follows negative returns, consistent with traders providing liquidity and benefiting from the reversal of transitory price movements. These actions contribute to market efficiency.",
+            "link": "https://doi.org/10.1111/jofi.12028"
+        },
+        {
+            "no": "14",
+            "title": "Sentiment during Recessions",
+            "date": "30 January 2013",
+            "author": [
+                "DIEGO GARC\u00cdA"
+            ],
+            "abstract": "This paper studies the effect of sentiment on asset prices during the 20th century (1905 to 2005). As a proxy for sentiment, we use the fraction of positive and negative words in two columns of financial news from the New York Times. The main contribution of the paper is to show that, controlling for other well\u2010known time\u2010series patterns, the predictability of stock returns using news' content is concentrated in recessions. A one standard deviation shock to our news measure during recessions predicts a change in the conditional average return on the DJIA of 12 basis points over one day.",
+            "link": "https://doi.org/10.1111/jofi.12027"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "20 May 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12033"
+        },
+        {
+            "no": "16",
+            "title": "ANNOUNCEMENTS",
+            "date": "20 May 2013",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12066"
+        },
+        {
+            "no": "17",
+            "title": "The Maturity Rat Race\u2014Erratum",
+            "date": "20 May 2013",
+            "author": [],
+            "abstract": "The editor regrets two errors in the Brunnermeier and Oehmke article (2013) in the April 2013 issue. On page 484, text was omitted from the second sentence of the third paragraph. The text should read, \u201cHowever, the key friction that leads to inefficient short term financing is the borrower's inability to commit to an aggregate maturity structure when dealing with multiple creditors.\u201d\nOn page 491, the upper limit of the integral at the beginning of equation 4 was incorrectly typeset in the equation and in the paragraph immediately following. The correct equation and text should read:\n\u222b\nS\nt\nL\nS\n~\nt\n(\n\u03b1\n)\n\u03bb\nE\n\u03b8\n|\nS\nt\ndG\n(\nS\nt\n)\n+\n[\n1\n\u2212\nG\n(\nS\n~\nt\n(\n\u03b1\n)\n)\n]\nD\n0\n,\nt\n=\n1\n.\n(4)\nThe interpretation of (4) is as follows. When\nS\nt\n<\nS\n~\nt\n(\n\u03b1\n)\n, the short\u2010term cred\u2010 itors withdraw their funding at the rollover date and the financial institution defaults. Long\u2010term debt is accelerated, and each rollover creditor receives\n\u03bb\nE\n[\n\u03b8\n|\nS\nt\n]\n=\n\u03bb\n\u222b\n0\n\u221e\n\u03b8\ndF\n\u03b8\n|\nS\nt\n.8 When\nS\nt\n\u2265\nS\n~\nt\n(\n\u03b1\n)\n, short\u2010term creditors roll over, in which case they are promised a new face value\nD\nt\n,\nT\n(\nS\nt\n), which in expectation has to be worth\nD\n0\n,\nt\n. Together, these two terms must be equal to the setup cost for rollover creditors to break even.",
+            "link": "https://doi.org/10.1111/jofi.12054"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Term structures of asset prices and returns
 ### Date
 - Apr 2018
-### Authors
+### Author
 - David Backus
 - Nina Boyarchenko
 - Mikhail Chernov
@@ -26,7 +26,7 @@ We explore the term structures of claims to a variety of cash flows, namely, US 
 ## 3. When saving is gambling
 ### Date
 - Apr 2018
-### Authors
+### Author
 - J. Anthony Cookson
 ### Abstract
 Prize-linked savings (PLS) accounts, which allocate interest using lottery payments rather than fixed interest, encourage savings by appealing to households’ gambling preferences. I introduce new data on casino cash withdrawals to measure gambling, and examine how individual gambling expenditures respond to the introduction of PLS in Nebraska using a difference-in-differences design. After PLS is introduced, individuals who live in counties that offer PLS reduce gambling by at least 3% more than unaffected individuals. The substitution effect is stronger in low-frills gambling environments, which most resemble PLS, indicating that these accounts fulfill the desire to gamble.
@@ -36,7 +36,7 @@ Prize-linked savings (PLS) accounts, which allocate interest using lottery payme
 ## 4. Flexible prices and leverage
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Francesco D’Acunto
 - Ryan Liu
 - Carolin Pflueger
@@ -49,7 +49,7 @@ The frequency with which firms adjust output prices helps explain persistent dif
 ## 5. Downside risks and the cross-section of asset returns
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Adam Farago
 - Roméo Tédongap
 ### Abstract
@@ -60,7 +60,7 @@ In an intertemporal equilibrium asset pricing model featuring disappointment ave
 ## 6. Competition, reach for yield, and money market funds
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Gabriele La Spada
 ### Abstract
 Do asset managers reach for yield because of competitive pressures in a low rate environment? I propose a tournament model of money market funds (MMFs) to study this question. When funds care about relative performance, an increase in the risk premium leads funds with lower default costs to increase risk taking, while funds with higher default costs decrease risk taking. Without changes in the premium, lower risk-free rates reduce the risk taking of all funds. I show that these predictions are consistent with MMF risk taking during the 2002–2008 period and that rank-based performance is a key determinant of money flows to MMFs.
@@ -70,7 +70,7 @@ Do asset managers reach for yield because of competitive pressures in a low rate
 ## 7. Human capital relatedness and mergers and acquisitions
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Kyeong Hun Lee
 - David C. Mauer
 - Emma Qianying Xu
@@ -82,7 +82,7 @@ We construct a measure of the pairwise relatedness of firms’ human capital to 
 ## 8. How does the stock market absorb shocks?
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Murray Z. Frank
 - Ali Sanati
 ### Abstract
@@ -93,7 +93,7 @@ Using a comprehensive set of news stories, we find a stark difference in market 
 ## 9. Exploring the sources of default clustering
 ### Date
 - Apr 2018
-### Authors
+### Author
 - S Azizpour
 - K. Giesecke
 - G. Schwenkler
@@ -105,7 +105,7 @@ We study the sources of corporate default clustering in the United States. We re
 ## 10. The effects of media slant on firm behavior
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Vishal P. Baloria
 - Jonas Heese
 ### Abstract

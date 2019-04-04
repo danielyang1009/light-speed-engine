@@ -1,0 +1,252 @@
+{
+    "journal": "JF",
+    "volume": "44",
+    "issue": "4",
+    "date": "September 1989",
+    "page": "Pages: i-vi, 827-1114, vii-lxix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00301.x"
+        },
+        {
+            "no": "2",
+            "title": "Order Imbalances and Stock Price Movements on October 19 and 20, 1987",
+            "date": "September 1989",
+            "author": [
+                "MARSHALL E. BLUME",
+                "A. CRAIG MACKINLAY",
+                "BRUCE TERKER"
+            ],
+            "abstract": "On October 19, 1987, NYSE stocks in the S&P index declined seven percentage points more than NYSE stocks not in this index. In the first hour of trading on October 20, the S&P stocks virtually recovered to the level of the non\u2010S&P stocks. There is a strong relation between order imbalances and stock price movements, both in analyses of time series and cross\u2010sections. Thus, in addition to the breakdown in the linkage between future prices and the spot index on these two days, there were also breakdowns in the linkage among NYSE stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02626.x"
+        },
+        {
+            "no": "3",
+            "title": "Capital Controls and International Capital Market Segmentation: The Evidence from the Japanese and American Stock Markets",
+            "date": "September 1989",
+            "author": [
+                "MUSTAFA N. GULTEKIN",
+                "N. BULENT GULTEKIN",
+                "ALESSANDRO PENATI"
+            ],
+            "abstract": "The paper focuses on two countries, Japan and the U.S., to test the integration of capital markets. In Japan, the enactment of the Foreign Exchange and Foreign Trade Control Law in December of 1980 amounted to a true regime switch that virtually eliminated capital controls. Using multifactor asset pricing models, we show that the price of risk in the U.S. and Japanese stock markets was different before, but not after, the liberalization. This evidence supports the view that governments are the source of international capital market segmentation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02627.x"
+        },
+        {
+            "no": "4",
+            "title": "Temporal Aggregation and the Continuous\u2010Time Capital Asset Pricing Model",
+            "date": "September 1989",
+            "author": [
+                "FRANCIS A. LONGSTAFF"
+            ],
+            "abstract": "We examine how the empirical implications of the Capital Asset Pricing Model (CAPM) are affected by the length of the period over which returns are measured. We show that the continuous\u2010time CAPM becomes a multifactor model when the asset pricing relation is aggregated temporally. We use Hansen's Generalized Method of Moments (GMM) approach to test the continuous\u2010time CAPM at an unconditional level using size portfolio returns. The results indicate that the continuous\u2010time CAPM cannot be rejected. In contrast, the discrete\u2010time CAPM is easily rejected by the tests. These results have a number of important implications for the interpretation of tests of the CAPM which have appeared in the literature.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02628.x"
+        },
+        {
+            "no": "5",
+            "title": "Nonnormalities and Tests of Asset Pricing Theories",
+            "date": "September 1989",
+            "author": [
+                "JOHN AFFLECK\u2010GRAVES",
+                "BILL MCDONALD"
+            ],
+            "abstract": "The robustness of the multivariate test of Gibbons, Ross, and Shanken (1986) to nonnormalities in the residual covariance matrix is examined. After considering the relative performance of various tests of normality, simulation techniques are used to determine the effects of nonnormalities on the multivariate test. It is found that, where the sample nonnormalities are severe, the size and/or power of the test can be seriously misstated. However, it is also shown that these extreme sample values may overestimate the population parameters. Hence, we conclude that the multivariate test is reasonably robust with respect to typical levels of nonnormality.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02629.x"
+        },
+        {
+            "no": "6",
+            "title": "Measuring Corporate Bond Mortality and Performance",
+            "date": "September 1989",
+            "author": [
+                "EDWARD I. ALTMAN"
+            ],
+            "abstract": "This study develops an alternative way to measure default risk and suggests an appropriate method to assess the performance of fixed\u2010income investors over the entire spectrum of credit\u2010quality classes. The approach seeks to measure the expected mortality of bonds and the consequent loss rates in a manner similar to the way actuaries assess mortality of human beings. The results show that all bond ratings outperform riskless Treasuries over a ten\u2010year horizon and that, despite relatively high mortality rates, B\u2010rated and CCC\u2010rated securities outperform all other rating categories for the first four years after issuance, with BB\u2010rated securities outperforming all others thereafter.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02630.x"
+        },
+        {
+            "no": "7",
+            "title": "Original Issue High Yield Bonds: Aging Analyses of Defaults, Exchanges, and Calls",
+            "date": "September 1989",
+            "author": [
+                "PAUL ASQUITH",
+                "DAVID W. MULLINS JR.",
+                "ERIC D. WOLFF"
+            ],
+            "abstract": "This paper presents an aging analysis of 741 high yield bonds and finds default, exchange, and call percentages substantially higher than reported in earlier studies. By December 31, 1988, cumulative defaults are 34 percent for bonds issued in 1977 and 1978 and range from 19 to 27 percent for issue years 1979\u20131983 and from 3 to 9 percent for issue years 1984\u20131986. Exchanges are also a significant factor although they often are followed by default. Moreover, a significant percentage of high yield debt, 26\u201347 percent for 1977\u20131982, has been called. By December 31, 1988, approximately one third of the bonds issued in 1977\u20131982 has defaulted or been exchanged, and an additional one third had been called. On average, only 28 percent of these issues are still outstanding. There is no evidence that early results for more recent issue years differ markedly from issue years 1977 to 1982.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02631.x"
+        },
+        {
+            "no": "8",
+            "title": "Management Buyouts of Divisions and Shareholder Wealth",
+            "date": "September 1989",
+            "author": [
+                "GAILEN L. HITE",
+                "MICHAEL R. VETSUYPENS"
+            ],
+            "abstract": "This paper examines the wealth effects to parent company shareholders around the announcement of divisional management buyouts. Despite the relative absence of \u201carm's\u2010length\u201d bargaining between buyer and seller, there is no evidence that divisional management buyouts result in reductions in parent company share prices. Instead, small but statistically significant wealth gains are found during the two\u2010day period surrounding the buyout announcement. This evidence suggests that divisional buyouts reallocate ownership of corporate assets to higher valued uses and that parent company stockholders share in the expected benefits of this change in ownership structure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02632.x"
+        },
+        {
+            "no": "9",
+            "title": "Insider Trading, Ownership Structure, and the Market Assessment of Corporate Sell\u2010Offs",
+            "date": "September 1989",
+            "author": [
+                "MARK HIRSCHEY",
+                "JANIS K. ZAIMA"
+            ],
+            "abstract": "This paper finds that the generally favorable assessment of corporate sell\u2010off decisions is most apparent for closely held firms where insider net\u2010buy activity is prevalent during the prior six\u2010month period. This suggests that insider trader activity and ownership structure information are used by the market in the characterization of sell\u2010off decisions as favorable or unfavorable for investors.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02633.x"
+        },
+        {
+            "no": "10",
+            "title": "Estimating the Strategic Value of Long\u2010Term Forward Purchase Contracts Using Auction Models",
+            "date": "September 1989",
+            "author": [
+                "JOHN E. PARSONS"
+            ],
+            "abstract": "We demonstrate how an auction model can be used in a traditional capital budgeting context to assign a value to the strategic advantage of long\u2010term forward contracts. Research in the field of industrial organization has pointed to the danger of ex post opportunistic bargaining as a motivation for the use of forward contracts in natural resources and manufactured products, but no operational procedure exists for estimating the value secured by these contracts. Arbitrage methods for valuing forward contracts assume a competitive market in which the factors creating the bargaining problem and motivating the use of long\u2010term contracts are not present. Use of the model is illustrated in the case of take\u2010or\u2010pay contracts for natural gas.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02634.x"
+        },
+        {
+            "no": "11",
+            "title": "Overreactions in the Options Market",
+            "date": "September 1989",
+            "author": [
+                "JEREMY STEIN"
+            ],
+            "abstract": "This paper examines the \u201cterm structure\u201d of options' implied volatilities, using data on S&P 100 index options. Because implied volatility is strongly mean reverting, the implied volatility on a longer maturity option should move by less than one percent in response to a one percent move in the implied volatility of a shorter maturity option. Empirically, this elasticity turns out to be larger than suggested by rational expectations theory\u2014long\u2010maturity options tend to \u201coverreact\u201d to changes in the implied volatility of short\u2010maturity options.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02635.x"
+        },
+        {
+            "no": "12",
+            "title": "Capital Flow Controls, International Asset Pricing, and Investors' Welfare: A Multi\u2010Country Framework",
+            "date": "September 1989",
+            "author": [
+                "VIHANG ERRUNZA",
+                "ETIENNE LOSQ"
+            ],
+            "abstract": "This paper investigates the impact of capital flow restrictions on the pricing of securities, on the optimal portfolio composition for investors of different nationalities, and on their welfare. Under capital flow controls, the equilibrium price of a security is determined jointly by its international and national risk premiums, and investors acquire nationality\u2010specific portfolios along with a market\u2010wide proxy for the world market portfolio. Removal of investment barriers generally leads to an increase in the aggregate market value of the affected securities, and all investors favor a move toward market integration. Introduction of different types of index funds in the world market generally increases world market integration and investor welfare.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02636.x"
+        },
+        {
+            "no": "13",
+            "title": "A Re\u2010Examination of the Wealth Expropriation Hypothesis: The Case of Captive Finance Subsidiaries",
+            "date": "September 1989",
+            "author": [
+                "ILEEN B. MALITZ"
+            ],
+            "abstract": "This paper re\u2010examines Kim, McConnell, and Greenwood's (1977) study of captive finance subsidiaries. We suggest that, as long as firms are concerned with reputation, shareholders will find it costly to engage in deliberate wealth expropriation and thus have no incentives to do so. Using a sample of fourteen firms with publicly traded debt, we compute and test the statistical significance of abnormal returns to shareholders, bondholders, and the firm when captives are incorporated. We find that shareholders gain 14.9 percent, bondholders lose 2.3 percent, and firm value increases a significant 10.4 percent. Our results are inconsistent with wealth expropriation and lend support to the importance of reputation to firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02637.x"
+        },
+        {
+            "no": "14",
+            "title": "The Impact of In\u2010Substance Defeasance on Bondholder and Shareholder Wealth",
+            "date": "September 1989",
+            "author": [
+                "JAMES M. JOHNSON",
+                "ROBERT A. PARI",
+                "LEONARD ROSENTHAL"
+            ],
+            "abstract": "This paper hypothesizes and tests the argument that a defeasance transaction initiates a wealth transfer from stockholders to bondholders. Our empirical tests provide compelling evidence of bondholder gains, but no support for shareholder losses when a firm defeases debt. We speculate that the insignificance of the loss to shareholders is primarily due to the size disparity between the value of defeased debt and the market value of outstanding equity, since the suggested economic merits of defeasance appear unfounded. Although we cannot prove an agency motivation for defeasance, we find a very high correlation between compensation tied to earnings and defeasing debt at a book gain.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02638.x"
+        },
+        {
+            "no": "15",
+            "title": "Corporate Bankruptcy and Managers' Self\u2010Serving Behavior",
+            "date": "September 1989",
+            "author": [
+                "CLAUDIO F. LODERER",
+                "DENNIS P. SHEEHAN"
+            ],
+            "abstract": "We investigate whether insiders of bankrupt firms hold less stock or reduce their stockholdings compared to what we observed for insiders of similar firms that do not go bankrupt. We find little evidence of such time\u2010series and cross\u2010sectional differences in spite of the fact that the stock value of bankrupt firms falls by more than ninety percent in the five years preceding bankruptcy. One implication of our results is that the amount of stock owned and the magnitude of the trades undertaken by corporate insiders of both bankrupt and nonbankrupt firms appear to provide no information about firm value.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02639.x"
+        },
+        {
+            "no": "16",
+            "title": "A Re\u2010Examination of the Market Reaction to Failed Mergers",
+            "date": "September 1989",
+            "author": [
+                "WALLACE N. DAVIDSON III",
+                "DIPA DUTIA",
+                "LOUIS CHENG"
+            ],
+            "abstract": "This study examines the revaluation of shares surrounding the cancellation of mergers over the years 1976\u20131985. The results are first categorized according to the party cancelling the merger and then by subsequent merger activity. The results are as expected: target firms that become involved in merger activity, subsequent to the cancellation, experience positive cumulative prediction errors (CPEs). Targets that do not become involved in subsequent merger activity have CPEs that return to pre\u2010merger announcement levels. These results do not vary when bidders or targets cancel the merger.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02640.x"
+        },
+        {
+            "no": "17",
+            "title": "The Resiliency of the High\u2010Yield Bond Market: The LTV Default",
+            "date": "September 1989",
+            "author": [
+                "CHRISTOPHER K. MA",
+                "RAMESH P. RAO",
+                "RICHARD L. PETERSON"
+            ],
+            "abstract": "This paper investigates the resiliency of the new\u2010issue high\u2010yield bond market by examining the changes in implied default rates of such bonds before and after the largest high\u2010yield bond default, i.e., the LTV bankruptcy. Specifically, the paper compares implied default probabilities of high\u2010yield bonds during the post\u2010LTV period calculated from actual new\u2010issue yields with instrumental default probabilities calculated on the assumption that the default had not occurred. A comparison of these probabilities reveals that the market's perception of default on the high risk segment of the bond market increased significantly after the LTV bankruptcy. However, the effect was transitory, lasting only six months. Thus, the market was resilient to a major default.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02641.x"
+        },
+        {
+            "no": "18",
+            "title": "Initial Public Offering Underpricing: The Issuer's View\u2014A Comment",
+            "date": "September 1989",
+            "author": [
+                "CHRISTOPHER B. BARRY"
+            ],
+            "abstract": "I consider the underpricing of initial public offerings (IPOs) and the wealth transfers implicit in that underpricing. I find that initial returns properly measure the \u201cissue cost\u201d effect of underpricing as a fraction of offer size, as in Ritter (1987). I present a measure of the wealth effect of underpricing per share retained. In general, the wealth effects on existing shareholders depend on the extent to which they participate in the offering. From the perspective of issuer's wealth, I find that Dawson's (1987) measure is appropriate only in the special case in which all of the prior owners'; shares are sold in the IPO.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02642.x"
+        },
+        {
+            "no": "19",
+            "title": "Book Reviews",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nStock Market Anomalies. By ELROY DIMSON, editor. Cambridge, UK: Cambridge University Press, 1988. Pp. xiii + 295.\nBond Markets, Analysis and Strategies. By FRANK J. FABOZZI and T. DESSA FABOZZI. Englewood Cliffs, NJ: Prentice Hall, 1989. Pp. xx + 347.\nThe Japanese Stock Market: Pricing Systems and Accounting Information. By SHIGEKI SAKAKIBARA, HIDETOSHI YAMAJI, HISAKATSU SAKURAI, KENGO SHIROSHITA, and SHIMON FUKUDA. New York: Praeger Publishers, 1988. Pp. xvi + 156.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02643.x"
+        },
+        {
+            "no": "20",
+            "title": "MISCELLANEA",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb02644.x"
+        },
+        {
+            "no": "21",
+            "title": "1989 AFA Metting Preliminary Program",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00302.x"
+        },
+        {
+            "no": "22",
+            "title": "Association Meetings",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00303.x"
+        },
+        {
+            "no": "23",
+            "title": "Announcements",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00304.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "September 1989",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1989.tb00305.x"
+        }
+    ]
+}

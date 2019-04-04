@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1984
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Convertible debt issuance, capital structure change and financing-related information
 ### Date
 - Jun 1984
-### Authors
+### Author
 - Larry Y. Dann
 - Wayne H. Mikkelson
 ### Abstract
@@ -25,7 +25,7 @@ This paper provides evidence on the valuation effects of convertible debt issuan
 ## 3. Corporate financing and investment decisions when firms have information that investors do not have
 ### Date
 - Jun 1984
-### Authors
+### Author
 - Stewart C. Myers
 - Nicholas S. Majluf
 ### Abstract
@@ -36,7 +36,7 @@ This paper considers a firm that must issue common stock to raise cash to undert
 ## 4. The intraday speed of adjustment of stock prices to earnings and dividend announcements
 ### Date
 - Jun 1984
-### Authors
+### Author
 - James M. Patell
 - Mark A. Wolfson
 ### Abstract
@@ -47,7 +47,7 @@ This paper examines the effects of Broad Tape news releases of earnings and divi
 ## 5. Explaining investor preference for cash dividends
 ### Date
 - Jun 1984
-### Authors
+### Author
 - Hersh M. Shefrin
 - Meir Statman
 ### Abstract
@@ -58,7 +58,7 @@ The well-known tendency of investors to favor cash dividends emerges quite natur
 ## 6. Differential information and the small firm effect
 ### Date
 - Jun 1984
-### Authors
+### Author
 - Christopher B. Barry
 - Stephen J. Brown
 ### Abstract
@@ -69,7 +69,7 @@ We examine a model of market equilibrium in which there is less information avai
 ## 7. News items
 ### Date
 - Jun 1984
-### Authors
+### Author
 ### Abstract
 
 ### Link

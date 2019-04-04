@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. NBER Conference on corporate alliances
 ### Date
 - Jan 2006
-### Authors
+### Author
 - Josh Lerner
 - Raghuram Rajan
 ### Abstract
@@ -25,7 +25,7 @@
 ## 3. Do alliances promote knowledge flows?
 ### Date
 - Aug 2004
-### Authors
+### Author
 - Benjamin Gomes-Casseres
 - John Hagedoorn
 - Adam B. Jaffe
@@ -37,7 +37,7 @@ We explore the role of interfirm alliances as a mechanism for sharing technologi
 ## 4. Strategic alliances, equity stakes, and entry deterrence
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Richmond D. Mathews
 ### Abstract
 I study how strategic alliances and their impact on future competitive incentives can motivate interfirm equity sales. In the model, an alliance between an entrepreneurial firm and an established firm improves efficiency for both. However, the requisite knowledge transfer heightens the established firm's incentive to enter one of its partner's markets. I show that equity can eliminate the entry incentive, but accommodation is sometimes chosen to encourage entrepreneurial effort on future growth options. I analyze stake sizes, block pricing, and welfare effects. The results have implications for equity alliances, corporate venture capital, and the organization of research activities.
@@ -47,7 +47,7 @@ I study how strategic alliances and their impact on future competitive incentive
 ## 5. Dynamic forecasting behavior by analysts: Theory and evidence
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Jonathan Clarke
 - Ajay Subramanian
 ### Abstract
@@ -58,7 +58,7 @@ We develop a multi-period learning model to examine the relation between analyst
 ## 6. Stock price synchronicity and analyst coverage in emerging markets
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Kalok Chan
 - Allaudeen Hameed
 ### Abstract
@@ -69,7 +69,7 @@ This paper examines the relation between the stock price synchronicity and analy
 ## 7. The impact of regulation on market risk
 ### Date
 - Feb 2005
-### Authors
+### Author
 - Paul A. Grout
 - Anna Zalewska
 ### Abstract
@@ -80,7 +80,7 @@ While it is crucial to understand the impact of regulatory changes on market ris
 ## 8. Why are European IPOs so rarely priced outside the indicative price range?
 ### Date
 - May 2005
-### Authors
+### Author
 - Tim Jenkinson
 - Alan D. Morrison
 - William J. Wilhelm
@@ -92,7 +92,7 @@ Unlike in the U.S., the initial price range for European IPOs is seldom revised,
 ## 9. Flights of fancy: Corporate jets, CEO perquisites, and inferior shareholder returns
 ### Date
 - May 2005
-### Authors
+### Author
 - David Yermack
 ### Abstract
 This paper studies perquisites of CEOs, focusing on personal use of company planes. For firms that have disclosed this managerial benefit, average shareholder returns underperform market benchmarks by more than 4% annually, a severe gap far exceeding the costs of resources consumed. Around the date of the initial disclosure, firms’ stock prices drop by an average of 1.1%. Regression analysis finds no significant associations between CEOs’ perquisites and their compensation or percentage ownership, but variables related to personal CEO characteristics, especially long-distance golf club memberships, have significant explanatory power for personal aircraft use.

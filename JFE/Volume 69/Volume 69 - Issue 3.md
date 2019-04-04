@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Dynamic derivative strategies
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Jun Liu
 - Jun Pan
 ### Abstract
@@ -25,7 +25,7 @@ We study optimal investment strategies given investor access not only to bond an
 ## 3. Termination fees in mergers and acquisitions
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Micah S Officer
 ### Abstract
 The paper provides evidence on the effects of including a target termination fee in a merger contract. I test the implications of the hypothesis that termination fees are used by self-interested target managers to deter competing bids and protect “sweetheart” deals with white knight bidders, presumably resulting in lower premiums for target shareholders. An alternative hypothesis is that target managers use termination fees to encourage bidder participation by ensuring that the bidder is compensated for the revelation of valuable private information released during merger negotiations. My empirical evidence demonstrates that merger deals with target termination fees involve significantly higher premiums and success rates than deals without such clauses. Furthermore, only weak support is found for the contention that termination fees deter competing bids. Overall, the evidence suggests that termination fee use is at least not harmful, and is likely beneficial, to target shareholders.
@@ -35,7 +35,7 @@ The paper provides evidence on the effects of including a target termination fee
 ## 4. Breaking up is hard to do? An analysis of termination fee provisions and merger outcomes
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Thomas W. Bates
 - Michael L. Lemmon
 ### Abstract
@@ -46,7 +46,7 @@ We examine the provision of termination fee clauses in merger agreements between
 ## 5. Earnings management and investor protection: an international comparison
 ### Date
 - Sep 2003
-### Authors
+### Author
 - Christian Leuz
 - Dhananjay Nanda
 - Peter D Wysocki
@@ -58,7 +58,7 @@ This paper examines systematic differences in earnings management across 31 coun
 ## 6. Index Volume 69
 ### Date
 - Sep 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link

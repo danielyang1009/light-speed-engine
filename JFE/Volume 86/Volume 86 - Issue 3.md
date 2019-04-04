@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why do firms hold so much cash? A tax-based explanation
 ### Date
 - Nov 2006
-### Authors
+### Author
 - C. Fritz Foley
 - Jay C. Hartzell
 - Sheridan Titman
@@ -27,7 +27,7 @@ US corporations hold significant amounts of cash on their balance sheets. This p
 ## 3. Investment, consumption, and hedging under incomplete markets
 ### Date
 - Oct 2006
-### Authors
+### Author
 - Jianjun Miao
 - Neng Wang
 ### Abstract
@@ -38,7 +38,7 @@ Entrepreneurs often face undiversifiable idiosyncratic risks from their business
 ## 4. Dealer intermediation and price behavior in the aftermarket for new bond issues
 ### Date
 - Oct 2006
-### Authors
+### Author
 - Richard C. Green
 - Burton Hollifield
 - Norman Schürhoff
@@ -50,7 +50,7 @@ Municipal bonds trade in decentralized broker-dealer markets, and are underprice
 ## 5. Testing financing constraints on firm investment using variable capital
 ### Date
 - Nov 2006
-### Authors
+### Author
 - Andrea Caggese
 ### Abstract
 We consider a dynamic multifactor model of investment with financing imperfections, adjustment costs and fixed and variable capital. We use the model to derive a test of financing constraints based on a reduced form variable capital equation. Simulation results show that this test correctly identifies financially constrained firms even when the estimation of firms’ investment opportunities is very noisy. In addition, the test is well specified in the presence of both concave and convex adjustment costs of fixed capital. We confirm empirically the validity of this test on a sample of small Italian manufacturing companies.
@@ -60,7 +60,7 @@ We consider a dynamic multifactor model of investment with financing imperfectio
 ## 6. Do mutual funds time the market? Evidence from portfolio holdings
 ### Date
 - Sep 2006
-### Authors
+### Author
 - George J. Jiang
 - Tong Yao
 - Tong Yu
@@ -72,7 +72,7 @@ Previous research finds insignificant market-timing ability for mutual funds usi
 ## 7. Affiliated firms and financial support: Evidence from Indian business groups
 ### Date
 - Sep 2006
-### Authors
+### Author
 - Radhakrishnan Gopalan
 - Vikram Nanda
 - Amit Seru
@@ -84,7 +84,7 @@ We investigate the functioning of internal capital markets in Indian Business Gr
 ## 8. Comparative advantage, demand for external finance, and financial development
 ### Date
 - Nov 2006
-### Authors
+### Author
 - Quy-Toan Do
 - Andrei A. Levchenko
 ### Abstract
@@ -95,7 +95,7 @@ This paper analyzes the effect of comparative advantage in international trade o
 ## 9. Estimating systemic risk in the international financial system
 ### Date
 - Oct 2006
-### Authors
+### Author
 - Söhnke M. Bartram
 - Gregory W. Brown
 - John E. Hund

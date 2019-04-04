@@ -1,0 +1,448 @@
+{
+    "journal": "JF",
+    "volume": "29",
+    "issue": "2",
+    "date": "May 1974",
+    "page": "Pages: i-viii, 313-727, ix-xiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "May 1974",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb00450.x"
+        },
+        {
+            "no": "2",
+            "title": "[Photograph]: John Lintner, Thirty\u2010third President of the American Finance Association, 1974",
+            "date": "May 1974",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb00451.x"
+        },
+        {
+            "no": "3",
+            "title": "THE ECONOMIC AND FINANCE LITERATURE AND DECISION MAKING",
+            "date": "May 1974",
+            "author": [
+                "Sherman J. Maisel"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03046.x"
+        },
+        {
+            "no": "4",
+            "title": "ADDRESS BY THE HONORABLE GEORGE P. SCHULTZ THE SECRETARY OF THE TREASURY BEFORE A JOINT MEETING OF THE AMERICAN ECONOMIC ASSOCIATION AND THE AMERICAN FINANCE ASSOCIATION",
+            "date": "May 1974",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03047.x"
+        },
+        {
+            "no": "5",
+            "title": "Session Topic: The Flow of Funds and Interest Rates\u2014I: U.S. Financial Models",
+            "date": "May 1974",
+            "author": [
+                "Lawrence S. Ritter",
+                "James Duesenberry",
+                "Barry Bosworth"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03048.x"
+        },
+        {
+            "no": "6",
+            "title": "SHORT\u2010TERM FINANCIAL MODELS AT THE FEDERAL RESERVE BOARD",
+            "date": "May 1974",
+            "author": [
+                "James L. Pierce",
+                "Thomas D. Thomson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03049.x"
+        },
+        {
+            "no": "7",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "Stephen M. Goldfeld",
+                "Allan H. Meltzer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03050.x"
+        },
+        {
+            "no": "8",
+            "title": "Session Topic: Capital Asset Pricing Models in an International Context",
+            "date": "May 1974",
+            "author": [
+                "Michael Adler",
+                "B. H. Solnik"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03051.x"
+        },
+        {
+            "no": "9",
+            "title": "WORLD, NATIONAL, AND INDUSTRY FACTORS IN EQUITY RETURNS",
+            "date": "May 1974",
+            "author": [
+                "Donald R. Lessard"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03052.x"
+        },
+        {
+            "no": "10",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "Buckner A. Wallingford II",
+                "James L. Bicksler"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03053.x"
+        },
+        {
+            "no": "11",
+            "title": "Session Topic: Individual Investors and Mutual Funds",
+            "date": "May 1974",
+            "author": [
+                "Jack L. Treynor",
+                "Fischer Black",
+                "Myron Scholes"
+            ],
+            "abstract": "Summary. The modern theory of finance suggests that most investors should put part or all of their money into a \u201cmarket portfolio\u201d mixed with borrowing or lending. Empirical evidence generally supports the theory, but there are some unanswered questions about the composition of the best market portfolio, about the apparent attractiveness of low risk stocks relative to high risk stocks, and about ways of minimizing transaction costs. Attempts to create a fund based on these principles and to make it available to a large number of investors have uncovered some important problems. Legal costs due to government regulation, the costs of managing a fund, and especially the costs of selling it are all much higher than one might expect. Despite these problems, efforts to create such funds seem destined for eventual success.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03054.x"
+        },
+        {
+            "no": "12",
+            "title": "THE INDIVIDUAL INVESTOR: ATTRIBUTES AND ATTITUDES",
+            "date": "May 1974",
+            "author": [
+                "Ronald C. Lease",
+                "Wilbur G. Lewellen",
+                "Gary G. Schlarbaum"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03055.x"
+        },
+        {
+            "no": "13",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "John G. McDonald"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03056.x"
+        },
+        {
+            "no": "14",
+            "title": "Session Topic: Risk, Information and Capital Budgeting",
+            "date": "May 1974",
+            "author": [
+                "William F. Sharpe",
+                "Alexander A. Robichek",
+                "Richard A. Cohn"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03057.x"
+        },
+        {
+            "no": "15",
+            "title": "ON THE PRICING OF CORPORATE DEBT: THE RISK STRUCTURE OF INTEREST RATES*",
+            "date": "May 1974",
+            "author": [
+                "Robert C. Merton"
+            ],
+            "abstract": "I. Introduction\nThe value of a particular issue of corporate debt depends essentially on three items: (1) the required rate of return on riskless (in terms of default) debt (e.g., government bonds or very high grade corporate bonds); (2) the various provisions and restrictions contained in the indenture (e.g., maturity date, coupon rate, call terms, seniority in the event of default, sinking fund, etc.); (3) the probability that the firm will be unable to satisfy some or all of the indenture requirements (i.e., the probability of default).\nWhile a number of theories and empirical studies has been published on the term structure of interest rates (item 1), there has been no systematic development of a theory for pricing bonds when there is a significant probability of default. The purpose of this paper is to present such a theory which might be called a theory of the risk structure of interest rates. The use of the term \u201crisk\u201d is restricted to the possible gains or losses to bondholders as a result of (unanticipated) changes in the probability of default and does not include the gains or losses inherent to all bonds caused by (unanticipated) changes in interest rates in general. Throughout most of the analysis, a given term structure is assumed and hence, the price differentials among bonds will be solely caused by differences in the probability of default.\nIn a seminal paper, Black and Scholes 1 present a complete general equilibrium theory of option pricing which is particularly attractive because the final formula is a function of \u201cobservable\u201d variables. Therefore, the model is subject to direct empirical tests which they 2 performed with some success. Merton 5 clarified and extended the Black\u2010Scholes model. While options are highly specialized and relatively unimportant financial instruments, both Black and Scholes 1 and Merton 5, 6 recognized that the same basic approach could be applied in developing a pricing theory for corporate liabilities in general.\nIn Section II of the paper, the basic equation for the pricing of financial instruments is developed along Black\u2010Scholes lines. In Section III, the model is applied to the simplest form of corporate debt, the discount bond where no coupon payments are made, and a formula for computing the risk structure of interest rates is presented. In Section IV, comparative statics are used to develop graphs of the risk structure, and the question of whether the term premium is an adequate measure of the risk of a bond is answered. In Section V, the validity in the presence of bankruptcy of the famous Modigliani\u2010Miller theorem 7 is proven, and the required return on debt as a function of the debt\u2010to\u2010equity ratio is deduced. In Section VI, the analysis is extended to include coupon and callable bonds.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03058.x"
+        },
+        {
+            "no": "16",
+            "title": "THE VALUE OF INFORMATION AND THE OPTIMAL GOVERNMENTAL GUARANTEE ON ITS AGENCIES' ISSUES",
+            "date": "May 1974",
+            "author": [
+                "Robert H. Edelstein"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03059.x"
+        },
+        {
+            "no": "17",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "John B. Long Jr.",
+                "Lawrence Fisher"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03060.x"
+        },
+        {
+            "no": "18",
+            "title": "Session Topic: Finance and Investment: Refereed Papers I",
+            "date": "May 1974",
+            "author": [
+                "Charles W. Haley",
+                "Terrence F. Martell",
+                "George C. Philippatos"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03061.x"
+        },
+        {
+            "no": "19",
+            "title": "STOCHASTIC DEMAND, OUTPUT AND THE COST OF CAPITAL",
+            "date": "May 1974",
+            "author": [
+                "Michael S. Long",
+                "George A. Racette"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03062.x"
+        },
+        {
+            "no": "20",
+            "title": "THE TOKYO STOCK EXCHANGE AND THE CAPITAL ASSET PRICING MODEL",
+            "date": "May 1974",
+            "author": [
+                "Sheila C. Lau",
+                "Stuart R. Quay",
+                "Carl M. Ramsey"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03063.x"
+        },
+        {
+            "no": "21",
+            "title": "PORTFOLIO ANALYSIS UNDER UNCERTAIN MEANS, VARIANCES, AND COVARIANCES",
+            "date": "May 1974",
+            "author": [
+                "Christopher B. Barry"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03064.x"
+        },
+        {
+            "no": "22",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "George C. Pinches"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03065.x"
+        },
+        {
+            "no": "23",
+            "title": "Session Topic: Finance and Investment: Refereed Papers II",
+            "date": "May 1974",
+            "author": [
+                "Eugene F. Brigham",
+                "Stuart I. Greenbaum",
+                "Mukhtar M. Ali"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03066.x"
+        },
+        {
+            "no": "24",
+            "title": "SYSTEMATIC RISK, FINANCIAL DATA, AND BOND RATING RELATIONSHIPS IN A REGULATED INDUSTRY ENVIRONMENT",
+            "date": "May 1974",
+            "author": [
+                "Ronald W. Melicher",
+                "David F. Rush"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03067.x"
+        },
+        {
+            "no": "25",
+            "title": "INVESTOR EVALUATION OF FOREIGN AND DOMESTIC RISK",
+            "date": "May 1974",
+            "author": [
+                "Alan K. Severn"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03068.x"
+        },
+        {
+            "no": "26",
+            "title": "THE PRICE ADJUSTMENT PROCESS OF BONDS TO RATING RECLASSIFICATIONS: A TEST OF BOND MARKET EFFICIENCY",
+            "date": "May 1974",
+            "author": [
+                "Steven Katz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03069.x"
+        },
+        {
+            "no": "27",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "Victor L. Andrews"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03070.x"
+        },
+        {
+            "no": "28",
+            "title": "Session Topic: Corporate Finance and Capital Budgeting",
+            "date": "May 1974",
+            "author": [
+                "James Van Horn",
+                "William L. White"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03071.x"
+        },
+        {
+            "no": "29",
+            "title": "A PROGRAMMING APPROACH TO CORPORATE FINANCIAL MANAGEMENT",
+            "date": "May 1974",
+            "author": [
+                "STEWART C. MYERS",
+                "GERALD A. POGUE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03072.x"
+        },
+        {
+            "no": "30",
+            "title": "CAPITAL BUDGETING OF RISKY PROJECTS WITH \u201cIMPERFECT\u201d MARKETS FOR PHYSICAL CAPITAL",
+            "date": "May 1974",
+            "author": [
+                "MARCUS C. BOGUE",
+                "RICHARD ROLL"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03073.x"
+        },
+        {
+            "no": "31",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "RICHARD S. BOWER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03074.x"
+        },
+        {
+            "no": "32",
+            "title": "Session Topic: International Trade and Finance: Balance of Payments And International Investment",
+            "date": "May 1974",
+            "author": [
+                "LAWRENCE B. KRAUSE",
+                "KEITH JOHNSON",
+                "LAWRENCE R. KLEIN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03075.x"
+        },
+        {
+            "no": "33",
+            "title": "THE BALANCE OF PAYMENTS AND POLICY MIX: SIMULATIONS BASED ON A U.S. MODEL",
+            "date": "May 1974",
+            "author": [
+                "PETER B. KENEN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03076.x"
+        },
+        {
+            "no": "34",
+            "title": "THE TRADE EFFECTS OF DIRECT INVESTMENT",
+            "date": "May 1974",
+            "author": [
+                "Michael Adler",
+                "Guy V. G. Stevens"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03077.x"
+        },
+        {
+            "no": "35",
+            "title": "DISCUSSION",
+            "date": "May 1974",
+            "author": [
+                "C. FRED BERGSTEN",
+                "HELEN B. JUNZ"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03078.x"
+        },
+        {
+            "no": "36",
+            "title": "Session Topic: What Should Housing Policies be?",
+            "date": "May 1974",
+            "author": [
+                "ANTHONY DOWNS",
+                "JOHN F. KAIN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03079.x"
+        },
+        {
+            "no": "37",
+            "title": "WHAT SHOULD U.S. HOUSING POLICIES BE?",
+            "date": "May 1974",
+            "author": [
+                "FRANK DE LEEUW"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03080.x"
+        },
+        {
+            "no": "38",
+            "title": "Miscellanea",
+            "date": "May 1974",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03081.x"
+        },
+        {
+            "no": "39",
+            "title": "American Finance Association Business Proceedings",
+            "date": "May 1974",
+            "author": [
+                "Robert A. Kavesh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03082.x"
+        },
+        {
+            "no": "40",
+            "title": "Report of the Executive Secretary and Treasurer, December 29, 1973",
+            "date": "May 1974",
+            "author": [
+                "Robert A. Kavesh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03083.x"
+        },
+        {
+            "no": "41",
+            "title": "Report of the Managing Editor of theJournal of Finance; Covering the Year 1973",
+            "date": "May 1974",
+            "author": [
+                "ALEXANDER A. ROBICHEK"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb03084.x"
+        },
+        {
+            "no": "42",
+            "title": "Back Matter",
+            "date": "May 1974",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1974.tb00452.x"
+        }
+    ]
+}

@@ -1,0 +1,309 @@
+{
+    "journal": "JF",
+    "volume": "48",
+    "issue": "2",
+    "date": "June 1993",
+    "page": "Pages: i-vi, 425-830, vii-xxix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "June 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb00911.x"
+        },
+        {
+            "no": "2",
+            "title": "CEO Compensation in Financially Distressed Firms: An Empirical Analysis",
+            "date": "June 1993",
+            "author": [
+                "STUART C. GILSON",
+                "MICHAEL R. VETSUYPENS"
+            ],
+            "abstract": "This paper studies senior management compensation policy in 77 publicly traded firms that filed for bankruptcy or privately restructured their debt during 1981 to 1987. Almost one\u2010third of all CEOs are replaced, and those who keep their jobs often experience large salary and bonus reductions. Newly appointed CEOs with ties to previous management are typically paid 35% less than the CEOs they replace. In contrast, outside replacement CEOs are typically paid 36% more than their predecessors, and are often compensated with stock options. On average, CEO wealth is significantly related to shareholder wealth after firms renegotiate their debt contracts. However, managers' compensation is sometimes explicitly tied to the value of creditors' claims.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04722.x"
+        },
+        {
+            "no": "3",
+            "title": "Market Discounts and Shareholder Gains for Placing Equity Privately",
+            "date": "June 1993",
+            "author": [
+                "MICHAEL HERTZEL",
+                "RICHARD L. SMITH"
+            ],
+            "abstract": "Despite selling at substantial discounts, private placements of equity are associated with positive abnormal returns. We find evidence that discounts reflect information costs borne by private investors and abnormal returns reflect favorable information about firm value. Results are consistent with the role of private placements as a solution to the Myers and Majluf underinvestment problem and with the use of private placements to signal undervaluation. We also find some evidence of anticipated monitoring benefits from private sales of equity. For the smaller firms that comprise our sample, information effects appear to be relatively more important than ownership effects.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04723.x"
+        },
+        {
+            "no": "4",
+            "title": "Limitation of Liability and the Ownership Structure of the Firm",
+            "date": "June 1993",
+            "author": [
+                "ANDREW WINTON"
+            ],
+            "abstract": "This paper models the optimal choice of shareholder liability. If investors want managers to be monitored, the monitors should be residual claimants (shareholders), and monitoring and firm value will increase as shareholders commit more of their wealth to the firm. When liquidating wealth is costly, contingent liability dominates direct investment as a wealth commitment device; however, if wealth is unobservable, under this regime only relatively poor investors will hold shares in equilibrium. This may be prevented at a cost by verifying shareholder wealth and restricting stock transfers. Comparative statics on various liability regimes are used to motivate actual contractual arrangements.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04724.x"
+        },
+        {
+            "no": "5",
+            "title": "Incentive Conflicts, Bundling Claims, and the Interaction among Financial Claimants",
+            "date": "June 1993",
+            "author": [
+                "CHESTER S. SPATT",
+                "FREDERIC P. STERBENZ"
+            ],
+            "abstract": "We show that for certain capital structures equity has an incentive to buy out another claim and alter the firm's investment strategy so as to maximize the combined value of equity and the acquired claim. This restructuring may reintroduce agency problems into capital structures which appear to avoid agency conflicts. By bundling claims, it is possible to avoid this agency problem. The agency problem is also eliminated by dispersed ownership of the claims.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04725.x"
+        },
+        {
+            "no": "6",
+            "title": "A General Equilibrium Model of International Portfolio Choice",
+            "date": "June 1993",
+            "author": [
+                "RAMAN UPPAL"
+            ],
+            "abstract": "We investigate, in a two\u2010country general equilibrium model, whether a bias in consumption towards domestic goods will necessarily lead to a preference for domestic securities. We develop a model where investors are constrained to consume only from their domestic capital stock and where it is costly to transfer capital across countries. In this model, investors less risk averse than an investor with log utility bias their portfolios towards domestic assets. Investors more risk averse than log, however, prefer foreign assets. Thus, this model suggests that it is unlikely that the portfolios observed empirically can be explained by the high proportion of domestic goods in total consumption.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04726.x"
+        },
+        {
+            "no": "7",
+            "title": "Macroeconomic Influences and the Variability of the Commodity Futures Basis",
+            "date": "June 1993",
+            "author": [
+                "WARREN BAILEY",
+                "K. C. CHAN"
+            ],
+            "abstract": "We provide evidence that the spread between commodity spot and futures prices (the basis) reflects the macroeconomic risks common to all asset markets. The basis of many commodities is correlated with the stock index dividend yield and corporate bond quality spread. Explanatory power is related to exposure to macroeconomic fluctuations: about 40 percent of the variation in the basis of a portfolio of commodities with high business cycle sensitivity is explained by the stock and bond yields. Further diagnostics indicate that these associations are largely due to the presence of risk premiums, rather than spot price forecasts, in the basis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04727.x"
+        },
+        {
+            "no": "8",
+            "title": "Tax\u2010Induced Trading and the Turn\u2010of\u2010the\u2010Year Anomaly: An Intraday Study",
+            "date": "June 1993",
+            "author": [
+                "MARK D. GRIFFITHS",
+                "ROBERT W. WHITE"
+            ],
+            "abstract": "This study tests the tax\u2010induced trading hypothesis as an explanation of the turn\u2010of\u2010the\u2010year anomaly using Canadian and U.S. intraday data. Since the Canadian tax year\u2010end precedes the calendar year\u2010end by five business days, tax effects may be isolated. We find the anomaly is related to the degree of seller\u2010and buyer\u2010initiated trading and depends upon the incidence of the taxation year\u2010end. Seller\u2010initiated transactions (at bid prices) dominate until the tax year\u2010end after which buyer\u2010initiated trades (at ask prices) dominate. The anomaly is a function of bid\u2010ask prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04728.x"
+        },
+        {
+            "no": "9",
+            "title": "A Semiautoregression Approach to the Arbitrage Pricing Theory",
+            "date": "June 1993",
+            "author": [
+                "JIANPING MEI"
+            ],
+            "abstract": "This paper developes a semiautoregression (SAR) approach to estimate factors of the arbitrage pricing theory (APT) that has the advantage of providing a simple asymptotic variance\u2010covariance matrix for the factor estimates, which makes it easy to adjust for measurement errors. Using the extracted factors, I confirm the finding that the APT describes asset returns slightly better than the CAPM, although there is still some mispricing in the APT model. I find that not only are the factors \u201cpriced\u201d by the market, but the factor premiums move over time in relation to business cycle variables.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04729.x"
+        },
+        {
+            "no": "10",
+            "title": "Empirical Testing of Real Option\u2010Pricing Models",
+            "date": "June 1993",
+            "author": [
+                "LAURA QUIGG"
+            ],
+            "abstract": "This research is the first to examine the empirical predictions of a real option\u2010pricing model using a large sample of market prices. We find empirical support for a model that incorporates the option to wait to develop land. The option model has explanatory power for predicting transactions prices over and above the intrinsic value. Market prices reflect a premium for the option to wait to invest that has a mean value of 6% in our sample. We also estimate implied standard deviations for individual commercial property prices ranging from 18 to 28% per year.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04730.x"
+        },
+        {
+            "no": "11",
+            "title": "Predictable Stock Returns: The Role of Small Sample Bias",
+            "date": "June 1993",
+            "author": [
+                "CHARLES R. NELSON",
+                "MYUNG J. KIM"
+            ],
+            "abstract": "Predictive regressions are subject to two small sample biases: the coefficient estimate is biased if the predictor is endogenous, and asymptotic standard errors in the case of overlapping periods are biased downward. Both biases work in the direction of making t\u2010ratios too large so that standard inference may indicate predictability even if none is present. Using annual returns since 1872 and monthly returns since 1927 we estimate empirical distributions by randomizing residuals in the VAR representation of the variables. The estimated biases are large enough to affect inference in practice, and should be accounted for when studying predictability.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04731.x"
+        },
+        {
+            "no": "12",
+            "title": "Testing the Predictive Power of Dividend Yields",
+            "date": "June 1993",
+            "author": [
+                "WILLIAM N. GOETZMANN",
+                "PHILIPPE JORION"
+            ],
+            "abstract": "This paper reexamines the ability of dividend yields to predict long\u2010horizon stock returns. We use the bootstrap methodology, as well as simulations, to examine the distribution of test statistics under the null hypothesis of no forecasting ability. These experiments are constructed so as to maintain the dynamics of regressions with lagged dependent variables over long horizons. We find that the empirically observed statistics are well within the 95% bounds of their simulated distributions. Overall there is no strong statistical evidence indicating that dividend yields can be used to forecast stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04732.x"
+        },
+        {
+            "no": "13",
+            "title": "Calls of Warrants: Timing and Market Reaction",
+            "date": "June 1993",
+            "author": [
+                "PAUL SCHULTZ"
+            ],
+            "abstract": "This paper examines the timing of, and reaction to, calls of callable warrants. Three main findings emerge. First, unlike convertible bonds or preferred stock, callable warrants are called almost as soon as possible. Second, there is a negative price reaction of about 3 percent when a call is announced. Finally, at the completion of a call, the stock price rebounds by an average of 7 percent. The total reaction from announcement through completion of the call is a positive excess return of about 4 percent.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04733.x"
+        },
+        {
+            "no": "14",
+            "title": "Information, Ownership Structure, and Shareholder Voting: Evidence from Shareholder\u2010Sponsored Corporate Governance Proposals",
+            "date": "June 1993",
+            "author": [
+                "LILLI A. GORDON",
+                "JOHN POUND"
+            ],
+            "abstract": "This paper examines how information and ownership structure affect voting outcomes on shareholder\u2010sponsored proposals to change corporate governance structure. We find that the outcomes of votes vary systematically with the governance and performance records of target firms, the identity of proposal sponsors, and the type of proposal. We also find that outcomes vary significantly as a function of ownership by insiders, institutions, outside blockholders, ESOPs, and outside directors who are blockholders. These results suggest that both public information and ownership structure have a significant influence on voting outcomes.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04734.x"
+        },
+        {
+            "no": "15",
+            "title": "Do Short\u2010Term Objectives Lead to Under\u2010 or Overinvestment in Long\u2010Term Projects?",
+            "date": "June 1993",
+            "author": [
+                "LUCIAN ARYE BEBCHUK",
+                "LARS A. STOLE"
+            ],
+            "abstract": "We examine managerial investment decisions in the presence of imperfect information and short\u2010term managerial objectives. Prior research has argued that such an environment induces managers to underinvest in long\u2010run projects. We show that short\u2010term objectives and imperfect information may also lead to overinvestment, and we identify how the direction of the distortion depends upon the type of informational imperfection present. When investors cannot observe the level of investment in the long\u2010run project, suboptimal investment will be induced. When investors can observe investment but not its productivity, however, overinvestment will occur.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04735.x"
+        },
+        {
+            "no": "16",
+            "title": "The Strategic Role of Debt in Takeover Contests",
+            "date": "June 1993",
+            "author": [
+                "BHAGWAN CHOWDHRY",
+                "VIKRAM NANDA"
+            ],
+            "abstract": "In a takeover contest, the presence of bidders' existing debtholders, if they can be expropriated by issuing new debt with equal or senior priority, allows bidders to commit to bid more than their valuation of the target. Such commitment can be beneficial because it deters potential entry by subsequent bidders and may allow a first bidder to acquire the target at a bargain price. The cost is that if entry by subsequent bidders does nevertheless take place, because the first bidder has committed himself to bid high premia, a bidding war ensues resulting in offers that may involve excessive premia, i.e., bids that are larger than the bidders' valuation of the target.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04736.x"
+        },
+        {
+            "no": "17",
+            "title": "Disagreements among Shareholders over a Firm's Disclosure Policy",
+            "date": "June 1993",
+            "author": [
+                "OLIVER KIM"
+            ],
+            "abstract": "This paper examines the issue of voluntary disclosure of information by firms with heterogeneous shareholders. It shows that in a rational expectations setting, better informed shareholders prefer less disclosure than less well\u2010informed shareholders. This is due to differences in the adverse risk\u2010sharing effect and the beneficial cost\u2010saving effect of disclosure among shareholders with different risk tolerances and information acquisition cost functions. The presence of individual liquidity shocks is shown to reduce shareholder disagreements regarding a firm's disclosure policy.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04737.x"
+        },
+        {
+            "no": "18",
+            "title": "Options, Short Sales, and Market Completeness",
+            "date": "June 1993",
+            "author": [
+                "STEPHEN FIGLEWSKI",
+                "GWENDOLYN P. WEBB"
+            ],
+            "abstract": "This paper presents empirical evidence that trading in options contributes to both transactional and informational efficiency of the stock market by reducing the effect of constraints on short sales. The significantly higher average level of short interest exhibited by optionable stocks supports the argument that options facilitate short selling. We also find significant effects on option prices, related to the short interest in the underlying stock. We then present evidence that options also increase information efficiency. Earlier work, that is replicated and extended here, has suggested that short sale constraints cause stock prices to underweight negative information. Options appear to reduce that effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04738.x"
+        },
+        {
+            "no": "19",
+            "title": "A Reexamination of Traditional Hypotheses about the Term Structure: A Comment",
+            "date": "June 1993",
+            "author": [
+                "J. HUSTON MCCULLOCH"
+            ],
+            "abstract": "An example of a continuous time economy is given whose general equilibrium term structure of interest rates obeys the Expectations Hypothesis for continuously compounded interest rates and returns, contradicting the 1981 claim by Cox, Ingersoll, and Ross that such an economy is mathematically impossible. This example does not generate exploitable arbitrage opportunities of the type Cox, Ingersoll, and Ross claim must arise. The \u201cLogarithmic Expectations Hypothesis,\u201d as we call it, it therefore an acceptable benchmark from which to measure term premia in continuous time term structure modeling.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04739.x"
+        },
+        {
+            "no": "20",
+            "title": "Spanning with Short\u2010Selling Restrictions",
+            "date": "June 1993",
+            "author": [
+                "MARTIN RAAB",
+                "ROBERT SCHWAGER"
+            ],
+            "abstract": "In principle, the set of attainable payoff vectors is reduced if assets cannot be sold short. However, we show that the original space of payoff vectors is spanned despite short sale restrictions if there is one additional asset whose payoff is a positively weighted sum of the payoffs of the original assets. For example, this condition is automatically fulfilled if the original assets are stocks and the additional asset is an index future consisting of these stocks.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04740.x"
+        },
+        {
+            "no": "21",
+            "title": "Are the Discounts on Closed\u2010End Funds a Sentiment Index?",
+            "date": "June 1993",
+            "author": [
+                "NAI\u2010FU CHEN",
+                "RAYMOND KAN",
+                "MERTON H. MILLER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04741.x"
+        },
+        {
+            "no": "22",
+            "title": "Yes, Discounts on Closed\u2010End Funds Are a Sentiment Index",
+            "date": "June 1993",
+            "author": [
+                "NAVIN CHOPRA",
+                "CHARLES M. C. LEE",
+                "ANDREI SHLEIFER",
+                "RICHARD H. THALER"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04742.x"
+        },
+        {
+            "no": "23",
+            "title": "A Rejoinder",
+            "date": "June 1993",
+            "author": [
+                "Nai\u2010Fu Chen",
+                "Raymond Kan",
+                "Merton H. Miller"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04743.x"
+        },
+        {
+            "no": "24",
+            "title": "Summing Up",
+            "date": "June 1993",
+            "author": [
+                "Navin Chopra",
+                "Charles M. C. Lee",
+                "Andrei Shleifer",
+                "Richard H. Thaler"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04744.x"
+        },
+        {
+            "no": "25",
+            "title": "Book Reviews",
+            "date": "June 1993",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nClosed\u2010End Investment Companies: Issues and Answers. By SETH C. ANDERSON and JEFFERY A. BORN. Boston: Kluwer Academic Publishers, 1992. Pp. ix + 139.\nThe Future of American Banking. By JAMES R. BARTH, R. DAN BRUMBAUGH, Jr., and ROBERT E. LITAN. Armonk, N.Y.: M.E. Sharpe, Inc., 1992 (Columbia University Seminar Series). Pp. xxiii + 207.\nBankrupt: Restoring the Health and Profitability of Our Banking System. By LOWELL L. BRYAN. New York: Harper Business, 1991. Pp. x + 314.\nPrinciples of Finance with Corporate Applications. By DOUGLAS R. EMERY and JOHN D. FINNERTY. St. Paul: West Publishing, 1991. Pp. xxxii + 898.\nThe MIT Dictionary of Modern Economics. Edited by DAVID W. PEARCE. Cambridge, Mass.: The MIT Press, 1992. Pp. xii + 474.\nFutures and Options: Theory and Applications. By HANS R. STOLL and ROBERT E. WHALEY. Cincinnati: Southwestern Publishing Co., 1993. Pp. xii + 419.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04745.x"
+        },
+        {
+            "no": "26",
+            "title": "MISCELLANEA",
+            "date": "June 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04746.x"
+        },
+        {
+            "no": "27",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "June 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04720.x"
+        },
+        {
+            "no": "28",
+            "title": "ANNOUNCEMENTS",
+            "date": "June 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb04721.x"
+        },
+        {
+            "no": "29",
+            "title": "Back Matter",
+            "date": "June 1993",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1993.tb00912.x"
+        }
+    ]
+}

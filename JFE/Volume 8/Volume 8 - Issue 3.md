@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Sep 1980
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Measuring security price performance
 ### Date
 - Sep 1980
-### Authors
+### Author
 - Stephen J. Brown
 - Jerold B. Warner
 ### Abstract
@@ -26,7 +26,7 @@ Event studies focus on the impact of particular types of firm-specific events on
 ## 3. Discretely adjusted option hedges
 ### Date
 - Sep 1980
-### Authors
+### Author
 - Phelim P. Boyle
 - David Emanuel
 ### Abstract
@@ -37,7 +37,7 @@ This paper analyses the distribution of returns on a hedged portfolio, consistin
 ## 4. Mutual fund insurance
 ### Date
 - Sep 1980
-### Authors
+### Author
 - Mary Ann Gatto
 - Robert Geske
 - Robert Litzenberger
@@ -50,7 +50,7 @@ During the 1970's, mutual fund insurance was sold in the U.S. by the Harleysvill
 ## 5. Call for papers
 ### Date
 - Sep 1980
-### Authors
+### Author
 - Stanley Block
 ### Abstract
 

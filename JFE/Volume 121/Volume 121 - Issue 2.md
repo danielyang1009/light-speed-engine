@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Capital structure effects on the prices of equity call options
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Robert Geske
 - Avanidhar Subrahmanyam
 - Yi Zhou
@@ -26,7 +26,7 @@ We examine whether values of equity options traded on individual firms are sensi
 ## 3. The volatility of a firm's assets and the leverage effect
 ### Date
 - May 2016
-### Authors
+### Author
 - Jaewon Choi
 - Matthew Richardson
 ### Abstract
@@ -37,7 +37,7 @@ We investigate the volatility of firms’ assets in contrast to existing studies
 ## 4. Early option exercise: Never say never
 ### Date
 - May 2016
-### Authors
+### Author
 - Mads Vestergaard Jensen
 - Lasse Heje Pedersen
 ### Abstract
@@ -48,7 +48,7 @@ A classic result by Merton (1973) is that, except just before expiration or divi
 ## 5. Loans on sale: Credit market seasonality, borrower need, and lender rents
 ### Date
 - Sep 2015
-### Authors
+### Author
 - Justin Murfin
 - Mitchell Petersen
 ### Abstract
@@ -59,7 +59,7 @@ The market for corporate credit is characterized by significant seasonal variati
 ## 6. Market conditions, fragility, and the economics of market making
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Amber Anand
 - Kumar Venkataraman
 ### Abstract
@@ -70,7 +70,7 @@ Using audit-trail data from the Toronto Stock Exchange, we find that market make
 ## 7. US political corruption and firm financial policies
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Jared D. Smith
 ### Abstract
 Using US Department of Justice data on local political corruption, I find that firms in more corrupt areas hold less cash and have greater leverage than firms in less corrupt areas. The results are robust to including a range of controls and to using an instrumental variable approach, two alternative survey measures of corruption, and propensity score matching. Further, the association between corruption and leverage is largest among firms that operate primarily around their headquarters. Overall, the evidence is consistent with the hypothesis that firms manage liquidity downward and debt obligations upward to limit expropriation by corrupt local officials.
@@ -80,7 +80,7 @@ Using US Department of Justice data on local political corruption, I find that f
 ## 8. The value of connections in turbulent times: Evidence from the United States
 ### Date
 - Oct 2015
-### Authors
+### Author
 - Daron Acemoglu
 - Simon Johnson
 - Amir Kermani
@@ -94,7 +94,7 @@ The announcement of Timothy Geithner as nominee for Treasury Secretary in Novemb
 ## 9. Clouded judgment: The role of sentiment in credit origination
 ### Date
 - May 2016
-### Authors
+### Author
 - Kristle Cortés
 - Ran Duchin
 - Denis Sosyura
@@ -106,7 +106,7 @@ Using daily fluctuations in local sunshine as an instrument for sentiment, we st
 ## 10. Anxiety in the face of risk
 ### Date
 - Oct 2015
-### Authors
+### Author
 - Thomas M. Eisenbach
 - Martin C. Schmalz
 ### Abstract
@@ -117,7 +117,7 @@ We model an anxious agent as one who is more risk averse with respect to imminen
 ## 11. Time is money: Rational life cycle inertia and the delegation of investment management
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Hugh Hoikwang Kim
 - Raimond Maurer
 - Olivia S. Mitchell

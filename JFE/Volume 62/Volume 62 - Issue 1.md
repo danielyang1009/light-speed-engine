@@ -5,7 +5,7 @@
 ## 1. Factor dependence of Bermudan swaptions: fact or fiction?
 ### Date
 - Oct 2001
-### Authors
+### Author
 - Leif Andersen
 - Jesper Andreasen
 ### Abstract
@@ -16,7 +16,7 @@ This paper investigates the effect of interest rate correlation in pricing and e
 ## 2. Throwing away a billion dollars: the cost of suboptimal exercise strategies in the swaptions market
 ### Date
 - Oct 2001
-### Authors
+### Author
 - Francis A Longstaff
 - Pedro Santa-Clara
 - Eduardo S Schwartz
@@ -28,7 +28,7 @@ This paper studies the costs of applying single-factor exercise strategies to Am
 ## 3. Portfolio choice and equity characteristics: characterizing the hedging demands induced by return predictability
 ### Date
 - Oct 2001
-### Authors
+### Author
 - Anthony W Lynch
 ### Abstract
 This paper examines portfolio allocation across equity portfolios formed on the basis of characteristics like size and book-to-market. In particular, the paper assesses the impact of return predictability on portfolio choice for a multi-period investor with a coefficient of relative risk aversion of 4. Compared to the investor's allocation in her last period, return predictability with dividend yield causes the investor early in life to tilt her risky-asset portfolio away from high book-to-market stocks and away from small stocks. These results are explained using Merton's (Econometrica 41 (1973) 867) characterization of portfolio allocation by a multi-period investor in a continuous time setting. Abnormal returns relative to the investor's optimal early life portfolio are also calculated. These abnormal returns are found to exhibit the same cross-sectional patterns as abnormal returns calculated relative to the market portfolio: higher for small rather than large firms, and higher for high rather than low book-to-market firms. Thus, hedging demand may be a partial explanation for the high expected returns documented for small firms and high book-to-market firms. However, even with this hedging demand, the investor wants to sell short the low book-to market portfolio to hold the high book-to-market portfolio. The utility costs of using a value-weighted equity index or of ignoring predictability are also calculated. An investor using a value-weighted equity index would give up a much larger fraction of her wealth to have access to book-to-market portfolio than size portfolios. Finally, an investor would give up a much larger fraction of her wealth to have access to dividend yield information than term spread information.
@@ -38,7 +38,7 @@ This paper examines portfolio allocation across equity portfolios formed on the 
 ## 4. Pricing and hedging in incomplete markets
 ### Date
 - Oct 2001
-### Authors
+### Author
 - Peter Carr
 - Helyette Geman
 - Dilip B Madan
@@ -50,7 +50,7 @@ We present a new approach for positioning, pricing, and hedging in incomplete ma
 ## 5. The optimal spread and offering price for underwritten securities
 ### Date
 - Oct 2001
-### Authors
+### Author
 - John C. Yeoman
 ### Abstract
 The paper develops the net proceeds maximization theory explaining how the spread and offering price are determined in all underwritten offerings in the U.S. The theory yields solutions for the optimal spread and offering price for all underwritten securities and it yields comparative statics that explain the cross-sectional variation in actual spreads and initial returns across different types of underwritten securities. The theory also suggests two alternative explanations to the ones offered by Chen and Ritter (J. Finance 55 (2000) 1105) for the clustering of unseasoned equity offerings spreads at 7%.

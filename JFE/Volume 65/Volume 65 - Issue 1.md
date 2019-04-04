@@ -5,7 +5,7 @@
 ## 1. Building the IPO order book: underpricing and participation limits with costly information
 ### Date
 - Jul 2002
-### Authors
+### Author
 - Ann E. Sherman
 - Sheridan Titman
 ### Abstract
@@ -16,7 +16,7 @@ We examine the book-building method for marketing IPOs. In our model, the underw
 ## 2. Econometric models of limit-order executions
 ### Date
 - Jul 2002
-### Authors
+### Author
 - Andrew W. Lo
 - A.Craig MacKinlay
 - June Zhang
@@ -28,7 +28,7 @@ We develop and estimate an econometric model of limit-order execution times usin
 ## 3. Short-term interest rate dynamics: a spatial approach
 ### Date
 - Jul 2002
-### Authors
+### Author
 - Federico M. Bandi
 ### Abstract
 We use new fully functional methods to describe and study the dynamics of the short-term interest rate process in continuous-time. The suggested procedure exploits the spatial properties, embodied in the local time process, of the diffusion of interest, and is robust against deviations from stationarity.
@@ -38,7 +38,7 @@ We use new fully functional methods to describe and study the dynamics of the sh
 ## 4. Order imbalance, liquidity, and market returns
 ### Date
 - Jul 2002
-### Authors
+### Author
 - Tarun Chordia
 - Richard Roll
 - Avanidhar Subrahmanyam
@@ -50,7 +50,7 @@ Traditionally, volume has provided the link between trading activity and returns
 ## 5. The dilution impact of daily fund flows on open-end mutual funds
 ### Date
 - Jul 2002
-### Authors
+### Author
 - Jason T Greene
 - Charles W Hodges
 ### Abstract
@@ -61,7 +61,7 @@ We examine how mutual fund flows that are correlated with subsequent fund return
 ## 6. Erratum to “Governance with poor investor protection: evidence from top executive turnover in Italy”
 ### Date
 - Jul 2002
-### Authors
+### Author
 - Paolo F Volpin
 ### Abstract
 

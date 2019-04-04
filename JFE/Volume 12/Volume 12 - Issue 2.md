@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Aug 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Transactions data tests of efficiency of the Chicago board options exchange
 ### Date
 - Aug 1983
-### Authors
+### Author
 - Mihir Bhattacharya
 ### Abstract
 This paper performs lower boundary condition tests based on rational pricing of call options and an implied standard deviation test based on the bid/ask prices of options. These efficiency tests attempt to closely approximate conditions in the option markets to avoid the pitfalls indicated by Phillips and Smith (1980). The tests use transactions data and account for the effects of stock and option bid/ask prices, simultaneity of stock and option prices, depth of market, execution lag and transaction costs. The small and relatively infrequent profits due to market mispricing disappear in the lower boundary tests when transaction costs are taken into account. Frequent violations of the tighter boundary conditions in the implied standard deviation test are reported, but the estimated profits cannot be unambiguously attributed to option market inefficiency.
@@ -24,7 +24,7 @@ This paper performs lower boundary condition tests based on rational pricing of 
 ## 3. Shareholder wealth, information signaling and the specially designated dividend
 ### Date
 - Aug 1983
-### Authors
+### Author
 - James A. Brickley
 ### Abstract
 This paper examines common stock returns and dividend and earnings patterns surrounding specially designated dividends labeled by management as ‘extra’, ‘special’ or ‘year-end’ and compares them to those surrounding regular (unlabeled) dividend increases. The results support the notion that management uses the labeling of dividend increases to convey information to the market about the future potential of the firm. Unlabeled increases appear to contain the most positive information. Contrary to the sometimes suggested view, specially designated dividends appear to convey positive information about future dividends and earnings beyond that relating to the current period.
@@ -34,7 +34,7 @@ This paper examines common stock returns and dividend and earnings patterns surr
 ## 4. Warrant valuation and exercise strategy
 ### Date
 - Aug 1983
-### Authors
+### Author
 - David C. Emanuel
 ### Abstract
 This paper demonstrates that warrant valuation and exercise strategy differ fundamentally from call option valuation. Simultaneous exercise of warrants is shown to be suboptimal and a monopolist owning all warrants can achieve a higher value. Unless warrants are perfectly divisible, no satisfactory equilibrium exists for the valuation and exercise of widely held warrants. The problems encountered appear to be quite general and stem from necessary assumptions about future corporate dividend policy and capital structure. Such assumptions are necessary for any model of corporate security valuation.
@@ -44,7 +44,7 @@ This paper demonstrates that warrant valuation and exercise strategy differ fund
 ## 5. Valuation of asset leasing contracts
 ### Date
 - Aug 1983
-### Authors
+### Author
 - John J. McConnell
 - James S. Schallheim
 ### Abstract
@@ -55,7 +55,7 @@ This paper describes the relation among a variety of asset leasing contracts, in
 ## 6. Friction in the trading process and the estimation of systematic risk
 ### Date
 - Aug 1983
-### Authors
+### Author
 - Kalman J. Cohen
 - Gabriel A. Hawawini
 - Steven F. Maier
@@ -69,7 +69,7 @@ This paper considers how estimates of the market model beta parameter can be bia
 ## 7. Risk measurement when shares are subject to infrequent trading
 ### Date
 - Aug 1983
-### Authors
+### Author
 - David J. Fowler
 - C.Harvey Rorke
 ### Abstract
@@ -80,7 +80,7 @@ When securities are thinly traded OLS techniques yield biased beta estimates. Pr
 ## 8. Option pricing in a lognormal securities market with discrete trading
 ### Date
 - Aug 1983
-### Authors
+### Author
 - David Brown
 - Chi-fu Huang
 ### Abstract

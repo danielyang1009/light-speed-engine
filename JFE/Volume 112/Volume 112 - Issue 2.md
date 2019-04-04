@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Predicting anomaly performance with politics, the weather, global warming, sunspots, and the stars
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Robert Novy-Marx
 ### Abstract
 Predictive regressions find that the party of the US president, the weather in Manhattan, global warming, the El Niño phenomenon, sunspots, and the conjunctions of the planets all have significant power predicting the performance of popular anomalies. The interpretation of these results has important implications for the asset pricing literature.
@@ -24,7 +24,7 @@ Predictive regressions find that the party of the US president, the weather in M
 ## 3. Bond market access and investment
 ### Date
 - Jan 2014
-### Authors
+### Author
 - Jarrad Harford
 - Vahap B. Uysal
 ### Abstract
@@ -35,7 +35,7 @@ Prior research has shown that differential access to debt markets significantly 
 ## 4. Dynamic debt runs and financial fragility: Evidence from the 2007 ABCP crisis
 ### Date
 - Jan 2014
-### Authors
+### Author
 - Enrique Schroth
 - Gustavo A. Suarez
 - Lucian A. Taylor
@@ -47,7 +47,7 @@ We use the 2007 asset-backed commercial paper (ABCP) crisis as a laboratory to s
 ## 5. The internal capital markets of business groups: Evidence from intra-group loans
 ### Date
 - Jan 2014
-### Authors
+### Author
 - David Buchuk
 - Borja Larrain
 - Francisco Muñoz
@@ -60,7 +60,7 @@ We study business groups׳ internal capital markets using a unique data set on i
 ## 6. The price of skill: Performance evaluation by households
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Alexi Savov
 ### Abstract
 Skilled investors make money off uninformed investors. By acting as intermediaries, they provide a hedge to the uninformed investors themselves. I present a model in which households have imperfect information about expected returns. Non-traded income shocks lead them to rebalance, sometimes at the wrong time. Active funds hedge this risk by trading on superior information. In equilibrium, they pay off when non-traded income disappoints, earning a premium that makes them appear to underperform index funds after fees. Empirical results using aggregate fund flows support the model. A corresponding asset pricing test can account for the apparent underperformance of active funds.
@@ -70,7 +70,7 @@ Skilled investors make money off uninformed investors. By acting as intermediari
 ## 7. Birds of a feather: Value implications of political alignment between top management and directors
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Jongsub Lee
 - Kwang J. Lee
 - Nandu J. Nagarajan
@@ -82,7 +82,7 @@ For 2,695 US corporations from 1996 to 2009, we find that alignment in political
 ## 8. Elections, political competition and bank failure
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Wai-Man Liu
 - Phong T.H. Ngo
 ### Abstract
@@ -93,7 +93,7 @@ We exploit exogenous variation in the scheduling of gubernatorial elections to s
 ## 9. The role of investment banker directors in M&A
 ### Date
 - Feb 2014
-### Authors
+### Author
 - Qianqian Huang
 - Feng Jiang
 - Erik Lie

@@ -1,0 +1,201 @@
+{
+    "journal": "JF",
+    "volume": "61",
+    "issue": "1",
+    "date": "February 2006",
+    "page": "Pages: i-v, 1-492, vi-x",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "20 January 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00827.x"
+        },
+        {
+            "no": "2",
+            "title": "What Works in Securities Laws?",
+            "date": "20 January 2006",
+            "author": [
+                "RAFAEL LA PORTA",
+                "FLORENCIO LOPEZ\u2010DE\u2010SILANES",
+                "ANDREI SHLEIFER"
+            ],
+            "abstract": "We examine the effect of securities laws on stock market development in 49 countries. We find little evidence that public enforcement benefits stock markets, but strong evidence that laws mandating disclosure and facilitating private enforcement through liability rules benefit stock markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00828.x"
+        },
+        {
+            "no": "3",
+            "title": "Investment and Financing Constraints: Evidence from the Funding of Corporate Pension Plans",
+            "date": "20 January 2006",
+            "author": [
+                "JOSHUA D. RAUH"
+            ],
+            "abstract": "I exploit sharply nonlinear funding rules for defined benefit pension plans in order to identify the dependence of corporate investment on internal financial resources in a large sample. Capital expenditures decline with mandatory contributions to DB pension plans, even when controlling for correlations between the pension funding status itself and the firm's unobserved investment opportunities. The effect is particularly evident among firms that face financing constraints based on observable variables such as credit ratings. Investment also displays strong negative correlations with the part of mandatory contributions resulting solely from unexpected asset market movements.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00829.x"
+        },
+        {
+            "no": "4",
+            "title": "Favoritism in Mutual Fund Families? Evidence on Strategic Cross\u2010Fund Subsidization",
+            "date": "20 January 2006",
+            "author": [
+                "JOS\u00c9\u2010MIGUEL GASPAR",
+                "MASSIMO MASSA",
+                "PEDRO MATOS"
+            ],
+            "abstract": "We investigate whether mutual fund families strategically transfer performance across member funds to favor those more likely to increase overall family profits. We find that \u201chigh family value\u201d funds (i.e., high fees or high past performers) overperform at the expense of \u201clow value\u201d funds. Such a performance gap is above the one existing between similar funds not affiliated with the same family. Better allocations of underpriced initial public offering deals and opposite trades across member funds partly explain why high value funds overperform. Our findings highlight how the family organization prevalent in the mutual fund industry generates distortions in delegated asset management.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00830.x"
+        },
+        {
+            "no": "5",
+            "title": "Information Uncertainty and Stock Returns",
+            "date": "20 January 2006",
+            "author": [
+                "X. FRANK ZHANG"
+            ],
+            "abstract": "There is substantial evidence of short\u2010term stock price continuation, which the prior literature often attributes to investor behavioral biases such as underreaction to new information. This paper investigates the role of information uncertainty in price continuation anomalies and cross\u2010sectional variations in stock returns. If short\u2010term price continuation is due to investor behavioral biases, we should observe greater price drift when there is greater information uncertainty. As a result, greater information uncertainty should produce relatively higher expected returns following good news and relatively lower expected returns following bad news. My evidence supports this hypothesis.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00831.x"
+        },
+        {
+            "no": "6",
+            "title": "Asset Pricing Implications of Nonconvex Adjustment Costs and Irreversibility of Investment",
+            "date": "20 January 2006",
+            "author": [
+                "ILAN COOPER"
+            ],
+            "abstract": "This paper derives a real options model that accounts for the value premium. If real investment is largely irreversible, the book value of assets of a distressed firm is high relative to its market value because it has idle physical capital. The firm's excess installed capital capacity enables it to fully benefit from positive aggregate shocks without undertaking costly investment. Thus, returns to equity holders of a high book\u2010to\u2010market firm are sensitive to aggregate conditions and its systematic risk is high. Simulations indicate that the model goes a long way toward accounting for the observed value premium.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00832.x"
+        },
+        {
+            "no": "7",
+            "title": "Empirical Evidence on Capital Investment, Growth Options, and Security Returns",
+            "date": "20 January 2006",
+            "author": [
+                "CHRISTOPHER W. ANDERSON",
+                "LUIS GARCIA\u2010FEIJ\u00d3O"
+            ],
+            "abstract": "Growth in capital expenditures conditions subsequent classification of firms to portfolios based on size and book\u2010to\u2010market ratios, as in the widely used Fama and French (1992, 1993) methods. Growth in capital expenditures also explains returns to portfolios and the cross section of future stock returns. These findings are consistent with recent theoretical models (e.g., Berk, Green, and Naik (1999)) in which the exercise of investment\u2010growth options results in changes in both valuation and expected stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00833.x"
+        },
+        {
+            "no": "8",
+            "title": "The Price Impact and Survival of Irrational Traders",
+            "date": "20 January 2006",
+            "author": [
+                "LEONID KOGAN",
+                "STEPHEN A. ROSS",
+                "JIANG WANG",
+                "MARK M. WESTERFIELD"
+            ],
+            "abstract": "Milton Friedman argued that irrational traders will consistently lose money, will not survive, and, therefore, cannot influence long\u2010run asset prices. Since his work, survival and price impact have been assumed to be the same. In this paper, we demonstrate that survival and price impact are two independent concepts. The price impact of irrational traders does not rely on their long\u2010run survival, and they can have a significant impact on asset prices even when their wealth becomes negligible. We also show that irrational traders' portfolio policies can deviate from their limits long after the price process approaches its long\u2010run limit.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00834.x"
+        },
+        {
+            "no": "9",
+            "title": "The Limits of Investor Behavior",
+            "date": "20 January 2006",
+            "author": [
+                "MARK LOEWENSTEIN",
+                "GREGORY A. WILLARD"
+            ],
+            "abstract": "Many models use noise trader risk and corresponding violations of the Law of One Price to explain pricing anomalies, but include a storage technology in perfectly elastic supply or unlimited asset liability. Storage allows aggregate consumption risk to differ from exogenous fundamental risk, but using aggregate consumption as a factor for asset returns can make noise trader risk superfluous. Using (i) limited asset liability and limited storage withdrawals, or (ii) an endogenous locally riskless interest rate eliminates violations of the Law of One Price. Our main results use only budget equations and market clearing, and require virtually no assumptions about behavior.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00835.x"
+        },
+        {
+            "no": "10",
+            "title": "The Cross\u2010Section of Volatility and Expected Returns",
+            "date": "20 January 2006",
+            "author": [
+                "ANDREW ANG",
+                "ROBERT J. HODRICK",
+                "YUHANG XING",
+                "XIAOYAN ZHANG"
+            ],
+            "abstract": "We examine the pricing of aggregate volatility risk in the cross\u2010section of stock returns. Consistent with theory, we find that stocks with high sensitivities to innovations in aggregate volatility have low average returns. Stocks with high idiosyncratic volatility relative to the Fama and French (1993, Journal of Financial Economics 25, 2349) model have abysmally low average returns. This phenomenon cannot be explained by exposure to aggregate volatility risk. Size, book\u2010to\u2010market, momentum, and liquidity effects cannot account for either the low average returns earned by stocks with high exposure to systematic volatility risk or for the low average returns of stocks with high idiosyncratic volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00836.x"
+        },
+        {
+            "no": "11",
+            "title": "Competing for Securities Underwriting Mandates: Banking Relationships and Analyst Recommendations",
+            "date": "20 January 2006",
+            "author": [
+                "ALEXANDER LJUNGQVIST",
+                "FELICIA MARSTON",
+                "WILLIAM J. WILHELM JR."
+            ],
+            "abstract": "We investigate whether analyst behavior influenced banks' likelihood of winning underwriting mandates for a sample of 16,625 U.S. debt and equity offerings in 1993\u20132002. We control for the strength of the issuer's investment banking relationships with potential competitors for the mandate, prior lending relationships, and the endogeneity of analyst behavior and the bank's decision to provide analyst coverage. Although analyst behavior was influenced by economic incentives, we find no evidence that aggressive analyst behavior increased their bank's probability of winning an underwriting mandate. The main determinant of the lead\u2010bank choice is the strength of prior underwriting and lending relationships.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00837.x"
+        },
+        {
+            "no": "12",
+            "title": "Unspanned Stochastic Volatility: Evidence from Hedging Interest Rate Derivatives",
+            "date": "20 January 2006",
+            "author": [
+                "HAITAO LI",
+                "FENG ZHAO"
+            ],
+            "abstract": "Most existing dynamic term structure models assume that interest rate derivatives are redundant securities and can be perfectly hedged using solely bonds. We find that the quadratic term structure models have serious difficulties in hedging caps and cap straddles, even though they capture bond yields well. Furthermore, at\u2010the\u2010money straddle hedging errors are highly correlated with cap\u2010implied volatilities and can explain a large fraction of hedging errors of all caps and straddles across moneyness and maturities. Our results strongly suggest the existence of systematic unspanned factors related to stochastic volatility in interest rate derivatives markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00838.x"
+        },
+        {
+            "no": "13",
+            "title": "Wealth and Executive Compensation",
+            "date": "20 January 2006",
+            "author": [
+                "BO BECKER"
+            ],
+            "abstract": "Using new data on the wealth of Swedish CEOs, I show that higher wealth CEOs receive stronger incentives. Since high wealth (excluding own\u2010firm holdings) implies low absolute risk aversion, this is consistent with a risk aversion explanation. To examine whether wealth is likely to proxy for power, I use lagged wealth (typically measured before the CEO was hired), and the results remain for one of two incentive measures. Also, the wealth\u2013incentive result is not stronger for CEOs likely to face limited owner oversight. Finally, wealth is unrelated to pay levels, and is hence unlikely to proxy for skill.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00839.x"
+        },
+        {
+            "no": "14",
+            "title": "Initial Public Offerings: An Analysis of Theory and Practice",
+            "date": "20 January 2006",
+            "author": [
+                "JAMES C. BRAU",
+                "STANLEY E. FAWCETT"
+            ],
+            "abstract": "We survey 336 chief financial officers (CFOs) to compare practice to theory in the areas of initial public offering (IPO) motivation, timing, underwriter selection, underpricing, signaling, and the decision to remain private. We find the primary motivation for going public is to facilitate acquisitions. CFOs base IPO timing on overall market conditions, are well informed regarding expected underpricing, and feel underpricing compensates investors for taking risk. The most important positive signal is past historical earnings, followed by underwriter certification. CFOs have divergent opinions about the IPO process depending on firm\u2010specific characteristics. Finally, we find the main reason for remaining private is to preserve decision\u2010making control and ownership.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00840.x"
+        },
+        {
+            "no": "15",
+            "title": "Finance as a Barrier to Entry: Bank Competition and Industry Structure in Local U.S. Markets",
+            "date": "20 January 2006",
+            "author": [
+                "NICOLA CETORELLI",
+                "PHILIP E. STRAHAN"
+            ],
+            "abstract": "This paper tests how competition in local U.S. banking markets affects the market structure of nonfinancial sectors. Theory offers competing hypotheses about how competition ought to influence firm entry and access to bank credit by mature firms. The empirical evidence, however, strongly supports the idea that in markets with concentrated banking, potential entrants face greater difficulty gaining access to credit than in markets in which banking is more competitive.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00841.x"
+        },
+        {
+            "no": "16",
+            "title": "Investor Tax Heterogeneity and Ex\u2010Dividend Day Trading Volume",
+            "date": "20 January 2006",
+            "author": [
+                "DAN DHALIWAL",
+                "OLIVER ZHEN LI"
+            ],
+            "abstract": "We propose that ex\u2010dividend day excess volume is motivated by tax heterogeneity among investors, and thus is increasing in investor tax heterogeneity. Institutional ownership is our measure of heterogeneity. Since investor heterogeneity is a concave function of institutional ownership, we hypothesize that ex\u2010day volume is a concave function of institutional ownership. Cross\u2010sectional tests support the tax\u2010motivated trading hypothesis. Additional tests, using trade size and pension ownership as proxies for institutional trades, yield similar results. We contribute to the literature by considering the interaction between payout policy and ownership structure in explaining the cross\u2010sectional variation in ex\u2010day volume.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00842.x"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "20 January 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00843.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "20 January 2006",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2006.00845.x"
+        }
+    ]
+}

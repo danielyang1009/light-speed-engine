@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Banks as patient fixed-income investors
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Samuel G. Hanson
 - Andrei Shleifer
 - Jeremy C. Stein
@@ -27,7 +27,7 @@ We examine the business model of traditional commercial banks when they compete 
 ## 3. Incremental variables and the investment opportunity set
 ### Date
 - May 2015
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -38,7 +38,7 @@ Variables with strong marginal explanatory power in cross-section asset pricing 
 ## 4. Distilling the macroeconomic news flow
 ### Date
 - May 2015
-### Authors
+### Author
 - Alessandro Beber
 - Michael W. Brandt
 - Maurizio Luisi
@@ -50,7 +50,7 @@ We propose a simple cross-sectional technique to extract daily factors from econ
 ## 5. The effect of institutional ownership on firm transparency and information production
 ### Date
 - May 2015
-### Authors
+### Author
 - Audra L. Boone
 - Joshua T. White
 ### Abstract
@@ -61,7 +61,7 @@ We examine the effects of institutional ownership on firms׳ information and tra
 ## 6. Financing bidders in takeover contests
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Vladimir Vladimirov
 ### Abstract
 This paper argues that endogenizing how acquirers finance their cash bids is just as important for understanding bidding in takeovers as endogenizing acquirers׳ payment method choice. The paper shows that acquirers finance their cash bids with equity only if they lack access to competitive financing. This leads to underbidding and lower takeover premiums. Conversely, acquirers with access to competitive financing use debt and overbid. Endogenizing the payment method reveals that security (e.g., stock) bids carry lower premiums than cash bids, backed by competitive financing. These insights find empirical support and could help explain existing evidence, which contradicts prior theory.
@@ -71,7 +71,7 @@ This paper argues that endogenizing how acquirers finance their cash bids is jus
 ## 7. The risk premia embedded in index options
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Torben G. Andersen
 - Nicola Fusari
 - Viktor Todorov
@@ -83,7 +83,7 @@ We study the dynamic relation between market risks and risk premia using time se
 ## 8. Modeling financial contagion using mutually exciting jump processes
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Yacine Aït-Sahalia
 - Julio Cacho-Diaz
 - Roger J.A. Laeven
@@ -95,7 +95,7 @@ We propose a model to capture the dynamics of asset returns, with periods of cri
 ## 9. A theory of LBO activity based on repeated debt-equity conflicts
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Andrey Malenko
 - Nadya Malenko
 ### Abstract
@@ -106,7 +106,7 @@ We develop a theory of leveraged buyout (LBO) activity based on two elements: th
 ## 10. Social interaction at work
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Hans K. Hvide
 - Per Östberg
 ### Abstract
@@ -117,7 +117,7 @@ Stock market investment decisions of individuals are positively correlated with 
 ## 11. Social learning and corporate peer effects
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Markku Kaustia
 - Ville Rantala
 ### Abstract

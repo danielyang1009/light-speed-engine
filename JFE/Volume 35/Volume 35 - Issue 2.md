@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Apr 1994
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Implied volatility functions in arbitrage-free term structure models
 ### Date
 - Apr 1994
-### Authors
+### Author
 - Kaushik I. Amin
 - Andrew J. Morton
 ### Abstract
@@ -32,7 +32,7 @@ We test six term structure models in the Heath, Jarrow, and Morton (1992) class 
 ## 3. Announcements of asset-quality problems and contagion effects in the life insurance industry
 ### Date
 - Apr 1994
-### Authors
+### Author
 - George W. Fenn
 - Rebel A. Cole
 ### Abstract
@@ -43,7 +43,7 @@ We investigate contagion effects in the stock returns of life insurance companie
 ## 4. Aftermarket support and underpricing of initial public offerings
 ### Date
 - Apr 1994
-### Authors
+### Author
 - Paul H. Schultz
 - Mir A. Zaman
 ### Abstract
@@ -54,7 +54,7 @@ We study the aftermarket for 72 initial public offerings (IPOs) using comprehens
 ## 5. The costs of inefficient bargaining and financial distress
 ### Date
 - Apr 1994
-### Authors
+### Author
 - Sanjai Bhagat
 - James A. Brickley
 - Jeffrey L. Coles
@@ -66,7 +66,7 @@ This study provides the first large-sample analysis of the stock-market reaction
 ## 6. Voucher privatization
 ### Date
 - Apr 1994
-### Authors
+### Author
 - Maxim Boycko
 - Andrei Shleifer
 - Robert W. Vishny

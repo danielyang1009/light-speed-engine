@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Mutual fund performance evaluation with active peer benchmarks
 ### Date
 - Dec 2013
-### Authors
+### Author
 - David Hunter
 - Eugene Kandel
 - Shmuel Kandel
@@ -27,7 +27,7 @@ We propose a simple approach to account for commonalities in mutual fund strateg
 ## 3. Money and liquidity in financial markets
 ### Date
 - Dec 2013
-### Authors
+### Author
 - Kjell G. Nyborg
 - Per Östberg
 ### Abstract
@@ -38,7 +38,7 @@ We argue that there is a connection between the interbank market for liquidity a
 ## 4. Board composition and CEO power
 ### Date
 - Oct 2013
-### Authors
+### Author
 - Tim Baldenius
 - Nahum Melumad
 - Xiaojing Meng
@@ -50,7 +50,7 @@ We study the optimal composition of corporate boards. Directors can be either mo
 ## 5. Lévy jump risk: Evidence from options and returns
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Chayawat Ornthanalai
 ### Abstract
 Using index options and returns from 1996 to 2009, I estimate discrete-time models where asset returns follow a Brownian increment and a Lévy jump. Time variations in these models are generated with an affine GARCH, which facilitates the empirical implementation. I find that the risk premium implied by infinite-activity jumps contributes to more than half of the total equity premium and dominates that of the Brownian increments suggesting that it is more representative of the risks present in the economy. Overall, my findings suggest that infinite-activity jumps, instead of the Brownian increments, should be the default modeling choice in asset pricing models.
@@ -60,7 +60,7 @@ Using index options and returns from 1996 to 2009, I estimate discrete-time mode
 ## 6. The impact of central clearing on counterparty risk, liquidity, and trading: Evidence from the credit default swap market
 ### Date
 - Dec 2013
-### Authors
+### Author
 - Yee Cheng Loon
 - Zhaodong Ken Zhong
 ### Abstract
@@ -71,7 +71,7 @@ This paper examines the impact of central clearing on the credit default swap (C
 ## 7. Financial development and innovation: Cross-country evidence
 ### Date
 - Dec 2013
-### Authors
+### Author
 - Po-Hsuan Hsu
 - Xuan Tian
 - Yan Xu

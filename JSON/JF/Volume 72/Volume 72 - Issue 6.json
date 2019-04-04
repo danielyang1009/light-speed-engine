@@ -1,0 +1,180 @@
+{
+    "journal": "JF",
+    "volume": "72",
+    "issue": "6",
+    "date": "December 2017",
+    "page": "Pages: 2377-2394",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "03 January 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12462"
+        },
+        {
+            "no": "2",
+            "title": "The Macroeconomics of Shadow Banking",
+            "date": "22 June 2017",
+            "author": [
+                "ALAN MOREIRA",
+                "ALEXI SAVOV"
+            ],
+            "abstract": "We build a macrofinance model of shadow banking\u2014the transformation of risky assets into securities that are money\u2010like in quiet times but become illiquid when uncertainty spikes. Shadow banking economizes on scarce collateral, expanding liquidity provision, boosting asset prices and growth, but also building up fragility. A rise in uncertainty raises shadow banking spreads, forcing financial institutions to switch to collateral\u2010intensive funding. Shadow banking collapses, liquidity provision shrinks, liquidity premia and discount rates rise, asset prices and investment fall. The model generates slow recoveries, collateral runs, and flight\u2010to\u2010quality effects, and it sheds light on Large\u2010Scale Asset Purchases, Operation Twist, and other interventions.",
+            "link": "https://doi.org/10.1111/jofi.12540"
+        },
+        {
+            "no": "3",
+            "title": "Consumer Ruthlessness and Mortgage Default during the 2007 to 2009 Housing Bust",
+            "date": "15 May 2017",
+            "author": [
+                "NEIL BHUTTA",
+                "JANE DOKKO",
+                "HUI SHAN"
+            ],
+            "abstract": "From 2007 to 2009 U.S. house prices plunged and mortgage defaults surged. While ostensibly consistent with widespread \u201cruthless default,\u201d analysis of detailed mortgage and house price data indicates that borrowers do not walk away until they are deeply underwater\u2014far deeper than traditional models predict. The evidence suggests that lender recourse is not the major driver of this result. We argue that emotional and behavioral factors play an important role in decisions to continue paying. Borrower reluctance to walk away implies that the moral hazard cost of default as a form of social insurance may be lower than suspected.",
+            "link": "https://doi.org/10.1111/jofi.12523"
+        },
+        {
+            "no": "4",
+            "title": "Matching Capital and Labor",
+            "date": "22 June 2017",
+            "author": [
+                "JONATHAN B. BERK",
+                "JULES H. van BINSBERGEN",
+                "BINYING LIU"
+            ],
+            "abstract": "We establish an important role for the firm by studying capital reallocation decisions of mutual fund firms. The firm's decision to reallocate capital among its mutual fund managers adds at least $474,000 a month, which amounts to over 30% of the total value added of the industry. We provide evidence that this additional value added results from the firm's private information about the skill of its managers. The firm captures this value because investors reward the firm following a capital reallocation decision by allocating additional capital to the firm's funds.",
+            "link": "https://doi.org/10.1111/jofi.12542"
+        },
+        {
+            "no": "5",
+            "title": "Why Do Investors Hold Socially Responsible Mutual Funds?",
+            "date": "01 August 2017",
+            "author": [
+                "ARNO RIEDL",
+                "PAUL SMEETS"
+            ],
+            "abstract": "To understand why investors hold socially responsible mutual funds, we link administrative data to survey responses and behavior in incentivized experiments. We find that both social preferences and social signaling explain socially responsible investment (SRI) decisions. Financial motives play less of a role. Socially responsible investors in our sample expect to earn lower returns on SRI funds than on conventional funds and pay higher management fees. This suggests that investors are willing to forgo financial performance in order to invest in accordance with their social preferences.",
+            "link": "https://doi.org/10.1111/jofi.12547"
+        },
+        {
+            "no": "6",
+            "title": "How Do Quasi\u2010Random Option Grants Affect CEO Risk\u2010Taking?",
+            "date": "01 August 2017",
+            "author": [
+                "KELLY SHUE",
+                "RICHARD R. TOWNSEND"
+            ],
+            "abstract": "We examine how an increase in stock option grants affects CEO risk\u2010taking. The overall net effect of option grants is theoretically ambiguous for risk\u2010averse CEOs. To overcome the endogeneity of option grants, we exploit institutional features of multiyear compensation plans, which generate two distinct types of variation in the timing of when large increases in new at\u2010the\u2010money options are granted. We find that, given average grant levels during our sample period, a 10% increase in new options granted leads to a 2.8% to 4.2% increase in equity volatility. This increase in risk is driven largely by increased leverage.",
+            "link": "https://doi.org/10.1111/jofi.12545"
+        },
+        {
+            "no": "7",
+            "title": "Are CDS Auctions Biased and Inefficient?",
+            "date": "21 June 2017",
+            "author": [
+                "SONGZI DU",
+                "HAOXIANG ZHU"
+            ],
+            "abstract": "We study the design of credit default swaps (CDS) auctions, which determine the payments by CDS sellers to CDS buyers following defaults of bonds. Using a simple model, we find that the current design of CDS auctions leads to biased prices and inefficient allocations. This is because various restrictions imposed in CDS auctions prevent certain investors from participating in the price discovery and allocation process. The imposition of a price cap or floor also gives dealers large influence on the final auction price. We propose an alternative double auction design that delivers more efficient price discovery and allocations.",
+            "link": "https://doi.org/10.1111/jofi.12541"
+        },
+        {
+            "no": "8",
+            "title": "Commodity Trade and the Carry Trade: A Tale of Two Countries",
+            "date": "21 August 2017",
+            "author": [
+                "ROBERT READY",
+                "NIKOLAI ROUSSANOV",
+                "COLIN WARD"
+            ],
+            "abstract": "Persistent interest rate differentials account for much of the currency carry trade profitability. \u201cCommodity currencies\u201d offer high interest rates on average, while countries that export finished goods tend to have low interest rates. We develop a general equilibrium model of international trade and currency pricing where countries have an advantage in producing either basic inputs or final goods. In the model, domestic production insulates commodity\u2010producing countries from global productivity shocks, forcing final\u2010good producers to absorb them. Commodity\u2010currency exchange rates and risk premia increase with productivity differentials and trade frictions. These predictions are strongly supported in the data.",
+            "link": "https://doi.org/10.1111/jofi.12546"
+        },
+        {
+            "no": "9",
+            "title": "Financial Transaction Taxes, Market Composition, and Liquidity",
+            "date": "06 April 2017",
+            "author": [
+                "JEAN\u2010EDOUARD COLLIARD",
+                "PETER HOFFMANN"
+            ],
+            "abstract": "We use the introduction of a financial transaction tax (FTT) in France in 2012 to test competing theories on its impact. We find no support for the idea that an FTT improves market quality by affecting the composition of trading volume. Instead, our results are in line with the hypothesis that a lower trading volume reduces liquidity and in turn market quality. Consistent with theories of asset pricing under transaction costs, we document a shift in security holdings from short\u2010term to long\u2010term investors. Finally, we find that moderate aggregate effects on market quality can mask large adjustments made by individual agents.",
+            "link": "https://doi.org/10.1111/jofi.12510"
+        },
+        {
+            "no": "10",
+            "title": "Why Does Return Predictability Concentrate in Bad Times?",
+            "date": "01 August 2017",
+            "author": [
+                "JULIEN CUJEAN",
+                "MICHAEL HASLER"
+            ],
+            "abstract": "We build an equilibrium model to explain why stock return predictability concentrates in bad times. The key feature is that investors use different forecasting models, and hence assess uncertainty differently. As economic conditions deteriorate, uncertainty rises and investors' opinions polarize. Disagreement thus spikes in bad times, causing returns to react to past news. This phenomenon creates a positive relation between disagreement and future returns. It also generates time\u2010series momentum, which strengthens in bad times, increases with disagreement, and crashes after sharp market rebounds. We provide empirical support for these new predictions.",
+            "link": "https://doi.org/10.1111/jofi.12544"
+        },
+        {
+            "no": "11",
+            "title": "Nonfundamental Speculation Revisited",
+            "date": "01 August 2017",
+            "author": [
+                "LIYAN YANG",
+                "HAOXIANG ZHU"
+            ],
+            "abstract": "We show that a linear pure strategy equilibrium may not exist in the model of Madrigal (1996), contrary to the claim of the original paper. This is because Madrigal's characterization of a pure strategy equilibrium omits a second\u2010order condition. If the nonfundamental speculator's information about noise trading is sufficiently precise, a linear pure strategy equilibrium fails to exist. In parameter regions where a pure strategy equilibrium does exist, we identify a few calculation errors in Madrigal (1996) that result in misleading implications.",
+            "link": "https://doi.org/10.1111/jofi.12548"
+        },
+        {
+            "no": "12",
+            "title": "MISCELLANEA",
+            "date": "03 January 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12461"
+        },
+        {
+            "no": "13",
+            "title": "ANNOUNCEMENTS",
+            "date": "03 January 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12594"
+        },
+        {
+            "no": "14",
+            "title": "Preliminary Program AFA 2018 PHILADELPHIA MEETINGS SEVENTY EIGHTH ANNUAL MEETING AMERICAN FINANCE ASSOCIATION Philadelphia, Pennsylvania",
+            "date": "03 January 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12595"
+        },
+        {
+            "no": "15",
+            "title": "Participant Schedule Report Participants in the AFA 2018 Philadelphia Meetings January 5\u20137, 2018",
+            "date": "03 January 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12596"
+        },
+        {
+            "no": "16",
+            "title": "American Finance Association",
+            "date": "03 January 2018",
+            "author": [
+                "David Hirshleifer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12597"
+        },
+        {
+            "no": "17",
+            "title": "ISSUE INFORMATION BM",
+            "date": "03 January 2018",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12463"
+        }
+    ]
+}

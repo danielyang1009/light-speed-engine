@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Are dividends disappearing? Dividend concentration and the consolidation of earnings
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Douglas J Skinner
@@ -26,7 +26,7 @@ Aggregate real dividends paid by industrial firms increased over the past two de
 ## 3. Portfolio choice and health status
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Harvey S Rosen
 - Stephen Wu
 ### Abstract
@@ -37,7 +37,7 @@ This paper analyzes the role health status plays in household portfolio decision
 ## 4. Order imbalance and individual stock returns: Theory and evidence
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Tarun Chordia
 - Avanidhar Subrahmanyam
 ### Abstract
@@ -48,7 +48,7 @@ This paper studies the relation between order imbalances and daily returns of in
 ## 5. U.S. cross-listings and the private benefits of control: evidence from dual-class firms
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Craig Doidge
 ### Abstract
 Non-U.S. firms that cross-list on U.S. exchanges have voting premiums that are 43% lower than non-U.S. firms that do not cross-list. The difference in voting premiums is statistically significant after controlling for firm and country characteristics and the difference is larger for firms from countries that provide poor protection to minority investors. When a U.S. listing is announced, both the high- and low-voting share classes benefit, although the low-voting class benefits relatively more. The evidence supports the bonding hypothesis: cross-listing in the U.S. improves the protection afforded to minority investors and decreases the private benefits of control.
@@ -58,7 +58,7 @@ Non-U.S. firms that cross-list on U.S. exchanges have voting premiums that are 4
 ## 6. The role of syndicate structure in bank underwriting
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Rajesh P. Narayanan
 - Kasturi P. Rangan
 - Nanda K. Rangan
@@ -70,7 +70,7 @@ The re-entry of banking organizations into securities underwriting raises concer
 ## 7. Smart investments by smart money: Evidence from seasoned equity offerings
 ### Date
 - May 2003
-### Authors
+### Author
 - Scott Gibson
 - Assem Safieddine
 - Ramana Sonti
@@ -82,7 +82,7 @@ We document that seasoned equity issuers experiencing the greatest increase in i
 ## 8. Tick size, NYSE rule 118, and ex-dividend day stock price behavior
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Keith Jakob
 - Tongshu Ma
 ### Abstract
@@ -93,7 +93,7 @@ Bali and Hite (1998) and Dubofsky (1992) propose models in which market microstr
 ## 9. Index
 ### Date
 - Jun 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link

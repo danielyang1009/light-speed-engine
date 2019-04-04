@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Venture capital investment cycles: The impact of public markets
 ### Date
 - Dec 2006
-### Authors
+### Author
 - Paul Gompers
 - Anna Kovner
 - Josh Lerner
@@ -27,7 +27,7 @@ It is well documented that the venture capital industry is highly volatile and t
 ## 3. Information asymmetry, information dissemination and the effect of regulation FD on the cost of capital
 ### Date
 - Dec 2006
-### Authors
+### Author
 - Jefferson Duarte
 - Xi Han
 - Jarrad Harford
@@ -40,7 +40,7 @@ This paper considers the impact of Regulation Fair Disclosure (FD) on firms’ i
 ## 4. Pricing the commonality across alternative measures of liquidity
 ### Date
 - Dec 2006
-### Authors
+### Author
 - Robert A. Korajczyk
 - Ronnie Sadka
 ### Abstract
@@ -51,7 +51,7 @@ We estimate latent factor models of liquidity, aggregated across various liquidi
 ## 5. Dominant shareholders, corporate boards, and corporate value: A cross-country analysis
 ### Date
 - Oct 2006
-### Authors
+### Author
 - Jay Dahya
 - Orlin Dimitrov
 - John J. McConnell
@@ -63,7 +63,7 @@ We investigate the relation between corporate value and the proportion of the bo
 ## 6. The intertemporal relation between expected returns and risk
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Turan G. Bali
 ### Abstract
 This paper explores the time-series relation between expected returns and risk for a large cross section of industry and size/book-to-market portfolios. I use a bivariate generalized autoregressive conditional heteroskedasticity (GARCH) model to estimate a portfolio's conditional covariance with the market and then test whether the conditional covariance predicts time–variation in the portfolio's expected return. Restricting the slope to be the same across assets, the risk-return coefficient is highly significant with a risk–aversion coefficient (slope) between one and five. The results are robust to different portfolio formations, alternative GARCH specifications, additional state variables, and small sample biases. When conditional covariances are replaced by conditional betas, the risk premium on beta is estimated to be in the range of 3% to 5% per annum and is statistically significant.
@@ -73,7 +73,7 @@ This paper explores the time-series relation between expected returns and risk f
 ## 7. Stochastic risk premiums, stochastic skewness in currency options, and stochastic discount factors in international economies
 ### Date
 - Dec 2006
-### Authors
+### Author
 - Gurdip Bakshi
 - Peter Carr
 - Liuren Wu
@@ -85,7 +85,7 @@ We develop models of stochastic discount factors in international economies that
 ## 8. Board size and the variability of corporate performance
 ### Date
 - Oct 2006
-### Authors
+### Author
 - Shijun Cheng
 ### Abstract
 This study provides empirical evidence that firms with larger boards have lower variability of corporate performance. The results indicate that board size is negatively associated with the variability of monthly stock returns, annual accounting return on assets, Tobin's Q, accounting accruals, extraordinary items, analyst forecast inaccuracy, and R&D spending, the level of R&D expenditures, and the frequency of acquisition and restructuring activities. The results are consistent with the view that it takes more compromises for a larger board to reach consensus, and consequently, decisions of larger boards are less extreme, leading to less variable corporate performance.
@@ -95,7 +95,7 @@ This study provides empirical evidence that firms with larger boards have lower 
 ## 9. Managerial incentives, capital reallocation, and the business cycle
 ### Date
 - Nov 2006
-### Authors
+### Author
 - Andrea L. Eisfeldt
 - Adriano A. Rampini
 ### Abstract
@@ -106,7 +106,7 @@ We argue that when managers have private information about the productivity of a
 ## 10. Does firm value move too much to be justified by subsequent changes in cash flow?
 ### Date
 - Jan 2007
-### Authors
+### Author
 - Borja Larrain
 - Motohiro Yogo
 ### Abstract
@@ -117,7 +117,7 @@ The appropriate measure of cash flow for valuing corporate assets is net payout,
 ## 11. The probability and magnitude of information events
 ### Date
 - Jan 2007
-### Authors
+### Author
 - Elizabeth R. Odders-White
 - Mark J. Ready
 ### Abstract

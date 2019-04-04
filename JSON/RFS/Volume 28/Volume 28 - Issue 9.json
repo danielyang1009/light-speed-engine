@@ -1,0 +1,121 @@
+{
+    "journal": "RFS",
+    "volume": "28",
+    "issue": "9",
+    "date": "September 2015",
+    "page": "Pages 2463\u20132721",
+    "article": [
+        {
+            "no": "1",
+            "title": "Financing Constraints and the Amplification of Aggregate Downturns",
+            "date": "12 March 2015",
+            "author": [
+                "Daniel Carvalho"
+            ],
+            "abstract": "This paper shows that during industry downturns, firms experience significantly greater valuation losses when their industry peers' long-term debt is maturing at the time of the shocks. Across a range of tests, the analysis addresses the endogenous determination of peer debt-maturity structure. Overall, the evidence suggests that the negative externalities financially constrained firms impose on their industry peers can significantly amplify the effects of industry downturns. The evidence also provides support for the view that these amplification effects are driven by the adverse effect that financially constrained firms have on the balance sheets of their industry peers.",
+            "link": "https://doi.org/10.1093/rfs/hhv021"
+        },
+        {
+            "no": "2",
+            "title": "Capital Structure, Investment, and Fire Sales",
+            "date": "19 February 2015",
+            "author": [
+                "Douglas Gale",
+                "Piero Gottardi"
+            ],
+            "abstract": "We study a dynamic general equilibrium model in which firms choose their investment level and capital structure, trading off the tax advantages of debt against the risk of costly default. Bankruptcy costs are endogenous, as bankrupt firms are forced to liquidate their assets, resulting in a fire sale if the market is illiquid. When the corporate income tax rate is positive, firms have a unique optimal capital structure. In equilibrium, firms default with positive probability and their assets are liquidated at fire-sale prices. The equilibrium features underinvestment and is constrained inefficient. In particular there is too little debt and default.",
+            "link": "https://doi.org/10.1093/rfs/hhv016"
+        },
+        {
+            "no": "3",
+            "title": "A Theory of Income Smoothing When Insiders Know More Than Outsiders",
+            "date": "16 April 2015",
+            "author": [
+                "Viral V. Acharya",
+                "Bart M. Lambrecht"
+            ],
+            "abstract": "We develop a theory of income and payout smoothing by firms when insiders know more about income than outside shareholders, but property rights ensure that outsiders can enforce a fair payout. Insiders set payout to meet outsiders' expectations and underproduce to manage future expectations downward. The observed income and payout process are smooth and adjust partially and over time in response to economic shocks. The smaller the inside ownership, the more severe underproduction is, resulting in an \u201coutside equity Laffer curve.\u201d",
+            "link": "https://doi.org/10.1093/rfs/hhv026"
+        },
+        {
+            "no": "4",
+            "title": "Valuation, Adverse Selection, and Market Collapses",
+            "date": "09 April 2015",
+            "author": [
+                "Michael J. Fishman",
+                "Jonathan A. Parker"
+            ],
+            "abstract": "We study a market for funding real investment where valuation\u2014meaning investors devoting resources to acquiring information about future payoffs\u2014creates an adverse selection problem. Unlike previous models, more valuation is associated with lower market prices and so greater returns to valuation. This strategic complementarity in the capacity to do valuation generates multiple equilibria. With multiple equilibria, the equilibrium without valuation is most efficient despite funding some unprofitable investments. Switches to valuation equilibria, valuation runs, look like credit crunches. A large investor can ensure the efficient equilibrium only if it can precommit to a price and potentially, only if subsidized.",
+            "link": "https://doi.org/10.1093/rfs/hhv025"
+        },
+        {
+            "no": "5",
+            "title": "On Bounding Credit-Event Risk Premia",
+            "date": "13 March 2015",
+            "author": [
+                "Jennie Bai",
+                "Pierre Collin-Dufresne",
+                "Robert S. Goldstein",
+                "Jean Helwege"
+            ],
+            "abstract": "Reduced-form models of default that attribute a large fraction of credit spreads to compensation for credit-event risk typically preclude the most plausible economic justification for such risk to be priced, namely, a contemporaneous drop in the market portfolio. When this \u201ccontagion\u201d channel is introduced within a general equilibrium framework for an economy comprising a large number of firms, credit-event risk premia have an upper bound of a few basis points, and are dwarfed by the contagion premium. We provide empirical evidence that indicates credit-event risk premia are less than 1 bp, but contagion risk premia are significant.",
+            "link": "https://doi.org/10.1093/rfs/hhv022"
+        },
+        {
+            "no": "6",
+            "title": "Why Are University Endowments Large and Risky?",
+            "date": "19 May 2015",
+            "author": [
+                "Thomas Gilbert",
+                "Christopher Hrdlicka"
+            ],
+            "abstract": "We build a model of universities combining their real production decisions with their choice of endowment size and asset allocation. Variation in opportunity cost, that is, the productivity of internal projects, has a first-order effect on these choices. Adding the UPMIFA-mandated 7% payout constraint, the endowment size and asset allocations match those empirically observed. This constraint has little effect on universities that do not value the output of their internal projects but harms those that do: it prevents the endowment's use as an effective buffer stock, thereby increasing the volatility of production, and it slows the growth of the most productive universities.",
+            "link": "https://doi.org/10.1093/rfs/hhv031"
+        },
+        {
+            "no": "7",
+            "title": "Optimal Tax Timing with Asymmetric Long-Term/Short-Term Capital Gains Tax",
+            "date": "09 April 2015",
+            "author": [
+                "Min Dai",
+                "Hong Liu",
+                "Chen Yang",
+                "Yifei Zhong"
+            ],
+            "abstract": "We develop an optimal tax-timing model that takes into account asymmetric long-term and short-term tax rates for positive capital gains and limited tax deductibility of capital losses. In contrast to the existing literature, this model can help explain why many investors not only defer short-term capital losses to long term but also defer large long-term capital gains and losses. Because the benefit of tax deductibility of capital losses increases with the short-term tax rates, effective tax rates can decrease as short-term capital gains tax rates increase.",
+            "link": "https://doi.org/10.1093/rfs/hhv024"
+        },
+        {
+            "no": "8",
+            "title": "Cover",
+            "date": "05 August 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu135"
+        },
+        {
+            "no": "9",
+            "title": "Editorial Board",
+            "date": "05 August 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu136"
+        },
+        {
+            "no": "10",
+            "title": "Forthcoming Articles",
+            "date": "05 August 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu137"
+        },
+        {
+            "no": "11",
+            "title": "Volume 28 Number 9 September 2015\nThe Review of Financial Studies - Table of Contents",
+            "date": "05 August 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu138"
+        }
+    ]
+}

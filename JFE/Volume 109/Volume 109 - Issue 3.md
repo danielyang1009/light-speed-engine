@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The European Union, the Euro, and equity market integration
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Geert Bekaert
 - Campbell R. Harvey
 - Christian T. Lundblad
@@ -27,7 +27,7 @@ We use industry valuation differentials across European countries to study the i
 ## 3. Why Gaussian macro-finance term structure models are (nearly) unconstrained factor-VARs
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Scott Joslin
 - Anh Le
 - Kenneth J. Singleton
@@ -39,7 +39,7 @@ This paper explores the implications of filtering and no-arbitrage for the maxim
 ## 4. Determinants of corporate cash policy: Insights from private firms
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Huasheng Gao
 - Jarrad Harford
 - Kai Li
@@ -51,7 +51,7 @@ We provide one of the first large sample comparisons of cash policies in public 
 ## 5. The dividend month premium
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Samuel M. Hartzmark
 - David H. Solomon
 ### Abstract
@@ -62,7 +62,7 @@ We find an asset pricing anomaly whereby companies have positive abnormal return
 ## 6. Controlling shareholders and market timing in share issuance
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Borja Larrain
 - Francisco Urzúa I.
 ### Abstract
@@ -73,7 +73,7 @@ We examine market timing in the equity issuance of firms controlled by large sha
 ## 7. Externalities of public firm presence: Evidence from private firms' investment decisions
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Brad Badertscher
 - Nemit Shroff
 - Hal D. White
@@ -85,7 +85,7 @@ Public firms provide a large amount of information through their disclosures. In
 ## 8. The term structure of interbank risk
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Damir Filipović
 - Anders B. Trolle
 ### Abstract
@@ -96,7 +96,7 @@ We infer a term structure of interbank risk from spreads between rates on intere
 ## 9. Exploring uncharted territories of the hedge fund Industry: Empirical characteristics of mega hedge fund firms
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Daniel Edelman
 - William Fung
 - David A. Hsieh
@@ -108,7 +108,7 @@ This paper investigates mega hedge fund management companies that collectively m
 ## 10. Banking deregulation and innovation
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Sudheer Chava
 - Alexander Oettl
 - Ajay Subramanian
@@ -121,7 +121,7 @@ We document empirical support for a key micro-level channel—innovation by youn
 ## 11. Why does junior put all his eggs in one basket? A potential rational explanation for holding concentrated portfolios
 ### Date
 - Mar 2013
-### Authors
+### Author
 - Hervé Roche
 - Stathis Tompaidis
 - Chunyu Yang
@@ -133,7 +133,7 @@ Empirical studies of household portfolios show that young households, with littl
 ## 12. Undisclosed orders and optimal submission strategies in a limit order market
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Sabrina Buti
 - Barbara Rindi
 ### Abstract
@@ -144,7 +144,7 @@ Reserve orders enable traders to hide a portion of their orders and now appear i
 ## 13. Company name fluency, investor recognition, and firm value
 ### Date
 - Apr 2013
-### Authors
+### Author
 - T. Clifton Green
 - Russell Jame
 ### Abstract
@@ -155,7 +155,7 @@ Research from psychology suggests that people evaluate fluent stimuli more favor
 ## 14. Credit supply and corporate innovation
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Mario Daniele Amore
 - Cédric Schneider
 - Alminas Žaldokas
@@ -167,7 +167,7 @@ We present evidence that banking development plays a key role in technological p
 ## 15. The dark side of analyst coverage: The case of innovation
 ### Date
 - Apr 2013
-### Authors
+### Author
 - Jie (Jack) He
 - Xuan Tian
 ### Abstract

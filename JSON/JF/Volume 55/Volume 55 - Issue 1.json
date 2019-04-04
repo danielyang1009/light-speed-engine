@@ -1,0 +1,239 @@
+{
+    "journal": "JF",
+    "volume": "55",
+    "issue": "1",
+    "date": "February 2000",
+    "page": "Pages: i-vii, 1-528, viii-xxv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "04 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00829.x"
+        },
+        {
+            "no": "2",
+            "title": "SMITH BREEDEN AND BRATTLE GROUP PRIZES FOR 1999",
+            "date": "31 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00198"
+        },
+        {
+            "no": "3",
+            "title": "Agency Problems and Dividend Policies around the World",
+            "date": "31 March 2007",
+            "author": [
+                "Rafael La Porta",
+                "Florencio Lopez\u2010de\u2010Silanes",
+                "Andrei Shleifer",
+                "Robert W. Vishny"
+            ],
+            "abstract": "This paper outlines and tests two agency models of dividends. According to the \u201coutcome model,\u201d dividends are paid because minority shareholders pressure corporate insiders to disgorge cash. According to the \u201csubstitute model,\u201d insiders interested in issuing equity in the future pay dividends to establish a reputation for decent treatment of minority shareholders. The first model predicts that stronger minority shareholder rights should be associated with higher dividend payouts; the second model predicts the opposite. Tests on a cross section of 4,000 companies from 33 countries with different levels of minority shareholder rights support the outcome agency model of dividends.",
+            "link": "https://doi.org/10.1111/0022-1082.00199"
+        },
+        {
+            "no": "4",
+            "title": "The Cost of Diversity: The Diversification Discount and Inefficient Investment",
+            "date": "31 March 2007",
+            "author": [
+                "Raghuram Rajan",
+                "Henri Servaes",
+                "Luigi Zingales"
+            ],
+            "abstract": "We model the distortions that internal power struggles can generate in the allocation of resources between divisions of a diversified firm. The model predicts that if divisions are similar in the level of their resources and opportunities, funds will be transferred from divisions with poor opportunities to divisions with good opportunities. When diversity in resources and opportunities increases, however, resources can flow toward the most inefficient division, leading to more inefficient investment and less valuable firms. We test these predictions on a panel of diversified U.S. firms during the period from 1980 to 1993 and find evidence consistent with them.",
+            "link": "https://doi.org/10.1111/0022-1082.00200"
+        },
+        {
+            "no": "5",
+            "title": "Agency Costs and Ownership Structure",
+            "date": "31 March 2007",
+            "author": [
+                "James S. Ang",
+                "Rebel A. Cole",
+                "James Wuh Lin"
+            ],
+            "abstract": "We provide measures of absolute and relative equity agency costs for corporations under different ownership and management structures. Our base case is Jensen and Meckling's (1976) zero agency\u2010cost firm, where the manager is the firm's sole shareholder. We utilize a sample of 1,708 small corporations from the FRB/NSSBF database and find that agency costs (i) are significantly higher when an outsider rather than an insider manages the firm; (ii) are inversely related to the manager's ownership share; (iii) increase with the number of nonmanager shareholders, and (iv) to a lesser extent, are lower with greater monitoring by banks.",
+            "link": "https://doi.org/10.1111/0022-1082.00201"
+        },
+        {
+            "no": "6",
+            "title": "Financing Policy, Basis Risk, and Corporate Hedging: Evidence from Oil and Gas Producers",
+            "date": "31 March 2007",
+            "author": [
+                "G. David Haushalter"
+            ],
+            "abstract": "This paper studies the hedging policies of oil and gas producers between 1992 and 1994. My evidence shows that the extent of hedging is related to financing costs. In particular, companies with greater financial leverage manage price risks more extensively. My evidence also shows that the likelihood of hedging is related to economies of scale in hedging costs and to the basis risk associated with hedging instruments. Larger companies and companies whose production is located primarily in regions where prices have a high correlation with the prices on which exchange\u2010traded derivatives are based are more likely to manage risks.",
+            "link": "https://doi.org/10.1111/0022-1082.00202"
+        },
+        {
+            "no": "7",
+            "title": "The Exploitation of Relationships in Financial Distress: The Case of Trade Credit",
+            "date": "31 March 2007",
+            "author": [
+                "Benjamin S. Wilner"
+            ],
+            "abstract": "This paper develops optimal pricing, lending, and renegotiation strategies for companies in relationships where one firm is highly dependent on the other. Long\u2010term trade\u2014creditor firm relationships induce dependent trade creditors to grant more concessions in debt renegotiations than nondependent creditors. Anticipating these larger renegotiation concessions, not only do less financially stable firms prefer trade credit, but all firms agree to pay a higher interest rate for trade credit. The model also explains the existence of \u201cteaser\u201d interest rates and convenience classes. Findings are consistent with those of the relationship\u2010lending literature.",
+            "link": "https://doi.org/10.1111/0022-1082.00203"
+        },
+        {
+            "no": "8",
+            "title": "Portfolio Selection and Asset Pricing Models",
+            "date": "31 March 2007",
+            "author": [
+                "\u013dubo\u0161 P\u00e1stor"
+            ],
+            "abstract": "Finance theory can be used to form informative prior beliefs in financial decision making. This paper approaches portfolio selection in a Bayesian framework that incorporates a prior degree of belief in an asset pricing model. Sample evidence on home bias and value and size effects is evaluated from an asset\u2010allocation perspective. U.S. investors' belief in the domestic CAPM must be very strong to justify the home bias observed in their equity holdings. The same strong prior belief results in large and stable optimal positions in the Fama\u2013French book\u2010to\u2010market portfolio in combination with the market since the 1940s.",
+            "link": "https://doi.org/10.1111/0022-1082.00204"
+        },
+        {
+            "no": "9",
+            "title": "Investing for the Long Run when Returns Are Predictable",
+            "date": "31 March 2007",
+            "author": [
+                "Nicholas Barberis"
+            ],
+            "abstract": "We examine how the evidence of predictability in asset returns affects optimal portfolio choice for investors with long horizons. Particular attention is paid to estimation risk, or uncertainty about the true values of model parameters. We find that even after incorporating parameter uncertainty, there is enough predictability in returns to make investors allocate substantially more to stocks, the longer their horizon. Moreover, the weak statistical significance of the evidence for predictability makes it important to take estimation risk into account; a long\u2010horizon investor who ignores it may overallocate to stocks by a sizeable amount.",
+            "link": "https://doi.org/10.1111/0022-1082.00205"
+        },
+        {
+            "no": "10",
+            "title": "Bad News Travels Slowly: Size, Analyst Coverage, and the Profitability of Momentum Strategies",
+            "date": "31 March 2007",
+            "author": [
+                "Harrison Hong",
+                "Terence Lim",
+                "Jeremy C. Stein"
+            ],
+            "abstract": "Various theories have been proposed to explain momentum in stock returns. We test the gradual\u2010information\u2010diffusion model of Hong and Stein (1999) and establish three key results. First, once one moves past the very smallest stocks, the profitability of momentum strategies declines sharply with firm size. Second, holding size fixed, momentum strategies work better among stocks with low analyst coverage. Finally, the effect of analyst coverage is greater for stocks that are past losers than for past winners. These findings are consistent with the hypothesis that firm\u2010specific information, especially negative information, diffuses only gradually across the investing public.",
+            "link": "https://doi.org/10.1111/0022-1082.00206"
+        },
+        {
+            "no": "11",
+            "title": "Trading and Returns under Periodic Market Closures",
+            "date": "31 March 2007",
+            "author": [
+                "Harrison Hong",
+                "Jiang Wang"
+            ],
+            "abstract": "This paper studies how market closures affect investors' trading policies and the resulting return\u2010generating process. It shows that closures generate rich patterns of time variation in trading and returns, including those consistent with empirical findings: (1) U\u2010shaped patterns in the mean and volatility of returns over trading periods, (2) higher trading activity around the close and open, (3) more volatile open\u2010to\u2010open returns than close\u2010to\u2010close returns, (4) higher returns over trading periods than over nontrading periods, (5) more volatile returns over trading periods than over nontrading periods. It also shows that closures can make prices more informative about future payoffs.",
+            "link": "https://doi.org/10.1111/0022-1082.00207"
+        },
+        {
+            "no": "12",
+            "title": "Is the Short Rate Drift Actually Nonlinear?",
+            "date": "31 March 2007",
+            "author": [
+                "David A. Chapman",
+                "Neil D. Pearson"
+            ],
+            "abstract": "A\u00eft\u2010Sahalia (1996) and Stanton (1997) use nonparametric estimators applied to short\u2010term interest rate data to conclude that the drift function contains important nonlinearities. We study the finite\u2010sample properties of their estimators by applying them to simulated sample paths of a square\u2010root diffusion. Although the drift function is linear, both estimators suggest nonlinearities of the type and magnitude reported in A\u00eft\u2010Sahalia (1996) and Stanton (1997). Combined with the results of a weighted least squares estimator, this evidence implies that nonlinearity of the short rate drift is not a robust stylized fact.",
+            "link": "https://doi.org/10.1111/0022-1082.00208"
+        },
+        {
+            "no": "13",
+            "title": "Characteristics, Covariances, and Average Returns: 1929 to 1997",
+            "date": "31 March 2007",
+            "author": [
+                "James L. Davis",
+                "Eugene F. Fama",
+                "Kenneth R. French"
+            ],
+            "abstract": "The value premium in U.S. stock returns is robust. The positive relation between average return and book\u2010to\u2010market equity is as strong for 1929 to 1963 as for the subsequent period studied in previous papers. A three\u2010factor risk model explains the value premium better than the hypothesis that the book\u2010to\u2010market characteristic is compensated irrespective of risk loadings.",
+            "link": "https://doi.org/10.1111/0022-1082.00209"
+        },
+        {
+            "no": "14",
+            "title": "Sorting Out Sorts",
+            "date": "31 March 2007",
+            "author": [
+                "Jonathan B. Berk"
+            ],
+            "abstract": "In this paper we analyze the theoretical implications of sorting data into groups and then running asset pricing tests within each group. We show that the way this procedure is implemented introduces a bias in favor of rejecting the model under consideration. By simply picking enough groups to sort into, the true asset pricing model can be shown to have no explanatory power within each group.",
+            "link": "https://doi.org/10.1111/0022-1082.00210"
+        },
+        {
+            "no": "15",
+            "title": "Stock Splits, Tick Size, and Sponsorship",
+            "date": "31 March 2007",
+            "author": [
+                "Paul Schultz"
+            ],
+            "abstract": "A traditional explanation for stock splits is that they increase the number of small shareholders who own the stock. A possible reason for the increase is that the minimum bid\u2010ask spread is wider after a split and brokers have more incentive to promote a stock. I document a large number of small buy orders following Nasdaq and NYSE/AMEX splits during 1993 to 1994. I also find strong evidence that trading costs increase, and weak evidence that costs of market making decline following splits. This is consistent with splits acting as an incentive to brokers to promote stocks.",
+            "link": "https://doi.org/10.1111/0022-1082.00211"
+        },
+        {
+            "no": "16",
+            "title": "Effectiveness of Capital Regulation at U.S. Commercial Banks, 1985 to 1994",
+            "date": "31 March 2007",
+            "author": [
+                "Armen Hovakimian",
+                "Edward J. Kane"
+            ],
+            "abstract": "Unless priced and administered appropriately, a governmental safety net enhances risk\u2010shifting opportunities for banks. This paper quantifies regulatory efforts to use capital requirements to control risk\u2010shifting by U.S. banks during 1985 to 1994 and investigates how much risk\u2010based capital requirements and other deposit\u2010insurance reforms improved this control. We find that capital discipline did not prevent large banks from shifting risk onto the safety net. Banks with low capital and debt\u2010to\u2010deposits ratios overcame outside discipline better than other banks. Mandates introduced by 1991 legislation have improved but did not establish full regulatory control over bank risk\u2010shifting incentives.",
+            "link": "https://doi.org/10.1111/0022-1082.00212"
+        },
+        {
+            "no": "17",
+            "title": "Liquidity and Liquidation: Evidence from Real Estate Investment Trusts",
+            "date": "31 March 2007",
+            "author": [
+                "David T. Brown"
+            ],
+            "abstract": "This study provides evidence that highly leveraged owner\u2010managed properties liquidated assets during the commercial real estate decline of the late 1980s, and that this provided buying opportunities for better capitalized buyers. The analysis documents significant financial distress costs for highly leveraged firms during an industry\u2010wide downturn and shows that these costs are particularly large for owner\u2010managed firms.",
+            "link": "https://doi.org/10.1111/0022-1082.00213"
+        },
+        {
+            "no": "18",
+            "title": "The Effect of Options on Stock Prices: 1973 to 1995",
+            "date": "31 March 2007",
+            "author": [
+                "Sorin M. Sorescu"
+            ],
+            "abstract": "I show that the effect of option introductions on underlying stock prices is best described by a two\u2010regime switching means model whose optimal switch date occurs in 1981. In accordance with previous studies, I find positive abnormal returns for options listed during 1973 to 1980. By contrast, I find negative abnormal returns for options listed in 1981 and later. Possible causes for this switch include the introduction of index options in 1982, the implementation of regulatory changes in 1981, and the possibility that options expedite the dissemination of negative information.",
+            "link": "https://doi.org/10.1111/0022-1082.00214"
+        },
+        {
+            "no": "19",
+            "title": "Book Reviews",
+            "date": "31 March 2007",
+            "author": [],
+            "abstract": "Books reviewed:\nLo, Andrew W. and MacKinlay, A. Craig A Non\u2010Random Walk Down Wall Street\nB\u00f6rk, Tomas Arbitrage Theory in Continuous Times",
+            "link": "https://doi.org/10.1111/1540-6261.00215"
+        },
+        {
+            "no": "20",
+            "title": "MISCELLANEA",
+            "date": "31 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00216"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "31 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00217"
+        },
+        {
+            "no": "22",
+            "title": "Association Meetings",
+            "date": "31 March 2007",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00218"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "04 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00830.x"
+        }
+    ]
+}

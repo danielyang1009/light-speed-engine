@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Offshore activities and financial vs operational hedging
 ### Date
 - May 2017
-### Authors
+### Author
 - Gerard Hoberg
 - S. Katie Moon
 ### Abstract
@@ -25,7 +25,7 @@ A key question is why many multinational firms forgo foreign exchange derivative
 ## 3. Reputation and signaling in asset sales
 ### Date
 - May 2017
-### Authors
+### Author
 - Barney Hartman-Glaser
 ### Abstract
 Static adverse selection models of security issuance show that informed issuers can perfectly reveal their private information by maintaining a costly stake in the securities they issue. This paper shows that allowing an issuer to both signal current security quality via retention and build a reputation for honesty leads that issuer to misreport quality even when owning a positive stake, that is, the equilibrium is neither separating nor pooling. An issuer retains less as reputation improves and prices are more sensitive to retention when the issuer has a worse reputation.
@@ -35,7 +35,7 @@ Static adverse selection models of security issuance show that informed issuers 
 ## 4. Bank capital, liquid reserves, and insolvency risk
 ### Date
 - May 2017
-### Authors
+### Author
 - Julien Hugonnier
 - Erwan Morellec
 ### Abstract
@@ -46,7 +46,7 @@ We develop a dynamic model of banking to assess the effects of liquidity and lev
 ## 5. The impacts of political uncertainty on asset prices: Evidence from the Bo scandal in China
 ### Date
 - May 2017
-### Authors
+### Author
 - Laura Xiaolei Liu
 - Haibing Shu
 - K.C. John Wei
@@ -58,7 +58,7 @@ Models of political risk predict that increases in political uncertainty cause s
 ## 6. Moral hazard in active asset management
 ### Date
 - May 2017
-### Authors
+### Author
 - David C. Brown
 - Shaun William Davies
 ### Abstract
@@ -69,7 +69,7 @@ We consider a model of active asset management in which mutual fund managers exe
 ## 7. Firm characteristics, consumption risk, and firm-level risk exposures
 ### Date
 - May 2017
-### Authors
+### Author
 - Robert F. Dittmar
 - Christian T. Lundblad
 ### Abstract
@@ -80,7 +80,7 @@ We propose a novel approach to measuring firm-level risk exposures and costs of 
 ## 8. U.S. multinationals and cash holdings
 ### Date
 - May 2017
-### Authors
+### Author
 - Tiantian Gu
 ### Abstract
 U.S. multinational firms hold significantly more cash than domestic firms. I study this cash differential using a dynamic model featuring corporate physical and intangible investment, cross-border decisions, and financial policies. I find that the cash differential diminishes by 42% if repatriation costs are set to zero. Hence, costly repatriation induces cash accumulation offshore. Further, firms that invest overseas have different ex ante cash policies from firms that do not. I examine this self-selection effect by eliminating heterogeneous intangibility across multinational and domestic firms, which reduces the cash differential by 28%. I also examine the likelihood of corporate inversion under federal regulations. The estimated annual tax loss to the U.S. Treasury from inversions is reduced from $2.2 billion to $1.3 billion if the requirements for foreign ownership are tightened from 20% to 50%.
@@ -90,7 +90,7 @@ U.S. multinational firms hold significantly more cash than domestic firms. I stu
 ## 9. Employment protection and takeovers
 ### Date
 - May 2017
-### Authors
+### Author
 - Olivier Dessaint
 - Andrey Golubov
 - Paolo Volpin
@@ -102,7 +102,7 @@ Labor restructuring is a key driver of takeovers and the associated synergy gain
 ## 10. Option repricing, corporate governance, and the effect of shareholder empowerment
 ### Date
 - May 2017
-### Authors
+### Author
 - Huseyin Gulen
 - William J. O'Brien
 ### Abstract
@@ -113,7 +113,7 @@ We use the practice of employee option repricing to investigate how shareholder 
 ## 11. Corrigendum to “Optimal consumption, portfolio and life insurance rules for an uncertain lived individual in a continuous time model” [Journal of Financial Economics 2 (1975) 187–203]
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Scott F. Richard
 ### Abstract
 

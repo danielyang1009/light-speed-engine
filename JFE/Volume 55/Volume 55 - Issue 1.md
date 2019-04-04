@@ -5,7 +5,7 @@
 ## 1. Factors affecting investment bank initial public offering market share
 ### Date
 - Jan 2000
-### Authors
+### Author
 - Craig G Dunbar
 ### Abstract
 This paper examines the effect of several factors on the market share of investment banks that act as book managers in initial public offerings (IPOs) between 1984 and 1995. For established banks, IPO first-day returns, one-year abnormal performance, abnormal compensation, industry specialization, analyst reputation, and association with withdrawn offers have a significant impact on changes in market share. These factors have a more significant effect on market share changes in low-volume IPO markets. These factors have a less significant effect on market share, statistically and economically, for less established banks, consistent with the notion that less reputation is placed at risk.
@@ -15,7 +15,7 @@ This paper examines the effect of several factors on the market share of investm
 ## 2. The investment behavior and performance of various investor types: a study of Finland's unique data set
 ### Date
 - Jan 2000
-### Authors
+### Author
 - Mark Grinblatt
 - Matti Keloharju
 ### Abstract
@@ -26,7 +26,7 @@ Using data from Finland, this study analyzes the extent to which past returns de
 ## 3. When an event is not an event: the curious case of an emerging market
 ### Date
 - Jan 2000
-### Authors
+### Author
 - Utpal Bhattacharya
 - Hazem Daouk
 - Brian Jorgenson
@@ -39,7 +39,7 @@ Shares trading in the Bolsa Mexicana de Valores do not seem to react to company 
 ## 4. Value creation and corporate diversification: the case of Sears, Roebuck & Co.
 ### Date
 - Jan 2000
-### Authors
+### Author
 - Stuart L. Gillan
 - John W. Kensinger
 - John D. Martin

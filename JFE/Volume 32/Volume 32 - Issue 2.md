@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Oct 1992
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -20,7 +20,7 @@
 ## 2. Global financial markets and the risk premium on U.S. equity
 ### Date
 - Oct 1992
-### Authors
+### Author
 - K.C. Chan
 - G.Andrew Karolyi
 - RenéM. Stulz
@@ -32,7 +32,7 @@ There is a significant foreign influence on the risk premium for U.S. assets. Us
 ## 3. Time-varying risk premia and forecastable returns in futures markets
 ### Date
 - Oct 1992
-### Authors
+### Author
 - Hendrik Bessembinder
 - Kalok Chan
 ### Abstract
@@ -43,7 +43,7 @@ We document that instrumental variables known to possess forecast power in equit
 ## 4. Do outside directors monitor managers?
 ### Date
 - Oct 1992
-### Authors
+### Author
 - John W. Byrd
 - Kent A. Hickman
 ### Abstract
@@ -54,7 +54,7 @@ Examining 128 tender offer bids made from 1980 through 1987, we categorize outsi
 ## 5. Does the form of compensation matter?
 ### Date
 - Oct 1992
-### Authors
+### Author
 - Robyn M. McLaughlin
 ### Abstract
 The role of fee contracts in the agency relation between investment bankers and client firms in tender offers is investigated using a sample of offers between 1978 and 1986. Different fees have different payoff functions which can be used by firms to create incentives and by bankers to signal differences in abilities. The effectiveness of fee contracts in resolving agency problems in tested, with mixed results. The evidence suggests that fee contracts are used as a tool by both firms and bankers and that contracts influence tender offer outcomes but that contracting is only a partial solution to the agency problem.

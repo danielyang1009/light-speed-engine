@@ -1,0 +1,124 @@
+{
+    "journal": "RFS",
+    "volume": "29",
+    "issue": "4",
+    "date": "April 2016",
+    "page": "Pages 863\u20131112",
+    "article": [
+        {
+            "no": "1",
+            "title": "Financial Attention",
+            "date": "19 November 2015",
+            "author": [
+                "Nachum Sicherman",
+                "George Loewenstein",
+                "Duane J. Seppi",
+                "Stephen P. Utkus"
+            ],
+            "abstract": "This paper investigates financial attention using novel panel data on daily investor online account logins. We find support for selective attention to portfolio information. Account logins fall by 9.5% after market declines. Investors also pay less attention when the VIX volatility index is high. The level of attention and the attention/return correlation are strongly related to investor demographics (gender, age) and financial position (wealth, holdings). Using a new statistical decomposition, we show how aggregate and individual household trading are related to investor attention.",
+            "link": "https://doi.org/10.1093/rfs/hhv073"
+        },
+        {
+            "no": "2",
+            "title": "Whom Do You Trust?: Investor-Advisor Relationships and Mutual Fund Flows",
+            "date": "08 September 2015",
+            "author": [
+                "Leonard Kostovetsky"
+            ],
+            "abstract": "I provide a measure for the value that investors place on trust and relationships in asset management by examining mutual fund flows around announced changes in the ownership of fund management companies. I find a decline in flows of around 7% of fund assets in the year following the announcement date, resulting primarily from fund outflows. Retail investors and investors in funds with higher expense ratios are most responsive to ownership changes, providing evidence that such investors appear to place a significant value on trust and are more likely to respond to a relationship disruption by withdrawing their assets.",
+            "link": "https://doi.org/10.1093/rfs/hhv053"
+        },
+        {
+            "no": "3",
+            "title": "How Family Status and Social Security Claiming Options Shape Optimal Life Cycle Portfolios",
+            "date": "19 November 2015",
+            "author": [
+                "Andreas Hubener",
+                "Raimond Maurer",
+                "Olivia S. Mitchell"
+            ],
+            "abstract": "We show how optimal household decisions regarding work, retirement, saving, portfolio allocations, and life insurance are shaped by the complex financial options embedded in U.S. Social Security rules and uncertain family transitions. Our life cycle model predicts sharp consumption drops on retirement, an age-62 peak in claiming rates, and earlier claiming by wives versus husbands and single women. Moreover, life insurance is mainly purchased on men's lives. Our model, which takes Social Security rules seriously, generates wealth and retirement outcomes that are more consistent with the data, in contrast to earlier and less realistic models.",
+            "link": "https://doi.org/10.1093/rfs/hhv070"
+        },
+        {
+            "no": "4",
+            "title": "Borrowing High versus Borrowing Higher: Price Dispersion and Shopping Behavior in the U.S. Credit Card Market",
+            "date": "25 November 2015",
+            "author": [
+                "Victor Stango",
+                "Jonathan Zinman"
+            ],
+            "abstract": "We document substantial cross-individual dispersion in U.S. credit card borrowing costs, even after controlling for borrower risk and card characteristics. That remaining dispersion arises because cross-lender pricing heterogeneity generates dispersion in annual percentage rate (APR) offers to borrowers, and borrowers vary in shopping intensity. Our empirics match administrative data to self-reported card shopping intensity and use instruments suggested by fair lending law to account for the endogeneity between APRs and search. The results show that shoppers versus nonshoppers pay APRs as different as those paid by borrowers in the best versus worst credit score deciles. We discuss implications for policy and practice.",
+            "link": "https://doi.org/10.1093/rfs/hhv072"
+        },
+        {
+            "no": "5",
+            "title": "Does it Pay to Invest in Art? A Selection-Corrected Returns Perspective",
+            "date": "27 October 2015",
+            "author": [
+                "Arthur Korteweg",
+                "Roman Kr\u00e4ussl",
+                "Patrick Verwijmeren"
+            ],
+            "abstract": "This paper shows the importance of correcting for sample selection when investing in illiquid assets that trade endogenously. Using a sample of 32,928 paintings that sold repeatedly between 1960 and 2013, we find an asymmetric V-shaped relation between sale probabilities and returns. Adjusting for the resulting selection bias reduces average annual index returns from 8.7% to 6.3%, lowers Sharpe ratios from 0.27 to 0.11, and materially impacts portfolio allocations. Investing in a broad portfolio of paintings is not attractive, but targeting specific styles or top-selling artists may add value. The methodology naturally extends to other asset classes.",
+            "link": "https://doi.org/10.1093/rfs/hhv062"
+        },
+        {
+            "no": "6",
+            "title": "The Corporate Value of (Corrupt) Lobbying",
+            "date": "03 September 2015",
+            "author": [
+                "Alexander Borisov",
+                "Eitan Goldman",
+                "Nandini Gupta"
+            ],
+            "abstract": "We examine whether the stock market considers corporate lobbying to be value enhancing, using an event that potentially limited the ability of firms to lobby but was exogenous to their characteristics and prior lobbying decisions. The results show that this exogenous shock negatively affects the value of firms that lobby. In particular, we estimate that a firm that spends $100,000 more on lobbying in the 3 years before the shock (where sample average lobbying expenses are about $4 million), experiences a loss of about $1.2 million in shareholder value on average. We also examine the channels through which lobbying may create value for firms.",
+            "link": "https://doi.org/10.1093/rfs/hhv048"
+        },
+        {
+            "no": "7",
+            "title": "Estimating Security Betas Using Prior Information Based on Firm Fundamentals",
+            "date": "29 December 2015",
+            "author": [
+                "Mathijs Cosemans",
+                "Rik Frehen",
+                "Peter C. Schotman",
+                "Rob Bauer"
+            ],
+            "abstract": "We propose a hybrid approach for estimating beta that shrinks rolling window estimates toward firm-specific priors motivated by economic theory. Our method yields superior forecasts of beta that have important practical implications. First, unlike standard rolling window betas, hybrid betas carry a significant price of risk in the cross-section even after controlling for characteristics. Second, the hybrid approach offers statistically and economically significant out-of-sample benefits for investors who use factor models to construct optimal portfolios. We show that the hybrid estimator outperforms existing estimators because shrinkage toward a fundamentals-based prior is effective in reducing measurement noise in extreme beta estimates.",
+            "link": "https://doi.org/10.1093/rfs/hhv131"
+        },
+        {
+            "no": "8",
+            "title": "Cover",
+            "date": "04 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv100"
+        },
+        {
+            "no": "9",
+            "title": "Editorial Board",
+            "date": "04 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv101"
+        },
+        {
+            "no": "10",
+            "title": "Forthcoming Articles",
+            "date": "04 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv102"
+        },
+        {
+            "no": "11",
+            "title": "Volume 29 Number 4 April 2016\nThe Review of Financial Studies - Table of Contents",
+            "date": "04 March 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhv103"
+        }
+    ]
+}

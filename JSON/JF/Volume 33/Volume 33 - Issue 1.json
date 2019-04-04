@@ -1,0 +1,396 @@
+{
+    "journal": "JF",
+    "volume": "33",
+    "issue": "1",
+    "date": "March 1978",
+    "page": "Pages: i-viii, 1-382, ix-xxii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb00751.x"
+        },
+        {
+            "no": "2",
+            "title": "[Obituary: Alexander A. Robichek]",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb00752.x"
+        },
+        {
+            "no": "3",
+            "title": "THE SUPERIORITY OF ANALYST FORECASTS AS MEASURES OF EXPECTATIONS: EVIDENCE FROM EARNINGS",
+            "date": "March 1978",
+            "author": [
+                "Lawrence D. Brown",
+                "Michael S. Rozeff"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03385.x"
+        },
+        {
+            "no": "4",
+            "title": "EARNINGS CHANGES, STOCK PRICES, AND MARKET EFFICIENCY",
+            "date": "March 1978",
+            "author": [
+                "Stewart L. Brown"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03386.x"
+        },
+        {
+            "no": "5",
+            "title": "THE ADJUSTMENT OF STOCK PRICES TO BOND RATING CHANGES",
+            "date": "March 1978",
+            "author": [
+                "George E. Pinches",
+                "J. Clay Singleton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03387.x"
+        },
+        {
+            "no": "6",
+            "title": "A MEAN\u2010VARIANCE THEORY OF OPTIMAL CAPITAL STRUCTURE AND CORPORATE DEBT CAPACITY",
+            "date": "March 1978",
+            "author": [
+                "E. Han Kim"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03388.x"
+        },
+        {
+            "no": "7",
+            "title": "THE VALUATION AND COST OF CAPITAL OF THE LEVERED FIRM WITH GROWTH OPPORTUNITIES",
+            "date": "March 1978",
+            "author": [
+                "Fred D. Arditti",
+                "John M. Pinkerton"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03389.x"
+        },
+        {
+            "no": "8",
+            "title": "ESTIMATING TERM STRUCTURE EQUATIONS WITH INDIVIDUAL BOND DATA",
+            "date": "March 1978",
+            "author": [
+                "Steven W. Dobson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03390.x"
+        },
+        {
+            "no": "9",
+            "title": "TIME SERIES ANALYSIS OF INTEREST RATES: SOME ADDITIONAL EVIDENCE",
+            "date": "March 1978",
+            "author": [
+                "John R. Brick",
+                "Howard E. Thompson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03391.x"
+        },
+        {
+            "no": "10",
+            "title": "RISK PREMIUMS ON FEDERAL AGENCY DEBT",
+            "date": "March 1978",
+            "author": [
+                "Kenneth D. Garbade",
+                "Joseph F. Hunt"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03392.x"
+        },
+        {
+            "no": "11",
+            "title": "MONETARY POLICY, INFLATION FORECASTING AND THE TERM STRUCTURE OF INTEREST RATES",
+            "date": "March 1978",
+            "author": [
+                "Bradford Cornell"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03393.x"
+        },
+        {
+            "no": "12",
+            "title": "COMMON STOCK VOLATILITY EXPECTATIONS IMPLIED BY OPTION PREMIA",
+            "date": "March 1978",
+            "author": [
+                "Richard Schmalensee",
+                "Robert R. Trippi"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03394.x"
+        },
+        {
+            "no": "13",
+            "title": "THE RETURNS GENERATION PROCESS, RETURNS VARIANCE, AND THE EFFECT OF THINNESS IN SECURITIES MARKETS",
+            "date": "March 1978",
+            "author": [
+                "Kalman J. Cohen",
+                "Steven F. Maier",
+                "Robert A. Schwartz",
+                "David K. Whitcomb"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03395.x"
+        },
+        {
+            "no": "14",
+            "title": "CALL OPTION PRICING WHEN THE EXERCISE PRICE IS UNCERTAIN, AND THE VALUATION OF INDEX BONDS",
+            "date": "March 1978",
+            "author": [
+                "Stanley Fischer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03396.x"
+        },
+        {
+            "no": "15",
+            "title": "THE VALUE OF AN OPTION TO EXCHANGE ONE ASSET FOR ANOTHER",
+            "date": "March 1978",
+            "author": [
+                "William Margrabe"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03397.x"
+        },
+        {
+            "no": "16",
+            "title": "CONSISTENT EMPIRICAL RESULTS WITH ALMON'S METHOD: IMPLICATIONS FOR THE MONETARY VERSUS FISCAL POLICY DEBATE",
+            "date": "March 1978",
+            "author": [
+                "Charles P. Harper",
+                "Clifford L. Fry"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03398.x"
+        },
+        {
+            "no": "17",
+            "title": "ON THE DISTRIBUTIONAL IMPACT OF FEDERAL INTEREST RATE RESTRICTIONS",
+            "date": "March 1978",
+            "author": [
+                "Charles Clotfelter",
+                "Charles Lieberman"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03399.x"
+        },
+        {
+            "no": "18",
+            "title": "THE DETERMINATION OF SAVINGS AND LOAN ASSOCIATION DEPOSIT RATES IN THE ABSENCE OF RATE CEILINGS: A CROSS\u2010SECTION APPROACH",
+            "date": "March 1978",
+            "author": [
+                "John S. Lapp"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03400.x"
+        },
+        {
+            "no": "19",
+            "title": "A MODEL OF THE MARKET FOR LINES OF CREDIT",
+            "date": "March 1978",
+            "author": [
+                "Tim S. Campbell"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03401.x"
+        },
+        {
+            "no": "20",
+            "title": "COMPETITION BETWEEN BANKS AND FINANCE COMPANIES: A CROSS SECTION STUDY OF PERSONAL LOAN DEBTORS",
+            "date": "March 1978",
+            "author": [
+                "Gregory E. Boczar"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03402.x"
+        },
+        {
+            "no": "21",
+            "title": "ECONOMIES OF SCALE AND ORGANIZATIONAL EFFICIENCY IN BANKING: A PROFIT\u2010FUNCTION APPROACH",
+            "date": "March 1978",
+            "author": [
+                "Donald J. Mullineaux"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03403.x"
+        },
+        {
+            "no": "22",
+            "title": "SURVEY AND ANALYSIS OF CAPITAL BUDGETING METHODS",
+            "date": "March 1978",
+            "author": [
+                "Lawrence D. Schall",
+                "Gary L. Sundem",
+                "William R. Geijsbeek Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03404.x"
+        },
+        {
+            "no": "23",
+            "title": "A NOTE ON SKEWNESS AND DATA ERRORS",
+            "date": "March 1978",
+            "author": [
+                "William L. Beedles",
+                "Michael A. Simkowitz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03405.x"
+        },
+        {
+            "no": "24",
+            "title": "DURATION AND RISK ASSESSMENT FOR BONDS AND COMMON STOCKS: A NOTE*",
+            "date": "March 1978",
+            "author": [
+                "Miles Livingston"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03406.x"
+        },
+        {
+            "no": "25",
+            "title": "SIMPLE CRITERIA FOR OPTIMAL PORTFOLIO SELECTION: TRACING OUT THE EFFICIENT FRONTIER",
+            "date": "March 1978",
+            "author": [
+                "Edwin J. Elton",
+                "Martin J. Gruber",
+                "Manfred W. Padberg"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03407.x"
+        },
+        {
+            "no": "26",
+            "title": "GOAL PROGRAMMING AND THE SELECTION OF PORTFOLIOS BY DUAL\u2010PURPOSE FUNDS",
+            "date": "March 1978",
+            "author": [
+                "P. C. Kumar",
+                "George C. Philippatos",
+                "John R. Ezzell"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03408.x"
+        },
+        {
+            "no": "27",
+            "title": "NONMEMBER BANKS AND EMPIRICAL MEASURES OF THE VARIABILITY OF RESERVES AND MONEY: A THEORETICAL APPRAISAL",
+            "date": "March 1978",
+            "author": [
+                "Kenneth J. Kopecky"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03409.x"
+        },
+        {
+            "no": "28",
+            "title": "ON THE MONETARY APPROACH TO THE BALANCE OF PAYMENTS: THE SMALL, OPEN ECONOMY",
+            "date": "March 1978",
+            "author": [
+                "D. Sykes Wilford",
+                "Walton T. Wilford"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03410.x"
+        },
+        {
+            "no": "29",
+            "title": "\u201cA MULTIVARIATE ANALYSIS OF INDUSTRIAL BOND RATINGS\u201d AND THE ROLE OF SUBORDINATION: A COMMENT",
+            "date": "March 1978",
+            "author": [
+                "Robert A. Eisenbeis"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03411.x"
+        },
+        {
+            "no": "30",
+            "title": "\u201cA MULTIVARIATE ANALYSIS OF INDUSTRIAL BOND RATINGS\u201d AND THE ROLE OF SUBORDINATION: REPLY",
+            "date": "March 1978",
+            "author": [
+                "George E. Pinches"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03412.x"
+        },
+        {
+            "no": "31",
+            "title": "PORTFOLIO EFFICIENCY ANALYSIS IN THREE MOMENTS\u2010THE MULTIPERIOD CASE: COMMENT",
+            "date": "March 1978",
+            "author": [
+                "Michael Granito",
+                "Patrick Walsh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03413.x"
+        },
+        {
+            "no": "32",
+            "title": "BOND REFUNDING: ONE OR TWO FACES?",
+            "date": "March 1978",
+            "author": [
+                "Thomas H. Mayor",
+                "Kenneth G. McCoin"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03414.x"
+        },
+        {
+            "no": "33",
+            "title": "THE TWO FACES OF BOND REFUNDING: REPLY",
+            "date": "March 1978",
+            "author": [
+                "James S. Ang"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03415.x"
+        },
+        {
+            "no": "34",
+            "title": "BOOK REVIEWS",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nInflation, Trade and Taxes, Essays in Honor of Alice Bourneuf. Edited by D. A. Belsley, E. J. Kane, P. A. Samuelson and R. M. Solow\nTowards a Reconstruction of Macroeconomics. By William Fellner\nMoney, The Price Level, and Interest Rates: An Introduction to Monetary Theory. By Gail E. Makinen\nElements of Financial Analysis. By Sylvan D. Schwartzman and Richard E. Ball\nFinancial Crises: Institutions and Markets In a Fragile Environment. Edited by Edward I. Altman and Arnold W. Sametz\nPrinciples of Modern Investments. By Charles A. D'Ambrosio\nA Modest Proposal for a Natural Securities Market System and its Governance. By Ernest Bloch and Arnold W. Sametz. The Bulletin, Graduate School of Business Administration\nInternational Monetary Reform and the Developing Countries. By William R. Cline\nInflation Accounting, A Guide for the Accountant and Financial Analyst. By Sidney Davidson, Clyde P. Stickney, and Roman L. Weil\nFinancial Disclosure in the U.K. and the U.S.A. By George A. Benston",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03416.x"
+        },
+        {
+            "no": "35",
+            "title": "MISCELLANEA",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03417.x"
+        },
+        {
+            "no": "36",
+            "title": "Southern Finance Association",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03418.x"
+        },
+        {
+            "no": "37",
+            "title": "Notice To The Membership of the American Finance Association",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb03419.x"
+        },
+        {
+            "no": "38",
+            "title": "Back Matter",
+            "date": "March 1978",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1978.tb00753.x"
+        }
+    ]
+}

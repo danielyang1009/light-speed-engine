@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Momentum crashes
 ### Date
 - Dec 2015
-### Authors
+### Author
 - Kent Daniel
 - Tobias J. Moskowitz
 ### Abstract
@@ -25,7 +25,7 @@ Despite their strong positive average returns across numerous asset classes, mom
 ## 3. Who neglects risk? Investor experience and the credit boom
 ### Date
 - Aug 2016
-### Authors
+### Author
 - Sergey Chernenko
 - Samuel G. Hanson
 - Adi Sunderam
@@ -37,7 +37,7 @@ Many have argued that overoptimistic thinking on the part of lenders helps fuel 
 ## 4. Market maturity and mispricing
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Heiko Jacobs
 ### Abstract
 Relying on the Stambaugh, Yu, and Yuan (2015) mispricing score and on 45 countries between 1994 and 2013, I document economically meaningful and statistically significant cross-sectional stock return predictability around the globe. In contrast to the widely held belief, mispricing associated with the 11 long/short anomalies underlying the composite ranking measure appears to be at least as prevalent in developed markets as in emerging markets. Additional support for this conjecture is obtained, among others, from tests for biased expectations based on the behavior of anomaly spreads surrounding earnings announcements as well as from within-country variation in development.
@@ -47,7 +47,7 @@ Relying on the Stambaugh, Yu, and Yuan (2015) mispricing score and on 45 countri
 ## 5. Patient capital outperformance: The investment skill of high active share managers who trade infrequently
 ### Date
 - Aug 2016
-### Authors
+### Author
 - Martijn Cremers
 - Ankur Pareek
 ### Abstract
@@ -58,7 +58,7 @@ Among high active share portfolios—whose holdings differ substantially from th
 ## 6. Corruption culture and corporate misconduct
 ### Date
 - Jun 2016
-### Authors
+### Author
 - Xiaoding Liu
 ### Abstract
 Despite significant interest in corporate culture, there is little empirical research on its role in influencing corporate misconduct. Using cultural background information on key company insiders, I construct a measure of corporate corruption culture, capturing a firm's general attitude toward opportunistic behavior. Firms with high corruption culture are more likely to engage in earnings management, accounting fraud, option backdating, and opportunistic insider trading. I further explore the inner workings of corruption culture and find evidence that it operates both as a selection mechanism and by having a direct influence on individual behavior.
@@ -68,7 +68,7 @@ Despite significant interest in corporate culture, there is little empirical res
 ## 7. Mortgage companies and regulatory arbitrage
 ### Date
 - Jul 2016
-### Authors
+### Author
 - Yuliya Demyanyk
 - Elena Loutskina
 ### Abstract
@@ -79,7 +79,7 @@ Mortgage companies (MCs) do not fall under the strict regulatory regime of depos
 ## 8. A trend factor: Any economic gains from using information over investment horizons?
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Yufeng Han
 - Guofu Zhou
 - Yingzi Zhu
@@ -105,7 +105,7 @@ and the long-term reversal factor barely gains 0.03%. The performance of the tre
 ## 9. Underwriter networks, investor attention, and initial public offerings
 ### Date
 - Dec 2015
-### Authors
+### Author
 - Emanuele Bajo
 - Thomas J. Chemmanur
 - Karen Simonyan
@@ -118,7 +118,7 @@ Using various centrality measures from social network analysis, we analyze how t
 ## 10. The impact of unconventional monetary policy on firm financing constraints: Evidence from the maturity extension program
 ### Date
 - Jul 2016
-### Authors
+### Author
 - Nathan Foley-Fisher
 - Rodney Ramcharan
 - Edison Yu

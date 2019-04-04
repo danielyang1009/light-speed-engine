@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The credit crisis around the globe: Why did some banks perform better?
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Andrea Beltratti
 - René M. Stulz
 ### Abstract
@@ -25,7 +25,7 @@ Though overall bank performance from July 2007 to December 2008 was the worst si
 ## 3. Illiquidity or credit deterioration: A study of liquidity in the US corporate bond market during financial crises
 ### Date
 - Feb 2012
-### Authors
+### Author
 - Nils Friewald
 - Rainer Jankowitsch
 - Marti G. Subrahmanyam
@@ -37,7 +37,7 @@ We investigate whether liquidity is an important price factor in the US corporat
 ## 4. Pricing of commercial real estate securities during the 2007–2009 financial crisis
 ### Date
 - Feb 2012
-### Authors
+### Author
 - Joost Driessen
 - Otto Van Hemert
 ### Abstract
@@ -48,7 +48,7 @@ We study the relative and absolute pricing of CMBX contracts (commercial real es
 ## 5. The cost and timing of financial distress
 ### Date
 - Feb 2012
-### Authors
+### Author
 - Redouane Elkamhi
 - Jan Ericsson
 - Christopher A. Parsons
@@ -60,7 +60,7 @@ Assessments of the trade-off theory have typically compared the present value of
 ## 6. Understanding commonality in liquidity around the world
 ### Date
 - Dec 2011
-### Authors
+### Author
 - G. Andrew Karolyi
 - Kuan-Hui Lee
 - Mathijs A. van Dijk
@@ -72,7 +72,7 @@ We examine how commonality in liquidity varies across countries and over time in
 ## 7. Vertical integration to avoid contracting with potential competitors: Evidence from bankers' banks
 ### Date
 - Sep 2011
-### Authors
+### Author
 - James A. Brickley
 - James S. Linck
 - Clifford W. Smith
@@ -84,7 +84,7 @@ We examine a vertical integration decision within the commercial banking industr
 ## 8. Payout yield, risk, and mispricing: A Bayesian analysis
 ### Date
 - Dec 2011
-### Authors
+### Author
 - Jay Shanken
 - Ane Tamayo
 ### Abstract
@@ -95,7 +95,7 @@ We develop a simple parametric model in which hypotheses about predictability, m
 ## 9. Predicting fraud by investment managers
 ### Date
 - Jan 2012
-### Authors
+### Author
 - Stephen G. Dimmock
 - William C. Gerken
 ### Abstract
@@ -106,7 +106,7 @@ We test the predictability of investment fraud using a panel of mandatory disclo
 ## 10. Stock options and managerial incentives for risk taking: Evidence from FAS 123R
 ### Date
 - Jan 2012
-### Authors
+### Author
 - Rachel M. Hayes
 - Michael Lemmon
 - Mingming Qiu
@@ -118,7 +118,7 @@ We provide new evidence on the relation between option-based compensation and ri
 ## 11. Variance bounds on the permanent and transitory components of stochastic discount factors
 ### Date
 - Jan 2012
-### Authors
+### Author
 - Gurdip Bakshi
 - Fousseni Chabi-Yo
 ### Abstract
@@ -129,7 +129,7 @@ In this paper, we develop lower bounds on the variance of the permanent componen
 ## 12. Do foreigners facilitate information transmission in emerging markets?
 ### Date
 - Jan 2012
-### Authors
+### Author
 - Kee-Hong Bae
 - Arzu Ozoguz
 - Hongping Tan

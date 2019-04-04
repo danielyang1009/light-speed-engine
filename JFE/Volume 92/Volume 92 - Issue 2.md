@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do liquidity measures measure liquidity?
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Ruslan Y. Goyenko
 - Craig W. Holden
 - Charles A. Trzcinka
@@ -26,7 +26,7 @@ Given the key role of liquidity in finance research, identifying high quality pr
 ## 3. Synchronicity and firm interlocks in an emerging market
 ### Date
 - Mar 2008
-### Authors
+### Author
 - Tarun Khanna
 - Catherine Thomas
 ### Abstract
@@ -37,7 +37,7 @@ Stock price synchronicity has been attributed to poor corporate governance and a
 ## 4. Founders, heirs, and corporate opacity in the United States
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Ronald C. Anderson
 - Augustine Duru
 - David M. Reeb
@@ -49,7 +49,7 @@ We argue that information about firm activities can vary substantially in the pr
 ## 5. Individual investor mutual fund flows
 ### Date
 - May 2008
-### Authors
+### Author
 - Zoran Ivković
 - Scott Weisbenner
 ### Abstract
@@ -60,7 +60,7 @@ This paper studies the relation between individuals’ mutual fund flows and fun
 ## 6. Capital expenditures, financial constraints, and the use of options
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Tim Adam
 ### Abstract
 This paper analyzes why gold mining firms use options instead of linear strategies to hedge their gold price risk. Consistent with financial constraints based theories, the largest and least financially constrained firms are the most likely to hedge with insurance strategies (put options), while more constrained firms finance the purchase of puts by selling calls (collars). The most financially constrained firms use strategies that involve selling calls. Firms with large investment programs are also more likely to use insurance rather than linear strategies. Firms’ hedging instrument choices are also correlated with current market conditions, suggesting that managers’ market views partially drive hedging instrument choices.
@@ -70,7 +70,7 @@ This paper analyzes why gold mining firms use options instead of linear strategi
 ## 7. City size and fund performance
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Susan E.K. Christoffersen
 - Sergei Sarkissian
 ### Abstract
@@ -81,7 +81,7 @@ The literature predicts that the average skill level and productivity are higher
 ## 8. Dividend policy, creditor rights, and the agency costs of debt
 ### Date
 - Mar 2008
-### Authors
+### Author
 - Paul Brockman
 - Emre Unlu
 ### Abstract
@@ -92,7 +92,7 @@ We show that country-level creditor rights influence dividend policies around th
 ## 9. Asymmetric information effects on loan spreads
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Victoria Ivashina
 ### Abstract
 This paper estimates the cost arising from information asymmetry between the lead bank and members of the lending syndicate. In a lending syndicate, the lead bank retains only a fraction of the loan but acts as the intermediary between the borrower and the syndicate participants. Theory predicts that asymmetric information will cause participants to demand a higher interest rate and that a large loan ownership by the lead bank should reduce this effect. In equilibrium, however, the asymmetric information premium demanded by participants is offset by the diversification premium demanded by the lead. Using shifts in the idiosyncratic credit risk of the lead bank's loan portfolio as an instrument, I measure the asymmetric information effect of the lead's share on the loan spread and find that it accounts for approximately 4% of the total cost of credit.

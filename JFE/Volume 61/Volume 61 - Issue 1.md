@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jul 2001
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Information production, dilution costs, and optimal security design
 ### Date
 - Jul 2001
-### Authors
+### Author
 - Paolo Fulghieri
 - Dmitry Lukin
 ### Abstract
@@ -25,7 +25,7 @@ We investigate the problem of a firm wishing to finance a project by issuing sec
 ## 3. The distribution of realized stock return volatility
 ### Date
 - Jul 2001
-### Authors
+### Author
 - Torben G. Andersen
 - Tim Bollerslev
 - Francis X. Diebold
@@ -38,7 +38,7 @@ We examine “realized” daily equity return volatilities and correlations obta
 ## 4. Short-sellers, fundamental analysis, and stock returns
 ### Date
 - Jul 2001
-### Authors
+### Author
 - Patricia M Dechow
 - Amy P Hutton
 - Lisa Meulbroek
@@ -51,7 +51,7 @@ Firms with low ratios of fundamentals (such as earning and book values) to marke
 ## 5. CEO compensation and bank mergers
 ### Date
 - Jul 2001
-### Authors
+### Author
 - Richard T Bliss
 - Richard J Rosen
 ### Abstract
@@ -62,7 +62,7 @@ Recent bank mergers generally did not improve relative operating performance or 
 ## 6. Firm performance and executive compensation in the savings and loan industry
 ### Date
 - Jul 2001
-### Authors
+### Author
 - Benjamin E. Hermalin
 - Nancy E. Wallace
 ### Abstract

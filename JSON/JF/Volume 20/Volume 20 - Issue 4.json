@@ -1,0 +1,247 @@
+{
+    "journal": "JF",
+    "volume": "20",
+    "issue": "4",
+    "date": "December 1965",
+    "page": "Pages: i-xiii, 587-780, xiv-xxix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Volume Information",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb00478.x"
+        },
+        {
+            "no": "2",
+            "title": "Front Matter",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb00479.x"
+        },
+        {
+            "no": "3",
+            "title": "[Photograph]: Roland I. Robinson, Twelfth President of the American Finance Association, 1953",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb00480.x"
+        },
+        {
+            "no": "4",
+            "title": "SECURITY PRICES, RISK, AND MAXIMAL GAINS FROM DIVERSIFICATION*",
+            "date": "December 1965",
+            "author": [
+                "John Lintner"
+            ],
+            "abstract": "I. Introduction and General Summary of Conclusions\nSections II and III of this paper set forth the simple logic which leads directly to the determination of explicit equilibrium prices of risk assets traded in competitive markets under idealized conditions. These equilibrium valuations of individual risk assets are shown to be simply, explicitly and linearly related to their respective expected returns, variances and covariances. The total risk on a given security is the sum of the variance of its own dollar return over the holding period and the combined covariance of its return with that of all other securities. This total risk on each security is \u201cpriced up\u201d by multiplying by a \u201cmarket price of dollar risk\u201d which is common to all securities in the market. The expected dollar return on any security less this adjustment for its risk gives its certainty\u2010equivalent dollar return and the market price of each security is simply the capital value of this certainty\u2010equivalent return using the risk\u2010free interest rate. In this paper, these relationships are shown to hold rigorously even when investors differ in their probability judgments and in other respects.1\n1 The \u201cmarket price of risk\u201d is shown to be the same ratio of two identical summations, as in the \u201chomogeneous\u201d case. Weighted averages of investor's judgments replace the common number for expected future values and variances. Interestingly, the weight attached to expected future values are proportional to the dollar variances of different investors' portfolios, while the weights for relevant variances are proportional to investors' expected excess dollar returns.\n\nIt turns out, however, that the \u201cmarket price of risk\u201d involved in determining the market values of individual securities within a portfolio of risk assets is not equal to the ratio of the expected return on the optimal portfolio of risk assets to the standard deviation of this portfolio return, i.e.\nr\n\u2012\n/\n\u03c3\nr\n. This is true even though this ratio of return to risk on an optimal portfolio is the \u201cprice of risk\u201d which is relevant to the (more frequently discussed) decision of how much of an investor's funds should be held in cash (or another riskless asset) and how much should be \u201cput at risk.\u201d Moreover, the value of an individual security within a portfolio is not simply and linearly related to the standard deviation of its return. Rather, the equilibrium value of a security with a given expected return will be lower in proportion to any increase in its variances and covariances, other things equal. Although the general presumption in the literature has been that \u201crisk premiums\u201d on securities should vary linearly with their risk as measured by the standard deviation of their return,2\n2 See the references in footnote 3 of my paper \u201cThe Valuation of Risk Assets and the Selection of Risky Investments in Stock Portfolios and Capital Budgets,\u201d Review of Economics and Statistics, Feb. 1965, pp. 13\u201337.\n\nit thus turns out that the relevant measure of the risk of an individual security within a portfolio of risk assets is given by its return\u2010variance and covariance (with other securities) Since these results (recently presented in technical form and detail elsewhere3\n3 Lintner, Op. cit.\n\n) may seem particularly surprising to readers of Professor Sharpe's recent paper in this Journal4\n4 Sharpe, Wm. F., \u201cCapital Asset Prices: A Theory of Market Equilibrium Under Conditions of Risk\u201d Journal of Finance, Sept. 1964, pp. 425\u2013442.\n\nwhich tends to confirm the traditional positions, its seems desirable to present a simple exposition of the essential logic of the issues involved at this time.\nAs shown below, these results follow directly from the behavior of an individual maximizing risk\u2010averse investor when there is a risk\u2010free asset to hold and his probability judgments are normally distributed.5\n5 Similar conclusions hold when cash is subject of purchasing power risk, probability distributions are log\u2010normal and utility functions are hyperbolic. [See Lintner, \u201cOptimal Dividends and Corporate Growth Under Uncertainty,\u201d Quarterly Journal of Economics, Feb. 1964, pp. 68\u201371.]\n\nSection II traces the investor's responses through a short series of simplified situations, starting with his choice between cash and a single risky asset, and winding up with the optimal selection of a whole portfolio of risky investments and a riskless asset with positive yield or debt, which is assumed to be available as desired (at the same riskless interest rate) to \u201clever\u201d the portfolio of risk assets. In the next Section we then assume that all probability judgments pertain to end\u2010of\u2010period dollar values (or dollar returns). With this substitution, the conclusions stated at the outset regarding the equilibrium prices of risky stocks, the market price of risk, and the proper measure of risk, all follow easily from the preceding results.\nSections IV and V examine the implications for stock values and for portfolio diversification of a suggestion of Markowitz that investors can simplify their assessments of the probabilistic outcomes of individual securities by thinking of the regression of the rate of return on each security on some fundamental index of general business conditions, or on the performance of some general index of the stock market itself. When these simple regression relationships are introduced into the earlier framework, the following conclusions emerge quite directly:\n(1)\nOther things being equal, stock values will always vary directly with both the intercept and the correlation coefficient\u2014and will always vary inversely with the residual variance (or \u201cstandard error of estimate\u201d)\u2014of their regression on either an external index of business conditions or the composite market performance of the entire group of stocks composing the market.\n(2)\nIn either type of regression, changes in the slope coefficient will, in general, involve both an \u201cincome effect\u201d and a \u201crisk effect\u201d which tend to affect stock values in opposite directions; in theory, one effect will necessarily dominate the other only if one introduces further restrictive assumptions in advance. The simplest and most plausible assumption under which slopes and values will necessarily be related inversely is that expected returns are independent of the slope (while risks increase with slope).\n(3)\nStocks whose returns are independent of general business conditions (or the general level of the stock market) must sell at a price low enough to make their expected rate of return greater than the pure rate of interest, whenever (as always) there is any uncertainty of regarding what their return will be. The same conclusion applies to the price and weighted average expected rate of return of all stocks which are positively (but less than perfectly) correlated with the general market.\n(4)\nApart from negatively correlated stocks, all the gains from diversification come from \u201caveraging over\u201d the independent components of the returns and risks of individual stocks. Among positively correlated stocks, there would be no gains from diversification if independent variations were absent.\n(5)\nNo possible degree or manner of diversification will be sufficient to eliminate all the risks of holding common stocks which exist apart from the risks due to swings in economic activity (or the general stock market) This is true because, in reality, there will always be at least some residual or independent uncertainty regarding what the actual return (or end\u2010of\u2010period price) of every \u201crisky\u201d security will be even if the general level of business and the stock market is in a given state. In most cases this uncertainty will be relatively substantial. The best possible diversification merely minimizes the risks due to this residual uncertainty for any given level of return. Even if general business conditions and stock market level were perfectly predictable (so that there were no risks on either score), there would still be risks in holding any diversified portfolio of common stocks.\n(6)\nThe object of diversification is to produce the best portfolio\u2014the one with the most favorable combination of risk and expected return\u2014and even for investors who are \u201crisk\u2010averters,\u201d this \u201cbest portfolio\u201d will never be the one (in Markowitz' \u201cefficient set\u201d) with the lowest attainable risk.\n(7)\nCommon stocks will, of course, nevertheless be held because the general level of all stock prices will always be low enough to make the expected rates of return high enough to be attractive, in spite of these optimal remaining independent risks and the risks of general business conditions (and general stock market fluctuations), and in spite of the availability of investments offering riskless positive returns.\nSection VI provides some useful empirical benchmarks on the extent of the \u201cresidual uncertainties\u201d involved in leading individual stocks and (professionally) diversified portfolios. Regressions of the annual rates of return on 301 large industrial companies were regressed on the corresponding returns of the S & P 425 Industrials Index; the average residual variance was over 8% (more than twice the average riskfree return over the period) and the regression \u201cexplained\u201d less than half the total variance in the returns of 188 of the 301 stocks. The power and limitations of diversification to reduce risks and improve investment performance are indicated by regressions of 70 large mutual funds on the Index: 80% of the funds had a higher ratio of mean return to risk than did the index, but over 85% nevertheless had conditional standard errors of estimate (residual risk) greater than the risk\u2010free return (taken to be 4%).",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02930.x"
+        },
+        {
+            "no": "5",
+            "title": "THE MARKET IMPACT OF THE SALE OF LARGE BLOCKS OF STOCK",
+            "date": "December 1965",
+            "author": [
+                "Harry G. Guthmann",
+                "Archie J. Bakay"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02931.x"
+        },
+        {
+            "no": "6",
+            "title": "INVESTMENT PERFORMANCE: COMMON STOCKS VERSUS APARTMENT HOUSES*",
+            "date": "December 1965",
+            "author": [
+                "Paul F. Wendt",
+                "Sui N. Wong"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02932.x"
+        },
+        {
+            "no": "7",
+            "title": "PRICE EFFECTS IN RIGHTS OFFERINGS*",
+            "date": "December 1965",
+            "author": [
+                "J. Russell Nelson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02933.x"
+        },
+        {
+            "no": "8",
+            "title": "THE RESPONSE OF BANKS TO CHANGES IN AGGREGATE RESERVES",
+            "date": "December 1965",
+            "author": [
+                "C. Rangarajan",
+                "Alan K. Severn"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02934.x"
+        },
+        {
+            "no": "9",
+            "title": "TAX LAW, LOCK\u2010INS, AND BANK PORTFOLIO CHOICE*",
+            "date": "December 1965",
+            "author": [
+                "William F. Beazer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02935.x"
+        },
+        {
+            "no": "10",
+            "title": "THE BURDEN OF THE PUBLIC DEBT: A REVIEW ARTICLE",
+            "date": "December 1965",
+            "author": [
+                "James Tobin"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02936.x"
+        },
+        {
+            "no": "11",
+            "title": "ON MEASURING FISCAL POLICY",
+            "date": "December 1965",
+            "author": [
+                "Joseph Scherer"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02937.x"
+        },
+        {
+            "no": "12",
+            "title": "STIMULATING BANK COMPETITION: COMMENT",
+            "date": "December 1965",
+            "author": [
+                "A. Dale Tussing"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02938.x"
+        },
+        {
+            "no": "13",
+            "title": "PATTERNS OF BUSINESS FINANCING: SOME COMMENTS",
+            "date": "December 1965",
+            "author": [
+                "Eli Shapiro",
+                "William L. White"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02939.x"
+        },
+        {
+            "no": "14",
+            "title": "PATTERNS OF BUSINESS FINANCING: REPLY",
+            "date": "December 1965",
+            "author": [
+                "Arnold W. Sametz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02940.x"
+        },
+        {
+            "no": "15",
+            "title": "INTEREST ON DEPOSITS OF COMMERCIAL BANKS IN THE UNITED STATES: A STUDY IN FINANCIAL REGULATION*",
+            "date": "December 1965",
+            "author": [
+                "Albert H. Cox Jr."
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02941.x"
+        },
+        {
+            "no": "16",
+            "title": "EVALUATING THE INVESTMENT PERFORMANCE OF NONINSURED PENSION FUNDS*",
+            "date": "December 1965",
+            "author": [
+                "Peter O. Dietz"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02942.x"
+        },
+        {
+            "no": "17",
+            "title": "COMPARATIVE INVESTMENT POLICY AND PERFORMANCE OF NATIONAL UNIONS' GENERAL AND SPECIAL FUNDS*",
+            "date": "December 1965",
+            "author": [
+                "Thomas J. Kewley"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02943.x"
+        },
+        {
+            "no": "18",
+            "title": "FINANCIAL STATEMENTS OF LIFE INSURANCE COMPANIES*",
+            "date": "December 1965",
+            "author": [
+                "Robert Hugh Raymond"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02944.x"
+        },
+        {
+            "no": "19",
+            "title": "STATE CENTRALIZED INVESTMENT PROCESS: STRUCTURE, CONTROLS, AND OPERATIONS*",
+            "date": "December 1965",
+            "author": [
+                "Miles Tommeraasen"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02945.x"
+        },
+        {
+            "no": "20",
+            "title": "BOOK REVIEWS",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nAggregate Theory and Policy: Development of British Monetary Orthodoxy, 1797\u20131875. By Frank Whitson Fetter.\nCapital, Saving and Credit in Peasant Societies. Edited by Raymond Firth and B. S. Yamey.\nUnderstanding Macro\u2010Economics. By Robert L. Heilbroner.\nInvestment Demand and U.S. Economic Growth. By Beet G. Hickman.\nCapital Formation in West Germany. By Karl W. Roskamp.\nEconomic Myth and Reality. By Delbert A. Snider.\nBusiness Finance and Investments: Leading World Stock Exchanges: Organization and Trading Practices. By Wilford J. Eiteman and David K. Eiteman.\nConference on Securities Regulation. Robert H. Mundheim, ed.\nEssentials of Financial Management. By Ernest W. Walker.\nElements of Investments: Selected Readings. By H. K. Wu and A. J. Zakon.\nProfessional Accounting in 25 Countries.\nFinancial Institutions & Markets: Kreditnaya Sistema Sovremennovo Kapitalizma (The Credit System of Modern Capitalism): By A. V. Anikin. Moscow\nThe Management of Money: A Survey of American Experience. By Harold Barger.\nMoney, Financial Institutions, and the Economy. Edited by J. A. Crutchfield, Charles N. Hening and William Pigott.\nCapital Markets and Institutions. By Herbert E. Dougall.\nFrench Money and Capital Markets and Monetary Management. By Holger L. Engberg.\nThe Cyclical Behavior of the Term Structure of Interest Rates. By Reuben A. Kessel.\nMoney and the Economy. By John J. Klein.\nMoney, Banking, and Central Banking. By Richard Timberlake, Jr.\nInternational Finance: The Dollar and the International Monetary System. By Alvin H. Hansen.\nInvesting Abroad. By Gerald Krefetz and Ruth Marossi.\nInternational Payments, Debts, and Gold. By Fritz Machlup.\nInternational Trade and Finance. By Edward Marcus and Mildred Rendl Marcus.\nPublic Finance: Public Finance. By Otto Eckstein.\nFederal Tax Treatment of Income from Oil and Gas. By Stephen L. McDonald.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02946.x"
+        },
+        {
+            "no": "21",
+            "title": "BOOKS RECEIVED",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02947.x"
+        },
+        {
+            "no": "22",
+            "title": "STYLE INSTRUCTIONS",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02948.x"
+        },
+        {
+            "no": "23",
+            "title": "ANNUAL MEETING OF THE AMERICAN FINANCE ASSOCIATION",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02949.x"
+        },
+        {
+            "no": "24",
+            "title": "STUDENT CHAPTERS OF THE AMERICAN FINANCE ASSOCIATION",
+            "date": "December 1965",
+            "author": [
+                "HAROLD W. STEVENSON"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb02950.x"
+        },
+        {
+            "no": "25",
+            "title": "Back Matter",
+            "date": "December 1965",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1965.tb00481.x"
+        }
+    ]
+}

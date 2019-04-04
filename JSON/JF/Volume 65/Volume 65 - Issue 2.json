@@ -1,0 +1,167 @@
+{
+    "journal": "JF",
+    "volume": "65",
+    "issue": "2",
+    "date": "April 2010",
+    "page": "Pages: i-ix, 425-797",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "19 March 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01567.x"
+        },
+        {
+            "no": "2",
+            "title": "ANNOUNCEMENT OF 2009 SMITH BREEDEN AND BRATTLE GROUP PRIZES",
+            "date": "19 March 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01552_1.x"
+        },
+        {
+            "no": "3",
+            "title": "MORGAN STANLEY\u2014AMERICAN FINANCE ASSOCIATION AWARD FOR EXCELLENCE IN FINANCE 2010",
+            "date": "19 March 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01552_2.x"
+        },
+        {
+            "no": "4",
+            "title": "The Variability of IPO Initial Returns",
+            "date": "19 March 2010",
+            "author": [
+                "MICHELLE LOWRY",
+                "MICAH S. OFFICER",
+                "G. WILLIAM SCHWERT"
+            ],
+            "abstract": "The monthly volatility of IPO initial returns is substantial, fluctuates dramatically over time, and is considerably larger during \u201chot\u201d IPO markets. Consistent with IPO theory, the volatility of initial returns is higher for firms that are more difficult to value because of higher information asymmetry. Our findings highlight underwriters\u2019 difficulty in valuing companies characterized by high uncertainty, and raise serious questions about the efficacy of the traditional firm\u2010commitment IPO process. One implication of our results is that alternate mechanisms, such as auctions, could be beneficial for firms that value price discovery over the auxiliary services provided by underwriters.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01540.x"
+        },
+        {
+            "no": "5",
+            "title": "Levered Returns",
+            "date": "19 March 2010",
+            "author": [
+                "JOAO F. GOMES",
+                "LUKAS SCHMID"
+            ],
+            "abstract": "This paper revisits the theoretical relation between financial leverage and stock returns in a dynamic world where both corporate investment and financing decisions are endogenous. We find that the link between leverage and stock returns is more complex than static textbook examples suggest, and depends on the investment opportunities available to the firm. In the presence of financial market imperfections, leverage and investment are generally correlated so that highly levered firms are also mature firms with relatively more (safe) book assets and fewer (risky) growth opportunities. A quantitative version of our model matches several stylized facts about leverage and returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01541.x"
+        },
+        {
+            "no": "6",
+            "title": "The New Game in Town: Competitive Effects of IPOs",
+            "date": "19 March 2010",
+            "author": [
+                "HUNG\u2010CHIA HSU",
+                "ADAM V. REED",
+                "J\u00d6RG ROCHOLL"
+            ],
+            "abstract": "We analyze the effect of initial public offerings (IPOs) on industry competitors and provide evidence that companies experience negative stock price reactions to completed IPOs in their industry and positive stock price reactions to their withdrawal. Following a successful IPO in their industry, they show significant deterioration in their operating performance. These results are consistent with the existence of IPO\u2010related competitive advantages through the loosening of financial constraints, financial intermediary certification, and the presence of knowledge capital. These aspects of competitiveness are significant in explaining the cross\u2010section of underperformance as well as survival probabilities for competing firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01542.x"
+        },
+        {
+            "no": "7",
+            "title": "Financial Structure, Acquisition Opportunities, and Firm Locations",
+            "date": "19 March 2010",
+            "author": [
+                "ANDRES ALMAZAN",
+                "ADOLFO DE MOTTA",
+                "SHERIDAN TITMAN",
+                "VAHAP UYSAL"
+            ],
+            "abstract": "This paper investigates the relation between firms' locations and their corporate finance decisions. We develop a model where being located within an industry cluster increases opportunities to make acquisitions, and to facilitate those acquisitions, firms within clusters maintain more financial slack. Consistent with our model we find that firms located within industry clusters make more acquisitions, and have lower debt ratios and larger cash balances than their industry peers located outside clusters. We also document that firms in high\u2010tech cities and growing cities maintain more financial slack. Overall, the evidence suggests that growth opportunities influence firms' financial decisions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01543.x"
+        },
+        {
+            "no": "8",
+            "title": "Taxes on Tax\u2010Exempt Bonds",
+            "date": "19 March 2010",
+            "author": [
+                "ANDREW ANG",
+                "VINEER BHANSALI",
+                "YUHANG XING"
+            ],
+            "abstract": "Implicit tax rates priced in the cross section of municipal bonds are approximately two to three times as high as statutory income tax rates, with implicit tax rates close to 100% using retail trades and above 70% for interdealer trades. These implied tax rates can be identified because a portion of secondary market municipal bond trades involves income taxes. After valuing the tax payments, market discount bonds, which carry income tax liabilities, trade at yields around 25 basis points higher than comparable municipal bonds not subject to any taxes. The high sensitivities of municipal bond prices to tax rates can be traced to individual retail traders dominating dealers and other institutions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01545.x"
+        },
+        {
+            "no": "9",
+            "title": "Do Bonds Span Volatility Risk in the U.S. Treasury Market? A Specification Test for Affine Term Structure Models",
+            "date": "19 March 2010",
+            "author": [
+                "TORBEN G. ANDERSEN",
+                "LUCA BENZONI"
+            ],
+            "abstract": "We propose using model\u2010free yield quadratic variation measures computed from intraday data as a tool for specification testing and selection of dynamic term structure models. We find that the yield curve fails to span realized yield volatility in the U.S. Treasury market, as the systematic volatility factors are largely unrelated to the cross\u2010section of yields. We conclude that a broad class of affine diffusive, quadratic Gaussian, and affine jump\u2010diffusive models cannot accommodate the observed yield volatility dynamics. Hence, the Treasury market per se is incomplete, as yield volatility risk cannot be hedged solely through Treasury securities.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01546.x"
+        },
+        {
+            "no": "10",
+            "title": "Personal Bankruptcy and Credit Market Competition",
+            "date": "19 March 2010",
+            "author": [
+                "ASTRID A. DICK",
+                "ANDREAS LEHNERT"
+            ],
+            "abstract": "We document a link between U.S. credit supply and rising personal bankruptcy rates. We exploit the exogenous variation in market contestability brought on by banking deregulation\u2014the relaxation of entry restrictions in the 1980s and 1990s\u2014at the state level. We find deregulation explains at least 10% of the rise in bankruptcy rates. We also find that deregulation leads to increased lending, lower loss rates on loans, and higher lending productivity. Our findings indicate that increased competition prompted banks to adopt sophisticated credit rating technology, allowing for new credit extension to existing and previously excluded households.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01547.x"
+        },
+        {
+            "no": "11",
+            "title": "Corporate Political Contributions and Stock Returns",
+            "date": "19 March 2010",
+            "author": [
+                "MICHAEL J. COOPER",
+                "HUSEYIN GULEN",
+                "ALEXEI V. OVTCHINNIKOV"
+            ],
+            "abstract": "We develop a new and comprehensive database of firm\u2010level contributions to U.S. political campaigns from 1979 to 2004. We construct variables that measure the extent of firm support for candidates. We find that these measures are positively and significantly correlated with the cross\u2010section of future returns. The effect is strongest for firms that support a greater number of candidates that hold office in the same state that the firm is based. In addition, there are stronger effects for firms whose contributions are slanted toward House candidates and Democrats.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01548.x"
+        },
+        {
+            "no": "12",
+            "title": "The Interdependent and Intertemporal Nature of Financial Decisions: An Application to Cash Flow Sensitivities",
+            "date": "19 March 2010",
+            "author": [
+                "VLADIMIR A. GATCHEV",
+                "TODD PULVINO",
+                "VEFA TARHAN"
+            ],
+            "abstract": "We develop a dynamic multiequation model where firms make financing and investment decisions jointly subject to the constraint that sources must equal uses of cash. We argue that static models of financial decisions produce inconsistent coefficient estimates, and that models that do not acknowledge the interdependence among decision variables produce inefficient estimates and provide an incomplete and potentially misleading view of financial behavior. We use our model to examine whether firms are constrained from accessing capital markets. Unlike static single\u2010equation studies that find firms underinvest given cash flow shortfalls, we conclude that firms maintain investment by borrowing.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01549.x"
+        },
+        {
+            "no": "13",
+            "title": "Performance and Persistence in Institutional Investment Management",
+            "date": "19 March 2010",
+            "author": [
+                "JEFFREY A. BUSSE",
+                "AMIT GOYAL",
+                "SUNIL WAHAL"
+            ],
+            "abstract": "Using new, survivorship bias\u2010free data, we examine the performance and persistence in performance of 4,617 active domestic equity institutional products managed by 1,448 investment management firms between 1991 and 2008. Controlling for the Fama\u2013French (1993) three factors and momentum, aggregate and average estimates of alphas are statistically indistinguishable from zero. Even though there is considerable heterogeneity in performance, there is only modest evidence of persistence in three\u2010factor models and little to none in four\u2010factor models.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01550.x"
+        },
+        {
+            "no": "14",
+            "title": "MISCELLANEA",
+            "date": "19 March 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01551.x"
+        },
+        {
+            "no": "15",
+            "title": "Back Matter",
+            "date": "19 March 2010",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2009.01568.x"
+        }
+    ]
+}

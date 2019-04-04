@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - May 1977
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Bankruptcy, absolute priority, and the pricing of risky debt claims
 ### Date
 - May 1977
-### Authors
+### Author
 - Jerold B. Warner
 ### Abstract
 In practice, there are substantial deviations from the doctrine of ‘absolute priority’, which governs the rights of the firm's claimholders in the event of bankruptcy. To determine whether or not the possibility of such deviations is reflected in the prices of the firm's securities, this study examines the risk and return characteristics of financial claims against firms in court-supervised bankruptcy proceedings. Debt claims against bankrupt firms are indeed ‘risky’, exhibiting levels of systematic risk similar to that of common stocks in general. While some of the findings are anomalous, the data are generally consistent with the view that the capital market ‘properly’ prices risky debt claims to reflect both their risk characteristics and the possibility of departures from the doctrine of absolute priority.
@@ -25,7 +25,7 @@ In practice, there are substantial deviations from the doctrine of ‘absolute p
 ## 3. Portfolio choice and equilibrium in capital markets with safety-first investors
 ### Date
 - May 1977
-### Authors
+### Author
 - Enrique R. Arzac
 - Vijay S. Bawa
 ### Abstract
@@ -36,7 +36,7 @@ This paper develops optimal portfolio choice and market equilibrium when investo
 ## 4. A contingent-claims valuation of convertible securities
 ### Date
 - May 1977
-### Authors
+### Author
 - Jonathan E. Ingersoll
 ### Abstract
 This paper examines the pricing of convertible bonds and preferred stocks. The optimal policies for call and conversion of these securities are determined via the criterion of dominance. The techniques underlying the Black-Scholes Option Model are used to price convertible securities as contingent claims on the firm as a whole.
@@ -46,7 +46,7 @@ This paper examines the pricing of convertible bonds and preferred stocks. The o
 ## 5. Options: A Monte Carlo approach
 ### Date
 - May 1977
-### Authors
+### Author
 - Phelim P. Boyle
 ### Abstract
 This paper develops a Monte Carlo simulation method for solving option valuation problems. The method simulates the process generating the returns on the underlying asset and invokes the risk neutrality assumption to derive the value of the option. Techniques for improving the efficiency of the method are introduced. Some numerical examples are given to illustrate the procedure and additional applications are suggested.
@@ -56,7 +56,7 @@ This paper develops a Monte Carlo simulation method for solving option valuation
 ## 6. Long-term dependence in common stock returns
 ### Date
 - May 1977
-### Authors
+### Author
 - Myron T. Greene
 - Bruce D. Fielitz
 ### Abstract
@@ -67,7 +67,7 @@ The efficient market, martingale model of security price movements requires that
 ## 7. Index
 ### Date
 - May 1977
-### Authors
+### Author
 ### Abstract
 
 ### Link

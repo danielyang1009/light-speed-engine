@@ -1,0 +1,97 @@
+{
+    "journal": "RFS",
+    "volume": "6",
+    "issue": "1",
+    "date": "January 1993",
+    "page": "Pages 1\u2013232",
+    "article": [
+        {
+            "no": "1",
+            "title": "Efficiency with Costly Information: A Reinterpretation of Evidence from Managed Portfolios",
+            "date": "25 May 2015",
+            "author": [
+                "Edwin J. Elton",
+                "Martin J. Gruber",
+                "Sanjiv Das",
+                "Matthew Hlavka"
+            ],
+            "abstract": "We investigate the informational efficiency of mutual fund performance for the period 1965\u201384. Results are shown to be sensitive to the measurement of performance chosen. Wefind that returns on S&P stocks, returns on non-S&P stocks, and returns on bonds are significant factors in performance assessment. Once we correct for the impact of non-S&P assets on mutual fund returns, wefind that mutual funds do not earn returns that justify their information acquisition costs. This is consistent with results for prior periods.",
+            "link": "https://doi.org/10.1093/rfs/6.1.1"
+        },
+        {
+            "no": "2",
+            "title": "The Effect of Public Information and Competition on Trading Volume and Price Volatility",
+            "date": "25 May 2015",
+            "author": [
+                "F. Douglas Foster",
+                "S. Viswanathan"
+            ],
+            "abstract": "In a one-period model of market making with many exogenously informed traders, we first show that the variance of prices and expected trading volume depend on the public information released at the start of trading. This is accomplished by representing beliefs with elliptically contoured distributions, for which the form of optimal decision rules does not depend on the specific distribution used. Second, if the model is altered so that the decision to become informed is made endogenous, then the decision rules of the market-maker and informed traders depend on the public information. Third, in a multiperiod model with many informed traders and long-lived private information, recursion formulas similar to those of Kyle (1985) hold for all elliptically contoured distributions, trading volume is autocorrelated and, unless per period liquidity trading is bounded away from zero as new trading periods are added, informed traders\u2019 profits vanish.",
+            "link": "https://doi.org/10.1093/rfs/6.1.23"
+        },
+        {
+            "no": "3",
+            "title": "The Role of Liquidity in Futures Market Innovations",
+            "date": "25 May 2015",
+            "author": [
+                "Charles J. Cuny"
+            ],
+            "abstract": "I characterize the optimal design of a new futures market (an innovation) by an exchange in the presence of market frictions. Futures markets are characterized by both the contract and the level of trader participation; both can be determined by an exchange. A game in which exchanges simultaneously design markets is considered, and a particular equilibrium (not necessarily unique) is constructed. A game in which exchanges sequentially design markets (and incur design costs) is also considered and the (generically unique) equilibrium is constructed. The nature of equilibrium with multiple exchanges is discussed in these simultaneous and sequential settings, illustrating the role played by liquidity considerations both in market design and in the nature of competition between exchanges.",
+            "link": "https://doi.org/10.1093/rfs/6.1.57"
+        },
+        {
+            "no": "4",
+            "title": "Insider Trading as a Signal of Private Information",
+            "date": "25 May 2015",
+            "author": [
+                "Aswath Damodaran",
+                "Crocker H. Liu"
+            ],
+            "abstract": "There is substantial evidence that insider trading is present around corporate announcements and that this insider trading is motivated by private information. Using real estate investment trusts that choose to reappraise themselves as our sample, we establish that the appraisals contain information, but find no market response to the public announcement of this information in these appraisals. We consider two possible explanations for this inconsistency: the first that the appraisal information is not highlighted in earnings reports and hence remains unobserved; and the second that insiders trade on the appraisal information in the time that elapses between the appraisal and its public announcement. We find strong support for the second hypothesis, with insiders buying (selling) after they receive favorable (unfavorable) appraisal news, especially for negative appraisals. We also find that positive (negative) appraisals and net insider buying (selling) elicit significant positive (negative) abnormal returns during the appraisal period.",
+            "link": "https://doi.org/10.1093/rfs/6.1.79"
+        },
+        {
+            "no": "5",
+            "title": "Signaling with Dividends and Share Repurchases: A Choice between Deterministic and Stochastic Cash Disbursements",
+            "date": "25 May 2015",
+            "author": [
+                "Donald B. Hausch",
+                "James K. Seward"
+            ],
+            "abstract": "We study firms signaling with cash disbursements and show that the choice of a deterministic or a stochastic disbursement depends on a property of the firm\u2019s production function that is analogous to absolute risk aversion for a utility function. With decreasing (increasing) absolute risk aversion, the high-quality firm prefers to distinguish itself from the low-quality firm with a stochastic (deterministic) outlay. We then study in detail two common forms of corporate cash distributions: dividends, a deterministic disbursement, and share repurchases, a stochastic disbursement.",
+            "link": "https://doi.org/10.1093/rfs/6.1.121"
+        },
+        {
+            "no": "6",
+            "title": "Return Autocorrelations around Nontrading Days",
+            "date": "25 May 2015",
+            "author": [
+                "Hendrik Bessembinder",
+                "Michael G. Hertzel"
+            ],
+            "abstract": "We document a pattern in the serial dependence of security returns around nontrading days. The correlation of returns the second day after a weekend or holiday with returns the first day after is unusually low, and in many return series is negative, implying a reversal of price movements. We also document unusually large positive return autocorrelations the last day before and the first day after weekends and holidays. The pattern has existed in equity returns for over 100 years, and also exists in several futures markets, implying that the pattern is robust to alternative market microstructures.",
+            "link": "https://doi.org/10.1093/rfs/6.1.155"
+        },
+        {
+            "no": "7",
+            "title": "Assessing the Quality of a Security Market: A New Approach to Transaction-Cost Measurement",
+            "date": "25 May 2015",
+            "author": [
+                "Joel Hasbrouck"
+            ],
+            "abstract": "I discuss a new method for measuring the deviations between actual transaction prices and implicit efficient prices. The approach decomposes security transaction prices into random-walk and stationary components. The random-walk component may be identified with the efficient price. The stationary component, the difference between the efficient price and the actual transaction price, is termed the pricing error. Its dispersion is a natural measure of market quality. I describe practical strategies for estimating these quantities. For a sample of NYSE stocks, the average pricing error standard deviation estimate is roughly 0.33 percent of the stock price. If the pricing error is normally distributed and if it is always a positive cost incurred by the transaction initiators, the corresponding average transaction cost for these traders is 0.26 percent of the stock price. The dispersion of the pricing error is also found to be elevated at the beginning and end of the trading session.",
+            "link": "https://doi.org/10.1093/rfs/6.1.191"
+        },
+        {
+            "no": "8",
+            "title": "Credit Market Equilibrium with Bank Monitoring and Moral Hazard",
+            "date": "25 May 2015",
+            "author": [
+                "David Besanko",
+                "George Kanatas"
+            ],
+            "abstract": "We characterize a credit market equilibrium in which banks coexist with capital markets and firms obtain funding from both sources. An incentive problem exists between the firm\u2019s insiders and outside providers of capital. Banks can provide not only credit but also monitoring services. We show that when banks cannot precommit to a particular level of monitoring, there is a unique credit market equilibrium with firms being financed with a combination of bank credit and external capital. In this equilibrium, a marginal substitution of bank credit for capital market financing would raise the firm\u2019s stock price.",
+            "link": "https://doi.org/10.1093/rfs/6.1.213"
+        }
+    ]
+}

@@ -1,0 +1,269 @@
+{
+    "journal": "JF",
+    "volume": "46",
+    "issue": "1",
+    "date": "March 1991",
+    "page": "Pages: i-vi, 1-468, vii-xxxviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00475.x"
+        },
+        {
+            "no": "2",
+            "title": "SMITH BREEDEN PRIZES FOR 1990",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03742.x"
+        },
+        {
+            "no": "3",
+            "title": "The Long\u2010Run Performance of initial Public Offerings",
+            "date": "March 1991",
+            "author": [
+                "JAY R. RITTER"
+            ],
+            "abstract": "The underpricing of initial public offerings (IPOs) that has been widely documented appears to be a short\u2010run phenomenon. Issuing firms during 1975\u201384 substantially underperformed a sample of matching firms from the closing price on the first day of public trading to their three\u2010year anniversaries. There is substantial variation in the underperformance year\u2010to\u2010year and across industries, with companies that went public in high\u2010volume years faring the worst. The patterns are consistent with an IPO market in which (1) investors are periodically overoptimistic about the earnings potential of young growth companies, and (2) firms take advantage of these \u201cwindows of opportunity.\u201d",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03743.x"
+        },
+        {
+            "no": "4",
+            "title": "The Investment Performance of Low\u2010grade Bond Funds",
+            "date": "March 1991",
+            "author": [
+                "BRADFORD CORNELL",
+                "KEVIN GREEN"
+            ],
+            "abstract": "This study extends the literature on the pricing of low\u2010grade bonds by examining the performance of low\u2010grade bond funds. The findings reveal that over the long run low\u2010grade bond fund returns are approximately equal to the returns provided by an index of high\u2010grade bonds. The relative risks of high and low\u2010grade bonds are more difficult to assess. Because of their shorter durations, low\u2010grade bonds are less sensitive to movements in interest rates than high\u2010grade bonds. On the other hand, low\u2010grade bonds are much more sensitive to changes in stock prices than high\u2010grade bonds. When adjusted for risk using a simple two\u2010factor model, the returns on low\u2010grade bond funds are not statistically different from the returns on high\u2010grade bonds.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03744.x"
+        },
+        {
+            "no": "5",
+            "title": "Returns and Volatility of Low\u2010Grade Bonds 1977\u20131989",
+            "date": "March 1991",
+            "author": [
+                "MARSHALL E. BLUME",
+                "DONALD B. KEIM",
+                "SANDEEP A. PATEL"
+            ],
+            "abstract": "This paper examines the risks and returns of long\u2010term low\u2010grade bonds for the period 1977\u20131989. We find: (1) low\u2010grade bonds realized higher returns than higher\u2010grade bonds and lower returns than common stocks, and low\u2010grade bonds exhibited less volatility than higher\u2010grade bonds due to their call features and high coupons; (2) there is no relation between the age of low\u2010grade bonds and their realized returns; cyclical factors explain much of the observed relation between default rates and bond age; and (3) low\u2010grade bonds behave like both bonds and stocks. Despite this complexity there is no evidence that low\u2010grade bonds are systematically over\u2010 or under\u2010priced.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03745.x"
+        },
+        {
+            "no": "6",
+            "title": "Investor Sentiment and the Closed\u2010End Fund Puzzle",
+            "date": "March 1991",
+            "author": [
+                "CHARLES M. C. LEE",
+                "ANDREI SHLEIFER",
+                "RICHARD H. THALER"
+            ],
+            "abstract": "This paper examines the proposition that fluctuations in discounts of closed\u2010end funds are driven by changes in individual investor sentiment. The theory implies that discounts on various funds move together, that new funds get started when seasoned funds sell at a premium or a small discount, and that discounts are correlated with prices of other securities affected by the same investor sentiment. The evidence supports these predictions. In particular, we find that both closed\u2010end funds and small stocks tend to be held by individual investors, and that the discounts on closed\u2010end funds narrow when small stocks do well.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03746.x"
+        },
+        {
+            "no": "7",
+            "title": "The World Price of Covariance Risk",
+            "date": "March 1991",
+            "author": [
+                "CAMPBELL R. HARVEY"
+            ],
+            "abstract": "In a financially integrated global market, the conditionally expected return on a portfolio of securities from a particular country is determined by the country's world risk exposure. This paper measures the conditional risk of 17 countries. The reward per unit of risk is the world price of covariance risk. Although the tests provide evidence on the conditional mean variance efficiency of the benchmark portfolio, the results show that countries' risk exposures help explain differences in performance. Evidence is also presented which indicates that these risk exposures change through time and that the world price of covariance risk is not constant.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03747.x"
+        },
+        {
+            "no": "8",
+            "title": "After\u2010Hours Stock Prices and Post\u2010Crash Hangovers",
+            "date": "March 1991",
+            "author": [
+                "DAVID NEUMARK",
+                "P. A. TINSLEY",
+                "SUZANNE TOSINI"
+            ],
+            "abstract": "After\u2010hours pricing in foreign equity markets of multiple\u2010listed U.S. securities appeared to be efficient in predicting New York prices in the weeks immediately following the October 1987 crash but relatively uninformative in succeeding months. By contrast, daily changes in New York prices appear to be efficiently incorporated in after\u2010hours trading on both the Tokyo and London exchanges throughout the sample period. This paper suggests that the asymmetry and temporal variations in cross\u2010market correlations are consistent with rational investor behavior in equity markets with nonzero transaction costs and time\u2010varying share price volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03748.x"
+        },
+        {
+            "no": "9",
+            "title": "Measuring the Information Content of Stock Trades",
+            "date": "March 1991",
+            "author": [
+                "JOEL HASBROUCK"
+            ],
+            "abstract": "This paper suggests that the interactions of security trades and quote revisions be modeled as a vector autoregressive system. Within this framework, a trade's information effect may be meaningfully measured as the ultimate price impact of the trade innovation. Estimates for a sample of NYSE issues suggest: a trade's full price impact arrives only with a protracted lag; the impact is a positive and concave function of the trade size; large trades cause the spread to widen; trades occurring in the face of wide spreads have larger price impacts; and, information asymmetries are more significant for smaller firms.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03749.x"
+        },
+        {
+            "no": "10",
+            "title": "Production\u2010Based Asset Pricing and the Link Between Stock Returns and Economic Fluctuations",
+            "date": "March 1991",
+            "author": [
+                "JOHN H. COCHRANE"
+            ],
+            "abstract": "This paper describes a production\u2010based asset pricing model. It is analogous to the standard consumption\u2010based model, but it uses producers and production functions in the place of consumers and utility functions. The model ties stock returns to investment returns (marginal rates of transformation) which are inferred from investment data via a production function. The production\u2010based model is used to examine forecasts of stock returns by business\u2010cycle related variables and the association of stock returns with subsequent economic activity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03750.x"
+        },
+        {
+            "no": "11",
+            "title": "Are Stock Returns Predictable? A Test Using Markov Chains",
+            "date": "March 1991",
+            "author": [
+                "GRANT MCQUEEN",
+                "STEVEN THORLEY"
+            ],
+            "abstract": "This paper uses a Markov chain model to test the random walk hypothesis of stock prices. Given a time series of returns, a Markov chain is defined by letting one state represent high returns and the other represent low returns. The random walk hypothesis restricts the transition probabilities of the Markov chain to be equal irrespective of the prior years. Annual real returns are shown to exhibit significant nonrandom walk behavior in the sense that low (high) returns tend to follow runs of high (low) returns in the postwar period.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03751.x"
+        },
+        {
+            "no": "12",
+            "title": "Partial Revelation of Information in Experimental Asset Markets",
+            "date": "March 1991",
+            "author": [
+                "THOMAS E. COPELAND",
+                "DANIEL FRIEDMAN"
+            ],
+            "abstract": "We develop a model of market efficiency assuming private information is partially revealed to uninformed traders via the behavior of those who are informed. This partial revelation of information (PRE) model is tested in fourteen computerized double auction laboratory markets. It explains the market value and allocation of purchased information, and asset allocations, better than either a fully revealing information model (FRE strong\u2010form efficiency) or a nonrevealing expectations model; but it takes second place to FRE in explaining asset prices. We conjecture that refined versions of PRE may provide insight into \u201ctechnical analysis\u201d and minibubbles in securities markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03752.x"
+        },
+        {
+            "no": "13",
+            "title": "The Theory of Capital Structure",
+            "date": "March 1991",
+            "author": [
+                "MILTON HARRIS",
+                "ARTUR RAVIV"
+            ],
+            "abstract": "This paper surveys capital structure theories based on agency costs, asymmetric information, product/input market interactions, and corporate control considerations (but excluding tax\u2010based theories). For each type of model, a brief overview of the papers surveyed and their relation to each other is provided. The central papers are described in some detail, and their results are summarized and followed by a discussion of related extensions. Each section concludes with a summary of the main implications of the models surveyed in the section. Finally, these results are collected and compared to the available evidence. Suggestions for future research are provided.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03753.x"
+        },
+        {
+            "no": "14",
+            "title": "Payout Policy and Tax Deferral",
+            "date": "March 1991",
+            "author": [
+                "HARRY DeANGELO"
+            ],
+            "abstract": "Equilibrium in the standard finance model implies that value\u2010maximizing firms make taxable equity payouts, even when deferral effectively allows complete tax escape. Since tax deferral and consumption deferral are inherently jointly supplied goods, an excess aggregate supply of future consumption would result if firms followed conventional wisdom and adopted low or zero payout policies to capture tax deferral benefits. The market provides incentives for firms to supply both taxable payouts and capital gains by overriding any tax deferral advantage, just as it provides incentives for equity financing by overriding the corporate tax advantage of debt in \u201cDebt and Taxes.\u201d",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03754.x"
+        },
+        {
+            "no": "15",
+            "title": "Evidence on Tax\u2010Motivated Securities Trading Behavior",
+            "date": "March 1991",
+            "author": [
+                "S. G. BADRINATH",
+                "WILBUR G. LEWELLEN"
+            ],
+            "abstract": "Tax\u2010loss selling by investors in common stocks near the end of calendar years has been proposed as an explanation for the turn\u2010of\u2010the\u2010year effect in stock returns. Past analyses of this hypothesis have relied on inferential data. We provide here some direct data from a compilation of over 80,000 actual common stock investment round trips by a sample of 3000 individual investors. We find strong evidence of a concentration of loss\u2010taking trades late in the year and milder evidence of a concentration just prior to the dates when investments become eligible for long\u2010term tax treatment.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03755.x"
+        },
+        {
+            "no": "16",
+            "title": "The Effect of Taxes on the Relative Valuation of Dividends and Capital Gains: Evidence from Dual\u2010Class British Investment Trusts",
+            "date": "March 1991",
+            "author": [
+                "JAMES S. ANG",
+                "DAVID W. BLACKWELL",
+                "WILLIAM L. MEGGINSON"
+            ],
+            "abstract": "We provide evidence that taxes affect equity valuation by studying British investment trusts having otherwise identical classes of cash\u2010 and stock\u2010dividend\u2010paying shares outstanding. We study 1969\u20131982, a period in which there were two dramatic changes in tax policy. We find that stock\u2010dividend shares, which are convertible into cash\u2010dividend shares, sell at premiums when the tax system favors capital gains and at discounts when the tax advantage of capital gains is reduced. After the 1975 elimination of the tax advantage to stock\u2010dividend shares, we observe that investors convert virtually all stock\u2010dividend shares into cash\u2010dividend shares.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03756.x"
+        },
+        {
+            "no": "17",
+            "title": "Taxes and the Capital Structure of Partnerships, REIT's, and Related Entities",
+            "date": "March 1991",
+            "author": [
+                "JEFFREY F. JAFFE"
+            ],
+            "abstract": "Academic finance has explored the effect of taxes on corporate capital structure in great detail. By contrast, the effect of taxes on the capital structure of partnerships, REIT's, and related entities has received little attention. The present paper shows that, under general conditions, the values of partnerships and REIT's are invariant to leverage, contradicting the sparse literature in the area. A proof similar to that of Modigliani\u2010Miller is employed. The effect of real world imperfections is also examined.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03757.x"
+        },
+        {
+            "no": "18",
+            "title": "Tobin's Q and the Gains from Takeovers",
+            "date": "March 1991",
+            "author": [
+                "HENRI SERVAES"
+            ],
+            "abstract": "This paper analyzes the relation between takeover gains and the q ratios of targets and bidders for a sample of 704 mergers and tender offers over the period 1972\u20131987. Target, bidder, and total returns are larger when targets have low q ratios and bidders have high q ratios. The relation is strengthened after controlling for the characteristics of the offer and the contest. This evidence confirms the results of the work by Lang, Stulz, and Walkling and shows that their findings also hold for mergers and after controlling for other determinants of takeover gains.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03758.x"
+        },
+        {
+            "no": "19",
+            "title": "Volatility increases Subsequent to NYSE and AMEX Stock Splits",
+            "date": "March 1991",
+            "author": [
+                "DAVID A. DUBOFSKY"
+            ],
+            "abstract": "The post\u2010split increase in daily returns volatility is less for AMEX stocks than for NYSE stocks. The exchange trading location is a significant factor in explaining the volatility shift even after stock price and firm size are considered. Furthermore, when measured on a weekly basis, there is no increase in AMEX stocks' returns volatility. These results suggest that measurement errors created by bid\u2010ask spreads and the 1/8 effect, and also one or more of the elements that make the NYSE different from the AMEX, explain why the estimated volatility of daily stock returns increases after the ex split date.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03759.x"
+        },
+        {
+            "no": "20",
+            "title": "Consistency between Predicted and Actual Bid\u2010Ask Quote\u2010Revisions",
+            "date": "March 1991",
+            "author": [
+                "HASUNG JANG",
+                "P. C. VENKATESH"
+            ],
+            "abstract": "This paper employs a \u201ctransaction\u201d data\u2010base to study whether observed quote\u2010revisions are consistent with those predicted by the adverse selection and inventory cost theories of the bid\u2010ask spread. We find that actual quote\u2010revisions are consistent with the theoretical prediction in only 25% of the cases. Furthermore, quote\u2010revision patterns are found to be strongly dependent on the level of the outstanding spread and, to a lesser extent, on the transaction size. These systematic patterns, unrelated to the inventory cost and adverse selection theories, are consistent with the effect on quote\u2010revisions of the limit order book and the minimum 1/8 price\u2010change rule.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03760.x"
+        },
+        {
+            "no": "21",
+            "title": "Arbitrage Asset Pricing under Exchange Risk",
+            "date": "March 1991",
+            "author": [
+                "SHINSUKE IKEDA"
+            ],
+            "abstract": "This paper extends the APT to an international setting. Specifying a linear factor return\u2010generating model in local currency terms, we show that the usual risk\u2010diversification rule in the APT does not yield a riskless portfolio unless currency fluctuations obey the same factor model as asset returns. We then consider an arbitrage portfolio whose exchange risk is hedged by foreign riskless bonds. Under the resulting no\u2010arbitrage conditions, the expected returns are not on the same hyperplane, unlike the closed\u2010economy APT, unless they are adjusted by the cost of exchange risk hedging.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03761.x"
+        },
+        {
+            "no": "22",
+            "title": "Book Reviews",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nThe Big Fix: Inside the S&L Scandal\u2010How an Unholy Alliance of Politics and Money Destroyed America's Banking System. By JAMES RING ADAMS.\nValuation: Measuring and Managing the Value of Companies. By TOM COPELAND, TIM ROLLER, and JACK MURRIN.\nPrices in Financial Markets. By MICHAEL U. DOTHAN.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03762.x"
+        },
+        {
+            "no": "23",
+            "title": "MISCELLANEA",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03763.x"
+        },
+        {
+            "no": "24",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb03741.x"
+        },
+        {
+            "no": "25",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00476.x"
+        },
+        {
+            "no": "26",
+            "title": "Back Matter",
+            "date": "March 1991",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1991.tb00477.x"
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "journal": "RFS",
+    "volume": "8",
+    "issue": "4",
+    "date": "October 1995",
+    "page": "Pages 919\u20131243",
+    "article": [
+        {
+            "no": "1",
+            "title": "Differential Information and Dynamic Behavior of Stock Trading Volume",
+            "date": "28 May 2015",
+            "author": [
+                "Hua He",
+                "Jiang Wang"
+            ],
+            "abstract": "This article develops a multiperiod rational expectations model of stock trading in which investors have differential information concerning the underlying value of the stock. Investors trade competitively in the stock market based on their private information and the information revealed by the market-clearing prices, as well as other public news. We examine how trading volume is related to the information flow in the market and how investors\u2019 trading reveals their private information.",
+            "link": "https://doi.org/10.1093/rfs/8.4.919"
+        },
+        {
+            "no": "2",
+            "title": "Overreaction, Delayed Reaction, and Contrarian Profits",
+            "date": "28 May 2015",
+            "author": [
+                "Narasimhan Jegadeesh",
+                "Sheridan Titman"
+            ],
+            "abstract": "This article examines the contribution of stock price overreaction and delayed reaction to the profitability of contrarian strategies. The evidence indicates that stock prices overreact to firm-specific information, but react with a delay to common factors. Delayed reactions to common factors give rise to a size-related lead-lag effect in stock returns. In sharp contrast with the conclusions in the extant literature, however, this article finds that most of the contrarian profit is due to stock price overreaction and a very small fraction of the profit can be attributed to the lead-lag effect.",
+            "link": "https://doi.org/10.1093/rfs/8.4.973"
+        },
+        {
+            "no": "3",
+            "title": "Signaling, Investment Opportunities, and Dividend Announcements",
+            "date": "28 May 2015",
+            "author": [
+                "Pyung Sig Yoon",
+                "Laura T. Starks"
+            ],
+            "abstract": "This article examines potential explanations for the wealth effects surrounding dividend change announcements. We find that new information concerning managers\u2019 investment policies is not revealed at the time of the dividend announcement. We also find that dividend increases (decreases) are associated with subsequent significant increases (decreases) in capital expenditures over the three years following the dividend change, and that dividend change announcements are associated with revisions in analysts\u2019 forecasts of current earnings. These results are consistent with the cash flow signaling hypothesis rather than the free cash flow hypothesis as an explanation for the observed stock price reactions to dividend change announcements.",
+            "link": "https://doi.org/10.1093/rfs/8.4.995"
+        },
+        {
+            "no": "4",
+            "title": "Foreign Equity Investment Restrictions, Capital Flight, and Shareholder Wealth Maximization: Theory and Evidence",
+            "date": "28 May 2015",
+            "author": [
+                "Ren\u00e9 M. Stulz",
+                "Walter Wasserfallen"
+            ],
+            "abstract": "This article provides a theory of foreign equity investment restrictions. We consider a model where the demand function for domestic shares differs between domestic and foreign investors because of deadweight costs in holding domestic and foreign securities that depend on the country of residence of investors. We show that domestic entrepreneurs maximize firm value by discriminating between domestic and foreign investors. The model implies that countries benefiting from capital flight have binding ownership restrictions such that foreign investors pay a higher price for shares than domestic investors. The empirical implications of this theory are supported by evidence from Switzerland.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1019"
+        },
+        {
+            "no": "5",
+            "title": "A General Equilibrium Model of Portfolio Insurance",
+            "date": "28 May 2015",
+            "author": [
+                "Suleyman Basak"
+            ],
+            "abstract": "This article examines the effects of portfolio insurance on market and asset price dynamics in a general equilibrium continuous-time model. Portfolio insurers are modeled as expected utility maximizing agents. Martingale methods are employed in solving the individual agents\u2019 dynamic consumption-portfolio problems. Comparisons are made between the optimal consumption processes, optimally invested wealth and portfolio strategies of the portfolio insurers and \u201cnormal agents\u201d. At a general equilibrium level, comparisons across economies reveal that the market volatility and risk premium are decreased, and the asset and market price levels increased, by the presence of portfolio insurance.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1059"
+        },
+        {
+            "no": "6",
+            "title": "Option Pricing and the Martingale Restriction",
+            "date": "28 May 2015",
+            "author": [
+                "Francis A. Longstaff"
+            ],
+            "abstract": "In the absence of frictions, the value of the underlying asset implied by option prices must equal its actual market value. With frictions, however, this requirement need not hold. Using S&P 100 index options data, I find that the implied cost of the index is significantly higher in the options market than in the stock market, and is directly related to measures of transaction costs and liquidity. I show that the Black-Scholes model has strong bid-ask spread, trading volume, and open interest biases. Option pricing models that relax the martingale restriction perform significantly better.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1091"
+        },
+        {
+            "no": "7",
+            "title": "Multivariate Binomial Approximations for Asset Prices with Nonstationary Variance and Covariance Characteristics",
+            "date": "28 May 2015",
+            "author": [
+                "Teng-Suan Ho",
+                "Richard C. Stapleton",
+                "Marti G. Subrahmanyam"
+            ],
+            "abstract": "In this article, we suggest an efficient method of approximating a general, multivariate log-normal distribution by a multivariate binomial process. There are two important features of such multivariate distributions. First, the state variables may have volatilities that change over time. Second, the two or more relevant state variables involved may covary with each other in a specified manner, with a time-varying covariance structure. We discuss the asymptotic properties of the resulting processes and show how the methodology can be used to value a complex, multiple exerciseable option whose payoff depends on the prices of two assets.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1125"
+        },
+        {
+            "no": "8",
+            "title": "Trade Size and Components of the Bid-Ask Spread",
+            "date": "28 May 2015",
+            "author": [
+                "Ji-Chai Lin",
+                "Gary C. Sanger",
+                "G. Geoffrey Booth"
+            ],
+            "abstract": "The relation between theorized components of the bid-ask spread and trade size for a sample of NYSE firms is examined. We find that the adverse selection component increases uniformly with trade size. Conversely, order processing costs decrease with increases in trade size for all but the largest trades. We find that order persistence decreases with trade size. The adverse selection component is highest at the beginning of the day and lowest at the end of the day for all but the largest trades. Trades of NYSE firms executed on regional exchanges or NASDAQ contain a large order processing cost component but no significant adverse information effect.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1153"
+        },
+        {
+            "no": "9",
+            "title": "The Capital Structure Puzzle Revisited",
+            "date": "28 May 2015",
+            "author": [
+                "James L. Berens",
+                "Charles J. Cuny"
+            ],
+            "abstract": "Corporate finance researchers have long been puzzled by low corporate debt ratios given debt's corporate tax advantage. This article recognizes that firm value typically reflects a growing stream of earnings, while current debt reflects a nongrowing stream of interest payments. Debt to value is therefore a distorted measure of corporate tax shielding. Even with very small debt-related costs, this may explain the observed magnitude and cross-sectional variation of debt ratios. Since this variation may be independent of tax shielding, debt ratios provide an inappropriate framework for empirically examining the trade-off theory of capital structure.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1185"
+        },
+        {
+            "no": "10",
+            "title": "When Do Banks Take Equity in Debt Restructurings?",
+            "date": "28 May 2015",
+            "author": [
+                "Christopher James"
+            ],
+            "abstract": "This article examines the conditions under which bank lenders make concessions by taking equity in financially distressed firms. I show that the role banks play in debt restructurings depends on the financial condition of the firm, the existence of public debt in the firm\u2019s capital structure and the ability of public debt to be restructured. Empirically, I find that for firms with public debt outstanding, banks never make concessions unless public debtholders also restructure their claims. When banks do take equity, on average they obtain a substantial proportion of the firm\u2019s stock, and they maintain their position for over two years.",
+            "link": "https://doi.org/10.1093/rfs/8.4.1209"
+        },
+        {
+            "no": "11",
+            "title": "Book Review. Market Microstructure Theory. M O\u2019Hara",
+            "date": "28 May 2015",
+            "author": [
+                "Hans Stoll"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/8.4.1235"
+        },
+        {
+            "no": "12",
+            "title": "Book Reviews. Financial Innovations and Risk Sharing. Franklin Allen, Douglas Gale",
+            "date": "28 May 2015",
+            "author": [
+                "Matthew Jackson"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/8.4.1238"
+        }
+    ]
+}

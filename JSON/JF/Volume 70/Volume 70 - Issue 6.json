@@ -1,0 +1,222 @@
+{
+    "journal": "JF",
+    "volume": "70",
+    "issue": "6",
+    "date": "December 2015",
+    "page": "Pages: 2353-2906, i-iii, 1-60",
+    "article": [
+        {
+            "no": "1",
+            "title": "Should Derivatives Be Privileged in Bankruptcy?",
+            "date": "11 November 2014",
+            "author": [
+                "PATRICK BOLTON",
+                "MARTIN OEHMKE"
+            ],
+            "abstract": "Derivatives enjoy special status in bankruptcy: they are exempt from the automatic stay and effectively senior to virtually all other claims. We propose a corporate finance model to assess the effect of these exemptions on a firm's cost of borrowing and incentives to engage in derivative transactions. While derivatives are value\u2010enhancing risk management tools, seniority for derivatives can lead to inefficiencies: it transfers credit risk to debtholders, even though this risk is borne more efficiently in the derivative market. Seniority for derivatives is efficient only if it provides sufficient cross\u2010netting benefits to derivative counterparties that provide hedging services.",
+            "link": "https://doi.org/10.1111/jofi.12201"
+        },
+        {
+            "no": "2",
+            "title": "Regulatory Arbitrage and Cross\u2010Border Bank Acquisitions",
+            "date": "05 March 2015",
+            "author": [
+                "G. ANDREW KAROLYI",
+                "ALVARO G. TABOADA"
+            ],
+            "abstract": "We study how differences in bank regulation influence cross\u2010border bank acquisition flows and share price reactions to cross\u2010border deal announcements. Using a sample of 7,297 domestic and 916 majority cross\u2010border deals announced between 1995 and 2012, we find evidence of a form of \u201cregulatory arbitrage\u201d whereby acquisition flows involve acquirers from countries with stronger regulations than their targets. Target and aggregate abnormal returns around deal announcements are positive and larger when acquirers come from more restrictive bank regulatory environments. We interpret this evidence as more consistent with a benign form of regulatory arbitrage than a potentially destructive one.",
+            "link": "https://doi.org/10.1111/jofi.12262"
+        },
+        {
+            "no": "3",
+            "title": "Risk Overhang and Loan Portfolio Decisions: Small Business Loan Supply before and during the Financial Crisis",
+            "date": "04 September 2015",
+            "author": [
+                "ROBERT DEYOUNG",
+                "ANNE GRON",
+                "G\u04e6KHAN TORNA",
+                "ANDREW WINTON"
+            ],
+            "abstract": "We estimate a structural model of bank portfolio lending and find that the typical U.S. community bank reduced its business lending during the global financial crisis. The decline in business credit was driven by increased risk overhang effects (consistent with a reduction in the liquidity of assets held on bank balance sheets) and by reduced loan supply elasticities suggestive of credit rationing (consistent with an increase in lender risk aversion). Nevertheless, we identify a group of strategically focused relationship banks that made and maintained higher levels of business loans during the crisis.",
+            "link": "https://doi.org/10.1111/jofi.12356"
+        },
+        {
+            "no": "4",
+            "title": "Is Historical Cost Accounting a Panacea? Market Stress, Incentive Distortions, and Gains Trading",
+            "date": "04 September 2015",
+            "author": [
+                "ANDREW ELLUL",
+                "CHOTIBHAK JOTIKASTHIRA",
+                "CHRISTIAN T. LUNDBLAD",
+                "YIHUI WANG"
+            ],
+            "abstract": "Accounting rules, through their interactions with capital regulations, affect financial institutions\u2019 trading behavior. The insurance industry provides a laboratory to explore these interactions: life insurers have greater flexibility than property and casualty insurers to hold speculative\u2010grade assets at historical cost, and the degree to which life insurers recognize market values differs across U.S. states. During the financial crisis, insurers facing a lesser degree of market value recognition are less likely to sell downgraded asset\u2010backed securities. To improve their capital positions, these insurers disproportionately resort to gains trading, selectively selling otherwise unrelated bonds with high unrealized gains, transmitting shocks across markets.",
+            "link": "https://doi.org/10.1111/jofi.12357"
+        },
+        {
+            "no": "5",
+            "title": "Internal Capital Markets in Business Groups: Evidence from the Asian Financial Crisis",
+            "date": "06 August 2015",
+            "author": [
+                "HEITOR ALMEIDA",
+                "CHANG\u2010SOO KIM",
+                "HWANKI BRIAN KIM"
+            ],
+            "abstract": "This paper examines capital reallocation among firms in Korean business groups (\nc\nh\na\ne\nb\no\nl\n) in the aftermath of the 1997 Asian financial crisis, and the consequences of this capital reallocation for the investment and performance of\nc\nh\na\ne\nb\no\nl\nfirms. We show that\nc\nh\na\ne\nb\no\nl\ntransferred cash from low\u2010growth to high\u2010growth member firms, using cross\u2010firm equity investments. This capital reallocation allowed chaebol firms with greater investment opportunities to invest more than control firms after the crisis. These firms also showed higher profitability and lower declines in valuation than control firms following the crisis. Our results suggest that chaebol internal capital markets helped them mitigate the negative effects of the Asian crisis on investment and performance.",
+            "link": "https://doi.org/10.1111/jofi.12309"
+        },
+        {
+            "no": "6",
+            "title": "Foreclosures, House Prices, and the Real Economy",
+            "date": "07 August 2015",
+            "author": [
+                "ATIF MIAN",
+                "AMIR SUFI",
+                "FRANCESCO TREBBI"
+            ],
+            "abstract": "From 2007 to 2009, states without a judicial requirement for foreclosures were twice as likely to foreclose on delinquent homeowners. Analysis of borders of states with differing foreclosure laws reveals a discrete jump in foreclosure propensity as one enters nonjudicial states. Using state judicial requirement as an instrument for foreclosures, we show that foreclosures led to a large decline in house prices, residential investment, and consumer demand from 2007 to 2009. As foreclosures subsided from 2011 to 2013, the foreclosure rates in nonjudicial and judicial requirement states converged and we find some evidence of a stronger recovery in nonjudicial states.",
+            "link": "https://doi.org/10.1111/jofi.12310"
+        },
+        {
+            "no": "7",
+            "title": "Asset Quality Misrepresentation by Financial Intermediaries: Evidence from the RMBS Market",
+            "date": "18 March 2015",
+            "author": [
+                "TOMASZ PISKORSKI",
+                "AMIT SERU",
+                "JAMES WITKIN"
+            ],
+            "abstract": "We document that contractual disclosures by intermediaries during the sale of mortgages contained false information about the borrower's housing equity in 7\u201314% of loans. The rate of misrepresented loan default was 70% higher than for similar loans. These misrepresentations likely occurred late in the intermediation and exist among securities sold by all reputable intermediaries. Investors\u2014including large institutions\u2014holding securities with misrepresented collateral suffered severe losses due to loan defaults, price declines, and ratings downgrades. Pools with misrepresentations were not issued at a discount. Misrepresentation on another easy\u2010to\u2010quantify dimension shows that these effects are a conservative lower bound.",
+            "link": "https://doi.org/10.1111/jofi.12271"
+        },
+        {
+            "no": "8",
+            "title": "The People in Your Neighborhood: Social Interactions and Mutual Fund Portfolios",
+            "date": "02 September 2014",
+            "author": [
+                "VERONIKA K. POOL",
+                "NOAH STOFFMAN",
+                "SCOTT E. YONKER"
+            ],
+            "abstract": "We find that socially connected fund managers have more similar holdings and trades. The overlap of funds whose managers reside in the same neighborhood is considerably higher than that of funds whose managers live in the same city but in different neighborhoods. These effects are larger when managers share a similar ethnic background, and are not explained by preferences. Valuable information is transmitted through these peer networks: a long\u2010short strategy composed of stocks purchased minus sold by neighboring managers delivers positive risk\u2010adjusted returns. Unlike prior empirical work, our tests disentangle the effects of social interactions from community effects.",
+            "link": "https://doi.org/10.1111/jofi.12208"
+        },
+        {
+            "no": "9",
+            "title": "Mandatory Portfolio Disclosure, Stock Liquidity, and Mutual Fund Performance",
+            "date": "27 January 2015",
+            "author": [
+                "VIKAS AGARWAL",
+                "KEVIN A. MULLALLY",
+                "YUEHUA TANG",
+                "BAOZHONG YANG"
+            ],
+            "abstract": "We examine the impact of mandatory portfolio disclosure by mutual funds on stock liquidity and fund performance. We develop a model of informed trading with disclosure and test its predictions using the May 2004 SEC regulation requiring more frequent disclosure. Stocks with higher fund ownership, especially those held by more informed funds or subject to greater information asymmetry, experience larger increases in liquidity after the regulation change. More informed funds, especially those holding stocks with greater information asymmetry, experience greater performance deterioration after the regulation change. Overall, mandatory disclosure improves stock liquidity but imposes costs on informed investors.",
+            "link": "https://doi.org/10.1111/jofi.12245"
+        },
+        {
+            "no": "10",
+            "title": "Government Intervention and Information Aggregation by Prices",
+            "date": "17 June 2015",
+            "author": [
+                "PHILIP BOND",
+                "ITAY GOLDSTEIN"
+            ],
+            "abstract": "Governments intervene in firms' lives in a variety of ways. To enhance the efficiency of government intervention, many researchers and policy makers call for governments to make use of information contained in stock market prices. However, price informativeness is endogenous to government policy. We analyze government policy in light of this endogeneity. In some cases, it is optimal for a government to commit to limit its reliance on market prices to avoid harming the aggregation of information into market prices. For similar reasons, it is optimal for a government to limit transparency in some dimensions.",
+            "link": "https://doi.org/10.1111/jofi.12303"
+        },
+        {
+            "no": "11",
+            "title": "CEO Preferences and Acquisitions",
+            "date": "01 May 2015",
+            "author": [
+                "DIRK JENTER",
+                "KATHARINA LEWELLEN"
+            ],
+            "abstract": "This paper explores the impact of target CEOs\u2019 retirement preferences on takeovers. Using retirement age as a proxy for CEOs\u2019 private merger costs, we find strong evidence that target CEOs\u2019 preferences affect merger activity. The likelihood of receiving a successful takeover bid is sharply higher when target CEOs are close to age 65. Takeover premiums and target announcement returns are similar for retirement\u2010age and younger CEOs, implying that retirement\u2010age CEOs increase firm sales without sacrificing premiums. Better corporate governance is associated with more acquisitions of firms led by young CEOs, and with a smaller increase in deals at retirement age.",
+            "link": "https://doi.org/10.1111/jofi.12283"
+        },
+        {
+            "no": "12",
+            "title": "The Wall Street Walk when Blockholders Compete for Flows",
+            "date": "06 August 2015",
+            "author": [
+                "AMIL DASGUPTA",
+                "GIORGIA PIACENTINO"
+            ],
+            "abstract": "Effective monitoring by equity blockholders is important for good corporate governance. A prominent theoretical literature argues that the threat of block sale (\u201cexit\u201d) can be an effective governance mechanism. Many blockholders are money managers. We show that, when money managers compete for investor capital, the threat of exit loses credibility, weakening its governance role. Money managers with more skin in the game will govern more successfully using exit. Allowing funds to engage in activist measures (\u201cvoice\u201d) does not alter our qualitative results. Our results link widely prevalent incentives in the ever\u2010expanding money management industry to the nature of corporate governance.",
+            "link": "https://doi.org/10.1111/jofi.12308"
+        },
+        {
+            "no": "13",
+            "title": "The Value of Control and the Costs of Illiquidity: Erratum",
+            "date": "12 November 2015",
+            "author": [
+                "RUI ALBUQUERQUE",
+                "ENRIQUE SCHROTH"
+            ],
+            "abstract": "The editor regrets an error in the Albuquerque and Schroth article (2015) in the August 2015 issue. On page 1410, in the fifth sentence of the second paragraph it should read \u201cThis strong association captures the fact that most trades are concentrated in two regions of the scatter plot, with 74% of the trades with positive CAR exhibiting a positive BP and 75% of the trades with a negative CAR exhibiting a negative BP.\u201d",
+            "link": "https://doi.org/10.1111/jofi.12359"
+        },
+        {
+            "no": "14",
+            "title": "The Role of Institutional Investors in Voting: Evidence from the Securities Lending Market: Erratum",
+            "date": "12 November 2015",
+            "author": [
+                "REENA AGGARWAL",
+                "PEDRO A. C. SAFFI",
+                "JASON STURGESS"
+            ],
+            "abstract": "The editor regrets an error in the Aggarwal, Saffi and Sturgess article (2015) in the October 2015 issue. On page 2320, equation 2 should read:\n2\nn\nd\ns\nt\na\ng\ne\n:\nSUPPL\nY\ni\n,\nt\n=\n\u03b1\ni\nS\n+\n\u03b1\nt\nS\n+\n\u03b3\nS\nRDATE\ni\n,\nt\n+\n\u03b2\ni\nS\nF\nE\nE\ni\n,\nt\n\u0302\n+\n\u03b2\n2\nS\nRDATE\n*\nF\nE\nE\ni\n,\nt\n\u0302\n+\n+\n\u03b4\nS\nC\no\nn\nt\nr\no\nl\ns\ni\n,\nt\n+\n\u025b\ni\n,\nt\nS\nAnd equation 4 should read:\n2\nn\nd\ns\nt\na\ng\ne\n:\nONLOA\nN\ni\n,\nt\n=\n\u03b1\ni\nD\n+\n\u03b1\nt\nD\n+\n\u03b3\nD\nRDATE\ni\n,\nt\n+\n\u03b2\ni\nD\nF\nE\nE\ni\n,\nt\n\u0302\n+\n\u03b2\n2\nD\nRDATE\n*\nF\nE\nE\ni\n,\nt\n\u0302\n+\n+\n\u03b4\nD\nC\no\nn\nt\nr\no\nl\ns\ni\n,\nt\n+\n\u025b\ni\n,\nt\nD\n.\nAnd on page 2321, the third sentence should read:\nFor example, in equation (4) for ONLOAN we need variables that affect FEE but not demand, such that the estimated\nF\nE\nE\n\u0302\nand\nRDATE\n*\nFEE\n\u0302\nvalues are uncorrelated with the error term\n\u025b\ni\n,\nt\nD\n.\nOn page 2328 second and third paragraphs, all {RDATE * FEE} terms in the paragraph should be under a hat.\nOn page 2329, in Table V, the term {RDATE * FEE} should be under a hat rather than only FEE.",
+            "link": "https://doi.org/10.1111/jofi.12360"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "12 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12375"
+        },
+        {
+            "no": "16",
+            "title": "ANNOUNCEMENTS",
+            "date": "12 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12376"
+        },
+        {
+            "no": "17",
+            "title": "INDEX TO VOLUME LXX: AUTHORS",
+            "date": "12 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12373"
+        },
+        {
+            "no": "18",
+            "title": "INDEX TO VOLUME LXX: ARTICLES",
+            "date": "12 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12374"
+        },
+        {
+            "no": "19",
+            "title": "Preliminary Program AFA 2016 SAN FRANCISCO MEETINGS",
+            "date": "12 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.FE589"
+        },
+        {
+            "no": "20",
+            "title": "Participant Schedule Report Participants in the AFA 2016 San Francisco Meetings",
+            "date": "12 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.FE590"
+        }
+    ]
+}

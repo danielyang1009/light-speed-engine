@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Discounting and underpricing in seasoned equity offers
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Oya Altınkılıç
 - Robert S Hansen
 ### Abstract
@@ -25,7 +25,7 @@ Expected discounting in seasoned equity offers is a cost of uncertainty about fi
 ## 3. Do dealer firms manage inventory on a stock-by-stock or a portfolio basis?
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Narayan Y. Naik
 - Pradeep K. Yadav
 ### Abstract
@@ -36,7 +36,7 @@ This paper investigates whether dealer firms’ trading and pricing decisions ar
 ## 4. Arbitrage risk and the book-to-market anomaly
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Ashiq Ali
 - Lee-Seok Hwang
 - Mark A. Trombley
@@ -48,7 +48,7 @@ This paper shows that the book-to-market (B/M) effect is greater for stocks with
 ## 5. An examination of own account trading by dual traders in futures markets
 ### Date
 - Aug 2003
-### Authors
+### Author
 - Sugato Chakravarty
 - Kai Li
 ### Abstract

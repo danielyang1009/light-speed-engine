@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Joint Editorial
 ### Date
 - Aug 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. IPO allocations: discriminatory or discretionary?
 ### Date
 - Aug 2002
-### Authors
+### Author
 - Alexander P Ljungqvist
 - William J Wilhelm
 ### Abstract
@@ -34,7 +34,7 @@ We estimate the structural links between IPO allocations, pre-market information
 ## 4. Dating the integration of world equity markets
 ### Date
 - Aug 2002
-### Authors
+### Author
 - Geert Bekaert
 - Campbell R. Harvey
 - Robin L. Lumsdaine
@@ -46,7 +46,7 @@ Regulatory changes that appear comprehensive will have little impact on the func
 ## 5. Conditional performance measurement using portfolio weights: evidence for pension funds
 ### Date
 - Aug 2002
-### Authors
+### Author
 - Wayne Ferson
 - Kenneth Khang
 ### Abstract
@@ -57,7 +57,7 @@ This paper combines the use of portfolio holdings data and conditioning informat
 ## 6. Pricing and capital allocation in catastrophe insurance
 ### Date
 - Aug 2002
-### Authors
+### Author
 - George Zanjani
 ### Abstract
 This paper studies multi-line pricing and capital allocation by insurance companies when solvency matters to consumers, capital is costly to hold, and the average loss is uncertain. In this environment, product quality concerns lead firms to diversify across markets and charge high prices for risk that threatens company solvency, even if the risk is unrelated to other asset risk. Price differences across markets are traced to differences in capital required at the margin to maintain solvency. Finally, the paper shows that capital costs have significant effects on catastrophe insurance markets because of high marginal capital requirements.

@@ -1,0 +1,126 @@
+{
+    "journal": "RFS",
+    "volume": "31",
+    "issue": "7",
+    "date": "July 2018",
+    "page": "Pages 2423\u20132853",
+    "article": [
+        {
+            "no": "1",
+            "title": "News Shocks and the Production-Based Term Structure of Equity Returns",
+            "date": "08 February 2018",
+            "author": [
+                "Hengjie Ai",
+                "Mariano Max Croce",
+                "Anthony M Diercks",
+                "Kai Li"
+            ],
+            "abstract": "We propose a production-based general equilibrium model to study the link between timing of cash flows and expected returns, both in the cross-section of stocks and along the aggregate equity term structure. Our model incorporates long-run growth news with time-varying volatility and slow learning about the exposure that firms have with respect to these shocks. Our framework provides a unified explanation of the stylized features of the slope of the term structure of equity returns, its variations over the business cycle, and the negative relationship between cash-flow duration and expected returns in the cross-section of book-to-market-sorted portfolios.",
+            "link": "https://doi.org/10.1093/rfs/hhy015"
+        },
+        {
+            "no": "2",
+            "title": "The Information Content of Realized Losses",
+            "date": "07 February 2018",
+            "author": [
+                "Peter Kelly"
+            ],
+            "abstract": "Examining the trades of company insiders, I find that a sale of stock at a loss is a much more negative signal about future returns than is a sale of stock at a gain. I consider a range of explanations for my results and find that the evidence is most consistent with the idea that investors derive direct disutility from selling a stock at a loss. Since selling a stock at a loss is painful, an investor who sells at a loss must have particularly negative information. This result offers a novel measurement of the strength of the disposition effect.",
+            "link": "https://doi.org/10.1093/rfs/hhy013"
+        },
+        {
+            "no": "3",
+            "title": "Detecting Repeatable Performance",
+            "date": "07 February 2018",
+            "author": [
+                "Campbell R Harvey",
+                "Yan Liu"
+            ],
+            "abstract": "Past fund performance does a poor job of predicting future outcomes. The reason is noise. Using a random effects framework, we reduce the noise by pooling information from the cross-sectional alpha distribution to make density forecasts for each individual fund\u2019s alpha. In simulations, we show that our method generates parameter estimates that outperform alternative methods, both at the population and at the individual fund level. An out-of-sample forecasting exercise also shows that our method generates improved alpha forecasts.",
+            "link": "https://doi.org/10.1093/rfs/hhy014"
+        },
+        {
+            "no": "4",
+            "title": "Innovative Originality, Profitability, and Stock Returns",
+            "date": "05 September 2017",
+            "author": [
+                "David Hirshleifer",
+                "Po-Hsuan Hsu",
+                "Dongmei Li"
+            ],
+            "abstract": "We propose that innovative originality is a valuable organizational resource and that owing to limited investor attention and skepticism of complexity, greater innovative originality may be undervalued. We find that firms\u2019 innovative originality strongly predicts higher, more persistent, and less volatile profitability and higher abnormal stock returns, findings that are robust to extensive controls. The return predictive power of innovative originality is stronger for firms with higher valuation uncertainty, lower investor attention, and greater sensitivity of future profitability to innovative originality. This evidence suggests that innovative originality acts as a \u201ccompetitive moat\u201d and is undervalued by the market.",
+            "link": "https://doi.org/10.1093/rfs/hhx101"
+        },
+        {
+            "no": "5",
+            "title": "The History of the Cross-Section of Stock Returns",
+            "date": "19 April 2018",
+            "author": [
+                "Juhani T Linnainmaa",
+                "Michael R Roberts"
+            ],
+            "abstract": "Using data spanning the twentieth century, we show that the majority of accounting-based return anomalies, including investment, are most likely an artifact of data snooping. When examined out-of-sample by moving either backward or forward in time, the average returns and Sharpe ratios of most anomalies decrease, whereas their volatilities and correlations with other anomalies increase. The few anomalies that do persist out-of-sample correlate with the shift from investment in physical capital to intangible capital and the increasing reliance on debt financing over the twentieth century.",
+            "link": "https://doi.org/10.1093/rfs/hhy030"
+        },
+        {
+            "no": "6",
+            "title": "Do Hedge Funds Exploit Rare Disaster Concerns?",
+            "date": "24 March 2018",
+            "author": [
+                "George P Gao",
+                "Pengjie Gao",
+                "Zhaogang Song"
+            ],
+            "abstract": "We find hedge funds that have higher return covariation with a disaster concern index, which we develop through out-of-the-money puts on various economic sector indices, earn significantly higher returns in the cross-section. We provide evidence that these funds\u2019 managers are more skilled at exploiting the market\u2019s ex ante rare disaster concerns (SEDs), which may not be associated with disaster risk. In particular, high-SED funds, on average, outperform low-SED funds by 0.96% per month, but have less exposure to disaster risk. They continue to deliver superior future performance when SEDs are estimated using the disaster concern index purged of disaster risk premiums and have leverage-managing and extreme market-timing abilities.",
+            "link": "https://doi.org/10.1093/rfs/hhy027"
+        },
+        {
+            "no": "7",
+            "title": "Are Financial Constraints Priced? Evidence from Textual Analysis",
+            "date": "25 January 2018",
+            "author": [
+                "Matthias M M Buehlmaier",
+                "Toni M Whited"
+            ],
+            "abstract": "We construct novel measures of financial constraints using textual analysis of firms\u2019 annual reports and investigate their impact on stock returns. Our three measures capture access to equity markets, debt markets, and external financial markets in general. In all cases, constrained firms earn higher returns, which move together and cannot be explained by the Fama and French (2015) factor model. A trading strategy based on financial constraints is most profitable for large, liquid stocks. Our results are strongest when we consider debt constraints. A portfolio based on this measure earns an annualized risk-adjusted excess return of 6.5%.",
+            "link": "https://doi.org/10.1093/rfs/hhy007"
+        },
+        {
+            "no": "8",
+            "title": "Risk Everywhere: Modeling and Managing Volatility",
+            "date": "22 May 2018",
+            "author": [
+                "Tim Bollerslev",
+                "Benjamin Hood",
+                "John Huss",
+                "Lasse Heje Pedersen"
+            ],
+            "abstract": "Based on high-frequency data for more than fifty commodities, currencies, equity indices, and fixed-income instruments spanning more than two decades, we document strong similarities in realized volatility patterns within and across asset classes. Exploiting these similarities through panel-based estimation of new realized volatility models results in superior out-of-sample risk forecasts, compared to forecasts from existing models and conventional procedures that do not incorporate the similarities in volatilities. We develop a utility-based framework for evaluating risk models that shows significant economic gains from our new risk model. Lastly, we evaluate the effects of transaction costs and trading speed in implementing different risk models.",
+            "link": "https://doi.org/10.1093/rfs/hhy041"
+        },
+        {
+            "no": "9",
+            "title": "Learning from History: Volatility and Financial Crises",
+            "date": "23 April 2018",
+            "author": [
+                "Jon Danielsson",
+                "Marcela Valenzuela",
+                "Ilknur Zer"
+            ],
+            "abstract": "We study the effects of stock market volatility on risk-taking and financial crises by constructing a cross-country database spanning up to 211 years and across 60 countries. Prolonged periods of low volatility have strong in-sample and out-of-sample predictive power over the incidence of banking crises and can be used as a reliable crisis indicator, whereas volatility itself does not predict crises. Low volatility leads to excessive credit buildups and balance sheet leverage in the financial system, indicating that agents take more risk in periods of low risk, supporting the dictum that \u201cstability is destabilizing.\u201d",
+            "link": "https://doi.org/10.1093/rfs/hhy049"
+        },
+        {
+            "no": "10",
+            "title": "Housing Price Booms and Crowding-Out Effects in Bank Lending",
+            "date": "21 March 2018",
+            "author": [
+                "Indraneel Chakraborty",
+                "Itay Goldstein",
+                "Andrew MacKinlay"
+            ],
+            "abstract": "Analyzing the period 1988\u20132006, we document that banks that are active in strong housing markets increase mortgage lending and decrease commercial lending. Firms that borrow from these banks have significantly lower investment. This is especially pronounced for firms that are more capital constrained or borrow from more-constrained banks. Various extensions and robustness analyses are consistent with the interpretation that commercial loans were crowded out by banks responding to profitable opportunities in mortgage lending, rather than with a demand-based interpretation. The results suggest that housing prices appreciations have negative spillovers to the real economy, which were overlooked thus far.",
+            "link": "https://doi.org/10.1093/rfs/hhy033"
+        }
+    ]
+}

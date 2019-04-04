@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do firms have leverage targets? Evidence from acquisitions
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Jarrad Harford
 - Sandy Klasa
 - Nathan Walcott
@@ -26,7 +26,7 @@ In the context of large acquisitions, we provide evidence on whether firms have 
 ## 3. The price of sin: The effects of social norms on markets
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Harrison Hong
 - Marcin Kacperczyk
 ### Abstract
@@ -37,7 +37,7 @@ We provide evidence for the effects of social norms on markets by studying “si
 ## 4. Price-based return comovement
 ### Date
 - Sep 2008
-### Authors
+### Author
 - T. Clifton Green
 - Byoung-Hyoun Hwang
 ### Abstract
@@ -48,7 +48,7 @@ Similarly priced stocks move together. Stocks that undergo splits experience an 
 ## 5. The underpricing of private targets
 ### Date
 - Aug 2008
-### Authors
+### Author
 - John W. Cooney
 - Thomas Moeller
 - Mike Stegemoller
@@ -60,7 +60,7 @@ We examine acquisitions of private firms with valuation histories and find a pos
 ## 6. Informed traders and limit order markets
 ### Date
 - Aug 2008
-### Authors
+### Author
 - Ronald L. Goettler
 - Christine A. Parlour
 - Uday Rajan
@@ -72,7 +72,7 @@ We consider a dynamic limit order market in which traders optimally choose wheth
 ## 7. Payout policy and cash-flow uncertainty
 ### Date
 - Dec 2008
-### Authors
+### Author
 - J.B. Chay
 - Jungwon Suh
 ### Abstract
@@ -83,7 +83,7 @@ The importance of cash-flow uncertainty in payout policy has received little att
 ## 8. Affiliated mutual funds and analyst optimism
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Simona Mola
 - Massimo Guidolin
 ### Abstract
@@ -94,7 +94,7 @@ This paper extends the literature on analyst optimism. Our analysis of a large s
 ## 9. It pays to have friends
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Byoung-Hyoun Hwang
 - Seoyoung Kim
 ### Abstract

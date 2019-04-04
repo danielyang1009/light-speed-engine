@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Analyzing volatility risk and risk premium in option contracts: A new theory
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Peter Carr
 - Liuren Wu
 ### Abstract
@@ -25,7 +25,7 @@ We develop a new option pricing framework that tightly integrates with how insti
 ## 3. Volatility risk premia and exchange rate predictability
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Pasquale Della Corte
 - Tarun Ramadorai
 - Lucio Sarno
@@ -37,7 +37,7 @@ We discover a new currency strategy with highly desirable return and diversifica
 ## 4. The expected returns and valuations of private and public firms
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Ilan Cooper
 - Richard Priestley
 ### Abstract
@@ -48,7 +48,7 @@ Characteristics play a similar role in describing returns in private firms as in
 ## 5. Dual ownership, returns, and voting in mergers
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Andriy Bodnaruk
 - Marco Rossi
 ### Abstract
@@ -59,7 +59,7 @@ In Mergers and Acquisitions (M&As) a significant proportion of targets’ equity
 ## 6. Spare tire? Stock markets, banking crises, and economic recoveries
 ### Date
 - May 2015
-### Authors
+### Author
 - Ross Levine
 - Chen Lin
 - Wensi Xie
@@ -71,7 +71,7 @@ Do stock markets act as a spare tire during banking crises, providing an alterna
 ## 7. Redacting proprietary information at the initial public offering
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Audra L. Boone
 - Ioannis V. Floros
 - Shane A. Johnson
@@ -83,7 +83,7 @@ Nearly 40% of IPO firms redact information from their SEC registration filings. 
 ## 8. On secondary buyouts
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Francois Degeorge
 - Jens Martin
 - Ludovic Phalippou
@@ -95,7 +95,7 @@ Private equity firms increasingly sell companies to each other in secondary buyo
 ## 9. Are retail traders compensated for providing liquidity?
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Jean-Noel Barrot
 - Ron Kaniel
 - David Sraer
@@ -107,7 +107,7 @@ This paper examines the extent to which individual investors provide liquidity t
 ## 10. Using options to measure the full value-effect of an event: Application to Obamacare
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Paul Borochin
 - Joseph Golec
 ### Abstract
@@ -118,7 +118,7 @@ Many event studies only measure a fraction of an event's full value effect becau
 ## 11. CEO overconfidence and financial crisis: Evidence from bank lending and leverage
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Po-Hsin Ho
 - Chia-Wei Huang
 - Chih-Yung Lin

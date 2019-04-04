@@ -5,7 +5,7 @@
 ## 1. Capital budgeting and compensation with asymmetric information and moral hazard
 ### Date
 - Sep 2001
-### Authors
+### Author
 - Antonio E. Bernardo
 - Hongbin Cai
 - Jiang Luo
@@ -17,7 +17,7 @@ We consider optimal capital allocation and managerial compensation mechanisms fo
 ## 2. Forecasting crashes: trading volume, past returns, and conditional skewness in stock prices
 ### Date
 - Sep 2001
-### Authors
+### Author
 - Joseph Chen
 - Harrison Hong
 - Jeremy C Stein
@@ -29,7 +29,7 @@ We develop a series of cross-sectional regression specifications to forecast ske
 ## 3. Following the leader:
 ### Date
 - Sep 2001
-### Authors
+### Author
 - Rick A. Cooper
 - Theodore E. Day
 - Craig M. Lewis
@@ -41,7 +41,7 @@ This paper develops and tests procedures for ranking the performance of security
 ## 4. Managerial timing and corporate liquidity:
 ### Date
 - Sep 2001
-### Authors
+### Author
 - Paul Brockman
 - Dennis Y. Chung
 ### Abstract
@@ -52,7 +52,7 @@ We investigate the timing of open market share repurchases and the resultant imp
 ## 5. The duration of bank relationships
 ### Date
 - Sep 2001
-### Authors
+### Author
 - Steven Ongena
 - David C Smith
 ### Abstract
@@ -63,7 +63,7 @@ We analyze the duration of bank relationships using a unique panel data set of l
 ## 6. Erratum to:‘The option to withdraw IPOs during the premarket: empirical analysis’
 ### Date
 - Sep 2001
-### Authors
+### Author
 - Walid Y Busaba
 - Lawrence M Benveniste
 - Re-Jin Guo
@@ -75,7 +75,7 @@ We analyze the duration of bank relationships using a unique panel data set of l
 ## 7. Index
 ### Date
 - Sep 2001
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -1,0 +1,182 @@
+{
+    "journal": "JF",
+    "volume": "60",
+    "issue": "5",
+    "date": "October 2005",
+    "page": "Pages: i-viii, 2149-biv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "16 September 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00794.x"
+        },
+        {
+            "no": "2",
+            "title": "Equilibrium in a Dynamic Limit Order Market",
+            "date": "16 September 2005",
+            "author": [
+                "RONALD L. GOETTLER",
+                "CHRISTINE A. PARLOUR",
+                "UDAY RAJAN"
+            ],
+            "abstract": "We model a dynamic limit order market as a stochastic sequential game with rational traders. Since the model is analytically intractable, we provide an algorithm based on Pakes and McGuire (2001) to find a stationary Markov\u2010perfect equilibrium. We then generate artificial time series and perform comparative dynamics. Conditional on a transaction, the midpoint of the quoted prices is not a good proxy for the true value. Further, transaction costs paid by market order submitters are negative on average, and negatively correlated with the effective spread. Reducing the tick size is not Pareto improving but increases total investor surplus.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00795.x"
+        },
+        {
+            "no": "3",
+            "title": "The Optimal Concentration of Creditors",
+            "date": "16 September 2005",
+            "author": [
+                "ARTURO BRIS",
+                "IVO WELCH"
+            ],
+            "abstract": "Our model assumes that creditors need to expend resources to collect on claims. Consequently, because diffuse creditors suffer from mutual free\u2010riding (Holmstrom (1982)), they fare worse than concentrated creditors (e.g., a house bank). The model predicts that measures of debt concentration relate positively to creditors' (aggregate) debt collection expenditures and positively to management's chosen expenditures to resist paying. However, collection activity is purely redistributive, so social waste is larger when creditors are concentrated. If borrower quality is not known, the best firms choose the most concentrated creditors and pay higher expected yields.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00796.x"
+        },
+        {
+            "no": "4",
+            "title": "Corporate Yield Spreads: Default Risk or Liquidity? New Evidence from the Credit Default Swap Market",
+            "date": "16 September 2005",
+            "author": [
+                "FRANCIS A. LONGSTAFF",
+                "SANJAY MITHAL",
+                "ERIC NEIS"
+            ],
+            "abstract": "We use the information in credit default swaps to obtain direct measures of the size of the default and nondefault components in corporate spreads. We find that the majority of the corporate spread is due to default risk. This result holds for all rating categories and is robust to the definition of the riskless curve. We also find that the nondefault component is time varying and strongly related to measures of bond\u2010specific illiquidity as well as to macroeconomic measures of bond market liquidity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00797.x"
+        },
+        {
+            "no": "5",
+            "title": "An Empirical Analysis of the Dynamic Relation between Investment\u2010Grade Bonds and Credit Default Swaps",
+            "date": "16 September 2005",
+            "author": [
+                "ROBERTO BLANCO",
+                "SIMON BRENNAN",
+                "IAN W. MARSH"
+            ],
+            "abstract": "We test the theoretical equivalence of credit default swap (CDS) prices and credit spreads derived by Duffie (1999), finding support for the parity relation as an equilibrium condition. We also find two forms of deviation from parity. First, for three firms, CDS prices are substantially higher than credit spreads for long periods of time, arising from combinations of imperfections in the contract specification of CDSs and measurement errors in computing the credit spread. Second, we find short\u2010lived deviations from parity for all other companies due to a lead for CDS prices over credit spreads in the price discovery process.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00798.x"
+        },
+        {
+            "no": "6",
+            "title": "Stochastic Convenience Yield Implied from Commodity Futures and Interest Rates",
+            "date": "16 September 2005",
+            "author": [
+                "JAIME CASASSUS",
+                "PIERRE COLLIN\u2010DUFRESNE"
+            ],
+            "abstract": "We characterize a three\u2010factor model of commodity spot prices, convenience yields, and interest rates, which nests many existing specifications. The model allows convenience yields to depend on spot prices and interest rates. It also allows for time\u2010varying risk premia. Both may induce mean reversion in spot prices, albeit with very different economic implications. Empirical results show strong evidence for spot\u2010price level dependence in convenience yields for crude oil and copper, which implies mean reversion in prices under the risk\u2010neutral measure. Silver, gold, and copper exhibit time variation in risk premia that implies mean reversion of prices under the physical measure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00799.x"
+        },
+        {
+            "no": "7",
+            "title": "Managerial Stock Ownership and the Maturity Structure of Corporate Debt",
+            "date": "16 September 2005",
+            "author": [
+                "SUDIP DATTA",
+                "MAI ISKANDAR\u2010DATTA",
+                "KARTIK RAMAN"
+            ],
+            "abstract": "This study documents that managerial stock ownership plays an important role in determining corporate debt maturity. Controlling for previously identified determinants of debt maturity and modeling leverage and debt maturity as jointly endogenous, we document a significant and robust inverse relation between managerial stock ownership and corporate debt maturity. We also show that managerial stock ownership influences the relation between credit quality and debt maturity and between growth opportunities and debt maturity.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00800.x"
+        },
+        {
+            "no": "8",
+            "title": "Trends in Corporate Governance",
+            "date": "16 September 2005",
+            "author": [
+                "BENJAMIN E. HERMALIN"
+            ],
+            "abstract": "The popular press and scholarly studies have noted a number of trends in corporate governance. This article addresses, from a theoretical perspective, whether these trends are linked. And, if so, how? The article finds that a trend toward greater board diligence will lead, sometimes through subtle or indirect mechanisms, to trends toward more external candidates becoming CEO, shorter tenures for CEOs, more effort/less perquisite consumption by CEOs (even though such behavior is not directly monitored), and greater CEO compensation. An additional prediction is that, under plausible conditions, externally hired CEOs should have shorter tenures, on average, than internally hired CEOs.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00801.x"
+        },
+        {
+            "no": "9",
+            "title": "Methods of Payment in Asset Sales: Contracting with Equity versus Cash",
+            "date": "16 September 2005",
+            "author": [
+                "MYRON B. SLOVIN",
+                "MARIE E. SUSHKA",
+                "JOHN A. POLONCHEK"
+            ],
+            "abstract": "We analyze intercorporate asset sales where equity is the means of payment, and compare the results to cash asset sales. Equity deals are value\u2010enhancing for both buyers, 10%, and sellers, 3%, while cash sales generate seller returns of 1.9% and buyer returns that are not significant. Combined wealth gains are large for equity deals, but modest for cash deals. Equity\u2010based asset sales are not a precursor to consolidations between buyers and sellers, and do not affect buyer openness to the takeover market. We conclude that the use of buyer equity conveys favorable information about the value of assets and buyers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00802.x"
+        },
+        {
+            "no": "10",
+            "title": "Vested Interest and Biased Price Estimates: Evidence from an Auction Market",
+            "date": "16 September 2005",
+            "author": [
+                "JIANPING MEI",
+                "MICHAEL MOSES"
+            ],
+            "abstract": "This study employs a new data set from art auctions to examine the relationship between auctioneer presale price estimates and the long\u2010term performance of artworks. We find that the price estimates for expensive paintings have a consistent upward bias over a long period of 30 years. High estimates at the time of purchase are associated with adverse subsequent abnormal returns. Moreover, the estimation error for individual paintings tends to persist over time. These results are consistent with the view that auction house price estimates are affected by agency problems and that some investors are credulous.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00803.x"
+        },
+        {
+            "no": "11",
+            "title": "Wanna Dance? How Firms and Underwriters Choose Each Other",
+            "date": "16 September 2005",
+            "author": [
+                "CHITRU S. FERNANDO",
+                "VLADIMIR A. GATCHEV",
+                "PAUL A. SPINDT"
+            ],
+            "abstract": "We develop and test a theory explaining the equilibrium matching of issuers and underwriters. We assume that issuers and underwriters associate by mutual choice, and that underwriter ability and issuer quality are complementary. Our model implies that matching is positive assortative, and that matches are based on firms' and underwriters' relative characteristics at the time of issuance. The model predicts that the market share of top underwriters and their average issue quality varies inversely with issuance volume. Various cross\u2010sectional patterns in underwriting spreads are consistent with equilibrium matching. We find strong empirical confirmation of our theory.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00804.x"
+        },
+        {
+            "no": "12",
+            "title": "Arbitraging Arbitrageurs",
+            "date": "16 September 2005",
+            "author": [
+                "MUKARRAM ATTARI",
+                "ANTONIO S. MELLO",
+                "MARTIN E. RUCKES"
+            ],
+            "abstract": "This paper develops a theory of strategic trading in markets with large arbitrageurs. If arbitrageurs are not well capitalized, capital constraints make their trades predictable. Other market participants can exploit this by trading against them. Competitors may find it optimal to lend to arbitrageurs that are financially fragile; additional capital makes the arbitrageurs more viable, and lenders can reap profits from trading against them for a longer time. The strategic behavior of these market participants has implications for the functioning of financial markets. Strategic trading may produce significant price distortions, increase price manipulation, and trigger forced liquidations of large traders.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00805.x"
+        },
+        {
+            "no": "13",
+            "title": "Information and Control in Ventures and Alliances",
+            "date": "16 September 2005",
+            "author": [
+                "WOUTER DESSEIN"
+            ],
+            "abstract": "This paper develops a theory of control as a signal of congruence of objectives, and applies it to financial contracting between an investor and a privately informed entrepreneur. We show that formal investor control is (i) increasing in the information asymmetries ex ante, (ii) increasing in the uncertainty surrounding the venture ex post, (iii) decreasing in the entrepreneur's resources, and (iv) increasing in the entrepreneur's incentive conflict. In contrast, real investor control\u2014that is, actual investor interference\u2014is decreasing in information asymmetries. Control rights are further such that control shifts to the investor in bad states of nature.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00806.x"
+        },
+        {
+            "no": "14",
+            "title": "The Market Impact of Trends and Sequences in Performance: New Evidence",
+            "date": "16 September 2005",
+            "author": [
+                "GREGORY R. DURHAM",
+                "MICHAEL G. HERTZEL",
+                "J. SPENCER MARTIN"
+            ],
+            "abstract": "Bloomfield and Hales (2002) find strong evidence that experimental market subjects are influenced by trends and patterns in a manner supportive of the shifting regimes model of Barberis, Shleifer, and Vishny (1998). We subject the model to further empirical scrutiny using the football wagering market as our price laboratory. Sports betting markets have several advantages over traditional capital markets as an empirical setting, and commonalities with traditional markets allow for useful insights. We find scant evidence that investors behave in accordance with the model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00807.x"
+        },
+        {
+            "no": "15",
+            "title": "MISCELLANEA",
+            "date": "16 September 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00808.x"
+        },
+        {
+            "no": "16",
+            "title": "Back Matter",
+            "date": "16 September 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00809.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Aug 1994
-### Authors
+### Author
 - MichaelC. Jensen
 - JohnB. Long
 - WayneH. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. Does industrial structure explain the benefits of international diversification?
 ### Date
 - Aug 1994
-### Authors
+### Author
 - Steven L. Heston
 - K.Geert Rouwenhorst
 ### Abstract
@@ -41,7 +41,7 @@ We examine the influence of industrial structure on the cross-sectional volatili
 ## 4. Finite sample properties of the generalized method of moments in tests of conditional asset pricing models
 ### Date
 - Aug 1994
-### Authors
+### Author
 - Wayne E. Ferson
 - Stephen R. Foerster
 ### Abstract
@@ -52,7 +52,7 @@ We develop evidence on the finite sample properties of the Generalized Method of
 ## 5. Foreign ownership restrictions and stock prices in the Thai capital market
 ### Date
 - Aug 1994
-### Authors
+### Author
 - Warren Bailey
 - Julapa Jagtiani
 ### Abstract
@@ -63,7 +63,7 @@ We study the effects of barriers to capital flows using data from the Stock Exch
 ## 6. The nature of information conveyed by pure capital structure changes
 ### Date
 - Aug 1994
-### Authors
+### Author
 - Kshitij Shah
 ### Abstract
 This study investigates the information conveyed by intrafirm exchange offers. I find that leverage increases and leverage decreases convey qualitatively different information. Leverage-increasing offers appear to lower investors' assessment of risk of the firm's common stock, but do not appear to change their expectations of cash flows; leverage-decreasing offers appear to lower investors' expected cash flows, but do not appear to change their assessment of risk. The nature of changes in leverage, capital outlays, and dividends is also asymmetric. Further, I find that, for leverage-increasing offers, corporate control activity does not explain the information content or its asymmetry.
@@ -73,7 +73,7 @@ This study investigates the information conveyed by intrafirm exchange offers. I
 ## 7. Information, trading, and volatility
 ### Date
 - Aug 1994
-### Authors
+### Author
 - Charles M. Jones
 - Gautam Kaul
 - Marc L. Lipson

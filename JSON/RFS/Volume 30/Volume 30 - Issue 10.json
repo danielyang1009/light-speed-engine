@@ -1,0 +1,134 @@
+{
+    "journal": "RFS",
+    "volume": "30",
+    "issue": "10",
+    "date": "October 2017",
+    "page": "Pages 3337\u20133710",
+    "article": [
+        {
+            "no": "1",
+            "title": "Mortgages and Monetary Policy",
+            "date": "29 May 2017",
+            "author": [
+                "Carlos Garriga",
+                "Finn E. Kydland",
+                "Roman \u0160ustek"
+            ],
+            "abstract": "Mortgages are long-term loans with nominal payments. Consequently, in incomplete asset markets, monetary policy can affect housing investment and the economy through the cost of new mortgage borrowing and real payments on outstanding debt. These channels, distinct from the traditional real rate channel, are embedded in a general equilibrium model. The transmission mechanism is stronger under adjustable-rate mortgages compared with fixed-rate mortgages. Further, persistent monetary policy shocks affecting the level of the nominal yield curve have larger real effects compared with transitory shocks. Persistently higher inflation gradually benefits homeowners under FRMs, but hurts them immediately under ARMs.",
+            "link": "https://doi.org/10.1093/rfs/hhx043"
+        },
+        {
+            "no": "2",
+            "title": "The Strategic Underreporting of Bank Risk",
+            "date": "17 May 2017",
+            "author": [
+                "Taylor A. Begley",
+                "Amiyatosh Purnanandam",
+                "Kuncheng Zheng"
+            ],
+            "abstract": "We show that banks significantly underreport the risk in their trading book when they have lower equity capital. Specifically, a decrease in a bank\u2019s equity capital results in substantially more violations of its self-reported risk levels in the following quarter. Underreporting is especially frequent during the critical periods of high systemic risk and for banks with larger trading operations. We exploit a discontinuity in the expected benefit of underreporting present in Basel regulations to provide further support for a causal link between capital-saving incentives and underreporting. Overall, we show that banks\u2019 self-reported risk measures become least informative precisely when they matter the most.",
+            "link": "https://doi.org/10.1093/rfs/hhx036"
+        },
+        {
+            "no": "3",
+            "title": "Small Bank Comparative Advantages in Alleviating Financial Constraints and Providing Liquidity Insurance over Time",
+            "date": "03 May 2017",
+            "author": [
+                "Allen N. Berger",
+                "Christa H. S. Bouwman",
+                "Dasol Kim"
+            ],
+            "abstract": "We use novel monthly survey data from 1993 to 2012 on small business managerial perceptions of financial constraints and other conditions, matched with information on banks in their local markets. The data suggest that small banks have comparative advantages in alleviating these constraints. These advantages tend to be greater during adverse economic conditions and do not appear to decrease or increase secularly. Small banks also appear to have comparative advantages in providing liquidity insurance to small business customers of large banks experiencing liquidity shocks during financial crises. Our findings suggest a source of social costs from ongoing consolidation of the banking industry.",
+            "link": "https://doi.org/10.1093/rfs/hhx038"
+        },
+        {
+            "no": "4",
+            "title": "Loan Sales and Bank Liquidity Management: Evidence from a U.S. Credit Register",
+            "date": "13 March 2017",
+            "author": [
+                "Rustom M. Irani",
+                "Ralf R. Meisenzahl"
+            ],
+            "abstract": "We examine how banks use loan sales to manage liquidity during periods of marketwide stress and the associated spillovers to market prices. We track the dynamics of loan share ownership in the secondary market using data from a U.S. supervisory register of syndicated loans. Controlling for loan quality using loan-year fixed effects, we find that banks reliant on wholesale funding were more likely to exit syndicates through sales during 2007/08. This effect is stronger for banks dependent on short-term funding and holding fewer liquid securities. In addition, secondary market prices decrease significantly more for loans funded by liquidity-strained banks.",
+            "link": "https://doi.org/10.1093/rfs/hhx024"
+        },
+        {
+            "no": "5",
+            "title": "Nothing Special About Banks: Competition and Bank Lending in Britain, 1885\u20131925",
+            "date": "17 May 2017",
+            "author": [
+                "Fabio Braggion",
+                "Narly Dwarkasing",
+                "Lyndon Moore"
+            ],
+            "abstract": "We investigate the impact of increasing bank concentration on bank loan contracts in a lightly regulated environment that allows us to abstract from possible confounding effects of regulation and focus on the \u201cpure\u201d effects of competition on bank lending. We study over 30,000 British bank loans over the period 1885 to 1925. Borrowers in counties with high bank concentration received smaller loans and posted more collateral than borrowers in other counties. In high concentration counties, the quality of loan applicants improved, suggesting that banks restricted credit, not that the quality of loan applicants had worsened.",
+            "link": "https://doi.org/10.1093/rfs/hhx044"
+        },
+        {
+            "no": "6",
+            "title": "How Excessive Is Banks\u2019 Maturity Transformation?",
+            "date": "18 July 2017",
+            "author": [
+                "Anatoli Segura",
+                "Javier Suarez"
+            ],
+            "abstract": "We quantify the gains from regulating maturity transformation in a model of banks that finance long-term assets with nontradable debt. Banks choose the amount and maturity of their debt by trading off investors\u2019 preferences for short maturities with the risk of systemic crises. Pecuniary externalities make unregulated debt maturities inefficiently short. In calibrating the model to eurozone banking data for 2006, we find that lengthening the average maturity of wholesale debt from 2.8 to 3.3 months would produce welfare gains with a present value of euro 105 billion, while the lengthening induced by the NSFR would be too drastic.",
+            "link": "https://doi.org/10.1093/rfs/hhx054"
+        },
+        {
+            "no": "7",
+            "title": "Do Managers Give Hometown Labor an Edge?",
+            "date": "17 May 2017",
+            "author": [
+                "Scott E. Yonker"
+            ],
+            "abstract": "In line with the psychological theory of place attachments, managers favor hometown workers over others. Consistent with this prediction, I find that following periods of industry distress, establishments located near CEOs\u2019 childhood homes experience fewer employment and pay reductions and are less likely to be divested relative to other firm establishments. While it is not possible to directly test whether this employment bias destroys firm value, managers only implement these policies when governance is weak, suggesting that this favoritism is suboptimal. Together, these results provide direct evidence of employee favoritism and show that idiosyncratic manager styles impact corporate employment decisions.",
+            "link": "https://doi.org/10.1093/rfs/hhx030"
+        },
+        {
+            "no": "8",
+            "title": "Within-Firm Pay Inequality",
+            "date": "26 May 2017",
+            "author": [
+                "Holger M. Mueller",
+                "Paige P. Ouimet",
+                "Elena Simintzi"
+            ],
+            "abstract": "Financial regulators and investors have expressed concerns about high pay inequality within firms. Using a proprietary data set of public and private firms, this paper shows that firms with higher pay inequality\u2014relative wage differentials between top- and bottom-level jobs\u2014are larger and have higher valuations and stronger operating performance. Moreover, firms with higher pay inequality exhibit larger equity returns and greater earnings surprises, suggesting that pay inequality is not fully priced by the market. Our results support the notion that differences in pay inequality across firms are a reflection of differences in managerial talent.",
+            "link": "https://doi.org/10.1093/rfs/hhx032"
+        },
+        {
+            "no": "9",
+            "title": "Cash Holdings and Labor Heterogeneity: The Role of Skilled Labor",
+            "date": "19 May 2017",
+            "author": [
+                "Mohamed Ghaly",
+                "Viet Anh Dang",
+                "Konstantinos Stathopoulos"
+            ],
+            "abstract": "Firms differ in their dependence on skilled labor and face labor adjustment costs that increase with their workers\u2019 skill level. We show that firms with a higher share of skilled workers, and thus less flexibility to adjust their labor demand in response to cash flow shocks, hold more precautionary cash. The effect of labor skills on cash holdings is more pronounced for financially constrained firms and varies with exogenous differences in firing and hiring costs. We address endogeneity concerns by using subsamples of firms with reasonably similar characteristics, propensity score matching, and a quasi-experimental shock to labor markets.",
+            "link": "https://doi.org/10.1093/rfs/hhx045"
+        },
+        {
+            "no": "10",
+            "title": "Labor-Force Heterogeneity and Asset Prices: The Importance of Skilled Labor",
+            "date": "27 July 2017",
+            "author": [
+                "Frederico Belo",
+                "Jun Li",
+                "Xiaoji Lin",
+                "Xiaofei Zhao"
+            ],
+            "abstract": "Previous studies have identified a negative relation between firms\u2019 hiring rates and future stock returns in the cross-section. We document that this relation is significantly steeper in industries that rely relatively more on high-skill workers than low-skill workers. A long-short portfolio sorted on firm-level hiring rate earns an average annual return of 8.6% in high-skill industries, and only 0.9% in low-skill industries. Moreover, this pattern is not explained by the standard CAPM. These findings are consistent with a neoclassical model with labor force heterogeneity and labor market frictions if it is more costly to replace high-skill than low-skill workers.",
+            "link": "https://doi.org/10.1093/rfs/hhx070"
+        },
+        {
+            "no": "11",
+            "title": "Erratum",
+            "date": "17 August 2017",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhx090"
+        }
+    ]
+}

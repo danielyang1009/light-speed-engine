@@ -1,0 +1,228 @@
+{
+    "journal": "JF",
+    "volume": "53",
+    "issue": "1",
+    "date": "February 1998",
+    "page": "Pages: i-viii, 1-430, ix-xix",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "30 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00466.x"
+        },
+        {
+            "no": "2",
+            "title": "Smith Breeden Prizes for 1997",
+            "date": "30 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00467.x"
+        },
+        {
+            "no": "3",
+            "title": "Blocks, Liquidity, and Corporate Control",
+            "date": "17 December 2002",
+            "author": [
+                "Patrick Bolton",
+                "Ernst\u2010Ludwig Von Thadden"
+            ],
+            "abstract": "The paper develops a simple model of corporate ownership structure in which costs and benefits of ownership concentration are analyzed. The model compares the liquidity benefits obtained through dispersed corporate ownership with the benefits from efficient management control achieved by some degree of ownership concentration. The paper reexamines the free\u2010rider problem in corporate control in the presence of liquidity trading, derives predictions for the trade and pricing of blocks, and provides criteria for the optimal choice of ownership structure.",
+            "link": "https://doi.org/10.1111/0022-1082.15240"
+        },
+        {
+            "no": "4",
+            "title": "Why Do Companies Go Public? An Empirical Analysis",
+            "date": "17 December 2002",
+            "author": [
+                "Marco Pagano",
+                "Fabio Panetta",
+                "Luigi Zingales"
+            ],
+            "abstract": "Using a large database of private firms in Italy, we analyze the determinants of initial public offerings (IPOs) by comparing the ex ante and ex post characteristics of IPOs with those of private firms. The likelihood of an IPO is increasing in the company's size and the industry's market\u2010to\u2010book ratio. Companies appear to go public not to finance future investments and growth, but to rebalance their accounts after high investment and growth. IPOs are also followed by lower cost of credit and increased turnover in control.",
+            "link": "https://doi.org/10.1111/0022-1082.25448"
+        },
+        {
+            "no": "5",
+            "title": "Large Shareholders as Monitors: Is There a Trade\u2010Off between Liquidity and Control?",
+            "date": "17 December 2002",
+            "author": [
+                "Ernst Maug"
+            ],
+            "abstract": "This paper analyzes the incentives of large shareholders to monitor public corporations. We investigate the hypothesis that a liquid stock market reduces large shareholders' incentives to monitor because it allows them to sell their stocks more easily. Even though this is true, a liquid market also makes it less costly to hold larger stakes and easier to purchase additional shares. We show that this fact is important if monitoring is costly: market liquidity mitigates the problem that small shareholders free ride on the effort of the large shareholder. We find that liquid stock markets are beneficial because they make corporate governance more effective.",
+            "link": "https://doi.org/10.1111/0022-1082.35053"
+        },
+        {
+            "no": "6",
+            "title": "Ownership Structure, Speculation, and Shareholder Intervention",
+            "date": "17 December 2002",
+            "author": [
+                "Charles Kahn",
+                "Andrew Winton"
+            ],
+            "abstract": "An institution holding shares in a firm can use information about the firm both for trading (\u201cspeculation\u201d) and for deciding whether to intervene to improve firm performance. Intervention increases the value of the institution's existing shareholdings, but intervention only increases the institution's trading profits if it enhances the precision of the institution's information relative to that of uninformed traders. Thus, the ability to speculate can increase or decrease institutional intervention. We examine key factors that affect the intervention decision, the usefulness of \u201cshort\u2010swing\u201d provisions and restricted shares in encouraging institutional intervention, and implications for ownership structure across different firms.",
+            "link": "https://doi.org/10.1111/0022-1082.45483"
+        },
+        {
+            "no": "7",
+            "title": "Debt, Leases, Taxes, and the Endogeneity of Corporate Tax Status",
+            "date": "17 December 2002",
+            "author": [
+                "John R. Graham",
+                "Michael L. Lemmon",
+                "James S. Schallheim"
+            ],
+            "abstract": "We provide evidence that corporate tax status is endogenous to financing decisions, which induces a spurious relation between measures of financial policy and many commonly used tax proxies. Using a forward\u2010looking estimate of before\u2010financing corporate marginal tax rates, we document a negative relation between operating leases and tax rates, and a positive relation between debt levels and tax rates. This is the first unambiguous evidence supporting the hypothesis that low tax rate firms lease more, and have lower debt levels, than high tax rate firms.",
+            "link": "https://doi.org/10.1111/0022-1082.55404"
+        },
+        {
+            "no": "8",
+            "title": "Equity Carve\u2010Outs and Managerial Discretion",
+            "date": "17 December 2002",
+            "author": [
+                "Jeffrey W. Allen",
+                "John J. McConnell"
+            ],
+            "abstract": "This study proposes a managerial discretion hypothesis of equity carve\u2010outs in which managers value control over assets and are reluctant to carve out subsidiaries. Thus, managers undertake carve\u2010outs only when the firm is capital constrained. Consistent with this hypothesis, firms that carve out subsidiaries exhibit poor operating performance and high leverage prior to carve\u2010outs. Also consistent with this hypothesis, in carve\u2010outs wherein funds raised are used to pay down debt, the average excess stock return of + 6.63 percent is significantly greater than the average excess stock return of \u22120.01 percent for carve\u2010outs wherein funds are retained for investment purposes.",
+            "link": "https://doi.org/10.1111/0022-1082.65022"
+        },
+        {
+            "no": "9",
+            "title": "Real Rates, Expected Inflation, and Inflation Risk Premia",
+            "date": "17 December 2002",
+            "author": [
+                "Martin D. D. Evans"
+            ],
+            "abstract": "This paper studies the term structure of real rates, expected inflation, and inflation risk premia. The analysis is based on new estimates of the real term structure derived from the prices of index\u2010linked and nominal debt in the U.K. I find strong evidence to reject both the Fisher Hypothesis and versions of the Expectations Hypothesis for real rates. The estimates also imply the presence of time\u2010varying inflation risk premia throughout the term structure.",
+            "link": "https://doi.org/10.1111/0022-1082.75591"
+        },
+        {
+            "no": "10",
+            "title": "Deutsche Mark\u2013Dollar Volatility: Intraday Activity Patterns, Macroeconomic Announcements, and Longer Run Dependencies",
+            "date": "17 December 2002",
+            "author": [
+                "Torben G. Andersen",
+                "Tim Bollerslev"
+            ],
+            "abstract": "This paper provides a detailed characterization of the volatility in the deutsche mark\u2013dollar foreign exchange market using an annual sample of five\u2010minute returns. The approach captures the intraday activity patterns, the macroeconomic announcements, and the volatility persistence (ARCH) known from daily returns. The different features are separately quantified and shown to account for a substantial fraction of return variability, both at the intraday and daily level. The implications of the results for the interpretation of the fundamental \u201cdriving forces\u201d behind the volatility process is also discussed.",
+            "link": "https://doi.org/10.1111/0022-1082.85732"
+        },
+        {
+            "no": "11",
+            "title": "International Momentum Strategies",
+            "date": "17 December 2002",
+            "author": [
+                "K. Geert Rouwenhorst"
+            ],
+            "abstract": "International equity markets exhibit medium\u2010term return continuation. Between 1980 and 1995 an internationally diversified portfolio of past medium\u2010term Winners outperforms a portfolio of medium\u2010term Losers after correcting for risk by more than 1 percent per month. Return continuation is present in all twelve sample countries and lasts on average for about one year. Return continuation is negatively related to firm size, but is not limited to small firms. The international momentum returns are correlated with those of the United States which suggests that exposure to a common factor may drive the profitability of momentum strategies.",
+            "link": "https://doi.org/10.1111/0022-1082.95722"
+        },
+        {
+            "no": "12",
+            "title": "Underwriter Reputation, Initial Returns, and the Long\u2010Run Performance of IPO Stocks",
+            "date": "17 December 2002",
+            "author": [
+                "Richard B. Carter",
+                "Frederick H. Dark",
+                "Ajai K. Singh"
+            ],
+            "abstract": "We find that the underperformance of IPO stocks relative to the market over a three\u2010year holding period is less severe for IPOs handled by more prestigious underwriters. Consistent with prior studies, we also find that IPOs managed by more reputable underwriters are associated with less short\u2010run underpricing. Among the various existing proxies for underwriter reputation, the Carter\u2013Manaster measure is the most significant in the context of initial returns and also in the context of the three\u2010year performance of IPOs. The study also provides an updated list of the Carter\u2013Manaster measure for various underwriters.",
+            "link": "https://doi.org/10.1111/0022-1082.104624"
+        },
+        {
+            "no": "13",
+            "title": "Actual Share Reacquisitions in Open\u2010Market Repurchase Programs",
+            "date": "17 December 2002",
+            "author": [
+                "Clifford P. Stephens",
+                "Michael S. Weisbach"
+            ],
+            "abstract": "Unlike Dutch auction repurchases and tender offers, open\u2010market repurchase programs do not precommit firms to acquire a specified number of shares. In a sample of 450 programs from 1981 to 1990, firms on average acquire 74 to 82 percent of the shares announced as repurchase targets within three years of the repurchase announcement. We find that share repurchases are negatively related to prior stock price performance, suggesting that firms increase their purchasing depending on its degree of perceived undervaluation. In addition, repurchases are positively related to levels of cash flow, which is consistent with liquidity arguments.",
+            "link": "https://doi.org/10.1111/0022-1082.115194"
+        },
+        {
+            "no": "14",
+            "title": "Stock Splits: Evidence from Mutual Funds",
+            "date": "17 December 2002",
+            "author": [
+                "Michael S. Rozeff"
+            ],
+            "abstract": "Mutual fund splits occur in high\u2010priced funds after unusually high returns. Split factors are related to the deviation of a fund's price from the mean of all fund prices. Post\u2010split prices are below the mean of other funds' prices. Post\u2010split numbers of shareholders and assets do not increase compared with funds having similar rates of asset growth. However, I find evidence that mutual fund splits bring per account shareholdings back up to normal levels. I argue that signaling, liquidity, and tick size theories do not apply to mutual fund splits.",
+            "link": "https://doi.org/10.1111/0022-1082.125499"
+        },
+        {
+            "no": "15",
+            "title": "The Value of a Finance Journal Publication",
+            "date": "17 December 2002",
+            "author": [
+                "Steve Swidler",
+                "Elizabeth Goldreyer"
+            ],
+            "abstract": "The empirical analysis examines the salary and publication records of 311 finance professors at public research universities to calculate the worth of a top finance journal article. Within rank, salary regressions provide measures of the direct returns of a journal publication, while probit models consider the indirect returns that result from promotion. Ultimately, the analysis uses a reduced form salary equation to measure both the direct and indirect effects of publishing a journal article. Depending on professorial rank, the present value of the first top finance journal article is between $19,493 and $33,754, with the additional result of large returns to subsequent publications.",
+            "link": "https://doi.org/10.1111/0022-1082.135230"
+        },
+        {
+            "no": "16",
+            "title": "Around and Around: The Expectations Hypothesis",
+            "date": "17 December 2002",
+            "author": [
+                "Mark Fisher",
+                "Christian Gilles"
+            ],
+            "abstract": "We show how to construct models of the term structure of interest rates in which the expectations hypothesis holds. McCulloch (1993) presents such a model, thereby contradicting an assertion by Cox, Ingersoll, and Ross (1981), but his example is Gaussian and falls outside the class of finite\u2010dimensional Markovian models. We generalize McCulloch's model in three ways: (i) We provide an arbitrage\u2010free characterization of the unbiased expectations hypothesis in terms of forward rates; (ii) we extend this characterization to a whole class of expectations hypotheses; and (iii) we show how to construct finite\u2010dimensional Markovian and non\u2010Gaussian examples.",
+            "link": "https://doi.org/10.1111/0022-1082.145490"
+        },
+        {
+            "no": "17",
+            "title": "Informed Traders and Price Variations in the Betting Market for Professional Basketball Games",
+            "date": "17 December 2002",
+            "author": [
+                "John M. Gandar",
+                "William H. Dare",
+                "Craig R. Brown",
+                "Richard A. Zuber"
+            ],
+            "abstract": "This paper examines betting line changes from the opening to the closing of the point spread betting market on National Basketball Association games for evidence of informed trader betting. We show that within\u2010betting period line changes significantly improve the accuracy of betting lines as forecasts of game outcomes. We examine individual line change magnitudes and show that these are directly and proportionately related to biases in opening lines. Further, line changes are of sufficient magnitude to remove these biases by the close of betting. We interpret these results as evidence that informed traders are influential in this market.",
+            "link": "https://doi.org/10.1111/0022-1082.155346"
+        },
+        {
+            "no": "18",
+            "title": "Caveat Compounder: A Warning about Using the Daily CRSP Equal\u2010Weighted Index to Compute Long\u2010Run Excess Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Linda Canina",
+                "Roni Michaely",
+                "Richard Thaler",
+                "Kent Womack"
+            ],
+            "abstract": "This paper issues a warning that compounding daily returns of the Center for Research in Security Prices (CRSP) equal\u2010weighted index can lead to surprisingly large biases. The differences between the monthly returns compounded from the daily tapes and the monthly CRSP equal\u2010weighted indices is almost 0.43 percent per month, or 6 percent per year. This difference amounts to one\u2010third of the average monthly return, and is large enough to reverse the conclusions of a paper using the daily tape to compute the return on the benchmark portfolio. We also investigate the sources of these biases and suggest several alternative strategies to avoid them.",
+            "link": "https://doi.org/10.1111/0022-1082.165353"
+        },
+        {
+            "no": "19",
+            "title": "Book Reviews",
+            "date": "31 March 2007",
+            "author": [],
+            "abstract": "Keith Cuthbertson, Quantitative Financial Economics: Stocks, Bonds and Foreign Exchange\nSalih N. Neftci, An Introduction to the Mathematics of Financial Derivatives",
+            "link": "https://doi.org/10.1111/1540-6261.00017"
+        },
+        {
+            "no": "20",
+            "title": "MISCELLANEA",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "Articles Scheduled to Appear in the April 1998 Issue\nAssociation Meetings\nAnnouncements\nFrom the ExSec's Notebook\nSmith Breeden Prizes for 1997",
+            "link": "https://doi.org/10.1111/0022-1082.00018"
+        },
+        {
+            "no": "21",
+            "title": "Back Matter",
+            "date": "30 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00468.x"
+        }
+    ]
+}

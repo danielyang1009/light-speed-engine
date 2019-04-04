@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Apr 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Preface
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -33,7 +33,7 @@
 ## 4. The market for corporate control
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Michael C. Jensen
 - Richard S. Ruback
 ### Abstract
@@ -44,7 +44,7 @@ This paper reviews much of the scientific literature on the market for corporate
 ## 5. Merger bids, uncertainty, and stockholder returns
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Paul Asquith
 ### Abstract
 This study investigates the effect of merger bids on stock returns. Abnormal stock returns are examined throughout the entire merger process for both successful and unsuccessful merger bids. The evidence shows that increases in the probability of merger benefit the stockholders of target firms, and that decreases in the probability of merger harm the stockholders of both target and bidding firms. There is also evidence that the stock market forecasts probable merger targets in advance of any merger announcement, and because of this, previous studies have underestimated the market's reaction to merger bids.
@@ -54,7 +54,7 @@ This study investigates the effect of merger bids on stock returns. Abnormal sto
 ## 6. Evidence on the capitalized value of merger activity for acquiring firms
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Katherine Schipper
 - Rex Thompson
 ### Abstract
@@ -65,7 +65,7 @@ We measure the impact of acquisitions activity on firm value by differentiating 
 ## 7. The gains to bidding firms from merger
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Paul Asquith
 - Robert F. Bruner
 - David W. Mullins
@@ -77,7 +77,7 @@ This study examines the effect of mergers on the wealth of bidding firms' shareh
 ## 8. Assessing competition in the market for corporate acquisitions
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Richard S. Ruback
 ### Abstract
 Several studies of mergers and tender offers examine the changes in the value of ownership claims associated with corporate acquisitions and use the observed value changes to address the degree of competition in the market for corporate acquisitions. These studies conclude that the takeover market is competitive on the basis of the abnormal stock price changes of bidding firms, the time series behavior of the market value of target firms, and the proportion of gains that accrue to target and bidding firms. Unfortunately, none of these tests are sufficient to conclude that the takeover market is competitive. A competitive acquisition market implies that the potential gain to unsuccessful bidders at the successful offer price is nonpositive. This implication is tested using data on tender offers in which there are multiple bidders. The results appear to be consistent with competition in the market for corporate acquisitions.
@@ -87,7 +87,7 @@ Several studies of mergers and tender offers examine the changes in the value of
 ## 9. The wealth effect of merger activity and the objective functions of merging firms
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Paul H. Malatesta
 ### Abstract
 This paper studies the net effects of the long-run sequence of events leading to merger, and of merger per se, on shareholder wealth. The appropriate measure of the wealth effect is shown to be the abnormal dollar return cumulated over time. Using this measure, the long-run wealth effect of the event sequence culminating in merger is significantly negative for acquiring firms. For acquired firms, the effect is negative, but not significant. The immediate impact of merger per se is positive and highly significant for acquired firms but larger in absolute value, and negative for acquiring firms. The evidence also reveals that measured abnormal rates of return to acquiring firms are sensitive to a slight variation in model specification and dependent on firm size, with smaller firms earning significantly negative post-merger returns.
@@ -97,7 +97,7 @@ This paper studies the net effects of the long-run sequence of events leading to
 ## 10. The rationale behind interfirm tender offers
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Michael Bradley
 - Anand Desai
 - E.Han Kim
@@ -109,7 +109,7 @@ This paper investigates the rationale behind interfirm tender offers by examinin
 ## 11. The costs of antimerger lawsuits
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Peggy Wier
 ### Abstract
 This paper presents tests of the hypothesis that the relief imposed in antimerger cases is costly for defendant firms' stockholders. Previous research on this subject suggests that defendants' case-related losses are due entirely to legal expenses and the disruption of productive activity. In this paper it is shown that two out of five portfolios of defendant firms earn abnormal losses when final decisions in antimerger cases are announced. These losses are consistent with the imposition of costly constraints on some defendants by government antitrust enforcers. The tests also show that when acquisitions are canceled following antimerger complaints, the losses to the target firms are substantial and completely offset the gains generated when the acquisitions are proposed.
@@ -119,7 +119,7 @@ This paper presents tests of the hypothesis that the relief imposed in antimerge
 ## 12. Examining antitrust policy towards horizontal mergers
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Robert Stillman
 ### Abstract
 A horizontal merger must result in higher product prizes to consumers to be anticompetitive or socially inefficient. Higher product prices, however, imply increased profits for rivals to the merging firms. Therefore, if a horizontal merger is to reduce consumer welfare, rival firms must rise in value at the time of events increasing the probability of the merger and fall in value when the probability of the merger declines. this paper uses daily stock return data from a sample of rivals to 11 horizontal mergers attempted between 1964 and 1972 that were challenged by the antitrust enforcement agencies. The paper tests the hypothesis that, but for the government's action, these mergers would have resulted in higher product prices. On balance, the data favor the null hypothesis of no anticompetitive effect.
@@ -129,7 +129,7 @@ A horizontal merger must result in higher product prizes to consumers to be anti
 ## 13. Horizontal mergers, collusion, and stockholder wealth
 ### Date
 - Apr 1983
-### Authors
+### Author
 - B.Espen Eckbo
 ### Abstract
 This paper tests the hypothesis that horizontal mergers generate positive abnormal returns to stockholders of the bidder and target firms because they increase the probability of successful collusion among rival producers. Under the collusion hypothesis, rivals of the merging firms benefit from the merger since successful collusion limits output and raises product prices and/or lower factor prices. This proposition is tested on a large sample of horizontal mergers in mining and manufacturing industries, including mergers challenged by the government with violating antitrust laws, and a ‘control’ sample of vertical mergers taking place in the same industries. While we find that the antitrust law enforcement agencies systematically select relatively profitable mergers for prosecution, there is little evidence indicating that the mergers would have had collusive, anticompetitive effects.
@@ -139,7 +139,7 @@ This paper tests the hypothesis that horizontal mergers generate positive abnorm
 ## 14. Standstill agreements, privately negotiated stock repurchases, and the market for corporate control
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Larry Y. Dann
 - Harry DeAngelo
 ### Abstract
@@ -150,7 +150,7 @@ Standstill agreements are voluntary contracts which limit a substantial stockhol
 ## 15. The wealth effects of targeted share repurchases
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Michael Bradley
 - L.Macdonald Wakeman
 ### Abstract
@@ -161,7 +161,7 @@ This paper examines the wealth impact of share repurchases that restrict partici
 ## 16. Antitakeover charter amendments and stockholder wealth
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Harry DeAngelo
 - Edward M. Rice
 ### Abstract
@@ -172,7 +172,7 @@ Many large corporations have recently adopted antitakeover charter amendments wh
 ## 17. An empirical investigation of the impact of ‘antitakeover’ amendments on common stock prices
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Scott C. Linn
 - John J. McConnell
 ### Abstract
@@ -183,7 +183,7 @@ Many large corporations have recently adopted antitakeover charter amendments wh
 ## 18. On corporate governance
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Peter Dodd
 - Jerold B. Warner
 ### Abstract
@@ -194,7 +194,7 @@ This paper examines a sample of firms experiencing proxy contests for seats on t
 ## 19. The market value of control in publicly-traded corporations
 ### Date
 - Apr 1983
-### Authors
+### Author
 - Ronald C. Lease
 - John J. McConnell
 - Wayne H. Mikkelson
@@ -206,7 +206,7 @@ This paper tests the hypothesis that the future distribution of payoffs provided
 ## 20. Editorial collaborators
 ### Date
 - Apr 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -215,7 +215,7 @@ This paper tests the hypothesis that the future distribution of payoffs provided
 ## 21. Index
 ### Date
 - Apr 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link

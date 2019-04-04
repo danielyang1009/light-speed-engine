@@ -1,0 +1,118 @@
+# RFS, Volume 22, Issue 6
+- June 2009
+- Pages 2133–2455
+
+## 1. Big Business Owners in Politics
+### Date
+- 08 September 2008
+### Author
+- Pramuan Bunkanwanicha
+- Yupana Wiwattanakantang
+### Abstract
+This paper investigates a little studied but common mechanism that firms use to obtain state favors: business owners themselves seeking election to top office. Using Thailand as a research setting, we find that the more business owners rely on government concessions or the wealthier they are, the more likely they are to run for top office. Once in power, the market valuation of their firms increases dramatically. Surprisingly, the political power does not influence the financing strategies of their firms. Instead, business owners in top offices use their policy-decision powers to implement regulations and public policies favorable to their firms. Such policies hinder not only domestic competitors but also foreign investors. As a result, these politically connected firms are able to capture more market share.
+### Link
+- https://doi.org/10.1093/rfs/hhn083
+
+## 2. The Economics of Fraudulent Accounting
+### Date
+- 17 March 2007
+### Author
+- Simi Kedia
+- Thomas Philippon
+### Abstract
+We argue that earnings management and fraudulent accounting have important economic consequences. In a model where the costs of earnings management are endogenous, we show that in equilibrium, low-productivity firms hire and invest too much in order to pool with high productivity firms. This behavior distorts the allocation of economic resources in the economy. We test the predictions of the model using firm-level data. We show that during periods of suspicious accounting, firms hire and invest excessively, while managers exercise options. When the misreporting is detected, firms shed labor and capital and productivity improves. Our firm-level results hold both before and after the market crash of 2000. In the aggregate, our model provides a novel explanation for periods of jobless and investment-less growth.
+### Link
+- https://doi.org/10.1093/rfs/hhm016
+
+## 3. Market Liquidity and Funding Liquidity
+### Date
+- 26 November 2008
+### Author
+- Markus K. Brunnermeier
+- Lasse Heje Pedersen
+### Abstract
+We provide a model that links an asset's market liquidity (i.e., the ease with which it is traded) and traders' funding liquidity (i.e., the ease with which they can obtain funding). Traders provide market liquidity, and their ability to do so depends on their availability of funding. Conversely, traders' funding, i.e., their capital and margin requirements, depends on the assets' market liquidity. We show that, under certain conditions, margins are destabilizing and market liquidity and funding liquidity are mutually reinforcing, leading to liquidity spirals. The model explains the empirically documented features that market liquidity (i) can suddenly dry up, (ii) has commonality across securities, (iii) is related to volatility, (iv) is subject to “flight to quality,” and (v) co-moves with the market. The model provides new testable predictions, including that speculators' capital is a driver of market liquidity and risk premiums.
+### Link
+- https://doi.org/10.1093/rfs/hhn098
+
+## 4. Asset Returns and the Listing Choice of Firms
+### Date
+- 25 October 2006
+### Author
+- Shmuel Baruch
+- Gideon Saar
+### Abstract
+We propose a mechanism that relates asset returns to the firm's optimal listing choice. We use a theoretical model to show that a stock will be more liquid when it is listed on a market where “similar” securities are traded. We empirically examine the implications of our model using New York Stock Exchange (NYSE) and Nasdaq securities. We find that the return patterns of stocks that switch markets become more similar to the return patterns of securities listed on the new market prior to the switch. Stocks that are eligible to switch but stay put are more similar to securities listed on their market than to securities listed on the other market. Our results suggest that managers make listing decisions that enhance the liquidity of their firms' stocks.
+### Link
+- https://doi.org/10.1093/rfs/hhl043
+
+## 5. How Noise Trading Affects Markets: An Experimental Analysis
+### Date
+- 26 January 2009
+### Author
+- Robert Bloomfield
+- Maureen O’Hara
+- Gideon Saar
+### Abstract
+We use a laboratory market to investigate the behavior of traders who lack informational advantages and have no exogenous reason to trade. We find that these uninformed traders behave largely as irrational contrarian “noise traders,” trading against recent price movements to their own detriment. The uninformed traders provide some benefits to the market: increasing market volume and depth, while reducing bid-ask spreads and the temporary price impact of trades. However, their noise trading also diminishes the ability of market prices to adjust to new information. A securities transaction tax reduces uninformed trader activity, but it reduces informed trader activity by approximately the same amount; as a result, the tax does not alter the impact of noise trading on the informational efficiency of the market.
+### Link
+- https://doi.org/10.1093/rfs/hhn102
+
+## 6. The Effect of Introducing a Non-Redundant Derivative on the Volatility of Stock-Market Returns When Agents Differ in Risk Aversion
+### Date
+- 11 December 2007
+### Author
+- Harjoat S. Bhamra
+- Raman Uppal
+### Abstract
+We study the effect of introducing a nonredundant derivative on the volatilities of the stock market return and the locally risk-free interest rate. Our analysis uses a standard, frictionless, full-information, dynamic, continuous-time, general-equilibrium, Lucas endowment economy in which there are two classes of agents who have time-additive power utility functions and differ only in their risk aversion. Our main result is to show analytically that if the intensity of the precautionary demand for savings is not too high, then the introduction of a nonredundant derivative increases the volatility of stock market returns. Furthermore, in the economy with the derivative, the volatility of stock market returns can be substantially greater than that of aggregate dividend growth (fundamental volatility). We also show that the volatility of the locally risk-free interest rate increases with the introduction of the derivative.
+### Link
+- https://doi.org/10.1093/rfs/hhm076
+
+## 7. Do Politically Connected Boards Affect Firm Value?
+### Date
+- 02 October 2008
+### Author
+- Eitan Goldman
+- Jörg Rocholl
+- Jongil So
+### Abstract
+This article explores whether political connections are important in the United States. The article uses an original hand-collected data set on the political connections of board members of S&P 500 companies to sort companies into those connected to the Republican Party and those connected to the Democratic Party. The analysis shows a positive abnormal stock return following the announcement of the nomination of a politically connected individual to the board. This article also analyzes the stock-price response to the Republican win of the 2000 presidential election and finds that companies connected to the Republican Party increase in value, and companies connected to the Democratic Party decrease in value.
+### Link
+- https://doi.org/10.1093/rfs/hhn088
+
+## 8. Investment, Financing Constraints, and Internal Capital Markets: Evidence from the Advertising Expenditures of Multinational Firms
+### Date
+- 06 June 2008
+### Author
+- C. Edward Fee
+- Charles J. Hadlock
+- Joshua R. Pierce
+### Abstract
+We find a significant positive relation between a firm's advertising spending in the United States and its contemporaneous foreign cash flow. This relation holds even after controlling for factors that should be related to the optimal level of domestic advertising, and it is stronger for subsets of firms that we expect to be relatively more financially constrained. Our evidence supports the hypothesis that there is a causal and economically substantial link between cash flow and investment spending, even for intangible investments such as advertising. Our evidence also suggests that firms have active internal capital markets in which capital is moved across geographic regions.
+### Link
+- https://doi.org/10.1093/rfs/hhn059
+
+## 9. The Long-Term Effects of Cross-Listing, Investor Recognition, and Ownership Structure on Valuation
+### Date
+- 13 May 2008
+### Author
+- Michael R. King
+- Dan Segal
+### Abstract
+We show that investor recognition and bonding associated with a U.S. cross-listing are distinct effects using a sample of Canadian firms. In contrast to the post-listing decline documented in the literature, we find that cross-listed firms with a single class of shares enjoy a permanent increase in valuation if they attract and maintain investor recognition over time. Valuations of firms that fail to widen their U.S. shareholder base return to pre-listing levels within two years. Cross-listed firms with dual-class shares exhibit a permanent increase in valuation regardless of the level of U.S. investor holdings, consistent with firm-level bonding.
+### Link
+- https://doi.org/10.1093/rfs/hhn050
+
+## 10. Dividends and Corporate Shareholders
+### Date
+- 21 June 2008
+### Author
+- Michael J. Barclay
+- Clifford G. Holderness
+- Dennis P. Sheehan
+### Abstract
+Corporations uniquely have a tax preference for cash dividends. Nevertheless, dividends do not increase following trades of large-percentage blocks of stock from individuals to corporations. Moreover, although one-third of firms have corporate blockholders, 68% of these firms pay no dividends, and ownership is not clustered at levels that increase the tax benefits of dividends. These findings are not driven by the investing firms’ tax rates or by agency problems. Instead, operating companies expand the target firms and pursue joint ventures. Dividends are lower with these investors. Financial investors are not attracted to dividend-paying firms and tend to be passive.
+### Link
+- https://doi.org/10.1093/rfs/hhn060
+

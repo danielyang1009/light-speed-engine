@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Deflating profitability
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Ray Ball
 - Joseph Gerakos
 - Juhani T. Linnainmaa
@@ -27,7 +27,7 @@ Gross profit scaled by book value of total assets predicts the cross section of 
 ## 3. Are institutions informed about news?
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Terrence Hendershott
 - Dmitry Livdan
 - Norman Schürhoff
@@ -39,7 +39,7 @@ This paper combines daily buy and sell institutional trading volume with all new
 ## 4. House prices, collateral, and self-employment
 ### Date
 - Mar 2015
-### Authors
+### Author
 - Manuel Adelino
 - Antoinette Schoar
 - Felipe Severino
@@ -51,7 +51,7 @@ We show the importance of the collateral lending channel for small business empl
 ## 5. The bonding hypothesis of takeover defenses: Evidence from IPO firms
 ### Date
 - Mar 2015
-### Authors
+### Author
 - William C. Johnson
 - Jonathan M. Karpoff
 - Sangho Yi
@@ -63,7 +63,7 @@ We propose and test an efficiency explanation for why firms deploy takeover defe
 ## 6. Value versus growth investing: Why do different investors have different styles?
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Henrik Cronqvist
 - Stephan Siegel
 - Frank Yu
@@ -75,7 +75,7 @@ We find that several factors explain an individual investor׳s style, i.e., the 
 ## 7. The illiquidity premium: International evidence
 ### Date
 - Apr 2015
-### Authors
+### Author
 - Yakov Amihud
 - Allaudeen Hameed
 - Wenjin Kang
@@ -88,7 +88,7 @@ We examine the illiquidity premium in stock markets across 45 countries and pres
 ## 8. Good and bad uncertainty: Macroeconomic and financial market implications
 ### Date
 - May 2015
-### Authors
+### Author
 - Gill Segal
 - Ivan Shaliastovich
 - Amir Yaron
@@ -100,7 +100,7 @@ Does macroeconomic uncertainty increase or decrease aggregate growth and asset p
 ## 9. Signal or noise? Uncertainty and learning about whether other traders are informed
 ### Date
 - May 2015
-### Authors
+### Author
 - Snehal Banerjee
 - Brett Green
 ### Abstract
@@ -111,7 +111,7 @@ We develop a model where some investors are uncertain whether others are trading
 ## 10. Costs and benefits of friendly boards during mergers and acquisitions
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Breno Schmidt
 ### Abstract
 Finance theory predicts that board independence is not always in the shareholders׳ interest. in situations in which board advice is more important than monitoring, independence can decrease firm value. I test this prediction by examining the connection between takeover returns and board friendliness, using social ties between the CEO and board members as a proxy for less independent boards. I find that social ties are associated with higher bidder announcement returns when the potential value of board advice is high, but with lower returns when monitoring needs are high. The evidence suggests that friendly boards can have both costs and benefits, depending on the company׳s specific needs.

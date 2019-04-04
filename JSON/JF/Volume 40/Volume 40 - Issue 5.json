@@ -1,0 +1,251 @@
+{
+    "journal": "JF",
+    "volume": "40",
+    "issue": "5",
+    "date": "December 1985",
+    "page": "Pages: i-vi, 1263-1528, ix-xlviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb00558.x"
+        },
+        {
+            "no": "2",
+            "title": "A Sequential Signalling Model of Convertible Debt Call Policy",
+            "date": "December 1985",
+            "author": [
+                "MILTON HARRIS",
+                "ARTUR RAVIV"
+            ],
+            "abstract": "In this paper we attempt to resolve two puzzles concerning convertible debt calls. The first is that although it has been shown that conversion of these bonds should optimally be forced as soon as this is feasible, actual calls are significantly delayed relative to this prescription. The second is that common stock returns are significantly negative around the announcement of the call of a convertible debt issue. Our purpose is to simultaneously rationalize managers' observed call decisions and the market's reaction to them in a framework in which managers behave optimally given their private information, compensation schemes, and investors' reactions to their call decisions. Moreover, investors' reactions are rational in the sense of Bayes' rule given managers' call policy. In equilibrium, a decision to call is (correctly) perceived by the market as a signal of unfavorable private information. In addition to rationalizing observed call delays and negative stock returns at call announcement, several other testable implications are derived.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02382.x"
+        },
+        {
+            "no": "3",
+            "title": "Option Pricing and Replication with Transactions Costs",
+            "date": "December 1985",
+            "author": [
+                "HAYNE E. LELAND"
+            ],
+            "abstract": "Transactions costs invalidate the Black\u2010Scholes arbitrage argument for option pricing, since continuous revision implies infinite trading. Discrete revision using Black\u2010Scholes deltas generates errors which are correlated with the market, and do not approach zero with more frequent revision when transactions costs are included. This paper develops a modified option replicating strategy which depends on the size of transactions costs and the frequency of revision. Hedging errors are uncorrelated with the market and approach zero with more frequent revision. The technique permits calculation of the transactions costs of option replication and provides bounds on option prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02383.x"
+        },
+        {
+            "no": "4",
+            "title": "Options on the Spot and Options on Futures",
+            "date": "December 1985",
+            "author": [
+                "MENACHEM BRENNER",
+                "GEORGES COURTADON",
+                "MARTI SUBRAHMANYAM"
+            ],
+            "abstract": "This paper analyzes and compares the valuation of two types of options that relate to the same asset: options on the asset itself and options on the futures on the asset. The early exercise privilege plays a central role in explaining the differences between the values of the two options. It is shown that in the case of a cash instrument that does not make interim payments, such as gold, the value of a call option on the spot is smaller than the call option on the futures contract; the opposite is true for put options. The early exercise boundaries, which characterize when it pays to exercise, are also compared and analyzed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02384.x"
+        },
+        {
+            "no": "5",
+            "title": "The Valuation of Options on Futures Contracts",
+            "date": "December 1985",
+            "author": [
+                "KRISHNA RAMASWAMY",
+                "SURESH M. SUNDARESAN"
+            ],
+            "abstract": "Rational restrictions are derived for the values of American options on futures contracts. For these options, the optimal policy, in general, involves premature exercise. A model is developed for valuing options on futures contracts in a constant interest rate setting. Despite the fact that premature exercise may be optimal, the value of this American feature appears to be small and a European formula due to Black serves as a useful approximation. Finally, a model is developed to value these options in a world with stochastic interest rates. It is shown that the pricing errors caused by ignoring the location of the interest rate (relative to its long\u2010run mean) range from \u22125% to 7%, when the current rate is \u00b1200 basis points from its long\u2010run value. The role of interest rate expectations is, therefore, crucial to the valuation. Optimal exercise policies are found from numerical methods for both models.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02385.x"
+        },
+        {
+            "no": "6",
+            "title": "On the Optimality of Portfolio Insurance",
+            "date": "December 1985",
+            "author": [
+                "SIMON BENNINGA",
+                "MARSHALL BLUME"
+            ],
+            "abstract": "This paper examines the optimality of an insurance strategy in which an investor buys a risky asset and a put on that asset. The put's striking price serves as the insurance level. In complete markets, it is highly unlikely that an investor would utilize such a strategy. However, in some types of less complete markets, an investor may wish to purchase a put on the risky asset. Given only a risky asset, a put, and noncontinuous trading, an investor would purchase a put as a way of introducing a risk\u2010free asset into the portfolio. If, in addition, there is a risk\u2010free asset and the investor's utility function displays constant proportional risk\u2010aversion, then the investor would buy the risk\u2010free asset directly and not buy a put. In sum, only under the most incomplete markets would an investor find an insurance strategy optimal.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02386.x"
+        },
+        {
+            "no": "7",
+            "title": "Dispersion of Financial Analysts' Earnings Forecasts and the (Option Model) Implied Standard Deviations of Stock Returns",
+            "date": "December 1985",
+            "author": [
+                "BIPIN B. AJINKYA",
+                "MICHAEL J. GIFT"
+            ],
+            "abstract": "This study examines whether the information implied by simultaneous levels of option and stock prices (specifically, the implied standard deviation of returns) reflects other contemporaneously available information. The independent contemporaneous measure considered is the observed dispersion (across several financial analysts), at a point in time, in the forecasts of earnings per share for a given firm. The results indicate that implied standard deviations clearly reflect the contemporaneous dispersion in analysts' forecasts incrementally, i.e., beyond the information contained in the historical time series of returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02387.x"
+        },
+        {
+            "no": "8",
+            "title": "Approximate Factor Structures: Interpretations and Implications for Empirical Tests",
+            "date": "December 1985",
+            "author": [
+                "MARK GRINBLATT",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "This paper provides some new insights about approximate factor structures, as defined by Chamberlain and Rothschild [2], and their implications for empirical tests. First, we show that any economy that satisfies an approximate factor structure can be transformed, in a manner that does not alter the characteristics of investor portfolios, into an economy that satisfies an exact factor structure, as defined by Ross [9]. Second, we show that principal components analysis represents just one of many methods of forming groups of well\u2010diversified portfolios with no idiosyncratic risk in large samples. Correct factor loadings will be obtained by regressing security returns on any group of these portfolios. Our interpretations of the Chamberlain and Rothschild results also provide additional insights into the testability of the Arbitrage Pricing Theory. We show that securities cannot be repackaged to hide factors in the manner suggested by Shanken [10] without the variance of some of the repackaged securities approaching infinity in large economies.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02388.x"
+        },
+        {
+            "no": "9",
+            "title": "A VARMA Analysis of the Causal Relations Among Stock Returns, Real Output, and Nominal Interest Rates",
+            "date": "December 1985",
+            "author": [
+                "CHRISTOPHER JAMES",
+                "SERGIO KOREISHA",
+                "MEGAN PARTCH"
+            ],
+            "abstract": "Previous research has documented a negative relation between common stock returns and inflation. Recently, Fama 3 and Geske and Roll 6 have argued that this relation results from a more fundamental one between real activity and expected inflation. Stock returns, they argue, signal changes in real activity, which in turn affect expected inflation. However, unlike Fama, Geske and Roll argue that changes in real activity result in changes in money supply growth, which in turn affect expected inflation. Empirical tests have analyzed separately each link in the proposed causal chain. In this article, we investigate simultaneously the relations among stock returns, real activity, inflation, and money supply changes using a vector autoregressive moving average (VARMA) model. Our empirical results strongly support Geske and Roll's reversed causality model.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02389.x"
+        },
+        {
+            "no": "10",
+            "title": "The Rule 415 Experiment: Equity Markets",
+            "date": "December 1985",
+            "author": [
+                "SANJAI BHAGAT",
+                "M. WAYNE MARR",
+                "G. RODNEY THOMPSON"
+            ],
+            "abstract": "Rule 415 allows a firm to register all the securities it reasonably expects to sell over the next two years and then, at the management's option, to sell those securities over these two years whenever it chooses. This paper examines whether equity offerings made under Rule 415 (shelf offerings) differ in issuing costs from equity offerings not sold under this rule. We find that shelf offerings cost 13% less for syndicated issues and 51% less for nonsyndicated issues. We also investigate the empirical relevance of the market overhang argument which suggests that shelf registrations depress the price of the registering firm's shares more than traditional registrations. Our data does not support the market overhang argument.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02390.x"
+        },
+        {
+            "no": "11",
+            "title": "Moral Hazard and Information Sharing: A Model of Financial Information Gathering Agencies",
+            "date": "December 1985",
+            "author": [
+                "MARCIA H. MILLON",
+                "ANJAN V. THAKOR"
+            ],
+            "abstract": "We propose a theory of information gathering agencies in a world of informational asymmetries and moral hazard. In a setting in which true firm values are certified by screening agents whose payoffs depend on noisy ex post monitors of information quality, the formation of information gathering agencies (groups of screening agents) is justified on two grounds. First, it enables screening agents to diversify their risky payoffs. Second, it allows information sharing. The first effect itself is insufficient despite the risk aversion of screening agents and the stochastic independence of the monitors used to compensate them.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02391.x"
+        },
+        {
+            "no": "12",
+            "title": "On the Relevance of Debt Maturity Structure",
+            "date": "December 1985",
+            "author": [
+                "IVAN E. BRICK",
+                "S. ABRAHAM RAVID"
+            ],
+            "abstract": "In this paper, we present a tax\u2010induced framework to analyze debt maturity problems. We show that under some modifications of the existing U.S. tax code, debt maturity is irrelevant even in the presence of taxes and bankruptcy costs that yield an optimal capital structure. If this restrictive structure is relaxed, and assuming the Miller [15] equilibrium does not prevail, tax reasons would usually imply the existence of an optimal debt maturity structure. If there exists a gain from leverage, then an increasing term structure of interest rates, adjusted for default risk, results in long\u2010term debt being optimal. A decreasing term structure, under similar circumstances, renders short\u2010term debt optimal. In the absence of agency costs, a Miller [15]\u2010type result emerges at equilibrium and irrelevance prevails. We also argue that agency costs could again reverse the irrelevance and imply a firm\u2010specific optimal debt maturity structure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02392.x"
+        },
+        {
+            "no": "13",
+            "title": "A Model for the Determination of \u201cFair\u201d Premiums on Lease Cancellation Insurance Policies",
+            "date": "December 1985",
+            "author": [
+                "JAMES S. SCHALLHEIM",
+                "JOHN J. McCONNELL"
+            ],
+            "abstract": "Lease cancellation insurance protects the lessor against early termination of a cancellable operating lease. This paper presents a contingent claims model for determining the \u201cfair\u201d premium for this type of insurance policy. Comparative statics are considered, and some numerical examples are presented to illustrate the model. Among other things, the insurance premium is sensitive to the expected rate of economic depreciation of the leased asset and to the leased asset's systematic and nonsystematic risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02393.x"
+        },
+        {
+            "no": "14",
+            "title": "The Puzzle of Financial Leverage Clienteles",
+            "date": "December 1985",
+            "author": [
+                "ODED SARIG",
+                "JAMES SCOTT"
+            ],
+            "abstract": "Empirically, it appears that common stock of publicly traded corporations with high\u2010debt ratios tends to be held by investors with relatively low marginal taxes while the stock in companies with little debt is held by investors in high\u2010tax brackets. A number of authors have argued that in an equilibrium similar to the one described by Miller [8], these clienteles should exist. We argue that standard portfolio theory does not imply financial leverage clienteles for publicly traded firms. We explain the empirical relationship between investor tax rates and leverage ratios by the existence of dividend clienteles and a positive relationship between dividend yield and leverage ratios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02394.x"
+        },
+        {
+            "no": "15",
+            "title": "Managerial Incentives for Short\u2010term Results",
+            "date": "December 1985",
+            "author": [
+                "M. P. NARAYANAN"
+            ],
+            "abstract": "Of late, concern has been expressed that American managers tend to make decisions that yield short\u2010term gains at the expense of the long\u2010term interests of the shareholders. In this paper, we have attempted to investigate managerial incentives for such decisions. We find that, when the manager has private information regarding his or her decisions, there exist situations wherein the manager has incentives to make decisions which yield short\u2010term profits but are not in the stockholders best interests. This incentive for suboptimal decisions arises because the manager, by taking decisions yielding short\u2010term profits, hopes to enhance his reputation earlier, thus boosting his wages. We also find that this incentive is inversely related to her experience, the duration of her contract, and the risk of the firm.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02395.x"
+        },
+        {
+            "no": "16",
+            "title": "Reformulating Tax Shield Valuation: A Note",
+            "date": "December 1985",
+            "author": [
+                "JAMES A. MILES",
+                "JOHN R. EZZELL"
+            ],
+            "abstract": "Standard financial theory (in the absence of agency costs and personal taxes) implies that each dollar of debt contributes to the value of the firm in proportion to the firm's tax rate. To derive this result, incremental debt is assumed permanent. This paper shows that when the firm acts to maintain a constant market value leverage ratio, the marginal value of debt financing is much lower than the corporate tax rate. Since Hamada's 2 unlevering procedure for observed equity betas was derived under the assumption of permanent debt, we derive an unlevering procedure consistent with the assumption of a constant leverage ratio.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02396.x"
+        },
+        {
+            "no": "17",
+            "title": "The Use of Electronic Funds Transfers to Capture the Effects of Cash Management Practices on the Demand for Demand Deposits: A Note",
+            "date": "December 1985",
+            "author": [
+                "MICHAEL DOTSEY"
+            ],
+            "abstract": "The rapidly increasing use of more sophisticated cash management practices is a factor influencing the demand for money that is not considered in standard models of money demand. Within the framework of an inventory theoretic model of money demand, this paper provides theoretical grounds for using the number of electronic funds transfers as an indication of increasing cash management sophistication. Specifically, the demand for demand deposits is determined from the solution of a simultaneous equation system that also determines the optimal level of cash management. Therefore, the level of cash management services influences transactions costs, implying that transactions costs are endogenous. The number of electronic funds transfers is closely linked to the level of cash management services and is therefore related to transactions costs. Models of money demand that treat transactions costs as exogenous and fixed are therefore misspecified and will not perform well when transactions costs are changing. By explicitly incorporating the changing nature of transactions costs through the use of electronic funds transfers, the problems of instability and poor predictive power associated with the demand for money in the 1970's are overcome.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02397.x"
+        },
+        {
+            "no": "18",
+            "title": "Derivation of the Capital Asset Pricing Model without Normality or Quadratic Preference: A Note",
+            "date": "December 1985",
+            "author": [
+                "YOUNG K. KWON"
+            ],
+            "abstract": "Derivation of the capital asset pricing model requires various assumptions including normality or quadratic preference. The objective of this note is to show that the normality or quadratic preference assumption can be replaced by the fair game condition that assets' residual returns have zero mean conditional upon the return of the market portfolio.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02398.x"
+        },
+        {
+            "no": "19",
+            "title": "Book Reviews",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nReal Estate Finance. By C. F. SIRMANS.\nInvestments. By NANCY L. JACOB and R. RICHARDSON PETTIT. Homewood, Illinois: Richard D. Irwin, Inc., 1984. Pp. xxii + 973.\nIntroduction to Financial Management. By JOHN A. HALLORAN and HOWARD P. LANSER. Glenview, Illinois: Scott, Foresman and Company, 1985. Pp. 766.\nFinancial Institutions and Markets in a Changing World, second edition. By DONALD R. FRASER and PETER S. ROSE. Plano, Texas: Business Publications, Inc., 1984. Pp. x + 786.\nMoney, Financial Institutions, and the Economy. By WILLIAM B. HARRISON. Plano, Texas: Business Publications, Inc., 1985. Pp. xix + 591.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02399.x"
+        },
+        {
+            "no": "20",
+            "title": "MISCELLANEA",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02400.x"
+        },
+        {
+            "no": "21",
+            "title": "INDEX TO VOLUME XL",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb00559.x"
+        },
+        {
+            "no": "22",
+            "title": "ANNOUNCEMENTS",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb02381.x"
+        },
+        {
+            "no": "23",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb00560.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "December 1985",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1985.tb00561.x"
+        }
+    ]
+}

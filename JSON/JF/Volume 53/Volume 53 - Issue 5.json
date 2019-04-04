@@ -1,0 +1,230 @@
+{
+    "journal": "JF",
+    "volume": "53",
+    "issue": "5",
+    "date": "October 1998",
+    "page": "Pages: i-vii, 1443-1832, viii-xli, 1833-1838, xlii-lxxi",
+    "article": [
+        {
+            "no": "1",
+            "title": "Volume Information",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00594.x"
+        },
+        {
+            "no": "2",
+            "title": "Front Matter",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00595.x"
+        },
+        {
+            "no": "3",
+            "title": "How Costly is Financial (Not Economic) Distress? Evidence from Highly Leveraged Transactions that Became Distressed",
+            "date": "17 December 2002",
+            "author": [
+                "Gregor Andrade",
+                "Steven N. Kaplan"
+            ],
+            "abstract": "This paper studies thirty\u2010one highly leveraged transactions (HLTs) that become financially, not economically, distressed. The net effect of the HLT and financial distress (from pretransaction to distress resolution, market\u2010 or industry\u2010adjusted) is to increase value slightly. This finding strongly suggests that, overall, the HLTs of the late 1980s created value. We present quantitative and qualitative estimates of the (direct and indirect) costs of financial distress and their determinants. We estimate financial distress costs to be 10 to 20 percent of firm value. For a subset of firms that do not experience an adverse economic shock, financial distress costs are negligible.",
+            "link": "https://doi.org/10.1111/0022-1082.00062"
+        },
+        {
+            "no": "4",
+            "title": "Asset Efficiency and Reallocation Decisions of Bankrupt Firms",
+            "date": "17 December 2002",
+            "author": [
+                "VOJISLAV MAKSIMOVIC",
+                "GORDON PHILLIPS"
+            ],
+            "abstract": "This paper investigates whether Chapter 11 bankruptcy provides a mechanism by which insolvent firms are efficiently reorganized and the assets of unproductive firms are effectively redeployed. We argue that incentives to reorganize depend on the level of demand and industry conditions. Using plant\u2010level data, we find that Chapter 11 status is much less important than industry conditions in explaining the productivity, asset sales, and closure conditions of Chapter 11 bankrupt firms. This suggests that firms that elect to enter into Chapter 11 incur few real economic costs.",
+            "link": "https://doi.org/10.1111/0022-1082.00063"
+        },
+        {
+            "no": "5",
+            "title": "Tax and Liquidity Effects in Pricing Government Bonds",
+            "date": "17 December 2002",
+            "author": [
+                "Edwin J. Elton",
+                "T. Clifton Green"
+            ],
+            "abstract": "Daily data from interdealer government bond brokers are examined for tax and liquidity effects. We use two approaches to create cash flow matching portfolios of similar securities and look for pricing discrepancies associated with liquidity or tax effects. We also look for the presence of tax and liquidity effects by including a liquidity term when fitting a cubic spline to the after\u2010tax yield curve. We find evidence of tax timing options and liquidity effects. However, the effects are much smaller than previously reported and the effects of liquidity are primarily due to high volume bonds with long maturities.",
+            "link": "https://doi.org/10.1111/0022-1082.00064"
+        },
+        {
+            "no": "6",
+            "title": "Earnings and Expected Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Owen Lamont"
+            ],
+            "abstract": "The aggregate dividend payout ratio forecasts excess returns on both stocks and corporate bonds in postwar U.S. data. High dividends forecast high returns. High earnings forecast low returns. The correlation of earnings with business conditions gives them predictive power for returns; they contain information about future returns that is not captured by other variables. Dividends and earnings contribute substantial explanatory power at short horizons. For forecasting long\u2010horizon returns, however, only (scaled) stock prices matter. Forecasts of low long\u2010horizon stock returns in the mid\u20101990s are caused not by earnings or dividends, but by high stock prices.",
+            "link": "https://doi.org/10.1111/0022-1082.00065"
+        },
+        {
+            "no": "7",
+            "title": "Costly Search and Mutual Fund Flows",
+            "date": "17 December 2002",
+            "author": [
+                "Erik R. Sirri",
+                "Peter Tufano"
+            ],
+            "abstract": "This paper studies the flows of funds into and out of equity mutual funds. Consumers base their fund purchase decisions on prior performance information, but do so asymmetrically, investing disproportionately more in funds that performed very well the prior period. Search costs seem to be an important determinant of fund flows. High performance appears to be most salient for funds that exert higher marketing effort, as measured by higher fees. Flows are directly related to the size of the fund's complex as well as the current media attention received by the fund, which lower consumers' search costs.",
+            "link": "https://doi.org/10.1111/0022-1082.00066"
+        },
+        {
+            "no": "8",
+            "title": "Do Inventories Matter in Dealership Markets? Evidence from the London Stock Exchange",
+            "date": "17 December 2002",
+            "author": [
+                "Oliver Hansch",
+                "Narayan Y. Naik",
+                "S. Viswanathan"
+            ],
+            "abstract": "Using London Stock Exchange data, we test the central implication of the canonical model of Ho and Stoll (1983) that relative inventory differences determine dealer behavior. We find that relative inventories explain which dealers obtain large trades and show that movements between best ask, best bid, and straddle are highly correlated with both standardized and relative inventory changes. We show that the mean reversion in inventories is highly nonlinear and increasing in inventory levels. We show that a key determinant of variations in interdealer trading is inventories and that interdealer trading plays an important role in managing large inventory positions.",
+            "link": "https://doi.org/10.1111/0022-1082.00067"
+        },
+        {
+            "no": "9",
+            "title": "Does Risk Sharing Motivate Interdealer Trading?",
+            "date": "17 December 2002",
+            "author": [
+                "PETER C. REISS",
+                "INGRID M. WERNER"
+            ],
+            "abstract": "We use unique data from the London Stock Exchange to test whether interdealer trade facilitates inventory risk sharing among dealers. We develop a methodology that focuses on periods of \u201cextreme\u201d inventories\u2014inventory cycles. We further distinguish between inventory cycles that are unanticipated and those that are anticipated because of \u201cworked\u201d orders. The pattern of interdealer trade during inventory cycles matches theoretical predictions for the direction of trade and the inventories of trade counterparts. We also show that London dealers receive higher trading revenues for taking larger positions.",
+            "link": "https://doi.org/10.1111/0022-1082.00068"
+        },
+        {
+            "no": "10",
+            "title": "An Equilibrium Analysis of Hedging with Liquidity Constraints, Speculation, and Government Price Subsidy in a Commodity Market",
+            "date": "17 December 2002",
+            "author": [
+                "Zhongquan Zhou"
+            ],
+            "abstract": "We develop a simple commodity model to analyze (i) the effects of hedging with liquidity constraints, due to producers' inability to bear unlimited trading losses, (ii) the role of speculation in the process of risk allocation between consumers and producers, and (iii) the equilibrium implications of government price subsidies to the producers. We find that (1) liquidity constraints can cause futures prices to exhibit mean reversion, which then makes speculation profitable; (2) speculation tends to make futures price volatility an increasing function of futures price; and (3) government price subsidy, if actively hedged by the producers, serves to lower the futures risk premium and reduce futures volatility.",
+            "link": "https://doi.org/10.1111/0022-1082.00069"
+        },
+        {
+            "no": "11",
+            "title": "Relationship Banking, Liquidity, and Investment in the German Industrialization",
+            "date": "17 December 2002",
+            "author": [
+                "Caroline Fohlin"
+            ],
+            "abstract": "Close bank relationships are thought to ameliorate firms' liquidity constraints\u2014a phenomenon frequently measured by liquidity sensitivity of investment. Using German firms during the formative years of universal banking (1903\u20131913), this paper shows that, even controlling for selection bias, investment is more sensitive to internal liquidity for bank\u2010networked firms than unattached firms. The firm exhibiting the greatest liquidity sensitivity, however, faced no apparent liquidity constraint. The findings yield two implications: they support recent research rejecting a linear relationship between liquidity sensitivity and financing constraints, and they suggest that relationship banking provides no consistent lessening of firms' liquidity sensitivity.",
+            "link": "https://doi.org/10.1111/0022-1082.00070"
+        },
+        {
+            "no": "12",
+            "title": "Evidence on Price Stabilization and Underpricing in Early IPO Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Daniel Asquith",
+                "Jonathan D. Jones",
+                "Robert Kieschnick"
+            ],
+            "abstract": "Using data on 560 firm\u2010commitment initial public offerings of common stock for the 1982\u20131983 period, we find that the cross\u2010sectional distribution of one\u2010day returns is modeled better as a mixture of two distributions, with the parameter estimates of one distribution being consistent with underpricing and the other with price stabilization. Further, the evidence that early IPO returns are drawn from a mixture distribution persists for at least four weeks. The implications of these results for the analysis of IPO returns are illustrated by examining the influence of a measure of ex ante price uncertainty on IPO pricing.",
+            "link": "https://doi.org/10.1111/0022-1082.00071"
+        },
+        {
+            "no": "13",
+            "title": "Are Investors Reluctant to Realize Their Losses?",
+            "date": "17 December 2002",
+            "author": [
+                "Terrance Odean"
+            ],
+            "abstract": "I test the disposition effect, the tendency of investors to hold losing investments too long and sell winning investments too soon, by analyzing trading records for 10,000 accounts at a large discount brokerage house. These investors demonstrate a strong preference for realizing winners rather than losers. Their behavior does not appear to be motivated by a desire to rebalance portfolios, or to avoid the higher trading costs of low priced stocks. Nor is it justified by subsequent portfolio performance. For taxable investments, it is suboptimal and leads to lower after\u2010tax returns. Tax\u2010motivated selling is most evident in December.",
+            "link": "https://doi.org/10.1111/0022-1082.00072"
+        },
+        {
+            "no": "14",
+            "title": "Capital Gains Taxation and Stock Market Activity: Evidence from IPOs",
+            "date": "17 December 2002",
+            "author": [
+                "William A. Reese Jr"
+            ],
+            "abstract": "Prior to the Tax Reform Act of 1986 (TRA '86), long\u2010term capital gains were taxed at a lower rate than short\u2010term gains, presenting investors with an opportunity to increase their after\u2010tax return by delaying the sale of appreciated assets until after they qualified for long\u2010term status and selling depreciated assets prior to long\u2010term qualification. Using a sample of Initial Public Offerings, I find that stocks that appreciated prior to long\u2010term qualification exhibit increased volume and decreased returns just after their qualification date, while stocks that depreciated prior to long\u2010term qualification exhibit these effects just prior to their qualification date.",
+            "link": "https://doi.org/10.1111/0022-1082.00073"
+        },
+        {
+            "no": "15",
+            "title": "On the Inverse of the Covariance Matrix in Portfolio Analysis",
+            "date": "17 December 2002",
+            "author": [
+                "Guy V. G. Stevens"
+            ],
+            "abstract": "The goal of this paper is the derivation and application of a direct characterization of the inverse of the covariance matrix central to portfolio analysis. Such a characterization, in terms of a few primitive constructs, provides the basis for new and illuminating expressions for key concepts as the optimal holding of a given risky asset and the slope of the risk\u2010return efficiency frontier faced by the individual investor. The building blocks of the inverse turn out to be the regression coefficients and residual variance obtained by regressing the asset's excess return on the set of excess returns for all other risky assets.",
+            "link": "https://doi.org/10.1111/0022-1082.00074"
+        },
+        {
+            "no": "16",
+            "title": "Book Review",
+            "date": "17 December 2002",
+            "author": [
+                "Robert W. Boatler"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00075"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00076"
+        },
+        {
+            "no": "18",
+            "title": "AMERICAN FINANCE ASSOCIATION",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00596.x"
+        },
+        {
+            "no": "19",
+            "title": "Participants in the AFA Program",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00597.x"
+        },
+        {
+            "no": "20",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00598.x"
+        },
+        {
+            "no": "21",
+            "title": "ANNOUNCEMENTS",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00599.x"
+        },
+        {
+            "no": "22",
+            "title": "From the ExSec's Notebook",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00600.x"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "20 January 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1998.tb00601.x"
+        }
+    ]
+}

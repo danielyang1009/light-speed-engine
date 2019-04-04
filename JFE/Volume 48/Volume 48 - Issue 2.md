@@ -5,7 +5,7 @@
 ## 1. The exercise and valuation of executive stock options1
 ### Date
 - 1 May
-### Authors
+### Author
 - Jennifer N. Carpenter
 ### Abstract
 In theory, hedging restrictions faced by managers make executive stock options more difficult to value than ordinary options, because they imply that exercise policies of managers depend on their preferences and endowments. Using data on option exercises from 40 firms, this paper shows that a simple extension of the ordinary American option model which introduces random, exogenous exercise and forfeiture predicts actual exercise times and payoffs just as well as an elaborate utility-maximizing model that explicitly accounts for the nontransferability of options. The simpler model could therefore be more useful than the preference-based model for valuing executive options in practice.
@@ -15,7 +15,7 @@ In theory, hedging restrictions faced by managers make executive stock options m
 ## 2. An empirical examination of the amortized spread1
 ### Date
 - 1 May
-### Authors
+### Author
 - John M.R. Chalmers
 - Gregory B. Kadlec
 ### Abstract
@@ -26,7 +26,7 @@ Theories of asset pricing suggest that the amortized cost of the spread is relev
 ## 3. An empirical analysis of NYSE specialist trading1
 ### Date
 - 1 May
-### Authors
+### Author
 - Ananth Madhavan
 - George Sofianos
 ### Abstract
@@ -37,7 +37,7 @@ This paper examines empirically the magnitude and determinants of dealer trading
 ## 4. Information-time option pricing: theory and empirical evidence1
 ### Date
 - 1 May
-### Authors
+### Author
 - Carolyn W. Chang
 - Jack S.K. Chang
 - Kian-Guan Lim

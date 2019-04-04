@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. In search of ideas: Technological innovation and executive pay inequality
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Carola Frydman
 - Dimitris Papanikolaou
 ### Abstract
@@ -25,7 +25,7 @@ We develop a general equilibrium model that delivers realistic fluctuations in p
 ## 3. Creditor rights and innovation: Evidence from patent collateral
 ### Date
 - Jul 2018
-### Authors
+### Author
 - William Mann
 ### Abstract
 I show that patents are pledged as collateral to raise significant debt financing, and that the pledgeability of patents contributes to the financing of innovation. In 2013, 38% of US patenting firms had previously pledged patents as collateral, and these firms performed 20% of research and development expense and patenting in Compustat. Employing court decisions as a source of exogenous variation in creditor rights, I show that patenting companies raised more debt, and spent more on R&D, when creditor rights to patents strengthened. Subsequently, these companies exhibited a gradual increase in patenting output and the use of patents as collateral.
@@ -35,7 +35,7 @@ I show that patents are pledged as collateral to raise significant debt financin
 ## 4. Micro(structure) before macro? The predictive power of aggregate illiquidity for stock returns and economic activity
 ### Date
 - May 2018
-### Authors
+### Author
 - Yong Chen
 - Gregory W. Eaton
 - Bradley S. Paye
@@ -47,7 +47,7 @@ This paper constructs and analyzes various measures of trading costs in US equit
 ## 5. Patent collateral, investor commitment, and the market for venture lending
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Yael V. Hochberg
 - Carlos J. Serrano
 - Rosemarie H. Ziedonis
@@ -59,7 +59,7 @@ We explore the market for lending to start-ups and two mechanisms that facilitat
 ## 6. The Volcker Rule and corporate bond market making in times of stress
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Jack Bao
 - Maureen O’Hara
 - Xing (Alex) Zhou
@@ -71,7 +71,7 @@ Focusing on downgrades as stress events that drive the selling of corporate bond
 ## 7. Informative fund size, managerial skill, and investor rationality
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Min Zhu
 ### Abstract
 This paper considers the nature of returns to scale in active management following Pástor et al. (2015) who fail to establish diseconomies of scale at the fund level. Using an enhanced empirical strategy, we find a significant negative impact of fund size on performance. This empirical evidence indicates that fund alpha and fund size are not independent entities. Consequently, skill, rather than being measured by the fund alpha, should be measured by the value that a fund extracts from capital markets. We also show that there exist sophisticated investors who correctly exploit positive net present value investment opportunities.
@@ -81,7 +81,7 @@ This paper considers the nature of returns to scale in active management followi
 ## 8. Do an insider's wealth and income matter in the decision to engage in insider trading?
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Jenni Kallunki
 - Juha-Pekka Kallunki
 - Henrik Nilsson
@@ -94,7 +94,7 @@ We explore why insiders engage in informed trading, given the surprisingly small
 ## 9. Managing stigma during a financial crisis
 ### Date
 - May 2017
-### Authors
+### Author
 - Sriya Anbil
 ### Abstract
 How should regulators design effective emergency lending facilities to mitigate stigma during a financial crisis? I explore this question using data from an unexpected disclosure of partial lists of banks that secretly borrowed from the lender of last resort during the Great Depression. I find evidence of stigma in that depositors withdrew more deposits from banks included on the lists in comparison with banks left off the lists. Overall, the results suggest that an emergency lending facility that never reveals bank identities would mitigate stigma.
@@ -104,7 +104,7 @@ How should regulators design effective emergency lending facilities to mitigate 
 ## 10. Day of the week and the cross-section of returns
 ### Date
 - Jun 2018
-### Authors
+### Author
 - Justin Birru
 ### Abstract
 Long-short anomaly returns are strongly related to the day of the week. Anomalies for which the speculative leg is the short (long) leg experience the highest (lowest) returns on Monday. The opposite pattern is observed on Friday. The effects are large. Monday (Friday) alone accounts for over 100% of returns for all anomalies examined for which the short (long) leg is the speculative leg. Consistent with a mispricing explanation, the pattern is driven by the speculative leg. The observed patterns are consistent with the abundance of evidence in the psychology literature that mood increases on Friday and decreases on Monday.

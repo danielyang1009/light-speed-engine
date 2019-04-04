@@ -5,7 +5,7 @@
 ## 1. Editorial
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -18,7 +18,7 @@
 ## 2. Editorial data
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -31,7 +31,7 @@
 ## 3. Earnings information conveyed by dividend initiations and omissions
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Paul M. Healy
 - Krishna G. Palepu
 ### Abstract
@@ -42,7 +42,7 @@ Firms that initiate dividend payments have positive earnings changes both before
 ## 4. Some tests of international equity integration
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Simon Wheatley
 ### Abstract
 This paper provides tests of international equity market integration. The tests use a simple version of the consumption-based asset pricing model which predicts there is an asset pricing line for each country that relates a representative individual's expected real return on each asset to the covariance of this return with growth in the individual's real consumption. Using monthly data from January 1960 to December 1985, tests provide little evidence against the joint hypothesis that equity markets are integrated internationally and that the asset pricing model holds.
@@ -52,7 +52,7 @@ This paper provides tests of international equity market integration. The tests 
 ## 5. The empirical foundations of the arbitrage pricing theory
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Bruce N. Lehmann
 - David M. Modest
 ### Abstract
@@ -63,7 +63,7 @@ This paper uses maximum-likelihood factor analysis of large cross-sections to ex
 ## 6. Risk and return in an equilibrium APT
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Gregory Connor
 - Robert A. Korajczyk
 ### Abstract
@@ -74,7 +74,7 @@ We use an asymptotic principal components technique to estimate the pervasive fa
 ## 7. Short-term trading around ex-dividend days
 ### Date
 - Sep 1988
-### Authors
+### Author
 - Jonathan M. Karpoff
 - Ralph A. Walkling
 ### Abstract
@@ -85,7 +85,7 @@ A dividend tax penalty creates profitable trading opportunities for short-term t
 ## 8. Index
 ### Date
 - Sep 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -94,7 +94,7 @@ A dividend tax penalty creates profitable trading opportunities for short-term t
 ## 9. Subject index
 ### Date
 - Sep 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -103,7 +103,7 @@ A dividend tax penalty creates profitable trading opportunities for short-term t
 ## 10. Author index
 ### Date
 - Sep 1988
-### Authors
+### Author
 ### Abstract
 
 ### Link

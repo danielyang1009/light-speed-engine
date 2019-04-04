@@ -5,7 +5,7 @@
 ## 1. Wealth creation versus wealth redistributions in pure stock-for-stock mergers1
 ### Date
 - 1 April
-### Authors
+### Author
 - Carlos P Maquieira
 - William L Megginson
 - Lance Nail
@@ -17,7 +17,7 @@ We examine wealth changes for all 1283 publicly traded debt and equity securitie
 ## 2. Larger board size and decreasing firm value in small firms1
 ### Date
 - 1 April
-### Authors
+### Author
 - Theodore Eisenberg
 - Stefan Sundgren
 - Martin T. Wells
@@ -29,7 +29,7 @@ Several studies hypothesize a relation between board size and financial performa
 ## 3. Information problems, conflicts of interest, and asset stripping:
 ### Date
 - 1 April
-### Authors
+### Author
 - Lawrence A. Weiss
 - Karen H. Wruck
 ### Abstract
@@ -40,7 +40,7 @@ Eastern Airlines' bankruptcy illustrates the devastating effect on firm value of
 ## 4. Capital markets and corporate structure: the equity carve-outs of Thermo Electron1
 ### Date
 - 1 April
-### Authors
+### Author
 - Jeffrey W Allen
 ### Abstract
 This paper examines the innovative corporate structure of Thermo Electron Corporation which holds controlling interests in 11 units taken public in equity carve-outs. Carve-outs subject units of the company to the scrutiny of the capital markets, allow the compensation contracts of unit managers to be based on market performance, and shift capital acquisition and investment decisions from centralized control to unit managers. Thermo carve-outs substantially increase capital and R&D expenditures following carve-outs and generate significant value from their capital investments. Since the first carve-out in 1983, gains to shareholders have been substantially greater than industry and market benchmarks.

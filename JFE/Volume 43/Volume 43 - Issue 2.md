@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Feb 1997
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Industry costs of equity
 ### Date
 - Feb 1997
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -26,7 +26,7 @@ Estimates of the cost of equity for industries are imprecise. Standard errors of
 ## 3. Do independent directors enhance target shareholder wealth during tender offers?
 ### Date
 - Feb 1997
-### Authors
+### Author
 - James F. Cotter
 - Anil Shivdasani
 - Marc Zenner
@@ -38,7 +38,7 @@ We examine the role of the target firm's independent outside directors during ta
 ## 4. Information and contagion effects of bank loan-loss reserve announcements
 ### Date
 - Feb 1997
-### Authors
+### Author
 - Diane Scott Docking
 - Mark Hirschey
 - Elaine Jones
@@ -50,7 +50,7 @@ Consistent with an information-signaling perspective, negative and statistically
 ## 5. Spinoffs and wealth transfers: The Marriott case
 ### Date
 - Feb 1997
-### Authors
+### Author
 - Robert Parrino
 ### Abstract
 This paper examines changes in bondholder and shareholder wealth resulting from the 1993 Marriott spinoff. It documents a wealth transfer from bondholders to shareholders and a decline in the total value of the firm following the spinoff announcement. Subsequent modifications to the spinoff plan reduced the bondholders' loss, but the value of Marriott's notes and debentures remained $194.6 million below their pre-announcement level on the distribution date. Industry-adjusted shareholder gains during the same period were only $80.6 million. Transaction costs and inefficiencies resulting from the spinoff explain much of the decline in the total value of the firm.
@@ -60,7 +60,7 @@ This paper examines changes in bondholder and shareholder wealth resulting from 
 ## 6. Privatization and efficiency: Industry effects of the sale of British Airways
 ### Date
 - Feb 1997
-### Authors
+### Author
 - Catherine Eckel
 - Doug Eckel
 - Vijay Singal

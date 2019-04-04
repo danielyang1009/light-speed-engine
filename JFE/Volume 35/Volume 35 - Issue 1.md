@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Feb 1994
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. The term structure of real interest rates and the Cox, Ingersoll, and Ross model
 ### Date
 - Feb 1994
-### Authors
+### Author
 - Roger H. Brown
 - Stephen M. Schaefer
 ### Abstract
@@ -41,7 +41,7 @@ This paper estimates real term structures from cross-sections of British governm
 ## 4. Markups, quantity risk, and bidding strategies at treasury coupon auctions
 ### Date
 - Feb 1994
-### Authors
+### Author
 - David P. Simon
 ### Abstract
 This study uses intraday when-issued rate quotes to examine the rewards and risks of the Treasury coupon auctions for bidders who face different tradeoffs between the winner's curse and quantity risk. The data indicate that markups of auction average rates over bid when-issued rates at auction times average 3/8 basis point. I also find that when-issued rates react as strongly to bidding aggressiveness at auctions before the auction results are announced as theydo afterward, and that quantity risk is as important as the winner's curse.
@@ -51,7 +51,7 @@ This study uses intraday when-issued rate quotes to examine the rewards and risk
 ## 5. How managerial wealth affects the tender offer process
 ### Date
 - Feb 1994
-### Authors
+### Author
 - James F. Cotter
 - Marc Zenner
 ### Abstract
@@ -62,7 +62,7 @@ We present empirical evidence on the relation between changes in managerial weal
 ## 6. An examination of voluntary versus involuntary security issuances by commercial banks
 ### Date
 - Feb 1994
-### Authors
+### Author
 - Marcia Millon Cornett
 - Hassan Tehranian
 ### Abstract
@@ -73,7 +73,7 @@ This paper examines differences in stock price reactions following voluntary cap
 ## 7. Campeau's acquisition of Federated
 ### Date
 - Feb 1994
-### Authors
+### Author
 - Steven N. Kaplan
 ### Abstract
 This paper updates Kaplan (1989) by comparing Federated Department Stores' value before its purchase by Campeau Corporation to its post-bankruptcy value. The post-bankruptcy value includes all direct and indirect costs of bankruptcy and financial distress. Federated's assets increased in value by $3.1 billion in 1992 dollars(or $1.6 billion in 1987 dollars). This increase is only slightly below that in Kaplan (1989), suggesting that net bankruptcy costs were modest, and, possibly, nonexistent. The Federated purchase illustrates that a highly-leveraged transaction can increase value, but still be unable to meet its debt obligations; and bankruptcy (and financial distress) need not be costly.
@@ -83,7 +83,7 @@ This paper updates Kaplan (1989) by comparing Federated Department Stores' value
 ## 8. News items
 ### Date
 - Feb 1994
-### Authors
+### Author
 ### Abstract
 
 ### Link

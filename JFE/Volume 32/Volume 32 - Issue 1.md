@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 1992
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -29,7 +29,7 @@
 ## 3. Convertible bonds as backdoor equity financing
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Jeremy C. Stein
 ### Abstract
 This paper argues that corporations may use convertible bonds as an indirect way to get equity into their capital structures when adverse-selection problems make a conventional stock issue unattractive. Unlike other theories of convertible bond issuance, the model here highlights: 1) the importance of call provisions on convertibles and 2) the significance of costs of financial distress to the information content of a convertible issue.
@@ -39,7 +39,7 @@ This paper argues that corporations may use convertible bonds as an indirect way
 ## 4. The impact of institutional trading on stock prices
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Josef Lakonishok
 - Andrei Shleifer
 - Robert W. Vishny
@@ -51,7 +51,7 @@ This paper uses new data on the holdings of 769 tax-exempt (predominantly pensio
 ## 5. Contagion and competitive intra-industry effects of bankruptcy announcements
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Larry H.P. Lang
 - RenéM. Stulz
 ### Abstract
@@ -62,7 +62,7 @@ This paper investigates the effect of bankruptcy announcements on the equity val
 ## 6. What's special about the specialist?
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Lawrence M. Benveniste
 - Alan J. Marcus
 - William J. Wilhelm
@@ -74,7 +74,7 @@ Exchange members claim that the professional relationships that evolve on exchan
 ## 7. Informational externalities of seasoned equity issues
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Myron B. Slovin
 - Marie E. Sushka
 - John A. Polonchek
@@ -86,7 +86,7 @@ We examine share-price reactions of commercial bank common stock issues and find
 ## 8. Managerial vote ownership and shareholder wealth
 ### Date
 - Aug 1992
-### Authors
+### Author
 - Saeyoung Chang
 - David Mayers
 ### Abstract

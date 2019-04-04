@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 1993
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Feb 1993
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. Common risk factors in the returns on stocks and bonds
 ### Date
 - Feb 1993
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -41,7 +41,7 @@ This paper identifies five common risk factors in the returns on stocks and bond
 ## 4. Trading volume, management solicitation, and shareholder voting
 ### Date
 - Feb 1993
-### Authors
+### Author
 - Philip J. Young
 - James A. Millar
 - G.William Glezen
@@ -53,7 +53,7 @@ In an investigation of possible relationships between shareholder voting turnout
 ## 5. Measuring security price performance using daily NASDAQ returns
 ### Date
 - Feb 1993
-### Authors
+### Author
 - Cynthia J. Campbell
 - Charles E. Wesley
 ### Abstract
@@ -64,7 +64,7 @@ We evaluate the performance of alternative test statistics in event studies whic
 ## 6. The information content of distressed restructurings involving public and private debt claims
 ### Date
 - Feb 1993
-### Authors
+### Author
 - David T. Brown
 - Christopher M. James
 - Robert M. Mooradian
@@ -76,7 +76,7 @@ This paper examines debt restructurings by financially distressed firms. We deve
 ## 7. Another look at time-varying risk and return in a long-horizon contrarian strategy
 ### Date
 - Feb 1993
-### Authors
+### Author
 - Steven L. Jones
 ### Abstract
 This paper reconciles the relative pricing controversy between DeBondt and Thaler (1985, 1987), Chan (1988), and Ball and Kothari (1989). The negative autocorrelation in long-horizon index returns, along with the selection criterion of the contrarian strategy, can explain the positive covariance between time-varying betas and risk premiums. However, test-period beta estimates reflect the reversal of earnings expectations associated with underlying factors. The controversy thus reduces to the debate of Fama and French (1988) and Poterba and Summers (1988) over the source of the temporary price components in the market index. Rational changes in expected returns and cash flows explain most of the cross-sectional variation in returns.

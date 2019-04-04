@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Nov 1990
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -29,7 +29,7 @@
 ## 3. Editorial
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Richard S. Ruback
@@ -45,7 +45,7 @@
 ## 4. Posterior, predictive, and utility-based approaches to testing the arbitrage pricing theory
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Robert McCulloch
 - Peter E. Rossi
 ### Abstract
@@ -56,7 +56,7 @@ To provide a framework for judging the economic significance of departures from 
 ## 5. Dividend capture in NASDAQ stocks
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Jonathan M. Karpoff
 - Ralph A. Walkling
 ### Abstract
@@ -67,7 +67,7 @@ We examine the importance of dividend-capture trading in NASDAQ stocks by testin
 ## 6. Price reversals
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Gautam Kaul
 - M. Nimalendran
 ### Abstract
@@ -78,7 +78,7 @@ We show that bid-ask errors in transaction prices are the predominant source of 
 ## 7. Dividend yield and expected returns
 ### Date
 - Nov 1990
-### Authors
+### Author
 - William G. Christie
 ### Abstract
 Previous research examining the relation between dividend yield and equity returns documents a U-shaped pattern arising from the positive CAPM-adjusted average excess return of zero-dividend firms. In contrast, this paper reports that zero-dividend firms earn negative average excess returns relative to firms of similar size. Despite the apparent conformity of these results to the predictions of after-tax asset pricing models, the negative size-adjusted excess returns cannot be drive solely by tax effects. These excess returns, which are concentrated in the initial zero-dividend years and approach - 1% per month, are attributed to possible dividend-expectation effects rather than taxes.
@@ -88,7 +88,7 @@ Previous research examining the relation between dividend yield and equity retur
 ## 8. Market microstructure and asset pricing
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Marc R. Reinganum
 ### Abstract
 This research investigates the influence of market microstructure on liquidity premiums. Premiums of a competitive, multiple-dealership market (NASDAQ) are contrasted with those of a monopolistic, specialist system (NYSE). Differences in liquidity premiums are estimated from monthly stock returns. For small firms, the average returns of NYSE securities exceed the average returns of NASDAQ securities. This return differential persists after controlling for size, risk, and liquidity-related variables. Neither the NYSE nor NASDAQ dominates the other in providing liquidity. The NASDAQ appears to have a liquidity advantage over the NYSE for small firms but not for large companies.
@@ -98,7 +98,7 @@ This research investigates the influence of market microstructure on liquidity p
 ## 9. Borrowing relationships, intermediation, and the cost of issuing public securities
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Christopher James
 - Peggy Wier
 ### Abstract
@@ -109,7 +109,7 @@ This paper investigates how an established borrowing relationship affects the co
 ## 10. A comparative analysis of IPO proceeds under alternative regulatory environments
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Lawrence M. Benveniste
 - William J. Wilhelm
 ### Abstract
@@ -120,7 +120,7 @@ We study the effect on IPO proceeds of uniform-price restrictions and restrictio
 ## 11. Investment-banking contracts in tender offers
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Robyn M. McLaughlin
 ### Abstract
 Empirical analysis reveals that investment-banker advisory fees in tender offers average 1.29% of the value of a completed transaction, far below the levels often alluded to in the business press. Most fees are contingent on offer outcome, with target-firm fees typically contingent on transaction value and bidding-firm fees on the number of shares purchased. Although these contingent contracts motivate investment bankers to satisfy some client objectives, many also create conflicts of interest between banker and firm. These incentive problems are apparent in offer evaluation, in hostile offers, and in the price paid by bidding firms.
@@ -130,7 +130,7 @@ Empirical analysis reveals that investment-banker advisory fees in tender offers
 ## 12. Wealth effects of regulatory reform
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Joseph A. Fields
 - Chinmoy Ghosh
 - David S. Kidwell
@@ -143,7 +143,7 @@ This paper investigates the effect of California's Proposition 103 on the market
 ## 13. An analysis of exchangeable debt offers
 ### Date
 - Nov 1990
-### Authors
+### Author
 - Chinmoy Ghosh
 - Raj Varma
 - J.Randall Woolridge
@@ -155,7 +155,7 @@ Exchangeable debt is convertible into the common stock of a target firm in which
 ## 14. Editorial collaborators
 ### Date
 - Nov 1990
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -164,7 +164,7 @@ Exchangeable debt is convertible into the common stock of a target firm in which
 ## 15. Index
 ### Date
 - Nov 1990
-### Authors
+### Author
 ### Abstract
 
 ### Link

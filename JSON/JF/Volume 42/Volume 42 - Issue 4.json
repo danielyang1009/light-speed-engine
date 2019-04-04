@@ -1,0 +1,289 @@
+{
+    "journal": "JF",
+    "volume": "42",
+    "issue": "4",
+    "date": "September 1987",
+    "page": "Pages: i-vi, 809-1112, vii-l",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00570.x"
+        },
+        {
+            "no": "2",
+            "title": "Costless Signalling in Financial Markets",
+            "date": "September 1987",
+            "author": [
+                "G\u00dcNTER FRANKE"
+            ],
+            "abstract": "A costless, fully revealing signalling equilibrium is derived from two easily understandable conditions. The outsider\u2010rationality condition states that the outsiders relate the price that they offer to pay for a security inversely to the supply of this security, which they interpret as a quality signal. The no\u2010arbitrage condition requires that the marginal exchange rate for two securities be the same in both primary and secondary markets. These conditions restrict the firm's financing policy and have strong implications for the valuation of securities and of the total firm. A costless signalling equilibrium is obtained.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03913.x"
+        },
+        {
+            "no": "3",
+            "title": "Managerial Incentives and Corporate Investment and Financing Decisions",
+            "date": "September 1987",
+            "author": [
+                "ANUP AGRAWAL",
+                "GERSHON N. MANDELKER"
+            ],
+            "abstract": "This paper examines the relationship between common stock and option holdings of managers and the choice of investment and financing decisions by firms. The authors find support for the hypothesis of a positive relationship between the security holdings of managers and the changes in firm variance and in financial leverage. This conclusion is based on samples of acquiring and divesting firms. The findings are consistent with the hypothesis that executive security holdings have a role in reducing agency problems.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03914.x"
+        },
+        {
+            "no": "4",
+            "title": "Managerial Preference, Asymmetric Information, and Financial Structure",
+            "date": "September 1987",
+            "author": [
+                "GEORGE W. BLAZENKO"
+            ],
+            "abstract": "If firm performance affects managers' wealth or reputation, preferences of managers dominate firms' financing decisions. When information about real asset investment is symmetric, managers finance exclusively with equity. If managers know more about asset quality than do investors and if managers are sufficiently risk averse, they signal high\u2010quality projects with debt. Increases in collateral value decrease risky debt use. Increases in interest rates that do not change productive opportunities increase debt use. The explanation for these and further results is based on underpricing of equity and overpricing of debt at the margin.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03915.x"
+        },
+        {
+            "no": "5",
+            "title": "Trade Credit and Informational Asymmetry",
+            "date": "September 1987",
+            "author": [
+                "JANET KIHOLM SMITH"
+            ],
+            "abstract": "Commonly used trade credit terms implicitly define a high interest rate that operates as an efficient screening device where information about buyer default risk is asymmetrically held. By offering trade credit, a seller can identify prospective defaults more quickly than if financial institutions were the sole providers of short\u2010term financing. The information is valuable in cases where the seller has made nonsalvageable investments in buyers since it enables the seller to take actions to protect such investments.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03916.x"
+        },
+        {
+            "no": "6",
+            "title": "Mean\u2010Variance Spanning",
+            "date": "September 1987",
+            "author": [
+                "GUR HUBERMAN",
+                "SHMUEL KANDEL"
+            ],
+            "abstract": "The authors propose a likelihood\u2010ratio test of the hypothesis that the minimum\u2010variance frontier of a set of K assets coincides with the frontier of this set and another set of N assets. They study the relation between this hypothesis, exact arbitrage pricing, and mutual fund separation. The exact distribution of the test statistic is available. The authors test the hypothesis that the frontier spanned by three size\u2010sorted stock portfolios is the same as the frontier spanned by thirty\u2010three size\u2010sorted stock portfolios.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03917.x"
+        },
+        {
+            "no": "7",
+            "title": "Corporate Financial Policy, Information, and Market Expectations: An Empirical Investigation of Dividends",
+            "date": "September 1987",
+            "author": [
+                "AHARON R. OFER",
+                "DANIEL R. SIEGEL"
+            ],
+            "abstract": "This paper documents a relationship between announcements of unexpected changes in financial policy and unexpected changes in performance of the firm. Using a new methodology that combines analysis of stock price movements and earnings forecast data, the authors provide evidence that analysts revise their earnings forecasts following the announcement of an unexpected dividend change by an amount positively related to the size of the unexpected dividend change. They also provide evidence that these revisions are positively related to the change in equity value surrounding the announcement. Further, they find that these revisions are consistent with rationality. Their results therefore provide direct evidence consistent with the hypothesis that unexpected dividend changes signal information about firm performance to market participants.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03918.x"
+        },
+        {
+            "no": "8",
+            "title": "Stock Splits and Stock Dividends: Why, Who, and When",
+            "date": "September 1987",
+            "author": [
+                "JOSEF LAKONISHOK",
+                "BARUCH LEV"
+            ],
+            "abstract": "This study investigates empirically why firms split their stock or distribute stock dividends and why the market reacts favorably to these distributions. The findings suggest that stock splits are mainly aimed at restoring stock prices to a \u201cnormal range.\u201d Some support can also be found for the oft\u2010mentioned signalling motive of stock splits. Stock dividends are altogether different from stock splits, and they appear to be a decreasing phenomenon. The clue to stock dividend distributions may lie in their perceived substitution for relatively low cash dividends.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03919.x"
+        },
+        {
+            "no": "9",
+            "title": "The Effect of Long\u2010Term Performance Plans on Corporate Sell\u2010Off\u2010Induced Abnormal Returns",
+            "date": "September 1987",
+            "author": [
+                "HASSAN TEHRANIAN",
+                "NICKOLAOS G. TRAVLOS",
+                "JAMES F. WAEGELEIN"
+            ],
+            "abstract": "This study examines the association between long\u2010term performance plans and wealth effects accruing to stockholders of divesting firms at announcements of sell\u2010off proposals. The results indicate that divesting companies with long\u2010term performance plans experience a more favorable stock market reaction at the announcement of sell\u2010off proposals relative to firms without long\u2010term performance plans. The findings imply that long\u2010term performance plans serve as an effective mechanism to motivate managers to make better decisions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03920.x"
+        },
+        {
+            "no": "10",
+            "title": "Corporate Takeover Bids, Methods of Payment, and Bidding Firms' Stock Returns",
+            "date": "September 1987",
+            "author": [
+                "NICKOLAOS G. TRAVLOS"
+            ],
+            "abstract": "This study explores the role of the method of payment in explaining common stock returns of bidding firms at the announcement of takeover bids. The results reveal significant differences in the abnormal returns between common stock exchanges and cash offers. The results are independent of the type of takeover bid, i.e., merger or tender offer, and of bid outcomes. These findings, supported by analysis of nonconvertible bonds, are attributed mainly to signalling effects and imply that the inconclusive evidence of earlier studies on takeovers may be due to their failure to control for the method of payment.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03921.x"
+        },
+        {
+            "no": "11",
+            "title": "The Pricing Effects of Interfirm Cash Tender Offers",
+            "date": "September 1987",
+            "author": [
+                "SANJAI BHAGAT",
+                "JAMES A. BRICKLEY",
+                "URI LOEWENSTEIN"
+            ],
+            "abstract": "The tools provided by option\u2010pricing theory are used to examine the wealth effects of interfirm cash tender offers. The analysis provides evidence consistent with the \u201csynergy\u201d theory of corporate takeovers and has implications concerning the economic effects of regulations of cash tender offers. The analysis further suggests that the market prices information uncertainty in a manner not captured by the standard Capital Asset Pricing Model. The study introduces a technique for unbundling the prices of a primary asset and a contingent claim when only the prices of the combination are observed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03922.x"
+        },
+        {
+            "no": "12",
+            "title": "Lease Valuation When Taxable Earnings Are a Scarce Resource",
+            "date": "September 1987",
+            "author": [
+                "JULIAN R. FRANKS",
+                "STEWART D. HODGES"
+            ],
+            "abstract": "In this paper, we examine leasing as a tax\u2010arbitrage instrument. Analysis of a sample of UK leases presented in this paper suggests that lessors earn large positive NPVs. Our theoretical model seeks to explain these positive NPVs in terms of a market price for a scarce resource that we identify as scarce taxable earnings. Using these prices, the model permits a lessor to determine whether the profitability of a proposed set of lease contracts can be improved by writing a different set of contracts that makes better use of the lessor's taxable earnings. There may be two reasons why an initial portfolio of contracts may be suboptimal. Either there may be clienteles or the leasing market may be inefficient. Subsequently, we discuss reasons why the leasing market may be characterized by clienteles, and, using two different samples of leases, we test whether the leasing market is segmented and efficient.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03923.x"
+        },
+        {
+            "no": "13",
+            "title": "Optimal Hedging in Futures Markets with Multiple Delivery Specifications",
+            "date": "September 1987",
+            "author": [
+                "AVRAHAM KAMARA",
+                "ANDREW F. SIEGEL"
+            ],
+            "abstract": "Nearly all futures contracts allow delivery of any of several qualities of the underlying asset. Consequently, the price of the futures contract is associated more with the price of the expected cheapest deliverable variety than with the price of the par\u2010delivery variety. The delivery specifications introduce a delivery risk for every hedger in the market. We derive the optimal hedging strategies in these markets. Their hedging effectiveness is evaluated for wheat futures contracts in Chicago. Hedging optimally would have significantly reduced the variance of the rates of return on hedges while yielding similar mean returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03924.x"
+        },
+        {
+            "no": "14",
+            "title": "Maturity Intermediation and Intertemporal Lending Policies of Financial Intermediaries",
+            "date": "September 1987",
+            "author": [
+                "GEORGE EMIR MORGAN",
+                "STEPHEN D. SMITH"
+            ],
+            "abstract": "This paper considers the maturity intermediation and intertemporal lending decisions of risk\u2010averse financial intermediaries. In particular, the maturity mismatch problem and the fixed\u2010versus\u2010variable\u2010rate lending decision are modeled when the major source of risk involves uncertain future interest rates. The results imply that the strategy of matching the maturity of assets and liabilities is not generally optimal or even minimum risk. This is due primarily to the \u201cbuilt\u2010in\u201d hedge that the intermediary has as a result of rolling over short\u2010term loans while continuing to finance long\u2010term loans. Intertemporal dependencies between loan demand and costs (or both) also have an effect on the optimal degree of maturity mismatching and provide one rationale for making loans at rates below current marginal cost.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03925.x"
+        },
+        {
+            "no": "15",
+            "title": "Order Arrival, Quote Behavior, and the Return\u2010Generating Process",
+            "date": "September 1987",
+            "author": [
+                "JOEL HASBROUCK",
+                "THOMAS S. Y. HO"
+            ],
+            "abstract": "This paper establishes three empirical results. We find positive autocorrelation in actual intra\u2010day stock returns, in intra\u2010day returns computed from quote midpoints, and in the arrival of buy and sell orders. We present a model of return generation that incorporates these features via lagged adjustment of the limit\u2010order price and positive dependence in bid and ask transactions. The return model is observationally equivalent to an ARMA process, which is consistent with the observed return behavior.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03926.x"
+        },
+        {
+            "no": "16",
+            "title": "A Model of Intertemporal Discount Rates in the Presence of Real and Inflationary Autocorrelations",
+            "date": "September 1987",
+            "author": [
+                "DONALD I. BOSSHARDT"
+            ],
+            "abstract": "This paper discusses the pricing of assets in an intertemporal rational\u2010expectations model when real production and inflation evolve according to first\u2010order autocorrelated processes. The focus is on the structure of the various intertemporal discount rates (yields) exhibited by this economy. Yield curves are identified for consumption claims, indexed bonds, and nominally riskless bonds and can be extended to any claim that can be approximated by a (finite) linear combination of such securities. The model demonstrates that, if the average term structure for nominally riskless securities is upward sloping, then the yield curve for consumption (market) claims is downward sloping, suggesting that conventional methods for computing long\u2010term discount rates err by not accounting for maturity factors. The paper also explores the relationship between the intertemporal equilibrium and its embedded single\u2010period equilibria. The single\u2010period risk measures in this economy are derived and shown to be (generally) functions of maturity. A model of nominal bond betas is constructed along these lines. It is shown that bond betas that are increasing functions of maturity do not necessarily imply an upward\u2010sloping term structure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03927.x"
+        },
+        {
+            "no": "17",
+            "title": "A Note on the Pricing of Commodity\u2010Linked Bonds",
+            "date": "September 1987",
+            "author": [
+                "PETER CARR"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03928.x"
+        },
+        {
+            "no": "18",
+            "title": "The Effect of 12b\u20101 Plans on Mutual Fund Expense Ratios: A Note",
+            "date": "September 1987",
+            "author": [
+                "STEPHEN P. FERRIS",
+                "DON M. CHANCE"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03929.x"
+        },
+        {
+            "no": "19",
+            "title": "On the Resolution of Agency Problems by Complex Financial Instruments: A Comment",
+            "date": "September 1987",
+            "author": [
+                "M. P. NARAYANAN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03930.x"
+        },
+        {
+            "no": "20",
+            "title": "On the Resolution of Agency Problems by Complex Financial Instruments: A Reply",
+            "date": "September 1987",
+            "author": [
+                "ROBERT A. HAUGEN",
+                "LEMMA W. SENBET"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03931.x"
+        },
+        {
+            "no": "21",
+            "title": "Managerial Incentives for Short\u2010Term Results: A Comment",
+            "date": "September 1987",
+            "author": [
+                "MASAKO N. DARROUGH"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03932.x"
+        },
+        {
+            "no": "22",
+            "title": "Managerial Incentives for Short\u2010Term Results: A Reply",
+            "date": "September 1987",
+            "author": [
+                "M. P. NARAYANAN"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03933.x"
+        },
+        {
+            "no": "23",
+            "title": "Book Reviews",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nHow Real Is The Federal Deficit? By ROBERT EISNER. New York: The Free Press, 1986. Pp. xvi + 240.\nCorporate Risk Management: A Financial Exposition. By NEIL A. DOHERTY. New York: McGraw\u2010Hill, 1985. Pp. xvi + 483.\nInternational Financial Markets. By J. ORLIN GRABBE. New York: Elsevier, 1986. Pp. 322 + glossary.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03934.x"
+        },
+        {
+            "no": "24",
+            "title": "MISCELLANEA",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb03935.x"
+        },
+        {
+            "no": "25",
+            "title": "FORTY\u2010EIGHTH ANNUAL MEETING AMERICAN FINANCE ASSOCIATION",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00571.x"
+        },
+        {
+            "no": "26",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00572.x"
+        },
+        {
+            "no": "27",
+            "title": "ANNOUNCEMENTS",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00573.x"
+        },
+        {
+            "no": "28",
+            "title": "Back Matter",
+            "date": "September 1987",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1987.tb00574.x"
+        }
+    ]
+}

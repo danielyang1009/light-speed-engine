@@ -5,7 +5,7 @@
 ## 1. Bankruptcy auctions: costs, debt recovery, and firm survival
 ### Date
 - Dec 2000
-### Authors
+### Author
 - Karin S. Thorburn
 ### Abstract
 This paper provides some first, large-sample evidence on the Swedish auction bankruptcy system. Compared to U.S. Chapter 11 cases, the small-firm bankruptcy auctions examined here are substantially quicker, have lower costs, and avoid deviations from absolute priority. Three-quarters of the firms are auctioned as going concerns, which is similar to Chapter 11 survival rates. Moreover, based on market values, creditors in going-concern auctions recover a similar fraction of face value as creditors of much larger firms in Chapter 11 reorganizations. The evidence presented here suggests that the auction bankruptcy system is a surprisingly efficient restructuring mechanism for small firms.
@@ -15,7 +15,7 @@ This paper provides some first, large-sample evidence on the Swedish auction ban
 ## 2. Herding among security analysts
 ### Date
 - Dec 2000
-### Authors
+### Author
 - Ivo Welch
 ### Abstract
 The paper shows that the buy or sell recommendations of security analysts have a significant positive influence on the recommendations of the next two analysts. This influence can be traced to short-lived information in the most recent revisions. In contrast, the influence of the prevailing consensus is not stronger if the consensus accurately forecasts subsequent stock price movements. This indicates consensus herding consistent with models in which analysts herd based on little information. The consensus also has a stronger influence when market conditions are favorable. The resulting poorer information aggregation could cause bull markets to be intrinsically more “fragile” (e.g., Bikhchandani et al., J. Political Economy 100(5) (1992) 992–1026).
@@ -25,7 +25,7 @@ The paper shows that the buy or sell recommendations of security analysts have a
 ## 3. The term structure of very short-term rates: New evidence for the expectations hypothesis
 ### Date
 - Dec 2000
-### Authors
+### Author
 - Francis A. Longstaff
 ### Abstract
 Empirical researchers have frequently rejected the expectations hypothesis. The expectations hypothesis, however, has seldom, if ever, been tested at the extreme short end of the term structure where maturities are measured in days or weeks. Using overnight, weekly, and monthly repo rates, I find that term rates are almost unbiased estimates of the average overnight rate. This evidence provides new support for the expectations hypothesis.
@@ -35,7 +35,7 @@ Empirical researchers have frequently rejected the expectations hypothesis. The 
 ## 4. Testing static tradeoff against pecking order models of capital structure: a critical comment
 ### Date
 - Dec 2000
-### Authors
+### Author
 - Robert S Chirinko
 - Anuja R Singha
 ### Abstract
@@ -46,7 +46,7 @@ In a recent paper, Shyam-Sunder and Myers (1999) introduce a new test of the Pec
 ## 5. Index
 ### Date
 - Dec 2000
-### Authors
+### Author
 ### Abstract
 
 ### Link

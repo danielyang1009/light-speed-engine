@@ -5,7 +5,7 @@
 ## 1. Ex dividend day stock price behavior: discreteness or tax-induced clienteles?
 ### Date
 - 15 February
-### Authors
+### Author
 - Rakesh Bali
 - Gailen L. Hite
 ### Abstract
@@ -16,7 +16,7 @@ Since prices are constrained to discrete tick multiples while dividends are esse
 ## 2. Why do stock prices drop by less than the value of the dividend? Evidence from a country without taxes
 ### Date
 - 15 February
-### Authors
+### Author
 - Murray Frank
 - Ravi Jagannathan
 ### Abstract
@@ -27,7 +27,7 @@ It is well documented that stock prices on ex-dividend days drop by less than th
 ## 3. The impact of contingent liability on commercial bank risk taking
 ### Date
 - 15 February
-### Authors
+### Author
 - Benjamin C. Esty
 ### Abstract
 From 1863–1935, regulators imposed contingent liability on bank shareholders to discourage risk taking. Using data from 1900 to 1915, I find that banks subject to stricter liability rules have lower equity and asset volatility, hold a lower proportion of risky assets, and are less likely to increase their investment in risky assets when their net worth declines, consistent with the hypothesis that stricter liability discourages commercial bank risk taking. These findings provide lessons for current bank regulatory policy and show that the shape of the residual claimant's payoff function has a significant impact on managerial incentives and firm performance.
@@ -37,7 +37,7 @@ From 1863–1935, regulators imposed contingent liability on bank shareholders t
 ## 4. Managerial compensation and the threat of takeover
 ### Date
 - 15 February
-### Authors
+### Author
 - Anup Agrawal
 - Charles R. Knoeber
 ### Abstract

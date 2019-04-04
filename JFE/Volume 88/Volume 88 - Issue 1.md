@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The power of the pen and executive compensation
 ### Date
 - May 2007
-### Authors
+### Author
 - John E. Core
 - Wayne Guay
 - David F. Larcker
@@ -26,7 +26,7 @@ We examine the press’ role in monitoring and influencing executive compensatio
 ## 3. How is macro news transmitted to exchange rates?
 ### Date
 - Jun 2007
-### Authors
+### Author
 - Martin D.D. Evans
 - Richard K. Lyons
 ### Abstract
@@ -37,7 +37,7 @@ Macro news can affect currency prices directly and indirectly via order flow. Pa
 ## 4. Entrepreneurial finance: Banks versus venture capital
 ### Date
 - May 2007
-### Authors
+### Author
 - Andrew Winton
 - Vijay Yerramilli
 ### Abstract
@@ -48,7 +48,7 @@ We analyze how entrepreneurial firms choose between two funding institution: ban
 ## 5. Capital structure and international debt shifting
 ### Date
 - May 2007
-### Authors
+### Author
 - Harry Huizinga
 - Luc Laeven
 - Gaetan Nicodeme
@@ -60,7 +60,7 @@ This paper presents a model of a multinational firm's optimal debt policy that i
 ## 6. Firms as buyers of last resort
 ### Date
 - Apr 2007
-### Authors
+### Author
 - Harrison Hong
 - Jiang Wang
 - Jialin Yu
@@ -72,7 +72,7 @@ We develop a model to explore the asset pricing implications of firms being buye
 ## 7. Stock price informativeness, cross-listings, and investment decisions
 ### Date
 - May 2007
-### Authors
+### Author
 - Thierry Foucault
 - Thomas Gehrig
 ### Abstract
@@ -83,7 +83,7 @@ We show that a cross-listing enables firms to obtain, from the stock market, mor
 ## 8. Ultimate ownership and control in Russia
 ### Date
 - May 2007
-### Authors
+### Author
 - Lucy Chernykh
 ### Abstract
 I investigate ultimate control and ownership patterns in Russian publicly traded companies. I show that these companies are controlled either by the state or by anonymous private owners. Federal and regional governments’ control is exercised through extensive use of pyramids. Private owners widely exploit legal loopholes that allow them to mask their holdings and identities through nominee and foreign offshore arrangements. The comparison of formal and informal ownership disclosure reveals that the typical anonymous owners are insiders and that in virtually all cases the market participants “know” who the real owners are. Collectively, the evidence suggests that the legal weaknesses in disclosure requirements are important determinants of country-specific ownership and control structures.

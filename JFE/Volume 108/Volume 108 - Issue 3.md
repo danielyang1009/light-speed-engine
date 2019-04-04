@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2013
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Are there too many safe securities? Securitization and the incentives for information production
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Samuel G. Hanson
 - Adi Sunderam
 ### Abstract
@@ -25,7 +25,7 @@ We present a model that helps explain several past collapses of securitization m
 ## 3. New evidence on the first financial bubble
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Rik G.P. Frehen
 - William N. Goetzmann
 - K. Geert Rouwenhorst
@@ -37,7 +37,7 @@ The Mississippi Bubble, South Sea Bubble and the Dutch Windhandel of 1720 togeth
 ## 4. General equilibrium with heterogeneous participants and discrete consumption times
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Oldrich Alfons Vasicek
 ### Abstract
 The paper investigates the term structure of interest rates imposed by equilibrium in a production economy consisting of participants with heterogeneous preferences. Consumption is restricted to an arbitrary number of discrete times. The paper contains an exact solution to market equilibrium and provides an explicit constructive algorithm for determining the state price density process. The convergence of the algorithm is proven. Interest rates and their behavior are given as a function of economic variables.
@@ -47,7 +47,7 @@ The paper investigates the term structure of interest rates imposed by equilibri
 ## 5. A new approach to predicting analyst forecast errors: Do investors overweight analyst forecasts?
 ### Date
 - Feb 2013
-### Authors
+### Author
 - Eric C. So
 ### Abstract
 I provide evidence that investors overweight analyst forecasts by demonstrating that prices do not fully reflect predictable components of analyst errors, which conflicts with conclusions in prior research. I highlight estimation bias in traditional approaches and develop a new approach that reduces this bias. I estimate characteristic forecasts that map current firm characteristics into forecasts of future earnings. Contrasting characteristic and analyst forecasts predicts analyst forecast errors and revisions. I find abnormal returns to strategies that sort firms by predicted forecast errors, consistent with investors overweighting analyst forecasts and predictable biases in analyst forecasts influencing the information content of prices.
@@ -57,7 +57,7 @@ I provide evidence that investors overweight analyst forecasts by demonstrating 
 ## 6. The role of state and foreign owners in corporate risk-taking: Evidence from privatization
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Narjess Boubakri
 - Jean-Claude Cosset
 - Walid Saffar
@@ -69,7 +69,7 @@ Using a unique database of 381 newly privatized firms from 57 countries, we inve
 ## 7. CEO contract design: How do strong principals do it?
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Henrik Cronqvist
 - Rüdiger Fahlenbrach
 ### Abstract
@@ -80,7 +80,7 @@ We study changes in chief executive officer (CEO) contracts when firms transitio
 ## 8. Labor unions and tax aggressiveness
 ### Date
 - Jan 2013
-### Authors
+### Author
 - James A. Chyz
 - Winnie Siu Ching Leung
 - Oliver Zhen Li
@@ -93,7 +93,7 @@ We examine the impact of unionization on firms' tax aggressiveness. We find a ne
 ## 9. The cross section of conditional mutual fund performance in European stock markets
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Ayelen Banegas
 - Ben Gillen
 - Allan Timmermann
@@ -106,7 +106,7 @@ This paper implements strategies that use macroeconomic variables to select Euro
 ## 10. “When the cat's away the mice will play”: Does regulation at home affect bank risk-taking abroad?
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Steven Ongena
 - Alexander Popov
 - Gregory F. Udell
@@ -118,7 +118,7 @@ This paper provides the first empirical evidence that bank regulation is associa
 ## 11. Exploring the role Delaware plays as a domestic tax haven
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Scott D. Dyreng
 - Bradley P. Lindsey
 - Jacob R. Thornock
@@ -130,7 +130,7 @@ We examine whether Delaware is a domestic tax haven. We find that taxes play an 
 ## 12. Institutional trading and stock resiliency: Evidence from the 2007–2009 financial crisis
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Amber Anand
 - Paul Irvine
 - Andy Puckett
@@ -143,7 +143,7 @@ We examine the impact of institutional trading on stock resiliency during the fi
 ## 13. Pyramidal ownership and the creation of new firms
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Jan Bena
 - Hernán Ortiz-Molina
 ### Abstract
@@ -154,7 +154,7 @@ We study the role of pyramidal ownership structures in the creation of new firms
 ## 14. Gender and corporate finance: Are male executives overconfident relative to female executives?
 ### Date
 - Dec 2012
-### Authors
+### Author
 - Jiekun Huang
 - Darren J. Kisgen
 ### Abstract
@@ -165,7 +165,7 @@ We examine corporate financial and investment decisions made by female executive
 ## 15. Adoptive expectations: Rising sons in Japanese family firms
 ### Date
 - Jan 2013
-### Authors
+### Author
 - Vikas Mehrotra
 - Randall Morck
 - Jungwook Shim

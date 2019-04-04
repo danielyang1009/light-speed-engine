@@ -1,0 +1,129 @@
+{
+    "journal": "RFS",
+    "volume": "27",
+    "issue": "6",
+    "date": "June 2014",
+    "page": "Pages 1615\u20131928",
+    "article": [
+        {
+            "no": "1",
+            "title": "Illiquidity Contagion and Liquidity Crashes",
+            "date": "10 March 2014",
+            "author": [
+                "Giovanni Cespa",
+                "Thierry Foucault"
+            ],
+            "abstract": "Liquidity providers often learn information about an asset from prices of other assets. We show that this generates a self-reinforcing positive relationship between price informativeness and liquidity. This relationship causes liquidity spillovers and is a source of fragility: a small drop in the liquidity of one asset can, through a feedback loop, result in a very large drop in market liquidity and price informativeness (a liquidity crash). This feedback loop provides a new explanation for comovements in liquidity and liquidity dry-ups. It also generates multiple equilibria.",
+            "link": "https://doi.org/10.1093/rfs/hhu016"
+        },
+        {
+            "no": "2",
+            "title": "Investors' and Central Bank's Uncertainty Embedded in Index Options",
+            "date": "09 April 2014",
+            "author": [
+                "Alexander David",
+                "Pietro Veronesi"
+            ],
+            "abstract": "Shocks to equity options' implied volatility are followed by persistently lower short-term rates. Shocks to puts' over calls' out-of-the-money implied volatilities (P/C) are followed by persistently higher rates. Stock and Treasury bond implied volatilities, which measure market and policy uncertainty, are countercyclical, while P/C, which measures downside risk, is procyclical. An equilibrium model in which investors and the central bank learn about composite regimes of economic and policy variables explains these dynamics, linking them to a learning-based, forward-looking Taylor rule. Survey data support our model's predictions on the effect of uncertainty on the level and fluctuations of implied volatilities.",
+            "link": "https://doi.org/10.1093/rfs/hhu024"
+        },
+        {
+            "no": "3",
+            "title": "Frictions in Shadow Banking: Evidence from the Lending Behavior of Money Market Mutual Funds",
+            "date": "07 April 2014",
+            "author": [
+                "Sergey Chernenko",
+                "Adi Sunderam"
+            ],
+            "abstract": "We document frictions in money market mutual fund lending that lead to the transmission of distress across borrowers. Using novel security-level holdings data, we show that funds exposed to Eurozone banks suffered large outflows in mid-2011. These outflows had significant spillovers: non-European issuers relying on such funds raised less short-term debt financing. Issuer characteristics do not explain the results: holding fixed the issuer, funds with higher Eurozone exposure cut lending more. Due to credit market frictions, funds with low Eurozone exposure provided substitute financing only to issuers they had pre-existing relationships with, even though issuers are large, highly rated firms.",
+            "link": "https://doi.org/10.1093/rfs/hhu025"
+        },
+        {
+            "no": "4",
+            "title": "Co-opted Boards",
+            "date": "01 April 2014",
+            "author": [
+                "Jeffrey L. Coles",
+                "Naveen D. Daniel",
+                "Lalitha Naveen"
+            ],
+            "abstract": "We develop two measures of board composition to investigate whether directors appointed by the CEO have allegiance to the CEO and decrease their monitoring. Co-option is the fraction of the board comprised of directors appointed after the CEO assumed office. As Co-option increases, board monitoring decreases: turnover-performance sensitivity diminishes, pay increases (without commensurate increase in pay-performance sensitivity), and investment increases. Non-Co-opted Independence\u2014the fraction of directors who are independent and were appointed before the CEO\u2014has more explanatory power for monitoring effectiveness than the conventional measure of board independence. Our results suggest that not all independent directors are effective monitors.",
+            "link": "https://doi.org/10.1093/rfs/hhu011"
+        },
+        {
+            "no": "5",
+            "title": "Attracting Investor Attention through Advertising",
+            "date": "25 March 2014",
+            "author": [
+                "Dong Lou"
+            ],
+            "abstract": "This paper provides evidence that managers adjust firm advertising, in part, to attract investor attention and influence short-term stock returns. First, I show that increased advertising spending is associated with a contemporaneous rise in retail buying and abnormal stock returns, and is followed by lower future returns. Second, I document a significant increase in advertising spending prior to insider sales and a significant decrease in the subsequent year. Additional analyses suggest that the inverted V-shaped pattern in advertising spending around insider sales is most consistent with managers' opportunistically adjusting firm advertising to exploit the temporary return effect to their own benefit.",
+            "link": "https://doi.org/10.1093/rfs/hhu019"
+        },
+        {
+            "no": "6",
+            "title": "Heterogeneity and Stability: Bolster the Strong, Not the Weak",
+            "date": "04 April 2014",
+            "author": [
+                "Dong Beom Choi"
+            ],
+            "abstract": "We first study a stylized model of self-fulfilling panic among agents with differing fragilities to strategic risk and show that depending on the severity of coordination problems, the panic trigger threshold can depend only on one type's fragility. We then present a model of systemic panic among financial institutions with heterogeneous fragilities to financial spillovers. Concerns about potential spillovers generate strategic interaction, triggering a pre-emption game in which one tries to exit the market before others to avoid spillovers. Although financial contagion originates in weaker institutions, systemic risk can critically depend on financial health of stronger in the contagion chain. In this case, bolstering the strong, rather than the weak, more effectively enhances systemic stability.",
+            "link": "https://doi.org/10.1093/rfs/hhu023"
+        },
+        {
+            "no": "7",
+            "title": "Financial Market Dislocations",
+            "date": "12 February 2014",
+            "author": [
+                "Paolo Pasquariello"
+            ],
+            "abstract": "Dislocations occur when financial markets, operating under stressful conditions, experience large, widespread asset mispricings. This study documents systematic dislocations in world capital markets and the importance of their fluctuations for expected asset returns. Our novel, model-free measure of these dislocations is a monthly average of hundreds of individual abnormal absolute violations of three textbook arbitrage parities in stock, foreign exchange, and money markets. We find that investors demand statistically and economically significant risk premiums to hold financial assets performing poorly during market dislocations, that is, when both frictions to the trading activity of speculators and arbitrageurs and their marginal utility of wealth are likely to be high.",
+            "link": "https://doi.org/10.1093/rfs/hhu007"
+        },
+        {
+            "no": "8",
+            "title": "Index Option Returns: Still Puzzling",
+            "date": "24 March 2014",
+            "author": [
+                "Donald R. Chambers",
+                "Matthew Foy",
+                "Jeffrey Liebner",
+                "Qin Lu"
+            ],
+            "abstract": "Previous research indicates mixed conclusions on the potential mispricing of equity index put options. We examine the returns of put writing and other option strategies by comparing historical option returns with returns generated using option pricing models. We find it is generally possible to reject the hypothesis that put returns are consistent with option pricing models. An implication is that the average cost of buying out-of-the-money put options to provide tail-risk protection to a portfolio may include a significant premium. Our results are based on a sample period of 1987\u20132012 that includes periods of high volatility in equity returns.",
+            "link": "https://doi.org/10.1093/rfs/hhu020"
+        },
+        {
+            "no": "9",
+            "title": "Cover",
+            "date": "06 May 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht091"
+        },
+        {
+            "no": "10",
+            "title": "Editorial Board",
+            "date": "06 May 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht103"
+        },
+        {
+            "no": "11",
+            "title": "Forthcoming Articles",
+            "date": "06 May 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht115"
+        },
+        {
+            "no": "12",
+            "title": "Volume 27 Number 6 June 2014\nThe Review of Financial Studies - Table of Contents",
+            "date": "06 May 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hht127"
+        }
+    ]
+}

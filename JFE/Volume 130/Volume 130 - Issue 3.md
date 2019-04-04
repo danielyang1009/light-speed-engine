@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Fintech, regulatory arbitrage, and the rise of shadow banks
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Greg Buchak
 - Gregor Matvos
 - Tomasz Piskorski
@@ -27,7 +27,7 @@ Shadow bank market share in residential mortgage origination nearly doubled from
 ## 3. Corporate debt maturity profiles
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Jaewon Choi
 - Dirk Hackbarth
 - Josef Zechner
@@ -39,7 +39,7 @@ We study a novel aspect of a firm’s capital structure, namely, the profile of 
 ## 4. Asset pricing and ambiguity: Empirical evidence⁎
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Menachem Brenner
 - Yehuda Izhakian
 ### Abstract
@@ -50,7 +50,7 @@ We introduce ambiguity in conjunction with risk to study the relation between ri
 ## 5. Home away from home? Foreign demand and London house prices
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Cristian Badarinza
 - Tarun Ramadorai
 ### Abstract
@@ -61,7 +61,7 @@ Identifying the effects of “flights to safety” on asset prices using pure ti
 ## 6. When do CDS spreads lead? Rating events, private entities, and firm-specific information flows
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Jongsub Lee
 - Andy Naranjo
 - Guner Velioglu
@@ -73,7 +73,7 @@ We find that credit default swap (CDS) spreads contribute significantly to price
 ## 7. Momentum in Imperial Russia
 ### Date
 - Jul 2018
-### Authors
+### Author
 - William N. Goetzmann
 - Simon Huang
 ### Abstract
@@ -84,7 +84,7 @@ Some of the leading theories of momentum have different empirical predictions th
 ## 8. Government guarantees and the two-way feedback between banking and sovereign debt crises
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Agnese Leonello
 ### Abstract
 This paper studies the effects of government guarantees on the interconnection between banking and sovereign debt crises in a framework where both the banks and the government are fragile and the credibility and feasibility of the guarantees are determined endogenously. The analysis delivers some new results on the role of guarantees in the bank-sovereign nexus. First, guarantees emerge as a key channel linking banks’ and sovereign stability, even in the absence of banks’ holdings of sovereign bonds. Second, depending on the specific characteristics of the economy and the nature of banking crises, an increase in the size of guarantees can be beneficial for the bank-sovereign nexus in that it enhances financial stability without undermining sovereign solvency.
@@ -94,7 +94,7 @@ This paper studies the effects of government guarantees on the interconnection b
 ## 9. Investment, Tobin’s q, and interest rates
 ### Date
 - May 2017
-### Authors
+### Author
 - Xiaoji Lin
 - Chong Wang
 - Neng Wang
@@ -107,7 +107,7 @@ We study the impact of stochastic interest rates and capital illiquidity on inve
 ## 10. Director skill sets
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Renée B. Adams
 - Ali C. Akyol
 - Patrick Verwijmeren
@@ -119,7 +119,7 @@ Directors are not one-dimensional. We characterize their skill sets by exploitin
 ## 11. One fundamental and two taxes: When does a Tobin tax reduce financial price volatility?
 ### Date
 - Apr 2018
-### Authors
+### Author
 - Yongheng Deng
 - Xin Liu
 - Shang-Jin Wei

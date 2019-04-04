@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Liquidity and valuation in an uncertain world
 ### Date
 - Mar 2010
-### Authors
+### Author
 - David Easley
 - Maureen O’Hara
 ### Abstract
@@ -25,7 +25,7 @@ During the 2007–2009 financial crisis there was little or no trading in a vari
 ## 3. Why do firms appoint CEOs as outside directors?
 ### Date
 - Jan 2010
-### Authors
+### Author
 - Rüdiger Fahlenbrach
 - Angie Low
 - René M. Stulz
@@ -37,7 +37,7 @@ Companies actively seek to appoint outside CEOs to their boards. Consistent with
 ## 4. The marketing of seasoned equity offerings
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Xiaohui Gao
 - Jay R. Ritter
 ### Abstract
@@ -48,7 +48,7 @@ In an accelerated seasoned equity offering (SEO), an issuer foregoes the investm
 ## 5. Multi-market trading and arbitrage
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Louis Gagnon
 - G. Andrew Karolyi
 ### Abstract
@@ -59,7 +59,7 @@ We measure arbitrage opportunities by comparing the intraday prices and quotes o
 ## 6. Local institutional investors, information asymmetries, and equity returns
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Bok Baik
 - Jun-Koo Kang
 - Jin-Mo Kim
@@ -71,7 +71,7 @@ We examine the informational role of geographically proximate institutions in st
 ## 7. Comovement, information production, and the business cycle
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Paul Brockman
 - Ivonne Liebenberg
 - Maria Schutte
@@ -83,7 +83,7 @@ Recent theoretical research suggests that information production is a positive e
 ## 8. Returns of claims on the upside and the viability of U-shaped pricing kernels
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Gurdip Bakshi
 - Dilip Madan
 - George Panayotov
@@ -95,7 +95,7 @@ When the pricing kernel is U-shaped, then expected returns of claims with payout
 ## 9. Preferred risk habitat of individual investors
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Daniel Dorn
 - Gur Huberman
 ### Abstract
@@ -106,7 +106,7 @@ The preferred risk habitat hypothesis, introduced here, is that individual inves
 ## 10. Board interlocks and the propensity to be targeted in private equity transactions
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Toby E. Stuart
 - Soojin Yim
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Time varying risk aversion
 ### Date
 - Feb 2018
-### Authors
+### Author
 - Luigi Guiso
 - Paola Sapienza
 - Luigi Zingales
@@ -26,7 +26,7 @@ Exploiting portfolio data and repeated surveys of an Italian bank's clients, we 
 ## 3. Cost of experimentation and the evolution of venture capital
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Michael Ewens
 - Ramana Nanda
 - Matthew Rhodes-Kropf
@@ -38,7 +38,7 @@ We study how technological shocks to the cost of starting new businesses have le
 ## 4. Are stock-financed takeovers opportunistic?
 ### Date
 - Mar 2018
-### Authors
+### Author
 - B. Espen Eckbo
 - Tanakorn Makaew
 - Karin S. Thorburn
@@ -50,7 +50,7 @@ The more the target knows about the bidder, the more difficult is paying the tar
 ## 5. Managerial myopia and the mortgage meltdown
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Adam C. Kolasinski
 - Nan Yang
 ### Abstract
@@ -61,7 +61,7 @@ Prominent policy makers assert that managerial short-termism was at the root of 
 ## 6. Cash flow duration and the term structure of equity returns
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Michael Weber
 ### Abstract
 The term structure of equity returns is downward-sloping: stocks with high cash flow duration earn 1.10% per month lower returns than short-duration stocks in the cross-section. I create a measure of cash flow duration at the firm level using balance sheet data to show this novel fact. Factor models can explain only 50% of the return differential, and the difference in returns is three times larger after periods of high investor sentiment. Analysts extrapolate from past earnings growth into the future and predict high returns for high-duration stocks following high-sentiment periods, contrary to ex-post realizations. I use institutional ownership as a proxy for short-sale constraints, and find the negative cross-sectional relationship between cash flow duration and returns is only contained within short-sale constrained stocks.
@@ -71,7 +71,7 @@ The term structure of equity returns is downward-sloping: stocks with high cash 
 ## 7. Asset pricing with beliefs-dependent risk aversion and learning
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Tony Berrada
 - Jérôme Detemple
 - Marcel Rindisbacher
@@ -83,7 +83,7 @@ This paper studies equilibrium in a pure exchange economy with unobservable Mark
 ## 8. Playing favorites: Conflicts of interest in mutual fund management
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Diane Del Guercio
 - Egemen Genç
 - Hai Tran
@@ -95,7 +95,7 @@ We examine the performance of mutual funds whose managers simultaneously manage 
 ## 9. The unintended consequences of divestment
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Shaun William Davies
 - Edward Dickersin Van Wesep
 ### Abstract
@@ -106,7 +106,7 @@ A divestment campaign aims to depress share prices to induce managers to change 
 ## 10. Are institutional investors with multiple blockholdings effective monitors?
 ### Date
 - Mar 2018
-### Authors
+### Author
 - Jun-Koo Kang
 - Juan Luo
 - Hyun Seung Na

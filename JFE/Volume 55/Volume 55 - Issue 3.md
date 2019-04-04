@@ -5,7 +5,7 @@
 ## 1. DOS Kapital: Has antitrust action against Microsoft created value in the computer industry?
 ### Date
 - Mar 2000
-### Authors
+### Author
 - George Bittlingmayer
 - Thomas W Hazlett
 ### Abstract
@@ -16,7 +16,7 @@ Antitrust enforcement that efficiently constrains Microsoft's behavior benefits 
 ## 2. Uniformly least powerful tests of market efficiency
 ### Date
 - Mar 2000
-### Authors
+### Author
 - Tim Loughran
 - Jay R. Ritter
 ### Abstract
@@ -27,7 +27,7 @@ Defenders of market efficiency argue that anomalies involving long-term abnormal
 ## 3. Managerial discipline and corporate restructuring following performance declines
 ### Date
 - Mar 2000
-### Authors
+### Author
 - David J Denis
 - Timothy A Kruse
 ### Abstract
@@ -38,7 +38,7 @@ We examine the incidence of disciplinary events that reduce the control of curre
 ## 4. Can transparent markets survive?
 ### Date
 - Mar 2000
-### Authors
+### Author
 - Robert Bloomfield
 - Maureen O'Hara
 ### Abstract
@@ -49,7 +49,7 @@ This paper investigates whether transparent markets can survive when faced with 
 ## 5. Index
 ### Date
 - Mar 2000
-### Authors
+### Author
 ### Abstract
 
 ### Link

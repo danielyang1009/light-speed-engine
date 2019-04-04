@@ -1,0 +1,251 @@
+{
+    "journal": "JF",
+    "volume": "52",
+    "issue": "1",
+    "date": "March 1997",
+    "page": "Pages: i-vii, 1-450, viii-xxxii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "30 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00267.x"
+        },
+        {
+            "no": "2",
+            "title": "Evidence on the Characteristics of Cross Sectional Variation in Stock Returns",
+            "date": "18 April 2012",
+            "author": [
+                "KENT DANIEL",
+                "SHERIDAN TITMAN"
+            ],
+            "abstract": "Firm sizes and book\u2010to\u2010market ratios are both highly correlated with the average returns of common stocks. Fama and French (1993) argue that the association between these characteristics and returns arise because the characteristics are proxies for nondiversifiable factor risk. In contrast, the evidence in this article indicates that the return premia on small capitalization and high book\u2010to\u2010market stocks does not arise because of the comovements of these stocks with pervasive factors. It is the characteristics rather than the covariance structure of returns that appear to explain the cross\u2010sectional variation in stock returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03806.x"
+        },
+        {
+            "no": "3",
+            "title": "The Limits of Arbitrage",
+            "date": "18 April 2012",
+            "author": [
+                "Andrei Shleifer",
+                "Robert W. Vishny"
+            ],
+            "abstract": "Textbook arbitrage in financial markets requires no capital and entails no risk. In reality, almost all arbitrage requires capital, and is typically risky. Moreover, professional arbitrage is conducted by a relatively small number of highly specialized investors using other people's capital. Such professional arbitrage has a number of interesting implications for security pricing, including the possibility that arbitrage becomes ineffective in extreme circumstances, when prices diverge far from fundamental values. The model also suggests where anomalies in financial markets are likely to appear, and why arbitrage fails to eliminate them.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03807.x"
+        },
+        {
+            "no": "4",
+            "title": "On Persistence in Mutual Fund Performance",
+            "date": "18 April 2012",
+            "author": [
+                "Mark M. Carhart"
+            ],
+            "abstract": "Using a sample free of survivor bias, I demonstrate that common factors in stock returns and investment expenses almost completely explain persistence in equity mutual funds' mean and risk\u2010adjusted returns. Hendricks, Patel and Zeckhauser's (1993) \u201chot hands\u201d result is mostly driven by the one\u2010year momentum effect of Jegadeesh and Titman (1993), but individual funds do not earn higher returns from following the momentum strategy in stocks. The only significant persistence not explained is concentrated in strong underperformance by the worst\u2010return mutual funds. The results do not support the existence of skilled or informed mutual fund portfolio managers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03808.x"
+        },
+        {
+            "no": "5",
+            "title": "Cash Flow and Investment: Evidence from Internal Capital Markets",
+            "date": "18 April 2012",
+            "author": [
+                "OWEN LAMONT"
+            ],
+            "abstract": "Using data from the 1986 oil price decrease, I examine the capital expenditures of nonoil subsidiaries of oil companies. I test the joint hypothesis that 1) a decrease in cash/collateral decreases investment, holding fixed the profitability of investment, and 2) the finance costs of different parts of the same corporation are interdependent. The results support this joint hypothesis: oil companies significantly reduced their nonoil investment compared to the median industry investment. The 1986 decline in investment was concentrated in nonoil units that were subsidized by the rest of the company in 1985.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03809.x"
+        },
+        {
+            "no": "6",
+            "title": "Internal Capital Markets and the Competition for Corporate Resources",
+            "date": "18 April 2012",
+            "author": [
+                "JEREMY C. STEIN"
+            ],
+            "abstract": "This article examines the role of corporate headquarters in allocating scarce resources to competing projects in an internal capital market. Unlike a bank, headquarters has control rights that enable it to engage in \u201cwinner\u2010picking\u201d\u2014the practice of actively shifting funds from one project to another. By doing a good job in the winner\u2010picking dimension, headquarters can create value even when it cannot help at all to relax overall firm\u2010wide credit constraints. The model implies that internal capital markets may sometimes function more efficiently when headquarters oversees a small and focused set of projects.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03810.x"
+        },
+        {
+            "no": "7",
+            "title": "Agency Problems, Equity Ownership, and Corporate Diversification",
+            "date": "18 April 2012",
+            "author": [
+                "DAVID J. DENIS",
+                "DIANE K. DENIS",
+                "ATULYA SARIN"
+            ],
+            "abstract": "We provide evidence on the agency cost explanation for corporate diversification. We find that the level of diversification is negatively related to managerial equity ownership and to the equity ownership of outside blockholders. In addition, we report that decreases in diversification are associated with external corporate control threats, financial distress, and management turnover. These findings suggest that agency problems are responsible for firms maintaining value\u2010reducing diversification strategies and that the recent trend toward increased corporate focus is attributable to market disciplinary forces.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03811.x"
+        },
+        {
+            "no": "8",
+            "title": "Transactions Costs and Capital Structure Choice: Evidence from Financially Distressed Firms",
+            "date": "18 April 2012",
+            "author": [
+                "STUART C. GILSON"
+            ],
+            "abstract": "This study provides evidence that transactions costs discourage debt reductions by financially distressed firms when they restructure their debt out of court. As a result, these firms remain highly leveraged and one\u2010in\u2010three subsequently experience financial distress. Transactions costs are significantly smaller, hence leverage falls by more and there is less recurrence of financial distress, when firms recontract in Chapter 11. Chapter 11 therefore gives financially distressed firms more flexibility to choose optimal capital structures.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03812.x"
+        },
+        {
+            "no": "9",
+            "title": "Equity Issuance and Adverse Selection: A Direct Test Using Conditional Stock Offers",
+            "date": "18 April 2012",
+            "author": [
+                "JOEL F. HOUSTON",
+                "MICHAEL D. RYNGAERT"
+            ],
+            "abstract": "We conduct a unique test of adverse selection in the equity issuance process. While common stock is the dominant means of payment in bank mergers, stock acquisition agreements provide target shareholders with varying degrees of protection against adverse price movements in the bidder's stock between the time of the merger agreement and the time of merger completion. We show that it is the degree of protection against adverse price changes and not the percent of stock offered in a bank merger that explains bidder merger announcement abnormal returns. This result is difficult to explain outside of an adverse selection framework.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03813.x"
+        },
+        {
+            "no": "10",
+            "title": "Quotes, Order Flow, and Price Discovery",
+            "date": "18 April 2012",
+            "author": [
+                "MARSHALL E. BLUME",
+                "MICHAEL A. GOLDSTEIN"
+            ],
+            "abstract": "The goal of this article is to examine the impact of 1975 Congressional mandate to integrate the trading of NYSE\u2010listed stocks. The conclusions are: most of the time, the New York Stock Exchange (NYSE) quote matches or determines the best displayed quote, and the NYSE is the most frequent initiator of quote changes. Non\u2010NYSE markets attract a significant portion of their volume when they are posting inferior bids or offers, indicating they obtain order flow for other reasons, such as \u201cpayment for order flow.\u201d Yet, when a non\u2010NYSE market does post a better bid or offer, it does attract additional order flow.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03814.x"
+        },
+        {
+            "no": "11",
+            "title": "Competition and Collusion in Dealer Markets",
+            "date": "18 April 2012",
+            "author": [
+                "PRAJIT K. DUTTA",
+                "ANANTH MADHAVAN"
+            ],
+            "abstract": "This article develops a game\u2010theoretic model to analyze market makers' intertemporal pricing strategies. We show that dealers who adopt noncooperative pricing strategies may set bid\u2010ask spreads above competitive levels. This form of \u201cimplicit collusion\u201d differs from explicit collusion, where dealers cooperate to fix prices. Price discreteness or asymmetric information are not required for collusion to occur. Rather, institutional arrangements that restrict access to the order flow are important determinants of the ability to collude because they reduce dealers' incentives to compete on price. Public policy efforts to increase interdealer competition should focus on such restrictions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03815.x"
+        },
+        {
+            "no": "12",
+            "title": "Market Orders and Market Efficiency",
+            "date": "18 April 2012",
+            "author": [
+                "DAVID P. BROWN",
+                "ZHI MING ZHANG"
+            ],
+            "abstract": "This work compares a dealer market and a limit\u2010order book. Dealers commonly observe order flow and collect information from multiple market orders. They may be better informed than other traders, although they do not earn rents from this information. Dealers earn rents as suppliers of liquidity, and their decisions to enter or exit the market are independent of the degree of adverse selection. Introduction of a limit\u2010order book lowers the execution\u2010price risk faced by speculators and leads them to trade more aggressively on their information. Introduction of the book also lowers dealer profits, but increases the informational efficiency of prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03816.x"
+        },
+        {
+            "no": "13",
+            "title": "Transactions Costs and Holding Periods for Common Stocks",
+            "date": "18 April 2012",
+            "author": [
+                "ALLEN B. ATKINS",
+                "EDWARD A. DYL"
+            ],
+            "abstract": "Amihud and Mendelson (1986) and Constantinides (1986) provide a theoretical basis for the proposition that assets with higher transactions costs are held by investors for longer holding periods, and vice versa. We examine average holding periods and bid\u2010ask spreads for Nasdaq stocks from 1983 through 1991 and for New York Stock Exchange (NYSE) stocks from 1975 through 1989 and find strong evidence that, as predicted, the length of investors' holding periods is related to bid\u2010ask spreads. We also find that the relation between holding periods and bid\u2010ask spreads is much stronger on Nasdaq, where spreads are larger, than on the NYSE, where spreads are smaller.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03817.x"
+        },
+        {
+            "no": "14",
+            "title": "The Delisting Bias in CRSP Data",
+            "date": "18 April 2012",
+            "author": [
+                "TYLER SHUMWAY"
+            ],
+            "abstract": "I document a delisting bias in the stock return data base maintained by the Center for Research in Security Prices (CRSP). I find that delists for bankruptcy and other negative reasons are generally surprises and that correct delisting returns are not available for most of the stocks that have been delisted for negative reasons since 1962. Using over\u2010the\u2010counter price data, I show that the omitted delisting returns are large. Implications of the bias are discussed.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03818.x"
+        },
+        {
+            "no": "15",
+            "title": "Third Market Broker\u2010Dealers: Cost Competitors or Cream Skimmers?",
+            "date": "18 April 2012",
+            "author": [
+                "ROBERT H. BATTALIO"
+            ],
+            "abstract": "This article compares the bid\u2010ask spread for New York Stock Exchange (NYSE)\u2010listed securities before and after a major third market broker\u2010dealer, Bernard L. Madoff Investment Securities (Madoff), begins to selectively purchase and execute orders in those securities. Tests reveal the quoted bid\u2010ask spread tightens when Madoff enters the market. Furthermore, trading costs as measured by the difference between the transaction price and the midpoint of the contemporaneous bid\u2010ask spread do not increase. Together, these results suggest that the adverse selection problem associated with allowing agents to selectively execute orders in exchange\u2010listed securities may be economically insignificant.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03819.x"
+        },
+        {
+            "no": "16",
+            "title": "Marketable Incentive Contracts and Capital Structure Relevance",
+            "date": "18 April 2012",
+            "author": [
+                "GERALD T. GARVEY"
+            ],
+            "abstract": "This article investigates the claim that debt finance can increase firm value by curtailing managers' access to \u201cfree cash flow.\u201d We first show that incentive contracts that tie the managers' pay to stockholder wealth are often a superior solution to the free cash flow problem. We then consider the possibility that the manager can trade on secondary capital markets. Liquid secondary markets are shown to undermine management incentive schemes and, in many cases, to restore the value of debt finance in controlling the free cash flow problem.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03820.x"
+        },
+        {
+            "no": "17",
+            "title": "The Pricing of Initial Public Offers of Corporate Straight Debt",
+            "date": "18 April 2012",
+            "author": [
+                "SUDIP DATTA",
+                "MAI ISKANDAR-DATTA",
+                "AJAY PATEL"
+            ],
+            "abstract": "This study examines the initial\u2010day and aftermarket price performance of corporate straight debt IPOs. We find that IPOs of speculative grade debt are underpriced like equity IPOs, while those rated investment grade are overpriced. IPOs of investment grade debt are typically issued by firms listed on the major exchanges and underwritten by prestigious underwriters. In contrast, junk bond IPOs are more likely to be handled by less prestigious underwriters and are typically issued by OTC firms. Our analysis also reveals that bond rating, market listing of the firm, and investment banker quality are significant determinants of bond IPO returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03821.x"
+        },
+        {
+            "no": "18",
+            "title": "Dividends, Taxes, and Signaling: Evidence from Germany",
+            "date": "18 April 2012",
+            "author": [
+                "YAKOV AMIHUD",
+                "MAURIZIO MURGIA"
+            ],
+            "abstract": "The higher taxation of dividends in the United States gave rise to theories that explain why companies pay dividends. Tax\u2010based signaling models propose that the higher tax on dividends is a necessary condition to make them informative about companies' values. In Germany, where dividends are not tax\u2010disadvantaged and in fact are taxed lower for most investor classes, these models predict that dividends are not informative. However, we find that the stock price reaction to dividend news in Germany is similar to that found in the United States. This suggests other reasons, beyond taxation, that make dividends informative.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03822.x"
+        },
+        {
+            "no": "19",
+            "title": "Closed Form Solutions for Term Structure Derivatives with Log\u2010Normal Interest Rates",
+            "date": "18 April 2012",
+            "author": [
+                "KRISTIAN R. MILTERSEN",
+                "KLAUS SANDMANN",
+                "DIETER SONDERMANN"
+            ],
+            "abstract": "We derive a unified model that gives closed form solutions for caps and floors written on interest rates as well as puts and calls written on zero\u2010coupon bonds. The crucial assumption is that simple interest rates over a fixed finite period that matches the contract, which we want to price, are log\u2010normally distributed. Moreover, this assumption is shown to be consistent with the Heath\u2010Jarrow\u2010Morton model for a specific choice of volatility.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03823.x"
+        },
+        {
+            "no": "20",
+            "title": "Book Reviews",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nCoping with Financial Fragility and Systemic Risk. Edited by HARALD A. BENINK. Boston\nThe Mechanisms of Governance. By OLIVER WILLIAMSON.\nCompany Management and Capital Market Development in the Transition. Edited by MARVIN JACKSON and VALENTIJN BILSEN.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03824.x"
+        },
+        {
+            "no": "21",
+            "title": "MISCELLANEA",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03825.x"
+        },
+        {
+            "no": "22",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03826.x"
+        },
+        {
+            "no": "23",
+            "title": "ANNOUNCEMENTS",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb03827.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "30 November 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00268.x"
+        }
+    ]
+}

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Jan 1997
-### Authors
+### Author
 - Michael C. Jensen
 - G.William Schwert
 ### Abstract
@@ -25,7 +25,7 @@
 ## 3. Returns to contrarian investment strategies: Tests of naive expectations hypotheses
 ### Date
 - Jan 1997
-### Authors
+### Author
 - Patricia M. Dechow
 - Richard G. Sloan
 ### Abstract
@@ -36,7 +36,7 @@ This paper examines the ability of naive investor expectations models to explain
 ## 4. Emerging equity market volatility
 ### Date
 - Jan 1997
-### Authors
+### Author
 - Geert Bekaert
 - Campbell R. Harvey
 ### Abstract
@@ -47,7 +47,7 @@ Understanding volatility in emerging capital markets is important for determinin
 ## 5. The complexity of compensation contracts
 ### Date
 - Jan 1997
-### Authors
+### Author
 - Stacey R. Kole
 ### Abstract
 Management compensation is often categorized as either sensitive or insensitive to firm performance. This one-dimensional treatment ignores the variation in the types and terms of compensation contracts. Through a cross-sectional examination of share-holder-authorized compensation arrangements, this paper demonstrates that the terms of stock option and restricted stock plans, and the flexibility afforded the board of directions in negotiating with managers, vary systematically with the characteristics of the assets being managed. This variation in compensation contracting challenges theorists to incorporate the richness of management contracts into models of incentive pay.
@@ -57,7 +57,7 @@ Management compensation is often categorized as either sensitive or insensitive 
 ## 6. Layoffs and underwritten rights offers
 ### Date
 - Jan 1997
-### Authors
+### Author
 - Ajai K. Singh
 ### Abstract
 In seasoned equity rights offers, the standby underwriting contract resembles the sale of a put option. In the rights offering period, underwriters reduce their exposure to the standby underwriting by purchasing rights hedged with short sale of the common stock. Consistent with Eckbo and Masulis (1992), offers with large rights sell-offs during the offering period experience significant price decline. The offering period price decline and the nature of constraints confronting underwriters may partially explain the preference for general public offers.
@@ -67,7 +67,7 @@ In seasoned equity rights offers, the standby underwriting contract resembles th
 ## 7. The effects of equity issues on ownership structure and stock liquidity: A comparison of rights and public offerings
 ### Date
 - Jan 1997
-### Authors
+### Author
 - Meeta Kothare
 ### Abstract
 I find that proportionate bid ask spreads increase after rights offerings of common stock, but decrease after public underwritten offerings. These changes are correlated with changes in the issuing firm's ownership structure. Public offerings cause greater dispersion in share ownership while rights offerings lead to more concentrated ownership. I argue that increased spreads represent a significant cost to issuing firms shareholders, making rights offerings costlier than public underwritten offerings for actively traded firms.
@@ -77,7 +77,7 @@ I find that proportionate bid ask spreads increase after rights offerings of com
 ## 8. Call for papers
 ### Date
 - Jan 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link

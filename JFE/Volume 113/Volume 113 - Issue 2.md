@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Asset pricing: A tale of two days
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Pavel Savor
 - Mungo Wilson
 ### Abstract
@@ -25,7 +25,7 @@ We show that asset prices behave very differently on days when important macroec
 ## 3. Stock market returns and annuitization
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Alessandro Previtero
 ### Abstract
 I investigate the strong negative relation between recent stock returns and the annuitization of retirement savings using a novel data set with over 100,000 actual payout decisions. After controlling for several standard explanations (e.g., wealth effects), I present evidence supporting naïve beliefs and extrapolation from past returns. The effect of recent returns on annuitization dramatically increases with age, confirming that the elderly rely most heavily on recent information. My results provide insights into how beliefs are formed in old age and have implications for the design of public policies seeking to promote annuitization.
@@ -35,7 +35,7 @@ I investigate the strong negative relation between recent stock returns and the 
 ## 4. The genetics of investment biases
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Henrik Cronqvist
 - Stephan Siegel
 ### Abstract
@@ -46,7 +46,7 @@ For a long list of investment “biases,” including lack of diversification, e
 ## 5. Trading networks and liquidity provision
 ### Date
 - Apr 2014
-### Authors
+### Author
 - Ethan Cohen-Cole
 - Andrei Kirilenko
 - Eleonora Patacchini
@@ -58,7 +58,7 @@ We study the profitability of traders in two fully electronic and highly liquid 
 ## 6. Tailspotting: Identifying and profiting from CEO vacation trips
 ### Date
 - Apr 2014
-### Authors
+### Author
 - David Yermack
 ### Abstract
 This paper shows connections between chief executive officers׳ (CEOs׳) absences from headquarters and corporate news disclosures. I identify CEO absences by merging records of corporate jet flights and CEOs׳ property ownership near leisure destinations. CEOs travel to their vacation homes just after companies report favorable news, and CEOs return to headquarters right before subsequent news releases. When CEOs are away, companies announce less news, mandatory disclosures occur later, and stock volatility falls sharply. Volatility increases when CEOs return to work. CEOs spend fewer days out of the office when ownership is high and when weather is bad at their vacation homes.
@@ -68,7 +68,7 @@ This paper shows connections between chief executive officers׳ (CEOs׳) absence
 ## 7. Mortgage convexity
 ### Date
 - May 2014
-### Authors
+### Author
 - Samuel G. Hanson
 ### Abstract
 Most home mortgages in the United States are fixed-rate loans with an embedded prepayment option. When long-term rates decline, the effective duration of mortgage-backed securities (MBS) falls due to heightened refinancing expectations. I show that these changes in MBS duration function as large-scale shocks to the quantity of interest rate risk that must be borne by professional bond investors. I develop a simple model in which the risk tolerance of bond investors is limited in the short run, so these fluctuations in MBS duration generate significant variation in bond risk premia. Specifically, bond risk premia are high when aggregate MBS duration is high. The model offers an explanation for why long-term rates could appear to be excessively sensitive to movements in short rates and explains how changes in MBS duration act as a positive-feedback mechanism that amplifies interest rate volatility. I find strong support for these predictions in the time series of US government bond returns.
@@ -78,7 +78,7 @@ Most home mortgages in the United States are fixed-rate loans with an embedded p
 ## 8. Income hedging and portfolio decisions
 ### Date
 - May 2014
-### Authors
+### Author
 - Yosef Bonaparte
 - George M. Korniotis
 - Alok Kumar

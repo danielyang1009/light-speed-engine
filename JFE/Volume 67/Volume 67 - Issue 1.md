@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Publishers Note: Economics Journals Archive on Science Direct
 ### Date
 - Jan 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -23,7 +23,7 @@
 ## 3. Why does IPO volume fluctuate so much?
 ### Date
 - Jan 2003
-### Authors
+### Author
 - Michelle Lowry
 ### Abstract
 IPO volume fluctuates substantially over time. This paper compares the extent to which the aggregate capital demands of private firms, the adverse-selection costs of issuing equity, and the level of investor optimism can explain these fluctuations. Empirical tests include both aggregate and industry-level time-series regressions using proxies for the above factors and an analysis of the relation between post-IPO stock returns and IPO volume. Results indicate that firmsâ€™ demands for capital and investor sentiment are important determinants of IPO volume, in both statistical and economic terms. Adverse-selection costs are also statistically significant, but their economic effect appears small.
@@ -33,7 +33,7 @@ IPO volume fluctuates substantially over time. This paper compares the extent to
 ## 4. A multivariate model of strategic asset allocation
 ### Date
 - Jan 2003
-### Authors
+### Author
 - John Y. Campbell
 - Yeung Lewis Chan
 - Luis M. Viceira
@@ -45,7 +45,7 @@ We develop an approximate solution method for the optimal consumption and portfo
 ## 5. Firms and their distressed banks: lessons from the Norwegian banking crisis
 ### Date
 - Jan 2003
-### Authors
+### Author
 - Steven Ongena
 - David C Smith
 - Dag Michalsen
@@ -57,7 +57,7 @@ We use the near-collapse of the Norwegian banking system during the period 1988â
 ## 6. Valuation effects of bank financing in acquisitions
 ### Date
 - Jan 2003
-### Authors
+### Author
 - Anu Bharadwaj
 - Anil Shivdasani
 ### Abstract
@@ -68,7 +68,7 @@ In a sample of 115 cash tender offers between 1990 and 1996, banks extend financ
 ## 7. Concealing and confounding adverse signals: insider wealth-maximizing behavior in the IPO process
 ### Date
 - Jan 2003
-### Authors
+### Author
 - James S. Ang
 - James C. Brau
 ### Abstract
@@ -79,7 +79,7 @@ We study a known negative signal, the sale of insider shares in an IPO and find 
 ## 8. Advert: Science Direct
 ### Date
 - Jan 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -88,7 +88,7 @@ We study a known negative signal, the sale of insider shares in an IPO and find 
 ## 9. Advert: Author Gateway
 ### Date
 - Jan 2003
-### Authors
+### Author
 ### Abstract
 
 ### Link

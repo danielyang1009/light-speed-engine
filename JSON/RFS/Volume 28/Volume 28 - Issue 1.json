@@ -1,0 +1,132 @@
+{
+    "journal": "RFS",
+    "volume": "28",
+    "issue": "1",
+    "date": "January 2015",
+    "page": "Pages 1\u2013296",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Sum of All FEARS Investor Sentiment and Asset Prices",
+            "date": "17 October 2014",
+            "author": [
+                "Zhi Da",
+                "Joseph Engelberg",
+                "Pengjie Gao"
+            ],
+            "abstract": "We use daily Internet search volume from millions of households to reveal market-level sentiment. By aggregating the volume of queries related to household concerns (e.g., \u201crecession,\u201d \u201cunemployment,\u201d and \u201cbankruptcy\u201d), we construct a Financial and Economic Attitudes Revealed by Search (FEARS) index as a new measure of investor sentiment. Between 2004 and 2011, we find FEARS (i) predict short-term return reversals, (ii) predict temporary increases in volatility, and (iii) predict mutual fund flows out of equity funds and into bond funds. Taken together, the results are broadly consistent with theories of investor sentiment.",
+            "link": "https://doi.org/10.1093/rfs/hhu072"
+        },
+        {
+            "no": "2",
+            "title": "Investor Attention and Stock Market Volatility",
+            "date": "09 September 2014",
+            "author": [
+                "Daniel Andrei",
+                "Michael Hasler"
+            ],
+            "abstract": "We investigate, in a theoretical framework, the joint role played by investors' attention to news and learning uncertainty in determining asset prices. The model provides two main predictions. First, stock return variance and risk premia increase with both attention and uncertainty. Second, this increasing relationship is quadratic. We empirically test these two predictions, and we show that the data lend support to the increasing relationship. The evidence for a quadratic relationship is mixed. Overall, our study shows theoretically and empirically that both attention and uncertainty are key determinants of asset prices.",
+            "link": "https://doi.org/10.1093/rfs/hhu059"
+        },
+        {
+            "no": "3",
+            "title": "Weather-Induced Mood, Institutional Investors, and Stock Returns",
+            "date": "23 September 2014",
+            "author": [
+                "William N. Goetzmann",
+                "Dasol Kim",
+                "Alok Kumar",
+                "Qin Wang"
+            ],
+            "abstract": "This study shows that weather-based indicators of mood impact perceptions of mispricing and trading decisions of institutional investors. Using survey and disaggregated trade data, we show that relatively cloudier days increase perceived overpricing in individual stocks and the Dow Jones Industrial Index and increase selling propensities of institutions. We introduce stock-level measures of investor mood; investor optimism positively impacts stock returns among stocks with higher arbitrage costs, and stocks experiencing similar investor mood exhibit return comovement. These findings complement existing studies on how weather impacts stock index returns and identify another channel through which it can manifest.",
+            "link": "https://doi.org/10.1093/rfs/hhu063"
+        },
+        {
+            "no": "4",
+            "title": "The Implicit Costs of Trade Credit Borrowing by Large Firms",
+            "date": "01 August 2014",
+            "author": [
+                "Justin Murfin",
+                "Ken Njoroge"
+            ],
+            "abstract": "We examine a novel, but economically important, characterization of trade credit relationships in which large investment-grade buyers borrow from their smaller suppliers. Using a matched sample of large retail buyers and their much smaller suppliers, we find that slower payment terms by large retailers are associated with lower investment at the supplier level. The effects are sharpest during periods of tight bank credit and for firms which we might otherwise characterize as financially constrained. The opportunity cost of extending credit to large buyers appears to be positive and sharply increasing in the financial frictions facing a firm.",
+            "link": "https://doi.org/10.1093/rfs/hhu051"
+        },
+        {
+            "no": "5",
+            "title": "Shadow Banking and Bank Capital Regulation",
+            "date": "14 August 2014",
+            "author": [
+                "Guillaume Plantin"
+            ],
+            "abstract": "Banks are subject to capital requirements because their privately optimal leverage is higher than the socially optimal one. This is in turn because banks fail to internalize all costs that their insolvency creates for agents who use their money-like liabilities to settle transactions. If banks can bypass capital regulation in an opaque shadow banking sector, it may be optimal to relax capital requirements so that liquidity dries up in the shadow banking sector. Tightening capital requirements may spur a surge in shadow banking activity that leads to an overall larger risk on the money-like liabilities of the formal and shadow banking institutions.",
+            "link": "https://doi.org/10.1093/rfs/hhu055"
+        },
+        {
+            "no": "6",
+            "title": "Securitization and the Fixed-Rate Mortgage",
+            "date": "05 November 2014",
+            "author": [
+                "Andreas Fuster",
+                "James Vickery"
+            ],
+            "abstract": "Fixed-rate mortgages (FRMs) dominate the U.S. mortgage market, with important consequences for monetary policy, household risk management, and financial stability. We show that the FRM market share is sharply lower when mortgages are difficult to securitize, exploiting plausibly exogenous variation in access to liquid securitization markets generated by a regulatory cutoff and time variation in private securitization activity. We interpret our findings as evidence that lenders are reluctant to retain the prepayment and interest rate risk embedded in FRMs. The form of securitization (private versus government backed) has little effect on FRM supply during periods in which private securitization markets are well functioning.",
+            "link": "https://doi.org/10.1093/rfs/hhu060"
+        },
+        {
+            "no": "7",
+            "title": "Regression Discontinuity and the Price Effects of Stock Market Indexing",
+            "date": "29 July 2014",
+            "author": [
+                "Yen-Cheng Chang",
+                "Harrison Hong",
+                "Inessa Liskovich"
+            ],
+            "abstract": "The Russell 1000 and 2000 stock indexes comprise the first 1000 and next 2000 largest firms ranked by market capitalization. Small changes in the capitalizations of firms ranked near 1000 move them between these indexes. Because the indexes are value-weighted, more money tracks the largest stocks in the Russell 2000 than the smallest in the Russell 1000. Using this discontinuity, we find that additions to the Russell 2000 result in price increases and deletions result in price declines. We then identify time trends in indexing effects and the types of funds that provide liquidity to indexers.",
+            "link": "https://doi.org/10.1093/rfs/hhu041"
+        },
+        {
+            "no": "8",
+            "title": "Feedback Trading between Fundamental and Nonfundamental Information",
+            "date": "03 September 2014",
+            "author": [
+                "Ming Guo",
+                "Hui Ou-Yang"
+            ],
+            "abstract": "We develop a strategic trading model in which an insider exploits noise traders' overreaction. A feedback effect arises from the insider's trading on fundamental information (the expected growth rate of dividends) and nonfundamental information (insider's inventory or noise supply). We find that the stock price is not fully revealing; a faster mean-reverting noise supply leads to a more volatile price; the price impact can increase with insider's risk-aversion; and a risk-averse insider can trade more aggressively on fundamental information than a risk-neutral one does. Insider's current trade and his previous inventory exhibit simultaneously positive forecasting powers for future stock returns.",
+            "link": "https://doi.org/10.1093/rfs/hhu057"
+        },
+        {
+            "no": "9",
+            "title": "Cover",
+            "date": "15 December 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu141"
+        },
+        {
+            "no": "10",
+            "title": "Editorial Board",
+            "date": "15 December 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu142"
+        },
+        {
+            "no": "11",
+            "title": "Forthcoming Articles",
+            "date": "15 December 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu143"
+        },
+        {
+            "no": "12",
+            "title": "Volume 28 Number 1 January 2015\nThe Review of Financial Studies - Table of Contents",
+            "date": "15 December 2014",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu144"
+        }
+    ]
+}

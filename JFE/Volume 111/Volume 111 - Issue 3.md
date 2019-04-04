@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2014
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Countercyclical currency risk premia
 ### Date
 - Dec 2013
-### Authors
+### Author
 - Hanno Lustig
 - Nikolai Roussanov
 - Adrien Verdelhan
@@ -26,7 +26,7 @@ We describe a novel currency investment strategy, the ‘dollar carry trade,’ 
 ## 3. Learning from peers' stock prices and corporate investment
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Thierry Foucault
 - Laurent Fresard
 ### Abstract
@@ -37,7 +37,7 @@ Peers' valuation matters for firms' investment: a one standard deviation increas
 ## 4. Motivating innovation in newly public firms
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Nina Baranchuk
 - Robert Kieschnick
 - Rabih Moussawi
@@ -49,7 +49,7 @@ Prior research suggests that executive option grants that do not quickly vest pr
 ## 5. Trading in derivatives when the underlying is scarce
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Snehal Banerjee
 - Jeremy J. Graveline
 ### Abstract
@@ -60,7 +60,7 @@ Regulatory restrictions and market frictions can constrain the aggregate quantit
 ## 6. Speculating on home improvements
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Hyun-Soo Choi
 - Harrison Hong
 - Jose Scheinkman
@@ -72,7 +72,7 @@ We develop a speculation-based theory of home improvements. Housing services are
 ## 7. Does option trading convey stock price information?
 ### Date
 - Dec 2013
-### Authors
+### Author
 - Jianfeng Hu
 ### Abstract
 After executing option orders, options market makers turn to the stock market to hedge away the underlying stock exposure. As a result, the stock exposure imbalance in option transactions translates into an imbalance in stock transactions. This paper decomposes the total stock order imbalance into an imbalance induced by option transactions and an imbalance independent of options. The analysis shows that the option-induced imbalance significantly predicts future stock returns in the cross section controlling for the past stock and options returns, but the imbalance independent of options has only a transitory price impact. Further investigation suggests that options order flow contains important information about the underlying stock value.
@@ -82,7 +82,7 @@ After executing option orders, options market makers turn to the stock market to
 ## 8. Crises and confidence: Systemic banking crises and depositor behavior
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Una Okonkwo Osili
 - Anna Paulson
 ### Abstract
@@ -93,7 +93,7 @@ We show that individuals who have experienced a systemic banking crisis are 11 p
 ## 9. Fund Manager Allocation
 ### Date
 - Nov 2013
-### Authors
+### Author
 - Jieyan Fang
 - Alexander Kempf
 - Monika Trapp

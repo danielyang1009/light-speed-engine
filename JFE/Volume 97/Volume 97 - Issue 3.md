@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The 2007–8 financial crisis: Lessons from corporate finance
 ### Date
 - May 2010
-### Authors
+### Author
 - Anil K Kashyap
 - Luigi Zingales
 ### Abstract
@@ -25,7 +25,7 @@
 ## 3. Unstable banking
 ### Date
 - Oct 2009
-### Authors
+### Author
 - Andrei Shleifer
 - Robert W. Vishny
 ### Abstract
@@ -36,7 +36,7 @@ We propose a theory of financial intermediaries operating in markets influenced 
 ## 4. Bank lending during the financial crisis of 2008
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Victoria Ivashina
 - David Scharfstein
 ### Abstract
@@ -47,7 +47,7 @@ This paper shows that new loans to large borrowers fell by 47% during the peak p
 ## 5. Paulson's gift
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Pietro Veronesi
 - Luigi Zingales
 ### Abstract
@@ -58,7 +58,7 @@ We calculate the costs and benefits of the largest ever US government interventi
 ## 6. Securitization and distressed loan renegotiation: Evidence from the subprime mortgage crisis
 ### Date
 - Apr 2010
-### Authors
+### Author
 - Tomasz Piskorski
 - Amit Seru
 - Vikrant Vig
@@ -70,7 +70,7 @@ We examine whether securitization impacts renegotiation decisions of loan servic
 ## 7. Will the U.S. bank recapitalization succeed? Eight lessons from Japan
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Takeo Hoshi
 - Anil K Kashyap
 ### Abstract
@@ -81,7 +81,7 @@ During the financial crisis that started in 2007, the U.S. government has used a
 ## 8. Costly external finance, corporate investment, and the subprime mortgage credit crisis
 ### Date
 - Dec 2009
-### Authors
+### Author
 - Ran Duchin
 - Oguzhan Ozbas
 - Berk A. Sensoy
@@ -93,7 +93,7 @@ We study the effect of the recent financial crisis on corporate investment. The 
 ## 9. The subprime credit crisis and contagion in financial markets
 ### Date
 - Jan 2010
-### Authors
+### Author
 - Francis A. Longstaff
 ### Abstract
 I conduct an empirical investigation into the pricing of subprime asset-backed collateralized debt obligations (CDOs) and their contagion effects on other markets. Using data for the ABX subprime indexes, I find strong evidence of contagion in the financial markets. The results support the hypothesis that financial contagion was propagated primarily through liquidity and risk-premium channels, rather than through a correlated-information channel. Surprisingly, ABX index returns forecast stock returns and Treasury and corporate bond yield changes by as much as three weeks ahead during the subprime crisis. This challenges the popular view that the market prices of these “toxic assets” were unreliable; the results suggest that significant price discovery did in fact occur in the subprime market during the crisis.
@@ -103,7 +103,7 @@ I conduct an empirical investigation into the pricing of subprime asset-backed c
 ## 10. Auction failures and the market for auction rate securities
 ### Date
 - Feb 2010
-### Authors
+### Author
 - John J. McConnell
 - Alessio Saretto
 ### Abstract
@@ -114,7 +114,7 @@ The market for auction rate securities (ARS) made headlines during the second we
 ## 11. The real effects of financial constraints: Evidence from a financial crisis
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Murillo Campello
 - John R. Graham
 - Campbell R. Harvey

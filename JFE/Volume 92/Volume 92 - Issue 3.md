@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Public trust, the law, and financial investment
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Bruce Ian Carlin
 - Florin Dorobantu
 - S. Viswanathan
@@ -26,7 +26,7 @@ How does trust evolve in markets? What is the optimal level of regulation and ho
 ## 3. Managerial ownership dynamics and firm value
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Rüdiger Fahlenbrach
 - René M. Stulz
 ### Abstract
@@ -37,7 +37,7 @@ From 1988 to 2003, the average change in managerial ownership is significantly n
 ## 4. Investor activism and takeovers
 ### Date
 - May 2008
-### Authors
+### Author
 - Robin Greenwood
 - Michael Schor
 ### Abstract
@@ -48,7 +48,7 @@ Recent work documents large positive abnormal returns when a hedge fund announce
 ## 5. Sell on the news: Differences of opinion, short-sales constraints, and returns around earnings announcements
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Henk Berkman
 - Valentin Dimitrov
 - Prem C. Jain
@@ -62,7 +62,7 @@ Miller [1977. Risk, uncertainty, and divergence of opinion. Journal of Finance 3
 ## 6. Creditor control rights and firm investment policy
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Greg Nini
 - David C. Smith
 - Amir Sufi
@@ -74,7 +74,7 @@ We present novel empirical evidence that conflicts of interest between creditors
 ## 7. The strategic use of corporate cash holdings in collective bargaining with labor unions
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Sandy Klasa
 - William F. Maxwell
 - Hernán Ortiz-Molina
@@ -86,7 +86,7 @@ We provide evidence that firms in more unionized industries strategically hold l
 ## 8. Seasoned equity offerings: Quality of accounting information and expected flotation costs
 ### Date
 - Apr 2008
-### Authors
+### Author
 - Gemma Lee
 - Ronald W. Masulis
 ### Abstract
@@ -97,7 +97,7 @@ Flotation costs represent a significant loss of capital to firms and are positiv
 ## 9. Managerial risk-taking behavior and equity-based compensation
 ### Date
 - May 2008
-### Authors
+### Author
 - Angie Low
 ### Abstract
 Equity-based compensation affects managers’ risk-taking behavior, which in turn has an impact on shareholder wealth. In response to an exogenous increase in takeover protection in Delaware during the mid-1990s, managers lower firm risk by 6%. This risk reduction is concentrated among firms with low managerial equity-based incentives, in particular firms with low chief executive officer portfolio sensitivity to stock return volatility. Furthermore, the risk reduction is value-destroying. Finally, firms respond to the increased protection accorded by the regime shift by providing managers with greater incentives for risk-taking.
@@ -107,7 +107,7 @@ Equity-based compensation affects managers’ risk-taking behavior, which in tur
 ## 10. Underinvestment vs. overinvestment: Evidence from price reactions to pension contributions
 ### Date
 - Jun 2008
-### Authors
+### Author
 - Francesco Franzoni
 ### Abstract
 Mandatory contributions to defined benefit pension plans provide a unique identification strategy to estimate the market's assessment of the value of internal resources controlling for investment opportunities. The price decrease following a pension-induced drop in cash is magnified for firms that appear a priori more financially constrained, suggesting a negative effect of financing frictions on investment. In contrast, low control on managerial discretion attenuates the negative price reaction to contributions consistent with empire-building theories. While overinvestment seems to be the prevalent distortion in a panel of large firms, underinvestment appears to dominate in a sample that is more representative of the cross-section of listed companies.
@@ -117,7 +117,7 @@ Mandatory contributions to defined benefit pension plans provide a unique identi
 ## 11. Technical analysis: An asset allocation perspective on the use of moving averages
 ### Date
 - Jul 2008
-### Authors
+### Author
 - Yingzi Zhu
 - Guofu Zhou
 ### Abstract

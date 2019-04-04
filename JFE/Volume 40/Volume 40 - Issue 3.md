@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Mar 1996
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Reversal of fortune dividend signaling and the disappearance of sustained earnings growth
 ### Date
 - Mar 1996
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Douglas J. Skinner
@@ -33,7 +33,7 @@ We study the signaling content of managers' dividend decisions for 145 NYSE firm
 ## 3. Commercial banks in investment banking conflict of interest or certification role?
 ### Date
 - Mar 1996
-### Authors
+### Author
 - Manju Puri
 ### Abstract
 When commercial banks make loans to firms and also underwrite securities, does this hamper or enhance their role as certifiers of firm value? This paper examines empirically the pricing of bank-underwritten securities as compared to investment-house-underwritten securities over a unique period in the U.S. (pre-Glass-Steagall) when both banks and investment houses were allowed to underwrite securities. The evidence shows that investors were willing to pay higher prices for securities underwritten by banks rather than investment houses. The results support a certification role for banks, which is more valuable for junior and information sensitive securities.
@@ -43,7 +43,7 @@ When commercial banks make loans to firms and also underwrite securities, does t
 ## 4. Top management turnover an empirical investigation of mutual fund managers
 ### Date
 - Mar 1996
-### Authors
+### Author
 - Ajay Khorana
 ### Abstract
 This paper examines the relation between the replacement of mutual fund managers and their prior performance. Using the growth rate in a fund's asset base and its portfolio returns as two separate measures of performance, I document an inverse relation between the probability of managerial replacement and fund performance. The sample of departing fund managers exhibits higher portfolio turnover rates and higher expenses relative to an objective-matched sample of nonreplaced fund managers. The overall evidence is consistent with the presence of well-functioning internal and external market mechanisms for mutual fund managers.
@@ -53,7 +53,7 @@ This paper examines the relation between the replacement of mutual fund managers
 ## 5. Is there a pecking order? Evidence from a panel of IPO firms
 ### Date
 - Mar 1996
-### Authors
+### Author
 - Jean Helwege
 - Nellie Liang
 ### Abstract
@@ -64,7 +64,7 @@ We test the pecking order model of capital structure by examining the financing 
 ## 6. An empirical analysis of strategic competition and firm values the case of R&D competition
 ### Date
 - Mar 1996
-### Authors
+### Author
 - Anant K. Sundaram
 - Teresa A. John
 - Kose John
@@ -76,7 +76,7 @@ We operationalize a firm's competitive strategy through a new empirical measure,
 ## 7. Index
 ### Date
 - Mar 1996
-### Authors
+### Author
 ### Abstract
 
 ### Link

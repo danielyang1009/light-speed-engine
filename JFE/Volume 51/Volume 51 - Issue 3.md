@@ -5,7 +5,7 @@
 ## 1. The stock pools and the Securities Exchange Act1
 ### Date
 - Mar 1999
-### Authors
+### Author
 - Paul G. Mahoney
 ### Abstract
 The stated justification for the Securities Exchange Act of 1934 (Exchange Act) was to eliminate manipulation. The primary evidence of manipulation was the existence of `stock pools,' through which groups of traders jointly traded in a particular stock. The conclusion of Congress that the pools were manipulative is inconsistent with the evidence produced by the Senate's own investigation. The returns on a sample of pool stocks are also inconsistent with manipulation. These findings suggest that congressional and presidential desires to increase political control over the New York Stock Exchange was a more important motivation for the Exchange Act.
@@ -15,7 +15,7 @@ The stated justification for the Securities Exchange Act of 1934 (Exchange Act) 
 ## 2. Corporate governance, chief executive officer compensation, and firm performance1
 ### Date
 - Mar 1999
-### Authors
+### Author
 - John E. Core
 - Robert W. Holthausen
 - David F. Larcker
@@ -27,7 +27,7 @@ We find that measures of board and ownership structure explain a significant amo
 ## 3. Information asymmetry, monitoring, and the placement structure of corporate debt1
 ### Date
 - Mar 1999
-### Authors
+### Author
 - Sudha Krishnaswami
 - Paul A Spindt
 - Venkat Subramaniam
@@ -39,7 +39,7 @@ We empirically examine the impact of flotation costs, agency conflicts, regulati
 ## 4. Bank monitoring and the pricing of corporate public debt1
 ### Date
 - Mar 1999
-### Authors
+### Author
 - Sudip Datta
 - Mai Iskandar-Datta
 - Ajay Patel
@@ -51,7 +51,7 @@ We examine whether the existence of a bank/firm relationship lowers the cost of 
 ## 5. Optimal choice of contracting methods: negotiated versus competitive underwritings revisited1
 ### Date
 - Mar 1999
-### Authors
+### Author
 - Dennis E Logue
 - Seha M Tiniç
 ### Abstract
@@ -62,7 +62,7 @@ We use a previously unexploited data base, specifically debt offerings by AT&T a
 ## 6. Index
 ### Date
 - Mar 1999
-### Authors
+### Author
 ### Abstract
 
 ### Link

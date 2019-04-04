@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Corporate governance and firm cash holdings in the US
 ### Date
 - Apr 2007
-### Authors
+### Author
 - Jarrad Harford
 - Sattar A. Mansi
 - William F. Maxwell
@@ -26,7 +26,7 @@ Using governance metrics based on antitakeover provisions and inside ownership, 
 ## 3. Financing and takeovers
 ### Date
 - Jan 2007
-### Authors
+### Author
 - Erwan Morellec
 - Alexei Zhdanov
 ### Abstract
@@ -37,7 +37,7 @@ This paper analyzes the interaction between financial leverage and takeover acti
 ## 4. The evolving relation between earnings, dividends, and stock repurchases
 ### Date
 - May 2007
-### Authors
+### Author
 - Douglas J. Skinner
 ### Abstract
 This paper examines how the relation between earnings and payout policy has evolved over the last three decades. Three principal groups of payers have emerged: firms that pay dividends and make regular repurchases, firms that make regular repurchases, and firms that make occasional repurchases. Firms that only pay dividends are largely extinct. Repurchases are increasingly used in place of dividends, even for firms that continue to pay dividends. While other factors help explain the timing of repurchases, the overall level of repurchases is fundamentally determined by earnings. The results suggest that repurchases are now the dominant form of payout.
@@ -47,7 +47,7 @@ This paper examines how the relation between earnings and payout policy has evol
 ## 5. Second time lucky? Withdrawn IPOs that return to the market
 ### Date
 - Aug 2006
-### Authors
+### Author
 - Craig G. Dunbar
 - Stephen R. Foerster
 ### Abstract
@@ -58,7 +58,7 @@ We investigate issuers withdrawing an IPO (after security regulation filings) th
 ## 6. Firm-specific information and the efficiency of investment
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Anusha Chari
 - Peter Blair Henry
 ### Abstract
@@ -69,7 +69,7 @@ In the three-year period following stock market liberalizations, the growth rate
 ## 7. Board classification and managerial entrenchment: Evidence from the market for corporate control
 ### Date
 - Mar 2007
-### Authors
+### Author
 - Thomas W. Bates
 - David A. Becher
 - Michael L. Lemmon
@@ -81,7 +81,7 @@ This paper considers the relation between board classification, takeover activit
 ## 8. Evaluating the real effect of bank branching deregulation: Comparing contiguous counties across US state borders
 ### Date
 - Jan 2007
-### Authors
+### Author
 - Rocco R. Huang
 ### Abstract
 This paper proposes a new methodology to evaluate the economic effect of state-specific policy changes, using bank-branching deregulations in the US as an example. The new method compares economic performance of pairs of contiguous counties separated by state borders, where on one side restrictions on statewide branching were removed relatively earlier, to create a natural “regression discontinuity” setup. The study uses a total of 285 pairs of contiguous counties along 38 segments of such regulation change borders to estimate treatment effects for 23 separate deregulation events taking place between 1975 and 1990. To distinguish real treatment effects from those created by data-snooping and spatial correlations, fictitious placebo deregulations are randomized (permutated) on another 32 segments of non-event borders to establish empirically a statistical table of critical values for the estimator. The method determines that statistically significant growth accelerations can be established at a > 90% confidence level in five (and none prior to 1985) out of the 23 deregulation events examined. “Hinterland counties” within the still-regulated states, but farther away from the state borders, are used as a second control group to consider and reject the possibility that cross-border spillover of deregulation effects may invalidate the empirical design.
@@ -91,7 +91,7 @@ This paper proposes a new methodology to evaluate the economic effect of state-s
 ## 9. Financial distress and corporate risk management: Theory and evidence
 ### Date
 - Apr 2007
-### Authors
+### Author
 - Amiyatosh Purnanandam
 ### Abstract
 This paper extends the current theoretical models of corporate risk-management in the presence of financial distress costs and tests the model's predictions using a comprehensive data set. I show that the shareholders optimally engage in ex-post (i.e., after the debt issuance) risk-management activities even without a pre-commitment to do so. The model predicts a positive (negative) relation between leverage and hedging for moderately (highly) leveraged firms. Consistent with the theory, empirically I find a non-monotonic relation between leverage and hedging. Further, the effect of leverage on hedging is higher for firms in highly concentrated industries.

@@ -5,7 +5,7 @@
 ## 1. Bankruptcy resolution
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Lawrence A. Weiss
 ### Abstract
 I present new evidence on the direct costs of bankruptcy and violation of priority of claims. In a sample of 37 New York and American Stock Exchange firms that filed for bankruptcy between November 1979 and December 1986, direct costs average 3.1% of the book value of debt plus the market value of equity, and priority of claims is violated in 29 cases. The breakdown in priority of claims occur primarily among the unsecured creditors and between the unsecured creditors and equity holders. Secured creditors' contracts are generally upheld.
@@ -15,7 +15,7 @@ I present new evidence on the direct costs of bankruptcy and violation of priori
 ## 2. Troubled debt restructurings
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Stuart C. Gilson
 - Kose John
 - Larry H.P. Lang
@@ -27,7 +27,7 @@ This study investigates the incentives of financially distressed firms to restru
 ## 3. Bankruptcy, boards, banks, and blockholders
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Stuart C. Gilson
 ### Abstract
 In 111 publicly traded firms that either file for bankruptcy or privately restructure their debt between 1979 and 1985, bank lenders frequently become major stockholders or appoint new directors. On average, only 46% of incumbent directors remain when bankruptcy or debt restructuring ends. Directors who resign hold significantly fewer seats on other boards following their departure. Common-stock ownership becomes more concentrated with large blockholders and less with corporate insiders. Few firms are acquired. Collectively, these results suggest that corporate default leads to significant changes in the ownership of firms' residual claims and in the allocation of rights to manage corporate resources.
@@ -37,7 +37,7 @@ In 111 publicly traded firms that either file for bankruptcy or privately restru
 ## 4. Outside directorships and corporate performance
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Steven N. Kaplan
 - David Reishus
 ### Abstract
@@ -48,7 +48,7 @@ This paper examines the relation between a company's performance and its top exe
 ## 5. Is corporate bankruptcy efficient?
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Frank H. Easterbrook
 ### Abstract
 Auctions allocate resources to their highest-valued uses. Yet bankruptcy does not use auctions. Instead judges determine a value and parcel out interests on the assumption that this valuation is correct. Errors inevitable in this process lead many persons to conclude that bankruptcy is inefficient. This essay argues that the conclusion does not follow. The costs of error in valuation may be less than the cost of conducting an auction. Legal rules endure because they are efficient or because they transfer wealth. Transfers are an implausible explanation of the current bankruptcy regime, leaving efficiency as the prevailing explanation.
@@ -58,7 +58,7 @@ Auctions allocate resources to their highest-valued uses. Yet bankruptcy does no
 ## 6. Financial distress, reorganization, and organizational efficiency
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Karen Hopper Wruck
 ### Abstract
 This paper examines financial distress and its effect on organizational efficiency. Imperfect information and conflicts of interest among the firm's claimholders influence the outcome of financial distress. Methods for resolving distress and controlling conflicts of interest are discussed. New evidence on financial restructuring and distress costs is presented along with evidence on the organizational restructuring that accompanies financial distress. The evidence demonstrates that financial distress has benefits as well as costs, and that financial and ownership structure affect the net costs.
@@ -68,7 +68,7 @@ This paper examines financial distress and its effect on organizational efficien
 ## 7. The role of venture capital in the creation of public companies
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Christopher B. Barry
 - Chris J. Muscarella
 - John W. Peavy
@@ -81,7 +81,7 @@ We examine an exhaustive set of initial public offerings (IPOs) by venture-capit
 ## 8. The structure and governance of venture-capital organizations
 ### Date
 - Oct 1990
-### Authors
+### Author
 - William A. Sahlman
 ### Abstract
 Venture-capital organizations raise money from individuals and institutions for investment in early-stage businesses that offer high potential but high risk. This paper describes and analyzes the structure of venture-capital organizations, focusing on the relationship between investors and venture capitalists and between venture-capital firms and the ventures in which they invest. The agency problems in these organizations and to the contracts and operating procedures that have evolved in response are emphasized. Venture-capital organizations are contrasted with large, publicly traded corporations and with leveraged buyout organizations.
@@ -91,7 +91,7 @@ Venture-capital organizations raise money from individuals and institutions for 
 ## 9. ESOPs and corporate control
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Lilli A. Gordon
 - John Pound
 ### Abstract
@@ -102,7 +102,7 @@ This paper examines the effects of employee stock ownership plans (ESOPs) on sha
 ## 10. Consolidating corporate control
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Kenneth Lehn
 - Jeffry Netter
 - Annette Poulsen
@@ -114,7 +114,7 @@ Dual-class recapitalizations and leveraged buyouts have similar effects on owner
 ## 11. Corporate governance through statistical eyes
 ### Date
 - Oct 1990
-### Authors
+### Author
 - Leo Herzel
 ### Abstract
 This paper discusses the main findings in three statistical studies: ‘ESOPs and Corporate Control’ by Gordon and Pound, ‘…The Choice Between Dual-Class Recapitalizations and Leveraged Buyouts’ by Lehn, Netter, and Poulsen, and ‘Outside Directorships and Corporate Performance’ by Kaplan and Reishus. I conclude that, despite the sophisticated design and execution of the three studies, the amount of important new information they provide is small. Specific problems regarding their methodologies and interpretation are discussed. I question the fruitfulness of an exclusively statistical approach to corporate governance research.
@@ -124,7 +124,7 @@ This paper discusses the main findings in three statistical studies: ‘ESOPs an
 ## 12. Additional evidence on equity ownership and corporate value
 ### Date
 - Oct 1990
-### Authors
+### Author
 - John J. McConnell
 - Henri Servaes
 ### Abstract
@@ -135,7 +135,7 @@ We investigate the relation between Tobin's Q and the structure of equity owners
 ## 13. Index
 ### Date
 - Oct 1990
-### Authors
+### Author
 ### Abstract
 
 ### Link

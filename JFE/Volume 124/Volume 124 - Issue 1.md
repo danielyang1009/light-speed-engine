@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Apr 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The term structure of returns: Facts and theory
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Jules H. van Binsbergen
 - Ralph S.J. Koijen
 ### Abstract
@@ -25,7 +25,7 @@ We summarize and extend the new literature on the term structure of equity. Shor
 ## 3. High frequency trading and the 2008 short-sale ban
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Jonathan Brogaard
 - Terrence Hendershott
 - Ryan Riordan
@@ -37,7 +37,7 @@ We examine the effects of high-frequency traders (HFTs) on liquidity using the S
 ## 4. Information Shocks and Short-Term Market Underreaction
 ### Date
 - Jun 2016
-### Authors
+### Author
 - George J. Jiang
 - Kevin X. Zhu
 ### Abstract
@@ -48,7 +48,7 @@ Using jumps in stock prices as a proxy for large information shocks, we provide 
 ## 5. Risk, ambiguity, and the exercise of employee stock options
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Yehuda Izhakian
 - David Yermack
 ### Abstract
@@ -59,7 +59,7 @@ We investigate the importance of ambiguity, or Knightian uncertainty, in executi
 ## 6. Who is internationally diversified? Evidence from the 401(k) plans of 296 firms
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Geert Bekaert
 - Kenton Hoyem
 - Wei-Yin Hu
@@ -72,7 +72,7 @@ Drawing on a novel database of the 401(k) plans of 296 firms, we examine the int
 ## 7. Efficiency and stability of a financial architecture with too-interconnected-to-fail institutions
 ### Date
 - Dec 2016
-### Authors
+### Author
 - Michael Gofman
 ### Abstract
 The regulation of large interconnected financial institutions has become a key policy issue. To improve financial stability, regulators have proposed limiting banks’ size and interconnectedness. I estimate a network-based model of the over-the-counter interbank lending market in the US and quantify the efficiency-stability implications of this policy. Trading efficiency decreases with limits on interconnectedness because the intermediation chains become longer. While restricting the interconnectedness of banks improves stability, the effect is non-monotonic. Stability also improves with higher liquidity requirements, when banks have access to liquidity during the crisis, and when failed banks’ depositors maintain confidence in the banking system.
@@ -82,7 +82,7 @@ The regulation of large interconnected financial institutions has become a key p
 ## 8. The term structure of credit spreads, firm fundamentals, and expected stock returns
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Bing Han
 - Avanidhar Subrahmanyam
 - Yi Zhou
@@ -94,7 +94,7 @@ We explore the link between credit and equity markets by considering the informa
 ## 9. Interim fund performance and fundraising in private equity
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Brad M. Barber
 - Ayako Yasuda
 ### Abstract
@@ -105,7 +105,7 @@ General partners (GPs) in private equity (PE) report the performance of an exist
 ## 10. Do corporate taxes hinder innovation?
 ### Date
 - Jan 2017
-### Authors
+### Author
 - Abhiroop Mukherjee
 - Manpreet Singh
 - Alminas Žaldokas

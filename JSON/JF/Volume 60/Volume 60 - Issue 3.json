@@ -1,0 +1,197 @@
+{
+    "journal": "JF",
+    "volume": "60",
+    "issue": "3",
+    "date": "June 2005",
+    "page": "Pages: 1057-1592, i-iv, 1593-1512",
+    "article": [
+        {
+            "no": "1",
+            "title": "Judging Fund Managers by the Company They Keep",
+            "date": "03 May 2005",
+            "author": [
+                "RANDOLPH B. COHEN",
+                "JOSHUA D. COVAL",
+                "\u013dUBO\u0160 P\u00c1STOR"
+            ],
+            "abstract": "We develop a performance evaluation approach in which a fund manager's skill is judged by the extent to which the manager's investment decisions resemble the decisions of managers with distinguished performance records. The proposed performance measures use historical returns and holdings of many funds to evaluate the performance of a single fund. Simulations demonstrate that our measures are particularly useful in ranking managers. In an application that relies on such ranking, our measures reveal strong predictability in the returns of U.S. equity funds. Our measures provide information about future fund returns that is not contained in the standard measures.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00756.x"
+        },
+        {
+            "no": "2",
+            "title": "Finance and the Business Cycle: International, Inter\u2010Industry Evidence",
+            "date": "03 May 2005",
+            "author": [
+                "MAT\u00cdAS BRAUN",
+                "BORJA LARRAIN"
+            ],
+            "abstract": "By considering yearly production growth rates for several manufacturing industries in more than 100 countries during (roughly) the last 40 years, we show that industries that are more dependent on external finance are hit harder during recessions. The observed difference in the behavior of industries is larger when financial frictions are thought to be more prevalent, linking the result directly to the financial mechanism hypothesis. In particular, more dependent industries are more strongly affected in recessions when they are located in countries with poor financial contractibility, and when their assets are softer or less protective of financiers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00757.x"
+        },
+        {
+            "no": "3",
+            "title": "Debt Dynamics",
+            "date": "03 May 2005",
+            "author": [
+                "CHRISTOPHER A. HENNESSY",
+                "TONI M. WHITED"
+            ],
+            "abstract": "We develop a dynamic trade\u2010off model with endogenous choice of leverage, distributions, and real investment in the presence of a graduated corporate income tax, individual taxes on interest and corporate distributions, financial distress costs, and equity flotation costs. We explain several empirical findings inconsistent with the static trade\u2010off theory. We show there is no target leverage ratio, firms can be savers or heavily levered, leverage is path dependent, leverage is decreasing in lagged liquidity, and leverage varies negatively with an external finance weighted average Q. Using estimates of structural parameters, we find that simulated model moments match data moments.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00758.x"
+        },
+        {
+            "no": "4",
+            "title": "Housing Collateral, Consumption Insurance, and Risk Premia: An Empirical Perspective",
+            "date": "03 May 2005",
+            "author": [
+                "HANNO N. LUSTIG",
+                "STIJN G. VAN NIEUWERBURGH"
+            ],
+            "abstract": "In a model with housing collateral, the ratio of housing wealth to human wealth shifts the conditional distribution of asset prices and consumption growth. A decrease in house prices reduces the collateral value of housing, increases household exposure to idiosyncratic risk, and increases the conditional market price of risk. Using aggregate data for the United States, we find that a decrease in the ratio of housing wealth to human wealth predicts higher returns on stocks. Conditional on this ratio, the covariance of returns with aggregate risk factors explains 80% of the cross\u2010sectional variation in annual size and book\u2010to\u2010market portfolio returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00759.x"
+        },
+        {
+            "no": "5",
+            "title": "What Explains the Stock Market's Reaction to Federal Reserve Policy?",
+            "date": "03 May 2005",
+            "author": [
+                "BEN S. BERNANKE",
+                "KENNETH N. KUTTNER"
+            ],
+            "abstract": "This paper analyzes the impact of changes in monetary policy on equity prices, with the objectives of both measuring the average reaction of the stock market and understanding the economic sources of that reaction. We find that, on average, a hypothetical unanticipated 25\u2010basis\u2010point cut in the Federal funds rate target is associated with about a 1% increase in broad stock indexes. Adapting a methodology due to Campbell and Ammer, we find that the effects of unanticipated monetary policy actions on expected excess returns account for the largest part of the response of stock prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00760.x"
+        },
+        {
+            "no": "6",
+            "title": "Do Bank Relationships Affect the Firm's Underwriter Choice in the Corporate\u2010Bond Underwriting Market?",
+            "date": "03 May 2005",
+            "author": [
+                "AYAKO YASUDA"
+            ],
+            "abstract": "This paper studies the effect of bank relationships on underwriter choice in the U.S. corporate\u2010bond underwriting market following the 1989 commercial\u2010bank entry. I find that bank relationships have positive and significant effects on a firm's underwriter choice, over and above their effects on fees. This result is sharply stronger for junk\u2010bond issuers and first\u2010time issuers. I also find that there is a significant fee discount when there are relationships between firms and commercial banks. Finally, I find that serving as arranger of past loan transactions has the strongest effect on underwriter choice, whereas serving merely as participant has no effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00761.x"
+        },
+        {
+            "no": "7",
+            "title": "Demand\u2013Deposit Contracts and the Probability of Bank Runs",
+            "date": "03 May 2005",
+            "author": [
+                "ITAY GOLDSTEIN",
+                "ADY PAUZNER"
+            ],
+            "abstract": "Diamond and Dybvig (1983) show that while demand\u2013deposit contracts let banks provide liquidity, they expose them to panic\u2010based bank runs. However, their model does not provide tools to derive the probability of the bank\u2010run equilibrium, and thus cannot determine whether banks increase welfare overall. We study a modified model in which the fundamentals determine which equilibrium occurs. This lets us compute the ex ante probability of panic\u2010based bank runs and relate it to the contract. We find conditions under which banks increase welfare overall and construct a demand\u2013deposit contract that trades off the benefits from liquidity against the costs of runs.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00762.x"
+        },
+        {
+            "no": "8",
+            "title": "The Theory of Bank Risk Taking and Competition Revisited",
+            "date": "03 May 2005",
+            "author": [
+                "JOHN H. BOYD",
+                "GIANNI DE NICOL\u00d3"
+            ],
+            "abstract": "There is a large body of literature that concludes that\u2014when confronted with increased competition\u2014banks rationally choose more risky portfolios. We argue that this literature has had a significant influence on regulators and central bankers. We review the empirical literature and conclude that the evidence is best described as \u201cmixed.\u201d We then show that existing theoretical analyses of this topic are fragile, since there exist fundamental risk\u2010incentive mechanisms that operate in exactly the opposite direction, causing banks to become more risky as their markets become more concentrated. These mechanisms should be essential ingredients of models of bank competition.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00763.x"
+        },
+        {
+            "no": "9",
+            "title": "The Choice of Payment Method in European Mergers and Acquisitions",
+            "date": "03 May 2005",
+            "author": [
+                "MARA FACCIO",
+                "RONALD W. MASULIS"
+            ],
+            "abstract": "We study merger and acquisition (M&A) payment choices of European bidders for publicly and privately held targets in the 1997\u20132000 period. Europe is an ideal venue for studying the importance of corporate governance in making M&A payment choices, given the large number of closely held firms and the wide range of capital markets, institutional settings, laws, and regulations. The tradeoff between corporate governance concerns and debt financing constraints is found to have a large bearing on the bidder's payment choice. Consistent with earlier evidence, we find that several deal and target characteristics significantly affect the method of payment choice.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00764.x"
+        },
+        {
+            "no": "10",
+            "title": "Institutional Holdings and Payout Policy",
+            "date": "03 May 2005",
+            "author": [
+                "YANIV GRINSTEIN",
+                "RONI MICHAELY"
+            ],
+            "abstract": "We examine the relation between institutional holdings and payout policy in U.S. public firms. We find that payout policy affects institutional holdings. Institutions avoid firms that do not pay dividends. However, among dividend\u2010paying firms they prefer firms that pay fewer dividends. Our evidence indicates that institutions prefer firms that repurchase shares, and regular repurchasers over nonregular repurchasers. Higher institutional holdings or a concentration of holdings do not cause firms to increase their dividends, their repurchases, or their total payout. Our results do not support models that predict that high dividends attract institutional clientele, or models that predict that institutions cause firms to increase payout.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00765.x"
+        },
+        {
+            "no": "11",
+            "title": "Are Firms Underleveraged? An Examination of the Effect of Leverage on Default Probabilities",
+            "date": "03 May 2005",
+            "author": [
+                "CARLOS A. MOLINA"
+            ],
+            "abstract": "A commonly held view in corporate finance is that firms are less leveraged than they should be, given the potentially large tax benefits of debt. In this paper, I study the effect of firms' leverage on default probabilities as represented by the firms' ratings. Using an instrumental variable approach, I find that the leverage's effect on ratings is three times stronger than it is if the endogeneity of leverage is ignored. This stronger effect results in a higher impact of leverage on the ex ante costs of financial distress, which can offset the current estimates of the tax benefits of debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00766.x"
+        },
+        {
+            "no": "12",
+            "title": "To Steal or Not to Steal: Firm Attributes, Legal Environment, and Valuation",
+            "date": "03 May 2005",
+            "author": [
+                "ART DURNEV",
+                "E. HAN KIM"
+            ],
+            "abstract": "Data on corporate governance and disclosure practices reveal wide within\u2010country variation that decreases with the strength of investors' legal protection. A simple model identifies three firm attributes related to that variation: investment opportunities, external financing, and ownership structure. Using firm\u2010level governance and transparency data from 27 countries, we find that all three firm attributes are related to the quality of governance and disclosure practices, and firms with higher governance and transparency rankings are valued higher in stock markets. All relations are stronger in less investor\u2010friendly countries, demonstrating that firms adapt to poor legal environments to establish efficient governance practices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00767.x"
+        },
+        {
+            "no": "13",
+            "title": "What Determines the Domestic Bias and Foreign Bias? Evidence from Mutual Fund Equity Allocations Worldwide",
+            "date": "03 May 2005",
+            "author": [
+                "KALOK CHAN",
+                "VICENTIU COVRIG",
+                "LILIAN NG"
+            ],
+            "abstract": "We examine how mutual funds from 26 developed and developing countries allocate their investment between domestic and foreign equity markets and what factors determine their asset allocations worldwide. We find robust evidence that these funds, in aggregate, allocate a disproportionately larger fraction of investment to domestic stocks. Results indicate that the stock market development and familiarity variables have significant, but asymmetric, effects on the domestic bias (domestic investors overweighting the local markets) and foreign bias (foreign investors under or overweighting the overseas markets), and that economic development, capital controls, and withholding tax variables have significant effects only on the foreign bias.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.768_1.x"
+        },
+        {
+            "no": "14",
+            "title": "Currency Returns, Intrinsic Value, and Institutional\u2010Investor Flows",
+            "date": "03 May 2005",
+            "author": [
+                "KENNETH A. FROOT",
+                "TARUN RAMADORAI"
+            ],
+            "abstract": "We decompose currency returns into (permanent) intrinsic\u2010value shocks and (transitory) expected\u2010return shocks. We explore interactions between these shocks, currency returns, and institutional\u2010investor currency flows. Intrinsic\u2010value shocks are: dwarfed by expected\u2010return shocks (yet currency returns overreact to them); unrelated to flows (although expected\u2010return shocks correlate with flows); and related positively to forecasted cumulated\u2010interest differentials. These results suggest flows are related to short\u2010term currency returns, while fundamentals better explain long\u2010term returns and values. They also rationalize the long\u2010observed poor performance of exchange\u2010rate models: by ignoring the distinction between permanent and transitory exchange\u2010rate changes, prior tests obscure the connection between currencies and fundamentals.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00769.x"
+        },
+        {
+            "no": "15",
+            "title": "A Comparison of Centralized and Fragmented Markets with Costly Search",
+            "date": "03 May 2005",
+            "author": [
+                "XIANGKANG YIN"
+            ],
+            "abstract": "How does quotation transparency affect financial market performance? Biais's irrelevance proposition in 1993 shows that centralized markets yield the same expected bid\u2013ask spreads as fragmented markets, other things equal. However, de Frutos and Manzano demonstrated in 2002 that expected spreads in fragmented markets are smaller and market participants prefer to trade in fragmented markets. This paper introduces liquidity traders' costs of searching for a better quote into the Biais model and derives opposite conclusions to these previous studies: expected spreads in centralized markets are smaller and liquidity traders prefer centralized markets, while market makers prefer fragmented markets.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00770.x"
+        },
+        {
+            "no": "16",
+            "title": "MISCELLANEA",
+            "date": "03 May 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.770_1.x"
+        },
+        {
+            "no": "17",
+            "title": "Front Matter",
+            "date": "11 May 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00772.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "11 May 2005",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2005.00773.x"
+        }
+    ]
+}

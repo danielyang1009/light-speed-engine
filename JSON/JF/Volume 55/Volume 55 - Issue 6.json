@@ -1,0 +1,241 @@
+{
+    "journal": "JF",
+    "volume": "55",
+    "issue": "6",
+    "date": "December 2000",
+    "page": "Pages: i-vii, 2431-2938, viii-xxxv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "01 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00762.x"
+        },
+        {
+            "no": "2",
+            "title": "A Theory of Bank Capital",
+            "date": "17 December 2002",
+            "author": [
+                "Douglas W. Diamond",
+                "Raghuram G. Rajan"
+            ],
+            "abstract": "Banks can create liquidity precisely because deposits are fragile and prone to runs. Increased uncertainty makes deposits excessively fragile, creating a role for outside bank capital. Greater bank capital reduces the probability of financial distress but also reduces liquidity creation. The quantity of capital influences the amount that banks can induce borrowers to pay. Optimal bank capital structure trades off effects on liquidity creation, costs of bank distress, and the ability to force borrower repayment. The model explains the decline in bank capital over the last two centuries. It identifies overlooked consequences of having regulatory capital requirements and deposit insurance.",
+            "link": "https://doi.org/10.1111/0022-1082.00296"
+        },
+        {
+            "no": "3",
+            "title": "Time and the Price Impact of a Trade",
+            "date": "17 December 2002",
+            "author": [
+                "Alfonso Dufour",
+                "Robert F. Engle"
+            ],
+            "abstract": "We use Hasbrouck's (1991) vector autoregressive model for prices and trades to empirically test and assess the role played by the waiting time between consecutive transactions in the process of price formation. We find that as the time duration between transactions decreases, the price impact of trades, the speed of price adjustment to trade\u2010related information, and the positive autocorrelation of signed trades all increase. This suggests that times when markets are most active are times when there is an increased presence of informed traders; we interpret such markets as having reduced liquidity.",
+            "link": "https://doi.org/10.1111/0022-1082.00297"
+        },
+        {
+            "no": "4",
+            "title": "A Theory of Dividends Based on Tax Clienteles",
+            "date": "17 December 2002",
+            "author": [
+                "Franklin Allen",
+                "Antonio E. Bernardo",
+                "Ivo Welch"
+            ],
+            "abstract": "This paper explains why some firms prefer to pay dividends rather than repurchase shares. When institutional investors are relatively less taxed than individual investors, dividends induce \u201cownership clientele\u201d effects. Firms paying dividends attract relatively more institutions, which have a relative advantage in detecting high firm quality and in ensuring firms are well managed. The theory is consistent with some documented regularities, specifically both the presence and stickiness of dividends, and offers novel empirical implications, e.g., a prediction that it is the tax difference between institutions and retail investors that determines dividend payments, not the absolute tax payments.",
+            "link": "https://doi.org/10.1111/0022-1082.00298"
+        },
+        {
+            "no": "5",
+            "title": "The Dark Side of Internal Capital Markets: Divisional Rent\u2010Seeking and Inefficient Investment",
+            "date": "17 December 2002",
+            "author": [
+                "David S. Scharfstein",
+                "Jeremy C. Stein"
+            ],
+            "abstract": "We develop a two\u2010tiered agency model that shows how rent\u2010seeking behavior on the part of division managers can subvert the workings of an internal capital market. By rent\u2010seeking, division managers can raise their bargaining power and extract greater overall compensation from the CEO. And because the CEO is herself an agent of outside investors, this extra compensation may take the form not of cash wages, but rather of preferential capital budgeting allocations. One interesting feature of our model is that it implies a kind of \u201csocialism\u201d in internal capital allocation, whereby weaker divisions get subsidized by stronger ones.",
+            "link": "https://doi.org/10.1111/0022-1082.00299"
+        },
+        {
+            "no": "6",
+            "title": "Competition on the Nasdaq and the Impact of Recent Market Reforms",
+            "date": "17 December 2002",
+            "author": [
+                "James P. Weston"
+            ],
+            "abstract": "This paper examines the effect of recent market reforms on the competitive structure of the Nasdaq. Our results show that changes in inventory and information costs cannot explain the post\u2010reform decrease in bid\u2010ask spreads. We interpret this as evidence that the reforms have reduced Nasdaq dealers' rents. Additionally, we find that the difference between NYSE and Nasdaq spreads have been greatly diminished with the new rules. Further, the reforms have resulted in an exit, ceteris paribus, from the industry for market making. Overall, our results provide strong evidence that the reforms have improved competition on the Nasdaq.",
+            "link": "https://doi.org/10.1111/0022-1082.00300"
+        },
+        {
+            "no": "7",
+            "title": "Hostility in Takeovers: In the Eyes of the Beholder?",
+            "date": "17 December 2002",
+            "author": [
+                "G. William Schwert"
+            ],
+            "abstract": "This paper examines whether hostile takeovers can be distinguished from friendly takeovers, empirically, based on accounting and stock performance data. Much has been made of this distinction in both the popular and the academic literature, where gains from hostile takeovers result from replacing incumbent managers and gains from friendly takeovers result from strategic synergies. Alternatively, hostility could reflect strategic choices made by the bidder or the target. Empirical tests show that most deals described as hostile in the press are not distinguishable from friendly deals in economic terms, except that hostile transactions involve publicity as part of the bargaining process.",
+            "link": "https://doi.org/10.1111/0022-1082.00301"
+        },
+        {
+            "no": "8",
+            "title": "Conflicts of Interest and Market Illiquidity in Bankruptcy Auctions: Theory and Tests",
+            "date": "17 December 2002",
+            "author": [
+                "Per Str\u00f6mberg"
+            ],
+            "abstract": "I develop and estimate a model of cash auction bankruptcy using data on 205 Swedish firms. The results challenge arguments that cash auctions, as compared to reorganizations, are immune to conflicts of interest between claimholders but lead to inefficient liquidations. I show that a sale of the assets back to incumbent management is a common bankruptcy outcome. Sale\u2010backs are more likely when they favor the bank at the expense of other creditors. On the other hand, inefficient liquidations are frequently avoided through sale\u2010backs when markets are illiquid, that is, when industry indebtedness is high and the firm has few nonspecific assets.",
+            "link": "https://doi.org/10.1111/0022-1082.00302"
+        },
+        {
+            "no": "9",
+            "title": "Depositary Receipts, Country Funds, and the Peso Crash: The Intraday Evidence",
+            "date": "17 December 2002",
+            "author": [
+                "Warren Bailey",
+                "Kalok Chan",
+                "Y. Peter Chung"
+            ],
+            "abstract": "We study the intraday impact of exchange rate news on emerging market American Depositary Receipts (ADRs) and closed\u2010end country funds during the 1994 Mexican peso crisis. Peso exchange\u2010rate changes affect prices and trading volumes of Latin American equities, and some closed\u2010end fund behavior is consistent with \u201cnoise trader\u201d theories of small investors. However, there is no evidence that peso depreciation triggers a significant sell\u2010off of non\u2010Mexican securities or that other non\u2010Mexican trading patterns change at times of high peso news flow. Thus, the \u201cTequila Effect\u201d is largely confined to price changes.",
+            "link": "https://doi.org/10.1111/0022-1082.00303"
+        },
+        {
+            "no": "10",
+            "title": "Investment Plans and Stock Returns",
+            "date": "17 December 2002",
+            "author": [
+                "Owen A. Lamont"
+            ],
+            "abstract": "When the discount rate falls, investment should rise. Thus with time\u2010varying discount rates and instantly changing investment, investment should positively covary with current stock returns and negatively covary with future stock returns. Aggregate nonresidential U.S. investment contradicts both these implications, probably because of investment lags. Investment plans, however, satisfy both implications. These investment plans, from a U.S. government survey of firms, are highly informative measures of expected investment and explain more than three\u2010quarters of the variation in real annual aggregate investment growth. Plans have substantial forecasting power for excess stock returns, showing that time\u2010varying risk premia affect investment.",
+            "link": "https://doi.org/10.1111/0022-1082.00304"
+        },
+        {
+            "no": "11",
+            "title": "Information Asymmetry, R&D, and Insider Gains",
+            "date": "17 December 2002",
+            "author": [
+                "David Aboody",
+                "Baruch Lev"
+            ],
+            "abstract": "Although researchers have documented gains from insider trading, the sources of private information leading to information asymmetry and insider gains have not been comprehensively investigated. We focus on research and development (R&D)\u2014an increasingly important yet poorly disclosed productive input\u2014as a potential source of insider gains. Our findings, for the period from 1985 to 1997 indicate that insider gains in R&D\u2010intensive firms are substantially larger than insider gains in firms without R&D. Insiders also take advantage of information on planned changes in R&D budgets. R&D is thus a major contributor to information asymmetry and insider gains, raising issues concerning management compensation, incentives, and disclosure policies.",
+            "link": "https://doi.org/10.1111/0022-1082.00305"
+        },
+        {
+            "no": "12",
+            "title": "The Impact of Global Equity Offerings",
+            "date": "17 December 2002",
+            "author": [
+                "Susan Chaplinsky",
+                "Latha Ramchand"
+            ],
+            "abstract": "This article examines the impact of U.S. firms issuing equity in multiple markets. We compare the stock price reactions to announcements of global equity offers to a control group of issues offered exclusively in the domestic U.S. market. All else equal, the adverse price reaction that typically accompanies equity issuance is reduced by 0.8 percent when some shares are sold abroad. The overall evidence suggests global offers are effective in expanding demand and reducing the price pressure effects associated with share issuance. The beneits of global offers appear to be associated with an increase in the number of foreign shareholders.",
+            "link": "https://doi.org/10.1111/0022-1082.00306"
+        },
+        {
+            "no": "13",
+            "title": "Corporate Equity Ownership, Strategic Alliances, and Product Market Relationships",
+            "date": "17 December 2002",
+            "author": [
+                "Jeffrey W. Allen",
+                "Gordon M. Phillips"
+            ],
+            "abstract": "This paper examines long\u2010term block ownership by corporations and performance changes in firms with corporate block owners. We also examine potential reasons for corporate ownership including benefits in product market relationships, alleviation of financing constraints, and board monitoring by corporate owners. We find the largest significant increases in targets' stock prices, investment, and operating profitability when ownership is combined with alliances, joint ventures, and other product market relationships between purchasing and target firms, especially in industries with high research and development. Our findings are consistent with the conclusion that block ownership by corporations has significant benefits in product market relationships.",
+            "link": "https://doi.org/10.1111/0022-1082.00307"
+        },
+        {
+            "no": "14",
+            "title": "The Relation between Stock Market Movements and NYSE Seat Prices",
+            "date": "17 December 2002",
+            "author": [
+                "Donald B. Keim",
+                "Ananth Madhavan"
+            ],
+            "abstract": "Exchange seat prices are widely reported and followed as measures of market sentiment. This paper analyzes the information content of NYSE seat prices using: (1) annual seat prices from 1869 to 1998, and (2) the complete record of trades, bids and offers for the seat market from 1973 to 1994. Seat market volumes have predictive power regarding future stock market returns, consistent with a model where seat market activity is a proxy for unobserved factors affecting expected returns. We find abnormally large price movements in seats prior to October 1987, consistent with the hypothesis that seat prices capture market sentiment.",
+            "link": "https://doi.org/10.1111/0022-1082.00308"
+        },
+        {
+            "no": "15",
+            "title": "Reduction of Constraints on Arbitrage Trading and Market Efficiency: An Examination of Ex\u2010Day Returns in Hong Kong after Introduction of Electronic Settlement",
+            "date": "17 December 2002",
+            "author": [
+                "Palani\u2010Rajan Kadapakkam"
+            ],
+            "abstract": "Previous research documents positive ex\u2010dividend day returns in excess of one percent in the unique institutional setting of Hong Kong, where neither dividends nor capital gains are taxed. Short\u2010term arbitrage trades around the ex\u2010day were hampered by physical settlement procedures. After the recent switch to an electronic settlement system, which enables such trades, ex\u2010day abnormal returns have declined to an insignificant 0.17 percent. This drop is more pronounced for high\u2010yield stocks, which are more likely to attract dividend capture trading. The evidence points to the crucial role of short\u2010term traders in ensuring the pricing efficiency of financial markets.",
+            "link": "https://doi.org/10.1111/0022-1082.00309"
+        },
+        {
+            "no": "16",
+            "title": "Explaining the Poor Performance of Consumption\u2010based Asset Pricing Models",
+            "date": "17 December 2002",
+            "author": [
+                "John Y. Campbell",
+                "John H. Cochrane"
+            ],
+            "abstract": "We show that the external habit\u2010formation model economy of Campbell and Cochrane (1999) can explain why the Capital Asset Pricing Model (CAPM) and its extensions are betterapproximate asset pricing models than is the standard onsumption\u2010based model. The model economy produces time\u2010varying expected eturns, tracked by the dividend\u2013price ratio. Portfolio\u2010based models capture some of this variation in state variables, which a state\u2010independent function of consumption cannot capture. Therefore, though the consumption\u2010based model and CAPM are both perfect conditional asset pricing models, the portfolio\u2010based models are better approximate unconditional asset pricing models.",
+            "link": "https://doi.org/10.1111/0022-1082.00310"
+        },
+        {
+            "no": "17",
+            "title": "The Information Value of Bond Ratings",
+            "date": "17 December 2002",
+            "author": [
+                "Doron Kliger",
+                "Oded Sarig"
+            ],
+            "abstract": "We test whether bond ratings contain pricing\u2010relevant information by examining security price reactions to Moody's refinement of its rating system, which was not accompanied by any fundamental change in issuers' risks, was not preceded by any announcement, and was carried simultaneously for all bonds. We find that rating information does not affect firm value, but that debt value increases (decreases) and equity value falls (rises) when Moody's announces better\u2010 (worse\u2010) than\u2010expected ratings. We also find that when Moody's announces better\u2010 (worse\u2010) than\u2010expected ratings, the volatilities implied by prices of options on the fine\u2010rated issuers' shares decline (rise).",
+            "link": "https://doi.org/10.1111/0022-1082.00311"
+        },
+        {
+            "no": "18",
+            "title": "Price Discovery in Initial Public Offerings and the Role of the Lead Underwriter",
+            "date": "17 December 2002",
+            "author": [
+                "Reena Aggarwal",
+                "Pat Conroy"
+            ],
+            "abstract": "We examine the price discovery process of initial public offerings (IPOs) using a unique dataset. The first quote entered by the lead underwriter in the five\u2010minute preopening window explains a large proportion of initial returns even for hot IPOs. Significant learning and price discovery continues to take place during these five minutes with hundreds of quotes being entered. The lead underwriter observes the quoting behavior of other market makers, particularly the wholesalers, and accordingly revises his own quotes. There is a strong positive relationship between initial returns and the time of day when trading starts in an IPO.",
+            "link": "https://doi.org/10.1111/0022-1082.00312"
+        },
+        {
+            "no": "19",
+            "title": "Miscellanea",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00313"
+        },
+        {
+            "no": "20",
+            "title": "Announcements",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00315"
+        },
+        {
+            "no": "21",
+            "title": "Association Meetings",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00316"
+        },
+        {
+            "no": "22",
+            "title": "Index to Volume LV",
+            "date": "17 December 2002",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/0022-1082.00314"
+        },
+        {
+            "no": "23",
+            "title": "Back Matter",
+            "date": "01 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2000.tb00763.x"
+        }
+    ]
+}

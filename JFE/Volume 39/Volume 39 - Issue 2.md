@@ -5,7 +5,7 @@
 ## 1. Announcement
 ### Date
 - Oct 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -30,7 +30,7 @@
 ## 3. Market efficiency around the clock some supporting evidence using foreign-based derivatives
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Alastair Craig
 - Ajay Dravid
 - Matthew Richardson
@@ -42,7 +42,7 @@ This paper examines whether information across international markets is rational
 ## 4. Market underreaction to open market share repurchases
 ### Date
 - Oct 1995
-### Authors
+### Author
 - David Ikenberry
 - Josef Lakonishok
 - Theo Vermaelen
@@ -54,7 +54,7 @@ We examine long-run firm performance following open market share repurchase anno
 ## 5. Aggregate mutual fund flows and security returns
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Vincent A. Warther
 ### Abstract
 In this paper I find that aggregate security returns are highly correlated with concurrent unexpected cash flows into mutual funds, but unrelated to concurrent expected flows. An unexpected inflow equal to 1% of total stock fund assets ($4.75 billion) corresponds to a 5.7% increase in the stock price index. Further, fund flows are correlated with the returns of the securities held by the funds, but not with the returns of other types of securities. I find evidence of a positive relation between flows and subsequent returns and evidence of a negative relation between returns and subsequent flows.
@@ -64,7 +64,7 @@ In this paper I find that aggregate security returns are highly correlated with 
 ## 6. Do corporations award CEO stock options effectively?
 ### Date
 - Oct 1995
-### Authors
+### Author
 - David Yermack
 ### Abstract
 This paper analyzes stock option awards to CEOs of 792 U.S. public corporations between 1984 and 1991. Using a Black-Scholes approach, I test whether stock options' performance incentives have significant associations with explanatory variables related to agency cost reduction. Further tests examine whether the mix of compensation between stock options and cash pay can be explained by corporate liquidity, tax status, or earnings management. Results indicate that few agency or financial contracting theories have explanatory power for patterns of CEO stock option awards.
@@ -74,7 +74,7 @@ This paper analyzes stock option awards to CEOs of 792 U.S. public corporations 
 ## 7. Capital market imperfections and the incentive to lease
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Steven A. Sharpe
 - Hien H. Nguyen
 ### Abstract
@@ -85,7 +85,7 @@ This paper evaluates the influence of financial contracting costs on public corp
 ## 8. Does Section 16b deter insider trading by target managers?
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Anup Agrawal
 - Jeffrey F. Jaffe
 ### Abstract
@@ -96,7 +96,7 @@ This paper examines empirically whether the short-swing rule (Section 16b of the
 ## 9. Tests of microstructural hypotheses in the foreign exchange market
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Richard K. Lyons
 ### Abstract
 Data in this paper support both the inventory-control and asymmetric-information approaches to microstructure theory. Strong evidence of an inventory-control effect on price is new. The transactions dataset chronicles a trading week of a spot foreign exchange dealer whose daily volume averages over $1 billion. In addition to controlling inventory with his own price, the dealer also lays off inventory at other dealers' prices and through brokers. These results highlight the importance of inventory-control theory in understanding trading in this market.
@@ -106,7 +106,7 @@ Data in this paper support both the inventory-control and asymmetric-information
 ## 10. An analysis of value destruction in AT&T's acquisition of NCR
 ### Date
 - Oct 1995
-### Authors
+### Author
 - Thomas Lys
 - Linda Vincent
 ### Abstract
@@ -117,7 +117,7 @@ AT&T's $7.5 billion acquisition of NCR decreased the wealth of AT&T shareholders
 ## 11. Editorial collaborators volumes 37, 38, and 39
 ### Date
 - Oct 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -126,7 +126,7 @@ AT&T's $7.5 billion acquisition of NCR decreased the wealth of AT&T shareholders
 ## 12. Index
 ### Date
 - Oct 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link

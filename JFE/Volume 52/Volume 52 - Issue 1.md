@@ -5,7 +5,7 @@
 ## 1. The determinants and implications of corporate cash holdings
 ### Date
 - Apr 1999
-### Authors
+### Author
 - Tim Opler
 - Lee Pinkowitz
 - René Stulz
@@ -18,7 +18,7 @@ We examine the determinants and implications of holdings of cash and marketable 
 ## 2. Transaction costs and predictability: some utility cost calculations
 ### Date
 - Apr 1999
-### Authors
+### Author
 - Pierluigi Balduzzi
 - Anthony W Lynch
 ### Abstract
@@ -29,7 +29,7 @@ We examine the loss in utility for a consumer who ignores any or all of the foll
 ## 3. Deregulation and the adaptation of governance structure: the case of the U.S. airline industry
 ### Date
 - Apr 1999
-### Authors
+### Author
 - Stacey R. Kole
 - Kenneth M. Lehn
 ### Abstract
@@ -40,7 +40,7 @@ Deregulation provides a natural experiment for examining how governance adapts t
 ## 4. Conditional market timing with benchmark investors
 ### Date
 - Apr 1999
-### Authors
+### Author
 - Connie Becker
 - Wayne Ferson
 - David H. Myers

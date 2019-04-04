@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 1974
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The effects of dividend yield and dividend policy on common stock prices and returns
 ### Date
 - May 1974
-### Authors
+### Author
 - Fischer Black
 - Myron Scholes
 ### Abstract
@@ -25,7 +25,7 @@ This paper suggests that it is not possible to demonstrate, using the best avail
 ## 3. Portfolio theory, job choice and the equilibrium structure of expected wages
 ### Date
 - May 1974
-### Authors
+### Author
 - David Mayers
 ### Abstract
 This paper presents some of the implications of modern portfolio theory for the equilibrium structure of wages under conditions of uncertainty. The primary model presented is a model of wage uncertainty and hence the equilibrium structure is derived in terms of expected wages. The equilibrium structure with the assumption of a perfect labor market (e.g., labor units are infinitely divisible and costlessly mobile) and a perfect capital market is shown to have a very simple linear form. The model assumes homogeneous labor units as well as the usual single-period capital asset pricing model assumptions.
@@ -35,7 +35,7 @@ This paper presents some of the implications of modern portfolio theory for the 
 ## 4. Tests of the multiperiod two-parameter model
 ### Date
 - May 1974
-### Authors
+### Author
 - Eugene F. Fama
 - James D. MacBeth
 ### Abstract
@@ -46,7 +46,7 @@ Although investors face multiperiod decision problems, there are conditions unde
 ## 5. Fallacy of the log-normal approximation to optimal portfolio decision-making over many periods
 ### Date
 - May 1974
-### Authors
+### Author
 - Robert C. Merton
 - Paul A. Samuelson
 ### Abstract
@@ -57,7 +57,7 @@ The fallacy that a many-period expected-utility maximizer should maximize (a) th
 ## 6. Comment on Merton and Samuelson
 ### Date
 - May 1974
-### Authors
+### Author
 - Nils H. Hakansson
 ### Abstract
 
@@ -67,7 +67,7 @@ The fallacy that a many-period expected-utility maximizer should maximize (a) th
 ## 7. A negative report on the ‘near optimality’ of the max-expected-log policy as applied to bounded utilities for long lived programs
 ### Date
 - May 1974
-### Authors
+### Author
 - M.Barry Goldman
 ### Abstract
 Much controversy surrounds the use of the portfolio investment rules induced by maximizing the expected logarithm of terminal wealth (henceforth referred to as the MEL policy). It has been thought that the MEL policy is a good approximation to the optimal investment program when the utility of terminal wealth function is bounded and when the time horizon is long. However, I exhibit a class of bounded utility of terminal wealth functions for which the MEL policy is a very poor approximation to the optimal program. Hence, the wholesale use of the MEL policy as an approximation to the optimal program is unwarranted.

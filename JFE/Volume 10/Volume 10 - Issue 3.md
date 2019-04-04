@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Nov 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. On the exclusion of assets from tests of the two-parameter model
 ### Date
 - Nov 1982
-### Authors
+### Author
 - Robert F Stambaugh
 ### Abstract
 This study investigates the sensitivity of tests of the CAPM to different sets of asset returns. Tests are conducted with market portfolios that include returns for bonds, real estate, and consumer durables in addition to common stocks. Even when stocks represent only 10% of the portfolio's value, inferences about the CAPM are virtually identical to those obtained with a stocks-only portfolio. In contrast, inferences are sensitive to the set of assets used in the tests.
@@ -24,7 +24,7 @@ This study investigates the sensitivity of tests of the CAPM to different sets o
 ## 3. Empirical anomalies based on unexpected earnings and the importance of risk adjustments
 ### Date
 - Nov 1982
-### Authors
+### Author
 - Richard J. Rendleman
 - Charles P. Jones
 - Henry A. Latané
@@ -36,7 +36,7 @@ The purpose of this paper is to reexamine Reinganum's study which indicates that
 ## 4. The value line enigma (1965–1978)
 ### Date
 - Nov 1982
-### Authors
+### Author
 - Thomas E. Copeland
 - David Mayers
 ### Abstract
@@ -47,7 +47,7 @@ The performance of Value Line Investment Survey recommendations made between 196
 ## 5. Do forecast errors or term premia really make the difference between long and short rates?
 ### Date
 - Nov 1982
-### Authors
+### Author
 - Richard Startz
 ### Abstract
 Forward rates in the term structure of interest contain predictions of future spot rates plus (possibly) term premia. Realized spot rates contain predicted spot rates plus forecast errors. Under rational expectations forecast errors are not predictable. By forecasting spot rates using publicly available information, bounds on the variation of forecast errors, and term premia are obtained. For one-month treasury bill rates, one to two thirds of the variation in the difference between forward rates and realized spot rates is due to variation in term premia.
@@ -57,7 +57,7 @@ Forward rates in the term structure of interest contain predictions of future sp
 ## 6. Comments on the valuation of derivative assets
 ### Date
 - Nov 1982
-### Authors
+### Author
 - Avi Bick
 ### Abstract
 This paper presents an alternative approach to derive the Breeden-Litzenberger valuation formula, which expresses the price of an arbitrary derivative security in terms of call options' prices. This valuation formula follows from the observation that a continuous derivative security can be replicated by a portfolio including a bond and call options with all possible exercise prices. Discrete terms are added to the original Breeden-Litzenberger formula to reflect possible discontinuities of the call option price's derivative with respect to the exercise price. These discontinuities are subsequently shown to correspond to mass points of the probability distribution of the stock price. Several applications of the Breeden-Litzenberger valuation formula are demonstrated.
@@ -67,7 +67,7 @@ This paper presents an alternative approach to derive the Breeden-Litzenberger v
 ## 7. Approximate option valuation for arbitrary stochastic processes
 ### Date
 - Nov 1982
-### Authors
+### Author
 - Robert Jarrow
 - Andrew Rudd
 ### Abstract
@@ -78,7 +78,7 @@ We show how a given probability distribution can be approximated by an arbitrary
 ## 8. News items
 ### Date
 - Nov 1982
-### Authors
+### Author
 ### Abstract
 
 ### Link

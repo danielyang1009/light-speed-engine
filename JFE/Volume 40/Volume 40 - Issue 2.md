@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Feb 1996
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Higher market valuation of companies with a small board of directors
 ### Date
 - Feb 1996
-### Authors
+### Author
 - David Yermack
 ### Abstract
 I present evidence consistent with theories that small boards of directors are more effective. Using Tobin's Q as an approximation of market valuation, I find an inverse association between board size and firm value in a sample of 452 large U.S. industrial corporations between 1984 and 1991. The result is robust to numerous controls for company size, industry membership, inside stock ownership, growth opportunities, and alternative corporate governance structures. Companies with small boards also exhibit more favorable values for financial ratios, and provide stronger CEO performance incentives from compensation and the threat of dismissal.
@@ -31,7 +31,7 @@ I present evidence consistent with theories that small boards of directors are m
 ## 3. Business conditions, monetary policy, and expected security returns
 ### Date
 - Feb 1996
-### Authors
+### Author
 - Gerald R. Jensen
 - Jeffrey M. Mercer
 - Robert R. Johnson
@@ -43,7 +43,7 @@ We examine the evidence that expected security returns can be forecasted by the 
 ## 4. Active investors and management turnover following unsuccessful control contests
 ### Date
 - Feb 1996
-### Authors
+### Author
 - David J. Denis
 - Jan M. Serrano
 ### Abstract
@@ -54,7 +54,7 @@ We report that 34% of targets of unsuccessful control contents between 1983 and 
 ## 5. The influence of professional investors on the failure of management buyout attempts
 ### Date
 - Feb 1996
-### Authors
+### Author
 - Sarah W. Peck
 ### Abstract
 In a sample of 111 MBO offers between 1984 and 1987, almost 30% attract new blockholders. These blockholders are primarily professional investors who act to facilitate a takeover by a higher bidder, thus increasing returns to both themselves and other public shareholders. In contrast, I find little evidence that pre-existing blockholders, particularly institutional holders, affect either the offer outcome or actively participate in the buyout contest once it begins. The overall pattern of results suggests that professional investors, particularly equity-holding companies, are ‘control specialists’ who provide valuable services as brokers in the market for corporate control.
@@ -64,7 +64,7 @@ In a sample of 111 MBO offers between 1984 and 1987, almost 30% attract new bloc
 ## 6. A generalized model for testing the home and favorite team advantage in point spread markets
 ### Date
 - Feb 1996
-### Authors
+### Author
 - William H. Dare
 - S.Scott MacDonald
 ### Abstract
@@ -75,7 +75,7 @@ Most sports teams play as either the favorite or the underdog and either at home
 ## 7. A requiem for the USA Is small shareholder monitoring effective?
 ### Date
 - Feb 1996
-### Authors
+### Author
 - Deon Strickland
 - Kenneth W. Wiles
 - Marc Zenner

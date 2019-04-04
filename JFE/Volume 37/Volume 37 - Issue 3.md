@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Incentives, downsizing, and value creation at general dynamics
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Jay Dial
 - Kevin J. Murphy
 ### Abstract
@@ -32,7 +32,7 @@ In 1991, defense contractor General Dynamics engaged a new management team which
 ## 3. The Nestlé crash
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Claudio Loderer
 - Andreas Jacobs
 ### Abstract
@@ -43,7 +43,7 @@ On November 17, 1988, the board of directors of Nestlé AG decided to allow fore
 ## 4. Closed-end fund premia and returns implications for financial market equilibrium
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Jeffrey Pontiff
 ### Abstract
 This paper examines the relation between closed-end fund premia and returns. Additional evidence is provided on Thompson's (1978) finding that fund premia are negatively correlated with future returns. Funds with 20% discounts have expected twelve-month returns that are 6% greater than nondiscounted funds. This correlation is attributed to premium mean-reversion, not to anticipated future portfolio performance. Economically motivated explanations do not account for this effect.
@@ -53,7 +53,7 @@ This paper examines the relation between closed-end fund premia and returns. Add
 ## 5. Anatomy of the trading process empirical evidence on the behavior of institutional traders
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Donald B. Keim
 - Ananth Madhavan
 ### Abstract
@@ -64,7 +64,7 @@ This paper examines the behavior of institutional traders. We use unique data on
 ## 6. Stock returns and volatility a firm-level analysis
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Gregory R. Duffee
 ### Abstract
 It has been previously documented that individual firms' stock return volatility rises after stock prices fall. This paper finds that this statistical relation is largely due to a positive contemporaneous relation between firm stock returns and firm stock return volatility. This positive relation is strongest for both small firms and firms with little financial leverage. At the aggregate level, the sign of this contemporaneous relation is reversed. The reasons for the difference between the aggregate- and firm-level relations are explored.
@@ -74,7 +74,7 @@ It has been previously documented that individual firms' stock return volatility
 ## 7. Does the market react differently to domestic and foreign takeover announcements? Evidence from the U.S. chemical and retail industries
 ### Date
 - Mar 1995
-### Authors
+### Author
 - Kathryn L. Dewenter
 ### Abstract
 This paper examines shareholder wealth gains from domestic and foreign takeover announcements in the U.S. chemical and retail industries. Contrary to results in several recent papers, these data indicate there is no significant difference in within industry mean takeover premia levels. There is evidence, though, that the sensitivity of takeover premia levels to standard transaction characteristics does differ across buyers: Foreign investors do pay more than domestic investors in hostile transactions, but pay less when there are rival bidders. The results indicate the market's reaction to buyer nationality is closely tied to the transaction's characteristics.
@@ -84,7 +84,7 @@ This paper examines shareholder wealth gains from domestic and foreign takeover 
 ## 8. Index
 ### Date
 - Mar 1995
-### Authors
+### Author
 ### Abstract
 
 ### Link

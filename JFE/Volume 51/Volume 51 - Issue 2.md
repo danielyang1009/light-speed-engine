@@ -5,7 +5,7 @@
 ## 1. An analysis of mutual fund design: the case of investing in small-cap stocks1
 ### Date
 - Feb 1999
-### Authors
+### Author
 - Donald B. Keim
 ### Abstract
 In 1982, Dimensional Fund Advisors launched a mutual fund intended to capture the returns of small-cap stocks. The ‘9–10 Fund’ is based on the CRSP 9–10 Index, an index of small-cap stocks constituting the ninth and tenth deciles of NYSE market capitalization, although the 9–10 Fund incorporates investment rules and a trading strategy that are aimed at minimizing the potentially excessive trade costs associated with such illiquid stocks. As a result, the 9–10 Fund provided a 2.2% annual premium over the 9–10 Index for the 1982–1995 period. We show that both the investment rules and the trade strategy components of the Fund’s design contribute significantly to this return difference.
@@ -15,7 +15,7 @@ In 1982, Dimensional Fund Advisors launched a mutual fund intended to capture th
 ## 2. Stock-based incentive contracts and managerial performance: the case of Ralston Purina Company1
 ### Date
 - Feb 1999
-### Authors
+### Author
 - Cynthia J Campbell
 - Charles E Wasley
 ### Abstract
@@ -26,7 +26,7 @@ Under Ralston Purina Company's 1986 incentive contract 14 managers would receive
 ## 3. Testing static tradeoff against pecking order models of capital structure1
 ### Date
 - Feb 1999
-### Authors
+### Author
 - Lakshmi Shyam-Sunder
 - Stewart C. Myers
 ### Abstract
@@ -37,7 +37,7 @@ This paper tests traditional capital structure models against the alternative of
 ## 4. Using genetic algorithms to find technical trading rules1
 ### Date
 - Feb 1999
-### Authors
+### Author
 - Franklin Allen
 - Risto Karjalainen
 ### Abstract
@@ -48,7 +48,7 @@ We use a genetic algorithm to learn technical trading rules for the S&P 500 inde
 ## 5. Long-term returns from equity carveouts1
 ### Date
 - Feb 1999
-### Authors
+### Author
 - Anand M Vijh
 ### Abstract
 Using a sample of 628 carveouts during 1981–1995, this paper finds that the newly issued subsidiary stocks do not underperform appropriate benchmarks over a three-year period following the carveout. This result is in striking contrast with the documented poor performance of initial public offerings and seasoned equity offerings. I conjecture that the superior performance of subsidiary stocks arises because the subsidiary and parent firms can focus on fewer business segments after carveout, and because the parent firms continue to own a monitoring position in the subsidiary firms. I test whether the subsidiary stock performance is related to the number of business segments the parent firm has before carveout. The relationship is not always significant, which suggests another possible explanation, that the market may react efficiently to the likely future performance of carveouts.
@@ -58,7 +58,7 @@ Using a sample of 628 carveouts during 1981–1995, this paper finds that the ne
 ## 6. Deregulation, disintermediation, and agency costs of debt: evidence from Japan1
 ### Date
 - Feb 1999
-### Authors
+### Author
 - Christopher W. Anderson
 - Anil K. Makhija
 ### Abstract

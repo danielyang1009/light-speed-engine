@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Micahel C. Jensen
 - John B. Long
 - G.William Schwert
@@ -28,7 +28,7 @@
 ## 3. Size and stock returns, and other empirical regularities
 ### Date
 - Jun 1983
-### Authors
+### Author
 - G.William Schwert
 ### Abstract
 
@@ -38,7 +38,7 @@
 ## 4. Size-related anomalies and stock return seasonality
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Donald B. Keim
 ### Abstract
 This study examines, month-by-month, the empirical relation between abnormal returns and market value of NYSE and AMEX common stocks. Evidence is provided that daily abnormal return distributions in January have large means relative to the remaining eleven months, and that the relation between abnormal returns and size is always negative and more pronounced in January than in any other month — even in years when, on average, large firms earn larger risk-adjusted returns than small firms. In particular, nearly fifty percent of the average magnitude of the ‘size effect’ over the period 1963–1979 is due to January abnormal returns. Further, more than fifty percent of the January premium is attributable to large abnormal returns during the first week of trading in the year, particularly on the first trading day.
@@ -48,7 +48,7 @@ This study examines, month-by-month, the empirical relation between abnormal ret
 ## 5. New evidence on the nature of size-related anomalies in stock prices
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Philip Brown
 - Allan W. Kleidon
 - Terry A. Marsh
@@ -60,7 +60,7 @@ This paper is concerned with the size-related anomalies in stock returns reporte
 ## 6. Transaction costs and the small firm effect
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Hans R. Stoll
 - Robert E. Whaley
 ### Abstract
@@ -71,7 +71,7 @@ Recent empirical work by Banz (1981) and Reinganum (1981) documents abnormally l
 ## 7. Transaction costs and the small firm effect
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Paul Schultz
 ### Abstract
 Stoll and Whaley (1983) suggest large transaction costs may be responsible for the large risk-adjusted returns earned by small firm stocks. This study, using data from the AMEX as well as the NYSE, shows that investors can earn risk-adjusted excess returns after transaction costs by holding small firms for relatively short holding periods. Other literature that provides evidence that is inconsistent with the transaction costs hypothesis is cited.
@@ -81,7 +81,7 @@ Stoll and Whaley (1983) suggest large transaction costs may be responsible for t
 ## 8. The anomalous stock market behavior of small firms in January
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Marc R. Reinganum
 ### Abstract
 Small firms experience large returns in January and exceptionally large returns during the first few trading days of January. The empirical tests indicate that the abnormally high returns witnessed at the very beginning of January appear to be consistent with tax-loss selling. However, tax-loss selling cannot explain the entire January seasonal effect. The small firms least likely to be sold for tax reasons (prior year ‘winners’) also exhibit large average January returns, although not unusually large returns during the first few days of January.
@@ -91,7 +91,7 @@ Small firms experience large returns in January and exceptionally large returns 
 ## 9. Stock return seasonalities and the tax-loss selling hypothesis
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Philip Brown
 - Donald B. Keim
 - Allan W. Kleidon
@@ -104,7 +104,7 @@ A ‘tax-loss selling’ hypothesis has frequently been advanced to explain the 
 ## 10. The relationship between earnings' yield, market value and return for NYSE common stocks
 ### Date
 - Jun 1983
-### Authors
+### Author
 - Sanjoy Basu
 ### Abstract
 The empirical relationship between earnings' yield, firm size and returns on the common stock of NYSE firms is examined in this paper. The results confirm that the common stock of high E/P firms earn, on average, higher risk-adjusted returns than the common stock of low E/P firms and that this effect is clearly significant even if experimental control is exercised over differences in firm size. On the other hand, while the common stock of small NYSE firms appear to have earned substantially higher returns than the common stock of large NYSE firms, the size effect virtually disappears when returns are controlled for differences in risk and E/P ratios. The evidence presented here indicates that the E/P effect, however, is not entirely independent of firm size and that the effect of both variables on expected returns is considerably more complicated than previously documented in the literature.
@@ -114,7 +114,7 @@ The empirical relationship between earnings' yield, firm size and returns on the
 ## 11. Notices
 ### Date
 - Jun 1983
-### Authors
+### Author
 ### Abstract
 
 ### Link

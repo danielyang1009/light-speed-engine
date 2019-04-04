@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2010
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Going public to acquire? The acquisition motive in IPOs
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Ugur Celikyurt
 - Merih Sevilir
 - Anil Shivdasani
@@ -26,7 +26,7 @@ Newly public firms make acquisitions at a torrid pace. Their large acquisition a
 ## 3. Average correlation and stock market returns
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Joshua M. Pollet
 - Mungo Wilson
 ### Abstract
@@ -37,7 +37,7 @@ If the Roll critique is important, changes in the variance of the stock market m
 ## 4. Risk and CEO turnover
 ### Date
 - Mar 2010
-### Authors
+### Author
 - Robert Bushman
 - Zhonglan Dai
 - Xue Wang
@@ -49,7 +49,7 @@ This paper investigates how performance risk impacts a board's ability to learn 
 ## 5. Profiting from government stakes in a command economy: Evidence from Chinese asset sales
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Charles W. Calomiris
 - Raymond Fisman
 - Yongxiang Wang
@@ -61,7 +61,7 @@ We examine the market response to an unexpected announcement of the sale of gove
 ## 6. Trade credit, collateral liquidation, and borrowing constraints
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Daniela Fabbri
 - Anna Maria C. Menichini
 ### Abstract
@@ -72,7 +72,7 @@ Assuming that firms’ suppliers are better able to extract value from the liqui
 ## 7. Dynamic asset allocation with stochastic income and interest rates
 ### Date
 - Jan 2010
-### Authors
+### Author
 - Claus Munk
 - Carsten Sørensen
 ### Abstract
@@ -83,7 +83,7 @@ We solve for optimal portfolios when interest rates and labor income are stochas
 ## 8. Uncertainty about average profitability and the diversification discount
 ### Date
 - Feb 2010
-### Authors
+### Author
 - John Hund
 - Donald Monk
 - Sheri Tice
@@ -95,7 +95,7 @@ The diversification discount (multiple segment firm value below the value impute
 ## 9. Creditor rights, information sharing, and bank risk taking
 ### Date
 - Feb 2010
-### Authors
+### Author
 - Joel F. Houston
 - Chen Lin
 - Ping Lin
@@ -108,7 +108,7 @@ Looking at a sample of nearly 2,400 banks in 69 countries, we find that stronger
 ## 10. CFOs and CEOs: Who have the most influence on earnings management?
 ### Date
 - Feb 2010
-### Authors
+### Author
 - John (Xuefeng) Jiang
 - Kathy R. Petroni
 - Isabel Yanyan Wang

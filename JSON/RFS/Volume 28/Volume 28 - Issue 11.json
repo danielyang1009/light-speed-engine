@@ -1,0 +1,111 @@
+{
+    "journal": "RFS",
+    "volume": "28",
+    "issue": "11",
+    "date": "November 2015",
+    "page": "Pages 2993\u20133223",
+    "article": [
+        {
+            "no": "1",
+            "title": "The Sovereign Wealth Fund Discount: Evidence from Public Equity Investments",
+            "date": "01 July 2015",
+            "author": [
+                "Bernardo Bortolotti",
+                "Veljko Fotak",
+                "William L. Megginson"
+            ],
+            "abstract": "We document that announcement-period abnormal returns of sovereign wealth fund (SWF) equity investments in publicly traded firms are positive but lower than those of comparable private investments. Further, SWF investment targets suffer from declining return on assets and sales growth over the following three years. Our results are robust to controls for target and deal characteristics and are not driven by SWF target selection criteria. Larger discounts are associated with SWFs taking seats on boards of directors and with SWFs under strict government control acquiring greater stakes, supporting the hypothesis that political influence negatively affects firm value and performance.",
+            "link": "https://doi.org/10.1093/rfs/hhv036"
+        },
+        {
+            "no": "2",
+            "title": "How Important Are Foreign Ownership Linkages for International Stock Returns?",
+            "date": "13 May 2015",
+            "author": [
+                "S\u00f6hnke M. Bartram",
+                "John M. Griffin",
+                "Tae-Hoon Lim",
+                "David T. Ng"
+            ],
+            "abstract": "We derive a foreign ownership return as the weighted average return of foreign stocks that are connected to a stock through common ownership. The foreign ownership return is of similar economic significance as traditional country and industry factors in explaining international stock returns. It is not related to omitted fundamentals or wealth effects but shifts substantially around ADR and index listings when the investor habitat changes. A decomposition shows that the foreign ownership return is driven by active reallocations of global institutions as opposed to fund flows from end investors. Our findings have important implications for international portfolio diversification.",
+            "link": "https://doi.org/10.1093/rfs/hhv030"
+        },
+        {
+            "no": "3",
+            "title": "Understanding FX Liquidity",
+            "date": "13 May 2015",
+            "author": [
+                "Nina Karnaukh",
+                "Angelo Ranaldo",
+                "Paul S\u00f6derlind"
+            ],
+            "abstract": "We provide a comprehensive study of the liquidity of spot foreign exchange (FX) rates over more than two decades and a large cross-section of currencies. First, we show that FX liquidity can be accurately measured with daily and readily available data. Second, we demonstrate that FX liquidity declines with funding constraints and global risk, supporting theoretical models relating funding and market liquidity. In these distressed circumstances, liquidity tends to evaporate more for developed and riskier currencies. Finally, we show stronger comovements of FX liquidities in distressed markets, especially when funding is constrained, volatility is high, and FX speculators incur losses.",
+            "link": "https://doi.org/10.1093/rfs/hhv029"
+        },
+        {
+            "no": "4",
+            "title": "Thinking Outside the Borders: Investors' Underreaction to Foreign Operations Information",
+            "date": "20 July 2015",
+            "author": [
+                "Xing Huang"
+            ],
+            "abstract": "I use industry-level returns in foreign markets to examine the hypothesis that value-relevant foreign information slowly diffuses into the stock prices of U.S. multinational firms. A trading strategy that exploits foreign information generates abnormal returns of 0.8% monthly. I find that the market responds more slowly in periods with lower media coverage of foreign news and to information from more linguistically and culturally distant countries. These results suggest that both investors' inattention and lack of understanding of foreign information slow the incorporation of new information into prices. I further separate these two mechanisms by examining market responses to earnings surprises.",
+            "link": "https://doi.org/10.1093/rfs/hhv039"
+        },
+        {
+            "no": "5",
+            "title": "Information, Analysts, and Stock Return Comovement",
+            "date": "04 August 2015",
+            "author": [
+                "Allaudeen Hameed",
+                "Randall Morck",
+                "Jianfeng Shen",
+                "Bernard Yeung"
+            ],
+            "abstract": "Analysts follow disproportionally firms whose fundamentals correlate more with those of their industry peers. This coverage pattern supports models of profit-maximizing information intermediaries producing preferentially information valuable in pricing more stocks. We designate highly followed firms whose fundamentals best predict those of peer firms as bellwether firms. When analysts revise a bellwether firm's earning forecast, it changes the prices of other firms significantly; however, revisions for firms that are less intensely followed do not change the prices of heavily followed firms. Unidirectional information spillovers explain how the more accurately priced stocks might exhibit more comovement.",
+            "link": "https://doi.org/10.1093/rfs/hhv042"
+        },
+        {
+            "no": "6",
+            "title": "Valuing Changes in Political Networks: Evidence from Campaign Contributions to Close Congressional Elections",
+            "date": "03 June 2015",
+            "author": [
+                "Pat Akey"
+            ],
+            "abstract": "This paper investigates the value of firm political connections using a regression discontinuity design in a sample of close, off-cycle U.S. congressional elections. I compare firms donating to winning candidates and firms donating to losing candidates and find that postelection abnormal equity returns are 3% higher for firms donating to winning candidates. Connections to politicians serving on powerful congressional committees, such as appropriations and taxation, are especially valuable and impact contributing firms sales. Firms' campaign contributions are correlated with other political activities such as lobbying and hiring former government employees, suggesting that firms take coordinated actions to build political networks.",
+            "link": "https://doi.org/10.1093/rfs/hhv035"
+        },
+        {
+            "no": "7",
+            "title": "Cover",
+            "date": "07 October 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu099"
+        },
+        {
+            "no": "8",
+            "title": "Editorial Board",
+            "date": "07 October 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu100"
+        },
+        {
+            "no": "9",
+            "title": "Forthcoming Articles",
+            "date": "07 October 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu101"
+        },
+        {
+            "no": "10",
+            "title": "Volume 28 Number 11 November 2015\nThe Review of Financial Studies - Table of Contents",
+            "date": "07 October 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/hhu102"
+        }
+    ]
+}

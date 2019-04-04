@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2008
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Do auctions induce a winner's curse? New evidence from the corporate takeover market
 ### Date
 - Aug 2007
-### Authors
+### Author
 - Audra L. Boone
 - J. Harold Mulherin
 ### Abstract
@@ -25,7 +25,7 @@ We contrast the winner's curse hypothesis and the competitive market hypothesis 
 ## 3. Who makes acquisitions? CEO overconfidence and the market's reaction
 ### Date
 - Jul 2007
-### Authors
+### Author
 - Ulrike Malmendier
 - Geoffrey Tate
 ### Abstract
@@ -42,7 +42,7 @@ basis points). We consider alternative interpretations including inside informat
 ## 4. Corporate misreporting and bank loan contracting
 ### Date
 - Aug 2007
-### Authors
+### Author
 - John R. Graham
 - Si Li
 - Jiaping Qiu
@@ -54,7 +54,7 @@ This paper is the first to study the effect of financial restatement on bank loa
 ## 5. Why do firms pay dividends? International evidence on the determinants of dividend policy
 ### Date
 - Jun 2007
-### Authors
+### Author
 - David J. Denis
 - Igor Osobov
 ### Abstract
@@ -65,7 +65,7 @@ In the US, Canada, UK, Germany, France, and Japan, the propensity to pay dividen
 ## 6. Big business stability and economic growth: Is what's good for General Motors good for America?
 ### Date
 - Jun 2007
-### Authors
+### Author
 - Kathy Fogel
 - Randall Morck
 - Bernard Yeung
@@ -77,7 +77,7 @@ What is good for a country may not be good for its big businesses, at least rece
 ## 7. Creative destruction and firm-specific performance heterogeneity
 ### Date
 - Jun 2007
-### Authors
+### Author
 - Hyunbae Chun
 - Jung-Wook Kim
 - Randall Morck
@@ -90,7 +90,7 @@ Traditional U.S. industries with higher firm-specific stock return and fundament
 ## 8. Diversification to mitigate expropriation in the tobacco industry
 ### Date
 - Aug 2007
-### Authors
+### Author
 - Messod D. Beneish
 - Ivo Ph. Jansen
 - Melissa F. Lewis
@@ -103,7 +103,7 @@ While it is well established that diversifying acquisitions by large, cash-rich 
 ## 9. The expectation hypothesis of the term structure of very short-term rates: Statistical tests and economic value
 ### Date
 - Aug 2007
-### Authors
+### Author
 - Pasquale Della Corte
 - Lucio Sarno
 - Daniel L. Thornton
@@ -115,7 +115,7 @@ This paper reexamines the validity of the expectation hypothesis (EH) of the ter
 ## 10. Voluntary disclosures around share repurchases
 ### Date
 - Aug 2007
-### Authors
+### Author
 - Paul Brockman
 - Inder K. Khurana
 - Xiumin Martin
@@ -127,7 +127,7 @@ Managers increase the frequency and magnitude of bad news announcements during t
 ## 11. Cycles in the IPO market
 ### Date
 - Jun 2007
-### Authors
+### Author
 - Chris Yung
 - Gönül Çolak
 - Wei Wang

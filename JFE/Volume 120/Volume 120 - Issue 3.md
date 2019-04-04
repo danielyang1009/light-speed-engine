@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why do firms use high discount rates?
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Ravi Jagannathan
 - David A. Matsa
 - Iwan Meier
@@ -27,7 +27,7 @@ We present evidence consistent with operational constraints leading firms to use
 ## 3. Roughing up beta: Continuous versus discontinuous betas and the cross section of expected stock returns
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Tim Bollerslev
 - Sophia Zhengzi Li
 - Viktor Todorov
@@ -39,7 +39,7 @@ We investigate how individual equity prices respond to continuous and jumpy mark
 ## 4. The leverage externalities of credit default swaps
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Jay Yin Li
 - Dragon Yongjun Tang
 ### Abstract
@@ -50,7 +50,7 @@ This paper provides the first empirical evidence of the externalities of credit 
 ## 5. Does rating analyst subjectivity affect corporate debt pricing?
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Cesare Fracassi
 - Stefan Petry
 - Geoffrey Tate
@@ -62,7 +62,7 @@ We find evidence of systematic optimism and pessimism among credit analysts, com
 ## 6. Indexing and active fund management: International evidence
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Martijn Cremers
 - Miguel A. Ferreira
 - Pedro Matos
@@ -75,7 +75,7 @@ We examine the relation between indexing and active management in the mutual fun
 ## 7. The commitment problem of secured lending
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Daniela Fabbri
 - Anna Maria C. Menichini
 ### Abstract
@@ -86,7 +86,7 @@ The paper presents a new theory of trade credit in which firms buy inputs on cre
 ## 8. Taxes and bank capital structure
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Glenn Schepens
 ### Abstract
 This paper shows that a reduction in tax discrimination between debt and equity funding leads to better capitalized financial institutions. The paper exploits exogenous variation in the tax treatment of debt and equity created by the introduction of a tax shield for equity. The results demonstrate that a more equal treatment of debt and equity increases bank capital ratios, driven by an increase in common equity. The change also leads to a significant reduction in risk taking for ex-ante low capitalized banks. Overall, the findings suggest that tax shields could be a valuable and innovative policy tool for bank regulators.
@@ -96,7 +96,7 @@ This paper shows that a reduction in tax discrimination between debt and equity 
 ## 9. Why does the option to stock volume ratio predict stock returns?
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Li Ge
 - Tse-Chun Lin
 - Neil D. Pearson
@@ -108,7 +108,7 @@ We use data on signed option volume to study which components of option volume p
 ## 10. The causal effect of option pay on corporate risk management
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Tor-Erik Bakke
 - Hamed Mahmudi
 - Chitru S. Fernando
@@ -121,7 +121,7 @@ This study provides strong evidence of a causal effect of risk-taking incentives
 ## 11. The value of a good credit reputation: Evidence from credit card renegotiations
 ### Date
 - Feb 2016
-### Authors
+### Author
 - Andres Liberman
 ### Abstract
 I exploit a natural experiment to estimate borrowers’ willingness to pay for a good credit reputation. A lender in Chile offered lower installments to borrowers who were in default. Those who owed more than a fixed arbitrary cutoff were additionally offered a clean public repayment record. Using the cutoff in a fuzzy regression discontinuity design, I show that borrowers are willing to pay the equivalent of 11% of their monthly income for a good reputation. Borrowers use their reputation to take on more debt with other banks, but default more. Thus, renegotiations may impose informational externalities on other lenders.

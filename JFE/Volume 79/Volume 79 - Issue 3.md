@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Partial adjustment toward target capital structures
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Mark J. Flannery
 - Kasturi P. Rangan
 ### Abstract
@@ -25,7 +25,7 @@ The empirical literature provides conflicting assessments about how firms choose
 ## 3. Term structure estimation without using latent factors
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Gregory R. Duffee
 ### Abstract
 A combination of observed and unobserved (latent) factors capture term structure dynamics. Information about these dynamics is extracted from observed factors using restrictions implied by no-arbitrage, without specifying or estimating any of the parameters associated with latent factors. Estimation is equivalent to fitting the moment conditions of a set of regressions, where no-arbitrage imposes cross-equation restrictions on the coefficients. The methodology is applied to the dynamics of inflation and yields. Outside of the disinflationary period of 1979 through 1983, short-term rates move one-for-one with expected inflation, while bond risk premia are insensitive to inflation.
@@ -35,7 +35,7 @@ A combination of observed and unobserved (latent) factors capture term structure
 ## 4. Stock returns, aggregate earnings surprises, and behavioral finance
 ### Date
 - Jun 2004
-### Authors
+### Author
 - S.P. Kothari
 - Jonathan Lewellen
 - Jerold B. Warner
@@ -47,7 +47,7 @@ We study the stock market's reaction to aggregate earnings news. Prior research 
 ## 5. A general approach to integrated risk management with skewed, fat-tailed risks
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Joshua V. Rosenberg
 - Til Schuermann
 ### Abstract
@@ -58,7 +58,7 @@ Integrated risk management for financial institutions requires an approach for a
 ## 6. Trades outside the quotes: Reporting delay, trading option, or trade size?
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Hans R. Stoll
 - Christoph Schenzler
 ### Abstract
@@ -69,7 +69,7 @@ In the period 1993 through 2002 examined in this study, quoted and effective spr
 ## 7. Separating microstructure noise from volatility
 ### Date
 - Jan 2005
-### Authors
+### Author
 - Federico M. Bandi
 - Jeffrey R. Russell
 ### Abstract
@@ -80,7 +80,7 @@ There are two variance components embedded in the returns constructed using high
 ## 8. Volatility in an era of reduced uncertainty: Lessons from Pax Britannica
 ### Date
 - Apr 2005
-### Authors
+### Author
 - William O. Brown
 - Richard C.K. Burdekin
 - Marc D. Weidenmier
@@ -92,7 +92,7 @@ Although it has been well established that financial volatility is related to ne
 ## 9. Author index to volume 79
 ### Date
 - Mar 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link

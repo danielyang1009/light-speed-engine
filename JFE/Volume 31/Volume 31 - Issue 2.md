@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Apr 1992
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Does corporate performance improve after mergers?
 ### Date
 - Apr 1992
-### Authors
+### Author
 - Paul M. Healy
 - Krishna G. Palepu
 - Richard S. Ruback
@@ -26,7 +26,7 @@ We examine post-acquisition performance for the 50 largest U.S. mergers between 
 ## 3. Stock return variation and expected dividends
 ### Date
 - Apr 1992
-### Authors
+### Author
 - S.P. Kothari
 - Jay Shanken
 ### Abstract
@@ -37,7 +37,7 @@ This paper examines the extent to which aggregate stock return variation is expl
 ## 4. Changes in corporate performance associated with bank acquisitions
 ### Date
 - Apr 1992
-### Authors
+### Author
 - Marcia Millon Cornett
 - Hassan Tehranian
 ### Abstract
@@ -48,7 +48,7 @@ This paper examines the post-acquisition performance of large bank mergers betwe
 ## 5. Measuring abnormal performance
 ### Date
 - Apr 1992
-### Authors
+### Author
 - Navin Chopra
 - Josef Lakonishok
 - Jay R. Ritter
@@ -60,7 +60,7 @@ A highly controversial issue in financial economies is whether stocks overreact.
 ## 6. Underwriting calls of convertible securities
 ### Date
 - Apr 1992
-### Authors
+### Author
 - Arnold R. Cowan
 - Nandkumar Nayar
 - Ajai K. Singh

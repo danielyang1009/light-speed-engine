@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Oct 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Measuring skill in the mutual fund industry
 ### Date
 - May 2015
-### Authors
+### Author
 - Jonathan B. Berk
 - Jules H. van Binsbergen
 ### Abstract
@@ -25,7 +25,7 @@ Using the value that a mutual fund extracts from capital markets as the measure 
 ## 3. Motivated monitors: The importance of institutional investors׳ portfolio weights
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Eliezer M. Fich
 - Jarrad Harford
 - Anh L. Tran
@@ -37,7 +37,7 @@ Studies of institutional monitoring focus on the fraction of the firm held by in
 ## 4. Employee rights and acquisitions
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Kose John
 - Anzhela Knyazeva
 - Diana Knyazeva
@@ -49,7 +49,7 @@ This paper examines the outcomes and characteristics of corporate acquisitions f
 ## 5. Dark trading and price discovery
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Carole Comerton-Forde
 - Tālis J. Putniņš
 ### Abstract
@@ -60,7 +60,7 @@ Regulators globally are concerned that dark trading harms price discovery. We sh
 ## 6. Wealth transfers via equity transactions
 ### Date
 - Jul 2015
-### Authors
+### Author
 - Richard G. Sloan
 - Haifeng You
 ### Abstract
@@ -71,7 +71,7 @@ Previous research indicates that firms issue shares when their stock is overpric
 ## 7. Tail risk premia and return predictability
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Tim Bollerslev
 - Viktor Todorov
 - Lai Xu
@@ -83,7 +83,7 @@ The variance risk premium, defined as the difference between the actual and risk
 ## 8. Does realized skewness predict the cross-section of equity returns?
 ### Date
 - Feb 2015
-### Authors
+### Author
 - Diego Amaya
 - Peter Christoffersen
 - Kris Jacobs
@@ -96,7 +96,7 @@ We use intraday data to compute weekly realized moments for equity returns and s
 ## 9. Government ownership and the cost of debt: Evidence from government investments in publicly traded firms
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Ginka Borisova
 - Veljko Fotak
 - Kateryna Holland
@@ -109,7 +109,7 @@ We investigate how government equity ownership in publicly traded firms affects 
 ## 10. Bank loans and troubled debt restructurings
 ### Date
 - Jan 2015
-### Authors
+### Author
 - Cem Demiroglu
 - Christopher James
 ### Abstract

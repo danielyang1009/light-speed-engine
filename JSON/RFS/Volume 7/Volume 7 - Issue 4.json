@@ -1,0 +1,86 @@
+{
+    "journal": "RFS",
+    "volume": "7",
+    "issue": "4",
+    "date": "October 1994",
+    "page": "Pages 631\u2013804",
+    "article": [
+        {
+            "no": "1",
+            "title": "Transactions, Volume, and Volatility",
+            "date": "26 May 2015",
+            "author": [
+                "Charles M. Jones",
+                "Gautam Kaul",
+                "Marc L. Lipson"
+            ],
+            "abstract": "We show that the positive volatility-volume relation documented by numerous researchers actually reflects the positive relation between volatility and the number of transactions. Thus, it is the occurrence of transactions per se, and not their size, that generates volatility; trade size has no information beyond that contained in the frequency of transactions. Our results suggest that theoretical research needs to entertain scenarios in which (i) both the frequency and size of trades are endogenously determined, yet (ii) the size of trades has no information content beyond that contained in the number of transactions.",
+            "link": "https://doi.org/10.1093/rfs/7.4.631"
+        },
+        {
+            "no": "2",
+            "title": "Program Trading and Intraday Volatility",
+            "date": "26 May 2015",
+            "author": [
+                "Lawerence Harris",
+                "George Sofianos",
+                "James E. Shapiro"
+            ],
+            "abstract": "Program trading and intraday changes in the S&P 500 Index are correlated. Futures prices and, to a lesser extent, cash prices lead program trades. Index arbitrage trades are followed by an immediate change in the cash index, which ultimately reverses slightly. No reversal follows nonarbitrage trades. The cumulative index changes associated with buy-and-sell trades and with arbitrage and nonarbitrage trades all are similar. Price decompositions suggest that the results are not due to microstructure effects. Program trades in this 1989\u20131990 sample do not seem to have created major short-term liquidity problems. The results are stable within the sample.",
+            "link": "https://doi.org/10.1093/rfs/7.4.653"
+        },
+        {
+            "no": "3",
+            "title": "Analytical GMM Tests: Asset Pricing with Time-Varying Risk Premiums",
+            "date": "26 May 2015",
+            "author": [
+                "Guofu Zhou"
+            ],
+            "abstract": "We propose alternative generalized method of moments (GMM) tests that are analytically solvable in many econometric models, yielding in particular analytical GMM tests for asset pricing models with time-varying risk premiums. We also provide simulation evidence showing that the proposed tests have good finite sample properties and that their asymptotic distribution is reliable for the sample size commonly used. We apply our tests to study the number of latent factors in the predictable variations of the returns on portfolios grouped by industries. Using data from October 1941 to September 1986 and two sets of instrumental variables, we find that the tests reject a one-factor model but not a two-factor one.",
+            "link": "https://doi.org/10.1093/rfs/7.4.687"
+        },
+        {
+            "no": "4",
+            "title": "Ex-Dividend Price Behavior of Common Stocks",
+            "date": "26 May 2015",
+            "author": [
+                "John H. Boyd",
+                "Ravi Jagannathan"
+            ],
+            "abstract": "This study examines common stock prices around ex-dividend dates. Such price data usually contain a mixture of observations\u2014some with and some without arbitrageurs and/or dividend capturers active. Our theory predicts that such mixing will result in a nonlinear relation between percentage price drop and dividend yield\u2014not the commonly assumed linear relation. This prediction and another important prediction of theory are supported empirically. In a variety of tests, marginal price drop is not significantly different from the dividend amount. Thus, over the last several decades, one-for-one marginal price drop has been an excellent (average) rule of thumb.",
+            "link": "https://doi.org/10.1093/rfs/7.4.711"
+        },
+        {
+            "no": "5",
+            "title": "Insider and Liquidity Trading in Stock and Options Markets",
+            "date": "26 May 2015",
+            "author": [
+                "Bruno Biais",
+                "Pierre Hillion"
+            ],
+            "abstract": "We analyze the introduction of a nonredundant option, which completes the markets, and the effects of this on information revelation and risk sharing. The option alters the interaction between liquidity and insider trading. We find that the option mitigates the market breakdown problem created by the combination of market incompleteness and asymmetric information. The introduction of the option has ambiguous consequences on the informational efficiency of the market. On the one hand, by avoiding market breakdown, it enables trades to occur and convey information. On the other hand, the introduction of the option enlarges the set of trading strategies the insider can follow. This can make it more difficult for the market makers to interpret the information content of trades and consequently can reduce the informational efficiency of the market. The introduction of the option also has an ambiguous effect on the profitability of insider trades, which can either increase or decrease depending on parameter values.",
+            "link": "https://doi.org/10.1093/rfs/7.4.743"
+        },
+        {
+            "no": "6",
+            "title": "Asset Prices in Dynamic Production Economies with Time-Varying Risk",
+            "date": "26 May 2015",
+            "author": [
+                "Vasanttilak Naik"
+            ],
+            "abstract": "We examine the effect of changes in output uncertainty on the price of aggregate capital and on the prices of levered claims on capital. The relation between the volatility of the marginal product of capital and the price of capital depends on the level of capital adjustment costs and the elasticity of intertemporal substitution. For available estimates of this elasticity, the value of capital and risk are directly related while the value of levered equity claims on capital may be decreasing in risk. We use these results to analyze the argument that increased risk was responsible for the U.S. stock market decline of the 1970s.",
+            "link": "https://doi.org/10.1093/rfs/7.4.781"
+        },
+        {
+            "no": "7",
+            "title": "Correction: A Mean-Variance Framework for Tests of Asset Pricing Models",
+            "date": "26 May 2015",
+            "author": [
+                "Shmuel Kandel",
+                "Robert F. Stambaugh"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1093/rfs/7.4.803"
+        }
+    ]
+}

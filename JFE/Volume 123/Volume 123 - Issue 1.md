@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Growth through rigidity: An explanation for the rise in CEO pay
 ### Date
 - Aug 2016
-### Authors
+### Author
 - Kelly Shue
 - Richard R. Townsend
 ### Abstract
@@ -25,7 +25,7 @@ The dramatic rise in CEO compensation during the 1990s and early 2000s is a long
 ## 3. Debt enforcement, investment, and risk taking across countries
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Giovanni Favara
 - Erwan Morellec
 - Enrique Schroth
@@ -38,7 +38,7 @@ We argue that the prospect of an imperfect enforcement of debt contracts in defa
 ## 4. Systematic mistakes in the mortgage market and lack of financial sophistication
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Sumit Agarwal
 - Itzhak Ben-David
 - Vincent Yao
@@ -50,7 +50,7 @@ Institutions often offer a menu of contracts to consumers in an attempt to creat
 ## 5. The unintended consequences of the zero lower bound policy
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Marco Di Maggio
 - Marcin Kacperczyk
 ### Abstract
@@ -61,7 +61,7 @@ We study the impact of the zero lower bound interest rate policy on the industri
 ## 6. Dealer financial conditions and lender-of-last-resort facilities
 ### Date
 - Dec 2015
-### Authors
+### Author
 - Viral V. Acharya
 - Michael J. Fleming
 - Warren B. Hrung
@@ -74,7 +74,7 @@ We examine the financial conditions of dealers that participated in two of the F
 ## 7. Customer concentration and loan contract terms
 ### Date
 - Mar 2016
-### Authors
+### Author
 - Murillo Campello
 - Janet Gao
 ### Abstract
@@ -85,7 +85,7 @@ We study pricing and non-pricing features of loan contracts to gauge how the cre
 ## 8. News implied volatility and disaster concerns
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Asaf Manela
 - Alan Moreira
 ### Abstract
@@ -96,7 +96,7 @@ We construct a text-based measure of uncertainty starting in 1890 using front-pa
 ## 9. How collateral laws shape lending and sectoral activity
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Charles W. Calomiris
 - Mauricio Larrain
 - José Liberti
@@ -109,7 +109,7 @@ We demonstrate the central importance of creditors’ ability to use movable ass
 ## 10. Portfolio concentration and performance of institutional investors worldwide
 ### Date
 - Sep 2016
-### Authors
+### Author
 - Nicole Choi
 - Mark Fedenia
 - Hilla Skiba
@@ -122,7 +122,7 @@ Using data on security holdings for 10,771 institutional investors from 72 count
 ## 11. Pilot CEOs and corporate innovation
 ### Date
 - Nov 2016
-### Authors
+### Author
 - Jayanthi Sunder
 - Shyam V. Sunder
 - Jingjing Zhang

@@ -5,7 +5,7 @@
 ## 1. Transactions costs and the relationship between put and call prices
 ### Date
 - Jul 1974
-### Authors
+### Author
 - J.P. Gould
 - D. Galai
 ### Abstract
@@ -16,7 +16,7 @@ The relationship between prices of puts and calls on securities that is suggeste
 ## 2. Stock prices, inflation, and the term structure of interest rates
 ### Date
 - Jul 1974
-### Authors
+### Author
 - John B. Long
 ### Abstract
 In this article, the quantitative form of capital market equilibrium is derived for a multi-period economy in which (a) there are many consumption goods whose future prices are uncertain, and (b) the investment opportunities available to consumers include both common stocks and default-free bills of many different maturities. Particular emphasis is placed on consumer reaction to uncertainty about shifts in commodity prices and the term structure of interest rates and on the way one should expect to observe this reaction reflected in portfolio choices and equilibrium stock prices.
@@ -26,7 +26,7 @@ In this article, the quantitative form of capital market equilibrium is derived 
 ## 3. Portfolio turnpike theorems for constant policies
 ### Date
 - Jul 1974
-### Authors
+### Author
 - Stephen A. Ross
 ### Abstract
 This paper develops general overtaking techniques for studying the asymptotic properties of portfolio policies optimal with respect to a terminal utility valuation. For a restricted class of utility functions the sequence of optimal constant (non-revised) portfolio policies formed as the horizon recedes into the future is shown to converge. Furthermore, for utility functions unbounded above and below, this turnpike policy need not be the policy associated with the minimal constant relative risk aversion function that bounds the valuation function from above. Finally, an analogy between the portfolio turnpike problem and the turnpike problem of growth theory is studied.
@@ -36,7 +36,7 @@ This paper develops general overtaking techniques for studying the asymptotic pr
 ## 4. News item
 ### Date
 - Jul 1974
-### Authors
+### Author
 ### Abstract
 
 ### Link

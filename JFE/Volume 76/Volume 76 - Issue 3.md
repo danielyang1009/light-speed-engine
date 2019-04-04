@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Why stocks may disappoint
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Andrew Ang
 - Geert Bekaert
 - Jun Liu
@@ -26,7 +26,7 @@ We provide a formal treatment of both static and dynamic portfolio choice using 
 ## 3. There is a risk-return trade-off after all
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Eric Ghysels
 - Pedro Santa-Clara
 - Rossen Valkanov
@@ -38,7 +38,7 @@ This paper studies the intertemporal relation between the conditional mean and t
 ## 4. Financing decisions: who issues stock?
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Eugene F. Fama
 - Kenneth R. French
 ### Abstract
@@ -49,7 +49,7 @@ Financing decisions seem to violate the central predictions of the pecking order
 ## 5. Expected returns and expected dividend growth
 ### Date
 - May 2004
-### Authors
+### Author
 - Martin Lettau
 - Sydney C. Ludvigson
 ### Abstract
@@ -60,7 +60,7 @@ We investigate a consumption-based present-value relation that is a function of 
 ## 6. Conflicts between principals and agents: evidence from residential brokerage
 ### Date
 - Jun 2004
-### Authors
+### Author
 - R.C. Rutherford
 - T.M. Springer
 - A. Yavas
@@ -72,7 +72,7 @@ When a homeowner uses an agent to sell his property, he may have less informatio
 ## 7. Interactions of corporate financing and investment decisions: The effects of agency conflicts
 ### Date
 - Jun 2004
-### Authors
+### Author
 - Paul D. Childs
 - David C. Mauer
 - Steven H. Ott
@@ -84,7 +84,7 @@ We examine interactions between flexible financing and investment decisions in a
 ## 8. Index to volume 76
 ### Date
 - Jun 2005
-### Authors
+### Author
 ### Abstract
 
 ### Link

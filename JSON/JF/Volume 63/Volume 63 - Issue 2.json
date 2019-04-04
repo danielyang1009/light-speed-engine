@@ -1,0 +1,201 @@
+{
+    "journal": "JF",
+    "volume": "63",
+    "issue": "2",
+    "date": "April 2008",
+    "page": "Pages: i-iv, 797-849, v, 491-1022, ix-xiv",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "01 April 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01341.x"
+        },
+        {
+            "no": "2",
+            "title": "The Term Structure of Real Rates and Expected Inflation",
+            "date": "01 April 2008",
+            "author": [
+                "ANDREW ANG",
+                "GEERT BEKAERT",
+                "MIN WEI"
+            ],
+            "abstract": "Changes in nominal interest rates must be due to either movements in real interest rates, expected inflation, or the inflation risk premium. We develop a term structure model with regime switches, time\u2010varying prices of risk, and inflation to identify these components of the nominal yield curve. We find that the unconditional real rate curve in the United States is fairly flat around 1.3%. In one real rate regime, the real term structure is steeply downward sloping. An inflation risk premium that increases with maturity fully accounts for the generally upward sloping nominal term structure.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01332.x"
+        },
+        {
+            "no": "3",
+            "title": "ANNOUNCEMENT OF 2007 SMITH BREEDEN PRIZES AND BRATTLE AWARDS",
+            "date": "01 April 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01323.x"
+        },
+        {
+            "no": "4",
+            "title": "Which Shorts Are Informed?",
+            "date": "01 April 2008",
+            "author": [
+                "EKKEHART BOEHMER",
+                "CHARLES M. JONES",
+                "XIAOYAN ZHANG"
+            ],
+            "abstract": "We construct a long daily panel of short sales using proprietary NYSE order data. From 2000 to 2004, shorting accounts for more than 12.9% of NYSE volume, suggesting that shorting constraints are not widespread. As a group, these short sellers are well informed. Heavily shorted stocks underperform lightly shorted stocks by a risk\u2010adjusted average of 1.16% over the following 20 trading days (15.6% annualized). Institutional nonprogram short sales are the most informative; stocks heavily shorted by institutions underperform by 1.43% the next month (19.6% annualized). The results indicate that, on average, short sellers are important contributors to efficient stock prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01324.x"
+        },
+        {
+            "no": "5",
+            "title": "An Empirical Analysis of the Pricing of Collateralized Debt Obligations",
+            "date": "01 April 2008",
+            "author": [
+                "FRANCIS A. LONGSTAFF",
+                "ARVIND RAJAN"
+            ],
+            "abstract": "We use the information in collateralized debt obligations (CDO) prices to study market expectations about how corporate defaults cluster. A three\u2010factor portfolio credit model explains virtually all of the time\u2010series and cross\u2010sectional variation in an extensive data set of CDX index tranche prices. Tranches are priced as if losses of 0.4%, 6%, and 35% of the portfolio occur with expected frequencies of 1.2, 41.5, and 763 years, respectively. On average, 65% of the CDX spread is due to firm\u2010specific default risk, 27% to clustered industry or sector default risk, and 8% to catastrophic or systemic default risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01330.x"
+        },
+        {
+            "no": "6",
+            "title": "Do Bankruptcy Codes Matter? A Study of Defaults in France, Germany, and the U.K.",
+            "date": "01 April 2008",
+            "author": [
+                "SERGEI A. DAVYDENKO",
+                "JULIAN R. FRANKS"
+            ],
+            "abstract": "Using a sample of small firms that defaulted on their bank debt in France, Germany, and the United Kingdom, we find that large differences in creditors' rights across countries lead banks to adjust their lending and reorganization practices to mitigate costly aspects of bankruptcy law. In particular, French banks respond to a creditor\u2010unfriendly code by requiring more collateral than lenders elsewhere, and by relying on collateral forms that minimize the statutory dilution of their claims in bankruptcy. Despite such adjustments, bank recovery rates in default remain sharply different across the three countries, reflecting very different levels of creditor protection.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01325.x"
+        },
+        {
+            "no": "7",
+            "title": "Empirical Evidence of Risk Shifting in Financially Distressed Firms",
+            "date": "01 April 2008",
+            "author": [
+                "ASSAF EISDORFER"
+            ],
+            "abstract": "This paper provides evidence of risk\u2010shifting behavior in the investment decisions of financially distressed firms. Using a real options framework, I show that shareholders' risk\u2010shifting incentives can reverse the expected negative relation between volatility and investment. I test two hypotheses that are consistent with risk\u2010shifting behavior: (i) volatility has a positive effect on distressed firms' investment; (ii) investments of distressed firms generate less value during times of high uncertainty. Empirical evidence using 40 years of data supports both hypotheses. I further evaluate the effect of various firm characteristics on risk shifting, and estimate the costs of the investment distortion.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01326.x"
+        },
+        {
+            "no": "8",
+            "title": "Information Sales and Insider Trading with Long\u2010Lived Information",
+            "date": "01 April 2008",
+            "author": [
+                "GIOVANNI CESPA"
+            ],
+            "abstract": "Fundamental information resembles in many respects a durable good. Hence, the effects of its incorporation into stock prices depend on who is the agent controlling its flow. Like a durable goods monopolist, a monopolistic analyst selling information intertemporally competes against herself. This forces her to partially relinquish control over the information flow to traders. Conversely, an insider solves the intertemporal competition problem through vertical integration, thus exerting tighter control over the information flow. Comparing market patterns I show that a dynamic market where information is provided by an analyst is thicker and more informative than one where an insider trades.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01327.x"
+        },
+        {
+            "no": "9",
+            "title": "The Industry Life Cycle, Acquisitions and Investment: Does Firm Organization Matter?",
+            "date": "01 April 2008",
+            "author": [
+                "VOJISLAV MAKSIMOVIC",
+                "GORDON PHILLIPS"
+            ],
+            "abstract": "We examine the effect of industry life\u2010cycle stages on within\u2010industry acquisitions and capital expenditures by conglomerates and single\u2010segment firms controlling for endogeneity of organizational form. We find greater differences in acquisitions than in capital expenditures, which are similar across organizational types. In particular, 36% of the growth recorded by conglomerate segments in growth industries comes from acquisitions, versus 9% for single\u2010segment firms. In growth industries, the effect of financial dependence on acquisitions and plant openings is mitigated for conglomerate firms. Plants acquired by conglomerate firms increase in productivity. The results suggest that organizational forms' comparative advantages differ across industry conditions.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01328.x"
+        },
+        {
+            "no": "10",
+            "title": "Capital Gains Taxes and Asset Prices: Capitalization or Lock\u2010in?",
+            "date": "01 April 2008",
+            "author": [
+                "ZHONGLAN DAI",
+                "EDWARD MAYDEW",
+                "DOUGLAS A. SHACKELFORD",
+                "HAROLD H. ZHANG"
+            ],
+            "abstract": "This paper demonstrates that the equilibrium impact of capital gains taxes reflects both the capitalization effect (i.e., capital gains taxes decrease demand) and the lock\u2010in effect (i.e., capital gains taxes decrease supply). Depending on time periods and stock characteristics, either effect may dominate. Using the Taxpayer Relief Act of 1997 as our event, we find evidence supporting a dominant capitalization effect in the week following news that sharply increased the probability of a reduction in the capital gains tax rate and a dominant lock\u2010in effect in the week after the rate reduction became effective.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01329.x"
+        },
+        {
+            "no": "11",
+            "title": "Identification of Maximal Affine Term Structure Models",
+            "date": "01 April 2008",
+            "author": [
+                "PIERRE COLLIN\u2010DUFRESNE",
+                "ROBERT S. GOLDSTEIN",
+                "CHRISTOPHER S. JONES"
+            ],
+            "abstract": "Building on Duffie and Kan (1996), we propose a new representation of affine models in which the state vector comprises infinitesimal maturity yields and their quadratic covariations. Because these variables possess unambiguous economic interpretations, they generate a representation that is globally identifiable. Further, this representation has more identifiable parameters than the \u201cmaximal\u201d model of Dai and Singleton (2000). We implement this new representation for select three\u2010factor models and find that model\u2010independent estimates for the state vector can be estimated directly from yield curve data, which present advantages for the estimation and interpretation of multifactor models.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01331.x"
+        },
+        {
+            "no": "12",
+            "title": "Competition from Specialized Firms and the Diversification\u2013Performance Linkage",
+            "date": "01 April 2008",
+            "author": [
+                "JUAN SANTALO",
+                "MANUEL BECERRA"
+            ],
+            "abstract": "In this study, we show that the effect of diversification on performance is not homogeneous across industries and explore analytically and empirically the implications of this finding for the diversification literature. Diversified firms perform better in industries with a small number of nondiversified competitors or, equivalently, when specialized firms have a small combined market share, but worse as the presence of specialized firms increases in the industries in which they compete. The results are robust to the use of methods that alleviate the self\u2010selection problem and call for a reassessment of the diversification\u2013performance relationship.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01333.x"
+        },
+        {
+            "no": "13",
+            "title": "Correlated Trading and Returns",
+            "date": "01 April 2008",
+            "author": [
+                "DANIEL DORN",
+                "GUR HUBERMAN",
+                "PAUL SENGMUELLER"
+            ],
+            "abstract": "A German broker's clients place similar speculative trades and therefore tend to be on the same side of the market in a given stock during a given day, week, month, and quarter. Aggregate liquidity effects, short sale constraints, the systematic execution of limit orders (coordinated through price movements) or the correlated trading of other investors who pick off retail limit orders do not fully explain why retail investors trade similarly. Correlated market orders lead returns, presumably due to persistent speculative price pressure. Correlated limit orders also predict subsequent returns, consistent with executed limit orders being compensated for accommodating liquidity demands.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01334.x"
+        },
+        {
+            "no": "14",
+            "title": "Share Issuance and Cross\u2010sectional Returns",
+            "date": "01 April 2008",
+            "author": [
+                "JEFFREY PONTIFF",
+                "ARTEMIZA WOODGATE"
+            ],
+            "abstract": "Post\u20101970, share issuance exhibits a strong cross\u2010sectional ability to predict stock returns. This predictive ability is more statistically significant than the individual predictive ability of size, book\u2010to\u2010market, or momentum. Our finding is related to research that finds that long\u2010run returns are associated with share repurchase announcements, seasoned equity offerings, and stock mergers, although our results remain strong even after exclusion of the data used in these studies. We estimate the issuance relation pre\u20101970 and find no statistically significant predictive ability for most holding periods.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01335.x"
+        },
+        {
+            "no": "15",
+            "title": "Earnings Management and Firm Performance Following Open\u2010Market Repurchases",
+            "date": "01 April 2008",
+            "author": [
+                "GUOJIN GONG",
+                "HENOCK LOUIS",
+                "AMY X. SUN"
+            ],
+            "abstract": "Both post\u2010repurchase abnormal returns and reported improvement in operating performance are driven, at least in part, by pre\u2010repurchase downward earnings management rather than genuine growth in profitability. The downward earnings management increases with both the percentage of the company that managers repurchase and CEO ownership. Pre\u2010repurchase abnormal accruals are also negatively associated with future performance, with the association driven mainly by those firms that report the largest income\u2010decreasing abnormal accruals. The study suggests that one reason firms experience post\u2010repurchase abnormal returns is that post\u2010repurchase realized earnings growth exceeds expectations formed on the basis of pre\u2010repurchase deflated earnings numbers.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01336.x"
+        },
+        {
+            "no": "16",
+            "title": "Underreaction to Dividend Reductions and Omissions?",
+            "date": "01 April 2008",
+            "author": [
+                "YI LIU",
+                "SAMUEL H. SZEWCZYK",
+                "ZAHER ZANTOUT"
+            ],
+            "abstract": "Using a sample of 2,337 cash dividend reduction or omission announcements over the 1927 to 1999 period, this study reports significant negative post\u2010announcement long\u2010term abnormal returns, which last 1 year only. However, this long\u2010term abnormal performance is driven by the post\u2010earnings\u2010announcement drift. After controlling for the earnings performance and the skewness of buy\u2010and\u2010hold abnormal returns, there is no compelling evidence of a post\u2010dividend\u2010reduction or post\u2010dividend\u2010omission price drift.",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01337.x"
+        },
+        {
+            "no": "17",
+            "title": "MISCELLANEA",
+            "date": "01 April 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01339.x"
+        },
+        {
+            "no": "18",
+            "title": "Back Matter",
+            "date": "01 April 2008",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2008.01340.x"
+        }
+    ]
+}

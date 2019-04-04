@@ -5,7 +5,7 @@
 ## 1. Ex-day behavior with dividend preference and limitations to short-term arbitrage: the case of Swedish lottery bonds
 ### Date
 - Aug 1999
-### Authors
+### Author
 - Richard C. Green
 - Kristian Rydqvist
 ### Abstract
@@ -16,7 +16,7 @@ Swedish lottery bonds offer a unique opportunity to study ex-day effects in an e
 ## 2. How are stock prices affected by the location of trade?
 ### Date
 - Aug 1999
-### Authors
+### Author
 - Kenneth A. Froot
 - Emil M. Dabora
 ### Abstract
@@ -27,7 +27,7 @@ We examine pairs of large, `Siamese twin’ companies whose stocks are traded ar
 ## 3. Share issue privatizations as financial means to political and economic ends
 ### Date
 - Aug 1999
-### Authors
+### Author
 - Steven L Jones
 - William L Megginson
 - Robert C Nash
@@ -40,7 +40,7 @@ This study examines how political and economic factors affect the offer price, s
 ## 4. Limit orders and the bid–ask spread
 ### Date
 - Aug 1999
-### Authors
+### Author
 - Kee H Chung
 - Bonnie F Van Ness
 - Robert A Van Ness
@@ -52,7 +52,7 @@ We examine the role of limit-order traders and specialists in the market-making 
 ## 5. The performance of investment newsletters
 ### Date
 - Aug 1999
-### Authors
+### Author
 - Jeffrey F. Jaffe
 - James M. Mahoney
 ### Abstract

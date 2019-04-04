@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jul 2017
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Banking integration and house price co-movement
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Augustin Landier
 - David Sraer
 - David Thesmar
@@ -26,7 +26,7 @@ The correlation in house price growth across US states increased steadily betwee
 ## 3. Information networks: Evidence from illegal insider trading tips
 ### Date
 - Mar 2017
-### Authors
+### Author
 - Kenneth R. Ahern
 ### Abstract
 This paper exploits a novel hand-collected data set to provide a comprehensive analysis of the social relationships that underlie illegal insider trading networks. I find that inside information flows through strong social ties based on family, friends, and geographic proximity. On average, inside tips originate from corporate executives and reach buy-side investors after three links in the network. Inside traders earn prodigious returns of 35% over 21 days, with more central traders earning greater returns, as information conveyed through social networks improves price efficiency. More broadly, this paper provides some of the only direct evidence of person-to-person communication among investors.
@@ -36,7 +36,7 @@ This paper exploits a novel hand-collected data set to provide a comprehensive a
 ## 4. CEO talent, CEO compensation, and product market competition
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Hae Won (Henny) Jung
 - Ajay Subramanian
 ### Abstract
@@ -47,7 +47,7 @@ We develop a structural industry equilibrium model to show how competitive chief
 ## 5. Explaining the negative returns to volatility claims: An equilibrium approach
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Bjørn Eraker
 - Yue Wu
 ### Abstract
@@ -58,7 +58,7 @@ We study the returns to investing in VIX futures, VIX Exchange Traded Notes (ETN
 ## 6. The bright side of financial derivatives: Options trading and firm innovation
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Iván Blanco
 - David Wehrheim
 ### Abstract
@@ -69,7 +69,7 @@ Do financial derivatives enhance or impede innovation? We answer this question b
 ## 7. Board reforms and firm value: Worldwide evidence
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Larry Fauver
 - Mingyi Hung
 - Xi Li
@@ -82,7 +82,7 @@ We examine the impact of corporate board reforms on firm value in 41 countries. 
 ## 8. What do measures of real-time corporate sales say about earnings surprises and post-announcement returns?
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Kenneth Froot
 - Namho Kang
 - Gideon Ozik
@@ -95,7 +95,7 @@ We develop real-time proxies of retail corporate sales from multiple sources, in
 ## 9. The advantages of using excess returns to model the term structure
 ### Date
 - May 2017
-### Authors
+### Author
 - Adam Goliński
 - Peter Spencer
 ### Abstract
@@ -106,7 +106,7 @@ We advocate the use of excess returns rather than yields or log prices in analys
 ## 10. Tracing out capital flows: How financially integrated banks respond to natural disasters
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Kristle Romero Cortés
 - Philip E. Strahan
 ### Abstract
@@ -117,7 +117,7 @@ Multi-market banks reallocate capital when local credit demand increases after n
 ## 11. Endogenous intermediation in over-the-counter markets
 ### Date
 - Apr 2017
-### Authors
+### Author
 - Ana Babus
 - Tai-Wei Hu
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1976
-### Authors
+### Author
 - Michael C. Jensen
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Corporate pension funding policy
 ### Date
 - Jun 1976
-### Authors
+### Author
 - William F. Sharpe
 ### Abstract
 What policy should a corporation adopt concerning the funding of a defined-benefit pension plan and the investment of the assets held in trust for the plan? Until recently, pension plans did not have to be insured, and some risk could be borne by intended beneficiaries. Federal legislation has now mandated such coverage. This paper analyzes corporate policy under three conditions which correspond, roughly, to the earlier situation (‘uninsure’ loans), the current situation (‘partially insured’ loans), and the situation required by law to be implemented in the future (‘completely insured’ plans). We show that if insurance premiums are set correctly, corporate policy in this area may not matter; otherwise the optimal policy may simply be that which maximizes the difference between the value of the insurance and its cost.
@@ -25,7 +25,7 @@ What policy should a corporation adopt concerning the funding of a defined-benef
 ## 3. The pricing of equity-linked life insurance policies with an asset value guarantee
 ### Date
 - Jun 1976
-### Authors
+### Author
 - Michael J. Brennan
 - Eduardo S. Schwartz
 ### Abstract
@@ -36,7 +36,7 @@ This paper considers the equilibrium pricing of equity-linked life insurance pol
 ## 4. The effect of estimation risk on optimal portfolio choice
 ### Date
 - Jun 1976
-### Authors
+### Author
 - Roger W. Klein
 - Vijay S. Bawa
 ### Abstract
@@ -47,7 +47,7 @@ This paper determines the effect of estimation risk on optimal portfolio choice 
 ## 5. Sharing rules and equilibrium in an international capital market under uncertainty
 ### Date
 - Jun 1976
-### Authors
+### Author
 - Frederick L.A. Grauer
 - Robert H. Litzenberger
 - Richard E. Stehle
@@ -59,7 +59,7 @@ International capital market equilibrium is characterized for a world economy in
 ## 6. Market microstructure
 ### Date
 - Jun 1976
-### Authors
+### Author
 - Mark B. Garman
 ### Abstract
 It is assumed that a collection of market agents can be treated as a statistical ensemble. Their market activities are depicted as the stochastic generation of market orders according to a Poisson process. The objective is to effectively describe the ‘temporal microstructure’, or moment-to-moment trading activities in asset markets. Two basic models, ‘dealership’ vs. ‘auction’ markets (and their variants) are put forth. Implications are drawn from each model. The implications include several testable hypotheses regarding the aggregate behavior of markets and market-makers as well as some qualitative insight into the transaction-to-transaction nature of realistic exchange processes.
@@ -69,7 +69,7 @@ It is assumed that a collection of market agents can be treated as a statistical
 ## 7. Explicit solutions to some single-period investment problems for risky log-stable stocks
 ### Date
 - Jun 1976
-### Authors
+### Author
 - B.W. Stuck
 ### Abstract
 Numerical approximations are presented for the expected utility of wealth over a single time period for a small investor who proportions her or his available capital between a risk-free asset and a risky stock. The stock price is assumed to be a log-stable random variable. The utility functional is logarithmic or isoeleastic (
@@ -83,7 +83,7 @@ q
 ## 8. Comment on Chen, Kim and Kon
 ### Date
 - Jun 1976
-### Authors
+### Author
 - George M. Constantinides
 ### Abstract
 
@@ -93,7 +93,7 @@ q
 ## 9. Cash demand, liquidation costs, and capital market equilibrium under uncertainty: Reply
 ### Date
 - Jun 1976
-### Authors
+### Author
 - Andrew H. Chen
 - E.Han Kim
 - Stanley J. Kon
@@ -105,7 +105,7 @@ q
 ## 10. Cash management: An inventory control limit approach
 ### Date
 - Jun 1976
-### Authors
+### Author
 - George M. Constantinides
 ### Abstract
 
@@ -115,7 +115,7 @@ q
 ## 11. News Item
 ### Date
 - Jun 1976
-### Authors
+### Author
 ### Abstract
 
 ### Link

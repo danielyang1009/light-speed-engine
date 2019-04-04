@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - May 2016
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Rethinking reversals
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Timothy C. Johnson
 ### Abstract
 High-frequency reversals are an economically important characteristic of the returns to tradeable claims to the market portfolio. This paper demonstrates that short-horizon negative autocorrelation can arise in a tractable model of agents with tournament-type preferences. Intuitively, investors act as if they are averse to missing out on a trend, causing the risk premium to move strongly counter to realized returns. The model features fully rationalizing agents, complete markets, and no exogenous transaction demand. Plausible parameterizations can match the autocorrelation in the data. Supporting evidence on novel first and second moment implications is presented.
@@ -24,7 +24,7 @@ High-frequency reversals are an economically important characteristic of the ret
 ## 3. Local financial capacity and asset values: Evidence from bank failures
 ### Date
 - Jan 2015
-### Authors
+### Author
 - Raghuram Rajan
 - Rodney Ramcharan
 ### Abstract
@@ -35,7 +35,7 @@ Using differences in regulation as a means of identification, we find that a red
 ## 4. Shareholder nonparticipation in valuable rights offerings: New findings for an old puzzle
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Clifford G. Holderness
 - Jeffrey Pontiff
 ### Abstract
@@ -46,7 +46,7 @@ Shareholder participation in valuable domestic rights offerings averages only 64
 ## 5. Discerning information from trade data
 ### Date
 - Jan 2016
-### Authors
+### Author
 - David Easley
 - Marcos Lopez de Prado
 - Maureen O'Hara
@@ -58,7 +58,7 @@ How best to discern trading intentions from market data? We examine the accuracy
 ## 6. Adverse selection, slow-moving capital, and misallocation
 ### Date
 - Jan 2016
-### Authors
+### Author
 - William Fuchs
 - Brett Green
 - Dimitris Papanikolaou
@@ -70,7 +70,7 @@ We embed adverse selection into a dynamic, general equilibrium model with hetero
 ## 7. Asset allocation and monetary policy: Evidence from the eurozone
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Harald Hau
 - Sandy Lai
 ### Abstract
@@ -81,7 +81,7 @@ The eurozone has a single short-term nominal interest rate, but monetary policy 
 ## 8. Time-to-produce, inventory, and asset prices
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Zhanhui Chen
 ### Abstract
 Time-to-build, time-to-produce, and inventory have important implications for asset prices and quantity dynamics in a general equilibrium model with recursive preferences. Time-to-build captures the delay in transforming new investments into productive capital, and time-to-produce captures the delay in transforming productive capital into output. Both delays increase risks in that time-to-build generates procyclical payouts, whereas the time-to-produce amplifies this procyclicality. Inventory smooths consumption and helps capture interest rate volatility even when the elasticity of intertemporal substitution is small. The model is consistent with a high equity premium, a high stock return volatility, and lead-lag relations between asset prices and macroeconomic quantities.
@@ -91,7 +91,7 @@ Time-to-build, time-to-produce, and inventory have important implications for as
 ## 9. Does the geographic expansion of banks reduce risk?
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Martin R. Goetz
 - Luc Laeven
 - Ross Levine
@@ -103,7 +103,7 @@ We develop a new identification strategy to evaluate the impact of the geographi
 ## 10. Bankruptcy law and bank financing
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Giacomo Rodano
 - Nicolas Serrano-Velarde
 - Emanuele Tarantino
@@ -115,7 +115,7 @@ Exploiting the timing of the 2005–2006 Italian bankruptcy law reforms, we dise
 ## 11. Underwriter deal pipeline and the pricing of IPOs
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Kevin K. Boeh
 - Craig Dunbar
 ### Abstract
@@ -126,7 +126,7 @@ This study examines how initial public offering (IPO) pricing is affected by the
 ## 12. Revolving doors on Wall Street
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Jess Cornaggia
 - Kimberly J. Cornaggia
 - Han Xia
@@ -138,7 +138,7 @@ Credit analysts often leave rating agencies to work at firms they rate. We use b
 ## 13. Sentiments, financial markets, and macroeconomic fluctuations
 ### Date
 - Jan 2016
-### Authors
+### Author
 - Jess Benhabib
 - Xuewen Liu
 - Pengfei Wang

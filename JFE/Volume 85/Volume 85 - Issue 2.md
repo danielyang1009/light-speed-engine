@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2007
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The economics of conflicts of interest in financial institutions
 ### Date
 - Nov 2006
-### Authors
+### Author
 - Hamid Mehran
 - René M. Stulz
 ### Abstract
@@ -25,7 +25,7 @@ A conflict of interest exists when a party to a transaction can gain by taking a
 ## 3. Conflicts of interest, information provision, and competition in the financial services industry
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Patrick Bolton
 - Xavier Freixas
 - Joel Shapiro
@@ -37,7 +37,7 @@ In some markets sellers have better information than buyers over which products 
 ## 4. Is there a diversification discount in financial conglomerates?
 ### Date
 - Jun 2005
-### Authors
+### Author
 - Luc Laeven
 - Ross Levine
 ### Abstract
@@ -48,7 +48,7 @@ This paper investigates whether the diversity of activities conducted by financi
 ## 5. So what do I get? The bank's view of lending relationships
 ### Date
 - Aug 2005
-### Authors
+### Author
 - Sreedhar Bharath
 - Sandeep Dahiya
 - Anthony Saunders
@@ -61,7 +61,7 @@ While many empirical studies document borrower benefits of lending relationships
 ## 6. Conflicts of interest in sell-side research and the moderating role of institutional investors
 ### Date
 - Dec 2005
-### Authors
+### Author
 - Alexander Ljungqvist
 - Felicia Marston
 - Laura T. Starks
@@ -75,7 +75,7 @@ Because sell-side analysts are dependent on institutional investors for performa
 ## 7. Are small investors naive about incentives?
 ### Date
 - Feb 2007
-### Authors
+### Author
 - Ulrike Malmendier
 - Devin Shanthikumar
 ### Abstract
@@ -86,7 +86,7 @@ Security analysts tend to bias stock recommendations upward, particularly if the
 ## 8. Comparing the stock recommendation performance of investment banks and independent research firms
 ### Date
 - Sep 2005
-### Authors
+### Author
 - Brad M. Barber
 - Reuven Lehavy
 - Brett Trueman
@@ -102,7 +102,7 @@ percentage points annualized). These results suggest reluctance by investment ba
 ## 9. Why are IPO investors net buyers through lead underwriters?
 ### Date
 - Dec 2005
-### Authors
+### Author
 - John M. Griffin
 - Jeffrey H. Harris
 - Selim Topaloglu
@@ -114,7 +114,7 @@ In Nasdaq initial public offerings (IPOs) issued between 1997 and 2002, purchase
 ## 10. Business ties and proxy voting by mutual funds
 ### Date
 - Apr 2005
-### Authors
+### Author
 - Gerald F. Davis
 - E. Han Kim
 ### Abstract
@@ -125,7 +125,7 @@ The magnitude of mutual funds’ business ties with their portfolio firms is doc
 ## 11. Board structure, mergers, and shareholder wealth: A study of the mutual fund industry
 ### Date
 - May 2006
-### Authors
+### Author
 - Ajay Khorana
 - Peter Tufano
 - Lei Wedge

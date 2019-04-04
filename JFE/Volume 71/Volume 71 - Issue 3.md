@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Market evidence on the opaqueness of banking firms’ assets
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Mark J. Flannery
 - Simon H. Kwan
 - M. Nimalendran
@@ -26,7 +26,7 @@ We assess the market microstructure properties of U.S. banking firms’ equity, 
 ## 3. The impact of illegal insider trading in dealer and specialist markets: evidence from a natural experiment
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Raymond P.H Fishe
 - Michel A Robe
 ### Abstract
@@ -37,7 +37,7 @@ We examine insider trading in specialist and dealer markets, using the trades of
 ## 4. Internal capital markets and investment policy: evidence from corporate spinoffs
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Seoungpil Ahn
 - David J Denis
 ### Abstract
@@ -48,7 +48,7 @@ We analyze changes in investment policy following 106 spinoffs between 1981 and 
 ## 5. Determinants of target capital structure: The case of dual debt and equity issues
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Armen Hovakimian
 - Gayane Hovakimian
 - Hassan Tehranian
@@ -60,7 +60,7 @@ We examine whether market and operating performance affect corporate financing b
 ## 6. Predicting stock price movements from past returns: the role of consistency and tax-loss selling
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Mark Grinblatt
 - Tobias J. Moskowitz
 ### Abstract
@@ -71,7 +71,7 @@ The consistency of positive past returns and tax-loss selling significantly affe
 ## 7. Order preferencing and market quality on NASDAQ before and after decimalization
 ### Date
 - Mar 2004
-### Authors
+### Author
 - Kee H Chung
 - Chairat Chuwonganant
 - D.Timothy McCormick
@@ -83,7 +83,7 @@ Despite the widely held belief that order preferencing affects market quality, n
 ## 8. Index
 ### Date
 - Mar 2004
-### Authors
+### Author
 ### Abstract
 
 ### Link

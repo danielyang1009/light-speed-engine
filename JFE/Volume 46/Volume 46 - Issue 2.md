@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Nov 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Capital market frictions and the role of internal capital markets in banking
 ### Date
 - Nov 1997
-### Authors
+### Author
 - Joel Houston
 - Christopher James
 - David Marcus
@@ -27,7 +27,7 @@ The extent to which banking firms face external financing costs when funding new
 ## 3. CEO turnover and outside succession A cross-sectional analysis
 ### Date
 - Nov 1997
-### Authors
+### Author
 - Robert Parrino
 ### Abstract
 This study examines chief executive officer (CEO) turnover. It reports new evidence on factors that affect the likelihoods of voluntary and forced turnover, and for both of these turnover types, whether the new CEO is from inside the firm, from another firm in the industry, or from outside the industry. The evidence is consistent with arguments that poor CEOs are easier to identify and less costly to replace in industries that consist of similar firms than in heterogeneous industries. The likelihoods of forced turnover and of an intra-industry appointment increase with industry homogeneity.
@@ -37,7 +37,7 @@ This study examines chief executive officer (CEO) turnover. It reports new evide
 ## 4. Do strategic alliances create value?
 ### Date
 - Nov 1997
-### Authors
+### Author
 - Su Han Chan
 - John W. Kensinger
 - Arthur J. Keown
@@ -50,7 +50,7 @@ We investigate share price responses to the formation of 345 strategic alliances
 ## 5. Why underwrite rights offerings? Some new evidence
 ### Date
 - Nov 1997
-### Authors
+### Author
 - Øyvind Bøhren
 - B. Espen Eckbo
 - Dag Michalsen

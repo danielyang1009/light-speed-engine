@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jun 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. A theory of socialistic internal capital markets
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Antonio E. Bernardo
 - Jiang Luo
 - James J.D. Wang
@@ -26,7 +26,7 @@ We develop a model of a two-division firm in which the “strong” division has
 ## 3. CEO incentives and earnings management
 ### Date
 - Oct 2004
-### Authors
+### Author
 - Daniel Bergstresser
 - Thomas Philippon
 ### Abstract
@@ -37,7 +37,7 @@ We provide evidence that the use of discretionary accruals to manipulate reporte
 ## 4. Dynamic liquidity in endowment economies
 ### Date
 - May 2005
-### Authors
+### Author
 - Timothy C. Johnson
 ### Abstract
 This paper analyzes endogenous variations in aggregate liquidity that arise in standard representative-agent endowment economies. I introduce a natural definition of liquidity, essentially a shadow elasticity, that characterizes the price impact function or bid/ask spread that a small trader would experience. I compute this quantity for some tractable examples and uncover a rich variety of predictions that, in some cases, appear consistent with levels and covariations observed in the data. The results have important implications for the pricing and hedging of liquidity risk.
@@ -47,7 +47,7 @@ This paper analyzes endogenous variations in aggregate liquidity that arise in s
 ## 5. Investor attention, overconfidence and category learning
 ### Date
 - May 2005
-### Authors
+### Author
 - Lin Peng
 - Wei Xiong
 ### Abstract
@@ -58,7 +58,7 @@ Motivated by psychological evidence that attention is a scarce cognitive resourc
 ## 6. An equilibrium model of incentive contracts in the presence of information manipulation
 ### Date
 - May 2005
-### Authors
+### Author
 - Eitan Goldman
 - Steve L. Slezak
 ### Abstract
@@ -69,7 +69,7 @@ This paper develops an agency model in which stock-based compensation is a doubl
 ## 7. Earnings and price momentum
 ### Date
 - May 2005
-### Authors
+### Author
 - Tarun Chordia
 - Lakshmanan Shivakumar
 ### Abstract
@@ -80,7 +80,7 @@ This paper examines whether earnings momentum and price momentum are related. Bo
 ## 8. Who herds?
 ### Date
 - Jul 2005
-### Authors
+### Author
 - Dan Bernhardt
 - Murillo Campello
 - Edward Kutsoati
@@ -92,7 +92,7 @@ This paper develops a test for herding in forecasts by professional financial an
 ## 9. Liquidity needs and vulnerability to financial underdevelopment
 ### Date
 - Mar 2005
-### Authors
+### Author
 - Claudio Raddatz
 ### Abstract
 This paper provides evidence that financial development has a large causal effect in the reduction of macroeconomic volatility resulting from the role of the financial system in liquidity provision. In particular, financial system development leads to a comparatively larger reduction in the volatility of output in sectors with high liquidity needs. Most of this decline results from the stabilization of the output of existing firms, although the volatility of the number of firms also drops significantly. Among different aspects of the financial system, the depth of financial intermediaries plays the main role in the reduction of volatility.
@@ -102,7 +102,7 @@ This paper provides evidence that financial development has a large causal effec
 ## 10. Author index to volume 80
 ### Date
 - Jun 2006
-### Authors
+### Author
 ### Abstract
 
 ### Link

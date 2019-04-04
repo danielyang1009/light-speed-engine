@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2009
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Are elite universities losing their competitive edge?
 ### Date
 - Sep 2008
-### Authors
+### Author
 - E. Han Kim
 - Adair Morse
 - Luigi Zingales
@@ -26,7 +26,7 @@ We study the location-specific component of research productivity for economics 
 ## 3. Debt, bargaining, and credibility in firm–supplier relationships
 ### Date
 - May 2008
-### Authors
+### Author
 - Christopher A. Hennessy
 - Dmitry Livdan
 ### Abstract
@@ -37,7 +37,7 @@ We examine optimal leverage for a downstream firm relying on implicit (self-enfo
 ## 4. Cosmetic mergers: The effect of style investing on the market for corporate control
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Massimo Massa
 - Lei Zhang
 ### Abstract
@@ -48,7 +48,7 @@ We study the impact of “style investing” on the market for corporate control
 ## 5. Cost of capital effects and changes in growth expectations around U.S. cross-listings
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Luzi Hail
 - Christian Leuz
 ### Abstract
@@ -59,7 +59,7 @@ This paper examines whether cross-listing in the U.S. reduces firms’ costs of 
 ## 6. Does religion matter in corporate decision making in America?
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Gilles Hilary
 - Kai Wai Hui
 ### Abstract
@@ -70,7 +70,7 @@ We examine how corporate culture influences firm behavior. Prior research sugges
 ## 7. Stock splits, trading continuity, and the cost of equity capital
 ### Date
 - Sep 2008
-### Authors
+### Author
 - Ji-Chai Lin
 - Ajai K. Singh
 - Wen Yu
@@ -82,7 +82,7 @@ We hypothesize that managers use stock splits to attract more uninformed trading
 ## 8. Liquidity risk and syndicate structure
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Evan Gatev
 - Philip E. Strahan
 ### Abstract
@@ -93,7 +93,7 @@ We decompose syndicated loan risk into credit, market, and liquidity risk and te
 ## 9. The market for corporate control and the cost of debt
 ### Date
 - Oct 2008
-### Authors
+### Author
 - Jiaping Qiu
 - Fan Yu
 ### Abstract

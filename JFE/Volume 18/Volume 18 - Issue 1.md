@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Editorial data
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Clifford W. Smith
@@ -28,7 +28,7 @@
 ## 3. Citation index ratings of the journal of financial economics
 ### Date
 - Mar 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -37,7 +37,7 @@
 ## 4. Time to build, option value, and investment decisions
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Saman Majd
 - Robert S. Pindyck
 ### Abstract
@@ -48,7 +48,7 @@ Investment decisions and outlays are often made sequentially. For example, the r
 ## 5. Changes in ownership structure
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Ronald W. Masulis
 ### Abstract
 This study analyzes both the causes and effects of mutual S&L conversions to corporate charter. Changes in technology and government policies have substantially increased S&L competition, riskbearing, and potential scale and scope economies. Evidence indicates that these changes have decreased the relative operating advantages of mutual S&Ls, encouraging conversions to stock charter. The S&L's financial and operating characteristics, which affect the success of the conversion effort, are also explored.
@@ -58,7 +58,7 @@ This study analyzes both the causes and effects of mutual S&L conversions to cor
 ## 6. On correlations and inferences about mean-variance efficiency
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Shmuel Kandel
 - Robert F. Stambaugh
 ### Abstract
@@ -69,7 +69,7 @@ A framework is presented for investigating the mean-variance efficiency of an un
 ## 7. Multivariate proxies and asset pricing relations
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Jay Shanken
 ### Abstract
 A framework is developed in which inferences can be made about the validity of an equilibrium asset pricing relation, even though the central aggregate in this relation is unobservable. A multivariate proxy for the true market portfolio, consisting of an equal-weighted stock index and a long-term government bond index, is employed in an investigation of the Sharpe-Lintner CAPM. The empirical evidence suggests that we can reject the joint hypothesis that (a) CAPM is valid, and (b) multiple correlation between the true market portfolio and proxy assets exceeds 0.7. Connections to the equilibrium factor pricing literature are also explored.
@@ -79,7 +79,7 @@ A framework is developed in which inferences can be made about the validity of a
 ## 8. An empirical analysis of the incentives to engage in costly information acquisition
 ### Date
 - Mar 1987
-### Authors
+### Author
 - David F. Larcker
 - Thomas Lys
 ### Abstract
@@ -90,7 +90,7 @@ In order for security prices to be informationally efficient, incentives must ex
 ## 9. Non-stationarity and stage-of-the-business-cycle effects in consumption-based asset pricing relations
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Wayne E. Ferson
 - John J. Merrick
 ### Abstract
@@ -101,7 +101,7 @@ Empirical tests of Euler equations relating security returns and consumption usu
 ## 10. The wealth effects of company initiated management changes
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Eugene P.H. Furtado
 - Michael S. Rozeff
 ### Abstract
@@ -112,7 +112,7 @@ The essence of corporate control includes the hiring and firing of key managers.
 ## 11. A monthly effect in stock returns
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Robert A. Ariel
 ### Abstract
 The mean return for stocks is positive only for days immediately before and during the first half of calendar months, and indistinguishable from zero for days during the last half of the month. This ‘monthly effect’ is independent of other known calendar anomalies such as the January effect documented by others and appears to be caused by a shift in the mean of the distribution of returns from days in the first half of the month relative to days in the last half.
@@ -122,7 +122,7 @@ The mean return for stocks is positive only for days immediately before and duri
 ## 12. An analysis of gains to acquiring firm's shareholders
 ### Date
 - Mar 1987
-### Authors
+### Author
 - Paul R. Allen
 - C.F. Sirmans
 ### Abstract
@@ -133,7 +133,7 @@ This study uses capital market data to measure the effects of REIT mergers on th
 ## 13. The monotonicity of the term premium
 ### Date
 - Mar 1987
-### Authors
+### Author
 - J.Huston McCulloch
 ### Abstract
 Fama's evidence that the term premium on Treasury securities is not monotonically increasing is found to depend entirely on the behavior of bid-asked mean returns on 9- and 10-month bills, and only during the subperiod 8/64–12/72. When transactions costs, as reflected in the bid-asked spread, are taken into account, there is found to be no way to exploit this non-monotonicity. The anomalous behavior of the quotations is attributed to the Treasury's auctions of 9-month bills during the period 9/66–10/72. The hypothesis that the term premium is a monotonically increasing function of maturity remains unrefuted.
@@ -143,7 +143,7 @@ Fama's evidence that the term premium on Treasury securities is not monotonicall
 ## 14. News items
 ### Date
 - Mar 1987
-### Authors
+### Author
 ### Abstract
 
 ### Link

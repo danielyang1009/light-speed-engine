@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - Wayne H. Mikkelson
@@ -21,7 +21,7 @@
 ## 2. Dealer versus auction markets: A paired comparison of execution costs on NASDAQ and the NYSE
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Roger D. Huang
 - Hans R. Stoll
 ### Abstract
@@ -32,7 +32,7 @@ Execution costs, as measured by the quoted spread, the effective spread (which a
 ## 3. Detecting abnormal operating performance: The empirical power and specification of test statistics
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Brad M. Barber
 - John D. Lyon
 ### Abstract
@@ -43,7 +43,7 @@ This research evaluates methods used in event studies that employ accounting-bas
 ## 4. Commonality in the determinants of expected stock returns
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Robert A. Haugen
 - Nardin L. Baker
 ### Abstract
@@ -54,7 +54,7 @@ We find that the determinants of the cross-section of expected stock returns are
 ## 5. Market microstructure and asset pricing: On the compensation for illiquidity in stock returns
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Michael J. Brennan
 - Avanidhar Subrahmanyam
 ### Abstract
@@ -65,7 +65,7 @@ Models of price formation in securities markets suggest that privately informed 
 ## 6. Why Nasdaq market makers avoid odd-eighth quotes
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Paul E. Godek
 ### Abstract
 Recent studies argue that implicit collusion explains the tendency of Nasdaq market makers to avoid odd-eighth price quotes. This paper focuses on the role that preference trading plays in determining quoted spreads. Under the postulated effects of preference trading, an analysis of the relation between spreads and price fractions explains the paucity of odd-eighth quotes on Nasdaq. Empirical results from a comprehensive data set show that exogenous economic characteristics explain the distribution of price fractions across securities, and illustrate the stability of that distribution over time. These results contradict empirical results offered as support for the collusion hypothesis.
@@ -75,7 +75,7 @@ Recent studies argue that implicit collusion explains the tendency of Nasdaq mar
 ## 7. Perceptions and the politics of finance: Junk bonds and the regulatory seizure of first capital life
 ### Date
 - Jul 1996
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Stuart C. Gilson
@@ -87,7 +87,7 @@ In May 1991, one month after seizing Executive Life, California regulators seize
 ## 8. Index
 ### Date
 - Jul 1996
-### Authors
+### Author
 ### Abstract
 
 ### Link

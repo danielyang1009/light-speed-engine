@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Deregulation, contestability, and airline acquisitions
 ### Date
 - Dec 1991
-### Authors
+### Author
 - Myron B. Slovin
 - Marie E. Sushka
 - Carl D. Hudson
@@ -26,7 +26,7 @@ We test whether airline consolidations generate monopoly profits by examining re
 ## 3. Event-study methodology under conditions of event-induced variance
 ### Date
 - Dec 1991
-### Authors
+### Author
 - Ekkehart Boehmer
 - Jim Masumeci
 - Annette B. Poulsen
@@ -38,7 +38,7 @@ Many authors have identified the hazards of ignoring event-induced variance in e
 ## 4. Market reaction to anticipated announcements
 ### Date
 - Dec 1991
-### Authors
+### Author
 - Oliver Kim
 - Robert E. Verrecchia
 ### Abstract
@@ -49,7 +49,7 @@ In this paper we analyze how anticipating a forthcoming public announcement affe
 ## 5. The degree of inefficiency in the football betting market
 ### Date
 - Dec 1991
-### Authors
+### Author
 - Joseph Golec
 - Maurry Tamarkin
 ### Abstract
@@ -60,7 +60,7 @@ This paper tests the hypothesis that the football betting market is efficient. O
 ## 6. Monitoring an owner
 ### Date
 - Dec 1991
-### Authors
+### Author
 - Clifford G. Holderness
 - Dennis P. Sheehan
 ### Abstract
@@ -71,7 +71,7 @@ Turner Broadcasting illustrates how organizational mechanisms can be adapted to 
 ## 7. Corporate issues of foreign currency exchange warrants
 ### Date
 - Dec 1991
-### Authors
+### Author
 - Richard J. Rogalski
 - James K. Seward
 ### Abstract
@@ -82,7 +82,7 @@ We argue that hedging and risk management activities of modern corporations aris
 ## 8. Index
 ### Date
 - Dec 1991
-### Authors
+### Author
 ### Abstract
 
 ### Link

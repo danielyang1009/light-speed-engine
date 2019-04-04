@@ -1,0 +1,275 @@
+{
+    "journal": "JF",
+    "volume": "52",
+    "issue": "2",
+    "date": "June 1997",
+    "page": "Pages: i-xi, 447-922, xii-xxxviii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "13 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00274.x"
+        },
+        {
+            "no": "2",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04806.x"
+        },
+        {
+            "no": "3",
+            "title": "ANNOUNCEMENTS",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04807.x"
+        },
+        {
+            "no": "4",
+            "title": "SMITH BREEDEN PRIZES FOR 1996",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04808.x"
+        },
+        {
+            "no": "5",
+            "title": "Good Timing: CEO Stock Option Awards and Company News Announcements",
+            "date": "18 April 2012",
+            "author": [
+                "DAVID YERMACK"
+            ],
+            "abstract": "This article analyzes the timing of CEO stock option awards, as a method of investigating corporate managers' influence over the terms of their own compensation. In a sample of 620 stock option awards to CEOs of Fortune 500 companies between 1992 and 1994, I find that the timing of awards coincides with favorable movements in company stock prices. Patterns of companies' quarterly earnings announcements are consistent with an interpretation that CEOs receive stock option awards shortly before favorable corporate news. I evaluate and reject several alternative explanations of the results, including insider trading and the manipulation of news announcement dates.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04809.x"
+        },
+        {
+            "no": "6",
+            "title": "How Much Do Taxes Discourage Incorporation?",
+            "date": "18 April 2012",
+            "author": [
+                "JEFFREY K. MACKIE\u2010MASON",
+                "ROGER H. GORDON"
+            ],
+            "abstract": "The double taxation of corporate income should discourage firms from incorporating. We investigate the extent to which the aggregate allocation of assets and taxable income in the United States between corporate and noncorporate firms responds to the size of this tax distortion during the period 1959\u20131986. In theory, profitable firms should shift out of the corporate sector when the tax distortion is large, and conversely for firms with tax losses. Our empirical results provide strong support for these forecasts, and imply that the resulting excess burden equals 16 percent of business tax revenue.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04810.x"
+        },
+        {
+            "no": "7",
+            "title": "Analyst Following of Initial Public Offerings",
+            "date": "18 April 2012",
+            "author": [
+                "RAGHURAM RAJAN",
+                "HENRI SERVAES"
+            ],
+            "abstract": "We examine data on analyst following for a sample of initial public offerings completed between 1975 and 1987 to see how they relate to three well\u2010documented IPO anomalies. We find that higher underpricing leads to increased analyst following. Analysts are overoptimistic about the earnings potential and long term growth prospects of recent IPOs. More firms complete IPOs when analysts are particularly optimistic about the growth prospects of recent IPOs. In the long run, IPOs have better stock performance when analysts ascribe low growth potential rather than high growth potential. These results suggest that the anomalies may be partially driven by overoptimism.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04811.x"
+        },
+        {
+            "no": "8",
+            "title": "Strategic Debt Service",
+            "date": "18 April 2012",
+            "author": [
+                "PIERRE MELLA\u2010BARRAL",
+                "WILLIAM PERRAUDIN"
+            ],
+            "abstract": "When firms experience financial distress, equity holders may act strategically, forcing concessions from debtholders and paying less than the originally\u2010contracted interest payments. This article incorporates strategic debt service in a standard, continuous time asset pricing model, developing simple closed\u2010form expressions for debt and equity values. We find that strategic debt service can account for a substantial proportion of the premium on risky corporate debt. We analyze the efficiency implications of strategic debt service, showing that it can eliminate both direct bankruptcy costs and agency costs of debt.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04812.x"
+        },
+        {
+            "no": "9",
+            "title": "Assessing Specification Errors in Stochastic Discount Factor Models",
+            "date": "18 April 2012",
+            "author": [
+                "LARS PETER HANSEN",
+                "RAVI JAGANNATHAN"
+            ],
+            "abstract": "In this article we develop alternative ways to compare asset pricing models when it is understood that their implied stochastic discount factors do not price all portfolios correctly. Unlike comparisons based on\n\u03c7\n2\nstatistics associated with null hypotheses that models are correct, our measures of model performance do not reward variability of discount factor proxies. One of our measures is designed to exploit fully the implications of arbitrage\u2010free pricing of derivative claims. We demonstrate empirically the usefulness of our methods in assessing some alternative stochastic factor models that have been proposed in asset pricing literature.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04813.x"
+        },
+        {
+            "no": "10",
+            "title": "Assessing Goodness\u2010of\u2010Fit of Asset Pricing Models: The Distribution of the Maximal R2",
+            "date": "18 April 2012",
+            "author": [
+                "F. DOUGLAS FOSTER",
+                "TOM SMITH",
+                "ROBERT E. WHALEY"
+            ],
+            "abstract": "The development of asset pricing models that rely on instrumental variables together with the increased availability of easily\u2010accessible economic time\u2010series have renewed interest in predicting security returns. Evaluating the significance of these new research findings, however, is no easy task. Because these asset pricing theory tests are not independent, classical methods of assessing goodness\u2010of\u2010fit are inappropriate. This study investigates the distribution of the maximal\nR\n2\nwhen k of m regressors are used to predict security returns. We provide a simple procedure that adjusts critical\nR\n2\nvalues to account for selecting variables by searching among potential regressors.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04814.x"
+        },
+        {
+            "no": "11",
+            "title": "Are There Tax Effects in the Relative Pricing of U.S. Government Bonds?",
+            "date": "18 April 2012",
+            "author": [
+                "RICHARD C. GREEN",
+                "BERNT A. \u00d8DEGAARD"
+            ],
+            "abstract": "We investigate the impact of the Tax Reform Act of 1986 on the relative pricing of U.S. Treasury bonds. We obtain positive statistically and economically significant estimates for the implicit tax rates of a \u201crepresentative\u201d investor in the late 1970s and early 1980s. After the 1986 Tax Reform, the point estimates for the tax rate are close to zero. Tests for a regime shift associated with the 1986 Tax Reform support the hypothesis that this event largely eliminated tax effects from the term structure. We discuss both institutional and statutory explanations for this change.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04815.x"
+        },
+        {
+            "no": "12",
+            "title": "On Stock Market Returns and Monetary Policy",
+            "date": "18 April 2012",
+            "author": [
+                "WILLEM THORBECKE"
+            ],
+            "abstract": "Financial economists have long debated whether monetary policy is neutral. This article addresses this question by examining how stock return data respond to monetary policy shocks. Monetary policy is measured by innovations in the federal funds rate and nonborrowed reserves, by narrative indicators, and by an event study of Federal Reserve policy changes. In every case the evidence indicates that expansionary policy increases ex\u2010post stock returns. Results from estimating a multi\u2010factor model also indicate that exposure to monetary policy increases an asset's ex\u2010ante return.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04816.x"
+        },
+        {
+            "no": "13",
+            "title": "Tick Size, Share Prices, and Stock Splits",
+            "date": "18 April 2012",
+            "author": [
+                "JAMES J. ANGEL"
+            ],
+            "abstract": "Minimum price variation rules help explain why stock prices vary substantially across countries, and other curiosities of share prices. Companies tend to split their stock so that the institutionally mandated minimum tick size is optimal relative to the stock price. A large relative tick size provides an incentive for dealers to make markets and for investors to provide liquidity by placing limit orders, despite its placing a high floor on the quoted bid\u2010ask spread. A simple model suggests that idiosyncratic risk, firm size, and visibility of the firm affect the optimal relative tick size and thus the share price.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04817.x"
+        },
+        {
+            "no": "14",
+            "title": "When It's Not The Only Game in Town: The Effect of Bilateral Search on the Quality of a Dealer Market",
+            "date": "18 April 2012",
+            "author": [
+                "CHRISTOPHER G. LAMOUREUX",
+                "CHARLES R. SCHNITZLEIN"
+            ],
+            "abstract": "We report results from experimental asset markets with liquidity traders and an insider where we allow bilateral trade to take place, in addition to public trade with dealers. In the absence of the search alternative, dealer profits are large\u2014unlike in models with risk\u2010neutral, competitive dealers. However, when we allow traders to participate in the search market, dealer profits are close to zero. Dealers compete more aggressively with the alternative trading avenue than with each other. There is no evidence that price discovery is less efficient when the specialists are not the only game in town.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04818.x"
+        },
+        {
+            "no": "15",
+            "title": "Institutional Equity Trading Costs: NYSE Versus Nasdaq",
+            "date": "18 April 2012",
+            "author": [
+                "LOUIS K. C. CHAN",
+                "JOSEF LAKONISHOK"
+            ],
+            "abstract": "We compare execution costs (market impact plus commission) on the New York Stock Exchange (NYSE) and Nasdaq for institutional investors. The differences in cost generally conform to each market's area of specialization. Controlling for firm size, trade size, and the money management firm's identity, costs are lower on Nasdaq for trades in comparatively smaller firms, while costs for trading the larger stocks are lower on NYSE. The cost differences estimated from a regression model are, however, sensitive to the choice of time period.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04819.x"
+        },
+        {
+            "no": "16",
+            "title": "A Survey of Corporate Governance",
+            "date": "18 April 2012",
+            "author": [
+                "Andrei Shleifer",
+                "Robert W. Vishny"
+            ],
+            "abstract": "This article surveys research on corporate governance, with special attention to the importance of legal protection of investors and of ownership concentration in corporate governance systems around the world.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04820.x"
+        },
+        {
+            "no": "17",
+            "title": "The Valuation of Complex Derivatives by Major Investment Firms: Empirical Evidence",
+            "date": "18 April 2012",
+            "author": [
+                "ANTONIO E. BERNARDO",
+                "BRADFORD CORNELL"
+            ],
+            "abstract": "This article examines the auction of a portfolio of collateralized mortgage obligations (CMOs) to major broker dealers and institutional investors. The unique data set allows us to analyze a number of important empirical questions related to the valuation of CMOs by the bidders and the elasticity of demand for the securities. The results reveal that the valuations differ substantially implying a significant elasticity of demand.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04821.x"
+        },
+        {
+            "no": "18",
+            "title": "Equilibrium Valuation of Foreign Exchange Claims",
+            "date": "18 April 2012",
+            "author": [
+                "GURDIP S. BAKSHI",
+                "ZHIWU CHEN"
+            ],
+            "abstract": "This article studies the equilibrium valuation of foreign exchange contingent claims. Within a continuous\u2010time Lucas (1982) two\u2010country model, exchange rates, interest rates and, in particular, factor risk prices are all endogenously and jointly determined. This guarantees the internal consistency of these price processes with a general equilibrium. In the same model, closed\u2010form valuation formulas are presented for currency options and currency futures options. Common to these formulas is that stochastic volatility and stochastic interest rates are admitted. Hedge ratios and other comparative statics are also provided analytically. It is shown that most existing currency option models are included as special cases.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04822.x"
+        },
+        {
+            "no": "19",
+            "title": "The Valuation of American Options with Stochastic Interest Rates: A Generalization of the Geske\u2014Johnson Technique",
+            "date": "18 April 2012",
+            "author": [
+                "T. S. HO",
+                "RICHARD C. STAPLETON",
+                "MARTI G. SUBRAHMANYAM"
+            ],
+            "abstract": "The Geske\u2013Johnson approach provides an efficient and intuitively appealing technique for the valuation and hedging of American\u2010style contingent claims. Here, we generalize their approach to a stochastic interest rate economy. The method is implemented using options exercisable on one of a finite number of dates. We illustrate how the value of an American\u2010style option increases with interest rate volatility. The magnitude of this effect depends on the extent to which the option is in the money, the volatilities of the underlying asset and the interest rates, as well as the correlation between them.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04823.x"
+        },
+        {
+            "no": "20",
+            "title": "The Implications of Equity Issuance Decisions within a Parent\u2010Subsidiary Governance Structure",
+            "date": "18 April 2012",
+            "author": [
+                "MYRON B. SLOVIN",
+                "MARIE E. SUSHKA"
+            ],
+            "abstract": "We provide evidence about the motivation for a parent\u2013subsidiary governance structure by analyzing valuation effects of seasoned equity offerings by publicly traded affiliated units. Our results support Nanda's (1991) theoretical model which predicts equity offerings convey differential information about subsidiary and parent value. Subsidiary equity issuance has negative valuation effects on issuing subsidiaries and positive effects on parents, while parent equity issuance reduces issuing parent wealth and increases subsidiary wealth. Our evidence suggests that a parent\u2013subsidiary organizational structure enhances corporate financing flexibility and mitigates underinvestment problems identified by Myers and Majluf (1984). There is no evidence of subsidiary wealth expropriation.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04824.x"
+        },
+        {
+            "no": "21",
+            "title": "Good News for Value Stocks: Further Evidence on Market Efficiency",
+            "date": "18 April 2012",
+            "author": [
+                "RAFAEL LA PORTA",
+                "JOSEF LAKONISHOK",
+                "ANDREI SHLEIFER",
+                "ROBERT VISHNY"
+            ],
+            "abstract": "This article examines the hypothesis that the superior return to so\u2010called value stocks is the result of expectational errors made by investors. We study stock price reactions around earnings announcements for value and glamour stocks over a 5\u2010year period after portfolio formation. The announcement returns suggest that a significant portion of the return difference between value and glamour stocks is attributable to earnings surprises that are systematically more positive for value stocks. The evidence is inconsistent with a risk\u2010based explanation for the return differential.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04825.x"
+        },
+        {
+            "no": "22",
+            "title": "Firm Size, Book\u2010to\u2010Market Ratio, and Security Returns: A Holdout Sample of Financial Firms",
+            "date": "18 April 2012",
+            "author": [
+                "BEAD M. BARBER",
+                "JOHN D. LYON"
+            ],
+            "abstract": "Fama and French (1992) document a significant relation between firm size, book\u2010to\u2010market ratios, and security returns for nonfinancial firms. Because of their initial interest in leverage as an explanatory variable for security returns, Fama and French exclude from their analysis financial firms, thus creating a natural holdout sample on which to test the robustness of their results. We document that the relation between firm size, book\u2010to\u2010market ratios, and security returns is similar for financial and nonfinancial firms. In addition, we present evidence that survivorship bias does not significantly affect the estimated size or book\u2010to\u2010market premiums in returns. Our results indicate data\u2010snooping and selection biases do not explain the size and book\u2010to\u2010market patterns in returns.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04826.x"
+        },
+        {
+            "no": "23",
+            "title": "Price Limit Performance: Evidence from the Tokyo Stock Exchange",
+            "date": "18 April 2012",
+            "author": [
+                "KENNETH A. KIM",
+                "S. GHON RHEE"
+            ],
+            "abstract": "Price limit advocates claim that price limits decrease stock price volatility, counter overreaction, and do not interfere with trading activity. Conversely, price limit critics claim that price limits cause higher volatility levels on subsequent days (volatility spillover hypothesis), prevent prices from efficiently reaching their equilibrium level (delayed price discovery hypothesis), and interfere with trading due to limitations imposed by price limits (trading interference hypothesis). Empirical research does not provide conclusive support for either positions. We examine the Tokyo Stock Exchange price limit system to test these hypotheses. Our evidence supports all three hypotheses suggesting that price limits may be ineffective.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04827.x"
+        },
+        {
+            "no": "24",
+            "title": "Book Reviews",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "Book reviewed in this article:\nThe Theory of Corporate Finance Volume I and The Theory of Corporate Finance Volume II. By MICHAEL J. BRENNAN.\nQuantitative Analysis for Investment Management. By ROBERT A. TAGGART, JR.\nThe Global Financial System: A Functional Perspective. By DWIGHT B. CRANE, KENNETH A. FROOT, SCOTT P. MASON, ANDR\u00c9 F. PEROLD, ROBERT C. MERTON, ZVI BODIE, ERIK R. SIRRI, and PETER TUFANO.\nFixed Income Markets and Their Derivatives. By SURESH SUNDARESAN.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04828.x"
+        },
+        {
+            "no": "25",
+            "title": "MISCELLANEA",
+            "date": "18 April 2012",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb04829.x"
+        },
+        {
+            "no": "26",
+            "title": "Back Matter",
+            "date": "13 December 2015",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1997.tb00275.x"
+        }
+    ]
+}

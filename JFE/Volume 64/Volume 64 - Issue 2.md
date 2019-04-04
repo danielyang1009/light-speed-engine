@@ -5,7 +5,7 @@
 ## 1. Industry growth and capital allocation:
 ### Date
 - May 2002
-### Authors
+### Author
 - Thorsten Beck
 - Ross Levine
 ### Abstract
@@ -16,7 +16,7 @@ Are market-based or bank-based financial systems better at financing the expansi
 ## 2. The value of durable bank relationships: evidence from Korean banking shocks
 ### Date
 - May 2002
-### Authors
+### Author
 - Kee-Hong Bae
 - Jun-Koo Kang
 - Chan-Woo Lim
@@ -28,7 +28,7 @@ Using a large sample of exogenous events that negatively affected Korean banks d
 ## 3. A cross-firm analysis of the impact of corporate governance on the East Asian financial crisis
 ### Date
 - May 2002
-### Authors
+### Author
 - Todd Mitton
 ### Abstract
 In a sample of 398 firms from Indonesia, Korea, Malaysia, the Philippines, and Thailand, firm-level differences in variables related to corporate governance had a strong impact on firm performance during the East Asian financial crisis of 1997–1998. Significantly better stock price performance is associated with firms that had indicators of higher disclosure quality (ADRs and auditors from Big Six accounting firms), with firms that had higher outside ownership concentration, and with firms that were focused rather than diversified. The results suggest that individual firms have some power to preclude expropriation of minority shareholders if legal protection is inadequate.
@@ -38,7 +38,7 @@ In a sample of 398 firms from Indonesia, Korea, Malaysia, the Philippines, and T
 ## 4. Liquidity risk and specialness
 ### Date
 - May 2002
-### Authors
+### Author
 - Andrea Buraschi
 - Davide Menini
 ### Abstract
@@ -49,7 +49,7 @@ Repo contracts, the most important form of collateralized lending, are widely us
 ## 5. A theory of strategic venture investing
 ### Date
 - May 2002
-### Authors
+### Author
 - Thomas Hellmann
 ### Abstract
 Some venture capital investors seek purely financial gains while others, such as corporations, also pursue strategic objectives. The paper examines a model where a strategic investor can achieve synergies, but can also face a conflict of interest with the entrepreneur. If the start-up is a complement to the strategic partner, it is optimal to obtain funding from the strategic investor. If the start-up is a mild substitute, the entrepreneur prefers an independent venture capitalist. With a strong substitute, syndication becomes optimal, such that the independent venture capitalist is the active lead investor and the strategic partner a passive co-investor. The expected returns for the entrepreneur are nonmonotonic, lowest for a mild substitute, and higher for a strong substitute as well as for a complement. The paper also explains why a strategic investor often pays a higher valuation than an independent venture capitalist.

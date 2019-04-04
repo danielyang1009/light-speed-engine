@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Michael C. Jensen
 - John B. Long
 - G.William Schwert
@@ -19,7 +19,7 @@
 ## 2. Stock price effects and costs of secondary distributions
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Wayne H. Mikkelson
 - M.Megan Partch
 ### Abstract
@@ -30,7 +30,7 @@ This study does not support the view that a large number of shares can be sold a
 ## 3. Incentive effects of stock purchase plans
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Sanjai Bhagat
 - James A. Brickley
 - Ronald C. Lease
@@ -42,7 +42,7 @@ Financial economists are interested in whether alternative compensation plans ar
 ## 4. Testing asset pricing models with changing expectations and an unobservable market portfolio
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Michael R. Gibbons
 - Wayne Ferson
 ### Abstract
@@ -53,7 +53,7 @@ When the assumption of constant risk premiums is relaxed, financial valuation mo
 ## 5. Partially anticipated events: A model of stock price reactions with an application to corporate acquisitions
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Paul H. Malatesta
 - Rex Thompson
 ### Abstract
@@ -64,7 +64,7 @@ This paper presents a model of stock price reactions to partially anticipated ev
 ## 6. Volatility increases subsequent to stock splits: An empirical aberration
 ### Date
 - Jun 1985
-### Authors
+### Author
 - James A. Ohlson
 - Stephen H. Penman
 ### Abstract
@@ -75,7 +75,7 @@ This paper analyzes the empirical behavior of stock-return volatilities prior to
 ## 7. Direct evidence on the marginal rate of taxation on dividend income
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Pamela P. Peterson
 - David R. Peterson
 - James S. Ang
@@ -87,7 +87,7 @@ Miller and Scholes (1978) hypothesize that the marginal tax rate on dividend inc
 ## 8. Trading and valuing depreciable assets
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Joseph T. Williams
 ### Abstract
 Optimal policies for selling a risky depreciable asset with proportional taxes and transaction costs are derived for a representative investor who maximizes the market value of his investment. Also calculated are the market value of his investment and the competitive price of the depreciable asset. Depending upon the values of various parameters, the investor realizes either capital gains and no losses, capital losses and no gains, or neither gains nor losses. Additional properties of the solution are derived numerically.
@@ -97,7 +97,7 @@ Optimal policies for selling a risky depreciable asset with proportional taxes a
 ## 9. The duration of option portfolios
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Mark B. Garman
 ### Abstract
 Duration is a value-weighted measure of average maturity which is commonly associated with portfolios of fixed-income securities. However, the concept finds application in option pricing theory also. This article shows that if options are valued by the Black (1976) formula and a comparative-statics methodology is employed, then the interest rate sensitivity of a portfolio of European options is equal to its duration. If the options are instead valued through the Black-Scholes (1973) formula, then the interest rate sensitivity is equal to only the ‘bond-equivalent duration’ inherent in a dynamic replication strategy for the option portfolio.
@@ -107,7 +107,7 @@ Duration is a value-weighted measure of average maturity which is commonly assoc
 ## 10. Hedging options
 ### Date
 - Jun 1985
-### Authors
+### Author
 - Nai-fu Chen
 - Herb Johnson
 ### Abstract
@@ -118,7 +118,7 @@ This paper considers the problem of forming a hedge when there are perceived pro
 ## 11. Errata
 ### Date
 - Jun 1985
-### Authors
+### Author
 ### Abstract
 
 ### Link

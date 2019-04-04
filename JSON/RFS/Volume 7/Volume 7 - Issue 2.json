@@ -1,0 +1,72 @@
+{
+    "journal": "RFS",
+    "volume": "7",
+    "issue": "2",
+    "date": "April 1994",
+    "page": "Pages 253\u2013449",
+    "article": [
+        {
+            "no": "1",
+            "title": "Do Takeover Targets Overinvest?",
+            "date": "26 May 2015",
+            "author": [
+                "Henri Servaes"
+            ],
+            "abstract": "I examine the capital expenditures of a sample of 700 takeover targets and firms that went private over the period 1972\u20131987. For the complete sample, I do not find evidence that takeover targets increase their capital expenditures over the four-year period before the acquisition or that they overinvest in capital expenditures relative to several benchmarks. Subsample results provide some evidence of overinvestment in oil and gas firms and large firms. There is no evidence of overinvestment, however, for firms acquired in a hostile takeover or firms that went private. In general, these results are not consistent with the conjecture that takeovers are motivated by the need to reduce excess investment in capital expenditures in target firms.",
+            "link": "https://doi.org/10.1093/rfs/7.2.253"
+        },
+        {
+            "no": "2",
+            "title": "The Pricing of Initial Public Offerings: Tests of Adverse-Selection and Signaling Theories",
+            "date": "26 May 2015",
+            "author": [
+                "Roni Michaely",
+                "Wayne H. Shaw"
+            ],
+            "abstract": "We test the empirical implications of several models of IPO underpricing. Consistent with the winner\u2019s-curse hypothesis, we show that in markets where investors know a priori that they do not have to compete with informed investors, IPOs are not underpriced. We also show that IPOs underwritten by reputable investment banks experience significantly less underpricing and perform significantly better in the long run. We do not find empirical support for the signaling models that try to explain why firms underprice. In fact, we find that (1) firms that underprice more return to the reissue market less frequently, and for lesser amounts, than firms that underprice less, and (2) firms that underprice less experience higher earnings and pay higher dividends, contrary to the models\u2019 predictions.",
+            "link": "https://doi.org/10.1093/rfs/7.2.279"
+        },
+        {
+            "no": "3",
+            "title": "Repurchase Premia as a Reason for Dividends: A Dynamic Model of Corporate Payout Policies",
+            "date": "26 May 2015",
+            "author": [
+                "Bhagwan Chowdhry",
+                "Vikram Nanda"
+            ],
+            "abstract": "We propose that it is precisely because firms\u2019 repurchases of their own stock through tender offers are associated with large stock-price increases that repurchases are unattractive as a means of distributing cash. As a result, firms distribute some cash in the form of dividends\u2014despite the tax disadvantage\u2014and carry the rest to future periods. However, when their stock is sufficiently undervalued, firms distribute all accumulated cash through stock repurchases. We show that dividends are smoothed and are positively related both to earnings innovations and to previous period\u2019s dividends. Also, the stock-price reaction to a repurchase announcement, of a given size, is increasing in the previous period\u2019s dividends.",
+            "link": "https://doi.org/10.1093/rfs/7.2.321"
+        },
+        {
+            "no": "4",
+            "title": "The Dynamics of Portfolio Management Contracts",
+            "date": "26 May 2015",
+            "author": [
+                "Robert Heinkel",
+                "Neal M. Stoughton"
+            ],
+            "abstract": "We consider the multiperiod relationship between a client and a portfolio manager and the resulting problem of motivating a manager of unknown ability to acquire valuable information. We explore the contractual forms and the optimal retention policy of the client and find that the optimal initial set of contracts features a smaller performance-based fee component paid to the manager than in a first-best contract, and the contract choice elicits only partial information about the manager. As a result, ex post performance measurement is critical to future recontracting. In general, managers are retained only if the returns on their portfolio exceed the benchmark by an appropriate amount.",
+            "link": "https://doi.org/10.1093/rfs/7.2.351"
+        },
+        {
+            "no": "5",
+            "title": "Bank Liquidity and Stability in an Overlapping Generations Model",
+            "date": "26 May 2015",
+            "author": [
+                "Jianping Qi"
+            ],
+            "abstract": "In an infinitely repeated version of the Diamond and Dybvig (1983) model, intergenerational transfers enable a bank to achieve interest rate smoothing and to provide depositors with liquidity insurance without Diamond and Dybvig\u2019s assumption of no side trades. The bank is subject to runs that may result from either excessive withdrawals or the lack of new deposits. The latter cause, which cannot occur in Diamond and Dybvig\u2019s one-generation model, implies that suspension of convertibility may not prevent bank runs. Government intervention may be necessary to maintain bank stability.",
+            "link": "https://doi.org/10.1093/rfs/7.2.389"
+        },
+        {
+            "no": "6",
+            "title": "Renegotiation and the Impossibility of Optimal Investment",
+            "date": "26 May 2015",
+            "author": [
+                "John C. Persons"
+            ],
+            "abstract": "In a model with asymmetric information and external equity financing, it is impossible to achieve socially optimal investment because of renegotiation possibilities. The contractual solution suggested by Dybvig and Zender (1991) is not dynamically consistent\u2014the manager\u2019s contract would be renegotiated, resulting in inefficient investment. Moreover, no other compensation contract that would induce the manager to invest efficiently survives renegotiation. Contracts that pay the manager based on the stock price, while producing suboptimal investment as in Myers and Majluf (1984), are robust to renegotiation.",
+            "link": "https://doi.org/10.1093/rfs/7.2.419"
+        }
+    ]
+}

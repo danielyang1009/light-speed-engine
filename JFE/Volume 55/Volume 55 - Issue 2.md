@@ -5,7 +5,7 @@
 ## 1. Abnormal returns to rivals of acquisition targets: A test of the `acquisition probability hypothesis'
 ### Date
 - Feb 2000
-### Authors
+### Author
 - Moon H Song
 - Ralph A Walkling
 ### Abstract
@@ -16,7 +16,7 @@ We develop and test the Acquisition Probability Hypothesis, which asserts that r
 ## 2. When is time continuous?
 ### Date
 - Feb 2000
-### Authors
+### Author
 - Dimitris Bertsimas
 - Leonid Kogan
 - Andrew W. Lo
@@ -28,7 +28,7 @@ Continuous-time stochastic processes are approximations to physically realizable
 ## 3. Spanning and derivative-security valuation
 ### Date
 - Feb 2000
-### Authors
+### Author
 - Gurdip Bakshi
 - Dilip Madan
 ### Abstract
@@ -39,7 +39,7 @@ This article provides the economic foundations for valuing derivative securities
 ## 4. An empirical examination of the convexity bias in the pricing of interest rate swaps
 ### Date
 - Feb 2000
-### Authors
+### Author
 - Anurag Gupta
 - Marti G. Subrahmanyam
 ### Abstract
@@ -50,7 +50,7 @@ This paper examines the convexity bias, caused by the non-linearity of payoffs, 
 ## 5. Money chasing deals? The impact of fund inflows on private equity valuation
 ### Date
 - Feb 2000
-### Authors
+### Author
 - Paul Gompers
 - Josh Lerner
 ### Abstract

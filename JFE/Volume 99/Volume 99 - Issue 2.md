@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Feb 2011
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Capital structure dynamics and transitory debt
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Harry DeAngelo
 - Linda DeAngelo
 - Toni M. Whited
@@ -26,7 +26,7 @@ Firms deliberately but temporarily deviate from permanent leverage targets by is
 ## 3. Corporate investment and financing under asymmetric information
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Erwan Morellec
 - Norman Schürhoff
 ### Abstract
@@ -37,7 +37,7 @@ We develop a dynamic model of corporate investment and financing decisions in wh
 ## 4. Empty voting and the efficiency of corporate governance
 ### Date
 - Oct 2010
-### Authors
+### Author
 - Alon Brav
 - Richmond D. Mathews
 ### Abstract
@@ -48,7 +48,7 @@ We model corporate voting outcomes when an informed trader, such as a hedge fund
 ## 5. Vintage capital and creditor protection
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Efraim Benmelech
 - Nittai K. Bergman
 ### Abstract
@@ -59,7 +59,7 @@ We provide novel evidence linking the level of creditor protection provided by l
 ## 6. Diversification disasters
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Rustam Ibragimov
 - Dwight Jaffee
 - Johan Walden
@@ -71,7 +71,7 @@ The recent financial crisis has revealed significant externalities and systemic 
 ## 7. Frequent issuers’ influence on long-run post-issuance returns
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Matthew T. Billett
 - Mark J. Flannery
 - Jon A. Garfinkel
@@ -83,7 +83,7 @@ Prior studies conclude that firms’ equity underperforms following many individ
 ## 8. A theory of corporate financial decisions with liquidity and solvency concerns
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Sebastian Gryglewicz
 ### Abstract
 This paper studies the impact of both liquidity and solvency concerns on corporate finance. I present a tractable model of a firm that optimally chooses capital structure, cash holdings, dividends, and default while facing cash flows with long-term uncertainty and short-term liquidity shocks. The model explains how changes in solvency affect liquidity and also how liquidity concerns affect solvency via capital structure choice. These interactions result in a dynamic cash policy in which cash reserves increase in profitability and are positively correlated with cash flows. The optimal dividend distributions implied by the model are smoothed relative to cash flows. I also find that liquidity concerns lead to a decrease of dispersion of credit spreads.
@@ -93,7 +93,7 @@ This paper studies the impact of both liquidity and solvency concerns on corpora
 ## 9. Do time-varying risk premiums explain labor market performance?
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Long Chen
 - Lu Zhang
 ### Abstract
@@ -104,7 +104,7 @@ Within the standard search and matching model, time-to-build implies that high a
 ## 10. General equilibrium pricing of options with habit formation and event risks
 ### Date
 - Sep 2010
-### Authors
+### Author
 - Du Du
 ### Abstract
 This paper proposes a general equilibrium model that explains the pricing of the S&P 500 index options. The central ingredients are a peso component in the consumption growth rate and the time-varying risk aversion induced by habit formation which amplifies consumption shocks. The amplifying effect generates the excess volatility and a large jump-risk premium which combine to produce a pronounced volatility smirk for index options. The time-varying volatility and jump-risk premiums explain the observed state-dependent smirk patterns. Besides volatility smirks, the model has a variety of other implications which are broadly consistent with the aggregate stock and option market data.
@@ -114,7 +114,7 @@ This paper proposes a general equilibrium model that explains the pricing of the
 ## 11. Maxing out: Stocks as lotteries and the cross-section of expected returns
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Turan G. Bali
 - Nusret Cakici
 - Robert F. Whitelaw
@@ -126,7 +126,7 @@ Motivated by existing evidence of a preference among investors for assets with l
 ## 12. The structure and formation of business groups: Evidence from Korean chaebols
 ### Date
 - Aug 2010
-### Authors
+### Author
 - Heitor Almeida
 - Sang Yong Park
 - Marti G. Subrahmanyam

@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Jun 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Ownership and operating performance of companies that go public
 ### Date
 - Jun 1997
-### Authors
+### Author
 - Wayne H. Mikkelson
 - M. Megan Partch
 - Kshitij Shah
@@ -27,7 +27,7 @@ Going public typically leads to a separation of managerial control and stock own
 ## 3. On biases in tests of the expectations hypothesis of the term structure of interest rates
 ### Date
 - Jun 1997
-### Authors
+### Author
 - Geert Bekaert
 - Robert J. Hodrick
 - David A. Marshall
@@ -39,7 +39,7 @@ We document extreme bias and dispersion in the small-sample distributions of fou
 ## 4. Investor behavior in mass privatization: The case of the Czech voucher scheme
 ### Date
 - Jun 1997
-### Authors
+### Author
 - Archana Hingorani
 - Kenneth Lehn
 - Anil K. Makhija
@@ -51,7 +51,7 @@ In the first round of the Czech privatization scheme, the authorities set a unif
 ## 5. Investment in technological innovations: An option pricing approach
 ### Date
 - Jun 1997
-### Authors
+### Author
 - Steven R. Grenadier
 - Allen M. Weiss
 ### Abstract
@@ -62,7 +62,7 @@ This paper develops a model of the optimal investment strategy for a firm confro
 ## 6. Index
 ### Date
 - Jun 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link

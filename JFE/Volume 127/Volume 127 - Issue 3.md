@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Mar 2018
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Alpha or beta in the eye of the beholder: What drives hedge fund flows?
 ### Date
 - Jan 2018
-### Authors
+### Author
 - Vikas Agarwal
 - T. Clifton Green
 - Honglin Ren
@@ -26,7 +26,7 @@ Capital Asset Pricing Model (CAPM) alpha explains hedge fund flows better than a
 ## 3. The (dis)advantages of clearinghouses before the Fed
 ### Date
 - Jan 2018
-### Authors
+### Author
 - Matthew Jaremski
 ### Abstract
 Operating in individual cities, US clearinghouses were the closest thing to a central bank before 1914, but they only assisted banks that chose to join the association. Using an annual bank-level database for seven states between 1880 and 1910, this paper shows that after the entry of a clearinghouse member banks were less likely and nonmember banks in the same city were more likely to close. The results are driven by the fact that the presence of clearinghouses led all banks to become more exposed to systemic liquidity risk, yet provided liquidity only to member banks during panics.
@@ -36,7 +36,7 @@ Operating in individual cities, US clearinghouses were the closest thing to a ce
 ## 4. Disagreement about inflation and the yield curve
 ### Date
 - Jan 2018
-### Authors
+### Author
 - Paul Ehling
 - Michael Gallmeyer
 - Christian Heyerdahl-Larsen
@@ -49,7 +49,7 @@ We show that inflation disagreement, not just expected inflation, has an impact 
 ## 5. Resaleable debt and systemic risk
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Jason Roderick Donaldson
 - Eva Micheler
 ### Abstract
@@ -60,7 +60,7 @@ Many debt claims, such as bonds, are resaleable; others, such as repos, are not.
 ## 6. Securitization bubbles: Structured finance with disagreement about default risk
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Tobias Broer
 ### Abstract
 An additional reason for the structured finance boom of the 2000s may have been disagreement about default risk of collateral assets. When risk-neutral investors disagree about average default probabilities, structuring collateral cash flow raises prices by concentrating optimists’ demand on risky tranches. With disagreement about default correlation, low-correlation investors believe in diversification and pay high prices for senior tranches they deem riskless. High-correlation investors value junior tranches they expect to pay whenever aggregate conditions are good. Risk aversion and short selling through credit default swaps reduce the prices of both pass-through and structured securitizations but may increase the return to tranching.
@@ -70,7 +70,7 @@ An additional reason for the structured finance boom of the 2000s may have been 
 ## 7. Are overconfident CEOs better leaders? Evidence from stakeholder commitments
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Kenny Phua
 - T. Mandy Tham
 - Chishen Wei
@@ -82,7 +82,7 @@ We find evidence that the leadership of overconfident chief executive officers (
 ## 8. The structure of information release and the factor structure of returns
 ### Date
 - Jan 2018
-### Authors
+### Author
 - Thomas Gilbert
 - Christopher Hrdlicka
 - Avraham Kamara
@@ -94,7 +94,7 @@ We model how firms releasing information on different dates causes the CAPM to f
 ## 9. Management sub-advising in the mutual fund industry
 ### Date
 - Jan 2018
-### Authors
+### Author
 - David Moreno
 - Rosa Rodríguez
 - Rafael Zambrana
@@ -106,7 +106,7 @@ This is a study of how contractual mechanisms can mitigate agency conflicts in s
 ## 10. Board diversity, firm risk, and corporate policies
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Gennaro Bernile
 - Vineet Bhagwat
 - Scott Yonker

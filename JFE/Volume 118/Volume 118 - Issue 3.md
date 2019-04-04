@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Dec 2015
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Introduction: New perspectives on corporate capital structures
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Viral V. Acharya
 - Heitor Almeida
 - Malcolm Baker
@@ -26,7 +26,7 @@
 ## 3. Maturity rationing and collective short-termism
 ### Date
 - Aug 2014
-### Authors
+### Author
 - Konstantin Milbradt
 - Martin Oehmke
 ### Abstract
@@ -37,7 +37,7 @@ Financing terms and investment decisions are jointly determined. This interdepen
 ## 4. The impact of Treasury supply on financial sector lending and stability
 ### Date
 - Aug 2015
-### Authors
+### Author
 - Arvind Krishnamurthy
 - Annette Vissing-Jorgensen
 ### Abstract
@@ -48,7 +48,7 @@ We present a theory in which the key driver of short-term debt issued by the fin
 ## 5. Deposits and bank capital structure
 ### Date
 - Nov 2014
-### Authors
+### Author
 - Franklin Allen
 - Elena Carletti
 - Robert Marquez
@@ -60,7 +60,7 @@ In a model with bankruptcy costs and segmented deposit and equity markets, we en
 ## 6. A theory of risk capital
 ### Date
 - Oct 2014
-### Authors
+### Author
 - Isil Erel
 - Stewart C. Myers
 - James A. Read
@@ -72,7 +72,7 @@ We present a theory of risk capital and of how tax and other costs of risk capit
 ## 7. Debt, labor markets, and the creation and destruction of firms
 ### Date
 - Jun 2015
-### Authors
+### Author
 - Andres Almazan
 - Adolfo de Motta
 - Sheridan Titman
@@ -84,7 +84,7 @@ We analyze the financing and liquidation decisions of firms that face a labor ma
 ## 8. A century of capital structure: The leveraging of corporate America
 ### Date
 - Aug 2014
-### Authors
+### Author
 - John R. Graham
 - Mark T. Leary
 - Michael R. Roberts
@@ -96,7 +96,7 @@ Unregulated US corporations dramatically increased their debt usage over the pas
 ## 9. As certain as debt and taxes: Estimating the tax sensitivity of leverage from state tax changes
 ### Date
 - Jan 2015
-### Authors
+### Author
 - Florian Heider
 - Alexander Ljungqvist
 ### Abstract

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Sep 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. Litigation risk and IPO underpricing
 ### Date
 - Sep 2002
-### Authors
+### Author
 - Michelle Lowry
 - Susan Shu
 ### Abstract
@@ -25,7 +25,7 @@ We examine the relation between risk and IPO underpricing and test two aspects o
 ## 3. Funding growth in bank-based and market-based financial systems: evidence from firm-level data
 ### Date
 - Sep 2002
-### Authors
+### Author
 - Aslı Demirgüç-Kunt
 - Vojislav Maksimovic
 ### Abstract
@@ -36,7 +36,7 @@ We investigate whether firms’ access to external financing to fund growth diff
 ## 4. The ultimate ownership of Western European corporations
 ### Date
 - Sep 2002
-### Authors
+### Author
 - Mara Faccio
 - Larry H.P Lang
 ### Abstract
@@ -47,7 +47,7 @@ We analyze the ultimate ownership and control of 5,232 corporations in 13 Wester
 ## 5. Predicting the next step of a random walk: experimental evidence of regime-shifting beliefs
 ### Date
 - Sep 2002
-### Authors
+### Author
 - Robert Bloomfield
 - Jeffrey Hales
 ### Abstract
@@ -58,7 +58,7 @@ Barberis et al. (J. Financial Econ. 49 (1998) 307), construct a model in which i
 ## 6. Market efficiency in real time
 ### Date
 - Sep 2002
-### Authors
+### Author
 - Jeffrey A. Busse
 - T. Clifton Green
 ### Abstract
@@ -69,7 +69,7 @@ The Morning Call and Midday Call segments on CNBC TV provide a unique opportunit
 ## 7. Index
 ### Date
 - Sep 2002
-### Authors
+### Author
 ### Abstract
 
 ### Link

@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Aug 2012
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. U.S. stock market crash risk, 1926–2010
 ### Date
 - Mar 2012
-### Authors
+### Author
 - David S. Bates
 ### Abstract
 This paper examines how well alternate time-changed Lévy processes capture stochastic volatility and the substantial outliers observed in U.S. stock market returns over the past 85 years. The autocorrelation of daily stock market returns varies substantially over time, necessitating an additional state variable when analyzing historical data. I estimate various one- and two-factor stochastic volatility/Lévy models with time-varying autocorrelation via extensions of the Bates (2006) methodology that provide filtered daily estimates of volatility and autocorrelation. The paper explores option pricing implications, including for the Volatility Index (VIX) during the recent financial crisis.
@@ -24,7 +24,7 @@ This paper examines how well alternate time-changed Lévy processes capture stoc
 ## 3. How are shorts informed?
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Joseph E. Engelberg
 - Adam V. Reed
 - Matthew C. Ringgenberg
@@ -36,7 +36,7 @@ We find that a substantial portion of short sellers' trading advantage comes fro
 ## 4. Properties of foreign exchange risk premiums
 ### Date
 - Jan 2012
-### Authors
+### Author
 - Lucio Sarno
 - Paul Schneider
 - Christian Wagner
@@ -48,7 +48,7 @@ We study the properties of foreign exchange risk premiums that can explain the f
 ## 5. Financial constraints and share repurchases
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Sheng-Syan Chen
 - Yanzhi Wang
 ### Abstract
@@ -59,7 +59,7 @@ We examine how the financial constraints of repurchasing firms affect their post
 ## 6. Did securitization affect the cost of corporate debt?
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Taylor D. Nadauld
 - Michael S. Weisbach
 ### Abstract
@@ -70,7 +70,7 @@ This paper investigates whether the securitization of corporate bank loan facili
 ## 7. A darker side to decentralized banks: Market power and credit rationing in SME lending
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Rodrigo Canales
 - Ramana Nanda
 ### Abstract
@@ -81,7 +81,7 @@ We use loan-level data to study how the organizational structure of banks impact
 ## 8. Individual political contributions and firm performance
 ### Date
 - Mar 2012
-### Authors
+### Author
 - Alexei V. Ovtchinnikov
 - Eva Pantaleoni
 ### Abstract
@@ -92,7 +92,7 @@ We present evidence that individuals make political contributions strategically 
 ## 9. How (not) to pay for advice: A framework for consumer financial protection
 ### Date
 - Jan 2012
-### Authors
+### Author
 - Roman Inderst
 - Marco Ottaviani
 ### Abstract
@@ -103,7 +103,7 @@ This paper investigates the determinants of the compensation structure for broke
 ## 10. Do controlling shareholders' expropriation incentives imply a link between corporate governance and firm value? Theory and evidence
 ### Date
 - Feb 2012
-### Authors
+### Author
 - Kee-Hong Bae
 - Jae-Seung Baek
 - Jun-Koo Kang
@@ -116,7 +116,7 @@ We develop and test a model that investigates how controlling shareholders' expr
 ## 11. A unique view of hedge fund derivatives usage: Safeguard or speculation?
 ### Date
 - Feb 2012
-### Authors
+### Author
 - George O. Aragon
 - J. Spencer Martin
 ### Abstract

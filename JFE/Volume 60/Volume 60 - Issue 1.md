@@ -5,7 +5,7 @@
 ## 1. Disappearing dividends: changing firm characteristics or lower propensity to pay?
 ### Date
 - Apr 2001
-### Authors
+### Author
 - Eugene F Fama
 - Kenneth R French
 ### Abstract
@@ -16,7 +16,7 @@ The proportion of firms paying cash dividends falls from 66.5% in 1978 to 20.8% 
 ## 2. Corporate payout policy and managerial stock incentives
 ### Date
 - Apr 2001
-### Authors
+### Author
 - George W. Fenn
 - Nellie Liang
 ### Abstract
@@ -27,7 +27,7 @@ We examine how corporate payout policy is affected by managerial stock incentive
 ## 3. The option to withdraw IPOs during the premarket: empirical analysis
 ### Date
 - Apr 2001
-### Authors
+### Author
 - Walid Y. Busaba
 - Lawrence M. Benveniste
 - Re-Jin Guo
@@ -39,7 +39,7 @@ American IPOs are priced after a process of bookbuilding, during which issuers c
 ## 4. Locking out rival bidders: The use of lockup options in corporate mergers
 ### Date
 - Apr 2001
-### Authors
+### Author
 - Timothy R Burch
 ### Abstract
 Conventional wisdom suggests that lockup options are granted by self-interested target managers to discourage competition and hand-select an acquirer, thus harming target shareholder wealth. Evidence from 2,067 deals announced during 1988–1995 suggests that lockup options inhibit competition, but on average, deals with lockup options have higher target announcement and overall returns and lower bidder announcement returns, even after controlling for shareholder anticipation and other factors. An examination of 100 merger proxies suggests lockup options are no more prevalent in privately negotiated, preemptive deals, and average target returns are higher when such deals include a lockup option. The overall evidence is more consistent with managers using lockup options to enhance bargaining power than with lockup options harming shareholder wealth.
@@ -49,7 +49,7 @@ Conventional wisdom suggests that lockup options are granted by self-interested 
 ## 5. On the choice and replacement of chief financial officers
 ### Date
 - Apr 2001
-### Authors
+### Author
 - Shehzad Mian
 ### Abstract
 This paper provides empirical evidence regarding why firms replace their CFOs. Empirical tests are based on a sample of 2,227 CFO appointments over the 1984–1997 time period. Key findings reported in the paper are: (a) external CFO succession rate is markedly higher than the external CEO succession rate, (b) the incidence of retirement is less common for serving CFOs as compared to the top executive, (c) CFO turnover is preceded by negative excess returns, (d) CFO turnover is preceded by a decline in operating return on assets in the pre-period, (e) announcements of CFO turnover are associated with a significant negative stock price reaction when old CFO quits and firm replaces with an internal appointment, and (f) CFO turnover is preceded by abnormally high CEO turnover. Overall, evidence is consistent with the hypothesis that CFO turnovers are disciplinary. Evidence is also consistent with the hypothesis that rapid sales growth accompanied by weak operating performance leads firms to bring in outside talent.

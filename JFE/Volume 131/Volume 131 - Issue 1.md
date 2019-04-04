@@ -5,7 +5,7 @@
 ## 1. Editorial Board
 ### Date
 - Jan 2019
-### Authors
+### Author
 ### Abstract
 
 ### Link
@@ -14,7 +14,7 @@
 ## 2. The rise in student loan defaults
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Holger M. Mueller
 - Constantine Yannelis
 ### Abstract
@@ -25,7 +25,7 @@ We examine the rise in student loan defaults in the Great Recession by linking a
 ## 3. Bubbles for Fama
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Robin Greenwood
 - Andrei Shleifer
 - Yang You
@@ -37,7 +37,7 @@ We evaluate Eugene F. Fama's claim that stock prices do not exhibit price bubble
 ## 4. Public hedge funds
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Lin Sun
 - Melvyn Teo
 ### Abstract
@@ -48,7 +48,7 @@ Hedge funds managed by listed firms significantly under-perform funds managed by
 ## 5. Pay now or pay later? The economics within the private equity partnership
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Victoria Ivashina
 - Josh Lerner
 ### Abstract
@@ -59,7 +59,7 @@ The economics of partnerships have been of enduring interest to economists, yet 
 ## 6. How do valuations impact outcomes of asset sales with heterogeneous bidders?
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Alexander S. Gorbenko
 ### Abstract
 Differences among bidder type-specific outcomes of asset sales are theoretically related to differences in bidders’ valuations and participation. The lead application to quantify these relations is takeover auctions: bidders are classified into strategic and financial, and bids are available. I structurally estimate valuations from all bids. The positive difference in premiums between strategic and financial acquirers is driven by the difference in dispersions of valuations (e.g., strategic bidders’ synergies are more dispersed) and the set of auction participants. The difference in average valuations is relatively unimportant. My approach can help explain outcomes of asset sales, even in settings with limited bidder data.
@@ -69,7 +69,7 @@ Differences among bidder type-specific outcomes of asset sales are theoretically
 ## 7. Good disclosure, bad disclosure
 ### Date
 - Aug 2018
-### Authors
+### Author
 - Itay Goldstein
 - Liyan Yang
 ### Abstract
@@ -80,7 +80,7 @@ We study real-efficiency implications of disclosing public information in a mode
 ## 8. Institutional herding and its price impact: Evidence from the corporate bond market
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Fang Cai
 - Song Han
 - Dan Li
@@ -93,7 +93,7 @@ We examine the extent to which institutional investors herd in the U.S. corporat
 ## 9. The use of credit default swaps by bond mutual funds: Liquidity provision and counterparty risk
 ### Date
 - Jul 2018
-### Authors
+### Author
 - George O. Aragon
 - Lei Li
 - Jun ‘QJ’ Qian
@@ -105,7 +105,7 @@ Corporate bond mutual funds increased their selling of credit protection in the 
 ## 10. The leverage effect and the basket-index put spread
 ### Date
 - Jul 2018
-### Authors
+### Author
 - Jennie Bai
 - Robert S. Goldstein
 - Fan Yang
@@ -117,7 +117,7 @@ Benchmark models that exogenously specify equity dynamics cannot explain the lar
 ## 11. Do insiders time management buyouts and freezeouts to buy undervalued targets?
 ### Date
 - Dec 2017
-### Authors
+### Author
 - Jarrad Harford
 - Jared Stanfield
 - Feng Zhang
@@ -129,7 +129,7 @@ We provide evidence that managers and controlling shareholders time management b
 ## 12. The value of access to finance: Evidence from M&As
 ### Date
 - Sep 2018
-### Authors
+### Author
 - Jess Cornaggia
 - Jay Yin Li
 ### Abstract

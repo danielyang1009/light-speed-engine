@@ -1,0 +1,257 @@
+{
+    "journal": "JF",
+    "volume": "58",
+    "issue": "2",
+    "date": "April 2003",
+    "page": "Pages: i-viii, 483-942, ix-xxx",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "12 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2003.tb00902.x"
+        },
+        {
+            "no": "2",
+            "title": "Fischer Black Prize for 2003",
+            "date": "21 March 2003",
+            "author": [
+                "Raghuram G. Rajan"
+            ],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00533"
+        },
+        {
+            "no": "3",
+            "title": "SMITH BREEDEN AND BRATTLE GROUP PRIZES FOR 2002",
+            "date": "21 March 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00534"
+        },
+        {
+            "no": "4",
+            "title": "Pseudo Market Timing and the Long\u2010Run Underperformance of IPOs",
+            "date": "21 March 2003",
+            "author": [
+                "Paul Schultz"
+            ],
+            "abstract": "Numerous studies document long\u2010run underperformance by firms following equity offerings. This paper shows that underperformance is very likely to be observed ex\u2010post in an efficient market. The premise is that more firms issue equity at higher stock prices even though they cannot predict future returns. Ex\u2010post, issuers seem to time the market because offerings cluster at market peaks. Simulations based on 1973 through 1997 data reveal that when ex\u2010ante expected abnormal returns are zero, median ex\u2010post underperformance for equity issuers will be significantly negative in event\u2010time. Using calendar\u2010time returns solves the problem.",
+            "link": "https://doi.org/10.1111/1540-6261.00535"
+        },
+        {
+            "no": "5",
+            "title": "Entrenchment and Severance Pay in Optimal Governance Structures",
+            "date": "21 March 2003",
+            "author": [
+                "Andres Almazan",
+                "Javier Suarez"
+            ],
+            "abstract": "This paper explores how motivating an incumbent CEO to undertake actions that improve the effectiveness of his management interacts with the firm's policy on CEO replacement. Such policy depends on the presence and the size of severance pay in the CEO's compensation package and on the CEO's influence on the board of directors regarding his own replacement (i.e., entrenchment). We explain when and why the combination of some degree of entrenchment and a sizeable severance package is desirable. The analysis offers predictions about the correlation between entrenchment, severance pay, and incentive compensation.",
+            "link": "https://doi.org/10.1111/1540-6261.00536"
+        },
+        {
+            "no": "6",
+            "title": "Cross\u2010Border Listings and Price Discovery: Evidence from U.S.\u2010Listed Canadian Stocks",
+            "date": "21 March 2003",
+            "author": [
+                "Cheol S. Eun",
+                "Sanjiv Sabherwal"
+            ],
+            "abstract": "We examine the contribution of cross\u2010listings to price discovery for a sample of Canadian stocks listed on both the Toronto Stock Exchange (TSE) and a U.S. exchange. We find that prices on the TSE and U.S. exchange are cointegrated and mutually adjusting. The U.S. share of price discovery ranges from 0.2 percent to 98.2 percent, with an average of 38.1 percent. The U.S. share is directly related to the U.S. share of trading and to the ratio of proportions of informative trades on the U.S. exchange and the TSE, and inversely related to the ratio of bid\u2010ask spreads.",
+            "link": "https://doi.org/10.1111/1540-6261.00537"
+        },
+        {
+            "no": "7",
+            "title": "Evidence of Information Spillovers in the Production of Investment Banking Services",
+            "date": "21 March 2003",
+            "author": [
+                "Lawrence M. Benveniste",
+                "Alexander Ljungqvist",
+                "William J. Wilhelm Jr.",
+                "Xiaoyun Yu"
+            ],
+            "abstract": "We provide evidence that firms attempting IPOs condition offer terms and the decision whether to carry through with an offering on the experience of their primary market contemporaries. Moreover, while initial returns and IPO volume are positively correlated in the aggregate, the correlation is negative among contemporaneous offerings subject to a common valuation factor. Our findings are consistent with investment banks implicitly bundling offerings subject to a common valuation factor to achieve more equitable internalization of information production costs and thereby preventing coordination failures in primary equity markets.",
+            "link": "https://doi.org/10.1111/1540-6261.00538"
+        },
+        {
+            "no": "8",
+            "title": "The Value Spread",
+            "date": "21 March 2003",
+            "author": [
+                "Randolph B. Cohen",
+                "Christopher Polk",
+                "Tuomo Vuolteenaho"
+            ],
+            "abstract": "We decompose the cross\u2010sectional variance of firms' book\u2010to\u2010market ratios using both a long U.S. panel and a shorter international panel. In contrast to typical aggregate time\u2010series results, transitory cross\u2010sectional variation in expected 15\u2010year stock returns causes only a relatively small fraction (20 to 25 percent) of the total cross\u2010sectional variance. The remaining dispersion can be explained by expected 15\u2010year profitability and persistence of valuation levels. Furthermore, this fraction appears stable across time and across types of stocks. We also show that the expected return on value\u2010minus\u2010growth strategies is atypically high at times when their spread in book\u2010to\u2010market ratios is wide.",
+            "link": "https://doi.org/10.1111/1540-6261.00539"
+        },
+        {
+            "no": "9",
+            "title": "The Level and Persistence of Growth Rates",
+            "date": "21 March 2003",
+            "author": [
+                "Louis K. C. Chan",
+                "Jason Karceski",
+                "Josef Lakonishok"
+            ],
+            "abstract": "Expectations about long\u2010term earnings growth are crucial to valuation models and cost of capital estimates. We analyze historical long\u2010term growth rates across a broad cross section of stocks using several indicators of operating performance. We test for persistence and predictability in growth. While some firms have grown at high rates historically, they are relatively rare instances. There is no persistence in long\u2010term earnings growth beyond chance, and there is low predictability even with a wide variety of predictor variables. Specifically, IBES growth forecasts are overly optimistic and add little predictive power. Valuation ratios also have limited ability to predict future growth.",
+            "link": "https://doi.org/10.1111/1540-6261.00540"
+        },
+        {
+            "no": "10",
+            "title": "Role of Speculative Short Sales in Price Formation: The Case of the Weekend Effect",
+            "date": "21 March 2003",
+            "author": [
+                "Honghui Chen",
+                "Vijay Singal"
+            ],
+            "abstract": "We argue that short sellers affect prices in a significant and systematic manner. In particular, we contend that speculative short sales contribute to the weekend effect: The inability to trade over the weekend is likely to cause these short sellers to close their speculative positions on Fridays and reestablish new short positions on Mondays causing stock prices to rise on Fridays and fall on Mondays. We find evidence in support of this hypothesis based on a comparison of high short\u2010interest stocks and low short\u2010interest stocks, stocks with and without actively traded options, IPOs, zero short\u2010interest stocks, and highly volatile stocks.",
+            "link": "https://doi.org/10.1111/1540-6261.00541"
+        },
+        {
+            "no": "11",
+            "title": "How Sensitive Is Investment to Cash Flow When Financing Is Frictionless?",
+            "date": "21 March 2003",
+            "author": [
+                "Aydo\u1e21an Alti"
+            ],
+            "abstract": "I analyze the sensitivity of a firm's investment to its own cash flow in the benchmark case where financing is frictionless. This sensitivity has been proposed as a measure of financing constraints in earlier studies. I find that the investment\u2013cash flow sensitivities that obtain in the frictionless benchmark are very similar, both in magnitude and in patterns they exhibit, to those observed in the data. In particular, the sensitivity is higher for firms with high growth rates and low dividend payout ratios. Tobin's q is shown to be a more noisy measure of near\u2010term investment plans for these firms.",
+            "link": "https://doi.org/10.1111/1540-6261.00542"
+        },
+        {
+            "no": "12",
+            "title": "IPO Pricing in the Dot\u2010com Bubble",
+            "date": "21 March 2003",
+            "author": [
+                "Alexander Ljungqvist",
+                "William J. Wilhelm Jr."
+            ],
+            "abstract": "IPO underpricing reached astronomical levels during 1999 and 2000. We show that the regime shift in initial returns and other elements of pricing behavior can be at least partially accounted for by marked changes in pre\u2010IPO ownership structure and insider selling behavior over the period, which reduced key decision makers' incentives to control underpricing. After controlling for these changes, the difference in underpricing between 1999 and 2000 and the preceding three years is much reduced. Our results suggest that it was firm characteristics that were unique during the \u201cdot\u2010com bubble\u201d and that pricing behavior followed from incentives created by these characteristics.",
+            "link": "https://doi.org/10.1111/1540-6261.00543"
+        },
+        {
+            "no": "13",
+            "title": "The Finite Moment Log Stable Process and Option Pricing",
+            "date": "21 March 2003",
+            "author": [
+                "Peter Carr",
+                "Liuren Wu"
+            ],
+            "abstract": "We document a surprising pattern in S&P 500 option prices. When implied volatilities are graphed against a standard measure of moneyness, the implied volatility smirk does not flatten out as maturity increases up to the observable horizon of two years. This behavior contrasts sharply with the implications of many pricing models and with the asymptotic behavior implied by the central limit theorem (CLT). We develop a parsimonious model which deliberately violates the CLT assumptions and thus captures the observed behavior of the volatility smirk over the maturity horizon. Calibration exercises demonstrate its superior performance against several widely used alternatives.",
+            "link": "https://doi.org/10.1111/1540-6261.00544"
+        },
+        {
+            "no": "14",
+            "title": "Incentive Fees and Mutual Funds",
+            "date": "21 March 2003",
+            "author": [
+                "Edwin J. Elton",
+                "Martin J. Gruber",
+                "Christopher R. Blake"
+            ],
+            "abstract": "This paper examines the effect of incentive fees on the behavior of mutual fund managers. Funds with incentive fees exhibit positive stock selection ability, but a beta less than one results in funds not earning positive fees. From an investor's perspective, positive alphas plus lower expense ratios make incentive\u2010fee funds attractive. However, incentive\u2010fee funds take on more risk than non\u2010incentive\u2010fee funds, and they increase risk after a period of poor performance. Incentive fees are useful marketing tools, since more new cash flows go into incentive\u2010fee funds than into non\u2010incentive\u2010fee funds, ceteris paribus.",
+            "link": "https://doi.org/10.1111/1540-6261.00545"
+        },
+        {
+            "no": "15",
+            "title": "A Generalization of the Brennan\u2010Rubinstein Approach for the Pricing of Derivatives",
+            "date": "21 March 2003",
+            "author": [
+                "Ant\u00f3nio C\u00e2mara"
+            ],
+            "abstract": "This paper derives preference\u2010free option pricing equations in a discrete time economy where asset returns have continuous distributions. There is a representative agent who has risk preferences with an exponential representation. Aggregate wealth and the underlying asset price have transformed normal distributions which may or may not belong to the same family of distributions. Those pricing results are particularly valuable (a) to show new sufficient conditions for existing risk\u2010neutral option pricing equations (e.g., the Black\u2010Scholes model), and (b) to obtain new analytical solutions for the price of European\u2010style contingent claims when the underlying asset has a transformed normal distribution (e.g., a negatively skew lognormal distribution).",
+            "link": "https://doi.org/10.1111/1540-6261.00546"
+        },
+        {
+            "no": "16",
+            "title": "Evaluation Periods and Asset Prices in a Market Experiment",
+            "date": "21 March 2003",
+            "author": [
+                "Uri Gneezy",
+                "Arie Kapteyn",
+                "Jan Potters"
+            ],
+            "abstract": "We test whether the frequency of feedback information about the performance of an investment portfolio and the flexibility with which the investor can change the portfolio influence her risk attitude in markets. In line with the prediction of myopic loss aversion (Benartzi and Thaler (1995)), we find that more information and more flexibility result in less risk taking. Market prices of risky assets are significantly higher if feedback frequency and decision flexibility are reduced. This result supports the findings from individual decision making, and shows that market interactions do not eliminate such behavior or its consequences for prices.",
+            "link": "https://doi.org/10.1111/1540-6261.00547"
+        },
+        {
+            "no": "17",
+            "title": "The Term Structure with Semi\u2010credible Targeting",
+            "date": "21 March 2003",
+            "author": [
+                "Heber Farnsworth",
+                "Richard Bass"
+            ],
+            "abstract": "The Federal Reserve sets targets for interest rates which it enforces through direct market intervention. These targets are changed periodically. In this paper, we develop a term structure model in which the short rate is subject to a control which keeps it close to a target which changes from time to time. The probability of target changes is not constant in the model, but changes as a function of observables. The model performs well at explaining the shifts in the yield curve that accompany target changes.",
+            "link": "https://doi.org/10.1111/1540-6261.00548"
+        },
+        {
+            "no": "18",
+            "title": "Excessive Dollar Debt: Financial Development and Underinsurance",
+            "date": "21 March 2003",
+            "author": [
+                "Ricardo J. Caballero",
+                "Arvind Krishnamurthy"
+            ],
+            "abstract": "We propose that the limited financial development of emerging markets is a significant factor behind the large share of dollar\u2010denominated external debt present in these markets. We show that when financial constraints affect borrowing and lending between domestic agents, agents undervalue insuring against an exchange rate depreciation. Since more of this insurance is present when external debt is denominated in domestic currency rather than in dollars, this result implies that domestic agents choose excessive dollar debt. We also show that limited financial development reduces the incentives for foreign lenders to enter emerging markets. The retarded entry reinforces the underinsurance problem.",
+            "link": "https://doi.org/10.1111/1540-6261.00549"
+        },
+        {
+            "no": "19",
+            "title": "The Wealth Effects of Repurchases on Bondholders",
+            "date": "21 March 2003",
+            "author": [
+                "William F. Maxwell",
+                "Clifford P. Stephens"
+            ],
+            "abstract": "Prior research has documented positive abnormal stock returns around the announcements of repurchase programs; several explanations of these returns have been suggested, including signaling, free cash flow, and wealth redistributions. This study analyzes abnormal stock, bond, and firm returns around repurchase announcements to examine these hypotheses. We find evidence consistent with both signaling and wealth redistribution. The loss to bondholders is a function of the size of the repurchase, and the risk of the firm's debt. We also find that bond ratings are twice as likely to be downgraded as upgraded after the announcement of the repurchase program.",
+            "link": "https://doi.org/10.1111/1540-6261.00550"
+        },
+        {
+            "no": "20",
+            "title": "Investor Protection and Firm Liquidity",
+            "date": "21 March 2003",
+            "author": [
+                "Paul Brockman",
+                "Dennis Y. Chung"
+            ],
+            "abstract": "The purpose of this study is to investigate the relation between investor protection and firm liquidity. We posit that less protective environments lead to wider bid\u2010ask spreads and thinner depths because they fail to minimize information asymmetries. The Hong Kong equity market provides a unique opportunity to compare liquidity costs across distinct investor protection environments, but still within a common trading mechanism and currency. Our empirical findings verify that firm liquidity is significantly affected by investor protection. Regression and matched\u2010sample results show that Hong Kong\u2010based equities exhibit narrower spreads and thicker depths than their China\u2010based counterparts.",
+            "link": "https://doi.org/10.1111/1540-6261.00551"
+        },
+        {
+            "no": "21",
+            "title": "MISCELLANEA",
+            "date": "21 March 2003",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/1540-6261.00552"
+        },
+        {
+            "no": "22",
+            "title": "ANNOUNCEMENTS",
+            "date": "12 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2003.tb00903.x"
+        },
+        {
+            "no": "23",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "12 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2003.tb00904.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "12 February 2016",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.2003.tb00905.x"
+        }
+    ]
+}

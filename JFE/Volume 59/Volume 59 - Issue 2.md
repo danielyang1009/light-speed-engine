@@ -5,7 +5,7 @@
 ## 1. The portfolio flows of international investors
 ### Date
 - Feb 2001
-### Authors
+### Author
 - Kenneth A. Froot
 - Paul G.J. O’Connell
 - Mark S. Seasholes
@@ -17,7 +17,7 @@ This paper explores daily international portfolio flows into and out of 44 count
 ## 2. Aggregate price effects of institutional trading: a study of mutual fund flow and market returns
 ### Date
 - Feb 2001
-### Authors
+### Author
 - Roger M Edelen
 - Jerold B Warner
 ### Abstract
@@ -28,7 +28,7 @@ We study the relation between market returns and aggregate flow into U.S. equity
 ## 3. Stockholder gains from focusing versus diversifying bank mergers
 ### Date
 - Feb 2001
-### Authors
+### Author
 - Gayle L. DeLong
 ### Abstract
 This paper shows bank mergers that enhance value upon announcement can be distinguished from those that do not create value. I classify mergers of banking firms according to activity and geographic similarity (focus) or dissimilarity (diversification), and examine the abnormal returns to each group as a result of the merger announcement. Mergers that focus both activity and geography enhance stockholder value by 3.0% while the other types do not create value. Analysis reveals that abnormal returns upon merger announcement increase in relative size of target to bidder, but decrease in the pre-merger performance of targets.
@@ -38,7 +38,7 @@ This paper shows bank mergers that enhance value upon announcement can be distin
 ## 4. Sixteenths: direct evidence on institutional execution costs
 ### Date
 - Feb 2001
-### Authors
+### Author
 - Charles M Jones
 - Marc L Lipson
 ### Abstract

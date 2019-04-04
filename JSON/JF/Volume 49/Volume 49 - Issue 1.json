@@ -1,0 +1,254 @@
+{
+    "journal": "JF",
+    "volume": "49",
+    "issue": "1",
+    "date": "March 1994",
+    "page": "Pages: i-vi, 1-370, vii-xxxiii",
+    "article": [
+        {
+            "no": "1",
+            "title": "Front Matter",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb00660.x"
+        },
+        {
+            "no": "2",
+            "title": "SMITH BREEDEN PRIZES FOR 1993",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04417.x"
+        },
+        {
+            "no": "3",
+            "title": "The Benefits of Lending Relationships: Evidence from Small Business Data",
+            "date": "March 1994",
+            "author": [
+                "MITCHELL A. PETERSEN",
+                "RAGHURAM G. RAJAN"
+            ],
+            "abstract": "This paper empirically examines how ties between a firm and its creditors affect the availability and cost of funds to the firm. We analyze data collected in a survey of small firms by the Small Business Administration. The primary benefit of building close ties with an institutional creditor is that the availability of financing increases. We find smaller effects on the price of credit. Attempts to widen the circle of relationships by borrowing from multiple lenders increases the price and reduces the availability of credit. In sum, relationships are valuable and appear to operate more through quantities rather than prices.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04418.x"
+        },
+        {
+            "no": "4",
+            "title": "The Effect of a Rating Downgrade on Outstanding Commercial Paper",
+            "date": "March 1994",
+            "author": [
+                "LELAND CRABBE",
+                "MITCHELL A. POST"
+            ],
+            "abstract": "Diamond (1991) argues that a firm's reputation determines whether it borrows directly or through an intermediary. We test the Diamond model by examining the quantity response of commercial paper issued by bank holding companies to a rating downgrade. From 1986 to 1991, cumulative abnormal declines averaged 6.69 percent in the first two weeks after the downgrade and 11.05 percent in the subsequent 12 weeks. In contrast to commercial paper issued by bank holding companies, large CDs issued by affiliated banks did not change significantly in the period around a downgrade, suggesting that deposit insurance may have removed market discipline from the CD market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04419.x"
+        },
+        {
+            "no": "5",
+            "title": "Investment Bank Reputation, Information Production, and Financial Intermediation",
+            "date": "March 1994",
+            "author": [
+                "THOMAS J. CHEMMANUR",
+                "PAOLO FULGHIERI"
+            ],
+            "abstract": "We model reputation acquisition by investment banks in the equity market. Entrepreneurs sell shares in an asymmetrically informed equity market, either directly, or using an investment bank. Investment banks, who interact repeatedly with the equity market, evaluate entrepreneurs' projects and report to investors, in return for a fee. Setting strict evaluation standards (unobservable to investors) is costly for investment banks, inducing moral hazard. Investment banks' credibility therefore depends on their equity\u2010marketing history. Investment banks' evaluation standards, their reputations, underwriter compensation, the market value of equity sold, and entrepreneurs' choice between underwritten and nonunderwritten equity issues emerge endogenously.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04420.x"
+        },
+        {
+            "no": "6",
+            "title": "Mortgage Redlining: Race, Risk, and Demand",
+            "date": "March 1994",
+            "author": [
+                "ANDREW HOLMES",
+                "PAUL HORVITZ"
+            ],
+            "abstract": "Charges that geographical redlining is widely practiced by mortgage lenders and is associated with racial discrimination have received much attention. However, empirical research in this area has yet to document a convincing answer to the question of whether redlining even exists. Much of the previous research in this area has suffered from failure to account for variations in risk, and/or failure to adequately control for geographical differences in demand. This study addresses these problems in an effort to determine whether the disparity in the flow of mortgage credit can be explained by differences in risk and demand.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04421.x"
+        },
+        {
+            "no": "7",
+            "title": "On the Cross\u2010sectional Relation between Expected Returns and Betas",
+            "date": "March 1994",
+            "author": [
+                "RICHARD ROLL",
+                "STEPHEN A. ROSS"
+            ],
+            "abstract": "There is an exact linear relation between expected returns and true \u201cbetas\u201d when the market portfolio is on the ex ante mean\u2010variance efficient frontier, but empirical research has found little relation between sample mean returns and estimated betas. A possible explanation is that market portfolio proxies are mean\u2010variance inefficient. We categorize proxies that produce particular relations between expected returns and true betas. For the special case of a zero relation, a market portfolio proxy must lie inside the efficient frontier, but it may be close to the frontier.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04422.x"
+        },
+        {
+            "no": "8",
+            "title": "Testing Volatility Restrictions on Intertemporal Marginal Rates of Substitution Implied by Euler Equations and Asset Returns",
+            "date": "March 1994",
+            "author": [
+                "STEPHEN G. CECCHETTI",
+                "POK\u2010SANG LAM",
+                "NELSON C. MARK"
+            ],
+            "abstract": "The Euler equations derived from intertemporal asset pricing models, together with the unconditional moments of asset returns, imply a lower bound on the volatility of the intertemporal marginal rate of substitution. This paper develops and implements statistical tests of these lower bound restrictions. While the availability of short time series of consumption data often undermines the ability of these tests to discriminate among different utility functions, we find that the restrictions implied by a number of widely studied financial data sets continue to pose quite a challenge to the current generation of intertemporal asset pricing theories.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04423.x"
+        },
+        {
+            "no": "9",
+            "title": "Market Statistics and Technical Analysis: The Role of Volume",
+            "date": "March 1994",
+            "author": [
+                "LAWRENCE BLUME",
+                "DAVID EASLEY",
+                "MAUREEN O'HARA"
+            ],
+            "abstract": "We investigate the informational role of volume and its applicability for technical analysis. We develop a new equilibrium model in which aggregate supply is fixed and traders receive signals with differing quality. We show that volume provides information on information quality that cannot be deduced from the price statistic. We show how volume, information precision, and price movements relate, and demonstrate how sequences of volume and prices can be informative. We also show that traders who use information contained in market statistics do better than traders who do not. Technical analysis thus arises as a natural component of the agents' learning process.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04424.x"
+        },
+        {
+            "no": "10",
+            "title": "Volume, Volatility, and New York Stock Exchange Trading Halts",
+            "date": "March 1994",
+            "author": [
+                "CHARLES M. C. LEE",
+                "MARK J. READY",
+                "PAUL J. SEGUIN"
+            ],
+            "abstract": "Trading halts increase, rather than reduce, both volume and volatility. Volume (volatility) in the first full trading day after a trading halt is 230 percent (50 to 115 percent) higher than following \u201cpseudohalts\u201d: nonhalt control periods matched on time of day, duration, and absolute net\u2010of\u2010market returns. These results are robust over different halt types and news categories. Higher posthalt volume is observed into the third day while higher posthalt volatility decays within hours. The extent of media coverage is a partial determinant of volume and volatility following both halts and pseudohalts, but a separate halt effect remains after controlling for the media effect.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04425.x"
+        },
+        {
+            "no": "11",
+            "title": "The Value of Wildcard Options",
+            "date": "March 1994",
+            "author": [
+                "JEFF FLEMING",
+                "ROBERT E. WHALEY"
+            ],
+            "abstract": "Wildcard options are embedded in many derivative contracts. They arise when the settlement price of the contract is established before the time at which the wildcard option holder must declare his intention to make or accept delivery and the exercise of the wildcard option closes out the underlying asset position. This paper provides a simple method for valuing wildcard options and illustrates the technique by valuing the sequence of wildcard options embedded in the S&P 100 index (OEX) option contract. The results show that wildcard options can account for an economically significant fraction of OEX option value.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04426.x"
+        },
+        {
+            "no": "12",
+            "title": "Circuit Breakers and Market Volatility: A Theoretical Perspective",
+            "date": "March 1994",
+            "author": [
+                "AVANIDHAR SUBRAHMANYAM"
+            ],
+            "abstract": "This paper examines ex ante effects of circuit breakers (mandated trading halts). We show that circuit breakers, by causing agents to suboptimally advance trades in time, may have the perverse effect of increasing price variability and exacerbating price movements. We next consider a situation in which a circuit breaker causes trading to be halted in both a dominant (more liquid) and a satellite market. As agents switch from the dominant market to the satellite market, price variability and market liquidity decline on the dominant market and increase on the satellite market.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04427.x"
+        },
+        {
+            "no": "13",
+            "title": "Stock Returns following Large One\u2010Day Declines: Evidence on Short\u2010Term Reversals and Longer\u2010Term Performance",
+            "date": "March 1994",
+            "author": [
+                "DON R. COX",
+                "DAVID R. PETERSON"
+            ],
+            "abstract": "We examine stock returns following large one\u2010day price declines and find that the bid\u2010ask bounce and the degree of market liquidity explain short\u2010term price reversals. Further, we do not find evidence consistent with the overreaction hypothesis. We observe that securities with large one\u2010day price declines perform poorly over an extended time horizon.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04428.x"
+        },
+        {
+            "no": "14",
+            "title": "Market Efficiency and the Favorite\u2010Longshot Bias: The Baseball Betting Market",
+            "date": "March 1994",
+            "author": [
+                "LINDA M. WOODLAND",
+                "BILL M. WOODLAND"
+            ],
+            "abstract": "This paper examines the efficiency of the legal gambling market for major league baseball. Weak\u2010form tests of market efficiency within and across odds lines are performed. Surprisingly, the consistently observed favorite\u2010longshot bias in racetrack betting is shown to exist in reverse for baseball bettors. However, these and other deviations from efficiency are shown to be insufficient to allow for profitable betting strategies when commissions are considered.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04429.x"
+        },
+        {
+            "no": "15",
+            "title": "The Effect of Dividend Changes on Stock and Bond Prices",
+            "date": "March 1994",
+            "author": [
+                "UPINDER S. DHILLON",
+                "HERB JOHNSON"
+            ],
+            "abstract": "This study examines stock and bond price reactions to dividend changes. The positive stock market response to dividend increases has several potential explanations, two of the more commonly discussed being information content and wealth redistribution between stockholders and bondholders. The evidence presented supports the wealth redistribution hypothesis but does not rule out the information content hypothesis. Typically we find that the bond price reaction to announcements of large dividend changes is opposite to the stock price reaction. Our results differ from those of Handjinicolaou and Kalay.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04430.x"
+        },
+        {
+            "no": "16",
+            "title": "Trading Profits in Dutch Auction Self\u2010Tender Offers",
+            "date": "March 1994",
+            "author": [
+                "PALANI\u2010RAJAN KADAPAKKAM",
+                "SARABJEET SETH"
+            ],
+            "abstract": "We document abnormal trading profits in Dutch auction self\u2010tenders. Tender period profits\u2014buying after announcement and selling just before expiration\u2014are 1.74 percent (Bhagat, Brickley, and Lowenstein (1987) report similar profits for interfirm tenders). Buying just before expiration and tendering yields abnormal profits of 1.36 percent (Lakonishok and Vermaelen (1990) report 9 percent for fixed\u2010price self\u2010tenders using a filter rule). Total profits from buying just after announcement and tendering remain positive after adjusting for bid\u2010ask spreads. Trading profits are higher for smaller firms, and positively correlated with tender period unsystematic risk, suggesting that they arise due to the pricing of event risk.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04431.x"
+        },
+        {
+            "no": "17",
+            "title": "Holiday Trading in Futures Markets",
+            "date": "March 1994",
+            "author": [
+                "FRANK J. FABOZZI",
+                "CHRISTOPHER K. MA",
+                "JAMES E. BRILEY"
+            ],
+            "abstract": "In this paper, we find significantly higher preholiday returns in futures contracts compared to nonholiday returns. The findings are consistent with the inventory adjustment hypothesis, since higher preholiday returns associated with lower trading volume are most pronounced for exchange\u2010closed holidays. There is evidence of positive postholiday returns associated with higher trading volume for exchange\u2010open holidays. This is consistent with positive holiday sentiments. The holiday effect is uniquely independent: The magnitude of excess holiday returns is the largest among all seasonal variations.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04432.x"
+        },
+        {
+            "no": "18",
+            "title": "The Interaction between Nonexpected Utility and Asymmetric Market Fundamentals",
+            "date": "March 1994",
+            "author": [
+                "MAO\u2010WEI HUNG"
+            ],
+            "abstract": "This paper studies a nonexpected utility, general equilibrium asset pricing model in which market fundamentals follow a bivariate Markov switching process. The results show that nonexpected utility is capable of exactly matching the means of the risk\u2010free rate and the risk premium. Asymmetric market fundamentals are capable of generating a negative sample correlation between the risk\u2010free rate and the risk premium. Moreover, an equilibrium asset pricing model endowed with asymmetric market fundamentals is consistent with all five first and second moments of the risk\u2010free rate and the risk premium in the U.S. data.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04433.x"
+        },
+        {
+            "no": "19",
+            "title": "Parameter\u2010based Decision Making under Estimation Risk: An Application to Futures Trading",
+            "date": "March 1994",
+            "author": [
+                "SERGIO H. LENCE",
+                "DERMOT J. HAYES"
+            ],
+            "abstract": "This study shows how the standard portfolio model of futures trading should be modified when there is less than perfect information about the relevant parameters (estimation risk). The standard and the optimal decision rules for futures trading in the presence of estimation risk are compared and discussed. An operational model of futures trading for use under estimation risk is advanced. In the presence of relevant prior and sample information, the model can be used to optimally blend both types of information.",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04434.x"
+        },
+        {
+            "no": "20",
+            "title": "Book Reviews",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "Investment Mathematics and Statistics. By ANDREW ADAMS, DELLA BLOOMFIELD, PHILIP BOOTH, and PETER ENGLAND\nPortfolio Management: New Models for Successful Investment Decisions. By C. KENNETH JONES\nCorporate Liquidity: Management and Measurement. By JARL G. KALL\u2010BERG and KENNETH L. PARKINSON\nStock Index Futures: Theories and International Evidence. By CHARLES M. S. SUTCLIFFE",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04435.x"
+        },
+        {
+            "no": "21",
+            "title": "MISCELLANEA",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04436.x"
+        },
+        {
+            "no": "22",
+            "title": "ASSOCIATION MEETINGS",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04415.x"
+        },
+        {
+            "no": "23",
+            "title": "ANNOUNCEMENTS",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb04416.x"
+        },
+        {
+            "no": "24",
+            "title": "Back Matter",
+            "date": "March 1994",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/j.1540-6261.1994.tb00661.x"
+        }
+    ]
+}

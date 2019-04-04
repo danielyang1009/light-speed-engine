@@ -5,7 +5,7 @@
 ## 1. Editorial data
 ### Date
 - Dec 1997
-### Authors
+### Author
 - G. William Schwert
 ### Abstract
 
@@ -15,7 +15,7 @@
 ## 2. Transactions costs and investment style: an inter-exchange analysis of institutional equity trades
 ### Date
 - Dec 1997
-### Authors
+### Author
 - Donald B. Keim
 - Ananth Madhavan
 ### Abstract
@@ -26,7 +26,7 @@ This paper examines the magnitude and determinants of transactions costs for a s
 ## 3. A cross-exchange comparison of execution costs and information flow for NYSE-listed stocks
 ### Date
 - Dec 1997
-### Authors
+### Author
 - Hendrik Bessembinder
 - Herbert M. Kaufman
 ### Abstract
@@ -37,7 +37,7 @@ We examine execution costs for trades in NYSE issues completed on the NYSE, the 
 ## 4. Board structure and fee-setting in the U.S. mutual fund industry
 ### Date
 - Dec 1997
-### Authors
+### Author
 - Peter Tufano
 - Matthew Sevick
 ### Abstract
@@ -48,7 +48,7 @@ This study uses a new database to describe the composition and compensation of b
 ## 5. A multibeta representation theorem for linear asset pricing theories
 ### Date
 - Dec 1997
-### Authors
+### Author
 - Sanjay K. Nawalkha
 ### Abstract
 This paper derives a multibeta representation theorem for pricing assets using arbitrary reference variables that are not necessarily the true factors. Under this theorem, the upper bound on pricing deviations depends upon the correlations not only between the reference variables and the factors but also between the reference variables and the residual risks. A new concept of a well-diversified variable is introduced, which though free of residual risk, may be less than perfectly correlated with the true factors. Welldiversified variables correlated with the factors play a key role in the pricing of assets, since these variables can replace the factors without any loss in pricing accuracy under all linear asset pricing theories.
@@ -58,7 +58,7 @@ This paper derives a multibeta representation theorem for pricing assets using a
 ## 6. Bounds on contingent claims based on several assets
 ### Date
 - Dec 1997
-### Authors
+### Author
 - Phelim P. Boyle
 - X. Sheldon Lin
 ### Abstract
@@ -69,7 +69,7 @@ In 1987, Lo derived an upper bound on the price of a European call option on a s
 ## 7. Index
 ### Date
 - Dec 1997
-### Authors
+### Author
 ### Abstract
 
 ### Link
