@@ -1,19 +1,18 @@
 # Light Speed Engine
 
 - Supporting sites:
-  - [x] [MS](https://pubsonline.informs.org/journal/mnsc)
-  - [x] [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
-  - [x] [JF](https://onlinelibrary.wiley.com/loi/15406261)
+  - [MS](https://pubsonline.informs.org/journal/mnsc)
+  - [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
+  - [JF](https://onlinelibrary.wiley.com/loi/15406261)
   - [RFS](https://academic.oup.com/rfs/issue)
 
 ## TODO
 
 - JFE Issue 20 problem [link](https://www.sciencedirect.com/journal/journal-of-financial-economics/vol/20/suppl/C)
-- Add support to more sites
-  - [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/all-issues)
-    - click view all
-    - save source code only html
-    - PROBLEM! cloudflare protection
+- [JFQA](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/all-issues)
+  - click view all
+  - save source code only html
+  - PROBLEM! cloudflare protection
 
 ### Future Function(s):
 
