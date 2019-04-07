@@ -1,16 +1,11 @@
 # Light Speed Engine
 
-- Folder
-  - [MS](/MS)
-  - [JFE](/JFE/)
-  - [JF](/JF)
-  - [RFS](/RFS)
+## Supporting sites:
 
-- Supporting sites:
-  - [MS](https://pubsonline.informs.org/journal/mnsc)
-  - [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
-  - [JF](https://onlinelibrary.wiley.com/loi/15406261)
-  - [RFS](https://academic.oup.com/rfs/issue)
+  - [MS](/MS) - [site](https://pubsonline.informs.org/journal/mnsc)
+  - [JFE](/JFE/) - [site](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
+  - [JF](/JF) - [site](https://onlinelibrary.wiley.com/loi/15406261)
+  - [RFS](/RFS) - [site](https://academic.oup.com/rfs/issue)
 
 ## TODO
 
