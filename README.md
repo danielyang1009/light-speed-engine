@@ -1,5 +1,11 @@
 # Light Speed Engine
 
+- Folder
+  - [MS](/MS)
+  - [JFE](/JFE/)
+  - [JF](/JF)
+  - [RFS](/RFS)
+
 - Supporting sites:
   - [MS](https://pubsonline.informs.org/journal/mnsc)
   - [JFE](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues)
@@ -50,14 +56,15 @@
         "1": {
             "date":"",
             "page":"",
-            "link":"http://1"
+            "link":"http://"
         }
     }
 }
 ```
 
 ```python
-issuelink['vol_num']['iss_num']
+# how to access link
+issuelink['vol_num']['iss_num']['link']
 ```
 
 
