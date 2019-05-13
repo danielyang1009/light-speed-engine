@@ -1,0 +1,173 @@
+{
+    "journal": "JF",
+    "volume": "74",
+    "issue": "3",
+    "date": "June 2019",
+    "page": "Pages: 1083-1581",
+    "article": [
+        {
+            "no": "1",
+            "title": "ISSUE INFORMATION FM",
+            "date": "10 May 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12634"
+        },
+        {
+            "no": "2",
+            "title": "G. William Schwert",
+            "date": "10 May 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12774"
+        },
+        {
+            "no": "3",
+            "title": "High\u2010Frequency Trading around Large Institutional Orders",
+            "date": "14 February 2019",
+            "author": [
+                "VINCENT VAN KERVEL",
+                "ALBERT J. MENKVELD"
+            ],
+            "abstract": "Liquidity suppliers lean against the wind. We analyze whether high\u2010frequency traders (HFTs) lean against large institutional orders that execute through a series of child orders. The alternative is HFTs trading with the wind, that is, in the same direction. We find that HFTs initially lean against these orders but eventually change direction and take positions in the same direction for the most informed institutional orders. Our empirical findings are consistent with investors trading strategically on their information. When deciding trade intensity, they seem to trade off higher speculative profits against higher risk of being detected and preyed on by\u00a0HFTs.",
+            "link": "https://doi.org/10.1111/jofi.12759"
+        },
+        {
+            "no": "4",
+            "title": "Liquidity Risk and the Dynamics of Arbitrage Capital",
+            "date": "10 February 2019",
+            "author": [
+                "P\u00c9TER KONDOR",
+                "DIMITRI VAYANOS"
+            ],
+            "abstract": "We develop a continuous\u2010time model of liquidity provision in which hedgers can trade multiple risky assets with arbitrageurs. Arbitrageurs have constant relative risk\u2010aversion (CRRA) utility, while hedgers' asset demand is independent of wealth. An increase in hedgers' risk aversion can make arbitrageurs endogenously more risk\u2010averse. Because arbitrageurs generate endogenous risk, an increase in their wealth or a reduction in their CRRA coefficient can raise risk premia despite Sharpe ratios declining. Arbitrageur wealth is a priced risk factor because assets held by arbitrageurs offer high expected returns but suffer the most when wealth drops. Aggregate illiquidity, which declines in wealth, captures that\u00a0factor.",
+            "link": "https://doi.org/10.1111/jofi.12757"
+        },
+        {
+            "no": "5",
+            "title": "Employee Stock Option Exercise and Firm Cost",
+            "date": "16 December 2018",
+            "author": [
+                "JENNIFER N. CARPENTER",
+                "RICHARD STANTON",
+                "NANCY WALLACE"
+            ],
+            "abstract": "We develop an empirical model of employee stock option exercise that is suitable for valuation and allows for behavioral channels. We estimate exercise rates as functions of option, stock, and employee characteristics using all employee exercises at 88 public firms, 27 of them in the S&P 500. Increasing vesting frequency from annual to monthly reduces option value by 11% to 16%. Men exercise faster, reducing value by 2% to 4%, while top employees exercise slower, increasing value by 2% to 7%. Finally, we develop an analytic valuation approximation that is more accurate than methods used in practice.",
+            "link": "https://doi.org/10.1111/jofi.12752"
+        },
+        {
+            "no": "6",
+            "title": "Brokers versus Retail Investors: Conflicting Interests and Dominated Products",
+            "date": "20 February 2019",
+            "author": [
+                "MARK EGAN"
+            ],
+            "abstract": "I study how brokers distort household investment decisions. Using a novel convertible bond data set, I find that consumers often purchase dominated bonds\u2014cheap and expensive otherwise\u2010identical bonds coexist in the market. Brokers are incentivized to sell the dominated bonds, typically earning two times greater fees for selling them. I develop and estimate a broker\u2010intermediated search model that rationalizes this behavior. The estimates indicate that costly search is a key friction in financial markets, but the effects of search costs are compounded when brokers are incentivized to direct the search of consumers toward high\u2010fee inferior products.",
+            "link": "https://doi.org/10.1111/jofi.12763"
+        },
+        {
+            "no": "7",
+            "title": "Venture Capital and Capital Allocation",
+            "date": "13 February 2019",
+            "author": [
+                "GIORGIA PIACENTINO"
+            ],
+            "abstract": "I show that venture capitalists' motivation to build reputation can have beneficial effects in the primary market, mitigating information frictions and helping firms go public. Because uninformed reputation\u2010motivated venture capitalists want to appear informed, they are biased against backing firms\u2014by not backing firms, they avoid taking low\u2010value firms to market, which would ultimately reveal their lack of information. In equilibrium, reputation\u2010motivated venture capitalists back relatively few bad firms, creating a certification effect that mitigates information frictions. However, they also back relatively few good firms, and thus, reputation motivation decreases welfare when good firms are abundant or\u00a0profitable.",
+            "link": "https://doi.org/10.1111/jofi.12756"
+        },
+        {
+            "no": "8",
+            "title": "Trade Network Centrality and Currency Risk Premia",
+            "date": "04 February 2019",
+            "author": [
+                "ROBERT J. RICHMOND"
+            ],
+            "abstract": "I uncover an economic source of exposure to global risk that\u00a0drives international asset prices. Countries that are more central in\u00a0the global trade network have lower interest rates and currency\u00a0risk premia. To explain these findings, I present a general\u00a0equilibrium model in which central countries' consumption growth is more exposed\u00a0to global consumption growth shocks. This causes the currencies\u00a0of central countries to appreciate in bad times, resulting in\u00a0lower interest rates and currency risk premia. Empirically,\u00a0central countries' consumption growth covaries more with world\u00a0consumption growth, further validating the proposed\u00a0mechanism.",
+            "link": "https://doi.org/10.1111/jofi.12755"
+        },
+        {
+            "no": "9",
+            "title": "Optimal Contracting, Corporate Finance, and Valuation with Inalienable Human Capital",
+            "date": "20 February 2019",
+            "author": [
+                "PATRICK BOLTON",
+                "NENG WANG",
+                "JINQIANG YANG"
+            ],
+            "abstract": "A risk\u2010averse entrepreneur with access to a profitable venture needs\u00a0to raise funds from investors. She cannot indefinitely commit her human\u00a0capital to the venture, which limits the firm's debt capacity, distorts\u00a0investment and compensation, and constrains the entrepreneur's risk sharing. This\u00a0puts dynamic liquidity and state\u2010contingent risk allocation at the center\u00a0of corporate financial management. The firm balances mean\u2010variance\u00a0investment efficiency and the preservation of financial slack. We show that in\u00a0general the entrepreneur's net worth is overexposed to idiosyncratic risk\u00a0and underexposed to systematic risk. These distortions are greater the\u00a0closer the firm is to exhausting its debt\u00a0capacity.",
+            "link": "https://doi.org/10.1111/jofi.12761"
+        },
+        {
+            "no": "10",
+            "title": "Leverage and the Cross\u2010Section of Equity Returns",
+            "date": "11 February 2019",
+            "author": [
+                "HITESH DOSHI",
+                "KRIS JACOBS",
+                "PRAVEEN KUMAR",
+                "RAMON RABINOVITCH"
+            ],
+            "abstract": "Building on theoretical asset pricing literature, we examine the role\u00a0of market risk and the size, book\u2010to\u2010market (BTM), and volatility anomalies\u00a0in the cross\u2010section of unlevered equity returns. Compared with levered (stock) returns, unlevered market beta plays a more important role in explaining\u00a0the cross\u2010section of unlevered equity returns, even after controlling for size\u00a0and BTM. The size effect is weakened, while the value premium and the\u00a0volatility puzzle virtually disappear for unlevered returns. We show that\u00a0leverage induces heteroskedasticity in returns. Unlevering returns removes\u00a0this pattern, which is otherwise difficult to address by controlling for\u00a0leverage in\u00a0regressions.",
+            "link": "https://doi.org/10.1111/jofi.12758"
+        },
+        {
+            "no": "11",
+            "title": "Household Debt Overhang and Unemployment",
+            "date": "15 February 2019",
+            "author": [
+                "JASON RODERICK DONALDSON",
+                "GIORGIA PIACENTINO",
+                "ANJAN THAKOR"
+            ],
+            "abstract": "We use a labor\u2010search model to explain why the worst employment slumps often follow expansions of household\u00a0debt. We find that households protected by limited liability suffer from a household\u2010debt\u2010overhang problem that leads them to require high wages to work. Firms respond by posting high wages but few vacancies. This vacancy posting effect implies that high household debt leads to high unemployment. Even though households borrow from banks via bilaterally optimal contracts, the equilibrium level of household debt is inefficiently high due to a household\u2010debt externality. We analyze the role that a financial regulator can play in mitigating this\u00a0externality.",
+            "link": "https://doi.org/10.1111/jofi.12760"
+        },
+        {
+            "no": "12",
+            "title": "Financial Markets, the Real Economy, and Self\u2010Fulfilling Uncertainties",
+            "date": "17 February 2019",
+            "author": [
+                "JESS BENHABIB",
+                "XUEWEN LIU",
+                "PENGFEI WANG"
+            ],
+            "abstract": "We develop a model of informational\u00a0interdependence between financial markets and the real economy, linking economic\u00a0uncertainty to information production and aggregate economic activities in general equilibrium. The mutual learning between financial markets and the real economy creates\u00a0a strategic complementarity in their information production, leading\u00a0to self\u2010fulfilling surges in economic uncertainties. In a dynamic setting,\u00a0our model characterizes self\u2010fulfilling uncertainty traps with two\u00a0steady\u2010state equilibria and a two\u2010stage economic crisis in transitional\u00a0dynamics.",
+            "link": "https://doi.org/10.1111/jofi.12764"
+        },
+        {
+            "no": "13",
+            "title": "On Equilibrium When Contingent Capital Has a Market Trigger: A Correction to Sundaresan and Wang Journal of Finance (2015)",
+            "date": "18 February 2019",
+            "author": [
+                "GEORGE PENNACCHI",
+                "ALEXEI TCHISTYI"
+            ],
+            "abstract": "This paper identifies an error in Sundaresan and Wang (2015, hereafter SW) that invalidates its Theorem 1. The paper develops a model of contingent capital (CC) with a stock price trigger that is consistent with SW's framework and yields closed\u2010form solutions for stock and CC prices. Yet, the model shows that unique stock price equilibria exist for a broader range of CC contractual terms than those required by SW. Specifically, when conversion terms benefit CC investors and penalize shareholders, a unique equilibrium can exist rather than the multiple equilibria stated in\u00a0SW.",
+            "link": "https://doi.org/10.1111/jofi.12762"
+        },
+        {
+            "no": "14",
+            "title": "MISCELLANEA",
+            "date": "10 May 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12631"
+        },
+        {
+            "no": "15",
+            "title": "ANNOUNCEMENTS",
+            "date": "10 May 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12632"
+        },
+        {
+            "no": "16",
+            "title": "ISSUE INFORMATION BM",
+            "date": "10 May 2019",
+            "author": [],
+            "abstract": "",
+            "link": "https://doi.org/10.1111/jofi.12635"
+        }
+    ]
+}

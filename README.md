@@ -4,7 +4,7 @@
 
 |   Journal    |                                       Website                                       |    Latest Issue     |
 | :----------: | :---------------------------------------------------------------------------------: | ------------------: |
-|  [JF](/JF)   |                [site](https://onlinelibrary.wiley.com/loi/15406261)                 |  Volume 74, Issue 2 |
+|  [JF](/JF)   |                [site](https://onlinelibrary.wiley.com/loi/15406261)                 |  Volume 74, Issue 3 |
 | [JFE](/JFE/) | [site](https://www.sciencedirect.com/journal/journal-of-financial-economics/issues) | Volume 132, Issue 2 |
 | [RFS](/RFS)  |                     [site](https://academic.oup.com/rfs/issue)                      |  Volume 32, Issue 5 |
 |  [MS](/MS)   |                 [site](https://pubsonline.informs.org/journal/mnsc)                 |  Volume 64, Issue 4 |
