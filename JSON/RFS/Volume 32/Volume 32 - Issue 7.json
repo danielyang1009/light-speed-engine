@@ -1,0 +1,127 @@
+{
+    "journal": "RFS",
+    "volume": "32",
+    "issue": "7",
+    "date": "July 2019",
+    "page": "Pages 2499\u20132919",
+    "article": [
+        {
+            "no": "1",
+            "title": "Shock Propagation and Banking Structure",
+            "date": "13 December 2018",
+            "author": [
+                "Mariassunta Giannetti",
+                "Farzad Saidi"
+            ],
+            "abstract": "We explore whether lenders\u2019 decisions to provide liquidity in periods of distress are affected by the extent to which they internalize the negative spillovers of industry downturns. We conjecture that high-market-share lenders are more likely to internalize negative spillovers and show that they provide liquidity to industries in distress when fire sales are likely to ensue. High-market-share lenders also provide liquidity to customers and suppliers of distressed industries when the disruption of supply chains is expected to be costly. Our results suggest a novel channel to explain why credit concentration may favor financial stability.",
+            "link": "https://doi.org/10.1093/rfs/hhy135"
+        },
+        {
+            "no": "2",
+            "title": "The Agglomeration of Bankruptcy",
+            "date": "19 November 2018",
+            "author": [
+                "Efraim Benmelech",
+                "Nittai Bergman",
+                "Anna Milanez",
+                "Vladimir Mukharlyamov"
+            ],
+            "abstract": "This paper identifies a new channel through which bankrupt firms undergoing liquidation impose negative externalities on their nonbankrupt peers. The liquidation of a retail chain weakens the economies of agglomeration in any given local area, reducing the attractiveness of retail centers for remaining stores and leading to contagion of financial distress. We find that firms with greater geographic exposure to bankrupt retailers are more likely to close stores in affected areas. We further show that the effect of these externalities on nonbankrupt peers is higher when affected stores are smaller and are operated by firms in financial distress.",
+            "link": "https://doi.org/10.1093/rfs/hhy114"
+        },
+        {
+            "no": "3",
+            "title": "Anticollusion Enforcement: Justice for Consumers and Equity for Firms",
+            "date": "25 August 2018",
+            "author": [
+                "Sudipto Dasgupta",
+                "Alminas \u017daldokas"
+            ],
+            "abstract": "We consider the case of changing competition that comes from stronger antitrust enforcement around the world to show that, as the equilibrium switches from collusion to oligopolistic competition, firms step up investment and increase equity issuance. As a result, debt ratios fall. These results imply the importance of financial flexibility in surviving competitive threats. Our identification relies on a difference-in-differences estimation based on the staggered passage of leniency programs in 63 countries around the world from 1990 to 2012.",
+            "link": "https://doi.org/10.1093/rfs/hhy094"
+        },
+        {
+            "no": "4",
+            "title": "Noisy Stock Prices and Corporate Investment",
+            "date": "20 November 2018",
+            "author": [
+                "Olivier Dessaint",
+                "Thierry Foucault",
+                "Laurent Fr\u00e9sard",
+                "Adrien Matray"
+            ],
+            "abstract": "Firms significantly reduce their investment in response to nonfundamental drops in the stock price of their product-market peers. We argue that this results stems from managers\u2019 limited ability to filter out the noise in the stock prices when using them as signals about their investment opportunities. Ensuing losses of capital investment and shareholders\u2019 wealth are economically large and even affect firms not facing severe financing constraints or agency problems. Our findings offer a novel perspective on how stock market inefficiencies can affect the real economy, even in the absence of financing or agency frictions.",
+            "link": "https://doi.org/10.1093/rfs/hhy115"
+        },
+        {
+            "no": "5",
+            "title": "Governance Under Common Ownership",
+            "date": "22 September 2018",
+            "author": [
+                "Alex Edmans",
+                "Doron Levit",
+                "Devin Reilly"
+            ],
+            "abstract": "Conventional wisdom is that diversification weakens governance by spreading investors too thinly. We show that, when investors own multiple firms (\u201ccommon ownership\u201d), governance through both voice and exit can strengthen\u2014even if the firms are in unrelated industries. Under common ownership, informed investors have flexibility over which assets to sell upon a liquidity shock. They sell low-quality firms first, thereby increasing price informativeness. In a voice model, investors\u2019 incentives to monitor are stronger since \u201ccutting and running\u201d is less profitable. In an exit model, managers\u2019 incentives to work are stronger since the price impact of investor selling is greater.",
+            "link": "https://doi.org/10.1093/rfs/hhy108"
+        },
+        {
+            "no": "6",
+            "title": "Standing on the Shoulders of Giants: The Effect of Passive Investors on Activism",
+            "date": "22 September 2018",
+            "author": [
+                "Ian R Appel",
+                "Todd A Gormley",
+                "Donald B Keim"
+            ],
+            "abstract": "We analyze whether the growing importance of passive investors has influenced the campaigns, tactics, and successes of activists. We find activists are more likely to seek board representation when a larger share of the target company\u2019s stock is held by passively managed mutual funds. Furthermore, higher passive ownership is associated with increased use of proxy fights, settlements, and a higher likelihood the activist achieves board representation or the sale of the targeted company. Our findings suggest that the recent growth of passive institutional investors mitigates free-rider problems and facilitates activists\u2019 ability to engage in costly, value-enhancing forms of monitoring.",
+            "link": "https://doi.org/10.1093/rfs/hhy106"
+        },
+        {
+            "no": "7",
+            "title": "Soft Shareholder Activism",
+            "date": "19 November 2018",
+            "author": [
+                "Doron Levit"
+            ],
+            "abstract": "This paper studies communications between investors and firms as a form of corporate governance. Activist investors cannot force their ideas on companies; they must persuade the board or other shareholders that implementing these ideas is beneficial to the firm. I show that the threat of voice (i.e., launching a public campaign) facilitates communication, whereas the option to exit facilitates communication if and only if the proposal is risky relative to the status quo or voice is ineffective as a governance mechanism. The analysis identifies factors that contribute to successful dialogues between investors and firms.",
+            "link": "https://doi.org/10.1093/rfs/hhy119"
+        },
+        {
+            "no": "8",
+            "title": "Asset Pricing with Persistence Risk",
+            "date": "16 November 2018",
+            "author": [
+                "Daniel Andrei",
+                "Michael Hasler",
+                "Alexandre Jeanneret"
+            ],
+            "abstract": "Persistence risk is an endogenous source of risk that arises when a rational agent learns about the length of business cycles. Persistence risk is positive during recessions and negative during expansions. This asymmetry, which solely results from learning about persistence, causes expected returns, return volatility, and the price of risk to rise during recessions. Persistence risk predicts future excess returns, particularly at 3- to 7-year horizons. Its predictability is strongest around business-cycle peaks and troughs. We confirm the model\u2019s predictions in the data and provide evidence that persistence risk is priced in financial markets.",
+            "link": "https://doi.org/10.1093/rfs/hhy121"
+        },
+        {
+            "no": "9",
+            "title": "Resurrecting the Size Effect: Firm Size, Profitability Shocks, and Expected Stock Returns",
+            "date": "17 September 2018",
+            "author": [
+                "Kewei Hou",
+                "Mathijs A van Dijk",
+                "Laura Starks"
+            ],
+            "abstract": "Many studies report that the size effect in the cross-section of stock returns disappeared after the early 1980s. This paper shows that its disappearance can be attributed to negative shocks to the profitability of small firms and positive shocks to big firms. After adjusting for the price impact of profitability shocks, we find a robust size effect in the cross-section of expected returns after the early 1980s. Our results highlight the importance of in-sample cash-flow shocks in understanding cross-sectional return predictability.",
+            "link": "https://doi.org/10.1093/rfs/hhy104"
+        },
+        {
+            "no": "10",
+            "title": "Approaching Mean-Variance Efficiency for Large Portfolios",
+            "date": "22 September 2018",
+            "author": [
+                "Mengmeng Ao",
+                "Li Yingying",
+                "Xinghua Zheng"
+            ],
+            "abstract": "This paper introduces a new approach to constructing optimal mean-variance portfolios. The approach relies on a novel unconstrained regression representation of the mean-variance optimization problem combined with high-dimensional sparse-regression methods. Our estimated portfolio, under a mild sparsity assumption, controls for risk and attains the maximum expected return as both the numbers of assets and observations grow. The superior properties of our approach are demonstrated through comprehensive simulation and empirical analysis. Notably, using our strategy, we find that investing in individual stocks, in addition to the Fama-French three-factor portfolios, leads to substantially improved performance.",
+            "link": "https://doi.org/10.1093/rfs/hhy105"
+        }
+    ]
+}
